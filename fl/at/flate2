@@ -1,0 +1,1 @@
+{"name":"flate2","vers":"0.0.1","deps":[{"name":"miniz-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"ecc9920aeb2a22d2d279a1a57ce104d32ec1ac6948d9dd9f6e63dac1bd8b12eb","features":{},"yanked":false}
