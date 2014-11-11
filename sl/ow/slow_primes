@@ -1,0 +1,1 @@
+{"name":"slow_primes","vers":"0.1.0","deps":[{"name":"num","req":">= 0.0.0","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"5d116b913cbd17a8606fe88e367b60df003bcb0ee4ed49ad0f8a347b7377debe","features":{},"yanked":false}
