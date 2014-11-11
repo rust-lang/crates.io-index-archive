@@ -1,0 +1,1 @@
+{"name":"libz-sys","vers":"0.0.1","deps":[{"name":"pkg-config","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"a88284e928570291e6d1d53f528d3c48cddd07ab81f267bfcc974e221cb5499f","features":{},"yanked":false}
