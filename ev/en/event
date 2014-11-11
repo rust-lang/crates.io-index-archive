@@ -1,0 +1,1 @@
+{"name":"event","vers":"0.0.1","deps":[{"name":"typemap","req":">= 0.0.0","features":[""],"optional":false,"default_features":true,"target":null},{"name":"unsafe-any","req":">= 0.0.0","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"0a8296f2d0d8e46a9dc0298a61a318fba5cd04e4d258c5984da5092ad8d866eb","features":{},"yanked":false}
