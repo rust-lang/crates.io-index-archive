@@ -1,0 +1,1 @@
+{"name":"openssl-sys","vers":"0.0.1","deps":[{"name":"pkg-config","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"6cb87d40f684b4bdfef5344fa4c26622187da025996852de22c0a428765c69b9","features":{},"yanked":false}
