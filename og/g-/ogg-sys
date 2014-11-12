@@ -1,0 +1,1 @@
+{"name":"ogg-sys","vers":"0.0.1","deps":[{"name":"pkg-config","req":"*","features":[""],"optional":false,"default_features":true,"target":null},{"name":"gcc","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"c10b934e5accb25b3e8bb144b99d3485980762f5abbe9952f07fe843600fc9f7","features":{},"yanked":false}
