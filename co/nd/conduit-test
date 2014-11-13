@@ -1,0 +1,1 @@
+{"name":"conduit-test","vers":"0.5.0","deps":[{"name":"conduit","req":"*","features":[""],"optional":false,"default_features":true,"target":null},{"name":"semver","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"bbc29623a40796ddb74e317b87afc3617eb1c054f5d9b1b8088e31ebec128bb3","features":{},"yanked":false}
