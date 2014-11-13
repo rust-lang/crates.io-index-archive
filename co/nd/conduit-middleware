@@ -1,0 +1,1 @@
+{"name":"conduit-middleware","vers":"0.5.0","deps":[{"name":"conduit","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"e78e17659e165c26a641ba1363eb3024e77eee69fb1c9df005f31e38fca33280","features":{},"yanked":false}
