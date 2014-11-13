@@ -1,0 +1,1 @@
+{"name":"bzip2","vers":"0.0.1","deps":[{"name":"bzip2-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"f89f42e22eb4fd4d6ec1d184349bcdef0a904f00c61481f411ce6cb79f1ca23a","features":{},"yanked":false}
