@@ -1,0 +1,1 @@
+{"name":"conduit-router","vers":"0.5.0","deps":[{"name":"route-recognizer","req":"*","features":[""],"optional":false,"default_features":true,"target":null},{"name":"conduit","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"310f6dc64c0b90880ea995e179f77516d27ac5e53195f0068b950c9e87febf78","features":{},"yanked":false}
