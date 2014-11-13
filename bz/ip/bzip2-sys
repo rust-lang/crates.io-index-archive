@@ -1,0 +1,1 @@
+{"name":"bzip2-sys","vers":"0.0.1","deps":[{"name":"gcc","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"fb434063071b3550117ea3111d8f1dd1f5a86fb98d0e3e604b895c7fd51aa0ed","features":{},"yanked":false}
