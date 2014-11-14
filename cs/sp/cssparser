@@ -1,1 +1,2 @@
 {"name":"cssparser","vers":"0.1.0","deps":[{"name":"encoding","req":"^0.2","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"529223c481943f5f50d6df78cd192d1dc3548d0a1f194bf41b2b40a9bf8f0901","features":{},"yanked":false}
+{"name":"cssparser","vers":"0.1.1","deps":[{"name":"encoding","req":"^0.2","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"834e2a19abef40d2d9ed7e281d2ca53c59763102d64f7e1ed6fd77eff656986d","features":{},"yanked":false}
