@@ -1,0 +1,1 @@
+{"name":"fftw3-sys","vers":"0.0.1","deps":[{"name":"pkg-config","req":"~0.0.1","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"615e4d57c0788e6b0f32b1326294fe9d3996b0ce28211a8bfb5e91cc8042f6b9","features":{},"yanked":false}
