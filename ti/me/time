@@ -1,1 +1,2 @@
 {"name":"time","vers":"0.0.1","deps":[{"name":"gcc","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"a623e34ae3050ff0e09f6488bb2cc5440bd7ec2b3596286683026bbd697bb447","features":{},"yanked":false}
+{"name":"time","vers":"0.0.2","deps":[{"name":"gcc","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"7057ebb19bc1b34f2e24d6bbcdc2961cd451e92fac9c9933046974e1cbaa8dcc","features":{},"yanked":false}
