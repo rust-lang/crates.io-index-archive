@@ -1,1 +1,2 @@
 {"name":"miniz-sys","vers":"0.0.1","deps":[{"name":"gcc","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"f04011526b34facbf523f4df57b3cdaebf57a2b4487f177459bfc5350c72af5e","features":{},"yanked":false}
+{"name":"miniz-sys","vers":"0.0.2","deps":[{"name":"gcc","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"22818d3df596d3a59e59ba181d6bbf024eda75ed48e3f7ec00d251fe0a9cad57","features":{},"yanked":false}
