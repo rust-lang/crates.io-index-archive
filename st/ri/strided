@@ -1,1 +1,2 @@
 {"name":"strided","vers":"0.1.0","deps":[],"cksum":"a934f7452baeed0d684e85a9cf569ebcaa15502f940889a0e7913406d776ec11","features":{},"yanked":false}
+{"name":"strided","vers":"0.2.0","deps":[{"name":"num","req":"~0.0.3","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"f79a8cab6cb917b5a386cbeb2455a761fee287d8bb10e4ae2246e8621157169c","features":{},"yanked":false}
