@@ -1,1 +1,2 @@
 {"name":"ssh2","vers":"0.0.1","deps":[{"name":"libssh2-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"56d6e5e1ab0c316811e30ed689bcaaa191b776f00af83b4f1af7f18cf8866d9f","features":{},"yanked":false}
+{"name":"ssh2","vers":"0.0.2","deps":[{"name":"libssh2-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"da5fc66ae81d7c9d6fe69383b3a3b62ad13dc1ab0293173da7e5a269e6672676","features":{},"yanked":false}
