@@ -1,0 +1,1 @@
+{"name":"capnp-rpc","vers":"0.0.1","deps":[{"name":"capnp","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null},{"name":"capnpc","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"53e1cf1ec56f6f856d5985b1801e3bc62ac9573ab2592f75afecd7ff44f5ba31","features":{},"yanked":false}
