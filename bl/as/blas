@@ -1,0 +1,1 @@
+{"name":"blas","vers":"0.0.1","deps":[{"name":"assert","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"1ba2e17cd52d62b7abb293e5b3e25212fa02042bb738a77fd4e6bd7c72dfc7a9","features":{},"yanked":false}
