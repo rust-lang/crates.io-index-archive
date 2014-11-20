@@ -1,0 +1,1 @@
+{"name":"probability","vers":"0.0.1","deps":[{"name":"sfunc","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null},{"name":"assert","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"fb08e1c981c741ef02d33ef0693f659755fdc8fb404939f047fbf93127780813","features":{},"yanked":false}
