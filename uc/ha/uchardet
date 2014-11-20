@@ -1,1 +1,2 @@
 {"name":"uchardet","vers":"0.0.1","deps":[{"name":"uchardet-sys","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"0b1b11b8432574f542fa818f395da2a71bd02de18e29d72f69b2a3babb16aed8","features":{},"yanked":false}
+{"name":"uchardet","vers":"0.0.2","deps":[{"name":"uchardet-sys","req":"= 0.0.2","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"be43952a17f4faa9fde98f2111951448d1f24edb254df67c231b0931316ba7e6","features":{},"yanked":false}
