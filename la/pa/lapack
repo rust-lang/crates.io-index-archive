@@ -1,0 +1,1 @@
+{"name":"lapack","vers":"0.0.1","deps":[{"name":"assert","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"48fc2b47ea2bba3d198ed8d1f81c61595eb7840fc75127a43f4b3472698689ee","features":{},"yanked":false}
