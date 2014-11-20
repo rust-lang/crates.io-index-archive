@@ -1,1 +1,2 @@
 {"name":"uchardet-sys","vers":"0.0.1","deps":[{"name":"pkg-config","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"056630eea275a7af73b9252727523ef3dc8cf5a36bfc5cf984412d4ce2b63f00","features":{},"yanked":false}
+{"name":"uchardet-sys","vers":"0.0.2","deps":[{"name":"pkg-config","req":"~0.0.1","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"785157cedc2b0c8075bfd27a47c3f72e3f3b042e9d465b2998b161ff9d873bd4","features":{},"yanked":false}
