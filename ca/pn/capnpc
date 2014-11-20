@@ -1,0 +1,1 @@
+{"name":"capnpc","vers":"0.0.1","deps":[{"name":"capnp","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"3c41eaaf23a62176b066b2f34a10455e82d5e6cfd4d6ab36e2cf48b4eacc13ac","features":{},"yanked":false}
