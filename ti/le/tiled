@@ -1,0 +1,1 @@
+{"name":"tiled","vers":"0.1.0","deps":[{"name":"flate2","req":"~0.0.3","features":[""],"optional":false,"default_features":true,"target":null},{"name":"rust-xml","req":"~0.1.1","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"0f40b6c6829314f489e386ae0eb85da1aa9fa190c4ea2c678551b4d55a2d47ee","features":{},"yanked":false}
