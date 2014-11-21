@@ -1,0 +1,1 @@
+{"name":"rusqlite","vers":"0.0.1","deps":[{"name":"time","req":"^0.0.3","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"505d0b843c72eee831fca709e48c8aaeba871bffef4dfac9c1afdfd0484399ca","features":{},"yanked":false}
