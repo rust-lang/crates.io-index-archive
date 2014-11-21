@@ -1,0 +1,1 @@
+{"name":"pop3","vers":"0.0.1","deps":[{"name":"openssl","req":"~1.0.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a05f76d5b49bd00001fe1df64c1c177d26a71446aa759535ef0ce8163753cfd","features":{},"yanked":false}
