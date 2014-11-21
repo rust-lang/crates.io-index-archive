@@ -1,0 +1,1 @@
+{"name":"ecs","vers":"0.10.0","deps":[{"name":"uuid","req":"^0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c34d40e18656be5099b99dae8e46b5e3ea95b60f6b5b2951057c9ff84c880ed4","features":{},"yanked":false}
