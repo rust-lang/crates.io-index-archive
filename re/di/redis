@@ -1,0 +1,1 @@
+{"name":"redis","vers":"0.0.1","deps":[{"name":"url","req":"*","features":[""],"optional":false,"default_features":true,"target":null},{"name":"sha1","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"0bed4892989c4a1dcf6ce1e26eba28e12e64126afe17b2a20ea3995684f54d79","features":{},"yanked":false}
