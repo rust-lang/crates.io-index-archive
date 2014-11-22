@@ -1,0 +1,1 @@
+{"name":"ncollide","vers":"0.2.0","deps":[{"name":"nalgebra","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e352752498556249ae0976a6da98fb8abe61429d37ca40ceed1078425f3be282","features":{},"yanked":false}
