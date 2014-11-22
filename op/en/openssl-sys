@@ -1,1 +1,2 @@
 {"name":"openssl-sys","vers":"0.0.1","deps":[{"name":"pkg-config","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"6cb87d40f684b4bdfef5344fa4c26622187da025996852de22c0a428765c69b9","features":{},"yanked":false}
+{"name":"openssl-sys","vers":"0.0.2","deps":[{"name":"pkg-config","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18cb2d5fec70d226764ffcf200e1ea72d48081101eb18d7f742629381c95b979","features":{"tlsv1_1":[],"aes_xts":[],"tlsv1_2":[],"sslv2":[]},"yanked":false}
