@@ -1,0 +1,1 @@
+{"name":"redlock-rs","vers":"0.2.0","deps":[{"name":"redis","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbd9e4b64e84b916085377364c8499554b4f7145c3a21fde54c2479bf413c32b","features":{},"yanked":false}
