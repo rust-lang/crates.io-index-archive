@@ -1,2 +1,3 @@
 {"name":"capnpc","vers":"0.0.1","deps":[{"name":"capnp","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"3c41eaaf23a62176b066b2f34a10455e82d5e6cfd4d6ab36e2cf48b4eacc13ac","features":{},"yanked":false}
 {"name":"capnpc","vers":"0.0.2","deps":[{"name":"capnp","req":"~0.0.2","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"b0db2302d4a470202fe1302c3c003e9ac86f1f7690bd3dc8d05021fd0ece21df","features":{},"yanked":false}
+{"name":"capnpc","vers":"0.0.3","deps":[{"name":"capnp","req":"^0.0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa36dc020f76d3c33f0f83bd96421c81c942e067e2dfb9247763af02377aaab8","features":{},"yanked":false}
