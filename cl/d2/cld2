@@ -1,1 +1,2 @@
 {"name":"cld2","vers":"0.0.0","deps":[],"cksum":"3a636138d8dccf5b1ab15d2906299641ee2fe119084a48fb665efc71cbc2018e","features":{},"yanked":true}
+{"name":"cld2","vers":"0.0.2","deps":[{"name":"cld2-sys","req":"^0.0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"108c04f8c040ade24991a991aee43c4f8e757ab81efbdff3ace8e8279259adb0","features":{},"yanked":false}
