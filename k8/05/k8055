@@ -1,0 +1,1 @@
+{"name":"k8055","vers":"0.0.1","deps":[{"name":"usb","req":"~0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ad77b94253e34e42d2913090be5b8e7e2aaf9aaadce1427a52cacec0aeb15b1","features":{},"yanked":false}
