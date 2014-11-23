@@ -1,1 +1,2 @@
 {"name":"tabwriter","vers":"0.1.1","deps":[{"name":"docopt","req":"~0.6.8","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"a556b163a3d0514f8d19d1a87db7641e309f76c742270e36e4d779435f3e099e","features":{},"yanked":false}
+{"name":"tabwriter","vers":"0.1.2","deps":[{"name":"docopt","req":"~0.6.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2eacbe9b8e0343a45b8e91b9c7dc28de2777b9ac92ab8e7288a104a94f9cc683","features":{},"yanked":false}
