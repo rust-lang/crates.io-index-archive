@@ -9,3 +9,4 @@
 {"name":"iobuf","vers":"3.1.1","deps":[],"cksum":"bc40ccd33f8685480e7bca3733f3f3ddfe8cf78622e0c3cd89179288d844f7f1","features":{},"yanked":false}
 {"name":"iobuf","vers":"3.2.0","deps":[],"cksum":"24989f30dc12caf8cc3ea157b77008bdffdb0d4987e34af32d9edeb630b4c643","features":{},"yanked":false}
 {"name":"iobuf","vers":"3.2.1","deps":[],"cksum":"7caa8389de56e96ac8bc5a1706cb7784715276ad99b4d5e24b7a467a934536d0","features":{},"yanked":false}
+{"name":"iobuf","vers":"3.2.2","deps":[],"cksum":"591ab2cae2ca556051df5387854dead15c82bfc0251041a56336a7a385bd8637","features":{},"yanked":false}
