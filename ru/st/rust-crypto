@@ -1,2 +1,3 @@
 {"name":"rust-crypto","vers":"0.1.0","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"5c55d2ce377b73edbb627f7778eb5b292eddd8c7bc4947692147a5322e4519f2","features":{},"yanked":false}
 {"name":"rust-crypto","vers":"0.1.1","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"bbe6bbd11ca393a499db63885c3efb78e7cb94fb39a078b83cee6ae41fde3528","features":{},"yanked":false}
+{"name":"rust-crypto","vers":"0.1.2","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e36a5b5ddca9bd92164b811cc7649f5db3abe5e2a2614372848c78ac17e63e5d","features":{},"yanked":false}
