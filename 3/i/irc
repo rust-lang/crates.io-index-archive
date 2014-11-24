@@ -1,2 +1,2 @@
-{"name":"irc","vers":"0.0.2","deps":[],"cksum":"be25ed98b74bb3c2fc95f83670111d8d996a34b1b96dd5b3fb93840a77ef2739","features":{},"yanked":false}
+{"name":"irc","vers":"0.0.2","deps":[],"cksum":"be25ed98b74bb3c2fc95f83670111d8d996a34b1b96dd5b3fb93840a77ef2739","features":{},"yanked":true}
 {"name":"irc","vers":"0.1.0","deps":[{"name":"openssl","req":"*","features":[""],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dab3f6dd6b3757ac4f52a2cb7e3a14a8f6595ed62f2f875db0578ba55d70186f","features":{"ssl":["openssl"]},"yanked":false}
