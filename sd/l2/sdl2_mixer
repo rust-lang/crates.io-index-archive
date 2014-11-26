@@ -1,0 +1,1 @@
+{"name":"sdl2_mixer","vers":"0.0.3","deps":[{"name":"sdl2","req":"~0.0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74f2a6950a823be21345463929409b7c5d816152271d9a6ec2abe38b66a6ec3f","features":{},"yanked":false}
