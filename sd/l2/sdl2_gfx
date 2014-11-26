@@ -1,0 +1,1 @@
+{"name":"sdl2_gfx","vers":"0.0.3","deps":[{"name":"sdl2","req":"~0.0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93b3a5fbfff8e62775860ecaadfa59d27c4b7288fb7158da19c999fbdb4828e1","features":{},"yanked":false}
