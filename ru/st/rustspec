@@ -1,0 +1,1 @@
+{"name":"rustspec","vers":"0.1.2","deps":[{"name":"rustspec_assertions","req":"~0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d2a589029980f1438a33884c3befa3a2232014d31b8c55cd36c84f5d72b8578","features":{},"yanked":false}
