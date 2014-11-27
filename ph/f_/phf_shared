@@ -1,1 +1,2 @@
 {"name":"phf_shared","vers":"0.0.1","deps":[{"name":"xxhash","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db60a8fa11256ff285a4e93681b745b2df8546cb04184d16bc0910bf554bed08","features":{},"yanked":false}
+{"name":"phf_shared","vers":"0.1.0","deps":[{"name":"xxhash","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcd4f328e484a9026c71c8fcfadb33ce699d751bdbbae12dbe3ea71d1a5b825e","features":{},"yanked":false}
