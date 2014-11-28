@@ -1,0 +1,1 @@
+{"name":"multipart","vers":"0.0.2","deps":[{"name":"hyper","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cedd00af3c3b85afac9a01cd965bdf672bdcebadbc785e2cae79dcd3457058ea","features":{},"yanked":false}
