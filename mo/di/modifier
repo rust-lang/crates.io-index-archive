@@ -1,1 +1,2 @@
 {"name":"modifier","vers":"0.0.1","deps":[{"name":"stainless","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"e735736c232b9644195f84739c2c4dfd1d270a940ec36a744568f9bdc1c9c829","features":{},"yanked":false}
+{"name":"modifier","vers":"0.0.2","deps":[{"name":"stainless","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a75b7d0dea6c7db4127fca21842cb1fe52178ca69034bd914bd99fc9f098d3a1","features":{},"yanked":false}
