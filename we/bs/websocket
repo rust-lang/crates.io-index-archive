@@ -1,1 +1,2 @@
 {"name":"websocket","vers":"0.1.0","deps":[],"cksum":"ebc006ef1cbaa7b7ebf291f56865db095db62e44f79c60f22c7bc3677c5cfcc2","features":{},"yanked":false}
+{"name":"websocket","vers":"0.2.0","deps":[{"name":"url","req":"~0.2.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae2ffa2b3239ca9ffc108ca170870ba4388e1750c1d909fcc99994be253024be","features":{},"yanked":false}
