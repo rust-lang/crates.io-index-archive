@@ -1,1 +1,2 @@
 {"name":"obj","vers":"0.0.1","deps":[{"name":"genmesh","req":"~0.0.1","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"c9ed1d8e3f280a08408a4d893b39c2b4069af04728e294fe24976322d15f58f6","features":{},"yanked":false}
+{"name":"obj","vers":"0.0.2","deps":[{"name":"genmesh","req":"~0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"649383b5cc09f5ad0d6030bc4286052bb720cdd29d6a60c531794cbf572d47e6","features":{},"yanked":false}
