@@ -1,3 +1,4 @@
 {"name":"websocket","vers":"0.1.0","deps":[],"cksum":"ebc006ef1cbaa7b7ebf291f56865db095db62e44f79c60f22c7bc3677c5cfcc2","features":{},"yanked":false}
 {"name":"websocket","vers":"0.2.0","deps":[{"name":"url","req":"~0.2.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae2ffa2b3239ca9ffc108ca170870ba4388e1750c1d909fcc99994be253024be","features":{},"yanked":false}
 {"name":"websocket","vers":"0.2.1","deps":[{"name":"url","req":"~0.2.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e11c76fde1177736cca204027671a5ee8d55180af940c9904221b6c9277da7f2","features":{},"yanked":false}
+{"name":"websocket","vers":"0.3.0","deps":[{"name":"url","req":"~0.2.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc1488555b6118a277bb17b6d3e1987dbdcc95de82e7758dbd745d2523fb78c3","features":{},"yanked":false}
