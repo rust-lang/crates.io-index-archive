@@ -1,1 +1,2 @@
 {"name":"oncemutex","vers":"0.0.1","deps":[{"name":"stainless","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"effde2086e9e37e98d5a93a3178c006c833bc85cd6f91e17aba8003c0d6ea4af","features":{},"yanked":false}
+{"name":"oncemutex","vers":"0.0.2","deps":[{"name":"stainless","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"699980941b62b99ad5c9af7cbcb36a57e84a12fa7eccd205dc69b4374952f47a","features":{},"yanked":false}
