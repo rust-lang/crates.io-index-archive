@@ -1,1 +1,2 @@
 {"name":"libressl-pnacl-sys","vers":"2.0.0","deps":[{"name":"pnacl-build-helper","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"a3061c2aea99c532934ac05df78524824670737ae0fe8d2c47cc4bb9579a8ad2","features":{},"yanked":false}
+{"name":"libressl-pnacl-sys","vers":"2.0.2","deps":[{"name":"pnacl-build-helper","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"67ecc6033cb25a0dd0189326a8317fdf883174768f716c14d46884a170632041","features":{},"yanked":false}
