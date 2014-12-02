@@ -1,1 +1,2 @@
 {"name":"quickcheck_macros","vers":"0.1.2","deps":[{"name":"quickcheck","req":"~0.1.2","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"7fa11d00edca1a6635baa569680f4e7e57d26edc2d14796a37633ba8556ddf37","features":{},"yanked":false}
+{"name":"quickcheck_macros","vers":"0.1.3","deps":[{"name":"quickcheck","req":"^0.1.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0f90f373adb7bb45b33426e5f5cc4fc061f3e72d8985482dd75fb7c26ea1fb7","features":{},"yanked":false}
