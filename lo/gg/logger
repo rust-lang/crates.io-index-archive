@@ -1,0 +1,1 @@
+{"name":"logger","vers":"0.0.1","deps":[{"name":"iron","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"481f9ef40e9334e25a89d77e6f6c5cdae62946b4f73a8fbfa868905bc82e76c6","features":{},"yanked":false}
