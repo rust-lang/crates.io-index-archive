@@ -1,1 +1,2 @@
 {"name":"queryst","vers":"0.1.0","deps":[{"name":"url","req":"~0.2.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d95d12dfaa0fcd22c2824bbd6e50eb77e987b7f3de8acf15e60a475f444d800f","features":{},"yanked":false}
+{"name":"queryst","vers":"0.1.1","deps":[{"name":"url","req":"~0.2.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63786afbd13c4a292f7f1ddb23e7b6db47ad02b16dc4e3b3cbb234ed520e479c","features":{},"yanked":false}
