@@ -2,3 +2,4 @@
 {"name":"json_macros","vers":"0.0.2","deps":[],"cksum":"c1aaa480324815c07c26858b1e8f106f41a31775cd8738a3cbc6e1cea3dea9f7","features":{},"yanked":false}
 {"name":"json_macros","vers":"0.0.2-pre","deps":[],"cksum":"6cedfb179cfb8b3351551b634bd00f0215ffe84e2057d2d16076ebdb665e210c","features":{},"yanked":true}
 {"name":"json_macros","vers":"0.0.3","deps":[],"cksum":"a1710be7f0649142e5b3a525edc1e1ac5102420cdd7e4e59cc8a4e59129bfad0","features":{},"yanked":false}
+{"name":"json_macros","vers":"0.0.4","deps":[],"cksum":"76ec6c87adc607e11262bc51058e357c53341674b2a563bffc2f602232bc77f0","features":{},"yanked":false}
