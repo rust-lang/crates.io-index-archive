@@ -1,0 +1,1 @@
+{"name":"iptrap","vers":"1.0.0","deps":[{"name":"zmq","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d2c4b6c93981e6f3e8bce31ce78dcdbfe5f567c159f50e12f5dc03da85ad80e","features":{},"yanked":false}
