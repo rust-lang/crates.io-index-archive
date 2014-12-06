@@ -1,0 +1,1 @@
+{"name":"jit","vers":"0.0.5","deps":[{"name":"libjit-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8ce2899a668997b46b40d94e63baac29bf1c7f0379ba9623cfbd70c4ec3a308","features":{},"yanked":false}
