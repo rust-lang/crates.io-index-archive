@@ -1,0 +1,1 @@
+{"name":"libjit-sys","vers":"0.1.0","deps":[{"name":"pkg-config","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4b3a0dcc7cb89a1b75463df39473e5ceb2c913d3b93308464beefc9701cd8fc9","features":{},"yanked":false}
