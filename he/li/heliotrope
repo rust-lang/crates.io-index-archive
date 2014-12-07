@@ -1,0 +1,1 @@
+{"name":"heliotrope","vers":"0.0.2","deps":[{"name":"hyper","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"url","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5bb603c837116ed3473758316d406fd51a396cc50ab792c9bc7ae4a3db25f24a","features":{},"yanked":false}
