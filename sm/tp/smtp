@@ -1,2 +1,3 @@
 {"name":"smtp","vers":"0.0.1","deps":[],"cksum":"5e3ad6ecac2934f39e212898a8c19ff232acf2ee9fb3773de4cddd2985941daa","features":{},"yanked":false}
 {"name":"smtp","vers":"0.0.2","deps":[],"cksum":"2fecff2e5b5e7f4c935fa4f4c050540ca4df9081ad176ad0cf6169388cf5fc43","features":{},"yanked":false}
+{"name":"smtp","vers":"0.0.3","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04f42415ea897c317fdcfc5028c5db01124e7b241d21345a20d0fe988772852a","features":{},"yanked":false}
