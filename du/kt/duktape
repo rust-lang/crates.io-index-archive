@@ -1,0 +1,1 @@
+{"name":"duktape","vers":"0.0.1","deps":[{"name":"duktape_sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa30e62d0b7da8578220300a1c67c1474c89ab2c63b9349aa6ea99aec88299e1","features":{},"yanked":false}
