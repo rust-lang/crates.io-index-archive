@@ -1,0 +1,1 @@
+{"name":"integer_set","vers":"0.0.1","deps":[{"name":"interval","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60b446aeaf4cdac8dea4abea0337ba11da69e18a46c13c9b6caba9a689d5dea3","features":{},"yanked":false}
