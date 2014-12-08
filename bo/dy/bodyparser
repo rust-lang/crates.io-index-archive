@@ -1,0 +1,1 @@
+{"name":"bodyparser","vers":"0.0.1","deps":[{"name":"iron","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76bd784e7c1f64f59dda92d9712eff394c1f1f607c3550295f8a7d4468a7fb32","features":{},"yanked":false}
