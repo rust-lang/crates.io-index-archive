@@ -21,3 +21,4 @@
 {"name":"iobuf","vers":"3.4.2","deps":[],"cksum":"53cccb3279c71f8deba824e3e2b60b24578c479e985a7975d1d378e751d01d84","features":{},"yanked":false}
 {"name":"iobuf","vers":"3.4.3","deps":[],"cksum":"349564356d87a77f2bf3f270765d2efcb4eeb98fd3b06bc61e15f04cecf9a8d6","features":{},"yanked":false}
 {"name":"iobuf","vers":"3.5.0","deps":[],"cksum":"f551162c121f43f317c2c777387eda7f59ed332f73adb71877f3d0673ae8afd3","features":{},"yanked":false}
+{"name":"iobuf","vers":"3.5.1","deps":[],"cksum":"5abbe8aba12613dc63cfc9493cf1a61184314e698d8e4bc7475e12f67dd99335","features":{},"yanked":false}
