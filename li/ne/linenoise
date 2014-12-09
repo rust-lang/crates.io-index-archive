@@ -1,0 +1,1 @@
+{"name":"linenoise","vers":"0.0.1","deps":[{"name":"linenoise-sys","req":"~1.0.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80f1bd81e4f89cf213ad6244e433177a7cca6b4e053826beb0ae0927a52fc73e","features":{},"yanked":false}
