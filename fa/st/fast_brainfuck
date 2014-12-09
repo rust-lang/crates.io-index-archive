@@ -1,0 +1,1 @@
+{"name":"fast_brainfuck","vers":"0.0.1","deps":[{"name":"jit","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23733e4e796d73a64613be34c8330d619b05bc23fc2fb74a9687a57868b43cc2","features":{},"yanked":false}
