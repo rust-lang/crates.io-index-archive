@@ -1,0 +1,1 @@
+{"name":"artifact","vers":"0.0.1","deps":[{"name":"lazy_static","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e3ca473192baa718611556db8a8d55abd8831b962ae814c7c0d04954935e97f","features":{"no-failure-logs":[]},"yanked":false}
