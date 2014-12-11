@@ -1,0 +1,1 @@
+{"name":"freetype-rs","vers":"0.0.0","deps":[{"name":"freetype-sys","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ebcf87293455eec2f850649ae2aaee30294ee374b25e729690e47631bf0970c","features":{},"yanked":false}
