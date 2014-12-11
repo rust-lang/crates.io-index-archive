@@ -1,0 +1,1 @@
+{"name":"freetype-sys","vers":"0.0.1","deps":[{"name":"pkg-config","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"79962eac70aa930f8253b42cda02128a36d90d223f21d8db86b554e803139378","features":{},"yanked":false}
