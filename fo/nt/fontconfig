@@ -1,0 +1,1 @@
+{"name":"fontconfig","vers":"0.0.1","deps":[{"name":"fontconfig-sys","req":"~2.11.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02d4a13ff8258eca873db2ed6cab1cc404634b82c1e420d0dc131a5c2547673f","features":{},"yanked":false}
