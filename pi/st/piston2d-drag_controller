@@ -1,0 +1,1 @@
+{"name":"piston2d-drag_controller","vers":"0.0.1","deps":[{"name":"pistoncore-event","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9868d51352461e40e3089273798ac5b40eab174598693a97c3b5e05ea661303","features":{},"yanked":false}
