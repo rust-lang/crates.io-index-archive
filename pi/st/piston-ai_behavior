@@ -1,1 +1,2 @@
 {"name":"piston-ai_behavior","vers":"0.0.0","deps":[{"name":"pistoncore-event","req":"^0.0.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61a4585ccfd75cbb4b31e6b9675660a5d5b6b33d155393d35bd917c2120f2397","features":{},"yanked":false}
+{"name":"piston-ai_behavior","vers":"0.0.1","deps":[{"name":"pistoncore-event","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea2b26e7b1ec715c29a8dd33efe61137bfee694a609423c7c08dcea4a12c7f8c","features":{},"yanked":false}
