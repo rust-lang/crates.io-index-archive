@@ -1,0 +1,1 @@
+{"name":"select_color","vers":"0.0.0","deps":[{"name":"image","req":"~0.2.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f0aac3ecb340b5f9e109316aa9ffb32c9930196c42eae1c46d12b4feffcd9bb","features":{},"yanked":false}
