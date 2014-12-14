@@ -1,1 +1,2 @@
 {"name":"prctl","vers":"0.0.1","deps":[],"cksum":"b5f31214b27b3864dece5f0e85898b8fda7fd97d94d5db8de550def7f5818373","features":{"not_travis":[],"root_test":[]},"yanked":false}
+{"name":"prctl","vers":"0.0.2","deps":[],"cksum":"530cc380afaf9735a4e9e8aba455e54f9785dd3d6ff5ba3ed77ff6575ed84b47","features":{"root_test":[],"not_travis":[]},"yanked":false}
