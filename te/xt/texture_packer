@@ -1,0 +1,1 @@
+{"name":"texture_packer","vers":"0.0.0","deps":[{"name":"image","req":"~0.2.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37a9383fca60c3d026ff5bf51a57b0841c2eb12d2abb98e5747e682489807bd4","features":{},"yanked":false}
