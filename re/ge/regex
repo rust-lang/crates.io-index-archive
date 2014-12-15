@@ -1,1 +1,2 @@
 {"name":"regex","vers":"0.1.0","deps":[],"cksum":"f0ff1ca641d3c9a2c30464dac30183a8b91cdcc959d616961be020cdea6255c5","features":{},"yanked":false}
+{"name":"regex","vers":"0.1.1","deps":[{"name":"regex_macros","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a07bef996bd38a73c21a8e345d2c16848b41aa7ec949e2fedffe9edf74cdfb36","features":{},"yanked":false}
