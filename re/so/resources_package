@@ -1,1 +1,2 @@
 {"name":"resources_package","vers":"0.0.1-pre.1","deps":[{"name":"resources_package_package","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"96a5d4e6e416648f49109fc6836350105125d14a0b566cde7441daa4c29141de","features":{},"yanked":false}
+{"name":"resources_package","vers":"0.0.1","deps":[{"name":"resources_package_package","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed3cad598ac62acb99ed34c11010d9528fe730434bcc4193d2374d59ad7b451b","features":{},"yanked":false}
