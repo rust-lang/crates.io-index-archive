@@ -1,0 +1,1 @@
+{"name":"vorbis","vers":"0.0.1","deps":[{"name":"vorbisfile-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e14981913cb4e8bfff41679a78967c5796c90b1dc7fbfadd843b005762d48908","features":{},"yanked":false}
