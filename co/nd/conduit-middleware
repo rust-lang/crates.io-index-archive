@@ -1,1 +1,2 @@
 {"name":"conduit-middleware","vers":"0.5.0","deps":[{"name":"conduit","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"e78e17659e165c26a641ba1363eb3024e77eee69fb1c9df005f31e38fca33280","features":{},"yanked":false}
+{"name":"conduit-middleware","vers":"0.5.1","deps":[{"name":"conduit","req":"^0.5.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"586bea2efc5ce13dc56d11aeaa5712a6aa506e06349c43767a77c34056669b88","features":{},"yanked":false}
