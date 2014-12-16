@@ -1,0 +1,1 @@
+{"name":"oauth2","vers":"0.0.1","deps":[{"name":"curl","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"url","req":"^0.2.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04d6f186fb684d378e0ca5531bec69b703922abbfd3582bddb6b0cfa72fddf17","features":{},"yanked":false}
