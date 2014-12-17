@@ -1,1 +1,2 @@
 {"name":"traverse","vers":"0.0.1","deps":[{"name":"stainless","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a25ebd781f541f4ac88045e8badb8b3dad9dd1e875f3a212f8885d18dc43aa26","features":{},"yanked":false}
+{"name":"traverse","vers":"0.0.2","deps":[],"cksum":"6d2018bb9f0b1e4587e72bd307ea2d830df3117ff5bac81bdcf29ff12c319126","features":{},"yanked":false}
