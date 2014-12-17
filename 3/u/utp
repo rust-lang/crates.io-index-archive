@@ -1,1 +1,2 @@
 {"name":"utp","vers":"0.1.0","deps":[{"name":"time","req":"~0.0.3","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"a3510932ff90364633fbd2ab7480a46b6008e2a18f75d3e670436e74a6482b9d","features":{},"yanked":false}
+{"name":"utp","vers":"0.1.1","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"591bba6ddd0971e364e0aed0f46905edccbda20fa170bf13d8f0853b71bad417","features":{},"yanked":false}
