@@ -1,1 +1,2 @@
 {"name":"winapi","vers":"0.0.1","deps":[],"cksum":"14dc7d011a9ae4d6242901219f3c206bfa00cedbe60fc0e296744b22d945f98d","features":{},"yanked":false}
+{"name":"winapi","vers":"0.0.2","deps":[],"cksum":"459b827e0ff3842437aaacbd60ddf919f2df915dc5b0f7cb673ce29eafba8d5c","features":{"advapi32":[],"shell32":[],"kernel32":[],"user32":[],"ole32":[],"winmm":[],"gdi32":[]},"yanked":false}
