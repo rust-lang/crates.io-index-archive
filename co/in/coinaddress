@@ -1,1 +1,2 @@
 {"name":"coinaddress","vers":"1.0.2","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e27a698c3b1b14d1b0b43b008a5965f54d873c5a77dc018cff23c4abca2a0261","features":{},"yanked":false}
+{"name":"coinaddress","vers":"1.0.3","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"377d7fa950bbcceab3e2f3c9162dd6e5a04c5caf80e002fa76b0f8d3a7f58772","features":{},"yanked":false}
