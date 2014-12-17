@@ -1,0 +1,1 @@
+{"name":"allegro_image","vers":"0.0.0","deps":[{"name":"allegro","req":"= 0.0.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"608f811c7c648cdbdb77c276e2fc5041ba8e11bed385f44a92f6c4c3755c3a6c","features":{},"yanked":false}
