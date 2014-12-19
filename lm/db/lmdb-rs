@@ -1,0 +1,1 @@
+{"name":"lmdb-rs","vers":"0.0.7","deps":[{"name":"liblmdb-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b7d006c9ffcc5c354cb22dae8fe634d1dbb5b4809ccd2e2ccc564329809f4271","features":{},"yanked":false}
