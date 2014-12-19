@@ -1,3 +1,4 @@
 {"name":"regex","vers":"0.1.0","deps":[],"cksum":"f0ff1ca641d3c9a2c30464dac30183a8b91cdcc959d616961be020cdea6255c5","features":{},"yanked":false}
 {"name":"regex","vers":"0.1.1","deps":[{"name":"regex_macros","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a07bef996bd38a73c21a8e345d2c16848b41aa7ec949e2fedffe9edf74cdfb36","features":{},"yanked":false}
 {"name":"regex","vers":"0.1.2","deps":[{"name":"regex_macros","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"343bd0171ee23346506db6f4c64525de6d72f0e8cc533f83aea97f3e7488cbf9","features":{},"yanked":false}
+{"name":"regex","vers":"0.1.3","deps":[{"name":"regex_macros","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"defb220c4054ca1b95fe8b0c9a6e782dda684c1bdf8694df291733ae8a3748e3","features":{},"yanked":false}
