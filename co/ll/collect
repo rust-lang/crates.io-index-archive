@@ -3,3 +3,4 @@
 {"name":"collect","vers":"0.0.3","deps":[],"cksum":"0fc896e0f2ea58be96812aab080f2076c134513d62003bb8613781fa509fb1c8","features":{},"yanked":false}
 {"name":"collect","vers":"0.0.4","deps":[{"name":"traverse","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86ef116b9fc499149601126cdbb403474a6d6b39215e4b65052bbc223aaef27b","features":{},"yanked":false}
 {"name":"collect","vers":"0.0.5","deps":[{"name":"traverse","req":"^0.0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2fcc517eb13293f429762989ae50a682a1e9d90153cd68ef180be1a59f537c4","features":{},"yanked":false}
+{"name":"collect","vers":"0.0.6","deps":[{"name":"traverse","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37744fcadec237559dcbcb323c9f47f142b68b530dc656a8d04e47eb21a4d755","features":{},"yanked":false}
