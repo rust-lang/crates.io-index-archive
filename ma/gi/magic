@@ -1,3 +1,4 @@
 {"name":"magic","vers":"0.1.0","deps":[],"cksum":"e99bf5ec8e85528a2c13a851a182f8eae3161ff3c78420b1a8fc0832669138b0","features":{},"yanked":false}
 {"name":"magic","vers":"0.2.0","deps":[],"cksum":"d6e7ea3faaa2cf7a71e24958733bdcbfa50f779d4f4bfff4345bdf13cd232ab8","features":{},"yanked":false}
 {"name":"magic","vers":"0.3.0","deps":[{"name":"magic-sys","req":"^0.0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4783dbb5c632d025550cdae12d7b95d1977f79d5340dce4e3574f52a44ad224","features":{},"yanked":false}
+{"name":"magic","vers":"0.4.0","deps":[{"name":"magic-sys","req":"^0.0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44e449c015ce60343aac42aa9ea20b0087104cc1eff8214f68a861ca80c4ed11","features":{},"yanked":false}
