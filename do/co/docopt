@@ -8,3 +8,4 @@
 {"name":"docopt","vers":"0.6.15","deps":[],"cksum":"33fd583daf336b93280cbe9e54c49f0be9b8ec9270a871af3ff3f8b57fbf4a37","features":{},"yanked":false}
 {"name":"docopt","vers":"0.6.16","deps":[],"cksum":"7078cd72305baaa9ddff53145f22e7b7fab26d7bbeb88b5e1aad5bacda515a2a","features":{},"yanked":false}
 {"name":"docopt","vers":"0.6.17","deps":[],"cksum":"063c901a151ecf019a4ababda1a47ca8239079df6192439ec6a8763c54175c53","features":{},"yanked":false}
+{"name":"docopt","vers":"0.6.18","deps":[{"name":"regex","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a1714f2fa30ae34f375400d5a28a8388bb092d42b121ed01684e54b07f1d9d8","features":{},"yanked":false}
