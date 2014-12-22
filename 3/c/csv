@@ -14,3 +14,4 @@
 {"name":"csv","vers":"0.8.1","deps":[],"cksum":"3f3ee4c8beb85e5951972b8d2aa13f24fa61ba8fc6e4c8f16f3461f3b52118ad","features":{},"yanked":false}
 {"name":"csv","vers":"0.9.0","deps":[],"cksum":"a1780204e171c854f0702035d8d6cdb443dda7165e568e9ee4bcb117ce99a071","features":{},"yanked":false}
 {"name":"csv","vers":"0.10.0","deps":[],"cksum":"e0cb0c99d22fb525235e8c9f0c71d19aff9ec681f52dbe3a554425bf02876006","features":{},"yanked":false}
+{"name":"csv","vers":"0.10.1","deps":[],"cksum":"ecf3e87ea885365a21c322e9fa54b073cfc3f872f99d9da97d9a6fc94fa1bfcf","features":{},"yanked":false}
