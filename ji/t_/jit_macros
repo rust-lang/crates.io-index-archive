@@ -1,0 +1,1 @@
+{"name":"jit_macros","vers":"0.0.1","deps":[{"name":"jit","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12b3dfd97ecb9473ad6bd201fd21222a19e860b675e6512a168d052bb0e5f575","features":{},"yanked":false}
