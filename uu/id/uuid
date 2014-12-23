@@ -2,3 +2,4 @@
 {"name":"uuid","vers":"0.0.2","deps":[],"cksum":"31063c534dd1d9b2e0288e9cc081b9dd8b280e9660865a64bddac39fccdd0327","features":{},"yanked":false}
 {"name":"uuid","vers":"0.1.0","deps":[],"cksum":"e6a405146d8e664c299fae9fd86d629a3be588962335909b88d0dc5cedc04852","features":{},"yanked":false}
 {"name":"uuid","vers":"0.1.1","deps":[],"cksum":"932965a35f2dce6b41dfc317c5f707a4d47a89d9f7f1d35badc28d064380e716","features":{},"yanked":false}
+{"name":"uuid","vers":"0.1.2","deps":[{"name":"rustc-serialize","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2b656633918a106e45508bc2fc62dc6db39498494f3ee171c6cb63fe2197dfe","features":{},"yanked":false}
