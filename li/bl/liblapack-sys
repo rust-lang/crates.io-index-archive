@@ -1,2 +1,3 @@
 {"name":"liblapack-sys","vers":"0.0.1","deps":[],"cksum":"8c9798be0f1bb9fd4fdaa4accf84ac1b515467cbcf191f39c2472db9387b8198","features":{},"yanked":false}
 {"name":"liblapack-sys","vers":"0.0.2","deps":[{"name":"libblas-sys","req":"^0.0.2","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"54bfbd2d0a203bbc2a1fb1841e1a4f9d227188f0ad0d05800603e4a806143bdc","features":{},"yanked":false}
+{"name":"liblapack-sys","vers":"0.0.3","deps":[{"name":"libblas-sys","req":"^0.0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e1dc9afd72ea81abf8c51bef45305a074c4d6b5ebaac02e706fda376b100b6d","features":{},"yanked":false}
