@@ -1,2 +1,3 @@
 {"name":"conduit","vers":"0.5.0","deps":[{"name":"semver","req":"*","features":[""],"optional":false,"default_features":true,"target":null}],"cksum":"39365e383a2ce0e6b904000c34800db8082031727bf43e0fe989f06fff1ce1e1","features":{},"yanked":false}
 {"name":"conduit","vers":"0.5.1","deps":[{"name":"semver","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec83ab90d491a178251a080c5d367e4d81bd9b8201c50310f57adbe590240763","features":{},"yanked":false}
+{"name":"conduit","vers":"0.5.2","deps":[{"name":"semver","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbcb31902e50557a382a83a4a74f26ac1e2166f13576347c28ab079d3401f1cc","features":{},"yanked":false}
