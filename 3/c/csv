@@ -17,3 +17,4 @@
 {"name":"csv","vers":"0.10.1","deps":[],"cksum":"ecf3e87ea885365a21c322e9fa54b073cfc3f872f99d9da97d9a6fc94fa1bfcf","features":{},"yanked":false}
 {"name":"csv","vers":"0.10.2","deps":[{"name":"rustc-serialize","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44ab16698ec98662d6fd9eb0073db4484cbe317e26102279efec427de4416747","features":{},"yanked":false}
 {"name":"csv","vers":"0.11.0","deps":[{"name":"rustc-serialize","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af40826ce9fb74bc0cf0e4333aecf108ce85dd048c1e1802cdcd87e16074b3d7","features":{},"yanked":false}
+{"name":"csv","vers":"0.12.0","deps":[{"name":"rustc-serialize","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"828e863c40a76ff4e101cb203549f4ec7058fd5e64bcabcdd01fbf7baecd521b","features":{},"yanked":false}
