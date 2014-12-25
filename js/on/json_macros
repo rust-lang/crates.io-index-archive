@@ -6,3 +6,4 @@
 {"name":"json_macros","vers":"0.0.5","deps":[],"cksum":"8ed92323729a7de67590eaf0a7eb482a8ac0e928e41ff1def9ad9ad4d0e998e4","features":{},"yanked":false}
 {"name":"json_macros","vers":"0.0.6","deps":[],"cksum":"b15e3bb439f1b996a4b216fffd9bf69006b5de302fec710a70d3ec4f0610f9ad","features":{},"yanked":false}
 {"name":"json_macros","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6e23532744fd7d6ffe2361cca4ead84d7b4afb46838fe33e5978a95614470fa","features":{},"yanked":true}
+{"name":"json_macros","vers":"0.1.1","deps":[{"name":"rustc-serialize","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25e529f39a6f5ae4d87ca92c740a3468cc3f79d911fc4833afd55e264d52d7cc","features":{},"yanked":false}
