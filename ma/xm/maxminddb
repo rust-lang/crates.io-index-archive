@@ -1,2 +1,3 @@
 {"name":"maxminddb","vers":"0.1.0-pre","deps":[],"cksum":"2141507b33551fb4996c143a6bf5767d67662e07ac870858fc84a054e714b557","features":{},"yanked":false}
 {"name":"maxminddb","vers":"0.1.0","deps":[],"cksum":"138170a2cc226e41c43dc1fb8af6393bb1c2d5889b9ca5fae571702dfd771188","features":{},"yanked":false}
+{"name":"maxminddb","vers":"0.1.1","deps":[{"name":"rustc-serialize","req":"^0.1.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"743472a2572cfe9f1528684a12833fd8287d59e16f809e316a9e1c9a6d62c201","features":{},"yanked":false}
