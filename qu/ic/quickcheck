@@ -7,3 +7,4 @@
 {"name":"quickcheck","vers":"0.1.8","deps":[],"cksum":"51adcb80d9f90a25a18384f697470e23e92931d80b17fec7563e341df29a0201","features":{},"yanked":false}
 {"name":"quickcheck","vers":"0.1.11","deps":[{"name":"collect","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b1fb640c06ea9b60745a221111db7f1c7ea9ca4542cd08dd89c94c1a8cf6fb8","features":{},"yanked":false}
 {"name":"quickcheck","vers":"0.1.19","deps":[{"name":"collect","req":"*","features":[""],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5beaaf26e35fd352a00d6d315548c4d0dbf95fc74a09d028774b3c30849c2de4","features":{},"yanked":false}
+{"name":"quickcheck","vers":"0.1.20","deps":[{"name":"collect","req":"*","features":[""],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"633b299836c1f63f4c68f2d2f98d5c49c9bd390b17c7b11c43e70987a88cea95","features":{},"yanked":false}
