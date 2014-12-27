@@ -2,3 +2,4 @@
 {"name":"solvent","vers":"0.2.0","deps":[{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95993461d1915fb72a83e178728f181120e65707a2f1bf2f29bdd9fe402c7c70","features":{},"yanked":false}
 {"name":"solvent","vers":"0.5.0","deps":[],"cksum":"887333f9346205508788cbf8b75567396495003bf27b8ec237967fed1ce702d4","features":{},"yanked":false}
 {"name":"solvent","vers":"0.5.1","deps":[],"cksum":"330eb5b132aa430779207a27194df6627415e3690cb581f8db166f327f125a4d","features":{},"yanked":false}
+{"name":"solvent","vers":"0.5.2","deps":[{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"741ce638eb611d01c1633ec999f64878af3260e992840340181f1b6283d19814","features":{},"yanked":false}
