@@ -1,0 +1,1 @@
+{"name":"twitter-api","vers":"0.0.1","deps":[{"name":"oauth-client","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"013082095ded5a7cb90487510d265f0854920f92c5ed93cdfe4a534d9ad23d57","features":{},"yanked":false}
