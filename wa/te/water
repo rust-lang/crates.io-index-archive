@@ -14,3 +14,4 @@
 {"name":"water","vers":"0.6.19-alpha","deps":[],"cksum":"170ef7fdd010718c263db001552570a7e17229d27ba9063608c7161622ba75ef","features":{},"yanked":true}
 {"name":"water","vers":"0.6.20-alpha","deps":[],"cksum":"6debe64148c7903f5c5be9110c880a918de1aaef55dcd47018e996be12c129be","features":{},"yanked":true}
 {"name":"water","vers":"0.6.21-alpha","deps":[],"cksum":"c68730e4cdc2a0fa51582dab26fef5847db15735d4a547eeddea1df985a3d6eb","features":{},"yanked":false}
+{"name":"water","vers":"0.7.22-alpha","deps":[],"cksum":"d2fc83e6fae28f65679843678e9d576ed9d6f98fb93f145e60e49a27bd9745be","features":{},"yanked":false}
