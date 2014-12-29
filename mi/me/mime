@@ -1,3 +1,4 @@
 {"name":"mime","vers":"0.0.1","deps":[],"cksum":"192c7e44976a76e0a6c93121b91ecda7effa7fdf066f77289a584ab9f70aad54","features":{},"yanked":false}
 {"name":"mime","vers":"0.0.2","deps":[],"cksum":"4d9c4d7ae44df44f450bd1aa6e9be49961c9fbc42c6cec98dfde8641d1a142ea","features":{},"yanked":false}
 {"name":"mime","vers":"0.0.3","deps":[{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bffeb688dd1a6c947e0db6a0b1b9b03faa70c4cd8ba2dbcb015f56ad4e4b0532","features":{},"yanked":false}
+{"name":"mime","vers":"0.0.4","deps":[{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf9fe3b115dfc78ca6a81d2dad0c1e3b0a4d2b8730f80c93d579611f14f36593","features":{},"yanked":false}
