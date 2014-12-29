@@ -1,0 +1,1 @@
+{"name":"simpleflake","vers":"0.0.1","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8415694734954fa54a0484dcd61bd5c74e7329bcbc9035cacc7319e9d151482b","features":{},"yanked":false}
