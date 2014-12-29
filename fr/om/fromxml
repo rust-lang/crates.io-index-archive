@@ -1,0 +1,1 @@
+{"name":"fromxml","vers":"1.0.0","deps":[{"name":"xml-rs","req":"^0.1.4","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8c9ff33d746359adeb96a358d452432160d5349a9d5faf8001b089c65f4e1ed","features":{},"yanked":false}
