@@ -1,1 +1,2 @@
 {"name":"unicode_names","vers":"0.1.0","deps":[],"cksum":"b9a28e173397316ddade7b880c49fff4117d2912ee2430fa57d6f04ce133b186","features":{},"yanked":false}
+{"name":"unicode_names","vers":"0.1.1","deps":[{"name":"unicode_names_macros","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6cc94910b319ecc72b2cde458221bc11805e2d0ec2e0bf09e502e64943f1061e","features":{},"yanked":false}
