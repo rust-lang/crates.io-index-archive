@@ -1,1 +1,2 @@
 {"name":"vorbis","vers":"0.0.1","deps":[{"name":"vorbisfile-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e14981913cb4e8bfff41679a78967c5796c90b1dc7fbfadd843b005762d48908","features":{},"yanked":false}
+{"name":"vorbis","vers":"0.0.2","deps":[{"name":"vorbisfile-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f0a5e68be1b09ef32538be7a7e8105125470f72015832f03083a39bfe3773e3","features":{},"yanked":false}
