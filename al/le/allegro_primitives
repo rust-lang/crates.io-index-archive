@@ -1,1 +1,2 @@
 {"name":"allegro_primitives","vers":"0.0.0","deps":[{"name":"allegro","req":"= 0.0.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1b23930091743c522fdbc75eda64c12a4f974f1f1a0a75f28b254784b4a9559","features":{},"yanked":false}
+{"name":"allegro_primitives","vers":"0.0.1","deps":[{"name":"allegro","req":"= 0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc7ac89b774ec40739ee1b871ea24997b462b2b752ab7762a3b890f9ea5cfe51","features":{},"yanked":false}
