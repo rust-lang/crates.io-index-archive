@@ -4,3 +4,4 @@
 {"name":"handlebars","vers":"0.3.1","deps":[],"cksum":"17bf5985099e1eb9aaa67d49ef6d9e43e17472aa409d3376bb822284d14dabe6","features":{},"yanked":false}
 {"name":"handlebars","vers":"0.3.2","deps":[],"cksum":"3eade6f18b808f94b105a2d4b3d7b3600c7381974c659d013cbdea40d8e2f102","features":{},"yanked":false}
 {"name":"handlebars","vers":"0.4.0","deps":[],"cksum":"32420a139d3d7a67223a613d811fb8641ee25e4203eae76959483bcf71d4b122","features":{},"yanked":false}
+{"name":"handlebars","vers":"0.4.1","deps":[{"name":"regex","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8db5af8fa4e6a64736042f90bfaa50ab6d68debbc358c953a0f2beee84dbeb8","features":{},"yanked":false}
