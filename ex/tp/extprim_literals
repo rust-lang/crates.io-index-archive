@@ -1,0 +1,1 @@
+{"name":"extprim_literals","vers":"0.2.0","deps":[{"name":"extprim","req":"^0.2.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd557ba7038d006dc5c01369ee593717ccb32cf9ce9a27d682d26a8a59dba458","features":{},"yanked":false}
