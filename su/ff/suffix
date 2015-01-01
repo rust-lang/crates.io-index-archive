@@ -1,2 +1,3 @@
 {"name":"suffix","vers":"0.1.1","deps":[],"cksum":"b1fef13747d7145d18af52a4bd759ec934db420d5f92aac9edda492ef2d11009","features":{},"yanked":false}
 {"name":"suffix","vers":"0.1.2","deps":[{"name":"quickcheck","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"caffedaf391a8a294176f1d0662e71e944bc8f57e879cc53f03d9e7a7f427494","features":{},"yanked":false}
+{"name":"suffix","vers":"0.1.3","deps":[{"name":"quickcheck","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6e49972e09a7a13293cadc2c37c5c435a2b63d3bca27e3bf49fb9159b7718117","features":{},"yanked":false}
