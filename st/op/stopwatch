@@ -1,0 +1,1 @@
+{"name":"stopwatch","vers":"0.0.2","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d113bf1e8fd338aa7f42e6d851f3d831a78fcde6bd48374e324d9dcd4e7dec5","features":{},"yanked":false}
