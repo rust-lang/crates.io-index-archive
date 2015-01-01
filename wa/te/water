@@ -18,3 +18,4 @@
 {"name":"water","vers":"0.8.23-alpha","deps":[],"cksum":"e5acf9a888a426a525b8f5063081c71ec418a4f818778976cdb4249d52f54602","features":{},"yanked":false}
 {"name":"water","vers":"0.10.25-alpha","deps":[],"cksum":"639803965a112b7f14c9d53499106193cbdc7ea2a2f8198a4bedb55450457d33","features":{},"yanked":false}
 {"name":"water","vers":"0.10.26-alpha","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b05a779f58979d208085b53b0057cb8f2cce8e12de7219dc9dbec59221a0610d","features":{},"yanked":false}
+{"name":"water","vers":"0.11.27-alpha","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39fccc41a3aaf356608d97eba19eebf1fbf0e1e83199ce15b684c60e026a4fff","features":{},"yanked":false}
