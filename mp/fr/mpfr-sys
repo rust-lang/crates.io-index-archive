@@ -1,1 +1,2 @@
 {"name":"mpfr-sys","vers":"0.0.1","deps":[{"name":"gmp-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e322870ac9ec69fdd79bde1b6c02a00980f96a5472ab33ae5cf696d7a138b23b","features":{},"yanked":false}
+{"name":"mpfr-sys","vers":"0.0.2","deps":[{"name":"gmp-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1c297e71849f1d2440dd554a697a8350cff891048ecaa0f8d85dbb4ecbef792","features":{},"yanked":false}
