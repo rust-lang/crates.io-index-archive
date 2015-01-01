@@ -1,1 +1,2 @@
 {"name":"rust-sqlite","vers":"0.1.1","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25b87a0eea8a275a4a3a4be6e72609a5f2a740ef73de8ddebfa88b786081a917","features":{},"yanked":false}
+{"name":"rust-sqlite","vers":"0.1.2","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3dfb19e0b277adad41300e39bbc22cd01a8a4911f16ad9ae6f7ef2004772dfc3","features":{},"yanked":false}
