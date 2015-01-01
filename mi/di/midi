@@ -1,0 +1,1 @@
+{"name":"midi","vers":"0.0.1","deps":[{"name":"quickcheck_macros","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"quickcheck","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f98d86053b57b0583562b4ece0dcfa81c9e37c5100a6d1fda9159ea9295829e2","features":{},"yanked":false}
