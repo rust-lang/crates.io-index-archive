@@ -3,3 +3,4 @@
 {"name":"markov","vers":"0.0.6","deps":[],"cksum":"b035e8245dc475353d8bcb1eba14fe99fee44918e515a902d31fc00add88669e","features":{},"yanked":false}
 {"name":"markov","vers":"0.0.7","deps":[],"cksum":"224bec671dad87b1b1772fe17c685417d87a8ea7a4aaf59ec840ccf59f09112a","features":{},"yanked":false}
 {"name":"markov","vers":"0.0.8","deps":[{"name":"rustc-serialize","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0cbb62bcb4c64932547e0e446897954fabeaf0703446d2e4c62706a6e201b55f","features":{},"yanked":false}
+{"name":"markov","vers":"0.0.9","deps":[{"name":"rustc-serialize","req":"~0.2.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cf0e5c01b31743d4135a460dbee777395a0d1af277cb6ce511695104a20264d","features":{},"yanked":false}
