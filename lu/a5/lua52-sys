@@ -1,0 +1,1 @@
+{"name":"lua52-sys","vers":"0.0.1","deps":[{"name":"pkg-config","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d6e5280fc58c5bc8217059e4adac87d9b92cf8d3e77f20627888e1f29de66144","features":{},"yanked":false}
