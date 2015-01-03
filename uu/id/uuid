@@ -4,3 +4,4 @@
 {"name":"uuid","vers":"0.1.1","deps":[],"cksum":"932965a35f2dce6b41dfc317c5f707a4d47a89d9f7f1d35badc28d064380e716","features":{},"yanked":false}
 {"name":"uuid","vers":"0.1.2","deps":[{"name":"rustc-serialize","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2b656633918a106e45508bc2fc62dc6db39498494f3ee171c6cb63fe2197dfe","features":{},"yanked":false}
 {"name":"uuid","vers":"0.1.3","deps":[{"name":"rustc-serialize","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"adac64bd82db5c13e1ff65c2bb8b241e8db0d57de546f455d45cf05efc9b3b1b","features":{},"yanked":false}
+{"name":"uuid","vers":"0.1.4","deps":[{"name":"rustc-serialize","req":"^0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e695f1033a4ae5415bc0ac41e58f0123b6a92c5f8d2663177091aca5696555b","features":{},"yanked":false}
