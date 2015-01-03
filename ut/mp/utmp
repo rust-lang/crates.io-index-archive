@@ -1,0 +1,1 @@
+{"name":"utmp","vers":"0.0.1","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb1d5acd02c0ddf307da8d6c226a6058f499ced913a5cc2e9750f047087c3617","features":{},"yanked":false}
