@@ -1,0 +1,1 @@
+{"name":"allegro_audio-sys","vers":"0.0.2","deps":[{"name":"allegro-sys","req":"= 0.0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ca258f81ae5733a819cfb5f9cd60c1227e8d94cbede9e922dfd2e397c53235b","features":{"link_none":[],"link_debug":[],"link_static":[]},"yanked":false}
