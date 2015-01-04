@@ -1,0 +1,1 @@
+{"name":"allegro_font-sys","vers":"0.0.2","deps":[{"name":"allegro-sys","req":"= 0.0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b7b4dd24273630426eb7cf1e8d3a774f42362eccd276fa6a0792f343511a943","features":{"link_none":[],"link_debug":[],"link_static":[]},"yanked":false}
