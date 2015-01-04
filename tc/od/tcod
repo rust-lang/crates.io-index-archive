@@ -1,0 +1,1 @@
+{"name":"tcod","vers":"0.3.0","deps":[{"name":"tcod-sys","req":"^1.5.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a7091053c3632a5011858f67fc94b514569cc3001eba3a55f04ffb5e6de3f26","features":{},"yanked":false}
