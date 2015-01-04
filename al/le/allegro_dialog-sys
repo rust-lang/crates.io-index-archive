@@ -1,0 +1,1 @@
+{"name":"allegro_dialog-sys","vers":"0.0.2","deps":[{"name":"allegro-sys","req":"= 0.0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3338ace0ccf9a4cc0dfa540c869af31c67ac11aa89f911aa6616ee7cf8592a0b","features":{"link_debug":[],"link_none":[],"link_static":[]},"yanked":false}
