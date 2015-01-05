@@ -1,1 +1,2 @@
 {"name":"twitter-api","vers":"0.0.1","deps":[{"name":"oauth-client","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"013082095ded5a7cb90487510d265f0854920f92c5ed93cdfe4a534d9ad23d57","features":{},"yanked":false}
+{"name":"twitter-api","vers":"0.0.2","deps":[{"name":"oauth-client","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"775bb1571ebc57d95bd07b7a2565bc91b1298acdc241cb581c4807d7a193a67b","features":{},"yanked":false}
