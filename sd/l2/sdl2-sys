@@ -1,0 +1,1 @@
+{"name":"sdl2-sys","vers":"0.0.14","deps":[{"name":"pkg-config","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d61f5dd7ca7b3d1bddfc7ee072f18a28da0894277078c921d3a81a8b85305170","features":{"default":[],"use-pkgconfig":[]},"yanked":false}
