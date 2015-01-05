@@ -1,3 +1,4 @@
 {"name":"ansi_term","vers":"0.2.0","deps":[],"cksum":"cd01719095c4343774405912f68715bf594d01dfe8c3f5f662b90cf9817cb3fa","features":{},"yanked":false}
 {"name":"ansi_term","vers":"0.3.0","deps":[],"cksum":"e8d09cbf618bc1d8cfa444ebb9b044407a0f8953bb16661fdc7b4209be506110","features":{},"yanked":false}
 {"name":"ansi_term","vers":"0.4.0","deps":[],"cksum":"21b7361f3e6849c107c30f645fe85e89ca337922cf23b34b5c03ccc34d6b6e66","features":{},"yanked":false}
+{"name":"ansi_term","vers":"0.4.1","deps":[{"name":"regex","req":"^0.1.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex_macros","req":"^0.1.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f81126b2ff00100d698f5b39a269b22dd1f2f18a4e068ecc016fe77893da42b5","features":{},"yanked":false}
