@@ -10,3 +10,4 @@
 {"name":"rustc-serialize","vers":"0.2.2","deps":[],"cksum":"7ddd08c18ee0db6dd1905108cd21f19ddd2a9d004a29c7b1ded51bf558e1befa","features":{},"yanked":false}
 {"name":"rustc-serialize","vers":"0.2.3","deps":[],"cksum":"09277e8e172bf41ab9f7d916eac9687a9a0edc87d406e0998e779e3b437b811f","features":{},"yanked":false}
 {"name":"rustc-serialize","vers":"0.2.4","deps":[],"cksum":"7e8c5b0299aa75920288efef3fb9f96f2a4d6503c82a20fca34e94d7dc6a2c6c","features":{},"yanked":false}
+{"name":"rustc-serialize","vers":"0.2.5","deps":[],"cksum":"11fc4bc66985aea6ff3defbeef8d27743acfe82f51112d2e60e55d19d42a33a3","features":{},"yanked":false}
