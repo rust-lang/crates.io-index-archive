@@ -1,0 +1,1 @@
+{"name":"generic-matrix","vers":"0.0.1","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1aca2337816629fffb954dbdfe37bc96b7c5bef70fa8722481fbcd892c6261a","features":{},"yanked":false}
