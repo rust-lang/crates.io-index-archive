@@ -4,3 +4,4 @@
 {"name":"jsonway","vers":"0.1.3","deps":[],"cksum":"45edc46ba87b4b2aebf944229bf3fc8a16afb4b5d7abdf5845a85fe163f7ba4a","features":{},"yanked":false}
 {"name":"jsonway","vers":"0.1.4","deps":[{"name":"rustc-serialize","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e17b4c6ee7cd469929354b08d35879119dff433553ccd855bcf9db07ad08faeb","features":{},"yanked":false}
 {"name":"jsonway","vers":"0.1.5","deps":[{"name":"rustc-serialize","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f024f09a4345fa97bf63857fc255a2d59ab49b4715726e31923300f4f41ba485","features":{},"yanked":false}
+{"name":"jsonway","vers":"0.1.6","deps":[{"name":"rustc-serialize","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5d0f4d3f545db9e979fd12b4d90d96e38beec3d525600af5075d38caee9c80a","features":{},"yanked":false}
