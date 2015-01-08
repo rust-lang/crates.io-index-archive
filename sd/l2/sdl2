@@ -12,3 +12,4 @@
 {"name":"sdl2","vers":"0.0.12","deps":[],"cksum":"b2767f86cd7a2cd8e6ad71e9f28d4b36a39677ffc2218889c051e62b4108026a","features":{},"yanked":false}
 {"name":"sdl2","vers":"0.0.13","deps":[],"cksum":"c7490f3d21770938f766448ed98b353c115a2565bcb91ef7d5e9825c618f3515","features":{},"yanked":false}
 {"name":"sdl2","vers":"0.0.14","deps":[{"name":"sdl2-sys","req":"^0.0.14","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f628930a7702f3f604b9d4adb1ceed2951a58c98396b6c00c5d3258191f02529","features":{},"yanked":false}
+{"name":"sdl2","vers":"0.0.15","deps":[{"name":"sdl2-sys","req":"^0.0.14","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b660a6a1359a6060e9176e653df1d758dec4ad715813b081fe0d2b7753270c9","features":{},"yanked":false}
