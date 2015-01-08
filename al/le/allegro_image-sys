@@ -1,2 +1,3 @@
 {"name":"allegro_image-sys","vers":"0.0.2","deps":[],"cksum":"3715d0acf6ac36e67ef9ff2d5c29cf1ac7f31634ba6b4857f34a1a41d5f770d1","features":{"link_static":[],"link_none":[],"link_debug":[]},"yanked":false}
 {"name":"allegro_image-sys","vers":"0.0.3","deps":[],"cksum":"ff33777b8592191667ae397c69273cd9f9915d4e2a2dcbb1a938302c6fbe3459","features":{"link_debug":[],"link_static":[],"link_none":[]},"yanked":false}
+{"name":"allegro_image-sys","vers":"0.0.4","deps":[],"cksum":"02260249aa3a17717c121801577bccac93e343c994733ac176d424b5de982f2e","features":{"link_static":[],"link_debug":[],"link_none":[]},"yanked":false}
