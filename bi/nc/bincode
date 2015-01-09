@@ -2,3 +2,4 @@
 {"name":"bincode","vers":"0.0.2","deps":[],"cksum":"bb97ed97d841e324f22726b77a8db502adb65c2c2bd31929b27700bbca63a53f","features":{},"yanked":false}
 {"name":"bincode","vers":"0.0.3","deps":[{"name":"rustc-serialize","req":"^0.1.4","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37a8c9b6514193f2fe0891c3cd4f9200ca198db8d63f54dadbb9bccc6b2321d2","features":{},"yanked":false}
 {"name":"bincode","vers":"0.0.4","deps":[{"name":"rustc-serialize","req":"^0.2.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e14e787a746b0ddfe021b72b0cc0c1c2d78e9176404babd15f6d9b498c6371fc","features":{},"yanked":false}
+{"name":"bincode","vers":"0.0.5","deps":[{"name":"rustc-serialize","req":"^0.2.6","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6f99ef0f5a750a136ce0b9faba23425b8632db617d6623927447af0a327b716","features":{},"yanked":false}
