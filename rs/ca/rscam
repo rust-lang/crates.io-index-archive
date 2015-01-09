@@ -1,2 +1,3 @@
 {"name":"rscam","vers":"0.2.5","deps":[],"cksum":"209c63cb539eca2659514607984b0133a7dafe54ae22fccba7b1edc650ac034a","features":{},"yanked":false}
 {"name":"rscam","vers":"0.3.0","deps":[],"cksum":"3862099c4e9b4435d4a3270634e7e44d34b753d1ef3a33983b408e33245d4a97","features":{},"yanked":false}
+{"name":"rscam","vers":"0.3.5","deps":[],"cksum":"e678c5725ff0359f3b09b418f4cc491a3e8f3d4095fa626b22fd6890bd3ba3bf","features":{"default":["use_wrapper"],"use_wrapper":[]},"yanked":false}
