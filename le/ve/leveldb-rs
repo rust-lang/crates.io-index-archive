@@ -1,3 +1,4 @@
 {"name":"leveldb-rs","vers":"0.0.1","deps":[],"cksum":"3ef94686f01622403e2760fbf529cc24d275d3bc1caf76ad12ff17d11deb4c3f","features":{},"yanked":false}
 {"name":"leveldb-rs","vers":"0.0.2","deps":[],"cksum":"892226f703facab9453e20463401621d535e810c01cb74d377f0300a11b99493","features":{},"yanked":false}
 {"name":"leveldb-rs","vers":"0.0.3","deps":[{"name":"leveldb-sys","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"585e0bea43b39c925eaf10d1eef3d7916012b7ad18b0c3fe8e1940ab28d812ba","features":{"snappy":["leveldb-sys/snappy"]},"yanked":false}
+{"name":"leveldb-rs","vers":"0.0.4","deps":[{"name":"leveldb-sys","req":"^0.0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd4b6b0b93a27ba01c528b47ed86973bbc5a69998dfff7146b8cb377d106e62c","features":{"snappy":["leveldb-sys/snappy"]},"yanked":false}
