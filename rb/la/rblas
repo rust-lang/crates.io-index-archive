@@ -1,0 +1,1 @@
+{"name":"rblas","vers":"0.0.1","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"276880b1e21b1a7266466026aa313f50a014482749da77acf3ce5af99f1a9b8a","features":{},"yanked":false}
