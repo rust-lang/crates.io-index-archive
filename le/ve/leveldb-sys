@@ -1,1 +1,2 @@
 {"name":"leveldb-sys","vers":"0.0.1","deps":[],"cksum":"7bb75c24486a5da32f246a68a0fb9d6d1f183b42df42b470edc991e605372b74","features":{"snappy":[]},"yanked":false}
+{"name":"leveldb-sys","vers":"0.0.2","deps":[],"cksum":"a57f9cd15fa249b4f424f2b3cb87b4341a88bf2f8321647600a40403020d5243","features":{"snappy":[]},"yanked":false}
