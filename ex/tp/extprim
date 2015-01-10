@@ -1,2 +1,3 @@
 {"name":"extprim","vers":"0.2.0","deps":[],"cksum":"2ff6f24e8d3b469ce2044152e7fbf6c808e485aac031a54eb96fc08456784042","features":{},"yanked":false}
 {"name":"extprim","vers":"0.2.1","deps":[{"name":"extprim_literals","req":"~0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"542b341e55dec874976c2b394d4cad22196217afbf1879667fcd521f090e8815","features":{},"yanked":false}
+{"name":"extprim","vers":"0.2.2","deps":[{"name":"extprim_literals","req":"~0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3ea65308c347f4ef5e143c7eb374a4ab0242033dab45209d4b784fef00174545","features":{},"yanked":false}
