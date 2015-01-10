@@ -1,2 +1,3 @@
 {"name":"liblmdb-sys","vers":"0.0.1","deps":[],"cksum":"ed721dc0cf7f5c91ece499561ef509946bdb214197a0a07dd5642335f429cd16","features":{},"yanked":false}
 {"name":"liblmdb-sys","vers":"0.0.2","deps":[],"cksum":"ade025768355e2a1d47fed7d0c4611339f6eebba0391d83374e08e67047e0ee9","features":{},"yanked":true}
+{"name":"liblmdb-sys","vers":"0.0.3","deps":[],"cksum":"8a07a46fd617366735ed54bdb7ed58dbbec451f62255d960c282cc637c9cbe34","features":{},"yanked":false}
