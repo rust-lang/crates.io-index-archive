@@ -1,1 +1,2 @@
 {"name":"ecs","vers":"0.10.0","deps":[{"name":"uuid","req":"^0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c34d40e18656be5099b99dae8e46b5e3ea95b60f6b5b2951057c9ff84c880ed4","features":{},"yanked":false}
+{"name":"ecs","vers":"0.16.0","deps":[],"cksum":"254d1f201bb6c176d3f4efa10b7b9154a9c19230469773f6b9eedb2cee1e27e6","features":{},"yanked":false}
