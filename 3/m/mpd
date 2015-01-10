@@ -1,0 +1,1 @@
+{"name":"mpd","vers":"0.0.1","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rustc-serialize","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b83e66a808779e1e64455bbd9c3316566ccf31f83f330f4f88fc6b35d967b7b6","features":{},"yanked":false}
