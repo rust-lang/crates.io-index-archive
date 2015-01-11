@@ -2,3 +2,4 @@
 {"name":"zookeeper","vers":"0.0.2","deps":[],"cksum":"25043bfaadb14836c0c63a8ba88384bc56c9d8f0830f4f77eeba2ba8488faa60","features":{},"yanked":false}
 {"name":"zookeeper","vers":"0.0.3","deps":[],"cksum":"3cc349c1ad88557ec12a6d405c4ee946802dda59beb58565cae09134e6fa146a","features":{},"yanked":false}
 {"name":"zookeeper","vers":"0.0.4","deps":[],"cksum":"3819729b6ffd53e1b94e729d78784b649eceecf5367fbde886e9b99b1d4d88f8","features":{},"yanked":false}
+{"name":"zookeeper","vers":"0.0.5","deps":[],"cksum":"bc121d0dabde3e72daebf607b4bf249a2e24a2519cda284ba8edc2483f32604b","features":{},"yanked":false}
