@@ -1,0 +1,1 @@
+{"name":"rust_erl_ext","vers":"0.1.1","deps":[{"name":"num","req":">= 0.1.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d165fe317955771a8665f723b56dde39917288b686e0230cccc3c1b2b834f3f8","features":{},"yanked":false}
