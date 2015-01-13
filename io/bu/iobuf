@@ -38,3 +38,4 @@
 {"name":"iobuf","vers":"5.0.5","deps":[],"cksum":"19285d233eb5e7777d11f527db4b277c9a13621909c52ca49bf8cb372b9557ea","features":{},"yanked":false}
 {"name":"iobuf","vers":"5.1.0","deps":[],"cksum":"6e024232192a6b69e0b27c5c281d2cad8ef9f8cdc17055bb2379138c413f8e63","features":{},"yanked":false}
 {"name":"iobuf","vers":"5.2.0","deps":[{"name":"quickcheck","req":"^0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9b340df8dba713f23727051b861ac765c5d66418380f23e4bef648d00e83f8c","features":{},"yanked":false}
+{"name":"iobuf","vers":"5.2.1","deps":[],"cksum":"b281afa37c3bd80fd573f57d25b05c61d5c9df56e92c3f1f7470ba1e4afe8863","features":{},"yanked":false}
