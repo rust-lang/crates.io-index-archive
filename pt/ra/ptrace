@@ -1,0 +1,1 @@
+{"name":"ptrace","vers":"0.0.1","deps":[{"name":"posix-ipc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5b427df84c505aed4632e74f2a06eb7b1a7ace4f479a6fa7cbe0035b1493fec","features":{},"yanked":false}
