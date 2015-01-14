@@ -1,0 +1,1 @@
+{"name":"maybe_utf8","vers":"0.1.0","deps":[{"name":"encoding","req":"^0.2.18","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f160416c5a25e98635e4bc624b5cc8aaa1ad8355fa01203fa08dd6d304e0f35e","features":{},"yanked":false}
