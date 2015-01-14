@@ -1,1 +1,2 @@
 {"name":"fsevent","vers":"0.0.1","deps":[{"name":"fsevent-sys","req":"~0.0.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0ad56b8d1b4df9a9e06cf95fabb34ffe83b55800785be912101429b2c04adab","features":{},"yanked":false}
+{"name":"fsevent","vers":"0.1.0","deps":[{"name":"fsevent-sys","req":"~0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f015a49b5823250403a7ce373069491f268daab8964117f9a0cedde1dca0ed8c","features":{},"yanked":false}
