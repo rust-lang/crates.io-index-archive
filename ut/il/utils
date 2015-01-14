@@ -1,0 +1,1 @@
+{"name":"utils","vers":"0.0.1","deps":[{"name":"commandext","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9abc92731382fdfea38ea85d796b551a098ce300ad1aa0dbbcbdb081757487a6","features":{},"yanked":false}
