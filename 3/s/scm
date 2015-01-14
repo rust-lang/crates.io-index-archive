@@ -1,0 +1,1 @@
+{"name":"scm","vers":"0.0.1","deps":[{"name":"commandext","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed456e690504f63d47b3f9dfc024b5ab76525eedcab6a9fe231df4c7c3ba326d","features":{},"yanked":false}
