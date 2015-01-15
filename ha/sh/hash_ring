@@ -1,0 +1,1 @@
+{"name":"hash_ring","vers":"0.0.1","deps":[{"name":"rust-crypto","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f6ab215f887527d34e2123fd3475f02bbf94d12c9cee95c8c5d3e074767370e","features":{},"yanked":false}
