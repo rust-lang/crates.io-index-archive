@@ -1,0 +1,1 @@
+{"name":"special","vers":"0.0.5","deps":[{"name":"assert","req":"^0.0.4","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b1a86d62174d2d28e6693d138f797966f7b760222531aacd7c188cf8f78e9366","features":{},"yanked":false}
