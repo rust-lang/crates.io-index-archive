@@ -1,0 +1,1 @@
+{"name":"recursive_sync","vers":"0.0.1","deps":[{"name":"gcc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b43c158d2aa20fcf7bb76ab4723be465b299e14585107a713001503d33dbd2b5","features":{},"yanked":false}
