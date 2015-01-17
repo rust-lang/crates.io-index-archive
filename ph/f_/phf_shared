@@ -12,3 +12,4 @@
 {"name":"phf_shared","vers":"0.4.7","deps":[],"cksum":"c5cdd707bb3061590882283555556b36ea417d9b8400014142c57298eb979d33","features":{},"yanked":true}
 {"name":"phf_shared","vers":"0.4.8","deps":[],"cksum":"1612f41dd578fd0e6c2b63ea16dd46101293fab69c125a75d95983804421b0ec","features":{},"yanked":false}
 {"name":"phf_shared","vers":"0.4.9","deps":[],"cksum":"1009a5dd886670a689792a0d591470d674aeebb5d725fbb1beffe7c0671c5d40","features":{},"yanked":false}
+{"name":"phf_shared","vers":"0.5.0","deps":[],"cksum":"22d12d48726d4822d267b7fe063663fdfa2a2d0fbd98bc7499b544074fc47ce3","features":{},"yanked":false}
