@@ -3,3 +3,4 @@
 {"name":"winapi","vers":"0.0.3","deps":[],"cksum":"3c6a4d02bd4436f49c39134a8abe2b588387cd11bdc2ecba0f960be21f84f220","features":{"advapi32":[],"kernel32":[],"shell32":[],"winmm":[],"gdi32":[],"ole32":[],"user32":[]},"yanked":false}
 {"name":"winapi","vers":"0.0.4","deps":[],"cksum":"32f817d702c07dfe1564ae29b2432e6add6eb2dea1ccc19660f5753bf8e9d687","features":{"kernel32":[],"shell32":[],"advapi32":[],"ole32":[],"user32":[],"gdi32":[],"winmm":[]},"yanked":false}
 {"name":"winapi","vers":"0.0.5","deps":[],"cksum":"3a74f23c20e5abf860b8d99e283e8273b409e45b0807e42ff1b873569fa5fc17","features":{"ole32":[],"advapi32":[],"winmm":[],"user32":[],"shell32":[],"gdi32":[],"kernel32":[]},"yanked":false}
+{"name":"winapi","vers":"0.0.6","deps":[],"cksum":"8b979be449465deea1b3f45cba24714796caf6236022cdce34b578f2cb790cca","features":{"user32":[],"shell32":[],"ole32":[],"advapi32":[],"gdi32":[],"winmm":[]},"yanked":false}
