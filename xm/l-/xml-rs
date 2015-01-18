@@ -9,3 +9,4 @@
 {"name":"xml-rs","vers":"0.1.10","deps":[],"cksum":"4ce2a1d872b44104eaef4694ce9f9ee6a57c58974a17eeefa1da728c3b367441","features":{},"yanked":false}
 {"name":"xml-rs","vers":"0.1.11","deps":[],"cksum":"7368ffc74a2e28af61fdaa887682af193511142ec724d4915e5c3f12d3627d6d","features":{},"yanked":false}
 {"name":"xml-rs","vers":"0.1.12","deps":[],"cksum":"e962142b785785f83892203b30f922c582032da9dc2f92c07f931ccbed3007aa","features":{},"yanked":false}
+{"name":"xml-rs","vers":"0.1.13","deps":[{"name":"bitflags","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1095da0fe3df8f02085cb205ad430de577c29ad36bd77812104d5d327aa10b78","features":{},"yanked":false}
