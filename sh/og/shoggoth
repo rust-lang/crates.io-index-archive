@@ -4,3 +4,4 @@
 {"name":"shoggoth","vers":"0.0.4","deps":[],"cksum":"c1f515f6a9fb3a70009ea5401219ffd7d5c6ae25409394296be58033d88e9416","features":{},"yanked":false}
 {"name":"shoggoth","vers":"0.0.5","deps":[],"cksum":"36e3195ba6df8a453eb75649632e05342d2a2f4e2d0a8d2bf9ae57a55bf1b91e","features":{},"yanked":false}
 {"name":"shoggoth","vers":"0.0.6","deps":[{"name":"unify","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"946bcf0d009d42d3472954c0672e205842f9804367260959fabc85f41b844c55","features":{},"yanked":false}
+{"name":"shoggoth","vers":"0.0.7","deps":[{"name":"unify","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3547a81c7be680f12778b2a7986c8443a50491ba9cff18a2d074ef5fbffd895","features":{},"yanked":false}
