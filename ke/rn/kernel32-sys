@@ -1,1 +1,2 @@
 {"name":"kernel32-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a672a005f0cc5179c82ed54857348c2f95f1b561cb2af2ef67423798fcd1a8e","features":{},"yanked":false}
+{"name":"kernel32-sys","vers":"0.0.2","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6daa4383999a7c9473827a453b9206e298313f4b2daf9e0184b206594c3b3ac","features":{},"yanked":false}
