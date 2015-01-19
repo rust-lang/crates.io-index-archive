@@ -1,0 +1,1 @@
+{"name":"llvmint","vers":"0.0.1","deps":[{"name":"simdty","req":"^0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a43b758ff4bdb8ec1aaad60f7a0818558642431e53b2cddea29bddcc8a82b4e","features":{},"yanked":false}
