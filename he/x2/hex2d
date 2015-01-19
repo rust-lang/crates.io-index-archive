@@ -1,1 +1,2 @@
 {"name":"hex2d","vers":"0.0.3","deps":[{"name":"num","req":"^0.0.5","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e456ea7bce0c279d91012010212e88d2d874fd6a5776b9d64d18a0b9c0a3e7dd","features":{},"yanked":false}
+{"name":"hex2d","vers":"0.0.4","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"000d63336585d6e7850e3691328ff8308f43028c47bef3d417759a144b5a0e44","features":{},"yanked":false}
