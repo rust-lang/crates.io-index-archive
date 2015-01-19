@@ -1,0 +1,1 @@
+{"name":"advapi32-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"213f50237b7157c4e011cf060450a2ed1f2b3e9eb022661e712106773d544688","features":{},"yanked":false}
