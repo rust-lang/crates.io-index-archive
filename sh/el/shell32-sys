@@ -1,0 +1,1 @@
+{"name":"shell32-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b392048c293aca5d69844251a4c3b28022e4bf36fc94ac9ae6dbf6a6e3f082c","features":{},"yanked":false}
