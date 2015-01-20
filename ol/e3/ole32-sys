@@ -1,0 +1,1 @@
+{"name":"ole32-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e8d87886c531995b764f36fcd04b9660e3ffbff75ebe35ddcd5bf87ec6f3efd","features":{},"yanked":false}
