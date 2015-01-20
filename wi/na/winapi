@@ -7,3 +7,4 @@
 {"name":"winapi","vers":"0.0.7","deps":[],"cksum":"217f7ea59f01587908256e079ea728ae68d8a178cc2504c151d32f374037091b","features":{"advapi32":[],"ole32":[],"gdi32":[],"user32":[],"shell32":[],"winmm":[]},"yanked":false}
 {"name":"winapi","vers":"0.0.8","deps":[],"cksum":"d693337e3e2c87b7a8aac72c62c061ee3f8cbba940560b171c3dacd2071f252d","features":{"user32":[],"gdi32":[],"shell32":[],"winmm":[],"ole32":[]},"yanked":false}
 {"name":"winapi","vers":"0.1.0","deps":[],"cksum":"16c9801310f42784b65f35cd2ccfc10d1631334dd988bfa8f025ec5675a3c13a","features":{},"yanked":false}
+{"name":"winapi","vers":"0.1.1","deps":[],"cksum":"e917b298f0479bc667cf70f4b7f76cbebad46c7d7668634f6545dc257d213a64","features":{},"yanked":false}
