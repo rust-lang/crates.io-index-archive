@@ -1,0 +1,1 @@
+{"name":"cql-ffi-safe","vers":"0.0.3","deps":[{"name":"cql_ffi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"uuid","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe304ac2d5a24805a1e7902bbe3194b5e017018e5f324a16a359c0600fedf175","features":{},"yanked":false}
