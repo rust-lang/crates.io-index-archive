@@ -1,2 +1,3 @@
 {"name":"lodepng","vers":"0.2.1","deps":[],"cksum":"2c859a2e14053ccea96585f40ff4e9a0b2d304dde8c218dcf6ff311d42f640e4","features":{},"yanked":false}
 {"name":"lodepng","vers":"0.2.2","deps":[],"cksum":"408b2ce65ec3c2ccf326da2c4f16a6e699c3599a11da83aa8df3468276b2fcca","features":{},"yanked":false}
+{"name":"lodepng","vers":"0.3.0","deps":[{"name":"c_vec","req":"^1.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85d930b0de44933ab038b500d5892d807c5e44fd79bd8efdbd4160e9ec8c3e4c","features":{},"yanked":false}
