@@ -2,3 +2,4 @@
 {"name":"beanstalkd","vers":"0.0.1","deps":[],"cksum":"eb918b451eff3a25f31d4b610b2fa58dd7e8a12778582c4eb79e9ca51d3ea82a","features":{},"yanked":false}
 {"name":"beanstalkd","vers":"0.1.0","deps":[],"cksum":"6fb0c8d202fb742fda5cc49fc6a39806194c343cd3fec9fc04b93cdd79d9bb0f","features":{},"yanked":false}
 {"name":"beanstalkd","vers":"0.2.0","deps":[],"cksum":"24744bf98312d25d4090e27349b12e2d3024b0160d636e4e4b46f1fcb442efa4","features":{},"yanked":false}
+{"name":"beanstalkd","vers":"0.2.1","deps":[],"cksum":"10644bd63a406c855475f3bab656b8411bc7a25add1ab7554deca0989eaf7228","features":{},"yanked":false}
