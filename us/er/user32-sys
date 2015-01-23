@@ -1,1 +1,2 @@
 {"name":"user32-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce91cf706857557cf4dd63429400b6e84227ebffc8481ebae2ee6c0cb9d30e73","features":{},"yanked":false}
+{"name":"user32-sys","vers":"0.0.2","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f258e1db600dbe28ac037a34ff9f8f09e89019f4a26be254f0926b31f63d0f74","features":{},"yanked":false}
