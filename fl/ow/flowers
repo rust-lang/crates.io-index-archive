@@ -1,0 +1,1 @@
+{"name":"flowers","vers":"0.0.1","deps":[{"name":"getopts","req":"^0.1.4","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4bdb867e0a9938b336123c6c7594debc3a91b8ad74ac3bc4fef7f7264c75f705","features":{},"yanked":false}
