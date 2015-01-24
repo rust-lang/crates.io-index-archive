@@ -1,3 +1,4 @@
 {"name":"tcod-sys","vers":"1.5.2","deps":[],"cksum":"dd5058ae3c8868067466f05eb3d551365a29d367eade76834fc5d625971d21a1","features":{},"yanked":false}
 {"name":"tcod-sys","vers":"2.0.0","deps":[],"cksum":"f5debe0fef08303d7cd9dfc6beb0c975987bfa23a4f411ef39479b8851b5a8e0","features":{},"yanked":false}
 {"name":"tcod-sys","vers":"2.0.1","deps":[],"cksum":"1c6001f2270df90dd11ffe13bbb3a82b47207b294c9e73ca38ec38a5d90ed5b9","features":{},"yanked":false}
+{"name":"tcod-sys","vers":"2.0.2","deps":[],"cksum":"7e070f688cbc7096d7a7b35b94ed0a6e3c2749734fb8d330184bdcaf3263cd1c","features":{},"yanked":false}
