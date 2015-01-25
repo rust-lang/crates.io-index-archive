@@ -1,0 +1,1 @@
+{"name":"rustfft","vers":"0.0.1","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"kissfft","req":"^0.0.6","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"771e6af5d336e1714c51863b8c629bf7a80b19c565add6bdc40b1125fc1a8896","features":{},"yanked":false}
