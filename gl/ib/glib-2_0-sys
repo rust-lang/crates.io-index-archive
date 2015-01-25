@@ -1,0 +1,1 @@
+{"name":"glib-2_0-sys","vers":"0.0.1","deps":[{"name":"pkg-config","req":"^0.1.6","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f915436b932305fa0dddf926ce1bb513b5a099e78c5223424027cad256c5a6fe","features":{},"yanked":false}
