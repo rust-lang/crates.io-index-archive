@@ -1,0 +1,1 @@
+{"name":"dwmapi-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6dfbd116603ddfe1ec30fe333179c011d1beae52838edc4056cdf326f0e31690","features":{},"yanked":false}
