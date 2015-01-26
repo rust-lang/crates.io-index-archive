@@ -1,0 +1,1 @@
+{"name":"dxguid-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a1f1be0042c73a46c065eab7db061d276d8426accb4791c4aaf8c58eb49a02d","features":{},"yanked":false}
