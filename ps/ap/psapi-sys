@@ -1,0 +1,1 @@
+{"name":"psapi-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eccba5d8f916f0b3268b8f3e1d8f66cb124cab693d8fd8c2a27f3d48ef7d4b2d","features":{},"yanked":false}
