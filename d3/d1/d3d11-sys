@@ -1,0 +1,1 @@
+{"name":"d3d11-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86dc9350bf88daec51b99182813fb2a1e12e6f64162dfdf2d03d61083a1bdc4c","features":{},"yanked":false}
