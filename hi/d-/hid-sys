@@ -1,0 +1,1 @@
+{"name":"hid-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd9f48d0208ac8f3a70860995e7fa15fd5557e789f0237a0c05aac6a76e6c157","features":{},"yanked":false}
