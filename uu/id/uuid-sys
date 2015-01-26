@@ -1,0 +1,1 @@
+{"name":"uuid-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"095edb0cdba9f9fd1b57d31247ea8b39bd91eaac1ef726721ddf8506efca22a9","features":{},"yanked":false}
