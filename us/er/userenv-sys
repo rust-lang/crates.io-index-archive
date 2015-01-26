@@ -1,0 +1,1 @@
+{"name":"userenv-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f9857572e544192f9fc35e0580b5b9139d4c5826fc6d9d1933745a7f74a0e60","features":{},"yanked":false}
