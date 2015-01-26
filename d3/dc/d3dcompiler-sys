@@ -1,0 +1,1 @@
+{"name":"d3dcompiler-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"400b6e3cea7f0bebb3c6f32df25f32a8ce1d78cab4a9c97eb9b82a8f08d3e89c","features":{},"yanked":false}
