@@ -1,0 +1,1 @@
+{"name":"secur32-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12ed62d54781a3fac84632951490c8b78df4269e96e3ed1488f3bcd595e6d53e","features":{},"yanked":false}
