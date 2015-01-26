@@ -1,0 +1,1 @@
+{"name":"memcached-rs","vers":"0.0.1","deps":[{"name":"crc32","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84bf92b18e0550aa879b0ad06e3a1e9149aa7f3ece40b13f622a56bf4ac81de3","features":{},"yanked":false}
