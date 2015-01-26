@@ -1,0 +1,1 @@
+{"name":"runtimeobject-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8c741b6ff8fdd93127e1f6800958ccf64711d9dbe4800899aa7dfe0bff40fd4","features":{},"yanked":false}
