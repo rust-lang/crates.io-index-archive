@@ -1,0 +1,1 @@
+{"name":"comdlg32-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"016370586b73a00d297ffc3a0d313db525583d430759e2355bbfb3811eac7871","features":{},"yanked":false}
