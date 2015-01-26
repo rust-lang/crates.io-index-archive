@@ -1,0 +1,1 @@
+{"name":"opengl32-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79015cfc8010004df8097fe46e6ad8eb85806273edc7597b47185dc37282417c","features":{},"yanked":false}
