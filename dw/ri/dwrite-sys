@@ -1,0 +1,1 @@
+{"name":"dwrite-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b65412373c4f5bfba725471eb525a7032e34662fe6da0be9edf2227e8f11828","features":{},"yanked":false}
