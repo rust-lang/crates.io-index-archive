@@ -1,0 +1,1 @@
+{"name":"dbghelp-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef38010e93d0c513777b72178b727cb0edd02391c5a120bfb914d06a0803f9c5","features":{},"yanked":false}
