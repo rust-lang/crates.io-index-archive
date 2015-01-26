@@ -1,0 +1,1 @@
+{"name":"netapi32-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"abdf6eab0a11602813deadf7ea7eb21e88f2c69a12fe495e7dfa6f139f83091c","features":{},"yanked":false}
