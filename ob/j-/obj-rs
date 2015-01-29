@@ -3,3 +3,4 @@
 {"name":"obj-rs","vers":"0.0.3","deps":[{"name":"bear","req":"^0.1.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"239c521a2e8f1de2ce75ebb9f70bb85f47f9716be773e4e9283b4889dddc4475","features":{},"yanked":false}
 {"name":"obj-rs","vers":"0.0.4","deps":[{"name":"bear","req":"^0.1.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1dd97f240508562586bb38cc2a611aea6f6fd9c1a70ef6ee354ba52d83b0ca9f","features":{},"yanked":false}
 {"name":"obj-rs","vers":"0.0.5","deps":[],"cksum":"38e92a0fe10486c5a8dc724c4be7fe9aefbe87bf728c43a1b94cee39e7421fea","features":{},"yanked":false}
+{"name":"obj-rs","vers":"0.1.0","deps":[],"cksum":"2d465b590bc9199d69a00ffc628346cef6d1b9a2bf1df0df44c50023adb04c2c","features":{},"yanked":false}
