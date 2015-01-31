@@ -1,1 +1,2 @@
 {"name":"glib-2_0-sys","vers":"0.0.1","deps":[{"name":"pkg-config","req":"^0.1.6","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f915436b932305fa0dddf926ce1bb513b5a099e78c5223424027cad256c5a6fe","features":{},"yanked":false}
+{"name":"glib-2_0-sys","vers":"0.0.2","deps":[{"name":"pkg-config","req":"^0.1.7","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8d1a09343bd55878cb6f3260e84b23db847bd1e3fd15d5a2e3fef5f4ca37a1d4","features":{},"yanked":false}
