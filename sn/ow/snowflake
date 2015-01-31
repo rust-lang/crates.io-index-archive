@@ -1,0 +1,1 @@
+{"name":"snowflake","vers":"0.5.0","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b6f9a454949d7e3c1fd35c4c30c00863599388e923d696b5c6c7037c9ee02e07","features":{},"yanked":false}
