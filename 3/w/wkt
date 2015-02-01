@@ -1,2 +1,3 @@
 {"name":"wkt","vers":"0.0.1","deps":[],"cksum":"738b05c79f07d932a7bc3eeffe426c3ce4775c4e8b6fe35777fb13d69ff1575c","features":{},"yanked":false}
 {"name":"wkt","vers":"0.0.2","deps":[],"cksum":"116ef8e190dfb4849a10d189007e06d93a61f4ae8b4ee6da9c901afb02ac43cb","features":{},"yanked":false}
+{"name":"wkt","vers":"0.0.3","deps":[{"name":"geo","req":"^0.0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef43b2afb708445d875f9fe2c16e13338766d2ece5071ee2dd4fafd6e40ced8c","features":{},"yanked":false}
