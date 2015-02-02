@@ -3,3 +3,4 @@
 {"name":"time_calc","vers":"0.9.2","deps":[],"cksum":"19de00090f0d3a2737d3df0cb033b9b8b5374f37c87c977ee2fd4e47bf5ec0c9","features":{},"yanked":false}
 {"name":"time_calc","vers":"0.9.3","deps":[],"cksum":"5cbda4104bc0acb9eec5b1f76f6f57891f3de47708ffe0d4e4ef39b99e501620","features":{},"yanked":false}
 {"name":"time_calc","vers":"0.9.4","deps":[{"name":"rustc-serialize","req":"^0.1.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92986b4905ca3ca3484e8eb925d74d876221494208c5e27151eb0d5894cc60d3","features":{},"yanked":false}
+{"name":"time_calc","vers":"0.9.5","deps":[{"name":"rustc-serialize","req":"^0.2.10","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6da268885e6eb7aedf29897a41f82b5030b99a7977e7ff72c591c9814f12e97b","features":{},"yanked":false}
