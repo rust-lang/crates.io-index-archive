@@ -1,3 +1,4 @@
 {"name":"pitch_calc","vers":"0.7.0","deps":[],"cksum":"97a1aa185329e58dbd731dc23c9707e4f0c56b0cb7aa33d1edd7d616fe1b113f","features":{},"yanked":false}
 {"name":"pitch_calc","vers":"0.8.0","deps":[],"cksum":"e56b89f74b2437b370383a43524140560d03961d88d08af8c09dd4bc329db614","features":{},"yanked":false}
 {"name":"pitch_calc","vers":"0.8.1","deps":[{"name":"rustc-serialize","req":"^0.1.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d155c0706d2120b2081de12a203c715596cc4d1f5d878a6c78614cd18591ae6d","features":{},"yanked":false}
+{"name":"pitch_calc","vers":"0.8.2","deps":[{"name":"rustc-serialize","req":"^0.2.10","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f1b20abe10823d9ac36397443444f86855d7a828bbd85bd7ac83bfe16b8f96e","features":{},"yanked":false}
