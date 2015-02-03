@@ -1,0 +1,1 @@
+{"name":"mpfr","vers":"0.0.1","deps":[{"name":"bitflags","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"mpfr-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a6fe0c11e50de25b722dcb46965bb4b20999c74b097958a78ebb77076850b8d","features":{},"yanked":false}
