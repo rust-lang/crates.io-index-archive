@@ -1,0 +1,1 @@
+{"name":"sass-sys","vers":"0.0.1","deps":[{"name":"pkg-config","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b364b49fa10f94062c71019ec9b71584f8b022bee3c298ae5f7877acc1525c35","features":{},"yanked":false}
