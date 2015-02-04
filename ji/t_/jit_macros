@@ -3,3 +3,4 @@
 {"name":"jit_macros","vers":"0.0.3","deps":[],"cksum":"9647af76db35ea5d0b636f92d418bff6414f8a644debf1672ca8e9265f7b9463","features":{},"yanked":false}
 {"name":"jit_macros","vers":"0.0.4","deps":[],"cksum":"3af6710fb4f0e22691cce420cb09319c1680f8dbe86c2742da2672de6256d0a6","features":{},"yanked":false}
 {"name":"jit_macros","vers":"0.0.5","deps":[],"cksum":"38d05adb3b858b664e25a9668bb4660e94a3c74eefb8c0a8d3f1400a3da2790b","features":{},"yanked":false}
+{"name":"jit_macros","vers":"0.0.6","deps":[{"name":"matches","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31b3e7bcbf0621538b7b61bb4ab8b69716f62c34df0b95b8799e3f97d320ebe9","features":{},"yanked":false}
