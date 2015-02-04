@@ -1,0 +1,1 @@
+{"name":"libwgetj","vers":"0.1.0","deps":[{"name":"commandext","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"84941841b2fcf7403b3b0831d12c4717371b20e96f8514f9270090dd036abe47","features":{},"yanked":false}
