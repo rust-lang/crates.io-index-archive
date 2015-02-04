@@ -1,1 +1,2 @@
 {"name":"sass-rs","vers":"0.0.1","deps":[{"name":"sass-sys","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02932c54174a38587b076a7fb6970b395681c3a8f9f1213b26a721af34a469f5","features":{},"yanked":false}
+{"name":"sass-rs","vers":"0.0.2","deps":[{"name":"sass-sys","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a597c0baf04b7b0aa0c9c9c117b466cb80d408b971c72930b8e3a24029e0b4f","features":{},"yanked":false}
