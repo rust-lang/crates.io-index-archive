@@ -1,1 +1,2 @@
 {"name":"byteorder","vers":"0.1.0","deps":[],"cksum":"701fd949a4de973a24f32b19aea9af6a50d94749799781da07b6f8ccb8555a4c","features":{},"yanked":false}
+{"name":"byteorder","vers":"0.1.1","deps":[{"name":"quickcheck","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9b7b7cfe086152e03a916820d82e9c1b6f6b79cb5360314028e559825928606c","features":{},"yanked":false}
