@@ -7,3 +7,4 @@
 {"name":"stomp","vers":"0.5.0","deps":[],"cksum":"4dff4ac5e058693947308e8e9d1bbc197eb8901994b8804602828a1df0493811","features":{},"yanked":false}
 {"name":"stomp","vers":"0.5.1","deps":[{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7fe23e32c37e42bbc97adf16116c200399a62e2844d13ae51521e8d1cb13166d","features":{},"yanked":false}
 {"name":"stomp","vers":"0.5.2","deps":[{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90b0de1b90674cbc65848a94790c1d2ff2ff93414625991d0ad2e66ef003ca1d","features":{},"yanked":false}
+{"name":"stomp","vers":"0.6.0","deps":[{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f38d6b66526e1a90690e20325433ec7503341dc99bf634b3e615dd294f873382","features":{},"yanked":false}
