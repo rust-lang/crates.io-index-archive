@@ -1,1 +1,2 @@
 {"name":"cbor","vers":"0.1.0","deps":[],"cksum":"27520d5eb7ed03ad34aa279a60e1684b1ef259e9efafa5e505be4011c9152039","features":{},"yanked":false}
+{"name":"cbor","vers":"0.1.1","deps":[{"name":"byteorder","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52d902f03661be12cc30b82158d3cb925e97054f7ba79df1271b171bda2d76ce","features":{},"yanked":false}
