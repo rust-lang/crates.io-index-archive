@@ -3,3 +3,4 @@
 {"name":"noise","vers":"0.0.2","deps":[],"cksum":"a2f99b94d683b3536c4423b48d035ab6caf9ba96c1fda5952e8a280c4f168c98","features":{},"yanked":false}
 {"name":"noise","vers":"0.0.4","deps":[],"cksum":"f9341b5bed2cc3b77e1ee1a7141141bb1249133a1f4f4ae43339d26f1462499e","features":{},"yanked":false}
 {"name":"noise","vers":"0.1.0","deps":[{"name":"image","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dc0c14f447f449c9a2555202e3e388199394d1dea7d292dc6b0e2d1b05a7316a","features":{},"yanked":false}
+{"name":"noise","vers":"0.1.1","deps":[{"name":"image","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"40c7c5c01bc7da9d3fad170cb0338cffb254c3467a53f210d2c2821e51307561","features":{},"yanked":false}
