@@ -1,0 +1,1 @@
+{"name":"ladspa","vers":"0.1.0","deps":[{"name":"bitflags","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d45eefcee64c5019a7c7c6062c74f13fb7a847408816a6c7bd4a94938d318ba","features":{},"yanked":false}
