@@ -1,0 +1,1 @@
+{"name":"read_token","vers":"0.0.0","deps":[{"name":"range","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d02d2d3da3e755919ec67e96b982dc43d2566c418bcf741669166672cf9be62","features":{},"yanked":false}
