@@ -1,1 +1,2 @@
 {"name":"mach","vers":"0.0.1","deps":[],"cksum":"7720c10b8b3fe55911afe826ccc8c45fc5d0b53accad9e8fe99df8c58b2bbfe4","features":{},"yanked":false}
+{"name":"mach","vers":"0.0.2","deps":[{"name":"libc","req":"^0.1.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a692043ccc467b8a48b4d4585abe9dd8ab0bf2b3ef4ea8925e1189214e9a0091","features":{},"yanked":false}
