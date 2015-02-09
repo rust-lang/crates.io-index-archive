@@ -1,3 +1,4 @@
 {"name":"splay","vers":"0.1.0","deps":[],"cksum":"5066a263b11a1651a572375f2257f78d8b0957eff92f572502ea1e45c44d185c","features":{},"yanked":false}
 {"name":"splay","vers":"0.1.2","deps":[],"cksum":"6e4bca3082ad432dd9b4230cbb95b96a52d82176ebd2b60eb415ab2f1073d536","features":{},"yanked":false}
 {"name":"splay","vers":"0.1.3","deps":[],"cksum":"90cfdad8b4240192fa64b68cd06ff36b1ed24218be71410455c3e642bc241d53","features":{},"yanked":false}
+{"name":"splay","vers":"0.1.4","deps":[{"name":"rand","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"aa132fa8b0e4b3292156cf121f76fd0d277dbc2e3e5c81f87ec5fc31ba826c8f","features":{},"yanked":false}
