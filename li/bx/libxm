@@ -1,0 +1,1 @@
+{"name":"libxm","vers":"0.0.1","deps":[{"name":"libxm-sys","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cef3054517198af334931298dda1d3780c0b0627df8d466aa92488993cdc818","features":{},"yanked":false}
