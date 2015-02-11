@@ -14,3 +14,4 @@
 {"name":"shoggoth","vers":"0.0.14","deps":[],"cksum":"031d70b21f615898b7d37bf8c7e0a7d32f3785b5933a161d370d2bb216867302","features":{},"yanked":false}
 {"name":"shoggoth","vers":"0.0.15","deps":[],"cksum":"969c6e7cc6fd3618c9a372aba91582196b989d637c98e02e3fd72c8e3be62d80","features":{},"yanked":false}
 {"name":"shoggoth","vers":"0.0.16","deps":[],"cksum":"c4b1a30ae4ff126bac596c6acdd23b89c3d48c85e458c4f8b493ec656117c8cf","features":{},"yanked":false}
+{"name":"shoggoth","vers":"0.0.17","deps":[{"name":"shoggoth_macros","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"359cc87058c73afc02a1ffeb454a28154f2b546cd667caae6e71a624acb8f139","features":{},"yanked":false}
