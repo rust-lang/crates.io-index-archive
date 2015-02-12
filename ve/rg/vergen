@@ -1,0 +1,1 @@
+{"name":"vergen","vers":"0.0.1","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6fa82526a9ae23d4496ddb85bfc5052e8319d41993bf3fc80a3c9cc4ee17af3","features":{},"yanked":false}
