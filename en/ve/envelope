@@ -1,0 +1,1 @@
+{"name":"envelope","vers":"0.1.2","deps":[{"name":"rustc-serialize","req":"^0.2.12","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6cc6134c78aaa416056decd02b6e7cde056fb124a938abf2bdaff643321588c0","features":{},"yanked":false}
