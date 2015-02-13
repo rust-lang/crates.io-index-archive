@@ -1,1 +1,2 @@
 {"name":"vergen","vers":"0.0.1","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6fa82526a9ae23d4496ddb85bfc5052e8319d41993bf3fc80a3c9cc4ee17af3","features":{},"yanked":false}
+{"name":"vergen","vers":"0.0.2","deps":[{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4715f7ae226bb2c81d366809ca49c46bac5eef7b7f02d24f590dbaafa42cfe03","features":{},"yanked":false}
