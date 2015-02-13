@@ -29,3 +29,4 @@
 {"name":"capnp","vers":"0.1.6","deps":[{"name":"libc","req":"^0.1.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b168f5216c51e6c7c0154c3939204ed2dca3e9034fff23c90e12fba098dd7fd5","features":{},"yanked":false}
 {"name":"capnp","vers":"0.1.7","deps":[{"name":"libc","req":"^0.1.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"065026b291cc25dd42dd504a5dce6d637457f1e13c9cf1760db9a90ed0fd6d87","features":{},"yanked":false}
 {"name":"capnp","vers":"0.1.8","deps":[],"cksum":"fdac7a88fededeec1f4448d17021720256898f3e4f7f25276c693c360d36a530","features":{},"yanked":false}
+{"name":"capnp","vers":"0.1.9","deps":[],"cksum":"bb1a308b4a6c4427e766eeaf3b20782e28bac9e4f40dda09cbfff024942c7f4f","features":{},"yanked":false}
