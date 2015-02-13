@@ -8,3 +8,4 @@
 {"name":"termbox-sys","vers":"0.1.5","deps":[],"cksum":"649e8fa0362a1c5919dfa25b0b203c84570bfb9635f7bcd3c4488a446cb1ab98","features":{},"yanked":false}
 {"name":"termbox-sys","vers":"0.1.6","deps":[],"cksum":"12a5204d31d8a7b317143c2f9783f4280faa6cb8ba1cddb01452c9587486dd3a","features":{},"yanked":false}
 {"name":"termbox-sys","vers":"0.1.7","deps":[],"cksum":"c39b1a17f2c3a0b83ff2cea13f9882b3c04ef51359e6bf7f352f04fe7b8b0f02","features":{},"yanked":false}
+{"name":"termbox-sys","vers":"0.1.8","deps":[],"cksum":"73a14488ff43286eb2e2210b4b3b2104682aebe66411cf4c9f66331fb52460f5","features":{},"yanked":false}
