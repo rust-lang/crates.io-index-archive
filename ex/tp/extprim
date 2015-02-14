@@ -3,3 +3,4 @@
 {"name":"extprim","vers":"0.2.2","deps":[{"name":"extprim_literals","req":"~0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3ea65308c347f4ef5e143c7eb374a4ab0242033dab45209d4b784fef00174545","features":{},"yanked":false}
 {"name":"extprim","vers":"0.2.3","deps":[{"name":"extprim_literals","req":"~0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5765392d4a480d7950d7fb77ae91f83fcd41cd2010a532541d5e3ec10928a929","features":{},"yanked":false}
 {"name":"extprim","vers":"0.3.0","deps":[],"cksum":"d8ec157aed834b95173dfb2ecf2c1e8553fb1326867544da32831ea687671ffe","features":{},"yanked":false}
+{"name":"extprim","vers":"0.4.1","deps":[{"name":"lazy_static","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60920c9b40c909f20417cca1b704c06228059d517853b33de61685f4f1324641","features":{},"yanked":false}
