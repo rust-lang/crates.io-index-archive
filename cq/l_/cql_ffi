@@ -4,3 +4,4 @@
 {"name":"cql_ffi","vers":"0.0.5","deps":[],"cksum":"84fbdbb91127e6df7abdfe3afa3017e10bd1caef9269fad0502adecb61c84bbe","features":{},"yanked":false}
 {"name":"cql_ffi","vers":"0.0.6","deps":[],"cksum":"8d0801a09485d18fbe3120648bd0865c5b1e488c6db06bc7b2294c2a3cc9dbed","features":{},"yanked":false}
 {"name":"cql_ffi","vers":"0.0.7","deps":[],"cksum":"874f82fc829a138cdecf2cbdf74fb5c9e8e2022176cb65473e29e5d069e0f639","features":{},"yanked":false}
+{"name":"cql_ffi","vers":"0.0.8","deps":[{"name":"cql_bindgen","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88e43855a267a85cd74e0a82e853990b9da9beec9b559efb23587e8e7b057031","features":{},"yanked":false}
