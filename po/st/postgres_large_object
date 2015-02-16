@@ -1,0 +1,1 @@
+{"name":"postgres_large_object","vers":"0.1.0","deps":[{"name":"postgres","req":"^0.6.4","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"804c20055b22b45b7bea229efa1409be6ae101b4efaf44393ced017296dea152","features":{},"yanked":false}
