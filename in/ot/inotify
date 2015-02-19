@@ -5,3 +5,4 @@
 {"name":"inotify","vers":"0.1.3","deps":[],"cksum":"1aa2211774d9fbb70d064fd6688306d034a9ef468e5c0dae045132f41937c58a","features":{},"yanked":false}
 {"name":"inotify","vers":"0.1.4","deps":[],"cksum":"3b789dc0883468d0b17f3457eb08e217faae87c8f2ff19b6fc534d8875382045","features":{},"yanked":false}
 {"name":"inotify","vers":"0.1.5","deps":[],"cksum":"7e868b9990117d2a43ba72c62411c4d52d40e8a161f05ca0ef8ebce6ace78bed","features":{},"yanked":false}
+{"name":"inotify","vers":"0.1.6","deps":[],"cksum":"6b90dffb12f38b20010321a8c3b21bba52257478b56d6f6cdc7d6ead5128725d","features":{},"yanked":false}
