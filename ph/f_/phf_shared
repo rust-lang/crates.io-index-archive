@@ -21,3 +21,4 @@
 {"name":"phf_shared","vers":"0.6.5","deps":[],"cksum":"1bb2a802cfcf3e324f73786810ea85fcdc5a03d8dc1e601e8a6f975b9da8bc1f","features":{"core":[]},"yanked":false}
 {"name":"phf_shared","vers":"0.6.6","deps":[],"cksum":"cc2829aa15bca0f0e5496fe723f0f900dc4fe1dbabd39c0c3fb5a42175acd6ab","features":{"core":[]},"yanked":false}
 {"name":"phf_shared","vers":"0.6.7","deps":[],"cksum":"8cadb1d46475b0fa7543ec210aa03b6729393c166f21c0215ef9504a5c63c2b1","features":{"core":[]},"yanked":false}
+{"name":"phf_shared","vers":"0.6.8","deps":[],"cksum":"28462119fa5f5287114ec6bd8e4856be2c59c55db82f950d2d84f9f21d3401fd","features":{"core":[]},"yanked":false}
