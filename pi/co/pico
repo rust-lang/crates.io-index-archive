@@ -1,0 +1,1 @@
+{"name":"pico","vers":"0.0.1","deps":[{"name":"hyper","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pico-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6662a48d2b6f9d2fcdf86d048f077bb44f2e36a24deb10546180e6f5be84c3b","features":{},"yanked":false}
