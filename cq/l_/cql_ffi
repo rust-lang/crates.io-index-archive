@@ -6,3 +6,4 @@
 {"name":"cql_ffi","vers":"0.0.7","deps":[],"cksum":"874f82fc829a138cdecf2cbdf74fb5c9e8e2022176cb65473e29e5d069e0f639","features":{},"yanked":false}
 {"name":"cql_ffi","vers":"0.0.8","deps":[{"name":"cql_bindgen","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88e43855a267a85cd74e0a82e853990b9da9beec9b559efb23587e8e7b057031","features":{},"yanked":false}
 {"name":"cql_ffi","vers":"0.1.0","deps":[{"name":"cql_bindgen","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"254d7a6c19bcdbb3679dd31a8525e0aed047a0b867552974b0d48d273a13737a","features":{},"yanked":false}
+{"name":"cql_ffi","vers":"0.1.1","deps":[{"name":"cql_bindgen","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d915028ed746c0b093c542529db78f6278b2685cd7ceab8f7e4e295e28fd0f1d","features":{},"yanked":false}
