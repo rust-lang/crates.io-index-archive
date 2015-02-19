@@ -1,1 +1,2 @@
 {"name":"uuid-sys","vers":"0.0.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"095edb0cdba9f9fd1b57d31247ea8b39bd91eaac1ef726721ddf8506efca22a9","features":{},"yanked":false}
+{"name":"uuid-sys","vers":"0.0.2","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"118c6fcdf73b3ed06d3aac06a33d05200d2faf66a9f1e41c9b37697b3a9ea80f","features":{},"yanked":false}
