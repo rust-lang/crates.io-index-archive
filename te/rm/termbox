@@ -1,1 +1,2 @@
 {"name":"termbox","vers":"0.0.1","deps":[],"cksum":"f7c6988eeee5af876ab6b4d633fc62786d46e1e6ba236e3db10a5d368b79f63b","features":{},"yanked":false}
+{"name":"termbox","vers":"0.0.2","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"bitflags","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d849f85c14ffac43217f2b62243217a84283f5b01d4d5211f8e902a74348a354","features":{},"yanked":false}
