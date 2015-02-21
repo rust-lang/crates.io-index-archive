@@ -1,0 +1,1 @@
+{"name":"temporary","vers":"0.0.1","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ec92e197e3b81b1579e0a856c816adc7897a939eeda86231c41cb9acd0b0a9a","features":{},"yanked":false}
