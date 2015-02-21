@@ -1,0 +1,1 @@
+{"name":"unix_socket","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7403bdac0dd85e5cd99b17c36c93a1c45577ba11bb2e3809eff76c274a2e84bf","features":{},"yanked":false}
