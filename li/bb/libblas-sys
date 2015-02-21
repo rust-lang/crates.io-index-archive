@@ -6,3 +6,4 @@
 {"name":"libblas-sys","vers":"0.0.6","deps":[],"cksum":"925e1d0f859e9028029e1975a23c083294006570042b390d1164785b98b75dab","features":{},"yanked":false}
 {"name":"libblas-sys","vers":"0.0.7","deps":[],"cksum":"e0349409c0ca96f740981f73a57563b3f6767ea42f80f441afbae354e2635341","features":{},"yanked":false}
 {"name":"libblas-sys","vers":"0.0.8","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d805b8fec94b4e0079665b24538c35a27a3086cd7e2893a44f8002a07dc161d8","features":{},"yanked":false}
+{"name":"libblas-sys","vers":"0.0.9","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c9a226238056175ce201afbdbccd12c6d1e51f8997411b5d5a1e2dcafa2bd6f","features":{},"yanked":false}
