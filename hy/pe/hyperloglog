@@ -4,3 +4,4 @@
 {"name":"hyperloglog","vers":"0.0.4","deps":[],"cksum":"466b6e53b18d793b51691999bc2183ed7d34b888af662bcf34cfe79729ddda62","features":{},"yanked":false}
 {"name":"hyperloglog","vers":"0.0.5","deps":[],"cksum":"81b16fea585479e8da0ff936d961559c215066ed571766058f14bacf2a60060d","features":{},"yanked":false}
 {"name":"hyperloglog","vers":"0.0.6","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1aefeff28010d8817626d0bf0d1084e7368419628da7c8a1c89546bbf298df3","features":{},"yanked":false}
+{"name":"hyperloglog","vers":"0.0.7","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aea263a0324de479e9a49cb8a3beb791815bc6af6422eed7bfef7ba8a0f4dd84","features":{},"yanked":false}
