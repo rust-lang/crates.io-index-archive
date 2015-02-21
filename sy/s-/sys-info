@@ -1,0 +1,1 @@
+{"name":"sys-info","vers":"0.1.1","deps":[{"name":"gcc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5fc1e5f9c95b0c8749331da3d5e0eff3c7ea734691bd131b1ed5763a4e150f83","features":{},"yanked":false}
