@@ -4,3 +4,4 @@
 {"name":"allegro-sys","vers":"0.0.5","deps":[],"cksum":"3cdc75fbc6cf46241a2479f07512d17295961a272d7b6dba8404a08cff9357d7","features":{"link_none":[],"link_monolith":[],"link_debug":[],"link_static":[]},"yanked":false}
 {"name":"allegro-sys","vers":"0.0.6","deps":[],"cksum":"57e257b9ffdbe0b7d91af4589be74f0ceacbf7bd6f4ff348252c533cec01048f","features":{"link_monolith":[],"link_none":[],"link_static":[],"link_debug":[]},"yanked":false}
 {"name":"allegro-sys","vers":"0.0.7","deps":[],"cksum":"e518494298113b63e210f1a9512c1f327e24ca64ea9ce3f6394141ef8a2a1798","features":{"link_monolith":[],"link_debug":[],"link_static":[],"link_none":[]},"yanked":false}
+{"name":"allegro-sys","vers":"0.0.8","deps":[],"cksum":"a77842670c93b070c1a38330c5008bb4c55100bec51c3abf6e116aef292eef17","features":{"link_static":[],"link_debug":[],"link_none":[],"link_monolith":[]},"yanked":false}
