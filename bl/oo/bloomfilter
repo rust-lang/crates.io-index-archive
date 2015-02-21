@@ -6,3 +6,4 @@
 {"name":"bloomfilter","vers":"0.0.6","deps":[],"cksum":"d6a060f38c182f18764ce5381801964164379c0781c6d2e446e4c4fbcd4add18","features":{},"yanked":false}
 {"name":"bloomfilter","vers":"0.0.7","deps":[],"cksum":"d2bf0c85eab2e5d0a4d102ebf79031a9d2bf30aefb671cc9f2f18e0d5a006966","features":{},"yanked":false}
 {"name":"bloomfilter","vers":"0.0.8","deps":[],"cksum":"2f535a577aebb39ef6d38965e001a330a96e3f68a1b34f92c87ddc422d88793b","features":{},"yanked":false}
+{"name":"bloomfilter","vers":"0.0.9","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a654e1078ded478e114a08480a5af4d8c98417abd3c136f3be222a9107ea369","features":{},"yanked":false}
