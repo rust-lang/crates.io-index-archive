@@ -1,0 +1,1 @@
+{"name":"lmdb-sys","vers":"0.3.0","deps":[{"name":"pkg-config","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"gcc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8b7ee896dacc70f87650cf1ea2eaf6ff7da9d70472dc7533cd67f4e8aeb1ccb6","features":{},"yanked":false}
