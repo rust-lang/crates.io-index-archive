@@ -8,3 +8,4 @@
 {"name":"beanstalkd","vers":"0.2.4","deps":[],"cksum":"dd486636976eb404ea2d4740df40179869a885cd02208794e26be36c8e324e14","features":{},"yanked":false}
 {"name":"beanstalkd","vers":"0.3.0","deps":[],"cksum":"3cbcf66b2a0a0cd01d4456142333a43ef1c48130e38e5c85e8699e67f704d888","features":{},"yanked":false}
 {"name":"beanstalkd","vers":"0.3.1","deps":[],"cksum":"cc3ce328559039ebbdc2aff3162bc0ab86b0b86496599957d0bf1ef99d95eef0","features":{},"yanked":false}
+{"name":"beanstalkd","vers":"0.3.2","deps":[],"cksum":"73e28ca06d02bdd62920b2a6e13a0ed3fdedddd3400d378d5b1860d892101518","features":{},"yanked":false}
