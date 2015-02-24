@@ -1,3 +1,4 @@
 {"name":"rocksdb","vers":"0.0.1","deps":[],"cksum":"4933b4db381e16de0c15f6fb2b4ddbcb70751badbeae4e066d84fa1b71862b2b","features":{},"yanked":false}
 {"name":"rocksdb","vers":"0.0.2","deps":[],"cksum":"6c555656de7a3253832bdabf5e6f1b3089ed41be9eb79427c29605360d6724d0","features":{},"yanked":false}
 {"name":"rocksdb","vers":"0.0.3","deps":[],"cksum":"69143cee6c3dde25c53fd20b94c20a7261300ff497616247c0f8f09195f06c25","features":{},"yanked":false}
+{"name":"rocksdb","vers":"0.0.4","deps":[],"cksum":"9712ab48aa141b333a9a85326f6a3d3a9e0fab02cf528bb2087c5492063cd63e","features":{},"yanked":false}
