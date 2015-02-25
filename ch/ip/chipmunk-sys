@@ -1,0 +1,1 @@
+{"name":"chipmunk-sys","vers":"0.0.1","deps":[{"name":"gcc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b329299a7e5e751cca20da4235c63ed1de9b0018b23e005d819b387fc4a63f2f","features":{},"yanked":false}
