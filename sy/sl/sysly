@@ -1,0 +1,1 @@
+{"name":"sysly","vers":"0.0.1","deps":[{"name":"time","req":"^0.1.17","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86227035227a72d9abf2693ca9a4e06ac14285a4de2e9c1ddb1949e3ee827e6d","features":{},"yanked":false}
