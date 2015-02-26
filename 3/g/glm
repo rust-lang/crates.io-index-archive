@@ -1,0 +1,1 @@
+{"name":"glm","vers":"0.1.0","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quickcheck","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"845006dcfa016a1fc746fba59970a56ddaa51ace2b783043921f11153863bc88","features":{},"yanked":false}
