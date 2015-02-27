@@ -1,0 +1,1 @@
+{"name":"systemd","vers":"0.0.1","deps":[{"name":"libsystemd-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23c609a00d5fd9b58e6cc2c973623018e38fac21f1186bbcef7d9ae38aaa6179","features":{},"yanked":false}
