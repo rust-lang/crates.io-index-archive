@@ -1,0 +1,1 @@
+{"name":"yup-hyper-mock","vers":"0.1.0","deps":[{"name":"hyper","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d8c0bf72f46d64e7f64942a34b803e273969e4304e5ed1225a193aa1c82ddcd","features":{},"yanked":false}
