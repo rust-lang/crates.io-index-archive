@@ -14,3 +14,4 @@
 {"name":"tar","vers":"0.1.10","deps":[],"cksum":"10019d2c35c63a1626f6176e4385ef0b9feb47fa713ec64ea4a5281de302fc2d","features":{},"yanked":false}
 {"name":"tar","vers":"0.1.11","deps":[],"cksum":"a1f93cc208193ad5efeb161dabbf2587a303581c3c03b303010a24b3392dd6b7","features":{},"yanked":false}
 {"name":"tar","vers":"0.2.0","deps":[{"name":"rand","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a0e5c3b414f8cfb910d360cf5856cdafd2607178b0cd6adbd743afed894a5c61","features":{},"yanked":false}
+{"name":"tar","vers":"0.2.1","deps":[],"cksum":"66b64ee8330a9087fd8b3f16a60466c908927ffbdb50e2c00e18d8003b4742d9","features":{},"yanked":false}
