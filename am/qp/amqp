@@ -1,1 +1,2 @@
 {"name":"amqp","vers":"0.0.3","deps":[],"cksum":"15038e10869ed183cc70be96fddb6bd93e5541b67d996b648e3e8b05e058f83d","features":{},"yanked":false}
+{"name":"amqp","vers":"0.0.5","deps":[{"name":"url","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"collect","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0eb5fdd0faab9492735ceb2ee6577bca31462eef3c4a46a9b302016ea0d2e19","features":{},"yanked":false}
