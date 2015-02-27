@@ -1,0 +1,1 @@
+{"name":"hlua","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"lua52-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fdfeefcd1d1e02039b6f6efde5169da1c16c81c84ab597610818ad743d493e23","features":{},"yanked":false}
