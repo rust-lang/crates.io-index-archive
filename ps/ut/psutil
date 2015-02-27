@@ -1,2 +1,3 @@
 {"name":"psutil","vers":"0.1.0","deps":[],"cksum":"4be6b1409d41df11444733aca83371d181923535401a1538d27cea09c4a88aca","features":{},"yanked":false}
 {"name":"psutil","vers":"0.2.0","deps":[],"cksum":"96f1110e224b56d98f33d778d85a448f10a90d32fcf8c4af7363325da235193a","features":{},"yanked":false}
+{"name":"psutil","vers":"0.3.0","deps":[{"name":"libc","req":"^0.1.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48adbec6339c42ffe4d10f1ac9d2f90d3dd7494ee425ac86dd7478eb8b0a8704","features":{},"yanked":false}
