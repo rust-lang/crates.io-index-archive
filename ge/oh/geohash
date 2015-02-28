@@ -3,3 +3,4 @@
 {"name":"geohash","vers":"0.1.2","deps":[],"cksum":"e25a5f9816b2986a96fe4ff559f92e7d8285177950ec9abcda64456e97a68051","features":{},"yanked":false}
 {"name":"geohash","vers":"0.2.0","deps":[{"name":"geo","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ae8c8cdbdc582446d6314699ef67702615a87bbf5bb7a4e08fb9887947f7cd2","features":{},"yanked":false}
 {"name":"geohash","vers":"0.2.1","deps":[{"name":"geo","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd0f3baa7cb9be80c8c0c91cae06e8117dae7014f224bd11955c6609a5fc8564","features":{},"yanked":false}
+{"name":"geohash","vers":"0.2.2","deps":[{"name":"geo","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ebe1d45abe7d50745d18b6c5345d7ee90a90c590fb6a96a883e4c5d6247720b2","features":{},"yanked":false}
