@@ -1,0 +1,1 @@
+{"name":"coreaudio-sys","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4dcef6d350ea657ab7f60277f06f927bf4ae27150946e21f9ab7bb0b8a3ad4e5","features":{},"yanked":false}
