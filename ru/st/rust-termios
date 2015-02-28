@@ -1,0 +1,1 @@
+{"name":"rust-termios","vers":"0.0.1","deps":[{"name":"termios-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61672eb4ea32685ea83feb1729f19235e5a982400833fba9fdebf2713d335eef","features":{},"yanked":false}
