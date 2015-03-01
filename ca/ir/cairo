@@ -1,0 +1,1 @@
+{"name":"cairo","vers":"0.0.3","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27b11fb00262165195f2d318803b8724189caf6cc4fb195eeccc159d3c8c2444","features":{},"yanked":false}
