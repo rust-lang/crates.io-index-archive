@@ -1,0 +1,1 @@
+{"name":"lz4","vers":"1.0.127","deps":[{"name":"gcc","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d714c1d18c63de8f916b16b774774f70cf42f5ceaadc141f3bc7b59a17fa3e27","features":{},"yanked":false}
