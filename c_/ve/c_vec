@@ -4,3 +4,4 @@
 {"name":"c_vec","vers":"1.0.3","deps":[],"cksum":"e73175fb5ddc0636d07df1054b003fbe66ff4432b2fdb1950123a199e93b02b8","features":{},"yanked":false}
 {"name":"c_vec","vers":"1.0.4","deps":[],"cksum":"7546f81aa736dec82c600a1c4b8e32dbe565bd0883e14cd3cf69b836b3e24996","features":{},"yanked":false}
 {"name":"c_vec","vers":"1.0.5","deps":[],"cksum":"96fb81be5d452f75ee0ea803dcebeab9a9b2801628f4922f0dbd324c91eac758","features":{},"yanked":false}
+{"name":"c_vec","vers":"1.0.6","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"472618105d99ccd1483812ef29a8f1fd4e011a5cecad7adb01f78b8318a70f1b","features":{},"yanked":false}
