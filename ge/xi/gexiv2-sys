@@ -1,0 +1,1 @@
+{"name":"gexiv2-sys","vers":"0.1.0","deps":[{"name":"pkg-config","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c0613f1058753947b09c6119781402604455616eeb86555a5cb16e15931e1334","features":{},"yanked":false}
