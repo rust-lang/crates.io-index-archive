@@ -1,0 +1,1 @@
+{"name":"wio","vers":"0.0.1","deps":[{"name":"kernel32-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec9483acad3a77d806e25a4240fd02d58b6f3dc2ac18c17db464f9c4b044585d","features":{},"yanked":false}
