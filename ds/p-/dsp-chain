@@ -1,0 +1,1 @@
+{"name":"dsp-chain","vers":"0.2.0","deps":[{"name":"sound_stream","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e7ffc8874492634dbca34435544fcc6a5c82148640fdefe6454862ac4c3625d","features":{},"yanked":false}
