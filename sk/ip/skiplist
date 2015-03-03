@@ -1,0 +1,1 @@
+{"name":"skiplist","vers":"0.1.0","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3a20777ccc2cec243c9d3bfe30e8f485a4e83a09e5e334a5370b357499ad61f","features":{},"yanked":false}
