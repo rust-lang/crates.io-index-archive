@@ -1,0 +1,1 @@
+{"name":"tinfo","vers":"0.0.1","deps":[{"name":"regex","req":"^0.1.17","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1afeb810ee661e152201baeb59698d87729c20a31f1634d5164edb3657cf162a","features":{},"yanked":false}
