@@ -4,3 +4,4 @@
 {"name":"traverse","vers":"0.0.4","deps":[],"cksum":"b20f0cf7e385b93ab8aef68edd29fbe06a0f69d5a4edf9054419ab949250c877","features":{},"yanked":false}
 {"name":"traverse","vers":"0.0.5","deps":[],"cksum":"c7f418b1265a7b78d5f3aa95e6a884a9167e2d51806988af61dc64cab14ed561","features":{},"yanked":false}
 {"name":"traverse","vers":"0.0.6","deps":[],"cksum":"30b1031d0c1521f0ac9ebec625b3c6112112419f5ce09a17abb0bc79d1a0b587","features":{},"yanked":false}
+{"name":"traverse","vers":"0.0.7","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"76720c87df58b67358b0a09e7934bdc439f3dbb15a5b2cebdeebe474dd191d07","features":{},"yanked":false}
