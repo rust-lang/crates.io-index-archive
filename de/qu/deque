@@ -7,3 +7,4 @@
 {"name":"deque","vers":"0.1.6","deps":[],"cksum":"66a8b612d244566e2550992f4c50855e8bbad734fa3ce61e4313a44aa04c2ca2","features":{},"yanked":false}
 {"name":"deque","vers":"0.1.7","deps":[{"name":"rand","req":"0.1.*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61e4dc4acdbc8d4fdeed33dcd48b1f80f693fae5e42787484d88bfe07a7a45ea","features":{},"yanked":false}
 {"name":"deque","vers":"0.1.8","deps":[{"name":"rand","req":"0.1.*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b30545167e132856c7cb620fe83abc1ccadebc139b6f1f780822b80816bbd03d","features":{},"yanked":false}
+{"name":"deque","vers":"0.1.9","deps":[{"name":"rand","req":"0.1.*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0af384a63ee67c9555662356981d5a0e413d81ce16e6a4443e06e97f7f1f24b","features":{},"yanked":false}
