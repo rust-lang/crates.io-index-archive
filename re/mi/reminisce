@@ -4,3 +4,4 @@
 {"name":"reminisce","vers":"0.0.4","deps":[],"cksum":"17aa9c35a0b3ef7b54b0a2737e18899738d4061ef9d767fbfff75ea74e9bab2b","features":{},"yanked":false}
 {"name":"reminisce","vers":"0.0.5","deps":[],"cksum":"b31ec00976727d442cd7f8ffe10348ec895bc621f4081ba1da4fe78db8d85f95","features":{},"yanked":false}
 {"name":"reminisce","vers":"0.0.6","deps":[],"cksum":"4e36a87c40e32a36fbe8543c86b64e9f0256a6757e65875bdedd32d27dbb27fe","features":{},"yanked":false}
+{"name":"reminisce","vers":"0.0.7","deps":[{"name":"sdl2","req":"*","features":[""],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a91e5bb761244e5430d3f8bbcd8838a6ba68e7d98a8937cb5b284cc141a9b9ae","features":{"default":[],"sdl":["sdl2"]},"yanked":false}
