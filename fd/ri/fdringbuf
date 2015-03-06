@@ -1,0 +1,1 @@
+{"name":"fdringbuf","vers":"0.0.1","deps":[{"name":"nix","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cc04a3dddbaaad59c2a9056b9c0c95f2965d33fe0e6ffaf5939ee3c900b0af44","features":{},"yanked":false}
