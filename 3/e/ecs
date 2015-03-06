@@ -7,3 +7,4 @@
 {"name":"ecs","vers":"0.16.5","deps":[],"cksum":"cd52de24b94e4988e31af9c590c242a901894dab478458d730dcc76695db716e","features":{},"yanked":false}
 {"name":"ecs","vers":"0.16.6","deps":[],"cksum":"62344a50a116274f919cac4f236c92b80e174a6110f81923943ed7597750ca71","features":{},"yanked":false}
 {"name":"ecs","vers":"0.16.7","deps":[],"cksum":"71c46b122f95dcb1069bea6e962c0e61ed66e155b34bd428381b5c122a261907","features":{},"yanked":false}
+{"name":"ecs","vers":"0.17.0","deps":[],"cksum":"32aedec3f016809e19eb9b287d76509a57b9d5d5d9225af4f9ce549839591aee","features":{},"yanked":false}
