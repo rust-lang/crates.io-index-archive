@@ -6,3 +6,4 @@
 {"name":"c_vec","vers":"1.0.5","deps":[],"cksum":"96fb81be5d452f75ee0ea803dcebeab9a9b2801628f4922f0dbd324c91eac758","features":{},"yanked":false}
 {"name":"c_vec","vers":"1.0.6","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"472618105d99ccd1483812ef29a8f1fd4e011a5cecad7adb01f78b8318a70f1b","features":{},"yanked":false}
 {"name":"c_vec","vers":"1.0.7","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b64873034c8fc10502213f7683dd10a671324ebee71447ce7d885c920f320162","features":{},"yanked":false}
+{"name":"c_vec","vers":"1.0.8","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5f6c74a481d0bc6ec3cd66135c4e70c6d659d43f53582a86c69b28fdc7dc71cd","features":{},"yanked":false}
