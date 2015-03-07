@@ -5,3 +5,4 @@
 {"name":"reminisce","vers":"0.0.5","deps":[],"cksum":"b31ec00976727d442cd7f8ffe10348ec895bc621f4081ba1da4fe78db8d85f95","features":{},"yanked":false}
 {"name":"reminisce","vers":"0.0.6","deps":[],"cksum":"4e36a87c40e32a36fbe8543c86b64e9f0256a6757e65875bdedd32d27dbb27fe","features":{},"yanked":false}
 {"name":"reminisce","vers":"0.0.7","deps":[{"name":"sdl2","req":"*","features":[""],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a91e5bb761244e5430d3f8bbcd8838a6ba68e7d98a8937cb5b284cc141a9b9ae","features":{"default":[],"sdl":["sdl2"]},"yanked":false}
+{"name":"reminisce","vers":"0.0.8","deps":[{"name":"sdl2","req":"*","features":[""],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a71dd5e6a6ff7870c9dc8ee138bc60d4b8d0937d854c6f53c615d42b867f98fe","features":{"sdl":["sdl2"],"default":[]},"yanked":false}
