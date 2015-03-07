@@ -2,3 +2,4 @@
 {"name":"psutil","vers":"0.2.0","deps":[],"cksum":"96f1110e224b56d98f33d778d85a448f10a90d32fcf8c4af7363325da235193a","features":{},"yanked":false}
 {"name":"psutil","vers":"0.3.0","deps":[{"name":"libc","req":"^0.1.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48adbec6339c42ffe4d10f1ac9d2f90d3dd7494ee425ac86dd7478eb8b0a8704","features":{},"yanked":false}
 {"name":"psutil","vers":"0.4.0","deps":[{"name":"libc","req":"^0.1.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec2e0338cd36fd6ee6a4ffcc8f01074192da8cfe1b9613c89f0fc8918c5b2151","features":{},"yanked":false}
+{"name":"psutil","vers":"0.5.0","deps":[{"name":"libc","req":"^0.1.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07a52bf41f4c14c039001b1f901f2aa7dff37dbdc2144c56d048562004a4bc65","features":{},"yanked":false}
