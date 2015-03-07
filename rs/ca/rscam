@@ -3,3 +3,4 @@
 {"name":"rscam","vers":"0.3.5","deps":[],"cksum":"e678c5725ff0359f3b09b418f4cc491a3e8f3d4095fa626b22fd6890bd3ba3bf","features":{"default":["use_wrapper"],"use_wrapper":[]},"yanked":false}
 {"name":"rscam","vers":"0.3.6","deps":[],"cksum":"1d9624f121f03ea5fa2326d0a877eedfe1b146583769fec63d39ec645b60d348","features":{"use_wrapper":[],"default":["use_wrapper"]},"yanked":false}
 {"name":"rscam","vers":"0.3.7","deps":[],"cksum":"df4c188546a7604b2f050bf12dc8262597f6904dd8d2dce9c02b887f23235b53","features":{"default":["use_wrapper"],"use_wrapper":[]},"yanked":false}
+{"name":"rscam","vers":"0.3.8","deps":[],"cksum":"eed6ad2b7683f3aa289971110bb54128ff0b29e1065a97d8b043a299ddcff703","features":{"use_wrapper":[],"default":["use_wrapper"]},"yanked":false}
