@@ -1,0 +1,1 @@
+{"name":"sha","vers":"0.2.2","deps":[{"name":"rustc-serialize","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"bswap","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25bfa81719857fe7c5de1b7706d7e5f03106aeb74a5de64952566c47c4572d48","features":{},"yanked":false}
