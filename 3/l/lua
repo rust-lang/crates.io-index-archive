@@ -3,3 +3,4 @@
 {"name":"lua","vers":"0.0.3","deps":[],"cksum":"e2694944f91d0945569e962ad2be42c5e6c39d8354ee6b487e2c020024f8d829","features":{},"yanked":false}
 {"name":"lua","vers":"0.0.4","deps":[],"cksum":"93a6c0b0d2386ae20e95408db43ff723c3311ace5ab4adf3ee27f9035759f498","features":{},"yanked":false}
 {"name":"lua","vers":"0.0.5","deps":[{"name":"bitflags","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"415f275c5602217b4b113ad83cb4ea5a089364d9c6370bba233d0cff431a09bf","features":{},"yanked":false}
+{"name":"lua","vers":"0.0.6","deps":[{"name":"bitflags","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65ac20c93b7a36beab1a103669faab5a7be9d62640ba463bcd04471a4e309712","features":{},"yanked":false}
