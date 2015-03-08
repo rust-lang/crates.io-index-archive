@@ -1,1 +1,2 @@
 {"name":"quasi","vers":"0.1.0","deps":[{"name":"quasi_macros","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6d042caaf34f00556f5dd55ab0beaa28a54713405cc0c8b0a161aeb053aeef29","features":{},"yanked":false}
+{"name":"quasi","vers":"0.1.1","deps":[{"name":"quasi_macros","req":"^0.1.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ba082ed180d98ebb7271e58df3eb953d3d6abda94beca4cf27991700706045a9","features":{},"yanked":false}
