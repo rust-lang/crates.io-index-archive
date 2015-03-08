@@ -2,3 +2,4 @@
 {"name":"atomicwrites","vers":"0.0.2","deps":[],"cksum":"a2ae922421512328266fd03a423bd11b704db0d9f19d5d52a8fe5c50259865a2","features":{},"yanked":false}
 {"name":"atomicwrites","vers":"0.0.3","deps":[],"cksum":"3d52674195b53bdcfb10a707264950c37083679c628dbf4ab3a5212457fc0180","features":{},"yanked":false}
 {"name":"atomicwrites","vers":"0.0.4","deps":[],"cksum":"ee58b86d29e053ff785f274aefa12f434066055bc9b530d2d330dad2cc4c94d0","features":{},"yanked":false}
+{"name":"atomicwrites","vers":"0.0.5","deps":[{"name":"tempdir","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1832d4c0f7edbc20fa2e57df409b3da3dd2b7a0d7b95e2694afa3b13b28d8deb","features":{},"yanked":false}
