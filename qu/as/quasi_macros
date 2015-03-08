@@ -1,1 +1,2 @@
 {"name":"quasi_macros","vers":"0.1.0","deps":[{"name":"syntax_ast_builder","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8259eed5ea594f9e4df97c32df9185a206d3004f116d2f459c74df32c5abc3c7","features":{},"yanked":false}
+{"name":"quasi_macros","vers":"0.1.1","deps":[{"name":"aster","req":"^0.1.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9277bd7ee290cfa5ebb9f13509092d53b3af3a93e306190b03c9d0f816a0b315","features":{},"yanked":false}
