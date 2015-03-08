@@ -1,2 +1,3 @@
 {"name":"socket","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"faeb67d2d0d1ae6d35cdbe80b43985e68ef2fb1b2a27e5193a09bac2a6f82abf","features":{},"yanked":false}
 {"name":"socket","vers":"0.0.2","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c2fb2aaa9c4f5d0900b778406e6020f74f7cfea0a9c5916bf04c2dc01fd6252","features":{},"yanked":false}
+{"name":"socket","vers":"0.0.3","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a844039a90b06e37a9f349ce27caf1ff019c071013667f82c0a1d9959c52adb9","features":{},"yanked":false}
