@@ -1,1 +1,2 @@
 {"name":"mersenne-twister","vers":"0.0.1","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c22774419cd854616be7b8b0275335f2c12ad0982efb34e83d53ced1e1e0a8a","features":{},"yanked":false}
+{"name":"mersenne-twister","vers":"0.1.0","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb7f476c1bfbadf4aacb6a2d99c1767369839ab3618393bbe1934c1320fa7255","features":{},"yanked":false}
