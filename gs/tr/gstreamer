@@ -1,0 +1,1 @@
+{"name":"gstreamer","vers":"0.1.0","deps":[{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7265d5b8313363426e3a1082a9b064e1295bb7016509d9a641f10d61ca14e14c","features":{},"yanked":false}
