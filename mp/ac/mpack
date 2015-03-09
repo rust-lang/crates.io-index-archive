@@ -2,3 +2,4 @@
 {"name":"mpack","vers":"0.0.2","deps":[],"cksum":"005b1699d8ec030e3a88b5082a131545f32a4e184d6468ac31710d1a59422929","features":{},"yanked":false}
 {"name":"mpack","vers":"0.0.3","deps":[],"cksum":"7a792d551b0c2e9dbb3e8db9d0f3073477740f96d7e6ff1a358f45b62f29753a","features":{},"yanked":false}
 {"name":"mpack","vers":"0.0.4","deps":[],"cksum":"03252cc6829ff05e9680558039247c36f08051893e083cf6df8e0e95e60df690","features":{},"yanked":false}
+{"name":"mpack","vers":"0.0.5","deps":[{"name":"rand","req":"^0.2.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e27e04d6184e8096ffa00bd54bc1c1ab5ce5d57a456896e3176c414fbe747b0","features":{},"yanked":false}
