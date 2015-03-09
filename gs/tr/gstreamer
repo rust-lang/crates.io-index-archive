@@ -1,1 +1,2 @@
 {"name":"gstreamer","vers":"0.1.0","deps":[{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7265d5b8313363426e3a1082a9b064e1295bb7016509d9a641f10d61ca14e14c","features":{},"yanked":false}
+{"name":"gstreamer","vers":"0.1.1","deps":[],"cksum":"dfe64f316bc6dc6918dd9b9042790161830151f01bdab6cd85ae5a377b61938b","features":{},"yanked":false}
