@@ -1,0 +1,1 @@
+{"name":"mersenne-twister","vers":"0.0.1","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c22774419cd854616be7b8b0275335f2c12ad0982efb34e83d53ced1e1e0a8a","features":{},"yanked":false}
