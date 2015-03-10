@@ -1,3 +1,4 @@
 {"name":"ftp","vers":"0.0.1","deps":[],"cksum":"af3e8e92d824a6e71b25ae22d278fb3fdd0982eaaaf41e116d62067c8115d2af","features":{},"yanked":false}
 {"name":"ftp","vers":"0.0.2","deps":[],"cksum":"8505583cb2c9fa2707124e8bc9828b28a3de8c9d07a76affcaedacb71585ce3a","features":{},"yanked":false}
 {"name":"ftp","vers":"0.0.3","deps":[],"cksum":"95f4325ee8a4503e7928776c50cb5955f50c0be17cdfce2186231d27c7c1134b","features":{},"yanked":false}
+{"name":"ftp","vers":"0.0.4","deps":[{"name":"regex","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45ee0da8220fff92b18c0cc6d1bcabd7eafb00719836885cf9121d8f232719ee","features":{},"yanked":false}
