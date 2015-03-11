@@ -2,3 +2,4 @@
 {"name":"syslog","vers":"1.0.0","deps":[],"cksum":"8302bbf78ed3a5753b316535e3a7d15177c673bbeccb84eddab2048c9fb7cf35","features":{},"yanked":false}
 {"name":"syslog","vers":"1.0.1","deps":[],"cksum":"560e25f0a4fe58ff2236eb3f2ebad1d1f2d33d1f4ac27505a6e8028f0c8266de","features":{},"yanked":false}
 {"name":"syslog","vers":"1.0.2","deps":[],"cksum":"f72b83f9460d05ed2293934a33b40976c82cfdd5849cba26580ae88542d5e5df","features":{},"yanked":false}
+{"name":"syslog","vers":"1.0.3","deps":[],"cksum":"8a6e4c45835cd7cd84bfbca56513ec67935473d5c708606944a211028d16cdce","features":{},"yanked":false}
