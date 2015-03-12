@@ -1,3 +1,4 @@
 {"name":"x11","vers":"0.0.1","deps":[],"cksum":"efd433887ab227c63565139e3790378bb1b427f8d6f45fc320845101be56ab1c","features":{},"yanked":false}
 {"name":"x11","vers":"0.0.2","deps":[],"cksum":"6c496885f76d2964506b206ca8c5c4dd6ad85c7b7535f00dca0b4297305f894a","features":{},"yanked":false}
 {"name":"x11","vers":"0.0.3","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dd30dff4a8233801d72bd554ee8200e2c19aeed55ccc273b21e86818864c7d7","features":{},"yanked":false}
+{"name":"x11","vers":"0.0.4","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77dcdfce994e7973d3e81ddf801f6710bab64a775c843786813ff7f7dc8763ca","features":{},"yanked":false}
