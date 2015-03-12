@@ -1,0 +1,1 @@
+{"name":"maidsafe_types","vers":"0.0.1","deps":[{"name":"rustc-serialize","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d457e99c332666d8e8b9c77aacac392137a18ed4a569f2c4320c8ba057b75777","features":{},"yanked":false}
