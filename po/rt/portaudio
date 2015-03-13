@@ -1,3 +1,4 @@
 {"name":"portaudio","vers":"0.3.0","deps":[],"cksum":"f5726f742c77d665c84d12c061ac7072e81a521d6c404f7953e798d4ce551970","features":{},"yanked":false}
 {"name":"portaudio","vers":"0.3.1","deps":[{"name":"pkg-config","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5efcbb24bba5eef17e931568775b831dbc3e6fd0ac6d801d1b43f0471ccdff71","features":{},"yanked":false}
 {"name":"portaudio","vers":"0.3.2","deps":[{"name":"pkg-config","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5f6454611b0d21f137092f859526eb053cdeb4ab945dfbc376146b35a5b66dcb","features":{},"yanked":false}
+{"name":"portaudio","vers":"0.3.3","deps":[{"name":"pkg-config","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5f653e03e73070b799bdec2468991fa54cc113c64a67f265bc0adf93de268e93","features":{},"yanked":false}
