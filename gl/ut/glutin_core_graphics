@@ -1,0 +1,1 @@
+{"name":"glutin_core_graphics","vers":"0.1.0","deps":[{"name":"core_foundation","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5cb0cbf564cc13ab4a7e0d247f426c6f8970dd8690fcf7815d6a14670f1dc801","features":{},"yanked":false}
