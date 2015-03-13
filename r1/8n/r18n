@@ -1,0 +1,1 @@
+{"name":"r18n","vers":"0.0.1","deps":[{"name":"toml","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6fad045cc847fee7df3841f5063922f8bcb6af78a83cda695a1893f2fadf3de2","features":{},"yanked":false}
