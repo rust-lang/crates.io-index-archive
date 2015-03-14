@@ -3,3 +3,4 @@
 {"name":"gstreamer","vers":"0.1.2","deps":[],"cksum":"74c6d4d8312fca2abe26e066beae86639a0c0a32a34b90ebcf5afcc3c9a6e308","features":{},"yanked":false}
 {"name":"gstreamer","vers":"0.1.3","deps":[],"cksum":"4848cf565201356c88ad8a771df6c8501cba3d202c1abd22c540cfb69d72ee3b","features":{},"yanked":false}
 {"name":"gstreamer","vers":"0.1.4","deps":[],"cksum":"0bda33d63aa423623fd58d283f51262773da9e3c5bf01f9a1f98953696f17301","features":{},"yanked":false}
+{"name":"gstreamer","vers":"0.1.5","deps":[],"cksum":"5d016d1aef2554575680defa9a6a43d3361cf35f74a6499f92f4c4b7c9f104c7","features":{},"yanked":false}
