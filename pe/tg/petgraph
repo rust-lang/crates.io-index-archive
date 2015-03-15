@@ -4,3 +4,4 @@
 {"name":"petgraph","vers":"0.0.4","deps":[],"cksum":"e8211fda6105d7eb4a382266c672357839ce91e5934bd29cb68a7ef7a238bd62","features":{},"yanked":false}
 {"name":"petgraph","vers":"0.0.5","deps":[],"cksum":"fab943c59987685526cd220fd1ee0a8cbd267db6ebffcd2d4eb82e5cafd50273","features":{},"yanked":false}
 {"name":"petgraph","vers":"0.0.6","deps":[],"cksum":"1740e805d1aedf7d81fd8b2a5455c2025c727521614428a57c2dd8591eb9b9c8","features":{},"yanked":false}
+{"name":"petgraph","vers":"0.0.7","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"12ae2a8781008c2d66bd98cb45db23b1631c6a2dc9d50c445d5f31e700cd8f66","features":{},"yanked":false}
