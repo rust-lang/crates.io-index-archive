@@ -1,1 +1,2 @@
 {"name":"simple_parallel","vers":"0.0.1","deps":[],"cksum":"1e3895644b3c9ffd07a162808da25985bd69d73ee70e00720a23230e2ecabdbf","features":{},"yanked":false}
+{"name":"simple_parallel","vers":"0.1.0","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"strided","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"49a1ae07b8a1e87abdcbade80449d59fd20dc2fa715257452afde7c0428de404","features":{},"yanked":false}
