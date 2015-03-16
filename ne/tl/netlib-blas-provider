@@ -1,0 +1,1 @@
+{"name":"netlib-blas-provider","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"099049682961c7296feb805bfe6dd5e5550685925a2b245d92ec077c55d26222","features":{},"yanked":false}
