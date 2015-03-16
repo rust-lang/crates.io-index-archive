@@ -6,3 +6,4 @@
 {"name":"gstreamer","vers":"0.1.5","deps":[],"cksum":"5d016d1aef2554575680defa9a6a43d3361cf35f74a6499f92f4c4b7c9f104c7","features":{},"yanked":false}
 {"name":"gstreamer","vers":"0.1.6","deps":[],"cksum":"a97b6675c31979378ba1070f2dd51940c40fe9f3f9c81954ddcd4bd65892a2b2","features":{},"yanked":false}
 {"name":"gstreamer","vers":"0.1.7","deps":[],"cksum":"c6eb8a0f642b4da1c31ed8a08b90c179c7099cc939e55f6c5f7de2831204428b","features":{},"yanked":false}
+{"name":"gstreamer","vers":"0.2.0","deps":[],"cksum":"c0aa0ae1db7f1c0c59b69f7490557f62869eae54403b47c69567a137de76f15b","features":{},"yanked":false}
