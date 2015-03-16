@@ -1,0 +1,1 @@
+{"name":"num_cpus","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"22d288bae691cd7fba05671e5a107b72a937b4b9058b760fa86dfb7a479e9367","features":{},"yanked":false}
