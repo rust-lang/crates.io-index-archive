@@ -1,1 +1,2 @@
 {"name":"netlib-blas-provider","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"099049682961c7296feb805bfe6dd5e5550685925a2b245d92ec077c55d26222","features":{},"yanked":false}
+{"name":"netlib-blas-provider","vers":"0.0.2","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6add015d108949bdaf7f9e60bcc2d75852ad53b37b2d9724f8fd05f73db963ac","features":{},"yanked":false}
