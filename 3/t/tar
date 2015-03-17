@@ -18,3 +18,4 @@
 {"name":"tar","vers":"0.2.2","deps":[],"cksum":"3b5ceb775390d76ab5bba70c8859402d58ec8365543b85a883fb4f813bb739b3","features":{},"yanked":false}
 {"name":"tar","vers":"0.2.3","deps":[],"cksum":"14d003bb1b19452cc1166cda58be73c91bd248649f891817cda126133f6a1630","features":{},"yanked":false}
 {"name":"tar","vers":"0.2.4","deps":[{"name":"tempdir","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1ec0738dcc6d702afd903f76760f81b94f6e7c94bcb6435865a655864e09327d","features":{},"yanked":false}
+{"name":"tar","vers":"0.2.5","deps":[{"name":"tempdir","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2889dcb2db4eba79ac536562b471b828ab07f31f951e5c97d8988a98e3a1db06","features":{},"yanked":false}
