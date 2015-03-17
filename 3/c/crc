@@ -1,3 +1,4 @@
 {"name":"crc","vers":"0.0.1","deps":[],"cksum":"fdf31b507424e7b3eacddeb53ceaa1fbe80865df4b6d87b3c3d850ad680d90b3","features":{},"yanked":false}
 {"name":"crc","vers":"0.1.0","deps":[],"cksum":"4548ecb3ea8ad083db1d5bab9f4551a253854ed78ccbdabe9a1133d796d8abd1","features":{},"yanked":false}
 {"name":"crc","vers":"0.1.1","deps":[],"cksum":"d7f3ff836ed6c96bc51f46e21ad998f96b7b444e6e6a2a3f993c5f77134fce84","features":{},"yanked":false}
+{"name":"crc","vers":"0.2.0","deps":[{"name":"lazy_static","req":"0.1.*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed175ce9413fd75cf2b6add3b3268fffa133ce739d58dd053357ad1f83b7bd31","features":{},"yanked":false}
