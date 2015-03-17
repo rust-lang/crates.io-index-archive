@@ -1,1 +1,2 @@
 {"name":"lz4","vers":"1.0.127","deps":[{"name":"gcc","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d714c1d18c63de8f916b16b774774f70cf42f5ceaadc141f3bc7b59a17fa3e27","features":{},"yanked":false}
+{"name":"lz4","vers":"1.1.127","deps":[{"name":"gcc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8f84849ed2dfc82f799a5f574699cf3d5f4c00f71138f6c23dd1b8129c4a0e23","features":{},"yanked":false}
