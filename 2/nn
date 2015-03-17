@@ -1,0 +1,1 @@
+{"name":"nn","vers":"0.0.1","deps":[{"name":"rand","req":"^0.2.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7ccfed156728a2701f3eb305e993812ebf645475e8c1961b49929c9928b56f6","features":{},"yanked":false}
