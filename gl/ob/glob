@@ -16,3 +16,4 @@
 {"name":"glob","vers":"0.2.2","deps":[],"cksum":"31fca112e9f05c1fd1b76f73fb90a495d5cfdc4dabf3f8c9647e7517948a56f5","features":{},"yanked":false}
 {"name":"glob","vers":"0.2.3","deps":[{"name":"tempdir","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8c1a8b1d0e40172abc6231143376df530abb436ec7f59ea628d5563dee877899","features":{},"yanked":false}
 {"name":"glob","vers":"0.2.4","deps":[{"name":"tempdir","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d7917b334b164389d6f828b17768abd9f8c3e9d01555b0bc631edac184eaa946","features":{},"yanked":false}
+{"name":"glob","vers":"0.2.5","deps":[{"name":"tempdir","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"32df2bb2c8e8736cc9a86aecc307d4de52a832bcb2aa94f81dacb1c75e79c859","features":{},"yanked":false}
