@@ -1,0 +1,1 @@
+{"name":"blist","vers":"0.0.1","deps":[{"name":"traverse","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"linked-list","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1000f4bbd21aeea3eb5d41ae1b89625062b7c818a3a280a0e6fe03168890c98","features":{},"yanked":false}
