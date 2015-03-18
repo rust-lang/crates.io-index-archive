@@ -1,0 +1,1 @@
+{"name":"interval-heap","vers":"0.0.1","deps":[{"name":"compare","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0750174e102e41908106c413f5c619afb180e489354f50191327f80ee773d9be","features":{},"yanked":false}
