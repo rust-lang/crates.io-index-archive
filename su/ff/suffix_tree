@@ -1,0 +1,1 @@
+{"name":"suffix_tree","vers":"0.1.0","deps":[{"name":"suffix","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quickcheck","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"44cd6b51bf512cf0b465a0891097f0bca05ae0915891002fbfb748f5e16dade9","features":{},"yanked":false}
