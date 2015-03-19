@@ -12,3 +12,4 @@
 {"name":"ecs","vers":"0.17.2","deps":[],"cksum":"96f4f70873d330501bee24866f079f2f746a7f902443e745c359cabdb597ea28","features":{},"yanked":false}
 {"name":"ecs","vers":"0.17.3","deps":[],"cksum":"b053f3ce750c1ef171a382beef34ecb102348663a7ddcb54660b7d7abee3aaa1","features":{},"yanked":true}
 {"name":"ecs","vers":"0.18.0","deps":[],"cksum":"61c06dbaf1195e4e68adff62321a178492ab0e57d24ec9c8d3104647fc977150","features":{},"yanked":false}
+{"name":"ecs","vers":"0.18.1","deps":[],"cksum":"cfe20459d2b9b9fdbdce7a5bf451fc705df96332cd43c5f2df2620760c345f59","features":{},"yanked":false}
