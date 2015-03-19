@@ -1,2 +1,3 @@
 {"name":"sysfs_gpio","vers":"0.1.0","deps":[],"cksum":"7f55a40bc9133ee795dc79d422304b2adf889e87c44e6a8b13cb151a000c55bc","features":{},"yanked":false}
 {"name":"sysfs_gpio","vers":"0.1.1","deps":[],"cksum":"b11a9f34adf80a600c7aa16eddaea52b6da7a54c161423ad3209d9e3684444b7","features":{},"yanked":false}
+{"name":"sysfs_gpio","vers":"0.2.0","deps":[],"cksum":"5fcf853132f9dd0932f4939a90e64c8b4debe4f131e3f669c2c4d4a6d1f41aef","features":{},"yanked":false}
