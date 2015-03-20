@@ -1,1 +1,0 @@
-{"name":"core_foundation","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a66c7ada743c244c95071a61185eb2097fa33c4d799b998d73a0cd85848b9d6c","features":{},"yanked":false}
