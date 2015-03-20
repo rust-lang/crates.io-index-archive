@@ -1,0 +1,1 @@
+{"name":"radix_trie","vers":"0.0.1","deps":[{"name":"nibble_vec","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa11a3887619406528919ad428e9663962bbbb83348e506a208e0c344ec39e01","features":{},"yanked":false}
