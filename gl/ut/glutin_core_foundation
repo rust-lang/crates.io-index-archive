@@ -1,0 +1,1 @@
+{"name":"glutin_core_foundation","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"447943359aac43bafba6727c17a17ae336504b5b932629c9df9449d2ee9f1fa2","features":{},"yanked":false}
