@@ -6,3 +6,4 @@
 {"name":"petgraph","vers":"0.0.6","deps":[],"cksum":"1740e805d1aedf7d81fd8b2a5455c2025c727521614428a57c2dd8591eb9b9c8","features":{},"yanked":false}
 {"name":"petgraph","vers":"0.0.7","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"12ae2a8781008c2d66bd98cb45db23b1631c6a2dc9d50c445d5f31e700cd8f66","features":{},"yanked":false}
 {"name":"petgraph","vers":"0.0.8","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"df87c1ad399f2844a521946b917062ee6c1940434a1555f8e8776f2829e41cf0","features":{},"yanked":false}
+{"name":"petgraph","vers":"0.0.9","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ddaf42ae1f632ccd60d877868f8233ed11d534a9b0ee587da7c6ebb42773800f","features":{},"yanked":false}
