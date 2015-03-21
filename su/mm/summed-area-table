@@ -1,0 +1,1 @@
+{"name":"summed-area-table","vers":"0.0.1","deps":[{"name":"nalgebra","req":"^0.2.5","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6e59a7527f6ff879ea4824ce7096562373582bc220f85b9294383b32be3fad3","features":{},"yanked":false}
