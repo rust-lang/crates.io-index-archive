@@ -1,1 +1,2 @@
 {"name":"bit_crusher","vers":"0.0.1","deps":[{"name":"dsp-chain","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e846f23a0710710a19bb548631430b912417804883ba3fc5f0f52237f25e830","features":{},"yanked":false}
+{"name":"bit_crusher","vers":"0.0.2","deps":[{"name":"dsp-chain","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45aa43ca45afa33427abab9317539d55c82cfa9275ff162e1fe0ed51a5ddf548","features":{},"yanked":false}
