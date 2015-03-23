@@ -2,3 +2,4 @@
 {"name":"ecdh","vers":"0.0.2","deps":[],"cksum":"6a5984b66c6f974cae8070d7ea3ac5260f2d55550b0d34da7f56cc2eaecb85f2","features":{},"yanked":false}
 {"name":"ecdh","vers":"0.0.3","deps":[],"cksum":"c6272a79bef8604424acb47f3c37bbc1377de9436154a64c4fac5c59f31e20fa","features":{},"yanked":false}
 {"name":"ecdh","vers":"0.0.4","deps":[{"name":"log","req":"^0.2.5","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e70e158b0dfbb0a6411488cad482f339b8867452b72ffd444446828a53f32c2","features":{},"yanked":false}
+{"name":"ecdh","vers":"0.0.5","deps":[{"name":"log","req":"^0.2.5","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f268f67355cbb3aedc09f0e5b51eb7987a6c9c56c3b32d61da05e880f012cc1","features":{},"yanked":false}
