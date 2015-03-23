@@ -1,0 +1,1 @@
+{"name":"libxdo","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libxdo-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04770f6f7cd2544527d0a082da1c446177fb1a2a2917addfae9b8f82dddba2cf","features":{},"yanked":false}
