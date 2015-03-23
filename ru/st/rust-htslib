@@ -1,1 +1,2 @@
 {"name":"rust-htslib","vers":"0.3.0","deps":[{"name":"tempdir","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5cfcba47829264594b6b500f01394df4a0929499a30cc43ceb4c0c7112e12124","features":{},"yanked":false}
+{"name":"rust-htslib","vers":"0.3.1","deps":[{"name":"tempdir","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cff99721d0e1e2069dd3066c17bbfacf192716615658ddf51ddfc9ea002d8474","features":{},"yanked":false}
