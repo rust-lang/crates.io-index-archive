@@ -6,3 +6,4 @@
 {"name":"allegro_acodec-sys","vers":"0.0.7","deps":[],"cksum":"ceec681e778f05aa164f28ef64374d638435b92730a737dc240b54f89ec6bdd2","features":{"link_static":[],"link_none":[],"link_debug":[]},"yanked":false}
 {"name":"allegro_acodec-sys","vers":"0.0.8","deps":[],"cksum":"f0a4f7a2354b2f1279a9ad6ac684ee58325246716125cab9d72051f29524aaef","features":{"link_static":[],"link_debug":[],"link_none":[]},"yanked":false}
 {"name":"allegro_acodec-sys","vers":"0.0.10","deps":[],"cksum":"9d7d8e4cea96301d2ccee611dbb2055e93a8cce344c88fd609791c7074887234","features":{"link_static":[],"link_debug":[],"link_none":[]},"yanked":false}
+{"name":"allegro_acodec-sys","vers":"0.0.11","deps":[],"cksum":"b39a25ff8cf8d458cb9d3c5f449c4436c64a5f6ade177e2937f48636ebfab30d","features":{"link_debug":[],"link_static":[],"link_none":[]},"yanked":false}
