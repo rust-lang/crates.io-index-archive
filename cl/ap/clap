@@ -16,3 +16,4 @@
 {"name":"clap","vers":"0.4.12","deps":[],"cksum":"24b69b6c715eb3c4822bdeec7dabe49369506428fbe9f2008b25893068b45718","features":{},"yanked":true}
 {"name":"clap","vers":"0.4.13","deps":[],"cksum":"d160e0729d5bfcd75e39f37af21df917a1a4790c469ff3ffba3166de76d7713a","features":{},"yanked":false}
 {"name":"clap","vers":"0.4.14","deps":[],"cksum":"d7ff200b7ac501b681540cd8be63efd3c73651d9c03bb5f5ed16c044bf52d403","features":{},"yanked":false}
+{"name":"clap","vers":"0.4.15","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"977540939259809263fe9167b1d9254f96d00866d19a2468079ff3dd821648eb","features":{},"yanked":false}
