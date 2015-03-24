@@ -1,1 +1,2 @@
 {"name":"draw_state","vers":"0.0.1","deps":[{"name":"bitflags","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1060363e5e971906e459e7de9970aed4dd89649cfd3cf6535f45948e1eeaec0e","features":{},"yanked":false}
+{"name":"draw_state","vers":"0.0.2","deps":[{"name":"bitflags","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8321f0a219adc68dc37330af1965f0086587d71190a305e1c9784b6902246f2","features":{},"yanked":false}
