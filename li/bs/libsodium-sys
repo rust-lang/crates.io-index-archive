@@ -1,0 +1,1 @@
+{"name":"libsodium-sys","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcb266eae6a7ffd58e3daa9810b987304538273b98a906515c0a6d608957309d","features":{},"yanked":false}
