@@ -29,4 +29,4 @@
 {"name":"phf_shared","vers":"0.6.13","deps":[],"cksum":"051d11898af96ab71d5cde932db1326af02b708b11ecf8a1d23ba363626db377","features":{},"yanked":false}
 {"name":"phf_shared","vers":"0.6.14","deps":[],"cksum":"ce453900b18fdb9632509ec5a3c313e6e5edf688bf876604cda7249482fcdc44","features":{},"yanked":false}
 {"name":"phf_shared","vers":"0.6.15","deps":[],"cksum":"bf90e6d5cccc4d33f3a2d35e4ee57fdd42461c18332ee1ace4033cb616f00365","features":{},"yanked":false}
-{"name":"phf_shared","vers":"0.6.16","deps":[],"cksum":"cd173daab88fcd26c4e022929819c36e5ffafc8ccafb1f877f6fe9d964657191","features":{},"yanked":false}
+{"name":"phf_shared","vers":"0.6.16","deps":[],"cksum":"cd173daab88fcd26c4e022929819c36e5ffafc8ccafb1f877f6fe9d964657191","features":{},"yanked":true}
