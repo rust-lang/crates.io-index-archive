@@ -2,3 +2,4 @@
 {"name":"clock_ticks","vers":"0.0.2","deps":[],"cksum":"eaab9ca97a634e8a636f8e362a13c106952d80a575bac09beaf7238d6854487e","features":{},"yanked":false}
 {"name":"clock_ticks","vers":"0.0.3","deps":[],"cksum":"6349fd4aa92a064b4476827849eeb995ee86d6127abef767bd06ee9297b904da","features":{},"yanked":false}
 {"name":"clock_ticks","vers":"0.0.4","deps":[],"cksum":"3c8b4e925c266284bfec1001dd374a1a8e9d43c4e8038dfe0c051cee9c1ea672","features":{},"yanked":false}
+{"name":"clock_ticks","vers":"0.0.5","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c1c6644e669ebf7db75f06c58193aa40f0c9d8aee69573ef51906a53d445b9e","features":{},"yanked":false}
