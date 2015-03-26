@@ -1,0 +1,1 @@
+{"name":"llvm_sys","vers":"0.1.0","deps":[{"name":"bitflags","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1723f54c6c790bd8f6add8370cd5715d3116ef66db894904d9d5e6aa519a106","features":{"llvm-dylib":[]},"yanked":false}
