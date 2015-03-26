@@ -1,1 +1,2 @@
 {"name":"lru-cache","vers":"0.0.1","deps":[{"name":"linked-hash-map","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5116f918e7ed59699c8dcb1b35b45135b5e10e3b013d5c62fae602e80dedaea","features":{},"yanked":false}
+{"name":"lru-cache","vers":"0.0.2","deps":[{"name":"linked-hash-map","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08e0c1fb93479f3629505f0b9785382e42adf19f0b9e2b6d389297d132d159c9","features":{},"yanked":false}
