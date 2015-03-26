@@ -1,1 +1,2 @@
 {"name":"fdstream","vers":"0.0.1","deps":[{"name":"libc","req":"^0.1.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2fb149356fc9507cb4638fab3ae11772b94e9e4a91dd46aa1be156db6f6cdda5","features":{},"yanked":false}
+{"name":"fdstream","vers":"0.0.2","deps":[{"name":"libc","req":"^0.1.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98ac88541ff85b2afa114f1c1e784e407aad1fa151b6ebebb1f840975c5a1aaf","features":{},"yanked":false}
