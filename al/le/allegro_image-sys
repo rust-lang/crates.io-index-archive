@@ -7,3 +7,4 @@
 {"name":"allegro_image-sys","vers":"0.0.8","deps":[],"cksum":"fd961d6ddd85955056877ea081fc4985f504a940d19a1586abcabbe554bde0c6","features":{"link_none":[],"link_static":[],"link_debug":[]},"yanked":false}
 {"name":"allegro_image-sys","vers":"0.0.10","deps":[],"cksum":"8829db1a763e30faa4326f8a458a5d9f8fba35027205e634bfa33890c391f4cd","features":{"link_debug":[],"link_none":[],"link_static":[]},"yanked":false}
 {"name":"allegro_image-sys","vers":"0.0.11","deps":[],"cksum":"797642bfc2eb723af90f0af0659578baa3efb151bfe89a7b03a6a14abf0c878d","features":{"link_debug":[],"link_static":[],"link_none":[]},"yanked":false}
+{"name":"allegro_image-sys","vers":"0.0.12","deps":[],"cksum":"52cc81c69ea0ac99d520095ba4b9b0f026b726839740640c5e398a1925acd239","features":{"link_none":[],"link_static":[],"link_debug":[]},"yanked":false}
