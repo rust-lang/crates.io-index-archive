@@ -13,3 +13,4 @@
 {"name":"termbox-sys","vers":"0.2.0","deps":[],"cksum":"6e439931e6f87c952bef34c575bae0f8b0989b606e2e1c9fab44bc4498e90a4a","features":{},"yanked":false}
 {"name":"termbox-sys","vers":"0.2.1","deps":[],"cksum":"a60318e6a7aafeedf63ca702f4dd129ee80e02c36e713d98b8b7ffd832f41542","features":{},"yanked":false}
 {"name":"termbox-sys","vers":"0.2.2","deps":[],"cksum":"223ed0b143a044f11d219f6ad76d55022966f8369177df111f5c6ea6376fd068","features":{},"yanked":false}
+{"name":"termbox-sys","vers":"0.2.3","deps":[],"cksum":"07c600d3ca9a3f18dfd39f2bf19fec037a2e9c3725f106063a426409f49d1e73","features":{},"yanked":false}
