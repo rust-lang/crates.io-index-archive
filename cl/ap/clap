@@ -18,3 +18,4 @@
 {"name":"clap","vers":"0.4.14","deps":[],"cksum":"d7ff200b7ac501b681540cd8be63efd3c73651d9c03bb5f5ed16c044bf52d403","features":{},"yanked":false}
 {"name":"clap","vers":"0.4.15","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"977540939259809263fe9167b1d9254f96d00866d19a2468079ff3dd821648eb","features":{},"yanked":false}
 {"name":"clap","vers":"0.4.16","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c95f95f038ebd543d7db1efbe5cf75482a4c8159f2546f57af9f82501ac0fb13","features":{},"yanked":false}
+{"name":"clap","vers":"0.4.17","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"239f48b2541608f3c9a2dba75df858a957f6a3a848905e10395558e8e93ef239","features":{},"yanked":false}
