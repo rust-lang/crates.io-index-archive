@@ -1,0 +1,1 @@
+{"name":"rms","vers":"0.0.1","deps":[{"name":"dsp-chain","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ea5a04952241779c2c4893ef0cd83f9e70055c2fb7c61c11471d34311491985","features":{},"yanked":false}
