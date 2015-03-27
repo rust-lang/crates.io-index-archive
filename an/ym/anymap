@@ -12,3 +12,4 @@
 {"name":"anymap","vers":"0.9.11","deps":[],"cksum":"44db4e9a8c3c5a5a6ae769577c7a736d3e1451bf4d170f6755d1bb33500bcd15","features":{},"yanked":false}
 {"name":"anymap","vers":"0.9.12","deps":[],"cksum":"6c548d7b4d3e9e5ff759cdbab8525ccbbca0cb13c62e32b7d19dae7c46bec7bc","features":{},"yanked":false}
 {"name":"anymap","vers":"0.9.13","deps":[],"cksum":"98a3422a7c82b90d56b8eabffb1ca8e0a08ce759daf4375c5e747046bd14977c","features":{},"yanked":false}
+{"name":"anymap","vers":"0.10.0","deps":[],"cksum":"c6089d567b188e2ed1195dfb81ba93d6cd21d1944094238b1b83c6487d70229e","features":{"clone":[]},"yanked":false}
