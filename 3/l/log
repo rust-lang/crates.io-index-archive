@@ -17,3 +17,4 @@
 {"name":"log","vers":"0.2.5","deps":[],"cksum":"f91d813fb009895c01b1b5c095fc88aea17138355bc0e4d53a277c466f62161f","features":{},"yanked":false}
 {"name":"log","vers":"0.2.6","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ccca7cb858e33c272e61e0199390b29e21881c0c7bde7122786c8acd0dd2bfd","features":{},"yanked":true}
 {"name":"log","vers":"0.3.0","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b2b224ebf7a4745d17092755d196ea731205e68d6d8e9987015131434725594","features":{},"yanked":false}
+{"name":"log","vers":"0.3.1","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2ee3324e161fe61168b08bcd096f1e023d14f0777a076ba14d1825ea3b99d40","features":{},"yanked":false}
