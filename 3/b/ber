@@ -1,1 +1,2 @@
 {"name":"ber","vers":"0.0.1","deps":[{"name":"byteorder","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63ee78e958a43098bf2a437d110649ffa96ffe45c6a10f08d0525026da6a02f4","features":{},"yanked":false}
+{"name":"ber","vers":"0.0.2","deps":[{"name":"byteorder","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7e4f347a58d6326d26b590196ea9306ab8838b8f1dd84b366bbfe075d3e723b","features":{},"yanked":false}
