@@ -5,3 +5,4 @@
 {"name":"glfw-sys","vers":"3.0.1","deps":[],"cksum":"cc79bf53e4c774c1969cf6cfecbe0c4ea28bc569dd4996e8a983e4afbc5bd6b9","features":{},"yanked":false}
 {"name":"glfw-sys","vers":"3.1.0","deps":[],"cksum":"43364664de5f966bad957669dc0699cd6aa269b35bc6150e37df1e90e40c8dfa","features":{},"yanked":false}
 {"name":"glfw-sys","vers":"3.1.1","deps":[],"cksum":"f3227f86a334280de1115244e5dc2a36d9bfd04c5188171c8c67d152d234f5da","features":{},"yanked":false}
+{"name":"glfw-sys","vers":"3.1.2","deps":[],"cksum":"c3b4d3cab6b61c7b5d94bc541c3e53985fca11ba50744c0b434c0bd5ebbf03b0","features":{},"yanked":false}
