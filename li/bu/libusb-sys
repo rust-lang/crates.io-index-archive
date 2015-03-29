@@ -1,1 +1,2 @@
 {"name":"libusb-sys","vers":"0.0.1","deps":[{"name":"pkg-config","req":"^0.3.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"68c24773e71b9bcff2d8bb347c91d4d7f49b56aa1c4083ac3c3935bae561fffa","features":{},"yanked":false}
+{"name":"libusb-sys","vers":"0.0.2","deps":[{"name":"pkg-config","req":"^0.3.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"764ddbb8d0940b79fd5e4ed0e676510dd290e72291dfccb31519c058ad408b83","features":{},"yanked":false}
