@@ -1,0 +1,1 @@
+{"name":"serial","vers":"0.0.1","deps":[{"name":"termios","req":"^0.0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a6ac85a8cc5e4ca8128ae8cc51eaf673bf0b57d85b334eb2328b409fed92558","features":{},"yanked":false}
