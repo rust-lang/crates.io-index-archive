@@ -1,1 +1,2 @@
 {"name":"language-tags","vers":"0.0.1","deps":[],"cksum":"fdec72bab86f97818f6056af7b99993e8b258c8dfc5cc7be8094a86dc7397cb3","features":{},"yanked":false}
+{"name":"language-tags","vers":"0.0.2","deps":[{"name":"phf","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"phf_macros","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01dcfc1d1e1c4c62b7bfd91b9ef64c6c2289d5fa14fd75ae35f165c8a532633b","features":{"testdata":[]},"yanked":false}
