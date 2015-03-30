@@ -28,3 +28,4 @@
 {"name":"itertools","vers":"0.1.9","deps":[],"cksum":"9b2344cb67ad91c58037df875e23e6f7376b8a69670f651f0a68711b35aaf2fd","features":{},"yanked":false}
 {"name":"itertools","vers":"0.1.10","deps":[],"cksum":"3bde6dfa1dea0a161d7473ae973fb071f33b5cd7bac3defb47bb05fbe8f8b377","features":{},"yanked":false}
 {"name":"itertools","vers":"0.2.0","deps":[],"cksum":"5132ad6cd99cbfac2a2af28a37f29c63483aeb2f4984a5757dee04bd043c78e9","features":{"unstable":[]},"yanked":false}
+{"name":"itertools","vers":"0.2.1","deps":[],"cksum":"dca59f426cd61f2e527a8525e550b40ddef0dc84243dd85d5d780586f32c317c","features":{"unstable":[]},"yanked":false}
