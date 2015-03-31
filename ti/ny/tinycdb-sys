@@ -1,0 +1,1 @@
+{"name":"tinycdb-sys","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3249f6118b6d0d7b9490238f7fdbd33e74afae951b1b2b72d735bd1aaffbd972","features":{},"yanked":false}
