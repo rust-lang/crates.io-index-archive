@@ -4,3 +4,4 @@
 {"name":"sha1","vers":"0.0.5","deps":[],"cksum":"acb50478705a7f4f79d85036f9c250b4a4136697d47ddb4a8e072af02b53560e","features":{},"yanked":false}
 {"name":"sha1","vers":"0.0.6","deps":[],"cksum":"bcf2d8f8ce2d1e02be98821c26da95f2b55dc8e0cfd84538c1e9ea43ed51b091","features":{},"yanked":false}
 {"name":"sha1","vers":"0.0.7","deps":[],"cksum":"93ec917e5fc326fcacc67b021f6eb0b33f935c177f21385c5439143b6a4535df","features":{},"yanked":false}
+{"name":"sha1","vers":"0.0.8","deps":[{"name":"byteorder","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3bdb4e45a0d240cb06e762cd358e57ff938327d5be467d4d24f03cdefeebb5b","features":{},"yanked":false}
