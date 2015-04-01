@@ -1,0 +1,1 @@
+{"name":"jed","vers":"0.0.1","deps":[{"name":"rustc-serialize","req":"^0.3.6","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92cd2f17f79444f6615f579621a61b339bce6a7389a6ab51c99d4034ccd2c625","features":{},"yanked":false}
