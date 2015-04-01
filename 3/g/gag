@@ -1,0 +1,1 @@
+{"name":"gag","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempdir","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37fc49ae11e8e725adabfd4fb7a2cf0052e880ca638d994850243c87450dce9d","features":{},"yanked":false}
