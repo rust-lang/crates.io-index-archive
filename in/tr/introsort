@@ -1,0 +1,1 @@
+{"name":"introsort","vers":"0.3.0","deps":[{"name":"rand","req":"^0.3.4","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"394491aec19e8ae06b2f31c8c40899633717f2f6bf75f6fe93d7200ec037b57b","features":{},"yanked":false}
