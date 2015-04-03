@@ -1,1 +1,2 @@
 {"name":"cosmos","vers":"0.0.1","deps":[{"name":"hyper","req":"^0.3.7","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b5b2bc4d714b97ffb122e436cd10199ec02ab59ee4dd532ff7a16218f178a65","features":{},"yanked":false}
+{"name":"cosmos","vers":"0.0.2","deps":[{"name":"hyper","req":"^0.3.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d085473a81738cdded3e16f9960a98aa4b28451c289357a3f5d7fbf54c7c97f","features":{},"yanked":false}
