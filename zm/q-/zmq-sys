@@ -2,3 +2,4 @@
 {"name":"zmq-sys","vers":"0.6.1","deps":[],"cksum":"58b9bd82c731a0fc9391873b0b3cc8f64cebff946a67f88560786447af5bdd89","features":{},"yanked":false}
 {"name":"zmq-sys","vers":"0.6.2","deps":[],"cksum":"c21a3799fa037cf57fddd6bb1f816369a7bd450c87458120c6c62df216ea38c1","features":{},"yanked":false}
 {"name":"zmq-sys","vers":"0.6.4","deps":[],"cksum":"42379c41379562fc3a8029a6428d3efa9619e3770ace7e00997978d4a2384181","features":{},"yanked":false}
+{"name":"zmq-sys","vers":"0.6.5","deps":[],"cksum":"ddb77421964e6fdc167aa8dd46b1feeabc1f9f172a68853945cd6f87696fb2b2","features":{},"yanked":false}
