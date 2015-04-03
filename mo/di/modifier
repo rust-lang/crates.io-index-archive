@@ -7,3 +7,4 @@
 {"name":"modifier","vers":"0.0.7","deps":[{"name":"stainless","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fbad1e007dba6b3237577926148e81e0c99ec13a1ed92fbc8c5cff94efe32225","features":{},"yanked":false}
 {"name":"modifier","vers":"0.0.8","deps":[{"name":"stainless","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b9768f00500c097f733492d77633f62d53a6f8a96648c3a4de02d952044d2b68","features":{},"yanked":false}
 {"name":"modifier","vers":"0.0.9","deps":[{"name":"stainless","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fcfb46516ec491cf18f3881306279d875d8f3f36b313785392980300ae745f55","features":{},"yanked":false}
+{"name":"modifier","vers":"0.1.0","deps":[],"cksum":"41f5c9112cb662acd3b204077e0de5bc66305fa8df65c8019d5adb10e9ab6e58","features":{},"yanked":false}
