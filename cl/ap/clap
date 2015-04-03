@@ -30,3 +30,4 @@
 {"name":"clap","vers":"0.5.7","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58a26ada39ff3859866dfb4f57f27a2594ec95eb37a193bf920d3020cebc347b","features":{},"yanked":false}
 {"name":"clap","vers":"0.5.8","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9522461cced59071bbf312c87e08fe32d9dc87a55e4b9868b89333c49cf24a7","features":{},"yanked":false}
 {"name":"clap","vers":"0.5.9","deps":[],"cksum":"86ba125438bd3b6a5ab38bb16742b54a5594d697bf1096ac0e4aea8d65e18316","features":{},"yanked":false}
+{"name":"clap","vers":"0.5.10","deps":[],"cksum":"4d8562f2c03e4d4a0b2d0f07840107d084fb06b4c1674fe5a7c1a43773b849d7","features":{},"yanked":false}
