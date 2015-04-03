@@ -4,3 +4,4 @@
 {"name":"unsafe-any","vers":"0.2.1","deps":[],"cksum":"f9f13049ed5d9b574bfc86db05f466f877933d0b490da316dd47ced827d76e3c","features":{},"yanked":false}
 {"name":"unsafe-any","vers":"0.2.2","deps":[],"cksum":"8c52b5bbed50bfe2ea2b457571dcd67cc6d55bf483660f7325c54f8e83be275d","features":{},"yanked":false}
 {"name":"unsafe-any","vers":"0.2.3","deps":[],"cksum":"45132168c7fc4420d0d1790613a82cfc446253a0fed2bf13a08ac4ae3eccdad9","features":{},"yanked":false}
+{"name":"unsafe-any","vers":"0.2.4","deps":[{"name":"traitobject","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a08b0b9dd013a43a1b767eba0d6db5eee49a54d93ef27d42a77166c6826863c","features":{},"yanked":false}
