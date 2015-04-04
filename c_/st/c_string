@@ -10,3 +10,4 @@
 {"name":"c_string","vers":"0.6.0","deps":[],"cksum":"36b952825e925cfd1827bd22dd94a420843204d6b7f87576ed0808ef9200d8df","features":{},"yanked":false}
 {"name":"c_string","vers":"0.6.1","deps":[],"cksum":"bcf1c64ddce7c3de9b4da474026d21ca6b390e493cd0798b7b29ffebd4229ce8","features":{},"yanked":false}
 {"name":"c_string","vers":"0.6.2","deps":[],"cksum":"4b15b608e49da41d8fc67e5dbe14cd47f169b17e217b669956a39d949be6ea4f","features":{},"yanked":false}
+{"name":"c_string","vers":"0.7.0","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"042256930ddf845b94f0906a60fc7143d1f5f9bc0ba7fd154392035d1a7ee66e","features":{},"yanked":false}
