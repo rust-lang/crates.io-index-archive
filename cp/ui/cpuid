@@ -7,3 +7,4 @@
 {"name":"cpuid","vers":"0.0.7","deps":[],"cksum":"e861764e941ba9bec4611631906230a2876bd427c7a308d23ad7c9df3efbb155","features":{},"yanked":false}
 {"name":"cpuid","vers":"0.0.8","deps":[],"cksum":"18cec62ce9d77f945dec997f61d8308c887ab12f81edf3a69f57bb444fb66f3c","features":{},"yanked":false}
 {"name":"cpuid","vers":"0.0.9","deps":[],"cksum":"4878528c24b6e08d833ce972920fdda6e2d13e42ee82ea4bc2895544c9ea055f","features":{},"yanked":false}
+{"name":"cpuid","vers":"0.1.0","deps":[{"name":"libc","req":"~0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccd4b48cf11db8de35d5b097821a8a7765553cba9b38eeb2f2b5aed5e376e2c3","features":{},"yanked":false}
