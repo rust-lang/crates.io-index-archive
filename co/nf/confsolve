@@ -3,3 +3,4 @@
 {"name":"confsolve","vers":"0.1.2","deps":[],"cksum":"13be1d027734a62c31a2a6867024b443be1ed7d436b28c85036ff61ba4391f27","features":{},"yanked":false}
 {"name":"confsolve","vers":"0.1.3","deps":[],"cksum":"1617e2204f81b7647307670cab301e7793cbdbfbce8f6e4345f387db397fe8e2","features":{},"yanked":false}
 {"name":"confsolve","vers":"0.1.4","deps":[],"cksum":"d220ead4426f4a9d335a432f09817a0ff2945f1305ca206874e65f33a9de4cf6","features":{},"yanked":false}
+{"name":"confsolve","vers":"0.1.5","deps":[{"name":"term","req":"~0.2.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3f6d9708d3d8c1acb58a13b0ae5128e7605781b45a5a64e39fbef5c68fe1eb9","features":{},"yanked":false}
