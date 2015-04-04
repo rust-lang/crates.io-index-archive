@@ -5,3 +5,4 @@
 {"name":"geoip-sys","vers":"0.0.6","deps":[],"cksum":"6997b195844859b066f5ae5a25ae85fca6b9af118715f740f8b60380d30f335d","features":{},"yanked":false}
 {"name":"geoip-sys","vers":"0.0.7","deps":[],"cksum":"398209fec7d60a15e9665d8981da8793d12c79d3c5c2b5334814069d8f556650","features":{},"yanked":false}
 {"name":"geoip-sys","vers":"0.0.8","deps":[],"cksum":"f65c80b0e3ab023226281b8a0c113111157f43596801ba9a73849b92b2bec9ac","features":{},"yanked":false}
+{"name":"geoip-sys","vers":"0.0.9","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e37af15d0f946db22ee3e88c375e7ad4cf8f95593d5a0bda495f2254c115356","features":{},"yanked":false}
