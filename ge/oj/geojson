@@ -3,3 +3,4 @@
 {"name":"geojson","vers":"0.0.3","deps":[],"cksum":"3bf0ac84fbde02eb2ae8fd015237d695b8fcd761dd9c20f2644746f7996d26fb","features":{},"yanked":false}
 {"name":"geojson","vers":"0.0.4","deps":[{"name":"rustc-serialize","req":"^0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e31b4616f20791d05b84457f1bd6e9cc875cf0a6962bce2928eb22167a15eb6c","features":{},"yanked":false}
 {"name":"geojson","vers":"0.0.5","deps":[{"name":"rustc-serialize","req":"^0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6dc51ab554646965a33a0ce4dfea57eada6b8c5605f90bd39dcc98eef16bb26","features":{},"yanked":false}
+{"name":"geojson","vers":"0.0.6","deps":[{"name":"rustc-serialize","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d177e36af2b1a753f42da44e953042cd482a17621244a7cbbd72fa336ae800c","features":{},"yanked":false}
