@@ -4,3 +4,4 @@
 {"name":"mm_math","vers":"0.0.4","deps":[],"cksum":"c627393d4985b5ff0222ca399646ca323c2f81ab947a6be9fa10d5541fb6aaa8","features":{},"yanked":false}
 {"name":"mm_math","vers":"0.0.5","deps":[],"cksum":"dedc4ddf4a458ee65249f0b4c749d92ff79cdee3bc1e4b1da3e9eece69d4c1b1","features":{},"yanked":false}
 {"name":"mm_math","vers":"0.0.6","deps":[],"cksum":"3e5943823c40125f4a995b93e4141ec7982a55730750a26622d6f5a37bce7ec5","features":{},"yanked":false}
+{"name":"mm_math","vers":"0.1.0","deps":[],"cksum":"2909835849d218c8e7ea9ca1fd147ed7a4de305406569d2a302400f63b7bc8fd","features":{"float64":[],"int64":[]},"yanked":false}
