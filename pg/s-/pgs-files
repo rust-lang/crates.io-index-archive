@@ -1,0 +1,1 @@
+{"name":"pgs-files","vers":"0.0.3","deps":[{"name":"libc","req":"^0.1.5","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30b5fdad5caa28f9e48d6e4ca9e551c886c53a59c8511c1cbd087bf307ed7ae8","features":{},"yanked":false}
