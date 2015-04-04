@@ -1,2 +1,3 @@
 {"name":"dbus","vers":"0.0.5","deps":[],"cksum":"74a9cc55366b8ff2cd6a2d31f4d7cd4022beb547b900eddd9078431848172582","features":{},"yanked":false}
 {"name":"dbus","vers":"0.0.6","deps":[],"cksum":"20afbc387060ec1aef90a0eed0ac050f3de1156c02abd19d3cab659d46b603c5","features":{},"yanked":false}
+{"name":"dbus","vers":"0.0.7","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempdir","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"09114454e4bc3b3e8821bc6b7263f6dc5cf9f7fc46e4d64ce625cb6491397387","features":{},"yanked":false}
