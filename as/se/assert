@@ -8,3 +8,4 @@
 {"name":"assert","vers":"0.1.3","deps":[],"cksum":"51ffd20df98e5294ee18c8a9b434c04168852bc80bb2ffa824b89657ee5ab930","features":{},"yanked":false}
 {"name":"assert","vers":"0.1.4","deps":[],"cksum":"0b45e22d2fc2e59717af4ff8b0feb60d9bf29d7bba2e2b7304d6bd24a8d3ecf1","features":{},"yanked":false}
 {"name":"assert","vers":"0.1.5","deps":[],"cksum":"a6d43c2a5f957a54feb4f2ec4a46b95d70f8aec274477a73fd20deff5e236856","features":{},"yanked":false}
+{"name":"assert","vers":"0.1.6","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb3423b841531e20207acebfb497a664361009b5166b0a39f3c154dcd3a7cb18","features":{},"yanked":false}
