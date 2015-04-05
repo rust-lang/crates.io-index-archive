@@ -9,3 +9,4 @@
 {"name":"assert","vers":"0.1.4","deps":[],"cksum":"0b45e22d2fc2e59717af4ff8b0feb60d9bf29d7bba2e2b7304d6bd24a8d3ecf1","features":{},"yanked":false}
 {"name":"assert","vers":"0.1.5","deps":[],"cksum":"a6d43c2a5f957a54feb4f2ec4a46b95d70f8aec274477a73fd20deff5e236856","features":{},"yanked":false}
 {"name":"assert","vers":"0.1.6","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb3423b841531e20207acebfb497a664361009b5166b0a39f3c154dcd3a7cb18","features":{},"yanked":false}
+{"name":"assert","vers":"0.2.0","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d3fe666ebd2862dfd2cb37ccfb8dfc7070e3cc2b2f69ebc8a5b628bc75cd4af","features":{},"yanked":false}
