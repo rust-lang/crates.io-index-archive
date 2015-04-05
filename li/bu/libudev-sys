@@ -1,0 +1,1 @@
+{"name":"libudev-sys","vers":"0.1.0","deps":[{"name":"pkg-config","req":"^0.3.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d904338e4c845b5ffd4d9a4f66488ec58204686a085d0ceaa6f617289180bd68","features":{},"yanked":false}
