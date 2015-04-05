@@ -1,0 +1,1 @@
+{"name":"libudev","vers":"0.0.1","deps":[{"name":"libudev-sys","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3c137dc634d32781912ecb2e6a97c301f239ecbd792954e710ef2046d9c9c9f","features":{},"yanked":false}
