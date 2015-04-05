@@ -55,3 +55,4 @@
 {"name":"capnp","vers":"0.1.32","deps":[],"cksum":"502b447e8654d8a2a274a6f61533f40642020c7b9b171298cc1ce12b7a8da310","features":{},"yanked":false}
 {"name":"capnp","vers":"0.1.33","deps":[],"cksum":"70d7d6c3b1b5b420fa6d1cd98b474336d6d49d5d6801d77f02cc8bea7167f1b3","features":{},"yanked":false}
 {"name":"capnp","vers":"0.1.34","deps":[],"cksum":"c2cf3a0ae2c41f5ad6efa9860a3fba875455dcce75cd32ca080a7551f2c7d965","features":{},"yanked":false}
+{"name":"capnp","vers":"0.2.0","deps":[],"cksum":"121c52b46de8d78feb17dd6894e50c894e7d596ecfaa5d7f67a57ceab61d7b8d","features":{},"yanked":false}
