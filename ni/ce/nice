@@ -18,3 +18,4 @@
 {"name":"nice","vers":"0.0.18","deps":[],"cksum":"5ebfabf61b366e3cae64ee5f959f89ebfac580c4d3389d5d67c7a112d0ad4740","features":{},"yanked":false}
 {"name":"nice","vers":"0.0.19","deps":[],"cksum":"3f6a40d6bb69a62d2f8e195f82a09d9e61b6a5342d03553ee596edb0b1e80b82","features":{},"yanked":false}
 {"name":"nice","vers":"0.0.20","deps":[],"cksum":"86747b272ed6491bba8077b079da577676c8bcca56040ca0bb879b95a7e2fe2a","features":{},"yanked":false}
+{"name":"nice","vers":"0.0.21","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b78a1fcceb1d954fce8da069ade579147e1ddc5207d8417b6c006467a30cc99","features":{},"yanked":false}
