@@ -1,0 +1,1 @@
+{"name":"strophe","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dbc8265ee29c703a13c45bcb0847b99efb18934218d19418f177cffbbe9d01c","features":{},"yanked":false}
