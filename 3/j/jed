@@ -1,1 +1,2 @@
 {"name":"jed","vers":"0.0.1","deps":[{"name":"rustc-serialize","req":"^0.3.6","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92cd2f17f79444f6615f579621a61b339bce6a7389a6ab51c99d4034ccd2c625","features":{},"yanked":false}
+{"name":"jed","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"^0.3.12","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"220c3075e96848694d6398d70b344cfa645f8319083879ead8d44d80e6c0a3f6","features":{},"yanked":false}
