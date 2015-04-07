@@ -1,0 +1,1 @@
+{"name":"dylib","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdff070fc467d71f23c5ac5ebfa0867e8f31146ef529b777723e8cba815e47ae","features":{},"yanked":false}
