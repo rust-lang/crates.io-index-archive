@@ -1,0 +1,1 @@
+{"name":"crust","vers":"0.0.1","deps":[{"name":"rustc-serialize","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cbor","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7fa5ff2a5b7df15f646773dca10d6b3373e6343904eb6eeee446b8009fff69a7","features":{},"yanked":false}
