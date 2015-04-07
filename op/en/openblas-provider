@@ -1,0 +1,1 @@
+{"name":"openblas-provider","vers":"0.0.5","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e476cf9b2eabaf23e0ca7584ae3383d8c8c4a1742194256b07e951b3421d1297","features":{"system-openblas":[],"static-openblas":[]},"yanked":false}
