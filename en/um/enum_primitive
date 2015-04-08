@@ -1,1 +1,2 @@
 {"name":"enum_primitive","vers":"0.0.1","deps":[{"name":"num","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"018bcb92595d1ef459a6aa3ab89b7d4b524f15d51d4af3d4d17707f582baf5dd","features":{},"yanked":false}
+{"name":"enum_primitive","vers":"0.0.2","deps":[{"name":"num","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c1ed83d4567b6e04586b910677cf891ac996efc25d68991ab3ff7e5f638fb06","features":{},"yanked":false}
