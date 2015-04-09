@@ -1,1 +1,2 @@
 {"name":"hash_ring","vers":"0.0.1","deps":[{"name":"rust-crypto","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f6ab215f887527d34e2123fd3475f02bbf94d12c9cee95c8c5d3e074767370e","features":{},"yanked":false}
+{"name":"hash_ring","vers":"0.0.2","deps":[{"name":"rust-crypto","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e69330621c7f6f60f157f693ddc728ac4d4e9b24103f8c355cdb98c147f9b6d","features":{},"yanked":false}
