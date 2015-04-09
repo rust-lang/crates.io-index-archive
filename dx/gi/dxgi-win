@@ -1,1 +1,2 @@
 {"name":"dxgi-win","vers":"0.1.0","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f90d73649d3ec0e1696aea9de96e525fc9183bca3a7c4d09c06d7c21d8534039","features":{},"yanked":false}
+{"name":"dxgi-win","vers":"0.1.1","deps":[{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e4e7c38bca5bcbdcc2cbe7871020e1703750fa9bdc30e5dd5ed3657b6ffde7c0","features":{},"yanked":false}
