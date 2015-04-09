@@ -3,3 +3,4 @@
 {"name":"portmidi","vers":"0.0.3","deps":[],"cksum":"720e8eb9cb97229b8ea82f2189316ca74e643cc27b1fdb9282992104792b296d","features":{},"yanked":false}
 {"name":"portmidi","vers":"0.0.4","deps":[],"cksum":"da6fc7ce4ae645f529a6ed6813bcdb1cfead333182f0697d59a2f6228c5114a1","features":{},"yanked":false}
 {"name":"portmidi","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c16a71a98db1698b06f9be5c0b400e722df6d8ddbc1a5287d73924bcc46af1a","features":{},"yanked":false}
+{"name":"portmidi","vers":"0.1.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58ce945f7800a692e22f33d1fe220cd9d21dfb54baaf6b42636f7b70ae798396","features":{},"yanked":false}
