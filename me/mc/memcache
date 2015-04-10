@@ -3,3 +3,4 @@
 {"name":"memcache","vers":"0.0.3","deps":[],"cksum":"d495578260c3ae14593e39bfe0bdd57631fc30a86cc55d01c6042bf34fd40aa2","features":{},"yanked":false}
 {"name":"memcache","vers":"0.0.4","deps":[],"cksum":"f74aeb4c65422e164ae47ad33eee5b3d04ab4957f9d87a598bd3857f35b979b4","features":{},"yanked":false}
 {"name":"memcache","vers":"0.0.5","deps":[],"cksum":"330023dd8ac8e931777c84f35a8e68c534f624d3d70b20994149fab03518571b","features":{},"yanked":false}
+{"name":"memcache","vers":"0.0.6","deps":[],"cksum":"40d976711e7d8fb12cb8e350f1c130dbeebe1e3da9e62d63387dccc468b3cdec","features":{},"yanked":false}
