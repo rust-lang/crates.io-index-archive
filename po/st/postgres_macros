@@ -7,3 +7,4 @@
 {"name":"postgres_macros","vers":"0.0.7","deps":[],"cksum":"1c5ada2b153e150ae4ec163313d91cde2b585f6d17f74a1673feb50cb3d448fe","features":{},"yanked":false}
 {"name":"postgres_macros","vers":"0.1.0","deps":[],"cksum":"3b60b9ab57afd0e1df1124f0aff357656cc4e6132fc6a981fc9d384fa9b50698","features":{},"yanked":false}
 {"name":"postgres_macros","vers":"0.1.1","deps":[],"cksum":"61fb704fa2bfd8fbc7f29dd0e1021e7417c6e6809cb152983c8cc389b71933dd","features":{},"yanked":false}
+{"name":"postgres_macros","vers":"0.1.2","deps":[],"cksum":"2f48a189b14f6f90e4d51eba359bd96c9e9fadd6fda6d184fb7dfbcb9c1e6a7b","features":{},"yanked":false}
