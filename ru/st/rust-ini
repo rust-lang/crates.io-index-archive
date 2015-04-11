@@ -1,2 +1,3 @@
 {"name":"rust-ini","vers":"0.4.2","deps":[],"cksum":"30641559d2517d67c06071009aae5cbacacddbe7a33f0c2c94ed3a02ac99314a","features":{},"yanked":false}
 {"name":"rust-ini","vers":"0.4.3","deps":[{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbf36f266c1fcf9a05e94337210700878ca678bd6c742ff0b2be14909fcd77ae","features":{},"yanked":false}
+{"name":"rust-ini","vers":"0.5.0","deps":[{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"783266935915b1a3add8ab45b30eca936b296d76d31fe4c0b8544af8ee82b912","features":{},"yanked":false}
