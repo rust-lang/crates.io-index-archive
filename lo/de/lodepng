@@ -2,3 +2,4 @@
 {"name":"lodepng","vers":"0.2.2","deps":[],"cksum":"408b2ce65ec3c2ccf326da2c4f16a6e699c3599a11da83aa8df3468276b2fcca","features":{},"yanked":false}
 {"name":"lodepng","vers":"0.3.0","deps":[{"name":"c_vec","req":"^1.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85d930b0de44933ab038b500d5892d807c5e44fd79bd8efdbd4160e9ec8c3e4c","features":{},"yanked":false}
 {"name":"lodepng","vers":"0.3.1","deps":[{"name":"c_vec","req":"^1.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d51bb075e174643b2c3fc0bfd48ca9372164872fdd7ac538c5cb62d0bd682b72","features":{},"yanked":false}
+{"name":"lodepng","vers":"0.4.0","deps":[{"name":"c_vec","req":"^1.0.11","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78ddcc5ae0f807bf20f03bdb740a993800918fc7091dd5b37f774ff1452af6b6","features":{},"yanked":false}
