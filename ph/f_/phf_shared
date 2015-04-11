@@ -35,3 +35,4 @@
 {"name":"phf_shared","vers":"0.6.19","deps":[],"cksum":"fa2610630a9c1402454ccce8e35bda8c252f8a73d0936ac27307daad2a7242fc","features":{},"yanked":false}
 {"name":"phf_shared","vers":"0.7.0","deps":[],"cksum":"41b167299ad9d0d0684fdd21d7aa52afa674cb207dd79a9d88086a03d9e3eba8","features":{},"yanked":false}
 {"name":"phf_shared","vers":"0.7.1","deps":[],"cksum":"33da9d83f2c4e2c50db918a00dd4f3aa11b7519b4cbcef7f66fd0447edcf55a5","features":{},"yanked":false}
+{"name":"phf_shared","vers":"0.7.2","deps":[],"cksum":"fcaaca7c78b9d6d869cd421cc2e0ffb7ebc59dc4ce618b84710bccc69c860927","features":{},"yanked":false}
