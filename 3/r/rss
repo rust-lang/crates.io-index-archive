@@ -1,2 +1,3 @@
 {"name":"rss","vers":"0.0.1","deps":[],"cksum":"5e5e86cb1a66b3488b8cb7c778972ee05d498b894d7975dd0cfbcf8e6b1debb0","features":{},"yanked":false}
 {"name":"rss","vers":"0.0.2","deps":[{"name":"RustyXML","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"337795b3e6c4253beaa0a668a828d8c9a69fa6d8d5a4f85a709d60b49d320159","features":{},"yanked":false}
+{"name":"rss","vers":"0.0.3","deps":[{"name":"RustyXML","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf14a37833c6f576cc81b9515efb505bcb15e1fd0277bdc527dea454b028de85","features":{},"yanked":false}
