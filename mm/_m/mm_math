@@ -6,3 +6,4 @@
 {"name":"mm_math","vers":"0.0.6","deps":[],"cksum":"3e5943823c40125f4a995b93e4141ec7982a55730750a26622d6f5a37bce7ec5","features":{},"yanked":false}
 {"name":"mm_math","vers":"0.1.0","deps":[],"cksum":"2909835849d218c8e7ea9ca1fd147ed7a4de305406569d2a302400f63b7bc8fd","features":{"float64":[],"int64":[]},"yanked":false}
 {"name":"mm_math","vers":"0.1.1","deps":[],"cksum":"b9dfceed7e53f9e8819fd1a8ba971ba407c4e5da778a7a454a80304d1161fa77","features":{"int64":[],"float64":[]},"yanked":false}
+{"name":"mm_math","vers":"0.1.2","deps":[],"cksum":"19d9bdb0b42d1e0d3953b512388bc33f513df6ed8c183f82886b165ec951b204","features":{"float64":[],"int64":[]},"yanked":false}
