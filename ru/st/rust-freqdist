@@ -2,3 +2,4 @@
 {"name":"rust-freqdist","vers":"0.0.3","deps":[{"name":"xxhash","req":"^0.0.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcc553dbe200f979270e25780650038ade871ac1345200c89d4999f44ff239df","features":{},"yanked":false}
 {"name":"rust-freqdist","vers":"0.0.4","deps":[{"name":"xxhash","req":"^0.0.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"838b5def58a1d9bb8eb405c6f5b5d093af7ea8baeadc978f0ceb8d2a095c2bf3","features":{},"yanked":false}
 {"name":"rust-freqdist","vers":"0.1.0","deps":[],"cksum":"3c02064059688f291cfc2dd147164376f1e25d1948f15b120267380c22ad0793","features":{},"yanked":false}
+{"name":"rust-freqdist","vers":"0.1.1","deps":[],"cksum":"66b4c193cc590810ded51bd9fa2b5b3966f75f8b13ae910851f4c5db295f9bfa","features":{},"yanked":false}
