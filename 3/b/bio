@@ -6,3 +6,4 @@
 {"name":"bio","vers":"0.2.3","deps":[],"cksum":"62d61d6110a1fe716e76fd6b865fd486bf43cf886321c219d308430982062ee0","features":{},"yanked":false}
 {"name":"bio","vers":"0.2.4","deps":[],"cksum":"d211101fd4acd55ec4a098785a5bbbb4dd3d957db0a071979e87f67281a38461","features":{},"yanked":false}
 {"name":"bio","vers":"0.3.0","deps":[],"cksum":"f70854ccca985707b3cd20ecf86b53bed5203784f7c7c56a8f6cf026ca5d81a4","features":{},"yanked":false}
+{"name":"bio","vers":"0.3.1","deps":[{"name":"csv","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rustc-serialize","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6210ba51c366d40b4b83f1c1a18be9610f3bf1177150916aa51455e89822df71","features":{},"yanked":false}
