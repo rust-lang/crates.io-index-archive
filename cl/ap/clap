@@ -35,5 +35,5 @@
 {"name":"clap","vers":"0.5.12","deps":[],"cksum":"a9d52fffbcfce9801dbac3cf233d32155a10ea24770dcd8c0b4118dc500f21e5","features":{},"yanked":false}
 {"name":"clap","vers":"0.5.13","deps":[],"cksum":"f0ca7e5afa7b6c89ab3fb53a03f73e1937e76450795a86b3c35c819f09cc2dd3","features":{},"yanked":true}
 {"name":"clap","vers":"0.5.14","deps":[],"cksum":"355a56d87036876f7698c15856bf7c69850e5738f6b51793de9e022e26778f0c","features":{},"yanked":false}
-{"name":"clap","vers":"0.6.0","deps":[],"cksum":"68eb6bea4e317acd4f1c7006f60321477ea972ff075196c7f61bd4d006b6ed7b","features":{},"yanked":false}
+{"name":"clap","vers":"0.6.0","deps":[],"cksum":"68eb6bea4e317acd4f1c7006f60321477ea972ff075196c7f61bd4d006b6ed7b","features":{},"yanked":true}
 {"name":"clap","vers":"0.6.1","deps":[],"cksum":"18a17e346fb37dcfeee0256e26ac1e12cf0d8628839e635f431c7726059294e2","features":{},"yanked":false}
