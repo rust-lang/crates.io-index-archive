@@ -1,0 +1,1 @@
+{"name":"hal","vers":"0.0.1","deps":[{"name":"rustc-serialize","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"874ed17e5573a9ca1e9eb964e00d1c627c221fd579e7cb3ddc35eb1df99d2278","features":{},"yanked":false}
