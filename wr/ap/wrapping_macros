@@ -2,3 +2,4 @@
 {"name":"wrapping_macros","vers":"0.2.0","deps":[],"cksum":"95a4c7e116e92c931f145495cbe80e484a9b24cbdc1fe541974522815c8dc19e","features":{},"yanked":true}
 {"name":"wrapping_macros","vers":"0.3.0","deps":[],"cksum":"0e26597e380c90bbc6e020a58b7a5c7e738ec7362c1491c68a88ef59f79bd386","features":{},"yanked":false}
 {"name":"wrapping_macros","vers":"0.3.1","deps":[],"cksum":"59afd9165e1b1db2bcb71dc96d4427e49f5da0c7253d6525e1709b3c18f7500b","features":{},"yanked":false}
+{"name":"wrapping_macros","vers":"0.3.2","deps":[],"cksum":"e578788360e38c87186341891d1ec773f02ebfcbf0e07b84525fae6eef46295f","features":{},"yanked":false}
