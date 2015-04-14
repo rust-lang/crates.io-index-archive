@@ -1,0 +1,1 @@
+{"name":"rust-tfidf","vers":"1.0.0","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16ca94f2385184087256d2af27ff2068181f8b0eac6d3535f59d708ea777e0e4","features":{},"yanked":false}
