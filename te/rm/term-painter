@@ -1,0 +1,1 @@
+{"name":"term-painter","vers":"0.1.0","deps":[{"name":"term","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e60dc5fd8a0207b41ede3f0838cefd4521655f9cf2d4bd776e9ba971bf692e6d","features":{},"yanked":false}
