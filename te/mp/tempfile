@@ -1,0 +1,1 @@
+{"name":"tempfile","vers":"0.0.1","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e036aa956651cfdee2a4b7c2609f23c94d5a946851a2c354f61b7a51aed9b009","features":{},"yanked":false}
