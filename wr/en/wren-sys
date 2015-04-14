@@ -9,3 +9,4 @@
 {"name":"wren-sys","vers":"0.1.8","deps":[],"cksum":"56dfcf85c27518ca321b23160f4ce64ae1ed1b9d5009c51b57cacbf8872b9389","features":{},"yanked":false}
 {"name":"wren-sys","vers":"0.1.9","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37858c266e6302925be66d19cc3a6ffeb6526e459abeb3ce90be23f1cfb5b5e1","features":{},"yanked":false}
 {"name":"wren-sys","vers":"0.2.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e179feb657d246ea467d0d8b3564b539cc7f063a71d0bacb730620a70c4fbbec","features":{},"yanked":false}
+{"name":"wren-sys","vers":"0.2.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93c4d27e25f2ba444baad0f9365548673cb66b55e306a196914173d169fee4a6","features":{},"yanked":false}
