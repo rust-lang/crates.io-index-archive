@@ -1,1 +1,2 @@
 {"name":"lru_time_cache","vers":"0.0.1","deps":[],"cksum":"ea0f96a356871c3f07bc3b71547d9cf5898e12fa0a78641409a5f0fcfdd2131a","features":{},"yanked":false}
+{"name":"lru_time_cache","vers":"0.1.0","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5080a79f9bdeb3991a9f2e3276aba85ceb639e421cb7512b742744a6fe92d9c6","features":{},"yanked":false}
