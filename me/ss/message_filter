@@ -1,1 +1,2 @@
 {"name":"message_filter","vers":"0.0.1","deps":[],"cksum":"2d390642b903de974c4a79c25a744fc0e2afdfb53f35ac6658044f33255567a9","features":{},"yanked":false}
+{"name":"message_filter","vers":"0.1.0","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"chrono","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb4e093f1142a9ac27708f1450437339e122cf1702ec416e455d85d38c318d41","features":{},"yanked":false}
