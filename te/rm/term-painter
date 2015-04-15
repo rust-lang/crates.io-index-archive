@@ -1,1 +1,2 @@
 {"name":"term-painter","vers":"0.1.0","deps":[{"name":"term","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e60dc5fd8a0207b41ede3f0838cefd4521655f9cf2d4bd776e9ba971bf692e6d","features":{},"yanked":false}
+{"name":"term-painter","vers":"0.1.1","deps":[{"name":"term","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc0e566570f7be6b73021d6add54da5bd892bc7ce3aaf27a1819eb7f69493685","features":{},"yanked":false}
