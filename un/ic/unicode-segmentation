@@ -1,1 +1,2 @@
 {"name":"unicode-segmentation","vers":"0.0.1","deps":[],"cksum":"39981b72a1d45db5aaf50e5775edf42c224666579c3d796c59e15de477051667","features":{},"yanked":false}
+{"name":"unicode-segmentation","vers":"0.1.0","deps":[],"cksum":"d0213f025ae5e31b9788ecd1f46c812eafc665c18e514839b89669803de146dd","features":{"default":[],"no_std":[]},"yanked":false}
