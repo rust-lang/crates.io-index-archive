@@ -1,0 +1,1 @@
+{"name":"imap","vers":"0.0.1","deps":[{"name":"regex","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"openssl","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c79bf8f7ad1b1620ea4b7b1452d7769b2e758b65d32d102d82c92726666cd26f","features":{},"yanked":false}
