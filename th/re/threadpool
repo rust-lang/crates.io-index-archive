@@ -2,3 +2,4 @@
 {"name":"threadpool","vers":"0.1.1","deps":[],"cksum":"3799f214ba13307e0f541a55303accf102abae10e185ea94ce30a8b988b5b78c","features":{},"yanked":false}
 {"name":"threadpool","vers":"0.1.2","deps":[],"cksum":"8cebcf6bedee14a3cd51ee7a8d04daa1cbbea9f68543d0f5fb46257516f2c3e0","features":{},"yanked":false}
 {"name":"threadpool","vers":"0.1.3","deps":[],"cksum":"3870b963ad97c9764d01903c63a9c73e2fc07f6f6c9b320ea8d1804b83c6b15c","features":{},"yanked":false}
+{"name":"threadpool","vers":"0.1.4","deps":[],"cksum":"a63a15230070db3a9f599491c23c4bf38e86bd47c8f2d86ff1f8d3b2e85b0c70","features":{"scoped-pool":[]},"yanked":false}
