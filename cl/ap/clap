@@ -38,3 +38,4 @@
 {"name":"clap","vers":"0.6.0","deps":[],"cksum":"68eb6bea4e317acd4f1c7006f60321477ea972ff075196c7f61bd4d006b6ed7b","features":{},"yanked":true}
 {"name":"clap","vers":"0.6.1","deps":[],"cksum":"18a17e346fb37dcfeee0256e26ac1e12cf0d8628839e635f431c7726059294e2","features":{},"yanked":false}
 {"name":"clap","vers":"0.6.2","deps":[],"cksum":"ae514d386269607b9856f1e1ee6905f5d0edef3cb7192296977a8a401a27ab28","features":{},"yanked":false}
+{"name":"clap","vers":"0.6.3","deps":[],"cksum":"31f1693e14e01d18b7369000227c1cd54ec4a18fda3889eb4987391a8f945f7e","features":{},"yanked":false}
