@@ -1,0 +1,1 @@
+{"name":"rust-base58","vers":"0.0.1","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b282eae0ce9ae502378b4c9fe0852dfee8b525ee4b1792460a6aa911c9ebba17","features":{},"yanked":false}
