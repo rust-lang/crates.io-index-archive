@@ -1,1 +1,2 @@
 {"name":"schemamama","vers":"0.0.1","deps":[{"name":"postgres","req":"^0.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9eed1eec35ab79fd1fb9be65ce5908b95ff7007bd7e7e7785784ea189b692935","features":{},"yanked":false}
+{"name":"schemamama","vers":"0.0.2","deps":[{"name":"log","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb471fe11e354de046d6fc09e1666e3f39b5fb8cb18a8bdc342cf0caac99f6bd","features":{},"yanked":false}
