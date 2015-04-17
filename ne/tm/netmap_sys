@@ -2,3 +2,4 @@
 {"name":"netmap_sys","vers":"0.0.9","deps":[],"cksum":"a98542ce6f90a5841572bb496d99f6cf87d8a7697fcc336726ecd0b0cb69cece","features":{"netmap_with_libs":[],"default":[]},"yanked":false}
 {"name":"netmap_sys","vers":"0.0.10","deps":[],"cksum":"3685b1ec6bef0b3a397c5f99959330daff8d08775097598b304f331105580ab0","features":{"netmap_with_libs":[],"default":[]},"yanked":false}
 {"name":"netmap_sys","vers":"0.0.11","deps":[],"cksum":"029d0dc447a5c3c2546600f99b68a006e05581d2856627c21ca432086cfd2464","features":{"netmap_with_libs":[],"default":[]},"yanked":false}
+{"name":"netmap_sys","vers":"0.0.12","deps":[],"cksum":"856c7aec1a44fd52d7015c047d3fec508d63de4040d39fdd388827bf6ab82c79","features":{"netmap_with_libs":[],"default":[]},"yanked":false}
