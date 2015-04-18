@@ -1,1 +1,2 @@
 {"name":"syntex_syntax","vers":"0.1.0","deps":[{"name":"syntex_bitflags","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdce290b631517b5a9c428aa9a1c0b9e566ac11df8bbaedd6863cbfc22e34eef","features":{},"yanked":false}
+{"name":"syntex_syntax","vers":"0.3.0","deps":[{"name":"bitflags","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16ea2c8dd813ac11393540c90061f557af8f8d423e7487dcb60265ba8d872a17","features":{},"yanked":false}
