@@ -1,1 +1,2 @@
 {"name":"wiringpi","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0fee7dc2b18360cd74935f4c2c199fff45f85aba199e1ea4471212c8c0aa91c","features":{"nightly":[]},"yanked":false}
+{"name":"wiringpi","vers":"0.1.1","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"505bb9efc201590cb408efe0734029435657fbae1e018d7328c3c625f33c0041","features":{"nightly":[]},"yanked":false}
