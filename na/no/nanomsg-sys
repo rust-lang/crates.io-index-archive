@@ -1,3 +1,4 @@
 {"name":"nanomsg-sys","vers":"0.1.1","deps":[],"cksum":"b8aa00de99bd946c61ba1fa20f40ed7205e5a0ccf0816df4c18786f7f11adc35","features":{},"yanked":false}
 {"name":"nanomsg-sys","vers":"0.1.2","deps":[],"cksum":"194f20e12197b9baa2c432a88827632daca2d5e2d4ae05d4370d0aacd0995575","features":{},"yanked":false}
 {"name":"nanomsg-sys","vers":"0.1.3","deps":[{"name":"libc","req":"^0.1.5","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3caed77de52f406f4e35c6a518ee3618da5a7effcfaaa8ba81a8161c05a4f13a","features":{},"yanked":false}
+{"name":"nanomsg-sys","vers":"0.1.4","deps":[{"name":"libc","req":"^0.1.6","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ba53ca5499cf6d2cfd664fc66317c6d6b752dfa2cc7f8597623f62cfdb96669","features":{},"yanked":false}
