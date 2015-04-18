@@ -14,3 +14,4 @@
 {"name":"anymap","vers":"0.9.13","deps":[],"cksum":"98a3422a7c82b90d56b8eabffb1ca8e0a08ce759daf4375c5e747046bd14977c","features":{},"yanked":false}
 {"name":"anymap","vers":"0.10.0","deps":[],"cksum":"c6089d567b188e2ed1195dfb81ba93d6cd21d1944094238b1b83c6487d70229e","features":{"clone":[]},"yanked":false}
 {"name":"anymap","vers":"0.10.2","deps":[],"cksum":"fb92fe045b6f19d8de5ebf595f7e507403020ba9b851edff0345cdba4b1dd8ea","features":{"clone":[]},"yanked":false}
+{"name":"anymap","vers":"0.10.3","deps":[],"cksum":"6fd1eedd5c45939a6d381d1b7f632c1516383210dba93f1ec2ed82c82d73a856","features":{"nightly":[],"clone":[]},"yanked":false}
