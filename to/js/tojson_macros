@@ -1,0 +1,1 @@
+{"name":"tojson_macros","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e61dee5146029c5045be107601972f988d4b1713ca9d703c22693288f5d8ec1e","features":{},"yanked":false}
