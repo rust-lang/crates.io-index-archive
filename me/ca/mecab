@@ -1,0 +1,1 @@
+{"name":"mecab","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9ea8b6698d699a490ea9f98e582b5babdad37a1961ff2a734a89be300d905cb","features":{},"yanked":false}
