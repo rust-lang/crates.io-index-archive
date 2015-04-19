@@ -1,0 +1,1 @@
+{"name":"cpython","vers":"0.0.1","deps":[{"name":"python27-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea9e01985b59994b35976bd46da08c73f4da2bbf2113e3d42e3682ab97f99b96","features":{},"yanked":false}
