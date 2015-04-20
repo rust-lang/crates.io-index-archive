@@ -7,3 +7,4 @@
 {"name":"gnunet","vers":"0.0.7","deps":[],"cksum":"74cda838a32dc1ceae2bd6f6bfc010e96ec23f81593a4ddbcd55fce90766519f","features":{},"yanked":false}
 {"name":"gnunet","vers":"0.0.8","deps":[],"cksum":"fe2dba3f651c383af9b49a893bdc346171c34775ffdfe2867fafc312ffef6c12","features":{},"yanked":false}
 {"name":"gnunet","vers":"0.0.9","deps":[],"cksum":"9ab28c31aad5dc4c576e3fd7edd78bb722e9b886e74eb0f418409d20c51589cb","features":{},"yanked":false}
+{"name":"gnunet","vers":"0.0.10","deps":[{"name":"byteorder","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"unix_socket","req":"^0.3.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"521c305c6bb9bd65e8761ecf88156037d2445a2b933a719816d3b1531cfb7688","features":{},"yanked":false}
