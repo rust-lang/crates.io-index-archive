@@ -1,0 +1,1 @@
+{"name":"dispatch","vers":"0.0.1","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3337208549431e2e80f720534a0fed8447ed9d2bc2077eb30d93b0ee1cde5596","features":{},"yanked":false}
