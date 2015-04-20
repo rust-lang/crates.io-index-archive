@@ -3,3 +3,4 @@
 {"name":"rust-freqdist","vers":"0.0.4","deps":[{"name":"xxhash","req":"^0.0.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"838b5def58a1d9bb8eb405c6f5b5d093af7ea8baeadc978f0ceb8d2a095c2bf3","features":{},"yanked":false}
 {"name":"rust-freqdist","vers":"0.1.0","deps":[],"cksum":"3c02064059688f291cfc2dd147164376f1e25d1948f15b120267380c22ad0793","features":{},"yanked":false}
 {"name":"rust-freqdist","vers":"0.1.1","deps":[],"cksum":"66b4c193cc590810ded51bd9fa2b5b3966f75f8b13ae910851f4c5db295f9bfa","features":{},"yanked":false}
+{"name":"rust-freqdist","vers":"0.1.2","deps":[],"cksum":"28f9e8be10c0a23f5ee775007956b04de8a1c2d800b8488f9ba91fd3de36d7cd","features":{},"yanked":false}
