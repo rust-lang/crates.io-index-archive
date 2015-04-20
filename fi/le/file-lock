@@ -2,3 +2,4 @@
 {"name":"file-lock","vers":"0.0.2","deps":[],"cksum":"a5cb4f7a9ce88bb90abcf8114e1e78dc8add23ff7caf8b35a275b2bef76d5607","features":{},"yanked":false}
 {"name":"file-lock","vers":"0.0.3","deps":[{"name":"gcc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b2b39618c76bccc04b246f8f0936f3f3fed04a86bcb4d6f4e48752d941aa1359","features":{},"yanked":false}
 {"name":"file-lock","vers":"0.0.4","deps":[{"name":"gcc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c3424fd6905cbbeec0d4d64548e97611b6c128360baf016ca0522de97f1b33f1","features":{},"yanked":false}
+{"name":"file-lock","vers":"0.0.5","deps":[{"name":"gcc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6ad9d6485f0a4b9e03adcf813e9afa18d31c6fc79bff033fdd49fb3ec7c1b4f6","features":{},"yanked":false}
