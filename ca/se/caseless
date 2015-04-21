@@ -1,1 +1,2 @@
 {"name":"caseless","vers":"0.0.1","deps":[],"cksum":"56050d460e05c2b9e89cd04a561fa622c271760ab233bcdc513f56cc77b49a94","features":{},"yanked":false}
+{"name":"caseless","vers":"0.1.0","deps":[{"name":"unicode-normalization","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4da23547a523535df28178dfa6702878bdaa00a54ea9c141da0280d3a4a5419d","features":{},"yanked":false}
