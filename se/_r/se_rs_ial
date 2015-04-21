@@ -1,0 +1,1 @@
+{"name":"se_rs_ial","vers":"0.0.2","deps":[{"name":"bitflags","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d8e60a25d92d90deb4d1bc29925ecc780bc73dae9299a80387543e17f9893f4","features":{},"yanked":false}
