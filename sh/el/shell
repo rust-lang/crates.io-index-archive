@@ -1,1 +1,2 @@
 {"name":"shell","vers":"0.0.1","deps":[],"cksum":"b61b84689a68ec353381beb2e58c57449de121a06d45535f0b42fad65ad1e17b","features":{},"yanked":false}
+{"name":"shell","vers":"0.2.0","deps":[{"name":"term","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"611be21f321973fb353140d0cfc7ce96a0bfd2a6404542a5473dd1bcff4f15fb","features":{},"yanked":false}
