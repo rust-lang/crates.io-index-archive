@@ -1,0 +1,1 @@
+{"name":"piston-shaders","vers":"0.0.0","deps":[{"name":"piston-shaders_graphics2d","req":"^0.0.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5888a25e98f07f96ceb8fb6c09561b5a42b106e366361309c6334af33078eefe","features":{},"yanked":false}
