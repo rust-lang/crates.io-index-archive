@@ -11,3 +11,4 @@
 {"name":"columnar","vers":"0.0.12","deps":[],"cksum":"40fb39d6b7e2e236c7288c2025d870107a11ec1bf8849f7870310aabe13cfe56","features":{},"yanked":false}
 {"name":"columnar","vers":"0.0.13","deps":[],"cksum":"6a97c91452813f5d50f1e88e928058c278e88a5391ecd363d982c24b636825f2","features":{},"yanked":false}
 {"name":"columnar","vers":"0.0.14","deps":[{"name":"byteorder","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"941229e210a1d3b2da01d741964b2bc50f556a1b8f5a636f5048de2a49a5b7cc","features":{},"yanked":false}
+{"name":"columnar","vers":"0.0.15","deps":[{"name":"byteorder","req":"^0.3.5","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6d571a4ebca73afdac6f1ca65cfaf96d128349df841fc123a45415dbb5b7ff1","features":{},"yanked":false}
