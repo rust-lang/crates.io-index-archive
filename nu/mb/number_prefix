@@ -3,3 +3,4 @@
 {"name":"number_prefix","vers":"0.2.1","deps":[],"cksum":"e8609be3eaeb71b4ca498541e1a1a1d7b86bde09d6295b2a597a244afd196e5a","features":{},"yanked":false}
 {"name":"number_prefix","vers":"0.2.2","deps":[],"cksum":"bb3cefc4304feba6b49ff7fed63274a5f39a3928da86b204dcc3045930d9a7e6","features":{},"yanked":false}
 {"name":"number_prefix","vers":"0.2.3","deps":[],"cksum":"21a41bb4acb46962eb473137427be854bba67dd4a38807c555030983b8305f52","features":{},"yanked":false}
+{"name":"number_prefix","vers":"0.2.4","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fafea172bffd1b85f691175a6a3e6dc34967f837457640a7c566ae2384461ccf","features":{},"yanked":false}
