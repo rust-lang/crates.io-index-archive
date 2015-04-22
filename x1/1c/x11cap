@@ -1,0 +1,1 @@
+{"name":"x11cap","vers":"0.1.0","deps":[{"name":"x11","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c9a6b62a9ffe170bb7c8ec847609f56584097594f3667c8b07dc34c8a816cccb","features":{},"yanked":false}
