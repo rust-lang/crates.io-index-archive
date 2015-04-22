@@ -1,0 +1,1 @@
+{"name":"simplemad","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1.6","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f5c62287d4344287dfe2c6663be9d8296c328aeb07c11e8e63d324106b4776b","features":{},"yanked":false}
