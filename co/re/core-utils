@@ -1,0 +1,1 @@
+{"name":"core-utils","vers":"0.1.0","deps":[{"name":"getopts","req":"^0.2.9","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79dba722baa792c2abb6b0fb28f394056b67cea74f53e4921050025425fd7a10","features":{},"yanked":false}
