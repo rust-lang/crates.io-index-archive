@@ -9,3 +9,4 @@
 {"name":"simple_csv","vers":"0.0.12","deps":[],"cksum":"c5dee7b53bc311d14ab518ba4cd299a09a01114f99d0d9317e37b07ace1efbaa","features":{},"yanked":false}
 {"name":"simple_csv","vers":"0.0.13","deps":[],"cksum":"4462ea4dbf2cb59a1dfcc32023b25f29c4dc5b206e10da3bd656171f36a3b996","features":{},"yanked":false}
 {"name":"simple_csv","vers":"0.0.14","deps":[],"cksum":"a7a8a4700fc43d0ae8e47bab59fdd7168ae4a21929f6267ee271a3d209d1e515","features":{"nightly":[]},"yanked":false}
+{"name":"simple_csv","vers":"0.0.15","deps":[],"cksum":"44678cff420c3d6034a58f9c98339544e9117c6aae49618fe7d14424df77c2d7","features":{"nightly":[]},"yanked":false}
