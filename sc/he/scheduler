@@ -1,0 +1,1 @@
+{"name":"scheduler","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d456aba5cd966a3a4e717af27e09acb5fb0dd46e61c47f6a610210a1a85555b","features":{},"yanked":false}
