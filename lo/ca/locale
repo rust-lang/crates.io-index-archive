@@ -6,3 +6,4 @@
 {"name":"locale","vers":"0.1.5","deps":[],"cksum":"6df90b3401d36cf9688a8869dd477333448e010968ce5d79a2da605aab76b9cc","features":{},"yanked":false}
 {"name":"locale","vers":"0.1.6","deps":[],"cksum":"1bf8dc02a251f4edaa8d48e9714371766a5b4e62a547e9237d99765f9a6266b2","features":{},"yanked":false}
 {"name":"locale","vers":"0.1.7","deps":[],"cksum":"8b2c854dfd3395a4b71441bd60348af0ee3f40473e03142f92fe0f3092f9cb6e","features":{},"yanked":false}
+{"name":"locale","vers":"0.1.8","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39ef5772796fc10f35e3bd092934a7c98b7b2a0ae11b17d1f942de7cf12e1684","features":{},"yanked":false}
