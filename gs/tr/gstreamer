@@ -10,3 +10,4 @@
 {"name":"gstreamer","vers":"0.2.1","deps":[],"cksum":"271d8c0b0cc2b640faded6d309b0be962811ff1f14a298a5d2d77d23d2b7aa66","features":{},"yanked":false}
 {"name":"gstreamer","vers":"0.2.2","deps":[],"cksum":"efa56b8f98023f88f17932544af6104a8938f26ce9e2bc3ca17b305d3e37c6b8","features":{},"yanked":false}
 {"name":"gstreamer","vers":"0.2.3","deps":[],"cksum":"600593df194c96848840fbee6bbc0ddc640ff0aa5976542256c0fcea7d1415fe","features":{},"yanked":false}
+{"name":"gstreamer","vers":"0.2.4","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0406e7f4cf455cb0cb74e9f4d27aacf9ecd1418ad7c9e3e58bd6814cb238b38e","features":{},"yanked":false}
