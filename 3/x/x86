@@ -3,3 +3,4 @@
 {"name":"x86","vers":"0.0.3","deps":[],"cksum":"cbe0d746c814507b8ce42d572f30be56b2095fc01d9d499c2a0471a94a650767","features":{},"yanked":false}
 {"name":"x86","vers":"0.0.4","deps":[],"cksum":"1fed6ddf737b1d9370d355524f7ecd235eb8377248a16232e7253c4e25df8731","features":{},"yanked":false}
 {"name":"x86","vers":"0.0.5","deps":[{"name":"bitflags","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcd0837724bd0fcdb343b2cc0e2e1377557154f83fcbf83164fb2c6bb101cc39","features":{},"yanked":false}
+{"name":"x86","vers":"0.0.6","deps":[{"name":"bitflags","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c08c5c1f148540b222e264a5dd6ce8beaeb0a0d342f78dbfcfa8fe1d6d228cb4","features":{},"yanked":false}
