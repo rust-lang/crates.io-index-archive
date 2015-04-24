@@ -8,3 +8,4 @@
 {"name":"liblmdb-sys","vers":"0.1.1","deps":[],"cksum":"1ed03a25689543d813d12136aa9e16b8cfab8783018f8c8152057b26bc7a3ac0","features":{},"yanked":false}
 {"name":"liblmdb-sys","vers":"0.1.2","deps":[],"cksum":"00259de18c3d4a0115fa70b7c94ee69daa0e81c00f65ab60b5058239ba82a004","features":{},"yanked":false}
 {"name":"liblmdb-sys","vers":"0.1.3","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8847a74929ab561a8dbdb9ad80f3584b07bebdf1c9c2ddbdb27f311c94a32505","features":{},"yanked":false}
+{"name":"liblmdb-sys","vers":"0.1.4","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8bc85bc06d67e657dbd0071eac14bd8e61fbc19b1ec7d2e4eb4fda8274e47461","features":{},"yanked":false}
