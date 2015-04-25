@@ -11,3 +11,4 @@
 {"name":"inotify","vers":"0.1.9","deps":[],"cksum":"9e464e18d7a9cc448da0aed3b7486b6b38aaca075477cdbf6672f3c7bc04c183","features":{},"yanked":false}
 {"name":"inotify","vers":"0.1.10","deps":[],"cksum":"9451a048bbae89dda8173c642339d08e4b187359ce8893f8d9adbcf642adc90f","features":{},"yanked":false}
 {"name":"inotify","vers":"0.1.11","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0807e11270a699f080d63854c712f2934d7dc7a33fa818b3fa3bf3df77cab70d","features":{},"yanked":false}
+{"name":"inotify","vers":"0.1.12","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"97f24cabe84c981a9a10dc19b0030020d683a93c55240c2ba220e149d68fd8ee","features":{},"yanked":false}
