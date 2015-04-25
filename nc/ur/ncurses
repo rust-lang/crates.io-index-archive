@@ -1,2 +1,3 @@
 {"name":"ncurses","vers":"5.71.1","deps":[],"cksum":"b5dedbbf1df1d34062ee777003ea47ab201ec34f34455abab0692cbfab855ce0","features":{"default":["wide"],"wide":[]},"yanked":false}
 {"name":"ncurses","vers":"5.72.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7ada3b81020ba386c498134e870d5462b331b2193e9f1b4297cfb74cb147327","features":{"wide":[],"default":["wide"]},"yanked":false}
+{"name":"ncurses","vers":"5.73.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7e71c12c0b61e836772a5608165d01d07f1afc31c6976f715c539111d04e588","features":{"wide":[],"default":["wide"]},"yanked":false}
