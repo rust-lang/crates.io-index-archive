@@ -1,0 +1,1 @@
+{"name":"libx11","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ff2f96ebacfdce173ae43d4ee657d89c7a3fabe5b03a1531271b0d070f1fa42","features":{},"yanked":false}
