@@ -37,3 +37,4 @@
 {"name":"itertools","vers":"0.2.7","deps":[],"cksum":"079c26f5de7f25a88a10b7760bc3cd1fda431944be6165be1dda1f45de2fc767","features":{"unstable":[]},"yanked":false}
 {"name":"itertools","vers":"0.2.8","deps":[],"cksum":"5efa6acaec31b91d86e8ba034b8bd3e2434e7cd7bc959fd74d92a28198c792c1","features":{"unstable":[]},"yanked":false}
 {"name":"itertools","vers":"0.2.9","deps":[],"cksum":"aa9f5fa6ac2d5de35beb97ccf6cdf7258104ec8327e6c0fce1d44f78862e0b0c","features":{"unstable":[]},"yanked":false}
+{"name":"itertools","vers":"0.3.0","deps":[],"cksum":"5a3b2dde3fb2320f57537a51fb9439b09514de17ba5dd579dad716c7b4f93bc3","features":{"unstable":[]},"yanked":false}
