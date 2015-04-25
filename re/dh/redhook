@@ -1,1 +1,2 @@
 {"name":"redhook","vers":"0.0.1","deps":[],"cksum":"4939104e4f75359d3247198789c6b2d3569a6c37265b1dd54b02813a5008548d","features":{},"yanked":false}
+{"name":"redhook","vers":"0.0.2","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d303583bfbd0d3ad651b659812e5da3e526752ec7a2ef08338218b489bce5a2b","features":{},"yanked":false}
