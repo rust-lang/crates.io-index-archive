@@ -1,0 +1,1 @@
+{"name":"timebomb","vers":"0.1.0","deps":[{"name":"pulse","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"time","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"485cd5773e1b3291a70b4cf075c047f90efa0ff6c9b23d4dba7b649594ada030","features":{},"yanked":false}
