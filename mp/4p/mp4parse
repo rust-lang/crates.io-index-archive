@@ -1,1 +1,2 @@
 {"name":"mp4parse","vers":"0.0.2","deps":[{"name":"byteorder","req":"^0.3.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39740f057f002e53723648569b8692517dc6f24b3b887fb30fc2146ed4d542f5","features":{},"yanked":false}
+{"name":"mp4parse","vers":"0.0.3","deps":[{"name":"byteorder","req":"^0.3.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf56f0944c69bab59cffada1f73ab7fb31535ad165d9b3e32d193c404d60af41","features":{},"yanked":false}
