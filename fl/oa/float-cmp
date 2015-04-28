@@ -2,3 +2,4 @@
 {"name":"float-cmp","vers":"0.0.2","deps":[],"cksum":"73e2d8cfacea280f900b5183487057c22701664ba3cb6b0fc4e07892de82db12","features":{},"yanked":false}
 {"name":"float-cmp","vers":"0.0.3","deps":[],"cksum":"b874edca30f0ca38094f0b4385e53534849b52badbbb5e667be178493fce0bb9","features":{},"yanked":false}
 {"name":"float-cmp","vers":"0.1.0","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e7ed374e64bf160e4fe490141bd52d6f98a14e66e0b036a2106f9f1bdcd5d5a","features":{},"yanked":false}
+{"name":"float-cmp","vers":"0.1.1","deps":[],"cksum":"a1a84a17b0b16df43e003b5c25ab930738c2da0a6f0ee4002a318edf4529bf4c","features":{},"yanked":false}
