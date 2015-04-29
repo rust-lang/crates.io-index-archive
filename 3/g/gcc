@@ -15,3 +15,4 @@
 {"name":"gcc","vers":"0.3.2","deps":[],"cksum":"f2aa547abfb44b66e4716aadde2c0266881679baf4cf12a8210a07153dc3aeca","features":{},"yanked":false}
 {"name":"gcc","vers":"0.3.3","deps":[],"cksum":"0e33f45ff9bef4a33df0e34df4d68ee016762d11f24e8d536e5e294096cc2b96","features":{},"yanked":false}
 {"name":"gcc","vers":"0.3.4","deps":[],"cksum":"cfd5de9bef6f37b6e743c425657ce3642dbc48152fce88199a6d6344e2a527e1","features":{},"yanked":false}
+{"name":"gcc","vers":"0.3.5","deps":[],"cksum":"0c2210f2b93a3bb3ee26c639f12c65a21221b827ab7db105476e3f055e5c4589","features":{},"yanked":false}
