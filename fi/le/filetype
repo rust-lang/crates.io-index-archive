@@ -1,0 +1,1 @@
+{"name":"filetype","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"nix","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"546b4c17ccee75d9cb393edc34574bd875cbfbfc07b670371c13b24ca88275bc","features":{},"yanked":false}
