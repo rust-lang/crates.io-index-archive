@@ -44,3 +44,4 @@
 {"name":"clap","vers":"0.6.6","deps":[],"cksum":"02ee65c0d8fd5b389c0db6a8e1a636d3b7a2a0c6765fe98b6edd099304df518a","features":{},"yanked":false}
 {"name":"clap","vers":"0.6.7","deps":[],"cksum":"c28d640d3aa6501e48c11d46fe9d6201f085f8845cd03bd4e8aab4b0ca81ea7c","features":{},"yanked":false}
 {"name":"clap","vers":"0.6.8","deps":[],"cksum":"562eb77e7f3cf2498ab8896dd136b726bd26b1d2206aa4f3da445799649f2070","features":{},"yanked":false}
+{"name":"clap","vers":"0.6.9","deps":[],"cksum":"fd2129c7ac94571bb6a75110a017293503db15d6b21ddb38ab4facb95dcfeedf","features":{"default":[],"unstable":[]},"yanked":false}
