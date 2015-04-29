@@ -1,1 +1,2 @@
 {"name":"skip32","vers":"0.1.0","deps":[{"name":"quickcheck","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6af93b31cce731d69dd7294a9139dbb855f9c6eab9b1cc385dde59e166831fed","features":{},"yanked":false}
+{"name":"skip32","vers":"0.1.1","deps":[{"name":"quickcheck","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2b9b22ba3ba1560ca48ce0258e85f81d2125d48ee4f7315d5fcb9bf56f390570","features":{},"yanked":false}
