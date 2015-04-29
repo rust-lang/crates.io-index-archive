@@ -1,0 +1,1 @@
+{"name":"nonblocking_socket","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"372168eaab454d18616710a6a140100c266690c6fa8c21e6046c449cd9eaf0a2","features":{},"yanked":false}
