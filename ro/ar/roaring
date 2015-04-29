@@ -11,3 +11,4 @@
 {"name":"roaring","vers":"0.2.0","deps":[],"cksum":"4b1b2a7dc44948f33b2b062abe1ce02f9d35f73320ae91967dcd2a0fbe1f2a25","features":{},"yanked":false}
 {"name":"roaring","vers":"0.2.1","deps":[],"cksum":"d4acce9c2cf797136d8121b3864d10958bd1eded829aae5abcb2874c32447406","features":{},"yanked":false}
 {"name":"roaring","vers":"0.2.2","deps":[],"cksum":"b5a65e1e4785cbacf6a98d35371a966930d66b8ca8ff533b1e4a9b296e06299f","features":{},"yanked":false}
+{"name":"roaring","vers":"0.3.1","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44ba2cb6fee06145725f9fdbfa9cfd17b7525cd4b96f080bed71ab969906ddca","features":{},"yanked":false}
