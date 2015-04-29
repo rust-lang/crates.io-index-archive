@@ -1,0 +1,1 @@
+{"name":"sorter","vers":"0.2.0","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85c4dd244a5ea1fce0384af5c4b238ef76d006d339e49456989e9a80dedbf0f0","features":{},"yanked":false}
