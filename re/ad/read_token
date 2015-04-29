@@ -1,1 +1,2 @@
 {"name":"read_token","vers":"0.0.0","deps":[{"name":"range","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d02d2d3da3e755919ec67e96b982dc43d2566c418bcf741669166672cf9be62","features":{},"yanked":false}
+{"name":"read_token","vers":"0.0.11","deps":[{"name":"range","req":"^0.0.9","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"713ec98966da021918e6c70f56764d2aa3d8bb5c4c5acae489fb979c51b35398","features":{},"yanked":false}
