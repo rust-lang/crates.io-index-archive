@@ -1,0 +1,1 @@
+{"name":"text_io","vers":"0.0.1","deps":[{"name":"quasi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quasi_macros","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2f855a62a05df020d070ef87e9b5567d814ecdba7f10b70fe28f4a5cc2054ca","features":{},"yanked":false}
