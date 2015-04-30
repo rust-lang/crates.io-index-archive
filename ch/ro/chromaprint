@@ -1,0 +1,1 @@
+{"name":"chromaprint","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1755696cff89663f724edc0e886fd9c99fbf8338e3b2a1a69fc5966831509ef","features":{},"yanked":false}
