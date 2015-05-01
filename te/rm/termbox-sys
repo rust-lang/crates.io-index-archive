@@ -17,3 +17,4 @@
 {"name":"termbox-sys","vers":"0.2.4","deps":[],"cksum":"01e9c0b3c13773cafcd013e4195614bd86dcdbe7f7f07f6ee038e47bfb8bebbe","features":{},"yanked":false}
 {"name":"termbox-sys","vers":"0.2.5","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3814e75514024b93f4081e36bddd7aaa41f401a70f72879c736914967115c75d","features":{},"yanked":false}
 {"name":"termbox-sys","vers":"0.2.6","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07c19ce74e59bc271bc5c9952e7be763fa5b99679f18937a1f248ed099c5affe","features":{},"yanked":false}
+{"name":"termbox-sys","vers":"0.2.7","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d70ebd8eeb5dfabde4ce7231c3344ba96b623d7667b332338358653eede810b9","features":{},"yanked":false}
