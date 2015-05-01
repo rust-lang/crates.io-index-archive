@@ -4,3 +4,4 @@
 {"name":"float-cmp","vers":"0.1.0","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e7ed374e64bf160e4fe490141bd52d6f98a14e66e0b036a2106f9f1bdcd5d5a","features":{},"yanked":false}
 {"name":"float-cmp","vers":"0.1.1","deps":[],"cksum":"a1a84a17b0b16df43e003b5c25ab930738c2da0a6f0ee4002a318edf4529bf4c","features":{},"yanked":false}
 {"name":"float-cmp","vers":"0.1.2","deps":[],"cksum":"dc31f3b3c510dbb305e2eb7881917fc1436ebdba4a249ec594e500c082d02926","features":{},"yanked":false}
+{"name":"float-cmp","vers":"0.1.3","deps":[],"cksum":"b05b4a35746c9a2b7488dc8c39e31f7fc9c9ade8dd8b731eafaf7431238f7c34","features":{},"yanked":false}
