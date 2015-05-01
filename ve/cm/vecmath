@@ -6,3 +6,4 @@
 {"name":"vecmath","vers":"0.0.6","deps":[{"name":"num","req":"^0.1.21","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"119334280f89645ead148276791e9d306aa8b5675d9ed6f727264348bfbd47db","features":{},"yanked":false}
 {"name":"vecmath","vers":"0.0.7","deps":[{"name":"num","req":"^0.1.21","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e5dfbebed64cf27d37b227b2db33ccc86ea49d2a69fe7985dfbd26da9eb6ff1","features":{},"yanked":false}
 {"name":"vecmath","vers":"0.0.13","deps":[],"cksum":"395d9fa9ae3654818e73b804d4c2aa84c0306bbfb75fbd14f954b0b9e9ffd374","features":{},"yanked":false}
+{"name":"vecmath","vers":"0.0.22","deps":[{"name":"piston-float","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ec4ad201f1c321dce35188d170926c31a5a9d08bf4ab27983190355e904a41b","features":{},"yanked":false}
