@@ -7,3 +7,4 @@
 {"name":"protobuf","vers":"0.0.7","deps":[],"cksum":"ee0e2c67fd7b379ad3708623a8c9846fe509c9e9184021b8e00ed3acd1fede03","features":{},"yanked":false}
 {"name":"protobuf","vers":"0.0.8","deps":[],"cksum":"7fd28fb8159afa41ab8782f9cb0ef7f3d2e8fe3e11d8603e22f3c1bbac2d647c","features":{},"yanked":false}
 {"name":"protobuf","vers":"0.0.9","deps":[],"cksum":"70dfc515e01efbeb047bd29715c3a434184a8fd356263b6ba17eadc0fd353dc6","features":{},"yanked":false}
+{"name":"protobuf","vers":"0.0.10","deps":[],"cksum":"871dba587bd18b2119d8a80b11d2a482f5f2a7d14677551b74dbc3838e7156c9","features":{},"yanked":false}
