@@ -1,1 +1,2 @@
 {"name":"texture_packer","vers":"0.0.0","deps":[{"name":"image","req":"~0.2.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37a9383fca60c3d026ff5bf51a57b0841c2eb12d2abb98e5747e682489807bd4","features":{},"yanked":false}
+{"name":"texture_packer","vers":"0.0.1","deps":[{"name":"image","req":"^0.3.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f106a6f585326bcaa607a0904a5f5c3356348e50816d60c1f3dc3cee8d8463cc","features":{},"yanked":false}
