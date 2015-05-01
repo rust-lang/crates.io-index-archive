@@ -2,3 +2,4 @@
 {"name":"tobj","vers":"0.0.2","deps":[],"cksum":"907e78d3f7ef7a1ecaf540947ca8259c2a2d4e48554e8780b8366458c6ae43a4","features":{},"yanked":false}
 {"name":"tobj","vers":"0.0.3","deps":[],"cksum":"c966bc6cdba4807bd6126d2f33e5a33f6afa2a9418ade9122b44978ccb971f16","features":{},"yanked":false}
 {"name":"tobj","vers":"0.0.4","deps":[],"cksum":"c8e4fe78c4feeeccd6ecd50bd9b7480e52da3a08c5504989b6eeb1db2413f78a","features":{"unstable":[]},"yanked":false}
+{"name":"tobj","vers":"0.0.5","deps":[],"cksum":"0a58796a9057afb2ff58fa7b699bf5f119c41fbbadf4ad8c4acb8c8e9bd6c157","features":{"unstable":[]},"yanked":false}
