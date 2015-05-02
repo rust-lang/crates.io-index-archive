@@ -1,0 +1,1 @@
+{"name":"block_allocator","vers":"0.1.0","deps":[{"name":"iobuf","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"mmap","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"972cf5932c44048b098165b05ba952fa16f0ec9e8f0bacc46833fc2994a18d3b","features":{},"yanked":false}
