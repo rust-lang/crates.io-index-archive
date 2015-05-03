@@ -1,1 +1,2 @@
 {"name":"openal-rs","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbabe2daff2d3854e4f48d95f5e94c55c7edef651701c848dc7f6767a962f829","features":{},"yanked":false}
+{"name":"openal-rs","vers":"0.1.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"960963556a69791dc3df35a48725c6c3cdd60218aa50396c297b90b700367159","features":{},"yanked":false}
