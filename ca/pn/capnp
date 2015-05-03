@@ -57,3 +57,4 @@
 {"name":"capnp","vers":"0.1.34","deps":[],"cksum":"c2cf3a0ae2c41f5ad6efa9860a3fba875455dcce75cd32ca080a7551f2c7d965","features":{},"yanked":false}
 {"name":"capnp","vers":"0.2.0","deps":[],"cksum":"121c52b46de8d78feb17dd6894e50c894e7d596ecfaa5d7f67a57ceab61d7b8d","features":{},"yanked":false}
 {"name":"capnp","vers":"0.2.1","deps":[],"cksum":"48704862a585b90da14cab01667a5a493a81e73b87930d7f104d510bf75d4a1a","features":{},"yanked":false}
+{"name":"capnp","vers":"0.2.2","deps":[{"name":"byteorder","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quickcheck","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d31f901dc0bbad59b7d6625f8557aa54a402ffa527845d335eb1ea5ff78702a3","features":{},"yanked":false}
