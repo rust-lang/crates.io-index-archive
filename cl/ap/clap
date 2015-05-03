@@ -47,3 +47,4 @@
 {"name":"clap","vers":"0.6.9","deps":[],"cksum":"fd2129c7ac94571bb6a75110a017293503db15d6b21ddb38ab4facb95dcfeedf","features":{"default":[],"unstable":[]},"yanked":false}
 {"name":"clap","vers":"0.7.0","deps":[],"cksum":"977df9f9dc2ae46f8dae357ea26d5d9013d6ea9fcc220c332d011407d206eeb9","features":{"unstable":[],"default":[]},"yanked":true}
 {"name":"clap","vers":"0.7.1","deps":[],"cksum":"1a0e1b85e181cd1b02aa5cb971925b95e263ada11742f0af3a2f97acf39e3763","features":{"unstable":[],"default":[]},"yanked":false}
+{"name":"clap","vers":"0.7.2","deps":[],"cksum":"c267bb67ed5ad8460a8b623d0a106cf773134c92e57752d0eedd3192533fdfaf","features":{"default":[],"unstable":[]},"yanked":false}
