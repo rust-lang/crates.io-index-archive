@@ -1,0 +1,1 @@
+{"name":"openal-rs","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbabe2daff2d3854e4f48d95f5e94c55c7edef651701c848dc7f6767a962f829","features":{},"yanked":false}
