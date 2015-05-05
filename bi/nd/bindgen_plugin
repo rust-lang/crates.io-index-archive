@@ -1,0 +1,1 @@
+{"name":"bindgen_plugin","vers":"0.14.0","deps":[{"name":"bindgen","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a031ddaa8709a19c42b1096a4cfc2310fdb4b5f88b4dd71aef9de23c4e108b41","features":{"static":[]},"yanked":false}
