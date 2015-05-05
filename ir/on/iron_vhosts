@@ -1,0 +1,1 @@
+{"name":"iron_vhosts","vers":"0.1.0","deps":[{"name":"url","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"iron","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf03e80248a273e840816b54e7f21f64185176730e8de551be3c82608e53e672","features":{},"yanked":false}
