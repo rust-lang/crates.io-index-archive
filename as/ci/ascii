@@ -9,3 +9,4 @@
 {"name":"ascii","vers":"0.3.0","deps":[],"cksum":"854b27f9a291f7dce06b8ca2e9782b01b2e4f6860e02110a63e49306fcb8acc1","features":{},"yanked":false}
 {"name":"ascii","vers":"0.4.0","deps":[],"cksum":"ecc52bf840849a5a6534c2af07a969d3a9a2b915275bf8e77b47350c31b52c26","features":{},"yanked":false}
 {"name":"ascii","vers":"0.4.1","deps":[],"cksum":"715dcddc512ba4ad1c1ac75389f33ff11353f46c9816f3d1b2c8edac24adabda","features":{},"yanked":false}
+{"name":"ascii","vers":"0.5.0","deps":[],"cksum":"357b310c3bc6b1ff1c1d0856ddd344c7c8ed03fe9ca17bcc0bd9f3b32036a092","features":{"unstable":[]},"yanked":false}
