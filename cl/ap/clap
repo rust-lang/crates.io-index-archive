@@ -51,3 +51,4 @@
 {"name":"clap","vers":"0.7.3","deps":[],"cksum":"47bdc19dba18ecec6a4c00c5572b24d1e46b4b4730545584dc5b7c835acbca31","features":{"default":[],"unstable":[]},"yanked":false}
 {"name":"clap","vers":"0.7.4","deps":[],"cksum":"9fc1d9183b974ef0868fa922f3c8a1073e1a21a7a283863c2b2683552957978a","features":{"default":[],"unstable":[]},"yanked":false}
 {"name":"clap","vers":"0.7.5","deps":[],"cksum":"3881c2ff1505bd25b62ad8f94c79a53ee6d3fe56fb8b6ab6fed07fb575ed8259","features":{"default":[],"unstable":[]},"yanked":false}
+{"name":"clap","vers":"0.7.6","deps":[],"cksum":"b1fdb5d6bdefab6c639d7acb2d7b29ac0c94b6e4d9f0acfc7eff001117ec0569","features":{"default":[],"unstable":[]},"yanked":false}
