@@ -1,0 +1,1 @@
+{"name":"bounded-spsc-queue","vers":"0.0.1","deps":[{"name":"time","req":"*","features":[""],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9cc2c2864cad4986f426f134b7b259f96a10f1bacbc0bd603759fd7823235af3","features":{"nightly":[],"benchmark":["time"],"default":[]},"yanked":false}
