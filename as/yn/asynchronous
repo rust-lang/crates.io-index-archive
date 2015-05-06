@@ -2,3 +2,4 @@
 {"name":"asynchronous","vers":"0.1.1","deps":[],"cksum":"6a2af69b4adc490d35bf55dd5d721c0b39630e50507da2448e7764150199c9ab","features":{},"yanked":false}
 {"name":"asynchronous","vers":"0.2.0","deps":[],"cksum":"fb5ea7cd30a5337803fc8850f206184abef778403966e63cb99e8d079590c275","features":{},"yanked":false}
 {"name":"asynchronous","vers":"0.3.0","deps":[{"name":"num_cpus","req":"^0.2.4","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2db032f28393f1b84d584d29bc6e666ef955d516e898a8c1ee1399d0f8a3c27f","features":{},"yanked":false}
+{"name":"asynchronous","vers":"0.3.1","deps":[{"name":"num_cpus","req":"^0.2.4","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1498174fc696b2cf40e1aa3c9e392e10c6b386e1c6b8f36455b0fe5dfdad04f1","features":{},"yanked":false}
