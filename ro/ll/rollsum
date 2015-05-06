@@ -1,0 +1,1 @@
+{"name":"rollsum","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e4da77414e1b85c268ee8a60ff3df97741c35f28702da0be3b28a3d9c0e62cde","features":{},"yanked":false}
