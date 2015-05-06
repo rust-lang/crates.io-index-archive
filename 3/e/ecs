@@ -16,3 +16,4 @@
 {"name":"ecs","vers":"0.18.2","deps":[],"cksum":"9ba5e7787591c3470abdb73bec4621eceaf6cfd5eed9f57981e30c597c156ae5","features":{},"yanked":false}
 {"name":"ecs","vers":"0.18.3","deps":[],"cksum":"fb9e5d95fe04b2f0dc8f73447652465407f2aa94b503ec7694a9c8041856361f","features":{},"yanked":false}
 {"name":"ecs","vers":"0.18.5","deps":[],"cksum":"aa440ea0d72f15aeb4eca8c95a0c6e0c546bcfa9ba87d37a3a9765776df02efe","features":{},"yanked":false}
+{"name":"ecs","vers":"0.18.7","deps":[],"cksum":"dbdc665d46764125db3227a7d2ea3658c41bcaedd176492751a7727b6ae817f0","features":{},"yanked":false}
