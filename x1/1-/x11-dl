@@ -1,0 +1,1 @@
+{"name":"x11-dl","vers":"1.0.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"dylib","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d99530d82070e765ebd3bf3bf95a242b21c99444215853ab22a572b73a95d97","features":{},"yanked":false}
