@@ -1,0 +1,1 @@
+{"name":"jetscii","vers":"0.1.0","deps":[{"name":"quickcheck","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"850ceaea1d39d38e17150833ad6f074a11e14a28e3ebd4a6693122d4415ae3b8","features":{},"yanked":false}
