@@ -1,0 +1,1 @@
+{"name":"augeas_sys","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9384aabbee3764763bbc71daad8a24c6f2eef886c0a68a3901ef499aa9dd1af2","features":{},"yanked":false}
