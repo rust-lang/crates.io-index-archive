@@ -1,0 +1,1 @@
+{"name":"clippy","vers":"0.0.2","deps":[{"name":"compiletest_rs","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"33fae924445ddfdcedacdb823e4a8f3df3dbd7b88ce03ec240df8c20695d1a10","features":{},"yanked":false}
