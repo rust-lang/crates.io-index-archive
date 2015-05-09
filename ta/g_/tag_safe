@@ -1,0 +1,1 @@
+{"name":"tag_safe","vers":"0.0.1","deps":[{"name":"compiletest_rs","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a71016b11c587b1a194b2e1ad8583c619eded1bc55633c2be514451855a95875","features":{},"yanked":false}
