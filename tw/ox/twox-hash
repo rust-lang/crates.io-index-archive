@@ -1,0 +1,1 @@
+{"name":"twox-hash","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05269dcaf58cc966792d09bedfa189f7d7e3920931fb8779d9fd1e27749f6c35","features":{},"yanked":false}
