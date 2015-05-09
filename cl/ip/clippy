@@ -1,1 +1,2 @@
 {"name":"clippy","vers":"0.0.2","deps":[{"name":"compiletest_rs","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"33fae924445ddfdcedacdb823e4a8f3df3dbd7b88ce03ec240df8c20695d1a10","features":{},"yanked":false}
+{"name":"clippy","vers":"0.0.3","deps":[{"name":"compiletest_rs","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ab2e8168ef8d545f94377369d4763e857d782cd4e61bfd6b48170114f0d2ae03","features":{},"yanked":false}
