@@ -1,1 +1,2 @@
 {"name":"tenacious","vers":"0.0.1","deps":[{"name":"compiletest_rs","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"014b786ce51d2f095bec03154d59cb87415b67814101081f02a92b59d51e9809","features":{},"yanked":false}
+{"name":"tenacious","vers":"0.0.2","deps":[{"name":"compiletest_rs","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cf01792d387cc9d782b997f475197bd6aef224f11a34c02b825be0bf476dc151","features":{},"yanked":false}
