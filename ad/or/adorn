@@ -1,0 +1,1 @@
+{"name":"adorn","vers":"0.1.0","deps":[{"name":"compiletest_rs","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8c3362aa7c5322f4914422e67d5a5ffbe3449b19bf65f0f4c3f2f0fd6ee1cebd","features":{},"yanked":false}
