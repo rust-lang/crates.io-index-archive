@@ -7,3 +7,4 @@
 {"name":"cql_bindgen","vers":"0.0.7","deps":[],"cksum":"cae35c0bf8e54aa600aec03544fb988c36c656f163da9fd18a24f56247851703","features":{},"yanked":false}
 {"name":"cql_bindgen","vers":"0.0.8","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae592e7e57ef11c99be60bbd926ec8958425a500d300eaa1c06470cb0ea590f9","features":{},"yanked":false}
 {"name":"cql_bindgen","vers":"0.0.10","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"751c779c1730f794c5ada26a5cf87114a93e880397d717dc69039de859c17ba1","features":{},"yanked":false}
+{"name":"cql_bindgen","vers":"0.0.11","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35ebd06e6aabe0502937375c3236c9b1ee4fb10fa7a660c0d8300c0a3dd65d8d","features":{},"yanked":false}
