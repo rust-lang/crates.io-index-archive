@@ -1,0 +1,1 @@
+{"name":"cassandra","vers":"0.2.2","deps":[{"name":"cql_bindgen","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d56b30754d542e750e881c280c09ad8946e6433600130f1ea43da63538515e9a","features":{},"yanked":false}
