@@ -1,0 +1,1 @@
+{"name":"glib","vers":"0.0.1","deps":[{"name":"glib-sys","req":"^0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f600bcaf6f2c7b7421382d52bc03204b690d0377260205b82a0f8b1b5a3f44c0","features":{},"yanked":false}
