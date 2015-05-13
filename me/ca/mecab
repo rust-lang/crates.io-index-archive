@@ -1,2 +1,2 @@
-{"name":"mecab","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9ea8b6698d699a490ea9f98e582b5babdad37a1961ff2a734a89be300d905cb","features":{},"yanked":true}
+{"name":"mecab","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9ea8b6698d699a490ea9f98e582b5babdad37a1961ff2a734a89be300d905cb","features":{},"yanked":false}
 {"name":"mecab","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"286b527b2a32b0ee47271cc32808fe6ef082b23fa5f9c68c602b83039801fa12","features":{},"yanked":false}
