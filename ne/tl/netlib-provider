@@ -1,1 +1,2 @@
 {"name":"netlib-provider","vers":"0.0.8","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a48fee166a480fd6abcafa502ff499ec7084111cf64cafba9b3935b12388f7d6","features":{"system-netlib":[],"blas-only":[]},"yanked":false}
+{"name":"netlib-provider","vers":"0.1.0","deps":[],"cksum":"adda4f0c30aca1496fd5a720e155c76502e435711e6a26a8db70aaa30dca5dd9","features":{"exclude-lapack":[],"system-netlib":[],"exclude-cblas":[]},"yanked":false}
