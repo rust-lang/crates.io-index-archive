@@ -1,0 +1,1 @@
+{"name":"keystroke","vers":"0.0.2","deps":[{"name":"user32-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"winapi","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"527f12acf1da3d5a08139c15cd66e9ee253561f7835e58e4f6e4a134f517dff5","features":{},"yanked":false}
