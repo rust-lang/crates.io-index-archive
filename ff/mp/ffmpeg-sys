@@ -1,1 +1,2 @@
 {"name":"ffmpeg-sys","vers":"2.6.2-1","deps":[],"cksum":"bd17216a212f9dab493334e5fc84eaa95dbca41fd338f6b7cfb19e2f5ef55771","features":{},"yanked":false}
+{"name":"ffmpeg-sys","vers":"2.6.2-2","deps":[],"cksum":"95047a951b6e00034f354209f18f2374f4a2ec36809356f68cb4236d7492e2fc","features":{"avdevice":["avformat"],"avresample":[],"avfilter":[],"avformat":["avcodec"],"postproc":[],"default":["avcodec","avdevice","avfilter","avformat","avresample","postproc","swresample","swscale"],"avcodec":[],"swscale":[],"swresample":[]},"yanked":false}
