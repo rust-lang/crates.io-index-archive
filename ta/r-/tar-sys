@@ -1,1 +1,2 @@
 {"name":"tar-sys","vers":"0.2.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6694abe5276d9afc08ef23bdc75ee702228cbc1c85cb30dbc7649fbdf593e8ad","features":{},"yanked":false}
+{"name":"tar-sys","vers":"0.2.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"adf3324e12cfd704feaee8accb60cae39de9314a336c949a6180867e437025d0","features":{},"yanked":false}
