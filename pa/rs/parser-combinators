@@ -10,3 +10,4 @@
 {"name":"parser-combinators","vers":"0.2.6","deps":[],"cksum":"87d0b556fa9cfdffa8e276278117367b7909e94db58bf8cdd7fe227910619f02","features":{},"yanked":false}
 {"name":"parser-combinators","vers":"0.3.0","deps":[],"cksum":"bdf457a943d11261f8b027a5ddeaf3e0be8506d52bc6dd1fed9e7f68752a5e5a","features":{},"yanked":false}
 {"name":"parser-combinators","vers":"0.3.1","deps":[],"cksum":"41634d6ed05126186f20e704844177c9d52d1e22db52b728ff6a89ec55c4ab0f","features":{},"yanked":false}
+{"name":"parser-combinators","vers":"0.3.2","deps":[],"cksum":"3dd90feed2cfc5909e9a8d5be87255dbf706ac36ebf30b41114b4037107359ef","features":{},"yanked":false}
