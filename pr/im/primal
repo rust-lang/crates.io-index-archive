@@ -1,0 +1,1 @@
+{"name":"primal","vers":"0.1.14","deps":[{"name":"num","req":"~0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"379f201a1ba61c8b62fa45ea3a723293442dd5772a1bf88c1e44049a1e7ed41c","features":{"unstable":[]},"yanked":false}
