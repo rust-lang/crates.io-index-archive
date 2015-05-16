@@ -1,3 +1,4 @@
 {"name":"hound","vers":"0.1.0","deps":[],"cksum":"2774c58397d59a54be648bfe636c9e07c8c06b70d64498c45da8367de02f7d05","features":{},"yanked":false}
 {"name":"hound","vers":"0.2.0","deps":[],"cksum":"f876910d19a063ca6fd4007f45d75d400e32419d8e9655c8e21ada08a572f779","features":{},"yanked":false}
 {"name":"hound","vers":"0.3.0","deps":[{"name":"cpal","req":"^0.0.20","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ae62e033300c00e1fcdf37d83b354b6becaad2a0dd5b1bd26a8b13c075bea284","features":{},"yanked":false}
+{"name":"hound","vers":"0.4.0","deps":[{"name":"cpal","req":"^0.0.20","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"08fbfdf0aea00ffe4051cbdaefd43fde2c63671162e9e792b8b639f048880024","features":{},"yanked":false}
