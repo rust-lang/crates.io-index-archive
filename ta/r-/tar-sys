@@ -1,0 +1,1 @@
+{"name":"tar-sys","vers":"0.2.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6694abe5276d9afc08ef23bdc75ee702228cbc1c85cb30dbc7649fbdf593e8ad","features":{},"yanked":false}
