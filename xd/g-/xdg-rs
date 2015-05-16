@@ -9,3 +9,4 @@
 {"name":"xdg-rs","vers":"0.1.0","deps":[],"cksum":"08017c6c36314e978c0834b247e7acb720540e7c87071e4f8780bb9e082c7fa6","features":{},"yanked":false}
 {"name":"xdg-rs","vers":"0.1.1","deps":[],"cksum":"1eb6e4d3d3e4cebe8793a91cc4fa928da90dfd7cad6de875a40d0228ff63f2fd","features":{},"yanked":false}
 {"name":"xdg-rs","vers":"0.1.2","deps":[],"cksum":"e58d41154340bba13262fd47314d9a9a37fbc975cf74470b35fc1002b97281c8","features":{"nightly":[]},"yanked":false}
+{"name":"xdg-rs","vers":"0.1.3","deps":[],"cksum":"ddfe7958fc6b1ae7f64181dbc4ebb61ca9bb1087458d5c57ed42c9ce1f043ea6","features":{"unstable":[]},"yanked":false}
