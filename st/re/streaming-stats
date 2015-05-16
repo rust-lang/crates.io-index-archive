@@ -23,3 +23,4 @@
 {"name":"streaming-stats","vers":"0.1.23","deps":[],"cksum":"83dcd84f6020c08859555eb6c9bb7d401f0f2c21be638fbced0db67e51a4f8b5","features":{},"yanked":false}
 {"name":"streaming-stats","vers":"0.1.25","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a126d14fa3d3907a26eb1a387826abfcf1c4baff13e08c79c0dc3c7cde6c19fe","features":{},"yanked":false}
 {"name":"streaming-stats","vers":"0.1.24","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15de98f3feac2431c61772098459343d38ec0a5dc56a9f5eef6ad4070fdd7895","features":{},"yanked":false}
+{"name":"streaming-stats","vers":"0.1.26","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92e2e82cd1480e34fcee4b4a561d5cb7b6fad4498841348cf35515731be05ecd","features":{},"yanked":false}
