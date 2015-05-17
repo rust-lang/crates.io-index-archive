@@ -1,1 +1,2 @@
 {"name":"superlu-sys","vers":"0.1.0","deps":[],"cksum":"b9b30a620ff88b00543409dffcd8a4d7007062fea16d68262d6a0e88e53e59a9","features":{},"yanked":false}
+{"name":"superlu-sys","vers":"0.1.1","deps":[{"name":"blas-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5fe8ebc5d86bb49dbfdfdcb7cab9f8091d190a374b31fe46724c6a97bf80d4d9","features":{},"yanked":false}
