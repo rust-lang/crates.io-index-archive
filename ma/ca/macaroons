@@ -1,1 +1,2 @@
 {"name":"macaroons","vers":"0.0.0","deps":[],"cksum":"866e5e56135793c4044e23a0fe15b0d990094de58ccd8e98ca212adb776e88a7","features":{},"yanked":false}
+{"name":"macaroons","vers":"0.1.0","deps":[{"name":"sodiumoxide","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rustc-serialize","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71141b8b7a522c26842dec9ef15004c7cab82b3084dd0e697edc1e830f4c6c1f","features":{},"yanked":false}
