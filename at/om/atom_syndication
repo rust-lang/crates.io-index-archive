@@ -1,0 +1,1 @@
+{"name":"atom_syndication","vers":"0.1.0","deps":[{"name":"RustyXML","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61f68e0a4841ca8c5f135db5f60f7aa2fa7ffe892b0e0cf1e84c27d82aa7e468","features":{},"yanked":false}
