@@ -5,3 +5,4 @@
 {"name":"openblas-provider","vers":"0.1.3","deps":[],"cksum":"b7e4c9d9f949d48bfb9f0027aac2fb892e28e508f5352dc1a3cbba386c2ea655","features":{"exclude-cblas":[],"system-openblas":[],"static-openblas":[]},"yanked":false}
 {"name":"openblas-provider","vers":"0.1.4","deps":[],"cksum":"8d0c37b56ceb12396862e015b3648503d91e132fd492a68aa36734c0ffdb605c","features":{"system-openblas":[],"exclude-cblas":[],"static-openblas":[]},"yanked":false}
 {"name":"openblas-provider","vers":"0.1.5","deps":[],"cksum":"bba20122e5e7431ef719ba037378405fffbf47505f280f785be97d3f61c8ffcf","features":{"static-openblas":[],"exclude-cblas":[],"system-openblas":[]},"yanked":false}
+{"name":"openblas-provider","vers":"0.1.6","deps":[],"cksum":"ab3bccff82af7fef1fb2b866cedbfa2c35cb5b092420b540ff597ea4c227a1c0","features":{"static-openblas":[],"exclude-cblas":[],"system-openblas":[]},"yanked":false}
