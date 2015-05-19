@@ -10,3 +10,4 @@
 {"name":"aster","vers":"0.2.0","deps":[],"cksum":"0be2cd473b95bb045e143071964c5af498e503bfe6f8e46f354e367dc2038346","features":{},"yanked":false}
 {"name":"aster","vers":"0.2.1","deps":[],"cksum":"ae65e68aba20f890d0ef0141a2b7f80f3a87729f4d29fd2d2d5a8665a2275914","features":{},"yanked":false}
 {"name":"aster","vers":"0.2.2","deps":[],"cksum":"257a46790e89ebefc5db402fc8e990adbdb1e4e3dd9ec88a5c9a2b854963b4ff","features":{},"yanked":false}
+{"name":"aster","vers":"0.3.0","deps":[{"name":"syntex_syntax","req":"*","features":[""],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b3c4ec591b3143a3ae96d35c61c8dadcd27963aba6588cc3871c18c3296c8cc5","features":{"with-syntex":["syntex_syntax"]},"yanked":false}
