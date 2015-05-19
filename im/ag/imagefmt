@@ -1,0 +1,1 @@
+{"name":"imagefmt","vers":"0.1.0","deps":[{"name":"flate2","req":"^0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65d3acd34794b7b757d83f793e7d1687df4310e817f4707dd429895a8b1b6acc","features":{},"yanked":false}
