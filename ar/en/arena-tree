@@ -1,0 +1,1 @@
+{"name":"arena-tree","vers":"0.1.0","deps":[{"name":"typed-arena","req":"^1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"109556be1588c0df02ecede3292a2d106b08f15a6b307ac052b96e4c93f4a97e","features":{},"yanked":false}
