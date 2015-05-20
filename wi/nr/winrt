@@ -1,0 +1,1 @@
+{"name":"winrt","vers":"0.0.1","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"winapi","req":"^0.1.17","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0ab85cf5e9db17386f5e69e0dcdbe5a9bd01ad06d32e618862c292dfa992b6b","features":{},"yanked":false}
