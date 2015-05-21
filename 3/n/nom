@@ -11,3 +11,4 @@
 {"name":"nom","vers":"0.2.1","deps":[],"cksum":"b20b5fc39c1f3178545ff7e980e24a012bf794bd5a50637dd59ff32e28ef9f9a","features":{},"yanked":false}
 {"name":"nom","vers":"0.2.2","deps":[],"cksum":"7708138adaf16ff9e549893e4b91a42bbfc97c8a0bae7ab0709340306e905ad8","features":{},"yanked":false}
 {"name":"nom","vers":"0.3.0","deps":[],"cksum":"0704b7edafa95ec804def9054dd51a704462a63db7fb6bd812f319a91fa8f11e","features":{},"yanked":false}
+{"name":"nom","vers":"0.3.1","deps":[],"cksum":"96adb0b25ee264d12df2af8c5ba3c6fcef40be854b065f71d62752b7eed80784","features":{"core":[]},"yanked":false}
