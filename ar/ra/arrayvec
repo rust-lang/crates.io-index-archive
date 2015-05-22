@@ -3,3 +3,4 @@
 {"name":"arrayvec","vers":"0.1.2","deps":[],"cksum":"6f7fc7e16fa4d3c053b0fbef2953f774dbace4fd9a0f010877b30c2701bdaa67","features":{},"yanked":false}
 {"name":"arrayvec","vers":"0.2.0","deps":[{"name":"nodrop","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7051510fb2588eda88bc7844dbf142957ad89a2ce3b65b11ba41b1f3e9066a14","features":{},"yanked":false}
 {"name":"arrayvec","vers":"0.3.0","deps":[{"name":"nodrop","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1bcd71605fb900456dbcc7cd5c26c769e6aa93b36f59280535f5ca979c7bfa9","features":{},"yanked":false}
+{"name":"arrayvec","vers":"0.3.1","deps":[{"name":"nodrop","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"126221d2092a1df8ff98b72e4b898c9ce61ee56049429aa4ff80210e25db2a54","features":{},"yanked":false}
