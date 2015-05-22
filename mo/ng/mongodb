@@ -1,0 +1,1 @@
+{"name":"mongodb","vers":"0.0.1","deps":[{"name":"bson-rs","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"byteorder","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13517625fba92945dfb52cc43f9e5730606457b17f46c4affba7eafb7fc11f0f","features":{},"yanked":false}
