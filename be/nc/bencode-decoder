@@ -1,0 +1,1 @@
+{"name":"bencode-decoder","vers":"0.0.2","deps":[{"name":"rand","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8e5065adb163fc86fa4a1f88763d310e49a73270133f926ce0028d5015fb145","features":{},"yanked":false}
