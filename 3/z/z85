@@ -1,0 +1,1 @@
+{"name":"z85","vers":"0.1.1","deps":[{"name":"quickcheck","req":"^0.2.18","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3e12c525f07c6b7725e98e1700248e88fc14e67500ef786798158512b12735fb","features":{},"yanked":false}
