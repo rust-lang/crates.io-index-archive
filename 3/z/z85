@@ -1,1 +1,2 @@
 {"name":"z85","vers":"0.1.1","deps":[{"name":"quickcheck","req":"^0.2.18","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3e12c525f07c6b7725e98e1700248e88fc14e67500ef786798158512b12735fb","features":{},"yanked":false}
+{"name":"z85","vers":"0.1.2","deps":[{"name":"quickcheck","req":"^0.2.18","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"aee7fb686b7d49b75240cf6238bb63529b79e4ebcbf6075f4e62b3972d6bb894","features":{},"yanked":false}
