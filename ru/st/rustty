@@ -1,1 +1,2 @@
 {"name":"rustty","vers":"0.1.0","deps":[{"name":"nix","req":"^0.3.6","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c439bfe013ea92c1d6cc15742461036d2438cfecbde7b093954f541abd734b84","features":{},"yanked":false}
+{"name":"rustty","vers":"0.1.1","deps":[{"name":"nix","req":"^0.3.6","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da844fcc372012d284b515a54371631d4fa9dfc851b97a283abffe18c78f2778","features":{},"yanked":false}
