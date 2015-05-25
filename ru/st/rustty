@@ -1,0 +1,1 @@
+{"name":"rustty","vers":"0.1.0","deps":[{"name":"nix","req":"^0.3.6","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c439bfe013ea92c1d6cc15742461036d2438cfecbde7b093954f541abd734b84","features":{},"yanked":false}
