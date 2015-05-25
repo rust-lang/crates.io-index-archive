@@ -1,0 +1,1 @@
+{"name":"ioctl","vers":"0.1.0","deps":[{"name":"bitflags","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d8b5d81dc02a732ee189cdebccb461777d3a876e880bcbe432755b0b1c5526b","features":{},"yanked":false}
