@@ -1,0 +1,1 @@
+{"name":"harfbuzz","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c65078ebcd2b38234d477071983650798a79270a24a94cef137d9dd2580ffbfd","features":{},"yanked":false}
