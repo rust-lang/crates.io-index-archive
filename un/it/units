@@ -1,0 +1,1 @@
+{"name":"units","vers":"0.0.1","deps":[{"name":"tylar","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39f04bb3c833ca5b932eb0e62d0c60dea265855a64f32492f5625094625c2c4c","features":{"unstable":[]},"yanked":false}
