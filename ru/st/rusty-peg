@@ -1,0 +1,1 @@
+{"name":"rusty-peg","vers":"0.0.1","deps":[{"name":"regex","req":"^0.1.30","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b86912b08b840d3c7e065d3035a1891b75bdaac63a200a05c919c12b95d35bc9","features":{},"yanked":false}
