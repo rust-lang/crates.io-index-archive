@@ -1,0 +1,1 @@
+{"name":"opencc","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b1490526a7bd5dd7ed1ee5e8f948a39a6ffce9701662fe7699a1bb2bfa33ce8","features":{},"yanked":false}
