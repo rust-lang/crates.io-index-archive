@@ -1,2 +1,3 @@
 {"name":"lifeguard","vers":"0.0.1","deps":[{"name":"env_logger","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a17ee916c10c778e9312426e2d1bd1a6d39aa78daceeb29e5b66619192dcdef","features":{},"yanked":false}
 {"name":"lifeguard","vers":"0.0.2","deps":[],"cksum":"7225d4ae51b0170331548b501938ca9fa05a558050a341fd52ac88917566ab1b","features":{},"yanked":false}
+{"name":"lifeguard","vers":"0.0.3","deps":[],"cksum":"abc71d81877d166b39b1deecf13df30761d00f5902064a2a74316f952c116110","features":{},"yanked":false}
