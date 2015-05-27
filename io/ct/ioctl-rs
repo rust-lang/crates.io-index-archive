@@ -1,0 +1,1 @@
+{"name":"ioctl-rs","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"691f682956c9c993e24b4ffc042e4e7be3fc854754d82c48e8986da154c8c6fd","features":{},"yanked":false}
