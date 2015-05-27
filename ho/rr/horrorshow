@@ -1,0 +1,1 @@
+{"name":"horrorshow","vers":"0.3.0","deps":[{"name":"maud_macros","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"maud","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"151861b3a0fb61d6028f4321898980e313e062ba9cc7981371c983a1a3aee1c1","features":{},"yanked":false}
