@@ -1,0 +1,1 @@
+{"name":"uritemplate","vers":"0.1.0","deps":[{"name":"regex","req":"^0.1.32","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c8a020febed2bb5baf4dd51492da716538bfafe93088510cba1ff7a452e1a07","features":{},"yanked":false}
