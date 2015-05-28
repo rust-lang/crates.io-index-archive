@@ -1,0 +1,1 @@
+{"name":"sqlite","vers":"0.0.1","deps":[{"name":"sqlite3-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbb6c00c18fb5e997d3bbf5affa2f41c245bff5a73e8cceec40f745430c5b0ae","features":{},"yanked":false}
