@@ -8,3 +8,4 @@
 {"name":"vecmath","vers":"0.0.13","deps":[],"cksum":"395d9fa9ae3654818e73b804d4c2aa84c0306bbfb75fbd14f954b0b9e9ffd374","features":{},"yanked":false}
 {"name":"vecmath","vers":"0.0.22","deps":[{"name":"piston-float","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ec4ad201f1c321dce35188d170926c31a5a9d08bf4ab27983190355e904a41b","features":{},"yanked":false}
 {"name":"vecmath","vers":"0.0.23","deps":[{"name":"piston-float","req":"^0.0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a197015baf3d4ba2da696fcfabc0fbe22a8d114ee626ea1e285da367b3f6da5","features":{},"yanked":false}
+{"name":"vecmath","vers":"0.1.0","deps":[{"name":"piston-float","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bfcb3324f0d743fd0ee4512d5b764d52ad83bc3ad2b0c51a8461fec46fbf6952","features":{},"yanked":false}
