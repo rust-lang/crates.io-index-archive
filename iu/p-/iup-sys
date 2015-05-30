@@ -1,0 +1,1 @@
+{"name":"iup-sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2efd7414d69ff5c161a1d47a6fb30a95b1490bb48326c82102ea9ba6ef5ec40a","features":{},"yanked":false}
