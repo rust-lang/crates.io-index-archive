@@ -1,3 +1,4 @@
 {"name":"ramp","vers":"0.1.0","deps":[],"cksum":"16fdf936a0c45fa084250611f79538c46895227f1d1ecae55b8dd0c5bd94ec4d","features":{},"yanked":false}
 {"name":"ramp","vers":"0.1.1","deps":[],"cksum":"30e22f7d966d8e616e453d6cecae41a5627cc6a9725a11d1f69496e494d6de73","features":{},"yanked":false}
 {"name":"ramp","vers":"0.1.2","deps":[],"cksum":"6ea489cc0c9cec0628e0b7e387ad4eb88330fad5bf954d4036b45053c9f603cf","features":{},"yanked":false}
+{"name":"ramp","vers":"0.1.3","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0537bbdcd1b245d60ac0ca7864e6099c6606c373c017c83605c702d775e2256a","features":{},"yanked":false}
