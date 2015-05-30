@@ -1,0 +1,1 @@
+{"name":"sendfile","vers":"0.1.0","deps":[{"name":"syscall","req":"^0.2.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"317f35b5191c4766a329c00603f3ffea675d32c9dd785e370edab0372aca7a82","features":{},"yanked":false}
