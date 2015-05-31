@@ -1,0 +1,1 @@
+{"name":"evdev","vers":"0.1.0","deps":[{"name":"ioctl","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96cb86331b9f36ab83c857e1fcb4b81201e702bc9284676b3144aafc1b191775","features":{"unstable":[]},"yanked":false}
