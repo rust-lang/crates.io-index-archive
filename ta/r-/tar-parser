@@ -1,0 +1,1 @@
+{"name":"tar-parser","vers":"0.0.1","deps":[{"name":"nom","req":"~0.3.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b532593a345be1bae248185d3da25a3fbdee03c939bec4610544d31958a1024b","features":{},"yanked":false}
