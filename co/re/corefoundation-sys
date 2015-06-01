@@ -1,0 +1,1 @@
+{"name":"CoreFoundation-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fad48e0b395838f6bb28430e009d1763662a06e8cd58ac4dfbdd2dcdec7bd043","features":{},"yanked":false}
