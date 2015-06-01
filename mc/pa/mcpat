@@ -1,1 +1,2 @@
 {"name":"mcpat","vers":"0.0.1","deps":[],"cksum":"dc5993595e21abfbec76678091747a735c56590e6ceb8ff905ed5a76cd81887d","features":{},"yanked":false}
+{"name":"mcpat","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"mcpat-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c76cc13cea5bc1a03941be43d4bbfc90b8a6e6a1d9248371a8449e0fa6a12814","features":{},"yanked":false}
