@@ -1,3 +1,4 @@
 {"name":"nodrop","vers":"0.1.0","deps":[],"cksum":"880e3928a0571f6169785398affd3582c399dba93e33e47c74552544ccefb7e4","features":{},"yanked":false}
 {"name":"nodrop","vers":"0.1.1","deps":[],"cksum":"314559dfd5ef8487222202f27c6c6f79e2e3bfba7f36b4fa0ac2645f4a4d3ab5","features":{},"yanked":false}
 {"name":"nodrop","vers":"0.1.2","deps":[],"cksum":"1cfff17d429dbe2258c23ffe6fedfaf881e7e36ad438e6b8ee7a9ac8040c2a28","features":{"no_drop_flag":[]},"yanked":false}
+{"name":"nodrop","vers":"0.1.3","deps":[{"name":"odds","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85deac25d53f51d353596bb6b148854723a2e2480010eb4aaab087b41dc34b91","features":{"no_drop_flag":[]},"yanked":false}
