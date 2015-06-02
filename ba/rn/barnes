@@ -1,1 +1,2 @@
 {"name":"barnes","vers":"0.1.0","deps":[{"name":"num_cpus","req":"^0.2.6","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"056c7140b2cb44a770b98e66697d142b52afa10e8af60d7f913395204036721a","features":{},"yanked":false}
+{"name":"barnes","vers":"0.1.1","deps":[{"name":"num_cpus","req":"^0.2.6","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf619a91a525d317f25df8b73dde4f02ca407a933d9e91b03d3c81b1bd10c968","features":{},"yanked":false}
