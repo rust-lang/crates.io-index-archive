@@ -1,0 +1,1 @@
+{"name":"bit-set","vers":"0.1.0","deps":[{"name":"bit-vec","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a0684e29e555ee328ccaf5d65c14bc27b4dd4b6cb835c2b659f754dbf896ba6","features":{},"yanked":false}
