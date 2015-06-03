@@ -1,1 +1,2 @@
 {"name":"hiredis-sys","vers":"0.0.1","deps":[],"cksum":"34112a202eb13dc66232da2cdbecd484100d6e7de6dc31decbb7c0048dc54eb3","features":{},"yanked":false}
+{"name":"hiredis-sys","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59a3a503d6a0ca8948b01de2e52a5e6d9d226d4ccb6dae459f4a07b469cfd934","features":{},"yanked":false}
