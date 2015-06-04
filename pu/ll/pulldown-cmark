@@ -1,0 +1,1 @@
+{"name":"pulldown-cmark","vers":"0.0.1","deps":[{"name":"getopts","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c583edb5ac3a6d5efe98dfe955b6309ffdeda2bfce67864204cc3075d893d9c6","features":{},"yanked":false}
