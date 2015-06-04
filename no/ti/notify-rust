@@ -1,0 +1,1 @@
+{"name":"notify-rust","vers":"0.0.5","deps":[{"name":"dbus","req":"^0.0.9","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"179bd61f9a5f91062ed5bfa85aedf866490427239de85e28e52ffceebcbe7087","features":{},"yanked":false}
