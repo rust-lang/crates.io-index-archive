@@ -1,3 +1,4 @@
 {"name":"anybar_rs","vers":"0.1.0","deps":[],"cksum":"5e1a77e346d39f83865bb67f17c6bef91bbe262500f0cea8644f85a4c7f66ac9","features":{},"yanked":false}
 {"name":"anybar_rs","vers":"0.2.0","deps":[],"cksum":"3df0e33d7b718ed0d0103b12ad7a8b0b6d87aa19b9734c687a60c8a89a9a313e","features":{},"yanked":false}
 {"name":"anybar_rs","vers":"0.3.0","deps":[],"cksum":"b7961bfb3161c2901c68d1db336eaf59622b7e7a9a5ac9513271d781754f117b","features":{},"yanked":false}
+{"name":"anybar_rs","vers":"0.4.0","deps":[{"name":"getopts","req":"^0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcd6602973db5d0635e2e3d3743761275aa5bc10c9afbdbf46c2898a3ff503b3","features":{},"yanked":false}
