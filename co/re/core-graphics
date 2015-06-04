@@ -1,2 +1,3 @@
 {"name":"core-graphics","vers":"0.0.1","deps":[],"cksum":"51a2e2dc69b63fa6e49a2d1533be5908f21fd73beb130982d4cbe5dd78b06b06","features":{},"yanked":false}
 {"name":"core-graphics","vers":"0.0.2","deps":[],"cksum":"e9884af5b4fbebb91f2939c2003cb89e48124590b6b0a6a7e54078edaa24360c","features":{},"yanked":false}
+{"name":"core-graphics","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"core-foundation","req":"*","features":[""],"optional":false,"default_features":true,"target":"x86_64-apple-darwin","kind":"normal"}],"cksum":"6755d94f4aeab1d6a7d05c99f11999169ca74e386a267a40cbcce5f186904289","features":{},"yanked":false}
