@@ -1,2 +1,3 @@
 {"name":"core-foundation","vers":"0.0.1","deps":[],"cksum":"e2645641824a6cd4e0343a22d9fd64409870fa6bd14850489dcb3ffb5a8eebc0","features":{},"yanked":false}
 {"name":"core-foundation","vers":"0.0.2","deps":[],"cksum":"72c82000a3f11beef047cb8e7f5e5c4452e68db8582f31f745d32439e2f208f6","features":{},"yanked":false}
+{"name":"core-foundation","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f45c50f4080d6f923cbb5097409dc2c8927bd9c188e83b98e9f319cf7dbaaf38","features":{},"yanked":false}
