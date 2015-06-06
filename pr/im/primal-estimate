@@ -1,0 +1,1 @@
+{"name":"primal-estimate","vers":"0.2.0","deps":[{"name":"primal","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6c89c96cb11e277d0e12180aacf896daeac1547ad1de2bde9de646655034a7e3","features":{"unstable":[]},"yanked":false}
