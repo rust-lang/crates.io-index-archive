@@ -1,0 +1,1 @@
+{"name":"openal-sys","vers":"1.16.0-1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"535cc5ff7b8f9a1e9ebfdba2f630c86648e461db6489b90158862d96f354a488","features":{},"yanked":false}
