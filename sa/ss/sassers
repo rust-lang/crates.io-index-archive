@@ -1,1 +1,2 @@
 {"name":"sassers","vers":"0.1.0-nope","deps":[{"name":"docopt","req":"^0.6.64","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c29eac508c621047041836fd7f4418e9486df2534aec828d1ac0355dd6d2d979","features":{},"yanked":false}
+{"name":"sassers","vers":"0.2.0-notevenclose","deps":[{"name":"docopt","req":"^0.6.64","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"748d7236b94c736d83195a605326486b602315a7760923b3415928cac6d21e8b","features":{},"yanked":false}
