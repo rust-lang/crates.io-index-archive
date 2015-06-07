@@ -17,3 +17,4 @@
 {"name":"gcc","vers":"0.3.4","deps":[],"cksum":"cfd5de9bef6f37b6e743c425657ce3642dbc48152fce88199a6d6344e2a527e1","features":{},"yanked":false}
 {"name":"gcc","vers":"0.3.5","deps":[],"cksum":"0c2210f2b93a3bb3ee26c639f12c65a21221b827ab7db105476e3f055e5c4589","features":{},"yanked":false}
 {"name":"gcc","vers":"0.3.6","deps":[],"cksum":"f27f66ae3cf2c151666a59e1355d0e4657d59035b67d2824a2e07b4560b32723","features":{},"yanked":false}
+{"name":"gcc","vers":"0.3.8","deps":[],"cksum":"a513778819ab90cf253c6a60a28925e8abe5c25752719adc3a3ecc8561664c8c","features":{},"yanked":false}
