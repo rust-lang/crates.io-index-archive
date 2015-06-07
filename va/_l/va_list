@@ -1,0 +1,1 @@
+{"name":"va_list","vers":"0.0.1","deps":[{"name":"va_list-test","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"35dd61c2a3fd97881058e5b401d981e8647d0630c64065b2a65c329049d6b5ef","features":{},"yanked":false}
