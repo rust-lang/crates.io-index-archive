@@ -12,3 +12,4 @@
 {"name":"parser-combinators","vers":"0.3.1","deps":[],"cksum":"41634d6ed05126186f20e704844177c9d52d1e22db52b728ff6a89ec55c4ab0f","features":{},"yanked":false}
 {"name":"parser-combinators","vers":"0.3.2","deps":[],"cksum":"3dd90feed2cfc5909e9a8d5be87255dbf706ac36ebf30b41114b4037107359ef","features":{},"yanked":false}
 {"name":"parser-combinators","vers":"0.4.0","deps":[],"cksum":"99cfb9e72bc86d6dcde8c6f76b51f0faee6cd52a6ae550db5b0764673d896356","features":{},"yanked":false}
+{"name":"parser-combinators","vers":"0.5.0","deps":[],"cksum":"cd5bf3ae82579e520603525f3ee5ade7a814d524c8c8c9d7c34aa0d56dcfa5cb","features":{},"yanked":false}
