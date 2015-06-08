@@ -1,1 +1,2 @@
 {"name":"notify-rust","vers":"0.0.5","deps":[{"name":"dbus","req":"^0.0.9","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"179bd61f9a5f91062ed5bfa85aedf866490427239de85e28e52ffceebcbe7087","features":{},"yanked":false}
+{"name":"notify-rust","vers":"0.0.6","deps":[{"name":"dbus","req":"^0.0.9","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a4c1dfd0e9b153a0b00317c45e14040906d6d24604b5933fc18b4ab8c38c05f","features":{},"yanked":false}
