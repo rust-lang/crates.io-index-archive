@@ -1,0 +1,1 @@
+{"name":"libgpg-error-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f55745f2c859c72dac6b2143bb56d19e7bc012bbde4ad3814f5b33aeeebbd9cf","features":{},"yanked":false}
