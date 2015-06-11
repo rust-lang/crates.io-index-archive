@@ -1,0 +1,1 @@
+{"name":"memchr","vers":"0.1.1","deps":[{"name":"libc","req":"0.1.*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quickcheck","req":"0.2.*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b9c9343b3332ca7c9a0b9037244031bd601862a2d8d92460abe7614c36083001","features":{},"yanked":false}
