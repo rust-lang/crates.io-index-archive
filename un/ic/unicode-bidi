@@ -1,1 +1,2 @@
 {"name":"unicode-bidi","vers":"0.1.0","deps":[{"name":"matches","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b3d07f206ef60359cc69c9c3a2bff81537564855e41260605ed72d62d932eac9","features":{},"yanked":false}
+{"name":"unicode-bidi","vers":"0.1.1","deps":[{"name":"matches","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86ba4502beaa5032311918a3625a850f2a4ca91b1a99d9b169aba2f531fe4770","features":{},"yanked":false}
