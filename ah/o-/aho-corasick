@@ -1,0 +1,1 @@
+{"name":"aho-corasick","vers":"0.1.0","deps":[{"name":"memchr","req":"0.1.*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29a458cbc0335425c241e97d138d473015ddaab3be1ecc657b89addcc01f96f4","features":{},"yanked":false}
