@@ -1,0 +1,1 @@
+{"name":"dcpu16","vers":"0.0.1","deps":[{"name":"getopts","req":"^0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d65f46372e0e3adffa0186409776c1b80e5f69ae4c6c540bf51f2cda2eec4c0c","features":{},"yanked":false}
