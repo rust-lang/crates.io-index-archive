@@ -1,0 +1,1 @@
+{"name":"llvm-alt","vers":"0.1.0","deps":[{"name":"llvm-alt-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d14bd6dce536b7bac59c6548ec96a678dc4f6a352ab3af3d83a69c668f77745","features":{},"yanked":false}
