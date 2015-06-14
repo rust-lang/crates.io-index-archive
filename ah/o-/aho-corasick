@@ -1,1 +1,2 @@
 {"name":"aho-corasick","vers":"0.1.0","deps":[{"name":"memchr","req":"0.1.*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29a458cbc0335425c241e97d138d473015ddaab3be1ecc657b89addcc01f96f4","features":{},"yanked":false}
+{"name":"aho-corasick","vers":"0.1.1","deps":[{"name":"memchr","req":"0.1.*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4e565c0c9597994ef06e2b867ed308f30558f6548a2874137e6ad27304c1388","features":{},"yanked":false}
