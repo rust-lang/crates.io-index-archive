@@ -1,1 +1,2 @@
 {"name":"cbox","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"607ee9b6419749d4362aaf9cbc899a08b50ec336c3f6f8cdd8bdc9cee9b4a1b1","features":{},"yanked":false}
+{"name":"cbox","vers":"0.1.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10b43110bb3995afa1c9c85db466abfcc6459a8fd42e519bd042ecd04249ba54","features":{},"yanked":false}
