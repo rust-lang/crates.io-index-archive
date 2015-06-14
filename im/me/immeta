@@ -1,0 +1,1 @@
+{"name":"immeta","vers":"0.1.0","deps":[{"name":"byteorder","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"716718695a1a11c0db5259aaad56cea4db4148f4fd5cc8a8a2a8d495aef2953b","features":{},"yanked":false}
