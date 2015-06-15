@@ -1,0 +1,1 @@
+{"name":"cgl","vers":"0.1.0","deps":[{"name":"gleam","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"158f3c3bb59a10625079f4c16aaa301be684d8a82816e373aa0b7c2784dc7732","features":{},"yanked":false}
