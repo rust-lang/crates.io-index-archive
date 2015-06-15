@@ -3,3 +3,4 @@
 {"name":"mozjpeg-sys","vers":"0.0.3","deps":[],"cksum":"0f939d7a378ef639f27dcd77b0e8cad7296d098cd5af8424d4df4099fd49480b","features":{},"yanked":false}
 {"name":"mozjpeg-sys","vers":"0.0.4","deps":[],"cksum":"602618b437e282d0e742220f804fa53407a037aa7da48e4966fd695a683c4a3c","features":{},"yanked":false}
 {"name":"mozjpeg-sys","vers":"0.0.5","deps":[],"cksum":"dd47aca940579588632ce5c109ff19251d342894b1fe9cb592f3f333acd91a0d","features":{},"yanked":false}
+{"name":"mozjpeg-sys","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78b48f33e37b98e2782f1cd9cd4ee310bbb81508fff6784a27141dd331b995d2","features":{},"yanked":false}
