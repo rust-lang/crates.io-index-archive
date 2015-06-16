@@ -1,0 +1,1 @@
+{"name":"diceware","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"getopts","req":"^0.2","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40ae2a903b5091f517c51370d36234a5ec344732b946ba8443850acb530753bf","features":{},"yanked":false}
