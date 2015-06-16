@@ -15,3 +15,4 @@
 {"name":"pkg-config","vers":"0.3.2","deps":[],"cksum":"6df4563b767a7f3b64324db862c41dbfd2aca0e2422ba27cd4e5203916369fd6","features":{},"yanked":false}
 {"name":"pkg-config","vers":"0.3.3","deps":[],"cksum":"d97ac8ec8c58d2a294853d47cdd0f23a9b7577ff2e4d1b9dcc5cf9618ff48361","features":{},"yanked":false}
 {"name":"pkg-config","vers":"0.3.4","deps":[],"cksum":"0b9f5685d8083d3955a9b8c97670d6bd8aa7d54877c778a1ca3afed54987b485","features":{},"yanked":false}
+{"name":"pkg-config","vers":"0.3.5","deps":[],"cksum":"71048206ec7132fc63b492abfec77a7a66059ed2b5fbbff59ac16a7b4a2cc495","features":{},"yanked":false}
