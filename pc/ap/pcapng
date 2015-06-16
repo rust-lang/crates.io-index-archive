@@ -1,1 +1,2 @@
 {"name":"pcapng","vers":"0.0.0","deps":[{"name":"nom","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f164a94813082d199f621dc3924d8628e66a670ea309bed93de3cb9e1dd5faba","features":{},"yanked":false}
+{"name":"pcapng","vers":"0.0.1","deps":[{"name":"nom","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6eb50872f49df89831774442e5edba773ddace68fbb913b38e33408b5cef7d54","features":{},"yanked":false}
