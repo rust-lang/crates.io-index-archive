@@ -1,0 +1,1 @@
+{"name":"tango","vers":"0.1.0","deps":[{"name":"tempdir","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"00dff59a646b64741a908696f65c589e23f8e5e4ae2dc72000f1dd435e479bdf","features":{},"yanked":false}
