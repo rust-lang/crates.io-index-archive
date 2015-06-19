@@ -1,1 +1,2 @@
 {"name":"http2parse","vers":"0.0.1","deps":[{"name":"bitflags","req":"~0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e667091eb8d47562922b78aa351debbd51c32fb60209373beceba33c0735108","features":{},"yanked":false}
+{"name":"http2parse","vers":"0.0.2","deps":[{"name":"bitflags","req":"~0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7175dc466b9d9a717a9f53dcbcce7f35dc66cd7da0e061a7348645136ea604c","features":{},"yanked":false}
