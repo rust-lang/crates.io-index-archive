@@ -1,1 +1,2 @@
 {"name":"tango","vers":"0.1.0","deps":[{"name":"tempdir","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"00dff59a646b64741a908696f65c589e23f8e5e4ae2dc72000f1dd435e479bdf","features":{},"yanked":false}
+{"name":"tango","vers":"0.2.0","deps":[{"name":"tempdir","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"48fef38eb5771f2ffaf2f515759a323cf0068569a2ab1228322d7cb4ef0af7e9","features":{},"yanked":false}
