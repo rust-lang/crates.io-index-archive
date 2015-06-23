@@ -1,0 +1,1 @@
+{"name":"dpc-simplemap","vers":"0.0.1","deps":[{"name":"rand","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"54e7cb08117e624d402634cc97b3f6643c89ba654caf5fb023437079f902df32","features":{"default":[],"bench":[]},"yanked":false}
