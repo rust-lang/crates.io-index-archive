@@ -1,0 +1,1 @@
+{"name":"smith_waterman","vers":"0.0.1","deps":[{"name":"nalgebra","req":"^0.2.17","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5d5df13c43cf7975a4f6a8e6e3d24924d0882eee853dd3d0f398016ff0a4acf","features":{},"yanked":false}
