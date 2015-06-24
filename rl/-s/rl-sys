@@ -4,3 +4,4 @@
 {"name":"rl-sys","vers":"0.0.4","deps":[],"cksum":"1c405e1ad367df6999815b0f51b43ba2d566c9a141fdc5d5215fd7e1ffd9c993","features":{},"yanked":false}
 {"name":"rl-sys","vers":"0.0.5","deps":[],"cksum":"645872a6da4acd6f156bda760202b4abd5f37e132053b06c0caad44890bb9701","features":{},"yanked":false}
 {"name":"rl-sys","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1d83c03d05914fabf4d5d43dcb01dd8f2dfeea7ec04d23c0ec318187d3e0e74","features":{},"yanked":false}
+{"name":"rl-sys","vers":"0.1.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"975d2dd6eb4229fa75da40ad48d268befedc27cab7d9d6644dd6ddcf515c5fd6","features":{},"yanked":false}
