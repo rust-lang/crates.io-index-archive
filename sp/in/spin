@@ -3,3 +3,4 @@
 {"name":"spin","vers":"0.1.4","deps":[],"cksum":"cce55a453422ae015baab6e174c7e07f5177cb14aaec7fda03f729670a7c2485","features":{"std":[]},"yanked":false}
 {"name":"spin","vers":"0.2.0","deps":[],"cksum":"705998ceefbf58a10442e2ad3de5e28d3e1a54430c61de5b1ea68b77bc956018","features":{"no_std":[]},"yanked":false}
 {"name":"spin","vers":"0.2.1","deps":[],"cksum":"909d16ecd045832e89eaf14e867851a1ee5c7640cb41663fae3d11fc9c41e2a3","features":{"no_std":[]},"yanked":false}
+{"name":"spin","vers":"0.3.0","deps":[],"cksum":"60345246ac76d558f39148bb7342f023a259599b2dac086377a94cbf6db3553c","features":{},"yanked":false}
