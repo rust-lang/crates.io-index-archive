@@ -1,0 +1,1 @@
+{"name":"fastcgi","vers":"1.0.0-alpha","deps":[{"name":"libc","req":"^0.1.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a717179b8e2d34da0c93d1d46dd06ac562ef3b966105222ea7ad945aaecdc32","features":{},"yanked":false}
