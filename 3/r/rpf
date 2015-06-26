@@ -1,1 +1,2 @@
 {"name":"rpf","vers":"0.1.0","deps":[{"name":"ansi_term","req":"^0.6.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76df86fe1a6c1e9e4854e1873e52595a8b15383d932ce4b3a669c183857dc4bd","features":{},"yanked":false}
+{"name":"rpf","vers":"0.1.1","deps":[{"name":"ansi_term","req":"^0.6.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a000a7c48d68443c4cd8f7713cb67dda387435110a80aeed4332d573e10845d2","features":{},"yanked":false}
