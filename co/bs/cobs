@@ -1,0 +1,1 @@
+{"name":"cobs","vers":"0.1.0","deps":[{"name":"quickcheck","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ec3f2db6a46c9a2b82635603d488cd0e3ba4dfba539e37f54e35b475fff45eac","features":{},"yanked":false}
