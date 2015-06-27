@@ -1,0 +1,1 @@
+{"name":"fann","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"fann-sys","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d7b1322e5362a6ea7fda0dce6b2a713f2e675682214084355c188d6bf4bb0ce","features":{},"yanked":false}
