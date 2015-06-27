@@ -1,1 +1,2 @@
 {"name":"fann-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b59b2331990dd858a328d50f43fe7b992334c1aae9b8ada464662a1bfcf617d","features":{},"yanked":false}
+{"name":"fann-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.1.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6fd4459edcf4010a25064dd05f2e9cd395d57d9e134e5350a7e327f2730fd137","features":{},"yanked":false}
