@@ -1,1 +1,2 @@
 {"name":"cron","vers":"0.0.1","deps":[],"cksum":"aef8d0e7dbc92c3fe0989a3539cd8b11004585fe9a3646a02190cb2fd59bc075","features":{},"yanked":false}
+{"name":"cron","vers":"0.0.2","deps":[{"name":"regex","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"chrono","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4077b4224ec6dc640c99948799e06d2c3978e62a098211db43de14405331aa6","features":{},"yanked":false}
