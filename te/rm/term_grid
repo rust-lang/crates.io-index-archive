@@ -1,1 +1,2 @@
 {"name":"term_grid","vers":"0.1.0","deps":[{"name":"unicode-width","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b3e9d3c989f4b06b4cf1c36ad35fe52e4aaf6453cb9ec065cd8596b3e6cb23e0","features":{},"yanked":false}
+{"name":"term_grid","vers":"0.1.1","deps":[{"name":"unicode-width","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f4d7e671dabb5bf2dc42ec16164461d82fabff39ee98488b465239e137616c5","features":{},"yanked":false}
