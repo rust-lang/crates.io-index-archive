@@ -2,3 +2,4 @@
 {"name":"allegro_util","vers":"0.0.15","deps":[],"cksum":"d36fb1e242409feff836d837d297626a7d8f62851faa5372d3216edaf2fcac67","features":{},"yanked":false}
 {"name":"allegro_util","vers":"0.0.16","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2a717c951fe6746778410c9884db0f52397a9435d252d56012e83fb0ca22ce8","features":{},"yanked":false}
 {"name":"allegro_util","vers":"0.0.17","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53d4e8b866455483bf2ba6e7b30d174aaa3381562657daaf2f77611be658601a","features":{},"yanked":false}
+{"name":"allegro_util","vers":"0.0.18","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57a46e2c0acf4e45f36e143aadba34b933d02b8e8eaf2b014ff9a6edccdad9a3","features":{},"yanked":false}
