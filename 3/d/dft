@@ -1,1 +1,2 @@
 {"name":"dft","vers":"0.0.1","deps":[],"cksum":"6a9ab4729751a4618945ca8789978888336ec9e6535ca4ad47c432b7d60f7464","features":{},"yanked":false}
+{"name":"dft","vers":"0.2.0","deps":[{"name":"complex","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"assert","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"236e663764394e129178202eaaea4180ccba28321ddb733434fed1be5161fb27","features":{},"yanked":false}
