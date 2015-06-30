@@ -1,0 +1,1 @@
+{"name":"dbus-serialize","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef8cefafa59cf591349fb104ab077a4f1ccab080989a956657fe29c6892db455","features":{},"yanked":false}
