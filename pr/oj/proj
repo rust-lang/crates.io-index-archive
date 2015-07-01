@@ -1,0 +1,1 @@
+{"name":"proj","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1.7","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"geo","req":"^0.0.4","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36d824adb29b20435d0629198d5a6af01b93fac7c5ee7fb54fb9b48c7462f4cc","features":{},"yanked":false}
