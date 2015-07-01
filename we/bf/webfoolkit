@@ -1,0 +1,1 @@
+{"name":"WebFoolKit","vers":"0.1.0","deps":[{"name":"threadpool","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f6a9a5545a7588e350c9f37ce6aeaf3256e1a9225d90fdf45bec8803530136f","features":{},"yanked":false}
