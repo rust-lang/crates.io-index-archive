@@ -1,1 +1,2 @@
 {"name":"net2","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63452f6b1624876648afd7a81e9a6e872109d064081d97c44ae644403f1599a0","features":{},"yanked":false}
+{"name":"net2","vers":"0.1.1","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"375b5857625e7e941c1a0c632e9edea33042aa0cf79869a9de3b1615c1c5ea64","features":{},"yanked":false}
