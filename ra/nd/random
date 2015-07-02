@@ -3,3 +3,4 @@
 {"name":"random","vers":"0.2.0","deps":[{"name":"assert","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3835238025b953b3f1d3c61b03fe3fda5719edcefbd5e262ef8314cc3b7124d0","features":{},"yanked":false}
 {"name":"random","vers":"0.3.0","deps":[{"name":"assert","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7932ab5562541a508f85e099fcbf54de3541f29eef470ea04e826ee901a9602b","features":{},"yanked":false}
 {"name":"random","vers":"0.4.0","deps":[{"name":"assert","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3104637fb36214d4bcaa54c353c03a3ba8f745f757c28b85c228730e2ae87a71","features":{},"yanked":false}
+{"name":"random","vers":"0.5.0","deps":[],"cksum":"b0379e5f25ada28c162561272dbc96680d70d4643cc5a12818bd5a292fe56e62","features":{},"yanked":false}
