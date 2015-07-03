@@ -18,3 +18,4 @@
 {"name":"nom","vers":"0.3.5","deps":[],"cksum":"18d1eb98ce53b4d7b0ebb52931b0e9f024649f1abad0b93e266abf0ea69b8910","features":{"core":[]},"yanked":false}
 {"name":"nom","vers":"0.3.6","deps":[],"cksum":"6cb1c4772180b1a1419b5281b9c195af6a4085dedc2ebda0a11a5d7fdbc7eb94","features":{"core":[]},"yanked":false}
 {"name":"nom","vers":"0.3.7","deps":[],"cksum":"6ecd1156c6daafa283f195c101faed7bfe5c0add141c50c90f6334abad15ffbf","features":{"core":[]},"yanked":false}
+{"name":"nom","vers":"0.3.8","deps":[],"cksum":"fe939d5f034edbdb460930e8b988b0b02b0ddef444faa64eb4f5e925e6a448d1","features":{"core":[],"nightly":[]},"yanked":false}
