@@ -1,0 +1,1 @@
+{"name":"firmata","vers":"0.0.1","deps":[{"name":"serial","req":"^0.2.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47caa054ccc8a87483b9038abea627699043ff47402aad9649591c96b4964360","features":{},"yanked":false}
