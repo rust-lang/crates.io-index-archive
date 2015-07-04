@@ -1,1 +1,2 @@
 {"name":"pty","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46919fcad2acbcf5326ebdb293a216e803fad65442ec6655d0592d4fd4438d45","features":{},"yanked":false}
+{"name":"pty","vers":"0.1.1","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4428981696216bd7a42e6465e1c6ef828d2d240b483e3083248fb928f0c141a8","features":{},"yanked":false}
