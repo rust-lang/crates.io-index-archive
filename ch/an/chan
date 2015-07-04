@@ -1,0 +1,1 @@
+{"name":"chan","vers":"0.1.2","deps":[{"name":"uuid","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7d52998bb74dd1f6c94178159d8f116f25ed68cabef6baa67629d48728fa473","features":{},"yanked":false}
