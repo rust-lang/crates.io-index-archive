@@ -1,0 +1,1 @@
+{"name":"kernlog","vers":"0.1.0","deps":[{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce43ab0a478e703029419deeb2a2edda6449418fbf7b2befe8a6d29e40102047","features":{"nightly":[]},"yanked":false}
