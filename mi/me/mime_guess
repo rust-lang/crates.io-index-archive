@@ -1,0 +1,1 @@
+{"name":"mime_guess","vers":"1.0.0","deps":[{"name":"mime","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac9b597774ce57fc6bd4d53894aa9e5ec8d4f8331c6c121642e8eea7aacef7ba","features":{},"yanked":false}
