@@ -1,1 +1,2 @@
 {"name":"mime_guess","vers":"1.0.0","deps":[{"name":"mime","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac9b597774ce57fc6bd4d53894aa9e5ec8d4f8331c6c121642e8eea7aacef7ba","features":{},"yanked":false}
+{"name":"mime_guess","vers":"1.1.0","deps":[{"name":"mime","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa15afce1ce8c2fd777004215c0a81ca86352879164a4db33e64823717fd8b25","features":{},"yanked":false}
