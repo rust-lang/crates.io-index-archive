@@ -1,0 +1,1 @@
+{"name":"cards","vers":"1.1.0","deps":[{"name":"rand","req":"^0.3.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d78861f1abe0aea04a2a75f577f381f7ab2d64db373af636ff70e7d296708b83","features":{},"yanked":false}
