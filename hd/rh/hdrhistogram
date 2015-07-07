@@ -1,1 +1,2 @@
 {"name":"hdrhistogram","vers":"0.1.2","deps":[{"name":"libc","req":"^0.1.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"930f72970f62e8f718e908aec7ff178f9e71ffae46104709589925c043ad2444","features":{},"yanked":false}
+{"name":"hdrhistogram","vers":"0.1.3","deps":[{"name":"libc","req":"^0.1.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0797a21d7bc3cca673b4f14b54a68c7d2dba317f19fcb6372f95643b316df417","features":{},"yanked":false}
