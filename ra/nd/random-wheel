@@ -1,0 +1,1 @@
+{"name":"random-wheel","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7224854d4ee9fbe72f984c8983d05263a5e8f11959ed4475f30f7176b8a460cf","features":{},"yanked":false}
