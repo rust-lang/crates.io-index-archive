@@ -1,0 +1,1 @@
+{"name":"procure","vers":"0.1.0","deps":[{"name":"sysconf","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6fb646129ddb6d49903c892305e9e2f29547ca00158839a74033b96b64644ce8","features":{},"yanked":false}
