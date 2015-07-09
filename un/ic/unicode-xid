@@ -1,1 +1,2 @@
 {"name":"unicode-xid","vers":"0.0.1","deps":[],"cksum":"c57c7d77ce303b7214479ffc12ae82be53ebb6a8720ff4a322e412c119747f82","features":{"default":[],"no_std":[]},"yanked":false}
+{"name":"unicode-xid","vers":"0.0.2","deps":[],"cksum":"f69506a2561962651710609304bbb961fa3da598c812f877975a82e48ee144f9","features":{"no_std":[],"default":[]},"yanked":false}
