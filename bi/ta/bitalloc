@@ -1,0 +1,1 @@
+{"name":"bitalloc","vers":"0.0.1","deps":[{"name":"ilog2","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e569ad8a5e69fce56753b2ee67164575eb4572c9abce3d288636190f84f5fdf","features":{},"yanked":false}
