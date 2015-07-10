@@ -1,0 +1,1 @@
+{"name":"slr_config","vers":"0.0.1","deps":[{"name":"slr_lexer","req":"= 0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c5e6904027109cd1c0362dda6d1eaf27e45401c88a1baf54297041ef37288f5","features":{},"yanked":false}
