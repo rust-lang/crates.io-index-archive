@@ -1,0 +1,1 @@
+{"name":"atty","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2bdf27db0bf36ff744f2d09bd8fb418ad4608f7210e2be0d3151d0876659617c","features":{},"yanked":false}
