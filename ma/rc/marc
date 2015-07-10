@@ -6,3 +6,4 @@
 {"name":"marc","vers":"0.2.4","deps":[],"cksum":"86a9bba95ed140dd8d4fa47c48cb88674340f14e81a150cf2c82af0cf5daedc2","features":{},"yanked":false}
 {"name":"marc","vers":"0.2.5","deps":[],"cksum":"14d8808b5e46a7405568fffed090b2c82e6372e32969b95204217c4c80dad16f","features":{},"yanked":false}
 {"name":"marc","vers":"0.2.6","deps":[],"cksum":"88e0e3aec22dc835fc005664baea1e353a82ef4516e8f1ec6312da930e327c53","features":{"nightly":[],"default":[]},"yanked":false}
+{"name":"marc","vers":"0.3.0","deps":[],"cksum":"84133162737e2780cc8b55f1ef4c05097d5e5efc3c1ade34ac7ccf8a16abf3f1","features":{"nightly":[],"default":[]},"yanked":false}
