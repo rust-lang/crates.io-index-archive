@@ -1,2 +1,3 @@
 {"name":"vec_map","vers":"0.0.1","deps":[],"cksum":"c1bb124acecc79b9a7efcb36a6ab469a203f2121f0bf44c36dc2c3e66581dadd","features":{},"yanked":false}
 {"name":"vec_map","vers":"0.1.0","deps":[],"cksum":"ee78b0fa82f421c55bec8e517e76a7c7305edea47bd99e957a6ed8edffa44783","features":{},"yanked":false}
+{"name":"vec_map","vers":"0.2.0","deps":[],"cksum":"be7bf95e521e892f9a8f39ad6c42eebaf1128edd3c6f0345e7d0cfd177fdae20","features":{"nightly":[]},"yanked":false}
