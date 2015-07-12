@@ -1,0 +1,1 @@
+{"name":"slabmalloc","vers":"0.0.1","deps":[{"name":"x86","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fae408758a79af617775cbe11544f9e6fadc49c24067571613e2716b1580f95a","features":{},"yanked":false}
