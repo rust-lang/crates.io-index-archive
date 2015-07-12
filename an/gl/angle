@@ -1,1 +1,2 @@
 {"name":"angle","vers":"0.1.0","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ca24857e4598ee4d8207ba88f26086b3f547b8a7380ac4c312675f09d6fe0d3","features":{},"yanked":false}
+{"name":"angle","vers":"0.1.1","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b025e3ddd300187a107ea119175ac3e0d82a2f89d0b48536557a31b98ceea3d","features":{},"yanked":false}
