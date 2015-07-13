@@ -26,3 +26,4 @@
 {"name":"matrix","vers":"0.8.0","deps":[],"cksum":"84a90530e18119a77c56abffc86e253bc68a937b84126ab3f5048ff1e11bcd6f","features":{},"yanked":false}
 {"name":"matrix","vers":"0.9.0","deps":[],"cksum":"e116f94cae4d3c42ed7942ba7e04720ccec3f2e0f1f60e44a605774d89f70295","features":{},"yanked":false}
 {"name":"matrix","vers":"0.10.0","deps":[{"name":"complex","req":"^0.7","features":[""],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"316f7480ee9e4b4c8eb334555a10d7aad3aae1725f1892456d6081cec725d115","features":{},"yanked":false}
+{"name":"matrix","vers":"0.11.0","deps":[{"name":"complex","req":"^0.7","features":[""],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a69959769b2de4b3f28ae01213ab57de9d7defd7e1d9ef130bc57e700a922d3c","features":{},"yanked":false}
