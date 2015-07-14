@@ -4,3 +4,4 @@
 {"name":"sysfs_gpio","vers":"0.2.1","deps":[],"cksum":"721f9954398d3655b011d4387f090ba21878915a698f0e8b8524902374a4e313","features":{},"yanked":false}
 {"name":"sysfs_gpio","vers":"0.3.0","deps":[{"name":"nix","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48306ce9ad0412e562c019c7bc3c10a3f49faf9029edcd3b466f6204dcdcca1d","features":{},"yanked":false}
 {"name":"sysfs_gpio","vers":"0.3.1","deps":[{"name":"nix","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95e858805eb72159b90a80ad220aff36fe6b1dd2a5fa30c979f4845205153025","features":{},"yanked":false}
+{"name":"sysfs_gpio","vers":"0.3.2","deps":[{"name":"nix","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22143fc5223b7c1d7752484a41c069d9e4b4328a5d03e2c4234e9846addf9f87","features":{},"yanked":false}
