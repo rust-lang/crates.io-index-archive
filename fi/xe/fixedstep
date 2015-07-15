@@ -1,0 +1,1 @@
+{"name":"fixedstep","vers":"0.1.0","deps":[{"name":"clock_ticks","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"186b63b8ffe777c775a7336f95e54c8946ecfad1b1fee5b60df33b1e56061f68","features":{},"yanked":false}
