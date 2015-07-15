@@ -1,1 +1,2 @@
 {"name":"farmhash","vers":"1.1.0","deps":[],"cksum":"666a1332c35d8cb43c07df87d6c79bf5baa006bbe9e346b463e256790b439a56","features":{},"yanked":false}
+{"name":"farmhash","vers":"1.1.1","deps":[{"name":"time","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"fnv","req":"^1.0.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"47c7bd6b8e85d4ea5f2d4ef9efa9984c32a4642678cdc2e0e6af5e933abdfa91","features":{},"yanked":false}
