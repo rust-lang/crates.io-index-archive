@@ -4,3 +4,4 @@
 {"name":"pcap","vers":"0.1.1","deps":[],"cksum":"33db23345aa3dbbb7cdbdc04771643b837dffe071d6617eef778e9639741b856","features":{},"yanked":false}
 {"name":"pcap","vers":"0.1.2","deps":[],"cksum":"594ed9300a694ff8ae93761697cb548d056494421e40f8d1820857c7a5d566c4","features":{},"yanked":false}
 {"name":"pcap","vers":"0.1.3","deps":[],"cksum":"cbe22324ded92c0a541456007a23bee14ed9c48f917eb36713d84492d6f5a833","features":{},"yanked":false}
+{"name":"pcap","vers":"0.2.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"def91cea51f4300a444b9ad521351827fc1588902eac8cae21b208d1de06352e","features":{},"yanked":false}
