@@ -15,3 +15,4 @@
 {"name":"parser-combinators","vers":"0.5.0","deps":[],"cksum":"cd5bf3ae82579e520603525f3ee5ade7a814d524c8c8c9d7c34aa0d56dcfa5cb","features":{},"yanked":false}
 {"name":"parser-combinators","vers":"0.5.1","deps":[],"cksum":"97d9c3e248fe8982d56962e921d5fbae1ed5740b7a6e4d2acfca4a557578e912","features":{},"yanked":false}
 {"name":"parser-combinators","vers":"0.6.0","deps":[],"cksum":"516a9f5ae7aac68c11841f641bb3d04753053869386c4b38875cda17be807ecb","features":{},"yanked":false}
+{"name":"parser-combinators","vers":"0.7.0","deps":[],"cksum":"fbec0f4c5caece7ea1dd878514484df7c430c0031b6af3affa7e669aa6735fa1","features":{},"yanked":false}
