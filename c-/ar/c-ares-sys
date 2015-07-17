@@ -1,0 +1,1 @@
+{"name":"c-ares-sys","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39f6199e4493cbe98fcee7cfccc5711b6fd18a74a0f234369bd6bcf962f898e9","features":{},"yanked":false}
