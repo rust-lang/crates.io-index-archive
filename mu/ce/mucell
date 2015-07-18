@@ -19,3 +19,4 @@
 {"name":"mucell","vers":"0.1.18","deps":[],"cksum":"f3caecd40da2637d24a76e05a7dc452a324aae041a0c80b398c4cfb488d1a9fa","features":{},"yanked":false}
 {"name":"mucell","vers":"0.1.19","deps":[],"cksum":"b8feb53ce044c0c64b9ec91ebb66376748d1188cea1381619bbbe97918d05972","features":{},"yanked":false}
 {"name":"mucell","vers":"0.2.0","deps":[],"cksum":"18cdd3f3d795a508f46b6668701bcc01c3a2e5b300b0b9240b151fa36a1399e4","features":{"no_std":[]},"yanked":false}
+{"name":"mucell","vers":"0.3.0","deps":[],"cksum":"5b8e051a12e7cbb972fe4d315f1b58878e13d1e968374923e332619147680a96","features":{"no_std":[],"const_fn":[]},"yanked":false}
