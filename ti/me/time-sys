@@ -1,0 +1,1 @@
+{"name":"time-sys","vers":"0.0.0","deps":[{"name":"linux-api","req":"^0.0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6aa27f232aa89da0c9754f0463396b387e6fba44371e346b90ae6acbcdd2e8e","features":{},"yanked":false}
