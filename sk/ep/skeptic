@@ -1,0 +1,1 @@
+{"name":"skeptic","vers":"0.1.0","deps":[{"name":"pulldown-cmark","req":"^0.0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1603ed77cbd6c84a9ad1aed1ba87823f1174440f68f0f564214844922c1a84a9","features":{},"yanked":false}
