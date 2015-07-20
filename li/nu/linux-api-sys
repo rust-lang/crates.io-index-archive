@@ -1,0 +1,1 @@
+{"name":"linux-api-sys","vers":"0.0.0","deps":[{"name":"linux-api","req":">= 0.0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82d7ee905fe2402412a2a2cbc3cb41deb27af33254dbee6ca8d7aa320bf12da4","features":{},"yanked":false}
