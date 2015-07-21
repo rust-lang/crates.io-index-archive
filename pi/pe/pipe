@@ -1,0 +1,1 @@
+{"name":"pipe","vers":"0.0.1","deps":[{"name":"resize-slice","req":"^0.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee73797bcd0dcc694074e860fd9fd5949800398c995fe28df49c01cc4dc5db99","features":{},"yanked":false}
