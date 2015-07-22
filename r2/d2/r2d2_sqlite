@@ -1,0 +1,1 @@
+{"name":"r2d2_sqlite","vers":"0.0.1","deps":[{"name":"rusqlite","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"r2d2","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e8153cf1fa185e759005c91d97963d0f16f1759d0809bfc1b53073e1732f24c","features":{},"yanked":false}
