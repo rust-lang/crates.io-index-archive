@@ -1,0 +1,1 @@
+{"name":"netbuf","vers":"0.1.0","deps":[{"name":"mockstream","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3ce2c0b6c6674b402458bf56b1d9567ec513138452bf3f9c5bf9edb376530816","features":{},"yanked":false}
