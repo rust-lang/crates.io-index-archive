@@ -1,0 +1,1 @@
+{"name":"linux-api-math","vers":"0.0.0","deps":[{"name":"linux-api","req":">= 0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1dd0be7e28ba26239981d290ac54f0563b6ea91f2854fac3a13d54d4a5708586","features":{},"yanked":false}
