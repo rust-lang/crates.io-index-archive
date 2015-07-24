@@ -1,1 +1,2 @@
 {"name":"vpx","vers":"0.1.0","deps":[{"name":"libvpx-sys","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8fccb556c9fd2fa7324e62b09acabca4f1812f28d2bf546de6e7b0fb339c1be8","features":{},"yanked":false}
+{"name":"vpx","vers":"0.2.0","deps":[{"name":"libvpx-sys","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e061e72bd094aa464708ece466f1c3273070cdec8ad9f151af137ea469340c9b","features":{},"yanked":false}
