@@ -1,0 +1,1 @@
+{"name":"build_epoch","vers":"0.0.1","deps":[{"name":"lazy_static","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"time","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a10d701e43d2df23e0232ba9fd5b62404363e04ffe447e731ed26171b687d3b6","features":{},"yanked":false}
