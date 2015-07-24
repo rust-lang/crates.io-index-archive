@@ -1,0 +1,1 @@
+{"name":"mtl","vers":"0.1.0","deps":[{"name":"rand","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c2f5d4af6359cb58a7fc0f821313818f1b4ec3b9aa010bbcc00fb7f48348415","features":{},"yanked":false}
