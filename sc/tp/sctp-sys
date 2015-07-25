@@ -1,0 +1,1 @@
+{"name":"sctp-sys","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"715948585ea2696884be956b17407298484961085f94843d8ae49a1b93328677","features":{},"yanked":false}
