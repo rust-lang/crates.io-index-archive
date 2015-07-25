@@ -1,0 +1,1 @@
+{"name":"sysinfo","vers":"0.0.2","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd96ba6466840ef3361fabde097fdadd975fa87484724540b803153abb286d46","features":{},"yanked":false}
