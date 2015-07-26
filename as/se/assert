@@ -15,3 +15,4 @@
 {"name":"assert","vers":"0.2.3","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3031cf6cc6be551058a7eea0458e3b48e008ed63218d23f0b4dafdc3360d71d8","features":{},"yanked":false}
 {"name":"assert","vers":"0.3.0","deps":[],"cksum":"61e6b4cb656918ba579156696ae0fce725cca6eb3dc2f5324328feab2e8794a0","features":{},"yanked":false}
 {"name":"assert","vers":"0.4.0","deps":[],"cksum":"c9293e5fc6510cb555c7a7c932e631154dedbce7241c7fe00b7b6591efe0b95c","features":{},"yanked":false}
+{"name":"assert","vers":"0.5.0","deps":[],"cksum":"cfc2c4750e8c9fbfe440605749804b5df2109f8cce4d001708b6181c9a5d467b","features":{},"yanked":false}
