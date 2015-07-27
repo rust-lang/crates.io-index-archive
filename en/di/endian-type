@@ -1,1 +1,2 @@
 {"name":"endian-type","vers":"0.1.0","deps":[{"name":"num","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fee33602c6d9033efade64574b60621c706173fd15fab06d0c731eee7db1ccd","features":{},"yanked":false}
+{"name":"endian-type","vers":"0.1.1","deps":[],"cksum":"a452767d5a530104d4a5bcb89ef43b905e93459ecfdbbb7dd99f0b5bcd57f408","features":{},"yanked":false}
