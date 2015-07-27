@@ -1,0 +1,1 @@
+{"name":"utime","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55698d3c506268227b103888222a07708576b522878055bd82fc6d9544ae85c1","features":{},"yanked":false}
