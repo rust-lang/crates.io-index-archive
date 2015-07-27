@@ -1,1 +1,2 @@
 {"name":"hdf5-sys","vers":"0.0.1","deps":[],"cksum":"18087903ea30065a0df90914fc891e7b74de40b9c130ad28bb04411410e9da5f","features":{},"yanked":false}
+{"name":"hdf5-sys","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pkg-config","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8ed8b8448750b575a76a3aacb36febfac09d5652610f7f36204322ae1c7010f2","features":{},"yanked":false}
