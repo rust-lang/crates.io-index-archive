@@ -1,0 +1,1 @@
+{"name":"rust-sctp","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sctp-sys","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"667ccce2a6b7754e090431ab159232a5e33f3c3c92bbd28debc826b9005976d1","features":{},"yanked":false}
