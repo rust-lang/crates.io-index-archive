@@ -1,0 +1,1 @@
+{"name":"ncl","vers":"0.1.0","deps":[{"name":"nom","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7bfa77f5089e756ce8aea1e777688d365b0b5b9359d7d52a247ff74ae0f5204f","features":{"unstable":[]},"yanked":false}
