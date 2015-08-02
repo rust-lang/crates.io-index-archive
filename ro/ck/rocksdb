@@ -6,3 +6,4 @@
 {"name":"rocksdb","vers":"0.0.6","deps":[],"cksum":"dc4452f53c28b0a9a2bf5f6fd72029f566e99cbb46dfeee6a3162c62e0eab21a","features":{"default":[],"valgrind":[]},"yanked":false}
 {"name":"rocksdb","vers":"0.0.7","deps":[],"cksum":"f5f17292f78e7a0aeda83c56c08a7a3a451b886f96aa7bc9136180bf0ea9799c","features":{"default":[],"valgrind":[]},"yanked":false}
 {"name":"rocksdb","vers":"0.0.8","deps":[],"cksum":"b1740ded9a536aefad3fc81ca91bbfff1d6b4cbe195a8cbeabd5193ada4d5c98","features":{"valgrind":[],"default":[]},"yanked":false}
+{"name":"rocksdb","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a19ebfe358a3f48c8ba91687dd84dcf0fe3f960b94361b96a63cc562b9cb150c","features":{"valgrind":[],"default":[]},"yanked":false}
