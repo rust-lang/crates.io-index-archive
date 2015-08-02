@@ -1,0 +1,1 @@
+{"name":"unrar_sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59304b46094d315f2381c9511e41a81539b78d240e9522222333153e1c0bb81d","features":{},"yanked":false}
