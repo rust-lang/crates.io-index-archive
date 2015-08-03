@@ -12,3 +12,4 @@
 {"name":"lazy_static","vers":"0.1.11","deps":[],"cksum":"e28c1b44cbc32bd37553b2c1b2d3f744ffadb6ce26381c9018492364ecb525d0","features":{},"yanked":false}
 {"name":"lazy_static","vers":"0.1.12","deps":[],"cksum":"8544e0a0dd2b46dfdcc6405086e7c938d6b32d34d62d725b69e89952ba92d27b","features":{},"yanked":false}
 {"name":"lazy_static","vers":"0.1.13","deps":[],"cksum":"68ec1c3e1720afc073eb26e2f8fda04879466c9beb2ab32be23ffa362a3cfb5e","features":{},"yanked":false}
+{"name":"lazy_static","vers":"0.1.14","deps":[],"cksum":"466e07dc490cbe19e7fa72d78334581fad0a68083ea72ff0a95b0fbddd664536","features":{"nightly":[]},"yanked":false}
