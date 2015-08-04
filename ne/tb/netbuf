@@ -1,1 +1,2 @@
 {"name":"netbuf","vers":"0.1.0","deps":[{"name":"mockstream","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3ce2c0b6c6674b402458bf56b1d9567ec513138452bf3f9c5bf9edb376530816","features":{},"yanked":false}
+{"name":"netbuf","vers":"0.2.0","deps":[{"name":"mockstream","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3d7311ad469fdc41f37fbdb35ed2b23127ae0c2ce15ba187cc4b763821a4dd9f","features":{},"yanked":false}
