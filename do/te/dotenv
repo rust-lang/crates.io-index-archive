@@ -2,3 +2,4 @@
 {"name":"dotenv","vers":"0.2.0","deps":[],"cksum":"ef9eef864716d75b92aad6b10a73209805b65c6b5759e210c1842c3e0c0454ae","features":{},"yanked":false}
 {"name":"dotenv","vers":"0.2.1","deps":[],"cksum":"aac1cbbd250e6440b9371c50cad7cc2b74569b1ff26cf9d064c0eb7821efa7fc","features":{},"yanked":false}
 {"name":"dotenv","vers":"0.2.2","deps":[],"cksum":"38f91a7c4e684c2ffef36b51fa0c6792b746d96281bbbdbc0c649e0097c86ebf","features":{},"yanked":false}
+{"name":"dotenv","vers":"0.3.0","deps":[{"name":"regex","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffb50e69cf1e60b521fb2b97e86424c1e675a0a025c32f0226e170446ec4955a","features":{},"yanked":false}
