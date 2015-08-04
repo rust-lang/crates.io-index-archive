@@ -5,3 +5,4 @@
 {"name":"database","vers":"0.3.1","deps":[{"name":"sqlite","req":"^0.17","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"065a22c4180667febaeb46adabdd3d047d7e3638ff94895feae715bbb67058e1","features":{"default":["sqlite"]},"yanked":false}
 {"name":"database","vers":"0.3.2","deps":[{"name":"sqlite","req":"^0.17","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2eccb049141dc3527d8e80981b7db45984da82661f8ede8f0faee7e7ceaed134","features":{"default":["sqlite"]},"yanked":false}
 {"name":"database","vers":"0.4.0","deps":[],"cksum":"5ecda2c8b8fed5863a7552d96ac70615037e8b829eb89de22f237d3ebe528679","features":{},"yanked":false}
+{"name":"database","vers":"0.5.0","deps":[],"cksum":"f4851b30af1e6d2db292e4873b486fa2ad00a6fb6466da44f827e18bdac62f50","features":{},"yanked":false}
