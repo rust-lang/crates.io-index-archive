@@ -1,0 +1,1 @@
+{"name":"simple-stream","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"errno","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8284b2e34c8c589fb20805f990ef99f7b7089a40730db0c414f54758da7a31c1","features":{},"yanked":false}
