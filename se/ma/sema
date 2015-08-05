@@ -1,0 +1,1 @@
+{"name":"sema","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"356c75186490a203f14559b0da05dd7e42599849bf9ce68319d51d9a5e9acf6c","features":{},"yanked":false}
