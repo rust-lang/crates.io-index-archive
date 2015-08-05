@@ -1,0 +1,1 @@
+{"name":"cobalt","vers":"0.1.0","deps":[{"name":"rand","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clock_ticks","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c0c5e1612c4c1f2c9a9264888d9a21774dbef897cf6e10751a413021083a84a","features":{},"yanked":false}
