@@ -1,0 +1,1 @@
+{"name":"epoll","vers":"0.1.0","deps":[{"name":"errno","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06df26a4c1092da9daae6eccdcad787ca39aecba87f7dacfd73858f04b90cd64","features":{},"yanked":false}
