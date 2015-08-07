@@ -1,0 +1,1 @@
+{"name":"dssim","vers":"0.0.5","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"c_vec","req":"= 1.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d91f3aaab6798ac7d2cdac5694d61fa923f344125f2fa5c204cc47a9bec2028","features":{},"yanked":false}
