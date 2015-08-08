@@ -1,0 +1,1 @@
+{"name":"qindex_multi","vers":"0.1.0","deps":[{"name":"vec_map","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e47591a47874d0c289ab9784fdf2d153998653d2256ceb02732047461013c58","features":{},"yanked":false}
