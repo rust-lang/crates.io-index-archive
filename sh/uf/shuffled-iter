@@ -1,0 +1,1 @@
+{"name":"shuffled-iter","vers":"0.1.0","deps":[{"name":"rand","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"bit-vec","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"53c510152693246b4f007b6932b8147912eb98f2a99f03172b2d5adc93f67efd","features":{},"yanked":false}
