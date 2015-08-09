@@ -10,3 +10,4 @@
 {"name":"protobuf","vers":"0.0.10","deps":[],"cksum":"871dba587bd18b2119d8a80b11d2a482f5f2a7d14677551b74dbc3838e7156c9","features":{},"yanked":false}
 {"name":"protobuf","vers":"1.0.0","deps":[],"cksum":"a1e7262a4a66d919121438777e274564b2a80c6912b2fb78d64180c49900c902","features":{},"yanked":false}
 {"name":"protobuf","vers":"1.0.1","deps":[],"cksum":"6711e5402cfe3eaff2494e74f57f345cd73a370e107f29e2900fdc0db9da1386","features":{},"yanked":false}
+{"name":"protobuf","vers":"1.0.2","deps":[],"cksum":"8b0744823c26ab28a1eec69197286d0d18b0437572b2916056b754920a36f5ac","features":{},"yanked":false}
