@@ -1,0 +1,1 @@
+{"name":"heapsize","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bdacdef2dfd8e8f8dc65421821e935dd8a3eec06d0a6773ea622e336943eadb3","features":{},"yanked":false}
