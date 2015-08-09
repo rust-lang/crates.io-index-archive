@@ -1,1 +1,2 @@
 {"name":"combine-language","vers":"0.5.0","deps":[{"name":"combine","req":"1.0.*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7aa40b0df893f5afb7c41a1de805ed768400ecf4e1d01e9806199dfca4c6a1c","features":{},"yanked":false}
+{"name":"combine-language","vers":"0.6.0","deps":[{"name":"combine","req":"1.0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b71f69d55fa63816cd62475178aee5e8dc851c0556a26034306c4bc1164d18f8","features":{},"yanked":false}
