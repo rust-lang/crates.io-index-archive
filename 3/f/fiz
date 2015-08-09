@@ -1,1 +1,2 @@
 {"name":"fiz","vers":"0.0.1","deps":[{"name":"fiz-math","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0899ad79ac73d3e6c247de83ca4b47424fe9ebcd154b6348540eda7da6442a6c","features":{},"yanked":false}
+{"name":"fiz","vers":"0.0.2","deps":[{"name":"fiz-math","req":"^0.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c76e0bcc9557b171c2ebeadc66b2fdf23ef1d02f07cb86d13092551ab9e285bf","features":{},"yanked":false}
