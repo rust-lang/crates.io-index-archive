@@ -1,0 +1,1 @@
+{"name":"qcollect-traits","vers":"0.1.0","deps":[{"name":"vec_map","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f799873e98aa10e1d030bfe46bd2456ca002c52c137ebbb27e385f6ce217c3a","features":{},"yanked":false}
