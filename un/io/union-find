@@ -6,3 +6,4 @@
 {"name":"union-find","vers":"0.1.2","deps":[],"cksum":"e0b37874823b1d0325647cf8356efea53ebfdda6df63dd4b513d8ed83fc65e59","features":{},"yanked":false}
 {"name":"union-find","vers":"0.1.3","deps":[],"cksum":"c87ec6bd01592bde0bafce77395f622af241fec87d2a7148cc68c8fd7b1fc4e1","features":{},"yanked":false}
 {"name":"union-find","vers":"0.1.4","deps":[],"cksum":"c93da7ac08a6bd219bf2984348e4470870239ce2896bbe278a1a809a3348445a","features":{},"yanked":false}
+{"name":"union-find","vers":"0.1.5","deps":[],"cksum":"18e1205698645c85c9154c3989c7e6fae9b59d433d4b35d95a7e7edd837d52ba","features":{"nightly":[]},"yanked":false}
