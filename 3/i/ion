@@ -1,0 +1,1 @@
+{"name":"ion","vers":"0.1.0","deps":[{"name":"docopt","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rustc-serialize","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63f7b85bf6c37506d1e27ef79bb59d97658af79bed6c6a143bd5b87da85db7b6","features":{},"yanked":false}
