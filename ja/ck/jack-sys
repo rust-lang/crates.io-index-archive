@@ -1,0 +1,1 @@
+{"name":"jack-sys","vers":"0.0.1","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66bee21190af2d288c2a1d3383cbc27ba80aa7dac28e25c26b74c67d3a39047b","features":{},"yanked":false}
