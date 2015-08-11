@@ -1,0 +1,1 @@
+{"name":"probor","vers":"0.1.0","deps":[{"name":"cbor-codec","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"byteorder","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0fe6b3d13b6e64637cdc872dfc9d6a1929848e33fbb96d3b92149b01a4f9165d","features":{},"yanked":false}
