@@ -1,1 +1,2 @@
 {"name":"kdtree","vers":"0.0.0","deps":[],"cksum":"c854c969be2c0055092395ab7235ed1d2303cb50e25d4410862234f268a4cdb0","features":{},"yanked":false}
+{"name":"kdtree","vers":"0.1.0","deps":[{"name":"rand","req":"~0.3.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9e94febab4eaa3b5c5c7f28691465adeb386b8abd85ba61dd80a2d9c7df81e47","features":{},"yanked":false}
