@@ -1,1 +1,2 @@
 {"name":"dlib","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e1b71c5d4b150a72a16b1557a729013e7eef7f357bee0cb2788b4de21272448","features":{"dlopen":[]},"yanked":false}
+{"name":"dlib","vers":"0.1.1","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a41390bb218345cee5af31cdc5961003edeac3707ad502ac714a60dab0ecb5f1","features":{"dlopen":[]},"yanked":false}
