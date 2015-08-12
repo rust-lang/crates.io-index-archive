@@ -1,0 +1,1 @@
+{"name":"theater","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05199eb336615bd47c5daf9d4e436cebb6434f72755217f84700c50547c2e1d8","features":{},"yanked":false}
