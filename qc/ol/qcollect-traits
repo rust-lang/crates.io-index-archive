@@ -1,1 +1,2 @@
 {"name":"qcollect-traits","vers":"0.1.0","deps":[{"name":"vec_map","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f799873e98aa10e1d030bfe46bd2456ca002c52c137ebbb27e385f6ce217c3a","features":{},"yanked":false}
+{"name":"qcollect-traits","vers":"0.2.0","deps":[{"name":"vec_map","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a85d6cfe247728a0d8de2acbf51a1a08befeb2e1fc36e92a35d26eba60f12666","features":{},"yanked":false}
