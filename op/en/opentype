@@ -11,3 +11,4 @@
 {"name":"opentype","vers":"0.1.1","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"date","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df29e379d53d2c4e14c06e7bcf93a7235ec112c63c3e42ce68d0c40527a48f8a","features":{},"yanked":false}
 {"name":"opentype","vers":"0.1.2","deps":[{"name":"date","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6abd9a347e7ad00f6f98b7c41f6727175ebe5da6b615ccc5d80a3afa25ffc191","features":{},"yanked":false}
 {"name":"opentype","vers":"0.2.0","deps":[],"cksum":"755f135d39d58a7af12f98bb631253954bef5de8f71cad02d82550a97220e52f","features":{},"yanked":false}
+{"name":"opentype","vers":"0.2.1","deps":[],"cksum":"6cecd44d6cba555bf444fc24c104421b1c0a8198e4c7990bd6c2fdad7b97bf14","features":{},"yanked":false}
