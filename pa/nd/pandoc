@@ -1,1 +1,2 @@
 {"name":"pandoc","vers":"0.1.0","deps":[{"name":"itertools","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9615ea1b6cecd18de15029426758d75e62477394d7c6ce3276dac13f0d29a43","features":{},"yanked":false}
+{"name":"pandoc","vers":"0.2.0","deps":[{"name":"itertools","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5269a3ae494294151c9ce8eee83575224432bbda929493851250e60bc4caff43","features":{},"yanked":false}
