@@ -1,6 +1,6 @@
 {"name":"vpsearch","vers":"0.1.0","deps":[],"cksum":"65e957aa8234e0263436bb18232f1475c2510f00f964270c55b07ce29ca1e22a","features":{},"yanked":false}
 {"name":"vpsearch","vers":"0.2.0","deps":[],"cksum":"799f71a3dce0faee894728df5dde0e634564ff65e62e0564aeaf5a8832835160","features":{},"yanked":true}
 {"name":"vpsearch","vers":"0.3.0","deps":[],"cksum":"74c54c785b0be832febf3d89239656e59f1877dceb214918ec8acb7a4d833d08","features":{},"yanked":true}
-{"name":"vpsearch","vers":"0.4.0","deps":[],"cksum":"5cea2ad06afa53d589b5f0a2516f7f2bbfbaa32775f89221a9046f1e928046ee","features":{},"yanked":false}
+{"name":"vpsearch","vers":"0.4.0","deps":[],"cksum":"5cea2ad06afa53d589b5f0a2516f7f2bbfbaa32775f89221a9046f1e928046ee","features":{},"yanked":true}
 {"name":"vpsearch","vers":"0.4.1","deps":[],"cksum":"486db17f800e34c8e21daa98c7528f72fbe355171acce581ba76052769028ab2","features":{},"yanked":false}
 {"name":"vpsearch","vers":"0.5.0","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91463cd4aedf31a239ad928bca490f3423af30d3becabd0aeefbcd602b763183","features":{},"yanked":false}
