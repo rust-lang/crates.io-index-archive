@@ -1,1 +1,2 @@
 {"name":"oak","vers":"0.1.0","deps":[{"name":"oak_runtime","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8157f29bee79e70ab6ada65973af33b8d91ee4ddfd8a655a43dacc7920a69599","features":{},"yanked":false}
+{"name":"oak","vers":"0.1.1","deps":[{"name":"oak_runtime","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e2a833f3d2c1b36088829864f8e65a4cf0b514bf67438b8b04404fd470f08752","features":{},"yanked":false}
