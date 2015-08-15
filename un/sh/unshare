@@ -1,0 +1,1 @@
+{"name":"unshare","vers":"0.0.1","deps":[{"name":"nix","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6d833ee1f2916c9d343c3df3ab3c19a7b2abb60821d68d2936ff020a255af48","features":{},"yanked":false}
