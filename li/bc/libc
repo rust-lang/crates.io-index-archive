@@ -8,3 +8,4 @@
 {"name":"libc","vers":"0.1.7","deps":[],"cksum":"3ba807e82d5a0728b7ffa848a2707eebaa5234331d4f84abda8117aae39af10b","features":{"cargo-build":[],"default":["cargo-build"]},"yanked":false}
 {"name":"libc","vers":"0.1.8","deps":[],"cksum":"a64b9ad3eea69f6f43b87c07c0534505a68c8834ad4c6bad4089de15e45cec83","features":{"cargo-build":[],"default":["cargo-build"]},"yanked":false}
 {"name":"libc","vers":"0.1.9","deps":[],"cksum":"de7d0c9dee98a11d1e45bb67df65c54022e2973c52885eba17193740e277a510","features":{"cargo-build":[],"default":["cargo-build"]},"yanked":true}
+{"name":"libc","vers":"0.1.10","deps":[],"cksum":"cd70bd1f9f3bfadfdcdf92869faecc795686617d3a9acfe74d0c89a4bb6d142b","features":{"default":["cargo-build"],"cargo-build":[]},"yanked":false}
