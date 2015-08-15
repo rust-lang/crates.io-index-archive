@@ -8,3 +8,4 @@
 {"name":"rscam","vers":"0.3.10","deps":[],"cksum":"779284f1e82f55a310cf08d9ab7f03acdb117d21ed7c5caf087b9f8a116444d1","features":{"default":["use_wrapper"],"use_wrapper":[]},"yanked":false}
 {"name":"rscam","vers":"0.4.0","deps":[],"cksum":"25648602bde79bba7eed143a33b535e93ce7c9c0d3da596cfdc7dfe3ba14f719","features":{"no_wrapper":[]},"yanked":false}
 {"name":"rscam","vers":"0.4.1","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fdde48fdc41d213766555287eede5905f31ad2b3bd45e9612c3fa44f49526067","features":{"no_wrapper":[]},"yanked":false}
+{"name":"rscam","vers":"0.5.0","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09796c7541a7f3e675934346039d7c4e19fb50fcae283ea1f62ec92d774aaccf","features":{"no_wrapper":[]},"yanked":false}
