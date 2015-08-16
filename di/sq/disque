@@ -1,0 +1,1 @@
+{"name":"disque","vers":"0.1.0","deps":[{"name":"redis","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56c47482ba648912253da1e7dd6f08fd6c3faadb25631d47b06470ee0dfe9eb9","features":{},"yanked":false}
