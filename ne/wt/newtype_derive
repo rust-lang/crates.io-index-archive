@@ -1,0 +1,1 @@
+{"name":"newtype_derive","vers":"0.1.1","deps":[{"name":"custom_derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"19330fedb0b4340e9abbb75469aec641af8e801f18fb4670b5dd3ba0f952b43b","features":{},"yanked":false}
