@@ -7,3 +7,4 @@
 {"name":"union-find","vers":"0.1.3","deps":[],"cksum":"c87ec6bd01592bde0bafce77395f622af241fec87d2a7148cc68c8fd7b1fc4e1","features":{},"yanked":false}
 {"name":"union-find","vers":"0.1.4","deps":[],"cksum":"c93da7ac08a6bd219bf2984348e4470870239ce2896bbe278a1a809a3348445a","features":{},"yanked":false}
 {"name":"union-find","vers":"0.1.5","deps":[],"cksum":"18e1205698645c85c9154c3989c7e6fae9b59d433d4b35d95a7e7edd837d52ba","features":{"nightly":[]},"yanked":false}
+{"name":"union-find","vers":"0.1.6","deps":[{"name":"rand","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3819c9378bde431095b746dbf4aef474ea46f0f1d3f1e8612844beea669b1153","features":{"nightly":[]},"yanked":false}
