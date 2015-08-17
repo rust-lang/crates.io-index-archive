@@ -1,0 +1,1 @@
+{"name":"rocksdb-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c58e434b507c68d774dca71788cef73a119fa9b7329222811fc7c6940624eb6","features":{},"yanked":false}
