@@ -1,1 +1,2 @@
 {"name":"CoreFoundation-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1.8","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fad48e0b395838f6bb28430e009d1763662a06e8cd58ac4dfbdd2dcdec7bd043","features":{},"yanked":false}
+{"name":"CoreFoundation-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f9261bef1166d84288b8e44da5c7ec3584d721714b6da928ab0e01ce9978957","features":{},"yanked":false}
