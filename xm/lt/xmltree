@@ -1,0 +1,1 @@
+{"name":"xmltree","vers":"0.2.1","deps":[{"name":"xml-rs","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempfile","req":"~1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6849600b2ae341712925d0e47dfe15439b27e1dfd38b252f308951ad2a822a74","features":{},"yanked":false}
