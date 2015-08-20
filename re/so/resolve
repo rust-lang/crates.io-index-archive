@@ -1,0 +1,1 @@
+{"name":"resolve","vers":"0.0.1","deps":[{"name":"rand","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1eaf4403a9d5ebd087233a7ae6a17abe178efb1ce3288474b626b6728c1f324","features":{},"yanked":false}
