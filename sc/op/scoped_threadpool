@@ -1,1 +1,2 @@
 {"name":"scoped_threadpool","vers":"0.1.0","deps":[{"name":"lazy_static","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b4f10e0bd2efc00cd7d8e832a553664adc038e2321e6f3f005571c25f71ffd6b","features":{"nightly":[]},"yanked":false}
+{"name":"scoped_threadpool","vers":"0.1.1","deps":[{"name":"lazy_static","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"621396fe877935bee1642f9b9c857dd11764b632079f397d2c30d64ae31d04ce","features":{"nightly":[]},"yanked":false}
