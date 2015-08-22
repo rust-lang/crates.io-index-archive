@@ -1,1 +1,2 @@
 {"name":"whisper","vers":"0.1.0","deps":[],"cksum":"a1f5d5a0267ace82381b75a4d392d05571fe0d46c02d27633b203742f2c8b2bb","features":{},"yanked":false}
+{"name":"whisper","vers":"0.1.1","deps":[{"name":"byteorder","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"memmap","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26542b928cd26d0343857b7a5a7bf88ada03406dbb0e0330f4810dbead614461","features":{},"yanked":false}
