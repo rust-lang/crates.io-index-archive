@@ -1,1 +1,2 @@
 {"name":"persistent_array","vers":"0.1.0","deps":[{"name":"memmap","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3157b5f43c438dcde4b91e81047084bcc858dee7f0b275ac10fee6124159a85","features":{},"yanked":false}
+{"name":"persistent_array","vers":"0.1.1","deps":[{"name":"memmap","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6885455f68dda9bb004d6f3aa7c0f0dfc2daf31da66b6a0acd827c0e2dbe1040","features":{},"yanked":false}
