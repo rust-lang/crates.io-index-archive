@@ -1,0 +1,1 @@
+{"name":"persistent_hashmap","vers":"0.0.1","deps":[{"name":"persistent_array","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9a12ddb6d152a9d04778a6e8852c908966af02fa0bc3b757db14e04b9b3e060","features":{},"yanked":false}
