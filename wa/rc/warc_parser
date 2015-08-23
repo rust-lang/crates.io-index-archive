@@ -1,0 +1,1 @@
+{"name":"warc_parser","vers":"0.0.1","deps":[{"name":"nom","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fb2a56ca1fba875e1ebd1cd38ad72f77616d863d1acd4f8dd258bc0a4ca09aa","features":{},"yanked":false}
