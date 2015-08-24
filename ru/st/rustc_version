@@ -1,0 +1,1 @@
+{"name":"rustc_version","vers":"0.1.0","deps":[{"name":"semver","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9855b14a28f528362f8de42ddc6f8f8754c44b8fab5f1b70d72e4d165ed508d","features":{},"yanked":false}
