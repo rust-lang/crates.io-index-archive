@@ -1,1 +1,2 @@
 {"name":"rustc_version","vers":"0.1.0","deps":[{"name":"semver","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9855b14a28f528362f8de42ddc6f8f8754c44b8fab5f1b70d72e4d165ed508d","features":{},"yanked":false}
+{"name":"rustc_version","vers":"0.1.1","deps":[{"name":"semver","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c6eb213bfed4e8bcd0eb8c71209001727681bb5fbd34dcf6fb74b998dfbb2ff","features":{},"yanked":false}
