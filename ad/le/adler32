@@ -1,1 +1,2 @@
 {"name":"adler32","vers":"0.1.0","deps":[{"name":"rand","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fb866f1c16f6c4aad5d12294858d7d9d3b931ae7e61cb3ebcf08e7943e687b57","features":{},"yanked":false}
+{"name":"adler32","vers":"0.2.0","deps":[{"name":"rand","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e928aa58f6dbd754bda26eca562a242549cb606e27a2240fc305fc75a7f12af9","features":{},"yanked":false}
