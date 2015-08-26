@@ -1,1 +1,2 @@
 {"name":"postscript","vers":"0.0.1","deps":[],"cksum":"c71381314a0d458f24e0a06e8586730fff6b4ac79e4978aa255387a9633cb099","features":{},"yanked":false}
+{"name":"postscript","vers":"0.1.0","deps":[{"name":"random","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"717c9dd4df5127f6006ba5a380f7d170795b9b153579ba0809c0094303ff2b42","features":{},"yanked":false}
