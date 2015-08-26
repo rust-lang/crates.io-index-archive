@@ -1,0 +1,1 @@
+{"name":"unjson","vers":"0.0.1","deps":[{"name":"serde_json","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18e0b7ff3ddb827b7fd85f9d0261c981e6a3a68eb2811144178f207824ccb07a","features":{},"yanked":false}
