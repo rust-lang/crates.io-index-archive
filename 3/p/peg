@@ -14,3 +14,4 @@
 {"name":"peg","vers":"0.2.3","deps":[],"cksum":"41f993064b34c5ecdfffbaa99aa14c19a5d436c588a66c0849609df6125d8118","features":{},"yanked":false}
 {"name":"peg","vers":"0.3.0","deps":[],"cksum":"44a863e1c92d27a17c0101d2a3b3421131e4600352870c294e598a35a755efb0","features":{"trace":[]},"yanked":false}
 {"name":"peg","vers":"0.3.1","deps":[],"cksum":"33b492fbea6be66761134515c3727dc243046e27a7592d22a163ae57f92b21ea","features":{"trace":[]},"yanked":false}
+{"name":"peg","vers":"0.3.2","deps":[],"cksum":"ea9e85762344f04628297a7cf8556d458d57d79cd14d7fda5c00f7c06bc6b147","features":{"trace":[]},"yanked":false}
