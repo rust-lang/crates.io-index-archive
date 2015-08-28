@@ -1,0 +1,1 @@
+{"name":"signal","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"nix","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec19f63693e1543f2fbd4cc93fefbaa1a115f99fff23ff884585464eafe53459","features":{},"yanked":false}
