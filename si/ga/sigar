@@ -1,0 +1,1 @@
+{"name":"sigar","vers":"0.0.1","deps":[{"name":"libc","req":"^0.1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e0cdf8817620217f596aebb83cc4f80d5fc5cf3028cb348ef4eca144f914641","features":{},"yanked":false}
