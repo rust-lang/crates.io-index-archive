@@ -1,0 +1,1 @@
+{"name":"copperline","vers":"0.0.1","deps":[{"name":"libc","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"nix","req":"^0.3.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d24c8f3001e7d46b8d5b552c0ee335a53f9be33c936c8e637afe24f93d7de923","features":{},"yanked":false}
