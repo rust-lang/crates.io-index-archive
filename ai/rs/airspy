@@ -1,2 +1,3 @@
 {"name":"airspy","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3eebe524b3b54785433a9b4638e553e2fea29eee2e9e78d975e84e8b1692e42","features":{},"yanked":false}
 {"name":"airspy","vers":"0.2.0","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2263914eef495069cb40b459e9e381d071da52e526650813c62482970b9cee3d","features":{},"yanked":false}
+{"name":"airspy","vers":"0.3.0","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f92e8af2d11f48240acb4286fefb849329c3852175f5f94cbbdfe6db23f8d723","features":{},"yanked":false}
