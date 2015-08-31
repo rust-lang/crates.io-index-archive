@@ -1,1 +1,2 @@
 {"name":"piston2d-shapes","vers":"0.1.0","deps":[{"name":"piston2d-graphics","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eab2f633e2f157b80dd942b3cffcbf0ec7c701a65840fab4ff69bf64ed762988","features":{},"yanked":false}
+{"name":"piston2d-shapes","vers":"0.2.0","deps":[{"name":"piston2d-graphics","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9a0cbc5d9d984e1fcb7c1a55b213ed0c220d95edba64f0f93b2efa2db0b0b90","features":{},"yanked":false}
