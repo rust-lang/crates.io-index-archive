@@ -1,3 +1,4 @@
 {"name":"little","vers":"0.1.0","deps":[],"cksum":"63a562e0f02fd9cd7a265df99b2c5101bd7d0808d0bf4cc860c3e12515369542","features":{},"yanked":false}
 {"name":"little","vers":"0.1.1","deps":[],"cksum":"2511390e03addf9b905cdc161899d324ff8c3f378f7a609e329757e050547446","features":{"nightly":[]},"yanked":false}
 {"name":"little","vers":"0.2.0","deps":[],"cksum":"4175b34de092cac2f02fcff51d96594251aaf31749d24381ddae2a159453b8f8","features":{"nightly":[]},"yanked":false}
+{"name":"little","vers":"0.2.1","deps":[],"cksum":"09e01fd6962c6cc65e66ccf361078a256d06392b0c477dedcee5f24c069449b4","features":{"nightly":[]},"yanked":false}
