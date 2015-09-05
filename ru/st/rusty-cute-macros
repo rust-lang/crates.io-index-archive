@@ -6,3 +6,4 @@
 {"name":"rusty-cute-macros","vers":"0.2.5","deps":[],"cksum":"33020c41b4cb932c96c89e2994abbcf9afadb8f5a34499dcc15bb5737d44ce58","features":{},"yanked":false}
 {"name":"rusty-cute-macros","vers":"0.2.6","deps":[],"cksum":"9ff0e1f53195080187b12359a5d8d033597ce508a73bd6b09a3e9c37b5bb8d7f","features":{},"yanked":false}
 {"name":"rusty-cute-macros","vers":"0.3.0","deps":[],"cksum":"bb13bba87b94d058c2c1c2016283575950e29b1b3707158f0087c95ca4bdbde4","features":{},"yanked":false}
+{"name":"rusty-cute-macros","vers":"0.3.1","deps":[{"name":"time","req":"*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f389d6b4e0fd72abd0b61e23e71e8ecd84cfca130b95053401fc0286fa35ba2","features":{},"yanked":false}
