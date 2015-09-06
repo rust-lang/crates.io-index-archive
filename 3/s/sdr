@@ -1,0 +1,1 @@
+{"name":"sdr","vers":"0.1.0","deps":[{"name":"time","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c483009eff40a4d6ab07006206326b95edc44bbe282b8ae8aa7cc908a7edf25d","features":{},"yanked":false}
