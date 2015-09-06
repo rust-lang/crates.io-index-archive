@@ -11,3 +11,4 @@
 {"name":"primapalooza","vers":"0.2.0","deps":[],"cksum":"501079dbc41689c1480e82bd3d7925ebf77a63f975bafe22cb1510e623bc8c28","features":{},"yanked":false}
 {"name":"primapalooza","vers":"0.3.0","deps":[{"name":"num","req":"^0.1.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"141cc1b3aaa66e071673e9844225175bfd4339c579df77cc13125b53a13b0da4","features":{},"yanked":false}
 {"name":"primapalooza","vers":"0.3.1","deps":[{"name":"num","req":"^0.1.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"920e18e2dffe744b71bdfbde4360935383e7583b7edfd44da2e8ec23de73809e","features":{},"yanked":false}
+{"name":"primapalooza","vers":"0.3.2","deps":[{"name":"num","req":"^0.1.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6dda14d1a945ee7f0d664719951afb03961876f5d95cb840101064c6dccc8c1c","features":{},"yanked":false}
