@@ -3,3 +3,4 @@
 {"name":"oak_runtime","vers":"0.2.0","deps":[],"cksum":"4e65fcec458b0d18a036bf10f1693ebeb472523af79c35786f0c918413331868","features":{},"yanked":false}
 {"name":"oak_runtime","vers":"0.3.0","deps":[],"cksum":"753d539b594d3b7b707751c54d45f52d080f79987430a616b0faaf552f4b4c28","features":{},"yanked":false}
 {"name":"oak_runtime","vers":"0.3.1","deps":[],"cksum":"f2a07b0ce38ad721452e14f3c87a723c0811725c0bc7cff23c3e9d8292f95e90","features":{},"yanked":false}
+{"name":"oak_runtime","vers":"0.3.2","deps":[],"cksum":"1a697e9e098dbde4dad904f4c984e0b5208c816b31466097302b973fe7b765c6","features":{},"yanked":false}
