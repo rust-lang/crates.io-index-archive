@@ -22,3 +22,4 @@
 {"name":"nom","vers":"0.3.9","deps":[],"cksum":"44c17360d39cb256c42146b6cbe6335831261ab26212ac20a4934a7548bdb2eb","features":{"core":[],"nightly":[]},"yanked":false}
 {"name":"nom","vers":"0.3.10","deps":[],"cksum":"72005777c779cf8c0c55b6af5f0267a25a971fcad85b0933227778b61e36beae","features":{"core":[],"nightly":[]},"yanked":false}
 {"name":"nom","vers":"0.3.11","deps":[],"cksum":"3be5cf8e4fd1c5d36e30f76c3a79da4149ccde0765921867715ab2cdb1ed48b7","features":{"core":[],"nightly":[]},"yanked":false}
+{"name":"nom","vers":"0.4.0","deps":[{"name":"regex_macros","req":"^0.1.21","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^0.1.41","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d87d06599b957cdfde42fd0a271f3b60ef981016c4a47d6bc112365108b7e3e","features":{"core":[],"regexp":["regex"],"nightly":[],"regexp_macros":["regexp","regex_macros"]},"yanked":false}
