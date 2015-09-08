@@ -1,0 +1,1 @@
+{"name":"trust-dns","vers":"0.1.1","deps":[{"name":"log","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bffe744654ab603ac21e8c67c109451ca4b999c652097dac4a1fb96734073824","features":{},"yanked":false}
