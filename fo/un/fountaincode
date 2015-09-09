@@ -1,1 +1,2 @@
 {"name":"fountaincode","vers":"0.0.1","deps":[{"name":"rand","req":"^0.3.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f83527cd10a004626114b786b05c99ea1805269b3e18924e7d04938da92b8d1f","features":{},"yanked":false}
+{"name":"fountaincode","vers":"0.0.2","deps":[{"name":"rand","req":"^0.3.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bec7f017de9b9576edecf9e9fe7b17c9f5882c27a93af83373c0e375223e8079","features":{},"yanked":false}
