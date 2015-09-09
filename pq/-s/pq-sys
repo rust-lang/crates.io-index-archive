@@ -1,0 +1,1 @@
+{"name":"pq-sys","vers":"0.1.0","deps":[{"name":"libc","req":"0.1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01aaf65478fc1fbc1eabb37f6b3ab80273aa1d77ec863b94953e159d2d4d9614","features":{},"yanked":false}
