@@ -1,1 +1,2 @@
 {"name":"ferrous_threads","vers":"0.0.1","deps":[{"name":"bit-vec","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f3c25be9177c6d7cd5b6174d853b04e3e54dd5f54458efce359340fb44837958","features":{},"yanked":false}
+{"name":"ferrous_threads","vers":"0.0.2","deps":[{"name":"bit-vec","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9454cb83d8741ef4a7f9a18f36c909642ceda86e075247766580b1ad317c6a79","features":{},"yanked":false}
