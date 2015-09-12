@@ -1,0 +1,1 @@
+{"name":"webplatform","vers":"0.0.1","deps":[{"name":"libc","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81433ad57bc30e6f4d65dca49a5a0400b2e0c47d1336dc847e50c969aa42ca8c","features":{},"yanked":false}
