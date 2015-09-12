@@ -16,3 +16,4 @@
 {"name":"genmesh","vers":"0.2.1","deps":[],"cksum":"f2b4f9bd368604ea474c98b06b3f3a9ed3045b7bb02ae112978539ec94a072ce","features":{},"yanked":false}
 {"name":"genmesh","vers":"0.3.0","deps":[{"name":"cgmath","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1a5c75a017d8b97f3f96c8cd31613eb0b6441400cc017b5f580b9dbc76bc64b","features":{},"yanked":false}
 {"name":"genmesh","vers":"0.3.1","deps":[{"name":"cgmath","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3df32c983ef72123e0e02d29fdf966c7d8b01d7fb0c1a3227711fb500a99fd7","features":{},"yanked":false}
+{"name":"genmesh","vers":"0.3.2","deps":[{"name":"cgmath","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8595d239984f0dedf472fb5c357453583faa29150e0244e2c93304716b18e1d","features":{},"yanked":false}
