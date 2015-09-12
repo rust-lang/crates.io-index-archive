@@ -1,0 +1,1 @@
+{"name":"monitor","vers":"0.0.1","deps":[{"name":"time","req":"^0.1.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0f1221eb5928fad41c8cab90b418126a8c54b9e1ca8086a633241f7704af77d2","features":{},"yanked":false}
