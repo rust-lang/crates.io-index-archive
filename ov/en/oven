@@ -1,0 +1,1 @@
+{"name":"oven","vers":"0.1.0","deps":[{"name":"cookie","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"iron","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9faec9f5bc3b821ee313885771470e0df0ce16e2e8fe197a07f8722c5561fe3","features":{},"yanked":false}
