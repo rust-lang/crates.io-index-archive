@@ -1,0 +1,1 @@
+{"name":"vault","vers":"0.1.0","deps":[{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d21d0e7bbc701bc1b7c8b33ebba4ceeb1d65a2ccb8a8e767711c8b2adfb15573","features":{},"yanked":false}
