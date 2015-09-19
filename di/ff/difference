@@ -1,0 +1,1 @@
+{"name":"difference","vers":"0.4.0","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"term","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83db03bbecbe369f736f848416dcf1f04b09ce84ca28c298e3722179b0c0559f","features":{},"yanked":false}
