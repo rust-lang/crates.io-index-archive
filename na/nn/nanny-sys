@@ -1,0 +1,1 @@
+{"name":"nanny-sys","vers":"0.0.1","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cebea75b7394994b9900407b1799d29955e70af8405e27c0bee6a13e70edceb0","features":{},"yanked":false}
