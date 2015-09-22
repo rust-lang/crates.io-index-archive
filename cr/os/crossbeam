@@ -3,3 +3,4 @@
 {"name":"crossbeam","vers":"0.1.2","deps":[],"cksum":"54fd477b24e44ecdcc48c5e52ec4e257ebb489315c80ef150bc7c1877c441618","features":{},"yanked":false}
 {"name":"crossbeam","vers":"0.1.3","deps":[],"cksum":"9e1aef893f723b0dbff5e34e0b90be39ca06a6089567a958fadb278d3d787dc7","features":{},"yanked":false}
 {"name":"crossbeam","vers":"0.1.4","deps":[],"cksum":"a0d035833518bc21d14ba8da707f29fd2e0934a51f556a47e9180da25047a909","features":{},"yanked":false}
+{"name":"crossbeam","vers":"0.1.5","deps":[],"cksum":"fb6e4e83477a5b4532f04e11776b3cca433087a3503371b02c47c7ae6b36e0f5","features":{"nightly":[]},"yanked":false}
