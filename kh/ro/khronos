@@ -1,0 +1,1 @@
+{"name":"khronos","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20db903fbb0adc4ad84346e22dacdfc5cb6437420ff7563d47d2fcc351384cc4","features":{},"yanked":false}
