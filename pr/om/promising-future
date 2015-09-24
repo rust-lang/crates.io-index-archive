@@ -1,1 +1,2 @@
 {"name":"promising-future","vers":"0.1.0","deps":[],"cksum":"58f4dd49fe71e1273117508d3f9ea9b2fc6159b32ac1e036178649ff2e1be7fc","features":{},"yanked":false}
+{"name":"promising-future","vers":"0.1.1","deps":[{"name":"threadpool","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f95fc013e9c6635ad70eccc2be457220042e358bd9baefb104d989cdb376d19e","features":{"default":["threadpool"]},"yanked":false}
