@@ -7,3 +7,4 @@
 {"name":"compiletest_rs","vers":"0.0.7","deps":[],"cksum":"f4a09c80b02ae6a5a62ea68ffc8eb255edb51e4697fb36b418c918882ef79757","features":{},"yanked":false}
 {"name":"compiletest_rs","vers":"0.0.8","deps":[],"cksum":"765fe21a5238b389f072dd9e17f0c3b3523ab149a982770e851d1c820482a20c","features":{},"yanked":false}
 {"name":"compiletest_rs","vers":"0.0.9","deps":[],"cksum":"40a8199ddd45ff7d5bf04010e45fae16b9843308be719376dea0f52b613410e3","features":{},"yanked":false}
+{"name":"compiletest_rs","vers":"0.0.10","deps":[{"name":"log","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5bfb856bb4130fd6fe6d67b67d3cb6b8b1bf85b9ae43e4fe39d5cf45a768dc6","features":{},"yanked":false}
