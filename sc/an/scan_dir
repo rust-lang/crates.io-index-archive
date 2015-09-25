@@ -1,1 +1,2 @@
 {"name":"scan_dir","vers":"0.1.0","deps":[{"name":"quick-error","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de4d19eb97f5eb54c3167e699d3943c4972b75313485b01e6b950c94ebdf6c2e","features":{},"yanked":false}
+{"name":"scan_dir","vers":"0.2.0","deps":[{"name":"quick-error","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22991e43f28d4271417bd5717967fbd2011e0d2cc68b9cd0f5d8bef179da62cc","features":{},"yanked":false}
