@@ -1,0 +1,1 @@
+{"name":"hsl","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0.15","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ba6843ecde6b385197f9f0433ed10cb6afd9b42ff92b36abde30e22537909df","features":{"default":[],"dev":["clippy"]},"yanked":false}
