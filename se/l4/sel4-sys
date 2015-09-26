@@ -1,2 +1,3 @@
 {"name":"sel4-sys","vers":"0.0.1","deps":[],"cksum":"d42bec217443cad882999d3ede36449150150a85cdc7d57b342cb6acd930c321","features":{"unstable":[]},"yanked":false}
 {"name":"sel4-sys","vers":"0.0.2","deps":[],"cksum":"cb4728107a0a628e51a9a4af7b802fd9d461e621265f60dada6957776f7a92e9","features":{"SEL4_DEBUG":[],"unstable":[],"SEL4_DANGEROUS_CODE_INJECTION":[],"SEL4_CONFIG_BENCHMARK":[]},"yanked":false}
+{"name":"sel4-sys","vers":"0.0.3","deps":[],"cksum":"c9a5c2b6638e841e0d16153151182d9a20985487e75b9410e5f8936ca300e28f","features":{"SEL4_DANGEROUS_CODE_INJECTION":[],"SEL4_DEBUG":[],"unstable":[],"SEL4_CONFIG_BENCHMARK":[]},"yanked":false}
