@@ -1,1 +1,2 @@
 {"name":"figtree","vers":"0.1.0","deps":[{"name":"matches","req":"0.1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d073cc0752a3c382eab76a10ab4d513304f8b61f34243c52bb00f1357e56d6c9","features":{},"yanked":false}
+{"name":"figtree","vers":"0.2.1","deps":[{"name":"matches","req":"0.1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1596f1ab18d8b301e5f4cbdb47e434857f52b9b7ec50fd7b9adbdc1b93148b09","features":{},"yanked":false}
