@@ -1,0 +1,1 @@
+{"name":"ratelimit","vers":"0.1.2","deps":[{"name":"time","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fac4b09b82f9195e1331cfa236eee8d24d96305ccd9863237aa93c7894fb43b","features":{},"yanked":false}
