@@ -1,1 +1,2 @@
 {"name":"epitaph","vers":"0.1.0","deps":[{"name":"alternate-future","req":"*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1645504596f50c120bb7b244b55709c974e5e37bb0eb30f1c30f8397dd4b655","features":{},"yanked":false}
+{"name":"epitaph","vers":"0.1.1","deps":[{"name":"alternate-future","req":"*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e62e08700c3309c21b271748028b353bc363af6199d8ef095c0320031030e77","features":{},"yanked":false}
