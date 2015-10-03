@@ -1,0 +1,1 @@
+{"name":"wayland-scanner","vers":"0.1.0","deps":[{"name":"xml-rs","req":"^0.1.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b391db61b93437d403368055d94946c4b887da6dd269b5f22de3da9915e8488","features":{},"yanked":false}
