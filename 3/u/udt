@@ -1,0 +1,1 @@
+{"name":"udt","vers":"0.1.0","deps":[{"name":"libudt4-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af0bcff42f1e398404db713ec974209b16def9cc57e38feb7b02bc0f4d5abf95","features":{},"yanked":false}
