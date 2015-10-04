@@ -1,0 +1,1 @@
+{"name":"libudt4-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"01bdb26745bc057972298bab6893679cf82d3536a8424d3ed73e335e1f4aee14","features":{},"yanked":false}
