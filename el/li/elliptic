@@ -1,1 +1,2 @@
 {"name":"elliptic","vers":"0.1.0","deps":[{"name":"elliptic-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a7aeef5e89aceb8ee628e92dd295e3c702e02bba2a840d328f558fde4d25916","features":{},"yanked":false}
+{"name":"elliptic","vers":"0.2.0","deps":[{"name":"elliptic-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"709920f1b0d7c3bfca3c1f35f666a54a4edc0e06907ee01da97532925489e9fd","features":{},"yanked":false}
