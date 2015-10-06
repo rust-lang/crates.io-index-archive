@@ -1,0 +1,1 @@
+{"name":"piston-timer_controller","vers":"0.1.0","deps":[{"name":"pistoncore-input","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b56cc563a623db3ed0e18e8ba4e5a1b87ccb1ccbb7176d8f3c1c3947711b076a","features":{},"yanked":false}
