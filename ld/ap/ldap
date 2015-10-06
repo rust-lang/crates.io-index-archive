@@ -1,1 +1,2 @@
 {"name":"ldap","vers":"0.0.1","deps":[{"name":"libc","req":"^0.1.5","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a35ca0f6dcf04a697dad96fed6ac2e7dd107f50f14afed2e87b2e64eac87545","features":{},"yanked":false}
+{"name":"ldap","vers":"0.0.2","deps":[{"name":"byteorder","req":"^0.3.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0902e3c682776ff769c9818dde6301061ecaff399dd6a8b62a9349ed368c0f34","features":{},"yanked":false}
