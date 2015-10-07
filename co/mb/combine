@@ -3,3 +3,4 @@
 {"name":"combine","vers":"1.0.0-beta.3","deps":[],"cksum":"31d842061e59e57447b00095dd9b18896757c9c35e37041f36e578a15f8aa60d","features":{},"yanked":false}
 {"name":"combine","vers":"1.0.0","deps":[],"cksum":"a260acba48d98325b623bfbe99e45ffdfff8386c188d3e0c703d8e04570f62e0","features":{},"yanked":false}
 {"name":"combine","vers":"1.0.1","deps":[],"cksum":"dc718f7899089789920676c4da276bd4e228f905de45b7a1de003f91bb4894d6","features":{"range_stream":[]},"yanked":false}
+{"name":"combine","vers":"1.0.2","deps":[],"cksum":"b6edb391f94565237c39303d35fa7c0a8568d56138db5b7adc4c249d4416e9bf","features":{"range_stream":[],"test":["range_stream","buffered_stream"],"buffered_stream":[]},"yanked":false}
