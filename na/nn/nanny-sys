@@ -1,1 +1,2 @@
 {"name":"nanny-sys","vers":"0.0.1","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cebea75b7394994b9900407b1799d29955e70af8405e27c0bee6a13e70edceb0","features":{},"yanked":false}
+{"name":"nanny-sys","vers":"0.0.2","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2bd5aa1aa3d29b24fa4ac31e3584d5c8a368e45b87a0c885d442921ae805ff62","features":{},"yanked":false}
