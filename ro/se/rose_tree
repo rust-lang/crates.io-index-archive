@@ -1,0 +1,1 @@
+{"name":"rose_tree","vers":"0.1.0","deps":[{"name":"petgraph","req":"^0.1.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8bc2a7b461ef644fe01a13c6f7828f17cae8654290884b9ef3ac3dddba56246d","features":{},"yanked":false}
