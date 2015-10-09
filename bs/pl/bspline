@@ -1,0 +1,1 @@
+{"name":"bspline","vers":"0.1.0","deps":[{"name":"image","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fe987c49e66352ca4d254ec0e07f005baeaee0986135d5e56c39f6ba2e23ea7a","features":{},"yanked":false}
