@@ -1,1 +1,2 @@
 {"name":"hamt","vers":"0.1.0","deps":[{"name":"quickcheck","req":"^0.2.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5ea557fc13d79e2538fa6b6e81a944e5218a510b525345de5d777add4afa035e","features":{},"yanked":false}
+{"name":"hamt","vers":"0.1.1","deps":[{"name":"quickcheck","req":"^0.2.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3c87b518d95814a0c3ef131ee7736bde7ef6947fad39e27fc1e475f890f0da4b","features":{},"yanked":false}
