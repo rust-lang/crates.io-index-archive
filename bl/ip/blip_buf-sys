@@ -1,0 +1,1 @@
+{"name":"blip_buf-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"04c2ab7e5562ffd143970440b45e772425e89ab6a3cc63118f46c02fac68888b","features":{},"yanked":false}
