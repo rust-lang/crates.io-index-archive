@@ -1,1 +1,2 @@
 {"name":"generic-array","vers":"0.0.1","deps":[],"cksum":"c94a57b90f53c6fa9a70f0377b50ede38096a02f2ccf4b5dadbcf095f754d1f6","features":{},"yanked":false}
+{"name":"generic-array","vers":"0.0.2","deps":[{"name":"typenum","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f04777b676c1e9ef365ab52235fdabe885f51ca5643c74f337b95b4e71fb1c5a","features":{},"yanked":false}
