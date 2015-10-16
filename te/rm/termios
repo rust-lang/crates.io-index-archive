@@ -4,3 +4,4 @@
 {"name":"termios","vers":"0.0.4","deps":[],"cksum":"0fc3ae94e2382840870d180abb9572b6bfc7a0161b4e02c01ba34945744d450b","features":{},"yanked":false}
 {"name":"termios","vers":"0.0.5","deps":[{"name":"libc","req":"^0.1.5","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75071a31761781a74d091387713756966a74ce60eea99a093a5ab3f2cccac3fe","features":{},"yanked":false}
 {"name":"termios","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1.5","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c772415efb42fe7a74d02342f4a71be69191b29152c995c39789753dfdcd8fa","features":{},"yanked":false}
+{"name":"termios","vers":"0.2.0","deps":[{"name":"libc","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"608ff4b2381a87d88f77f9cf1392babef2c40370e5389bee0f69dd38c83033bc","features":{},"yanked":false}
