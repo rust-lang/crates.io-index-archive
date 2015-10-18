@@ -1,1 +1,2 @@
 {"name":"l20n","vers":"0.0.1","deps":[],"cksum":"b9c7bbcfa888aec62e3a52402d977f58cea00203822f8765b81b0b0392521bb2","features":{},"yanked":true}
+{"name":"l20n","vers":"0.1.0","deps":[{"name":"serde","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d6a45a4407e8acdd9061aaba75bf75c49b099c7bd2358e5a2290786b877a523","features":{},"yanked":false}
