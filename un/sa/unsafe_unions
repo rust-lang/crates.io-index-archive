@@ -1,0 +1,1 @@
+{"name":"unsafe_unions","vers":"0.0.0","deps":[{"name":"interpolate_idents","req":"^0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e260f9538cba11f2cef825b5f9cb1d2d8bb6b444b601b1c9f826ee53998252ad","features":{},"yanked":false}
