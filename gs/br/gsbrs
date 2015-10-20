@@ -1,0 +1,1 @@
+{"name":"gsbrs","vers":"0.0.1","deps":[{"name":"hyper","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"url","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12215f177584f0f93d332307bd148024d28427b9a5b0c77374b5addd893af613","features":{},"yanked":false}
