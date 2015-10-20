@@ -1,0 +1,1 @@
+{"name":"triadic-census","vers":"0.0.1","deps":[{"name":"petgraph","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1feb08a41c1e7df7923ca9875ea93c70626dda16e4fc925c0f53ec5951596889","features":{},"yanked":false}
