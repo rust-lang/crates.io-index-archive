@@ -1,0 +1,1 @@
+{"name":"yaml_file_handler","vers":"0.1.0","deps":[{"name":"yaml-rust","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6fec2efc7251d6c5dedd44fe0821da9e9ef9d79b7d39cfa7a4b43dfd7af38fed","features":{},"yanked":false}
