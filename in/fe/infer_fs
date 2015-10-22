@@ -1,0 +1,1 @@
+{"name":"infer_fs","vers":"0.1.0","deps":[{"name":"argparse","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15de1f79842283818af7a4ba28d7be37c4c985c942e55990c22e74418187292d","features":{},"yanked":false}
