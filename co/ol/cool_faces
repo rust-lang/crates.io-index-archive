@@ -1,1 +1,2 @@
 {"name":"cool_faces","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c460d2abb7574ba608d9bb0200463994a34b4a46a440890fe786fa2227440779","features":{},"yanked":false}
+{"name":"cool_faces","vers":"0.1.2","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08785d84836700bc9e819cfc04aab507c555576daa8d0eebc2772cabf7cccb63","features":{},"yanked":false}
