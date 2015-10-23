@@ -1,0 +1,1 @@
+{"name":"iota","vers":"0.1.0","deps":[{"name":"clock_ticks","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rust-crypto","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d7ee0f33d6b3e35c54a312cdb48d56c8130748b0bde665ff666f12ff201c0e3","features":{},"yanked":false}
