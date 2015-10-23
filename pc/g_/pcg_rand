@@ -1,1 +1,2 @@
 {"name":"pcg_rand","vers":"0.2.0","deps":[{"name":"rand","req":"^0.3.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"289c1eae0942c9e562f6db56bc772c1d4abae7ec02473b398f12401a7998fa3d","features":{},"yanked":false}
+{"name":"pcg_rand","vers":"0.3.0","deps":[{"name":"rand","req":"^0.3.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55d31b503049fd1066a4d8107ea864574e86492186e38c7379b6f108588747d3","features":{},"yanked":false}
