@@ -1,0 +1,1 @@
+{"name":"notmuch-sys","vers":"4.3.0","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b10c03b3c7861a5984991f8b945c740f0d0eac0fa88801bf168dcde1fd0e2ad1","features":{},"yanked":false}
