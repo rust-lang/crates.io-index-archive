@@ -1,0 +1,1 @@
+{"name":"phloem","vers":"0.1.0","deps":[{"name":"clippy","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f2223663c534dc69be5bc5fe756da456a1268795c756e862aa79300a90132a6","features":{"dev":[],"default":[]},"yanked":false}
