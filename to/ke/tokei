@@ -1,0 +1,1 @@
+{"name":"tokei","vers":"1.2.0","deps":[{"name":"clap","req":"*","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"glob","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"882c55670629161425759c96a71d44d6163311c193dcfa15cfd50a97dd59c1b8","features":{},"yanked":false}
