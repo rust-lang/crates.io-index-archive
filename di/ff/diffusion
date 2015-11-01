@@ -4,3 +4,4 @@
 {"name":"diffusion","vers":"0.7.0","deps":[],"cksum":"e946a79a4c492758016b0242425f666b425327bb94332706825dd71f6ea7e1cd","features":{},"yanked":false}
 {"name":"diffusion","vers":"0.7.1","deps":[],"cksum":"f8bebd60d3034a46a270d92ccb3448ce163dd18c82f493d59ae3abf2245274fb","features":{},"yanked":false}
 {"name":"diffusion","vers":"0.7.2","deps":[{"name":"net2","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c322307f15d7a2b52d401ab2bd0bb942a4b47311dd6ba574cd5b3d6fda8c92de","features":{},"yanked":false}
+{"name":"diffusion","vers":"0.7.3","deps":[{"name":"net2","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8a6579b9245937201a96c635d9f62d673f895c10c5d4ef26698c35f1fe15551","features":{},"yanked":false}
