@@ -1,0 +1,1 @@
+{"name":"ntru","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88a16858ef3dd27577fa7e4807fc09b9283bd9b3b02656c128ef24e699a82b6e","features":{},"yanked":false}
