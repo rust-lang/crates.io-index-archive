@@ -12,3 +12,4 @@
 {"name":"libc","vers":"0.1.11","deps":[],"cksum":"0f005973c230985173e16b763cc28801eb4367d500ebdb85b79f790e9a5c1f7e","features":{"cargo-build":[],"default":["cargo-build"]},"yanked":true}
 {"name":"libc","vers":"0.1.12","deps":[],"cksum":"e32a70cf75e5846d53a673923498228bbec6a8624708a9ea5645f075d6276122","features":{"default":["cargo-build"],"cargo-build":[]},"yanked":false}
 {"name":"libc","vers":"0.2.0","deps":[],"cksum":"fd386f0746b2a12a14f1256fa1ee9a31c584aadcdd0b72b15a4cb59381e60b2d","features":{"default":[]},"yanked":false}
+{"name":"libc","vers":"0.2.1","deps":[],"cksum":"ff7bf059aff5b88320556e113a4b2edbb3ce4a82ed6474d0f2574e8934cb8974","features":{"default":[]},"yanked":false}
