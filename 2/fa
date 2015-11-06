@@ -1,0 +1,1 @@
+{"name":"fa","vers":"0.1.0","deps":[{"name":"libfa-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86936141d010635f44c2d92d8c2b26127e9add4c735963f41b261b1fb3cef1e0","features":{},"yanked":false}
