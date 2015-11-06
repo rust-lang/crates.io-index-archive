@@ -1,0 +1,1 @@
+{"name":"libfa-sys","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pkg-config","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d96bd91806238c80d5b20df90511047de1b52e8256fa93951b9ec4a94c202828","features":{},"yanked":false}
