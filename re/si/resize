@@ -1,1 +1,2 @@
 {"name":"resize","vers":"0.0.1","deps":[{"name":"png","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e2ad31c084ca169b0e10b9b7636cd7f27d0efd67c782a3cc689337f06739a2d3","features":{},"yanked":false}
+{"name":"resize","vers":"0.1.0","deps":[{"name":"png","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e6b5fdaeca0eeb469b15beaae4dea63d28d9d9a94a03c49163cf1cdb3c9f83e5","features":{},"yanked":false}
