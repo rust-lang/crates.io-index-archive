@@ -1,1 +1,2 @@
 {"name":"wayland-scanner","vers":"0.1.0","deps":[{"name":"xml-rs","req":"^0.1.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b391db61b93437d403368055d94946c4b887da6dd269b5f22de3da9915e8488","features":{},"yanked":false}
+{"name":"wayland-scanner","vers":"0.1.1","deps":[{"name":"xml-rs","req":"^0.1.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f3c6e5cf7d8e8c4cd3f7bb2da84d2f7465cf15f4727f98879d870fb83399cbf","features":{},"yanked":false}
