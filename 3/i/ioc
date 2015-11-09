@@ -1,3 +1,4 @@
 {"name":"ioc","vers":"0.0.0","deps":[],"cksum":"86b2fb3c51a12a9923e4d05230f6820590b35c2c39edba9692265715f8331d59","features":{},"yanked":false}
 {"name":"ioc","vers":"0.0.1","deps":[{"name":"downcast","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1b1e9c25911eea540586b873bcaef878b0d7d68485ddef49800313cf7688bd3","features":{},"yanked":false}
 {"name":"ioc","vers":"0.0.2","deps":[{"name":"downcast","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1113ee585378725be9edd76eef3b53ca6aa814275d7212b5c42662af501d043","features":{},"yanked":false}
+{"name":"ioc","vers":"0.0.3","deps":[{"name":"downcast","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd4c18ca5e3322d2246b61eb7327ee9385ea2628392043504acfce27e1d3306a","features":{},"yanked":false}
