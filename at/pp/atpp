@@ -1,1 +1,2 @@
 {"name":"atpp","vers":"0.1.0","deps":[{"name":"byteorder","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74bb060c309505b0f0d48088a288ce1e3c892bb0835a0bef6fced9718d20f854","features":{},"yanked":false}
+{"name":"atpp","vers":"1.6.6","deps":[{"name":"byteorder","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ac68a5f19a537ad5b3a25f9b4a74fb8190ffaa1bd22951bb46bafb9dda51521","features":{},"yanked":false}
