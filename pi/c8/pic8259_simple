@@ -1,0 +1,1 @@
+{"name":"pic8259_simple","vers":"0.1.0","deps":[{"name":"cpuio","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0a16191fc0d205b93c0c3e1eab7e79a7f28b00fd05c95027e65fc516aad2d61","features":{},"yanked":false}
