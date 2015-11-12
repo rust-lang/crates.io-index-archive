@@ -1,0 +1,1 @@
+{"name":"interactor","vers":"0.1.0","deps":[{"name":"termios","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efbfdeeeb0257266d8fbb602b1bfd66937cdacb12bddb22525b76a9f83998cd9","features":{},"yanked":false}
