@@ -1,0 +1,1 @@
+{"name":"maidsafe_utilities","vers":"0.1.0","deps":[{"name":"time","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1641b97c136a76a8d8a012c16d9de71e9b45b95d93631d05c36c74c75a41044c","features":{},"yanked":false}
