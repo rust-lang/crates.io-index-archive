@@ -1,1 +1,2 @@
 {"name":"rcstring","vers":"0.1.0","deps":[{"name":"rlibc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c74897821aeacf1a5535f9233277c1d94a8d15e5c6744ae937bca399b7ccebe","features":{},"yanked":false}
+{"name":"rcstring","vers":"0.1.1","deps":[],"cksum":"9ca3de363658c0ce1ecdbbc0018eeba4c3c4df9598b03616d4594972dfce32da","features":{},"yanked":false}
