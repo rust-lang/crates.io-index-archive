@@ -1,0 +1,1 @@
+{"name":"rsync","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5886fd12026fab3e37c77a94a5c4c036aebd2d3e541dd311a8421de1679d47ad","features":{},"yanked":false}
