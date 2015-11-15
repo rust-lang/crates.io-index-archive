@@ -1,0 +1,1 @@
+{"name":"liquidfun","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1e98eeaaf3f8ea87b98b2137873e1d2c837da95ecfed7f66fdd9fc7b87427cd6","features":{},"yanked":false}
