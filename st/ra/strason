@@ -1,0 +1,1 @@
+{"name":"strason","vers":"0.1.0","deps":[{"name":"encoding","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c95711da6c139a4ffa01dd93f6d32239ba30225118b0a32a1e47992a33385961","features":{},"yanked":false}
