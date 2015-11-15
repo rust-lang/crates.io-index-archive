@@ -1,0 +1,1 @@
+{"name":"cargo-brew","vers":"0.1.2","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"002c514496d418c1f5ddd20a2c31976372bea21d93fcf8b09710e7f8aa43d1b1","features":{},"yanked":false}
