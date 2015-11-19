@@ -1,1 +1,2 @@
 {"name":"ntru","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88a16858ef3dd27577fa7e4807fc09b9283bd9b3b02656c128ef24e699a82b6e","features":{},"yanked":false}
+{"name":"ntru","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60f95e4a8ace31c048998f5c6801d55fd378dea5cef5199ccfac9359e5f8f046","features":{},"yanked":false}
