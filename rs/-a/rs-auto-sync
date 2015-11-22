@@ -1,0 +1,1 @@
+{"name":"rs-auto-sync","vers":"0.1.0","deps":[{"name":"fsevent","req":"^0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"041bae56d5e241281612c183c6a6bfaa33868a63cafa0be6820083f4c19c7278","features":{},"yanked":false}
