@@ -1,0 +1,1 @@
+{"name":"mkstemp","vers":"0.1.0","deps":[{"name":"libc","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03c8e3888ea397607f973979a82782f3582a3d737f40965d35902908977b6e2b","features":{},"yanked":false}
