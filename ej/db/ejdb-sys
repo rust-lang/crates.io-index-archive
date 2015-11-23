@@ -1,0 +1,1 @@
+{"name":"ejdb-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"df90858c001cd05f426eccfe67d2bc5d9bd223e22e5d5c75872ff92bbb3bcbe3","features":{},"yanked":false}
