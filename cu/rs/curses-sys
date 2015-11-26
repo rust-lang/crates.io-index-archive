@@ -1,0 +1,1 @@
+{"name":"curses-sys","vers":"6.0.0-1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a58bb593afa052e16769e06847b767edc8632c7b40708aa6f270f3fc35b2ff1b","features":{"menu":[],"mouse":[],"wide":[],"extensions":[],"default":["wide","mouse","extensions"],"form":[],"panel":[]},"yanked":false}
