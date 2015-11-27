@@ -1,0 +1,1 @@
+{"name":"rlapack","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"782dbbcfaab03ef15b0205e13db638fa666641addf3e9a51f4738d9bd2f0d1b5","features":{},"yanked":false}
