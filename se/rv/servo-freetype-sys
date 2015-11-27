@@ -1,0 +1,1 @@
+{"name":"servo-freetype-sys","vers":"2.4.11","deps":[{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c9287d5d977ad911dc4def3b150feb4b662b21072a728c65adc7851dd7b0b28f","features":{},"yanked":false}
