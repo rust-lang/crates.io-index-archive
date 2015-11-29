@@ -1,0 +1,1 @@
+{"name":"unbound","vers":"0.1.0","deps":[{"name":"unbound-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e33d12952b3d139bf118cdd28ea2f23ae3e05210c69ff2738fafc9e58c9a8619","features":{},"yanked":false}
