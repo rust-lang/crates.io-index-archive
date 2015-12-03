@@ -1,0 +1,1 @@
+{"name":"punycode","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"422bcefe09861eaad30c7ceb5693f696ca67fa14d5c3970de5852ce7886f5656","features":{"default":[],"dev":["clippy"]},"yanked":false}
