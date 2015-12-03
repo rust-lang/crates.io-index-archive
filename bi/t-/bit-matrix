@@ -1,1 +1,2 @@
 {"name":"bit-matrix","vers":"0.0.1","deps":[{"name":"bit-vec","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e0b1bf2db498b9052beccbf505a5607efc7fa28c04b405f7e1e091aa4415c31","features":{},"yanked":false}
+{"name":"bit-matrix","vers":"0.1.0","deps":[{"name":"bit-vec","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18a3373a197a04dc7f6b2e257b6927deec6ac08629ff8c35e524e2bc90c848bb","features":{},"yanked":false}
