@@ -1,0 +1,1 @@
+{"name":"naughty-strings","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14004af1ec6dcabd12952174104cc2b4c61d94d7ac8f9e34a048bd9179d60e9f","features":{},"yanked":false}
