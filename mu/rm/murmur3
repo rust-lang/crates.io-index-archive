@@ -1,0 +1,1 @@
+{"name":"murmur3","vers":"0.0.2","deps":[{"name":"byteorder","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"915e3f48c38caf672f4cc507f6977e25d4d8ea525639fb6dfb298f03d9bd9e74","features":{},"yanked":false}
