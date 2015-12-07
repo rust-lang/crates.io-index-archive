@@ -1,0 +1,1 @@
+{"name":"cudnn-sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b9e684bf4a18a204983af0ce641e1b38fe6873cd7a46b48b0791f0456a701c98","features":{},"yanked":false}
