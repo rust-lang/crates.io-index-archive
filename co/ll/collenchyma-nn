@@ -1,0 +1,1 @@
+{"name":"collenchyma-nn","vers":"0.0.1","deps":[{"name":"clippy","req":"^0.0.27","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d44e7328c239cb84ea2c47bbc283497eb73090a846057e217e002e4cafbde723","features":{"travis":[],"dev":[],"lint":["clippy"]},"yanked":false}
