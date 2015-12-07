@@ -1,0 +1,1 @@
+{"name":"collenchyma-blas","vers":"0.0.1","deps":[{"name":"clippy","req":"^0.0.27","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c738cfe4d4c67f7e5a77d06e759d241f5eee63c54b05b5ebd3e17d2706731e4","features":{"travis":[],"lint":["clippy"],"dev":[]},"yanked":false}
