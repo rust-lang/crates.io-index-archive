@@ -1,1 +1,2 @@
 {"name":"quick-csv","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"303d7a32ce9f90979607dc564f4c151c55591926df33e77d0e235d41744b647e","features":{},"yanked":false}
+{"name":"quick-csv","vers":"0.1.2","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac8db2e26f825e41333b4ed78e06e3c3321806f9b30d36c422e24d08cc26d637","features":{},"yanked":false}
