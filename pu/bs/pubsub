@@ -1,0 +1,1 @@
+{"name":"pubsub","vers":"0.2.0","deps":[{"name":"threadpool","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b8c3a2f14e32136eb1176054bf602cb820024162ea00f241c80502d9b67d85d","features":{},"yanked":false}
