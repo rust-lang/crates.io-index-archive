@@ -1,1 +1,2 @@
 {"name":"pubsub","vers":"0.2.0","deps":[{"name":"threadpool","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b8c3a2f14e32136eb1176054bf602cb820024162ea00f241c80502d9b67d85d","features":{},"yanked":false}
+{"name":"pubsub","vers":"0.2.1","deps":[{"name":"threadpool","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93aa3eada7e27f6b6d9fbf6faf66326cb2b28ba10d85b48215b222fe3b295307","features":{},"yanked":false}
