@@ -1,1 +1,2 @@
 {"name":"xplm-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c2be559683905f9b65df338787e93e1ea42a182daaacd0fa51f950703620870","features":{},"yanked":false}
+{"name":"xplm-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d20c673826734df74439aa3f412f2889fa4e01a26661aacf410ae227f14f098","features":{},"yanked":false}
