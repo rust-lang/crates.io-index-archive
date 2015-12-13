@@ -1,0 +1,1 @@
+{"name":"xplm-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c2be559683905f9b65df338787e93e1ea42a182daaacd0fa51f950703620870","features":{},"yanked":false}
