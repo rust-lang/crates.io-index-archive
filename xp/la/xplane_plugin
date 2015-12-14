@@ -1,0 +1,1 @@
+{"name":"xplane_plugin","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20a8a16503b58f667f33c285ebe6391eef2c58622f055d5ca4ed8b70630113b5","features":{},"yanked":false}
