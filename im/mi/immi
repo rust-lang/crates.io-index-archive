@@ -1,1 +1,2 @@
 {"name":"immi","vers":"0.1.0","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"776c2e6af001c88dbd80caad615430a12a3e9009aa016dc71a47810ff076c03d","features":{},"yanked":false}
+{"name":"immi","vers":"0.1.1","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26070492af2848760ca80524000cd02fb7819446dfed5f12bdb30fd67ae2fd50","features":{},"yanked":false}
