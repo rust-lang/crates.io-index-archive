@@ -1,0 +1,1 @@
+{"name":"subcmd","vers":"0.0.1","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eaa4014f9e018e4c76b9bf68b6ef43291b8fae3e61d05d43aa24be0af138abf9","features":{},"yanked":false}
