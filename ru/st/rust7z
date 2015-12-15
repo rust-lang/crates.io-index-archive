@@ -1,0 +1,1 @@
+{"name":"rust7z","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1a04fc3373d997ed118c7bcb2c8740fa0f1cf13ddb1b7721f7a1ec5ca39ab893","features":{},"yanked":false}
