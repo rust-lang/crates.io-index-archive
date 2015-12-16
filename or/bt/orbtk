@@ -1,0 +1,1 @@
+{"name":"orbtk","vers":"0.0.1","deps":[{"name":"sdl2_ttf","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sdl2","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc4de45eef0585233e4f1c355d8c30b180475f61ae7ecade6fb253c2b5e01312","features":{},"yanked":false}
