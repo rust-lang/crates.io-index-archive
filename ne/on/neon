@@ -1,0 +1,1 @@
+{"name":"neon","vers":"0.0.10","deps":[{"name":"neon-sys","req":"^0.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ac898c6748024910670a42feae68250e5c70cb98c5e9b8560b9339533a93c53","features":{},"yanked":false}
