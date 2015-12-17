@@ -1,0 +1,1 @@
+{"name":"neon-sys","vers":"0.0.7","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bfc6abf3b35fb7d769e539f5e090fda7b5af3aee0925462851d8e20377c5c55a","features":{},"yanked":false}
