@@ -1,0 +1,1 @@
+{"name":"evic","vers":"0.1.0","deps":[{"name":"clippy","req":"*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"getopts","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac68a3f3d965ca4528e5d19ccbd31802409dd040e04396dd29dacfa9ec0b7f9c","features":{},"yanked":false}
