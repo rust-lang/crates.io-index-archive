@@ -1,1 +1,2 @@
 {"name":"neon","vers":"0.0.10","deps":[{"name":"neon-sys","req":"^0.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ac898c6748024910670a42feae68250e5c70cb98c5e9b8560b9339533a93c53","features":{},"yanked":false}
+{"name":"neon","vers":"0.1.0","deps":[{"name":"neon-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9738f309ffe4dcdf833facf0c314e7bfee7f41b77ac29289d159aed0bbd04c5","features":{},"yanked":false}
