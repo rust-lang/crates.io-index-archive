@@ -1,0 +1,1 @@
+{"name":"cadence","vers":"0.1.0","deps":[{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"env_logger","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1cc4925bcec864dc85ccd6baf48d63ad93fb9f360482e6b2e506b03704aa7f22","features":{},"yanked":false}
