@@ -1,0 +1,1 @@
+{"name":"oniguruma","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"bitflags","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2334b1dc76ad506919a2a5bf2603c566b154b4253ede1590318cf9ed83486a94","features":{},"yanked":false}
