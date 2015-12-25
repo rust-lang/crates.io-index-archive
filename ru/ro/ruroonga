@@ -2,3 +2,4 @@
 {"name":"ruroonga","vers":"0.2.0","deps":[],"cksum":"f781aa0fab6d6b6b6dcec0ba9459602bd29616090351b074eceb534436562a1b","features":{},"yanked":false}
 {"name":"ruroonga","vers":"0.2.1","deps":[],"cksum":"08fc7a9022ce0ae702630ab3ad5c1252fd63e8de1ed42a43444dfaaa69305952","features":{},"yanked":false}
 {"name":"ruroonga","vers":"0.3.0","deps":[],"cksum":"82ed2fab5d465903f93030692bd7f486758768ab7d427f25cbe88071eecfb7ae","features":{},"yanked":false}
+{"name":"ruroonga","vers":"0.4.0","deps":[{"name":"groonga-sys","req":"~0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0aff9a1b7f47ec1d41644cb2c5a159b0212ec98712d07650f3b721ebf11a812b","features":{},"yanked":false}
