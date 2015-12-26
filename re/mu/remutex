@@ -1,0 +1,1 @@
+{"name":"remutex","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43c26496032ea5263af07cc124e1a8297b04dd740b007e42ef782754fe430a52","features":{},"yanked":false}
