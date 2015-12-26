@@ -20,3 +20,4 @@
 {"name":"semver","vers":"0.1.19","deps":[],"cksum":"b3023e47a2f7047de53b9434d24bef3fb81b674fb262336ec56450338dcd11ba","features":{},"yanked":false}
 {"name":"semver","vers":"0.1.20","deps":[],"cksum":"d4f410fedcf71af0345d7607d246e7ad15faaadd49d240ee3b24e5dc21a820ac","features":{},"yanked":false}
 {"name":"semver","vers":"0.2.0","deps":[],"cksum":"2bb68dbe627d4b357630447d9086f759edc1a7e50fe94a515d257ea2b9b2cfc9","features":{},"yanked":false}
+{"name":"semver","vers":"0.2.1","deps":[{"name":"nom","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempdir","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"crates-index","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"97e6cdc70cdfc01ab133afad0d54bfcbaaf8fca5bde72b3c9bf8642a8978921d","features":{"ci":[],"default":[]},"yanked":false}
