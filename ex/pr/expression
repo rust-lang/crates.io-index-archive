@@ -1,1 +1,2 @@
 {"name":"expression","vers":"0.1.0","deps":[{"name":"asexp","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34a5b089b1a8572ecb4a086519135db5adfae1622574b9542724297513bfca47","features":{},"yanked":false}
+{"name":"expression","vers":"0.2.0","deps":[{"name":"asexp","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1222688826902620c87fcb7b4ce96eaadffe9273c6883b542399a0e0b5b95dd1","features":{},"yanked":false}
