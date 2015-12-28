@@ -1,0 +1,1 @@
+{"name":"z3-sys","vers":"0.1.0","deps":[{"name":"va_list","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09ad369c3bebfb2b5585060ce765c1e0c4896b5a3bc58dd3870e9f73c0209b98","features":{},"yanked":false}
