@@ -1,0 +1,1 @@
+{"name":"tldr","vers":"0.1.0","deps":[{"name":"hyper","req":">= 0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f278d04825bc68bf2ff54cb841482931164070c61269944ee36cc960d0132ff","features":{},"yanked":false}
