@@ -1,1 +1,2 @@
 {"name":"rusty-cheddar","vers":"0.1.0","deps":[{"name":"clippy","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da183368a81319b4414a6f3ef5c5c1e0193cf5f2f85b28439b89f1ac699ec4fd","features":{},"yanked":false}
+{"name":"rusty-cheddar","vers":"0.2.0","deps":[],"cksum":"33160a4dc50036d2c4ad4ebe3f87003f807095a99edccd12a4c683fcd42a91ea","features":{},"yanked":false}
