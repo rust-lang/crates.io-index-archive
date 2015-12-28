@@ -7,3 +7,4 @@
 {"name":"unicase","vers":"1.0.0","deps":[],"cksum":"cb874ebe26bbb9a961e2da8ba26c409a37ea371d0137663605830799b26f303a","features":{},"yanked":false}
 {"name":"unicase","vers":"1.0.1","deps":[],"cksum":"90f210c8e5bc9dfffbb268e2c45abd07d853670078d8383fcd7cbaeae2d7e94d","features":{},"yanked":false}
 {"name":"unicase","vers":"1.1.0","deps":[],"cksum":"305831f6dc1c00f2609eeb98854c2199f5fb11e3118881fcbbf49e5f48bf5ab9","features":{},"yanked":false}
+{"name":"unicase","vers":"1.1.1","deps":[{"name":"rustc_version","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e91a4c659c62382ac88635973049b50b22b8f648ef604967bf5aa5a4cbef7b4f","features":{},"yanked":false}
