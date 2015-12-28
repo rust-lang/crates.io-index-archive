@@ -3,3 +3,4 @@
 {"name":"netmap_sys","vers":"0.0.10","deps":[],"cksum":"3685b1ec6bef0b3a397c5f99959330daff8d08775097598b304f331105580ab0","features":{"netmap_with_libs":[],"default":[]},"yanked":false}
 {"name":"netmap_sys","vers":"0.0.11","deps":[],"cksum":"029d0dc447a5c3c2546600f99b68a006e05581d2856627c21ca432086cfd2464","features":{"netmap_with_libs":[],"default":[]},"yanked":false}
 {"name":"netmap_sys","vers":"0.0.12","deps":[],"cksum":"856c7aec1a44fd52d7015c047d3fec508d63de4040d39fdd388827bf6ab82c79","features":{"netmap_with_libs":[],"default":[]},"yanked":false}
+{"name":"netmap_sys","vers":"0.0.13","deps":[],"cksum":"622d93ed4757cfa98cd2e3c4d2aeb065a17c7a53c5c07f1331344f5981b5a408","features":{"default":[],"netmap_with_libs":[]},"yanked":false}
