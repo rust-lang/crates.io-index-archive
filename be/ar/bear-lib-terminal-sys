@@ -1,0 +1,1 @@
+{"name":"bear-lib-terminal-sys","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0903bb91b80bef4a90007e4d112176b0553f64d687fa9929c10a64a7f1827f86","features":{},"yanked":false}
