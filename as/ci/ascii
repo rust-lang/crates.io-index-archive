@@ -14,3 +14,4 @@
 {"name":"ascii","vers":"0.5.2","deps":[],"cksum":"a840360f398dbe7b81a1e2ac77c1193e259c58a74383e620faebd8e79ecd265c","features":{"unstable":[]},"yanked":false}
 {"name":"ascii","vers":"0.5.3","deps":[],"cksum":"3d0b15d14e78fa26b1e5359e721f1dde307ef007e85b49509928c6a11d70394f","features":{"unstable":[]},"yanked":false}
 {"name":"ascii","vers":"0.5.4","deps":[],"cksum":"cf6321593ca5d3390f05c13336052256d1e82a8f981344384fb746ba10b8cb3e","features":{"unstable":[]},"yanked":false}
+{"name":"ascii","vers":"0.6.0","deps":[],"cksum":"8322065af5156f9929edb627296c6d8697f95c74d7d4f1cea23333c32775de65","features":{"unstable":[]},"yanked":false}
