@@ -1,0 +1,1 @@
+{"name":"cargo-bump","vers":"0.0.0","deps":[{"name":"clap","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cargo","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f3eb31701d9314822ad7fcfd99b4290552db98663cabe8bf21f72e9a2c128cc","features":{},"yanked":false}
