@@ -1,0 +1,1 @@
+{"name":"sel4","vers":"0.0.1","deps":[{"name":"sel4-sys","req":"^0.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17bbbe574092218eefd61de56e101e3730c40db8803584e672c484bd79d03d3f","features":{"unstable":[]},"yanked":false}
