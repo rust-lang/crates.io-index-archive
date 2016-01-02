@@ -1,0 +1,1 @@
+{"name":"mtbl-sys","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempfile","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d1decaa5c22328c35bc73d7a2829df5bef069cc3afb4ef6eba512c3f4fef0e5f","features":{},"yanked":false}
