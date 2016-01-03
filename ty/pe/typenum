@@ -6,3 +6,4 @@
 {"name":"typenum","vers":"1.0.1","deps":[],"cksum":"d9d35a49c439669798f6c23e5042569d5fe73e5c1b86c67669b814c8aaec5c0a","features":{},"yanked":false}
 {"name":"typenum","vers":"1.0.2","deps":[],"cksum":"600670fbed1436118fc28b17511087c8cfe8a7fc0814e86997eb7d22ef866365","features":{},"yanked":false}
 {"name":"typenum","vers":"1.1.0","deps":[],"cksum":"406fb0e508a27a80e163865c5b3325f2fdcd49450a7f43af9c61848ace00862e","features":{"no_std":[]},"yanked":false}
+{"name":"typenum","vers":"1.2.0","deps":[],"cksum":"f1fa2cf7d3d8d1b9c8e015112156c2ce6c9564c5313e49163b09cf9065465665","features":{"no_std":[]},"yanked":false}
