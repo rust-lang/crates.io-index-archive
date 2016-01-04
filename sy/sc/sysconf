@@ -1,1 +1,2 @@
 {"name":"sysconf","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be72e7128262fbd8dcb2e3eecee6135ed1611e0a9d63feca600b4a19f297eb49","features":{},"yanked":false}
+{"name":"sysconf","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1cdea6c3efe3db2d9e5a77ec9cf56a6934a9bff43464589422c699989519a3ea","features":{},"yanked":false}
