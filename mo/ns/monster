@@ -5,3 +5,4 @@
 {"name":"monster","vers":"0.1.5","deps":[],"cksum":"e831453c7aa4b6dda473a63b4366aee3698201e2ed8f1ce4a48acae730c1d9db","features":{},"yanked":false}
 {"name":"monster","vers":"0.1.6","deps":[],"cksum":"18fd3513470fbeb47b618d65bf3125166ccaaf93ac322e1a7a7c6479bd1a019f","features":{"default":[],"unstable":[]},"yanked":false}
 {"name":"monster","vers":"0.1.7","deps":[],"cksum":"1f86ce949cce73dd1922942171ef579007988d15a68de49d7f24a8aeb6e231f8","features":{"default":[],"unstable":[]},"yanked":false}
+{"name":"monster","vers":"0.1.8","deps":[],"cksum":"894ef0ca34c4aff009ff5ccf6c600452d445f4ce21ff1a62705a0798c576aedb","features":{"unstable":[],"default":[]},"yanked":false}
