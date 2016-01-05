@@ -1,1 +1,2 @@
 {"name":"rustv","vers":"0.1.0","deps":[{"name":"elfloader","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e71f90c73103410ac6bc3fbaf3b583dcd66a4069bbbcca5068d91f92a8550d17","features":{},"yanked":false}
+{"name":"rustv","vers":"0.2.0","deps":[{"name":"elfloader","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95352ef3943a74fc0c69a72ad8bef4702799b68974af347974762eee278909a3","features":{},"yanked":false}
