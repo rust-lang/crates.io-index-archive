@@ -1,0 +1,1 @@
+{"name":"progress","vers":"0.1.0","deps":[{"name":"terminal_size","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3fa76c2d873a9ad3079b5380822853ae98c07807c89a7ddda209b58e7d2d154c","features":{},"yanked":false}
