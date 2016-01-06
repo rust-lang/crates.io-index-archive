@@ -4,3 +4,4 @@
 {"name":"bloodhound","vers":"0.1.2","deps":[],"cksum":"38f3ae73f879ffc7b9283d0e13f633dc2914e3964b0fa9782401143fcb33b7dd","features":{},"yanked":false}
 {"name":"bloodhound","vers":"0.2.0","deps":[],"cksum":"0d34859230e56de5ecfaf04fdea4a65ab7c2d5d0f0f8568436eb08362376f62e","features":{},"yanked":false}
 {"name":"bloodhound","vers":"0.2.1","deps":[],"cksum":"29dfcbf2f02baeb7609efec81dbf39f0cf594992636aba915615583a59c594c6","features":{},"yanked":false}
+{"name":"bloodhound","vers":"0.2.2","deps":[{"name":"walkdir","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ce91994d2d816ef894bea354f43cd2ac83fa2dcd15e83febf08d152728635a9","features":{},"yanked":false}
