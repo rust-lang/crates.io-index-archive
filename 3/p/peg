@@ -19,3 +19,4 @@
 {"name":"peg","vers":"0.3.4","deps":[],"cksum":"1c942e7d3b7651b5a9f8cf2891f201ed9723c2d95ad9ef3055f75016e626406c","features":{"trace":[]},"yanked":false}
 {"name":"peg","vers":"0.3.5","deps":[],"cksum":"02585279583f41f5bfefe339e7b30d5c7055ac3eccff4b5258804b0ba2687e3f","features":{"trace":[]},"yanked":false}
 {"name":"peg","vers":"0.3.6","deps":[],"cksum":"a9e304d1faf53bdc2c4f1fd7cd910064156505a1456a658d4546a867dac876d2","features":{"trace":[]},"yanked":false}
+{"name":"peg","vers":"0.3.7","deps":[],"cksum":"7bf28564ff19c6285c1148aafd59572de0d9324947344fa45f647fbf0282a268","features":{"trace":[]},"yanked":false}
