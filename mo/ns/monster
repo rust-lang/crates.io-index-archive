@@ -7,3 +7,4 @@
 {"name":"monster","vers":"0.1.7","deps":[],"cksum":"1f86ce949cce73dd1922942171ef579007988d15a68de49d7f24a8aeb6e231f8","features":{"default":[],"unstable":[]},"yanked":false}
 {"name":"monster","vers":"0.1.8","deps":[],"cksum":"894ef0ca34c4aff009ff5ccf6c600452d445f4ce21ff1a62705a0798c576aedb","features":{"unstable":[],"default":[]},"yanked":false}
 {"name":"monster","vers":"0.1.9","deps":[],"cksum":"cecfb97635131e4be18c112824c767b31b8cb99be306dfa0576c832aad1955de","features":{"default":[],"unstable":[]},"yanked":false}
+{"name":"monster","vers":"0.1.10","deps":[{"name":"lazy_static","req":"^0.1.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7a41cbdec7a1397eb0c11190d566ab34e73f69d18348b910be6b42787aa5e319","features":{"unstable":[],"default":[]},"yanked":false}
