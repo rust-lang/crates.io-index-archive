@@ -1,0 +1,1 @@
+{"name":"bspc","vers":"0.4.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"unix_socket","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c86f49830c8d41cf3d5ddd36b8e0b4a9c8211c7f3d5062310391b321b590b9d","features":{},"yanked":false}
