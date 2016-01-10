@@ -1,1 +1,2 @@
 {"name":"plague","vers":"0.2.0","deps":[{"name":"compiletest_rs","req":"^0.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6b89774d96c83617ce5b6efa57973321802d2fce20f103224c53c438a708e9a4","features":{},"yanked":false}
+{"name":"plague","vers":"0.3.0","deps":[{"name":"compiletest_rs","req":"^0.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b792b87d66479ceff4bf219e56f5e57f0b6a86b22ee49a18a3ee1ae48febf51b","features":{},"yanked":false}
