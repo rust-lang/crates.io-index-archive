@@ -1,0 +1,1 @@
+{"name":"plague","vers":"0.2.0","deps":[{"name":"compiletest_rs","req":"^0.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6b89774d96c83617ce5b6efa57973321802d2fce20f103224c53c438a708e9a4","features":{},"yanked":false}
