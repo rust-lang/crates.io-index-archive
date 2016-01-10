@@ -10,3 +10,4 @@
 {"name":"scgi","vers":"0.1.1","deps":[],"cksum":"3d928c8a1bdc91122f3349f9d6ffa716f95a7ea5036669a93487bda9a49edded","features":{},"yanked":false}
 {"name":"scgi","vers":"0.2.0","deps":[{"name":"bufstream","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3191bda03cd26bf19eea1e34d4c5a4f28c487f57319791bf27185ca77d9706f9","features":{},"yanked":false}
 {"name":"scgi","vers":"0.3.0","deps":[{"name":"bufstream","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0327161660741c1b3155176d21f5cefaef2819f0e8f10061ae04a5302ee5a184","features":{},"yanked":false}
+{"name":"scgi","vers":"0.3.1","deps":[{"name":"bufstream","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"325acffd5de4241e42289a9addac99e2b6ce0dee30869910022f9ecbd9d74119","features":{},"yanked":false}
