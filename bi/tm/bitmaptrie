@@ -1,1 +1,2 @@
 {"name":"bitmaptrie","vers":"0.9.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c63084adc689a88bd6991592e28deb660b9045d6a0fc728c118abf421713e5fe","features":{},"yanked":false}
+{"name":"bitmaptrie","vers":"1.0.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"43bb265d8fa370f207668f38bf74c3b19a0ff72bea6609d639c1145dc058e3d8","features":{},"yanked":false}
