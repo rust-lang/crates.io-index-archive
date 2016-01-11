@@ -1,1 +1,2 @@
 {"name":"bip_bencode","vers":"0.1.0","deps":[],"cksum":"a9ccb74aa170f4d9755d872c5da58fec4fd5add653461b498b724b87162d3687","features":{},"yanked":false}
+{"name":"bip_bencode","vers":"0.1.1","deps":[],"cksum":"004756298009b59bfc5f6bdafc63c4fb64621239b628c6374c79c09a8eebaf98","features":{"unstable":[]},"yanked":false}
