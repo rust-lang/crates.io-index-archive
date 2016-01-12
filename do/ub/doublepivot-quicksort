@@ -1,0 +1,1 @@
+{"name":"doublepivot-quicksort","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"06fbee6f68524ac218cfa7bc9bfecb25df37b46bd3d692d59f3f66e447985c72","features":{},"yanked":false}
