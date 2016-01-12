@@ -1,0 +1,1 @@
+{"name":"rwlock2","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a9b8bdc77736da155daefe3b9f64166bd05ffc7fce0c74c9b35d3d36c2877060","features":{},"yanked":false}
