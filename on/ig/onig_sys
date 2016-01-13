@@ -1,0 +1,1 @@
+{"name":"onig_sys","vers":"0.1.0","deps":[{"name":"bitflags","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5de6fcbfb134dcf13825eff8c62a378b5030e2950cd70f5c149bb13ce055d011","features":{},"yanked":false}
