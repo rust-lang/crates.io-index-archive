@@ -6,3 +6,4 @@
 {"name":"guard","vers":"0.2.3","deps":[],"cksum":"ca3aff5a043efe84ff4316ab5055337148992d82ff2495effe52a71ad5e6ac65","features":{"nightly":[],"debug":[]},"yanked":true}
 {"name":"guard","vers":"0.2.4","deps":[],"cksum":"f0630a000aa8683f2e8b23b35d149787df9daf6af3b50123961ad2b52dc7db97","features":{"debug":[],"nightly":[]},"yanked":false}
 {"name":"guard","vers":"0.2.5","deps":[],"cksum":"ac0e041bfb08d070b885f3fdd92cf099f832ead3c2b56709778cc44aaf1e2d65","features":{"nightly":[],"debug":[]},"yanked":false}
+{"name":"guard","vers":"0.2.6","deps":[],"cksum":"e3345b4c8f6d71e372147ba7c7d397941673de900c0eed00c121c192a0cca62a","features":{"nightly":[],"debug":[]},"yanked":false}
