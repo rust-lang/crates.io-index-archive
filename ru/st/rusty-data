@@ -1,1 +1,2 @@
 {"name":"rusty-data","vers":"0.0.1","deps":[],"cksum":"e7154714429b4840e708187b93a04b20b5dc6db969d80ec4cdbf791dabd99fcd","features":{},"yanked":false}
+{"name":"rusty-data","vers":"0.0.2","deps":[{"name":"num","req":"^0.1.28","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ae16edbb99cde7d8637114cd8b3f357a8d1bbde1ff7bfa113a88f0796174b405","features":{},"yanked":false}
