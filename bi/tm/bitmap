@@ -2,4 +2,4 @@
 {"name":"bitmap","vers":"1.0.1","deps":[],"cksum":"f8b3439489d8dd71089f22bb47764f3c68b77cab1ad596f734b43a60f58db537","features":{},"yanked":false}
 {"name":"bitmap","vers":"1.0.1-cargo1","deps":[],"cksum":"3fcbab19051015196774f1ac2b3d9177237c915837c01d5b37eb2e93509e0fe0","features":{},"yanked":false}
 {"name":"bitmap","vers":"1.0.2","deps":[{"name":"quickcheck","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fca4f8e6ad8df5ad2389cd23e177916c7f599d4574387b9553f329c6ba98e470","features":{},"yanked":false}
-{"name":"bitmap","vers":"2.0.0","deps":[{"name":"quickcheck","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a940d0f1ca716139914c7ef36032f2a355ba0c354fe8052fa4c28cdf72d78573","features":{},"yanked":false}
+{"name":"bitmap","vers":"2.0.0","deps":[{"name":"quickcheck","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a940d0f1ca716139914c7ef36032f2a355ba0c354fe8052fa4c28cdf72d78573","features":{},"yanked":true}
