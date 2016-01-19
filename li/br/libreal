@@ -2,3 +2,4 @@
 {"name":"libreal","vers":"0.1.1","deps":[],"cksum":"177b29e3197187cf1a38bbe08554428aba56c94a6e1eef02e3f9582e3fcf2ddf","features":{},"yanked":false}
 {"name":"libreal","vers":"0.2.0","deps":[],"cksum":"183d718d1f6dd869e614c565cd56779e1437bd9c0c3b92e7c27806afc5858b08","features":{},"yanked":false}
 {"name":"libreal","vers":"0.2.1","deps":[],"cksum":"8956660babc255f9d9727709e5ba26ced4a83e0e92baec0efd89f96bd3bb4a5c","features":{},"yanked":false}
+{"name":"libreal","vers":"0.3.0","deps":[{"name":"quickcheck","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"quickcheck_macros","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ecf9ae9d25403bbb6de631dd3b5a936815cb2a5912ad4eeb1b240eeac28d7118","features":{},"yanked":false}
