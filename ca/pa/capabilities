@@ -1,1 +1,2 @@
 {"name":"capabilities","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15b69fb8d2c2e2ea2526ff639780ab6dd2c86ab78b760bde7ad723e6ef8e49a2","features":{},"yanked":false}
+{"name":"capabilities","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2077b73da0419b3a5fe4a2dcee4ba4c5ecbdf0cc700f3ce4d7f06ba4cd05746e","features":{},"yanked":false}
