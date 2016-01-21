@@ -1,0 +1,1 @@
+{"name":"resolv-conf","vers":"0.1.0","deps":[{"name":"nom","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"480405d7fc1f78c286880a3596db63c1b3a16ce6469289dc8802d4f1ed137e30","features":{},"yanked":false}
