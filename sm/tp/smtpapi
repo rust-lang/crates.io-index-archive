@@ -1,0 +1,1 @@
+{"name":"smtpapi","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cf5d18836b9b959bfad35d7d5f33aa44ffe5e83f543350f163396a0ebb765fab","features":{},"yanked":false}
