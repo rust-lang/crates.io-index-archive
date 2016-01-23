@@ -7,3 +7,4 @@
 {"name":"openblas-provider","vers":"0.1.5","deps":[],"cksum":"bba20122e5e7431ef719ba037378405fffbf47505f280f785be97d3f61c8ffcf","features":{"static-openblas":[],"exclude-cblas":[],"system-openblas":[]},"yanked":false}
 {"name":"openblas-provider","vers":"0.1.6","deps":[],"cksum":"ab3bccff82af7fef1fb2b866cedbfa2c35cb5b092420b540ff597ea4c227a1c0","features":{"static-openblas":[],"exclude-cblas":[],"system-openblas":[]},"yanked":false}
 {"name":"openblas-provider","vers":"0.1.7","deps":[],"cksum":"175cde5128d937b3a656f5dd49b53ee4eafd521de96bb0a9bfc177afc5dc9ad4","features":{"system-openblas":[],"exclude-cblas":[],"static-openblas":[]},"yanked":false}
+{"name":"openblas-provider","vers":"0.2.0","deps":[],"cksum":"a906743f3446daf4c7420c2ff8fbf99916a2410cab7a7ec4e77ca40b0477796c","features":{"system-openblas":[],"static-openblas":[],"exclude-cblas":[]},"yanked":false}
