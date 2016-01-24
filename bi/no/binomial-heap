@@ -1,0 +1,1 @@
+{"name":"binomial-heap","vers":"0.1.0","deps":[{"name":"quickcheck","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"69d03e5df94d295ead760d92924474e65d3b5eaff6f3df98699207b2ce205e60","features":{"binary_heap_extras":[]},"yanked":false}
