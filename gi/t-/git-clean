@@ -1,0 +1,1 @@
+{"name":"git-clean","vers":"0.2.0","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8aa9844e9022150c891038f1e24b65dd589ae3d368629e481be715ff16dcbfc","features":{},"yanked":false}
