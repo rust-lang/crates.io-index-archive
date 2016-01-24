@@ -1,1 +1,2 @@
 {"name":"socks","vers":"0.1.0","deps":[{"name":"byteorder","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"776e190e03af20e1d633944aa97dabf694e38a3c72d3b3e2c3181d3fa8484cd5","features":{},"yanked":false}
+{"name":"socks","vers":"0.2.0","deps":[{"name":"byteorder","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d99075b92b3e4780b018dd3f08f0b6fdb2ecadc054f48e5a2268ef560ec2890b","features":{},"yanked":false}
