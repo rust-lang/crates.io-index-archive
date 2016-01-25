@@ -1,0 +1,1 @@
+{"name":"alloc_hoard","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8a6c3cb5357888afb994fc496bc85d389d57b09cd219eb2c66d0cf7616160920","features":{},"yanked":false}
