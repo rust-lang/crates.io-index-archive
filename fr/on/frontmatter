@@ -1,1 +1,2 @@
 {"name":"frontmatter","vers":"0.1.0","deps":[{"name":"yaml-rust","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17dddc4c45a40704ce2d0eb8c556b5eb837e533ca20954230b5d0002e9b33633","features":{},"yanked":false}
+{"name":"frontmatter","vers":"0.1.1","deps":[{"name":"yaml-rust","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca2e36cb85a220b57eea69f0fbb3188eadcca29236ba0590154eef28f5bb385c","features":{},"yanked":false}
