@@ -1,0 +1,1 @@
+{"name":"amethyst_renderer","vers":"0.2.0","deps":[{"name":"gfx","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea572b0a9d07fc689c5c4e7eb0ab4022a8b1bf44ce23a8d93205248eae0a7b20","features":{},"yanked":false}
