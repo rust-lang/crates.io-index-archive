@@ -7,3 +7,4 @@
 {"name":"crossbeam","vers":"0.1.6","deps":[],"cksum":"119610ffbc5caabb7ae37f086b7b9343cef24e37d7282b98ce0d945175786465","features":{"nightly":[]},"yanked":false}
 {"name":"crossbeam","vers":"0.2.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2936a613f4ff51ec03e1d8ee094830df377d1be57d263c8059dc82ebd2b2c0f4","features":{"nightly":[]},"yanked":false}
 {"name":"crossbeam","vers":"0.2.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"38802a80ed390ac619819f9032b823ee80a63300ec427d7ed1f6001db9737be1","features":{"nightly":[]},"yanked":false}
+{"name":"crossbeam","vers":"0.2.2","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"789ea692c6a5dbdeec2605d64a1f7b8015be113895c16fda1667104d0d050d7a","features":{"nightly":[]},"yanked":false}
