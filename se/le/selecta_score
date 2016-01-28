@@ -1,1 +1,2 @@
 {"name":"selecta_score","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5d3c818f22a0a4bf56694b91f321828062056674f8cf980ab29be3af61c057c","features":{},"yanked":false}
+{"name":"selecta_score","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c14dd65c117e67cb535880c7354e3e6f3abdabc892c296376f999a168d4505e","features":{},"yanked":false}
