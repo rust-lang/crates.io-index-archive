@@ -1,1 +1,2 @@
 {"name":"test-assembler","vers":"0.1.0","deps":[{"name":"byteorder","req":"^0.3.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"816a17b09632b41296910a84cc6ef1a340fc43703cde81b00ff859d632201c6e","features":{},"yanked":false}
+{"name":"test-assembler","vers":"0.1.1","deps":[{"name":"byteorder","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e73e91bfc243f458d3966ceb9b6a68f1747b911027a7ade88077b636fc1e8268","features":{},"yanked":false}
