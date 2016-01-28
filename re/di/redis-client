@@ -3,3 +3,4 @@
 {"name":"redis-client","vers":"0.2.0","deps":[],"cksum":"bfa2cf3fb394319f5ad387422dc38f42bc1260fa70d27ffa58753207f7a623d7","features":{},"yanked":false}
 {"name":"redis-client","vers":"0.3.0","deps":[],"cksum":"64e751be553e154f2b0a2230d7e71af54d537edeff45e69c46ab9c21911d7589","features":{},"yanked":false}
 {"name":"redis-client","vers":"0.4.0","deps":[],"cksum":"570ed02c0b6ed03828516c12accc23ac65f25dbb4f278eddd60628a40bc0124e","features":{},"yanked":false}
+{"name":"redis-client","vers":"0.4.1","deps":[{"name":"rand","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f02bbd4f6f3ab4d9e124f5399c572692fda851001039790a1ba0fbc11c5a75e","features":{},"yanked":false}
