@@ -1,0 +1,1 @@
+{"name":"leaky-cow","vers":"0.1.0","deps":[{"name":"leak","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b91b486953f3a0c362fde4daf944405dbd5de7e5bd6c0c9d6764232bd3c5ccbc","features":{},"yanked":false}
