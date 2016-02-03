@@ -1,2 +1,3 @@
 {"name":"ears","vers":"0.3.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd1917646ae5da84124b23ae40e4d874ddecf8194b82201465a5d4aa92fea82b","features":{},"yanked":false}
 {"name":"ears","vers":"0.3.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a347d7a829ac1f684836342aa545979363c1511988ed760d4d76949e66ba50ff","features":{},"yanked":false}
+{"name":"ears","vers":"0.3.3","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7721b4cc8be3e44d615322e45aa4e761e19aad92e14f09d9e7e911aa5031bcae","features":{},"yanked":false}
