@@ -1,0 +1,1 @@
+{"name":"wordnet_stemmer","vers":"0.1.0","deps":[{"name":"farmhash","req":"^1.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b42b029dd55b6f9aee99972bf9091cc092c08edf93bd27e41a64db335eab6d9","features":{},"yanked":false}
