@@ -8,3 +8,4 @@
 {"name":"tobj","vers":"0.0.8","deps":[],"cksum":"9b7f780a00379ee7eb57d450fb2f9ba495909668317be9c0cc743a781122fc15","features":{"unstable":[]},"yanked":false}
 {"name":"tobj","vers":"0.0.9","deps":[],"cksum":"9d50e0e52d95d4964d092476edbd7623a4cefd771580ec7831ea186ba539c910","features":{"unstable":[]},"yanked":false}
 {"name":"tobj","vers":"0.1.0","deps":[],"cksum":"acc08335768b83ade58dd2ea4890f7addd9aa3a77cd4b58206192bd5c3a4c06c","features":{"unstable":[]},"yanked":false}
+{"name":"tobj","vers":"0.1.1","deps":[{"name":"clippy","req":"^0.0.37","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73a4e298e478ca608ac5081a7ae45d74dd4365fb385e415d372fc1b0aec4ce28","features":{"unstable":["clippy"]},"yanked":false}
