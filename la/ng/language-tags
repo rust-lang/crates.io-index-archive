@@ -8,3 +8,4 @@
 {"name":"language-tags","vers":"0.0.8","deps":[],"cksum":"c21a0dc21317ebe6a90425416b93711b926f7b9964c16c3750e2100c2d5218e4","features":{},"yanked":false}
 {"name":"language-tags","vers":"0.1.0","deps":[],"cksum":"5beb0f00bd131aad9d16885844e1e172c6e3a4aa45dcab0b0c28b0f775f7dfc4","features":{},"yanked":false}
 {"name":"language-tags","vers":"0.2.0","deps":[],"cksum":"ed3ef0cf3121570b78e685deb11670e53c575c3eb40cdffc39c4328db8e31244","features":{},"yanked":false}
+{"name":"language-tags","vers":"0.2.1","deps":[{"name":"heapsize_plugin","req":"^0.1.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"heapsize","req":"^0.2.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33f0e036c12c24d6a3738aea25e45dbd68cbdd37625ed443124dcd70d77c68ec","features":{"heap_size":["heapsize","heapsize_plugin"]},"yanked":false}
