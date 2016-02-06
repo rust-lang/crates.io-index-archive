@@ -1,0 +1,1 @@
+{"name":"libatasmart-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af263d70c6813bc0a919d62661db1271bbb1c3661c03060d408d11e7a3af6568","features":{},"yanked":false}
