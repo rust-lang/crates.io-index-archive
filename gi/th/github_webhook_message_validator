@@ -1,0 +1,1 @@
+{"name":"github_webhook_message_validator","vers":"0.1.0","deps":[{"name":"rust-crypto","req":"^0.2.34","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07fd6351044cd8de7b867fa8a08254a56e36201f2eebd230d23f912d201ae704","features":{},"yanked":false}
