@@ -1,1 +1,2 @@
 {"name":"shared-mutex","vers":"0.1.0","deps":[],"cksum":"318fb9a74ce8194462c2d450153caf8eb53e6afe37e9a1b964615b36a5e5fc1d","features":{},"yanked":false}
+{"name":"shared-mutex","vers":"0.2.0","deps":[{"name":"scoped-pool","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"91d02319e4f1d693505ba8ec63a5dbdde83ec537125f2e58991d3573af849c68","features":{},"yanked":false}
