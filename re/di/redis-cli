@@ -1,0 +1,1 @@
+{"name":"redis-cli","vers":"0.0.1","deps":[{"name":"clap","req":"^2.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"resp","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7090d33e38bdbf861e77dd0fb7f8fdacef783fb61ff2b0277a6339317682568","features":{},"yanked":false}
