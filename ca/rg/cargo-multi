@@ -1,0 +1,1 @@
+{"name":"cargo-multi","vers":"0.0.0","deps":[{"name":"walkdir","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49011d62940c29eac375f3fea786f9639a6dab076aec714dfbfb5931284abb50","features":{},"yanked":false}
