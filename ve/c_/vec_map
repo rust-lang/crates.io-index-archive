@@ -3,3 +3,4 @@
 {"name":"vec_map","vers":"0.2.0","deps":[],"cksum":"be7bf95e521e892f9a8f39ad6c42eebaf1128edd3c6f0345e7d0cfd177fdae20","features":{"nightly":[]},"yanked":false}
 {"name":"vec_map","vers":"0.3.0","deps":[],"cksum":"abf0c8f70bc6bfd86be8a924eeb8574ff98a6a6c0878eca751d361cafd327e85","features":{"nightly":[]},"yanked":false}
 {"name":"vec_map","vers":"0.4.0","deps":[],"cksum":"1805118a0d7c72d427e9d9c8134b549ec9e88942c707b100deef357ec0948f02","features":{"nightly":[]},"yanked":false}
+{"name":"vec_map","vers":"0.6.0","deps":[{"name":"serde","req":"^0.6","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_macros","req":"^0.6","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cac5efe5cb0fa14ec2f84f83c701c562ee63f6dcc680861b21d65c682adfb05f","features":{"eders":["serde","serde_macros"]},"yanked":false}
