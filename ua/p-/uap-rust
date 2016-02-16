@@ -1,0 +1,1 @@
+{"name":"uap-rust","vers":"0.0.1","deps":[{"name":"yaml-rust","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e31f844e57b8c37799887b53c12cc7888b90fcb069dc05bc5070f3d2afa5c53b","features":{},"yanked":false}
