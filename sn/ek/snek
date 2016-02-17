@@ -1,0 +1,1 @@
+{"name":"snek","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0257a2cf2c6077b6fa57beb0efd219555fce9f36203f7c9186f6409f28f53f93","features":{},"yanked":false}
