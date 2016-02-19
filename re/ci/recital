@@ -1,1 +1,2 @@
 {"name":"recital","vers":"0.1.0","deps":[{"name":"nom","req":"1.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db2e9cbbb013a81da4dd64776af9020543ce0c4f478996f8063871e60ded047c","features":{},"yanked":false}
+{"name":"recital","vers":"0.2.0","deps":[{"name":"nom","req":"1.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd32891b4dd3a00926aff6f54d5c4c6382748f93a2954e5b0903abf4b9437843","features":{},"yanked":false}
