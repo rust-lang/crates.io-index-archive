@@ -1,0 +1,1 @@
+{"name":"android_log-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37e19fbefe3a684a203b4f9d73ccb59bd31d967adc8560a215708c4ba4e4144e","features":{},"yanked":false}
