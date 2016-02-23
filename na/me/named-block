@@ -1,0 +1,1 @@
+{"name":"named-block","vers":"0.1.0","deps":[{"name":"static-cond","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5e881ba1c989165b4508d08dc19a26bcc1687f2b484fe1b6c4ebad5af1170fb","features":{"nightly":[]},"yanked":false}
