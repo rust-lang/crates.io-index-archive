@@ -1,1 +1,2 @@
 {"name":"setenv","vers":"0.1.0","deps":[{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd93a0119a9676641304bfa28ab76ce219431a7074f7ba9d824d85d689bca13e","features":{},"yanked":false}
+{"name":"setenv","vers":"0.1.1","deps":[{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2c001a3ee338baa312fd69765fc9a38e3989bee67726a51d7ca99de07b21d92c","features":{},"yanked":false}
