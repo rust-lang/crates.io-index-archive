@@ -1,0 +1,1 @@
+{"name":"setenv","vers":"0.1.0","deps":[{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd93a0119a9676641304bfa28ab76ce219431a7074f7ba9d824d85d689bca13e","features":{},"yanked":false}
