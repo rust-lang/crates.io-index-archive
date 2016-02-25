@@ -10,3 +10,4 @@
 {"name":"lalrpop-util","vers":"0.8.0","deps":[],"cksum":"994c5cbf37267310e315e54d7516f7d43522c3d285ed1882fc88e494be1b9096","features":{},"yanked":false}
 {"name":"lalrpop-util","vers":"0.9.0","deps":[],"cksum":"b58514921094ce03fe87d98a37972e1df805f3444a2196d681e69e784ee8c6a8","features":{},"yanked":false}
 {"name":"lalrpop-util","vers":"0.10.0","deps":[],"cksum":"2484972b769b0a68f63b28e6712e8a9eb77fb7b3a9ecf25cb33314169c42db23","features":{},"yanked":false}
+{"name":"lalrpop-util","vers":"0.11.0","deps":[],"cksum":"bfc443e4d1f96ca708887b64b15c7c02c2bc57954fe3af41471681c242d8406b","features":{},"yanked":false}
