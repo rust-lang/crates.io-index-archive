@@ -1,0 +1,1 @@
+{"name":"transient-hashmap","vers":"0.1.0","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15f7cc7116182edca1ed08f6f8c4da92104555ca77addbabea4eaa59b20373d0","features":{},"yanked":false}
