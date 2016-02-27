@@ -1,0 +1,1 @@
+{"name":"rsoundio","vers":"0.1.1","deps":[{"name":"rci","req":"0.1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"pkg-config","req":"^0.3.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f283ec2b236065ce939ffbcbc73cbedaecd49a4b3b245e1ce3f79cdf9918cb88","features":{},"yanked":false}
