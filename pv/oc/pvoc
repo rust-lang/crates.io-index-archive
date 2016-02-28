@@ -1,0 +1,1 @@
+{"name":"pvoc","vers":"0.1.0","deps":[{"name":"rustfft","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"^0.1.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"480edb09318b9c6e981da89596bedad3a5c8a47c08d9068f0bb73537ea8668ec","features":{},"yanked":false}
