@@ -1,0 +1,1 @@
+{"name":"endianness","vers":"0.1.0","deps":[{"name":"quickcheck","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3baec8cc3fce5efe0afcc3b050e5e6eae309c067f32df7a183cb90a67c71897c","features":{},"yanked":false}
