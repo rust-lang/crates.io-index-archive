@@ -6,3 +6,4 @@
 {"name":"lzw","vers":"0.7.0","deps":[],"cksum":"f3375b34036fbc85acf8ff5da7848b5c787a9dda993ee16381744dc33d075a47","features":{"raii_no_panic":[],"default":["raii_no_panic"]},"yanked":false}
 {"name":"lzw","vers":"0.8.0","deps":[],"cksum":"6c2f40d7948abf9bc9be344c4f7ece32c76c6305985766c5ca83e726cfa428f8","features":{"raii_no_panic":[],"default":["raii_no_panic"]},"yanked":false}
 {"name":"lzw","vers":"0.9.0","deps":[],"cksum":"cba82344432e19bcb98fa21c5a6e78f42a06252b4744e2e9162ae98b3a01ee92","features":{"default":["raii_no_panic"],"raii_no_panic":[]},"yanked":false}
+{"name":"lzw","vers":"0.10.0","deps":[],"cksum":"7d947cbb889ed21c2a84be6ffbaebf5b4e0f4340638cba0444907e38b56be084","features":{"default":["raii_no_panic"],"raii_no_panic":[]},"yanked":false}
