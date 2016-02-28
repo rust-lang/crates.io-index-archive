@@ -1,0 +1,1 @@
+{"name":"sqlite3-provider","vers":"0.0.1","deps":[{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f4867d8d796e94329b17cbbe4dd2656ca09719680bcb6291a1827244f696a519","features":{},"yanked":false}
