@@ -1,1 +1,1 @@
-{"name":"guile","vers":"0.0.1","deps":[{"name":"guile-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1256c6fe354ff3532ded09bf062fb5a5a6332aaa83bd8ceec34fbff08843cac3","features":{},"yanked":false}
+{"name":"guile","vers":"0.0.1","deps":[{"name":"guile-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1256c6fe354ff3532ded09bf062fb5a5a6332aaa83bd8ceec34fbff08843cac3","features":{},"yanked":true}
