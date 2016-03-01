@@ -1,1 +1,2 @@
 {"name":"timer","vers":"0.1.0","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b7401b58a09b6b1a9c2a86855213bce036a08e9d21851897ac8015c870ace5c","features":{},"yanked":false}
+{"name":"timer","vers":"0.1.1","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e389eda02d65c4b660faeddaa2d10c26dc02cef54857999a190fb258e93919dd","features":{},"yanked":false}
