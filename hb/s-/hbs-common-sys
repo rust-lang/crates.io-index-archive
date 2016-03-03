@@ -1,1 +1,2 @@
 {"name":"hbs-common-sys","vers":"0.1.0","deps":[],"cksum":"4380abb1946305e60ac9554ce66d6ee57dcff236a63ca3261a94bd2c146280e2","features":{},"yanked":false}
+{"name":"hbs-common-sys","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e89434c768791f016583dd906c887f80b13dbc4e7dd37c655027430a004e7c6","features":{},"yanked":false}
