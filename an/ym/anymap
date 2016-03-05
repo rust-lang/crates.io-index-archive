@@ -18,3 +18,4 @@
 {"name":"anymap","vers":"0.11.0","deps":[],"cksum":"da1da74e9aaf8e41200bf04726e37ff03dcd7103500ffe938ee7dafee1b906e1","features":{"unstable":[]},"yanked":false}
 {"name":"anymap","vers":"0.11.1","deps":[],"cksum":"b47e24695cc4a817411c5f48b735bd977c59e6a1d98f157a7263a5fa33fa4f81","features":{"unstable":[]},"yanked":false}
 {"name":"anymap","vers":"0.11.2","deps":[],"cksum":"6148214aa5aeaef15769dc45860c0418ab2a0804803f3093d0a2a2f7afa9b37b","features":{"unstable":[]},"yanked":false}
+{"name":"anymap","vers":"0.12.0","deps":[],"cksum":"c702427bd148c347930407b05d7b106d5e23e50bbca3b985ea344e83a0a31411","features":{"bench":[]},"yanked":false}
