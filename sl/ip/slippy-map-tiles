@@ -1,1 +1,2 @@
 {"name":"slippy-map-tiles","vers":"0.1.0","deps":[],"cksum":"d0695241d76f4c42f094f437a6cb7823bfce6c00daf674c91826a679bea2114e","features":{},"yanked":false}
+{"name":"slippy-map-tiles","vers":"0.3.0","deps":[{"name":"regex","req":"^0.1.55","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a97066ddf5b775f36929f56452760b43d00194ba480bc740e3797558fe09afa","features":{},"yanked":false}
