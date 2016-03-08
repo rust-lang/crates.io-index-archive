@@ -1,0 +1,1 @@
+{"name":"shannon-entropy","vers":"0.1.0","deps":[{"name":"rand","req":"0.3.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fefe7b22151c9884a162ddfdea2e15eda2e29d969742d75db60a86fb3058b637","features":{},"yanked":false}
