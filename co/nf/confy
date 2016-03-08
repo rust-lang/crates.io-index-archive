@@ -1,0 +1,1 @@
+{"name":"confy","vers":"0.1.0","deps":[{"name":"toml","req":"^0.1.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"468298d8ade40a75d58b1fa0d7701f6646ea133de057007271a7de758fe01793","features":{},"yanked":false}
