@@ -1,1 +1,2 @@
 {"name":"way-cooler","vers":"0.1.0","deps":[{"name":"rustwlc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c44b71b78f8c7140ae57bcdbbb1f25eeaa8151973e166e2bd507fc936cd5f017","features":{},"yanked":false}
+{"name":"way-cooler","vers":"0.1.1","deps":[{"name":"rustwlc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25d68bedf223ec3a68781dedb5479e54e2eefbd52b4b38f99f37d76046184757","features":{},"yanked":false}
