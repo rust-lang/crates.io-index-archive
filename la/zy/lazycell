@@ -1,0 +1,1 @@
+{"name":"lazycell","vers":"0.0.1","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"154429f7911ea79ce3cfe2652ac4bb98c079eb9061b1d1a3319db6bd905acb24","features":{"nightly":[],"nightly-testing":["clippy","nightly"]},"yanked":false}
