@@ -8,3 +8,4 @@
 {"name":"marc","vers":"0.2.6","deps":[],"cksum":"88e0e3aec22dc835fc005664baea1e353a82ef4516e8f1ec6312da930e327c53","features":{"nightly":[],"default":[]},"yanked":false}
 {"name":"marc","vers":"0.3.0","deps":[],"cksum":"84133162737e2780cc8b55f1ef4c05097d5e5efc3c1ade34ac7ccf8a16abf3f1","features":{"nightly":[],"default":[]},"yanked":false}
 {"name":"marc","vers":"0.4.0","deps":[],"cksum":"5d7e6cfbf60e62b1f10e6a5580e59003722911ab11fc38e88df42cf6a06d30eb","features":{"default":[],"nightly":[]},"yanked":false}
+{"name":"marc","vers":"0.5.0","deps":[],"cksum":"8c0466e82500911f3ac34f5e41e058ab0db6f1232533929c04d171d5c475365c","features":{"default":[],"nightly":[]},"yanked":false}
