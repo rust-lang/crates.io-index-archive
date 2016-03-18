@@ -1,1 +1,2 @@
 {"name":"decibel","vers":"0.1.0","deps":[],"cksum":"b78eba59c63ed8026fa9fd4cb1f8c50954ee8ea36338ba11bb46b8fea2bbea8c","features":{},"yanked":false}
+{"name":"decibel","vers":"0.1.1","deps":[{"name":"num","req":"^0.1.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18fae2dc75e7b6f52ea60d80e4ee8e3d417bb3d2bcd75af353cfc8edd2860447","features":{},"yanked":false}
