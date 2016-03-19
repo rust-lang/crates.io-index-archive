@@ -1,0 +1,1 @@
+{"name":"tweetnacl","vers":"0.1.0","deps":[{"name":"tweetnacl-sys","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a8e469b4b041490177f8ce8ca818629dd6c5fbd21a34675a0826feb7593ca43d","features":{},"yanked":false}
