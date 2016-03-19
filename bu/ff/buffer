@@ -1,0 +1,1 @@
+{"name":"buffer","vers":"0.1.0","deps":[{"name":"mac","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"arrayvec","req":"^0.3.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00c387cf99c097f0ec0f532a9cfa3b49dc515bd701277e9c8f05e99ad8f372ef","features":{},"yanked":false}
