@@ -1,0 +1,1 @@
+{"name":"xz2","vers":"0.1.0","deps":[{"name":"lzma-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e2f17ba8101f05eceaf963dbead87fbc44eea93a061556ddd277db1ec093abde","features":{},"yanked":false}
