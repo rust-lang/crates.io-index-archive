@@ -1,0 +1,1 @@
+{"name":"exempi-sys","vers":"2.3.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"40e261b7924afdd1df6188324d39bf9faaea1da2c182fbdbdcfdf58a97c69685","features":{},"yanked":false}
