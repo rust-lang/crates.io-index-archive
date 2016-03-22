@@ -1,0 +1,1 @@
+{"name":"zero85","vers":"0.1.5","deps":[{"name":"quickcheck","req":"^0.2.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0d64c87b6337e9fae57fd989aa9903ff9499a71a50d6bec24acbfca3f4f4c32d","features":{},"yanked":false}
