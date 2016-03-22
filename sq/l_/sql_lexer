@@ -2,3 +2,4 @@
 {"name":"sql_lexer","vers":"0.2.0","deps":[],"cksum":"614a1ac80d38161fbaea04bc05a42b40e5c54e8c631788113e5409943436b4d0","features":{},"yanked":false}
 {"name":"sql_lexer","vers":"0.3.0","deps":[],"cksum":"b487b5271f0e126633e261fa773f15430e42af31542b8c39bae28be096ea17fa","features":{},"yanked":false}
 {"name":"sql_lexer","vers":"0.3.1","deps":[],"cksum":"93c1462d5847a43bea410dd9619245b45ed88b133cd62db2a1e170e469b61ec4","features":{},"yanked":false}
+{"name":"sql_lexer","vers":"0.3.2","deps":[],"cksum":"e8aba98566fe0767b5eb1cf5c68856731f090cfb4e5997d3fcbdf599fff52f35","features":{},"yanked":false}
