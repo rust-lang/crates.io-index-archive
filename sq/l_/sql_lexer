@@ -3,3 +3,4 @@
 {"name":"sql_lexer","vers":"0.3.0","deps":[],"cksum":"b487b5271f0e126633e261fa773f15430e42af31542b8c39bae28be096ea17fa","features":{},"yanked":false}
 {"name":"sql_lexer","vers":"0.3.1","deps":[],"cksum":"93c1462d5847a43bea410dd9619245b45ed88b133cd62db2a1e170e469b61ec4","features":{},"yanked":false}
 {"name":"sql_lexer","vers":"0.3.2","deps":[],"cksum":"e8aba98566fe0767b5eb1cf5c68856731f090cfb4e5997d3fcbdf599fff52f35","features":{},"yanked":false}
+{"name":"sql_lexer","vers":"0.4.0","deps":[],"cksum":"f5d92a0ba78f18e5a4c82d8257d63f738bb4b61db7c618bc8de6711894c10e7e","features":{},"yanked":false}
