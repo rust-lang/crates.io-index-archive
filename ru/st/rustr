@@ -1,1 +1,2 @@
 {"name":"rustr","vers":"0.0.1","deps":[],"cksum":"cd5a7bc83fa4c796af43366309ba8072c8afe6d52e03f4f8c1a21926ebfeaa0f","features":{},"yanked":false}
+{"name":"rustr","vers":"0.1.1","deps":[{"name":"clippy","req":"^0.0.54","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"chrono","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4873350a250aa7fff5afa43d4be36a0005b60754a41876606c02cc6299750593","features":{"date":["chrono"],"dev":["clippy"],"default":[]},"yanked":false}
