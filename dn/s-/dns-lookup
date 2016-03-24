@@ -1,0 +1,1 @@
+{"name":"dns-lookup","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96b7f8a0dec8296e888249906bd70981bde4532f3f3fd96d7b5ea5a030ba4741","features":{},"yanked":false}
