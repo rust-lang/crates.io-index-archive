@@ -1,1 +1,2 @@
 {"name":"rb","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6a66b5cd78aab0f767d5fb4f006b9382408bc9096ec574781b6271b4b003b5dd","features":{},"yanked":false}
+{"name":"rb","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e343f5f23570a912bcd9275765f9087e587c2ac2527404e04ed7b9ec14b9c4a6","features":{},"yanked":false}
