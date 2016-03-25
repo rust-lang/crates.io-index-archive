@@ -1,0 +1,1 @@
+{"name":"mktemp","vers":"0.1.0","deps":[{"name":"uuid","req":"^0.1.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"695c33e676342529e657f356d66f2891c769dcc6201d5b3ad0f1c05123c3cfe3","features":{},"yanked":false}
