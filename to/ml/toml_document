@@ -1,0 +1,1 @@
+{"name":"toml_document","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ad76ea51f9d09ee0423372e6841b5b6d096eec00de5d0b73497e784d29f3284f","features":{},"yanked":false}
