@@ -1,1 +1,2 @@
 {"name":"hypervisor","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"daf6fd35ec45c8a38d3baf1f0680c62fdd0213df352207e010fd3fddb6b9302d","features":{},"yanked":false}
+{"name":"hypervisor","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"676c936967f2cd2651ae1b510c50ae3deccf9c13bb9623c955cd076e21e6c4c4","features":{},"yanked":false}
