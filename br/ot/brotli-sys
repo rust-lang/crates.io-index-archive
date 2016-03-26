@@ -1,0 +1,1 @@
+{"name":"brotli-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c5d1c9e5a6b37e26c69697f2042c1160f2159a227f58a1daf8cf04ea9db8a248","features":{},"yanked":false}
