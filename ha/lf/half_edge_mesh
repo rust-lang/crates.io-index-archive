@@ -1,0 +1,1 @@
+{"name":"half_edge_mesh","vers":"1.0.3","deps":[{"name":"cgmath","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbf05b2c5b45b631df0fe5dffbdc96c3299766d2060fec7d245589491363077b","features":{},"yanked":false}
