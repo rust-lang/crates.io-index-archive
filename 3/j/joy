@@ -1,0 +1,1 @@
+{"name":"joy","vers":"0.1.0","deps":[{"name":"syscall","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d05342963db59332f71f545ce510f89eb774c88a12fc1b8bc59406cfc63e7843","features":{},"yanked":false}
