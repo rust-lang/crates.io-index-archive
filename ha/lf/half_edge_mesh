@@ -1,1 +1,2 @@
 {"name":"half_edge_mesh","vers":"1.0.3","deps":[{"name":"cgmath","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbf05b2c5b45b631df0fe5dffbdc96c3299766d2060fec7d245589491363077b","features":{},"yanked":false}
+{"name":"half_edge_mesh","vers":"1.0.4","deps":[{"name":"cgmath","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33792912004bfd5c6f5391d6ef95f2f023f5719d5c8d055eae73ba9daf4bb983","features":{},"yanked":false}
