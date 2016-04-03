@@ -1,0 +1,1 @@
+{"name":"time2","vers":"0.1.0","deps":[{"name":"muldiv","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"800b906dd2b2c6e51a1c1b2b82dfa063f8e6330061f56ce374728a5327dd11b3","features":{"beta":[]},"yanked":false}
