@@ -6,3 +6,4 @@
 {"name":"simple_ecs","vers":"0.2.1","deps":[],"cksum":"f3a7a414d3671bcbc6d46945cc9f4f96b09834e0eef59c38020a9a25215d0de3","features":{},"yanked":false}
 {"name":"simple_ecs","vers":"0.2.2","deps":[{"name":"dynamic","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c9183120c619e4426a808321d8334ee906c9f89b236d381ee8c96fffcbb140c5","features":{},"yanked":false}
 {"name":"simple_ecs","vers":"0.3.0","deps":[{"name":"dynamic","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38f6fcd82864cf1b04510d804e1c829890f9384cc5bbd58f6c1e299a92338a0d","features":{},"yanked":false}
+{"name":"simple_ecs","vers":"0.3.1","deps":[{"name":"dynamic","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"586e2f820b1e3ee597c4f1fd0d219d85f94c3945dc4e1dcdfad6e40bcb415cdc","features":{},"yanked":false}
