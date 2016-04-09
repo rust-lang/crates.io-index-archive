@@ -1,1 +1,2 @@
 {"name":"td_proto_rust","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"^0.3.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"566da2c84f0b454577da5f96ee0b1c05e4884c6f20a99ad5c099f7b3bf8415cb","features":{},"yanked":false}
+{"name":"td_proto_rust","vers":"0.1.1","deps":[{"name":"rustc-serialize","req":"^0.3.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41e5aa69a398a6e5f7a885abfff8f53d3067b49ca96b29eb12b38223260f0e46","features":{},"yanked":false}
