@@ -1,1 +1,2 @@
 {"name":"base-x","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"212a5ef9e4f857ab87e52ddef0809a161cef1cf790bababebb05155b8df6b9b6","features":{},"yanked":false}
+{"name":"base-x","vers":"0.1.1","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6accec23a5daa2b702037efacbc372cb190f984e1169a6a43975f9524573a084","features":{},"yanked":false}
