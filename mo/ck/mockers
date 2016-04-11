@@ -1,1 +1,2 @@
 {"name":"mockers","vers":"0.1.0","deps":[{"name":"mockers_macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"514aa88eb55c37bbb50e6b382cc5e3fa5495712858e0a0503d1d590798846545","features":{},"yanked":false}
+{"name":"mockers","vers":"0.2.0","deps":[{"name":"mockers_macros","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4f45cf5c5a600167ee9932c2965fd2890046039765f06a0fabb631e25f4f2c8a","features":{},"yanked":false}
