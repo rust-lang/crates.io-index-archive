@@ -14,3 +14,4 @@
 {"name":"lazy_static","vers":"0.1.13","deps":[],"cksum":"68ec1c3e1720afc073eb26e2f8fda04879466c9beb2ab32be23ffa362a3cfb5e","features":{},"yanked":false}
 {"name":"lazy_static","vers":"0.1.14","deps":[],"cksum":"466e07dc490cbe19e7fa72d78334581fad0a68083ea72ff0a95b0fbddd664536","features":{"nightly":[]},"yanked":false}
 {"name":"lazy_static","vers":"0.1.15","deps":[],"cksum":"547fd11b0400fbab39f7a6df53c648cfb01b977233015d9e0784d595a5a6c449","features":{"nightly":[]},"yanked":false}
+{"name":"lazy_static","vers":"0.1.16","deps":[],"cksum":"cf186d1a8aa5f5bee5fd662bc9c1b949e0259e1bcc379d1f006847b0080c7417","features":{"nightly":[]},"yanked":false}
