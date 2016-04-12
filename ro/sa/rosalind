@@ -13,3 +13,4 @@
 {"name":"rosalind","vers":"0.6.1","deps":[],"cksum":"8cb056ef56474bf755df68b368969cf1f9b2b1273fd817f9b06ae536d99af175","features":{},"yanked":false}
 {"name":"rosalind","vers":"0.7.0","deps":[{"name":"num","req":"^0.1.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c01bd6794ec53150c0c4d044e4d19275604219442675bf8e0722160802983d5b","features":{},"yanked":false}
 {"name":"rosalind","vers":"0.8.0","deps":[{"name":"num","req":"^0.1.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"444da6b5b3e9540ff4d511f44b5eb99d93c7ed575e8fe8380aecbf7028099b7c","features":{},"yanked":false}
+{"name":"rosalind","vers":"0.8.1","deps":[{"name":"num","req":"^0.1.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ca73d04d941c87630a50612b55c232a74e6e8534acdf88b8cfcd032a7fb3381","features":{},"yanked":false}
