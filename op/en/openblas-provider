@@ -10,3 +10,4 @@
 {"name":"openblas-provider","vers":"0.2.0","deps":[],"cksum":"a906743f3446daf4c7420c2ff8fbf99916a2410cab7a7ec4e77ca40b0477796c","features":{"system-openblas":[],"static-openblas":[],"exclude-cblas":[]},"yanked":false}
 {"name":"openblas-provider","vers":"0.3.0","deps":[],"cksum":"8d562755afde610aacdb7729b50880def4754d3b2c2ee03edb5e8a4cfd17250c","features":{"include-cblas":[],"default":["include-cblas"],"system-openblas":[],"static-openblas":[]},"yanked":false}
 {"name":"openblas-provider","vers":"0.4.0","deps":[],"cksum":"ba1b4be7ffa6ee55e55c1995522dfd0cd714974dc7473210cfc740cc7b225ef9","features":{"system":[],"default":["cblas"],"static":[],"cblas":[]},"yanked":false}
+{"name":"openblas-provider","vers":"0.4.1","deps":[],"cksum":"0235f12607b94dea4574cd0da7530957b9d2b1c52004232bd6f1112933f88e91","features":{"cblas":[],"system":[],"default":["cblas"],"static":[]},"yanked":false}
