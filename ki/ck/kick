@@ -1,3 +1,4 @@
 {"name":"kick","vers":"0.0.0","deps":[],"cksum":"0624e2f24d291a0040d0246f042711fdbcd8e3190d7eaf380fd85e0230af4070","features":{},"yanked":false}
 {"name":"kick","vers":"0.0.1","deps":[],"cksum":"8a795e4460af486c219bb777575344534c6f8d7bb8c78b2f0443fdc892735bca","features":{},"yanked":false}
 {"name":"kick","vers":"0.0.2","deps":[],"cksum":"72741acc1d6b35fe61321f6e2d6bcf3edffd1e93e88cb9af4ad89ae7b2de1621","features":{"nightly":[]},"yanked":false}
+{"name":"kick","vers":"0.0.3","deps":[],"cksum":"554ef64c6fde8bd4b6c786c3a1eaabbe9041eb2fe0a13b84bb1044aba4793f56","features":{"nightly":[]},"yanked":false}
