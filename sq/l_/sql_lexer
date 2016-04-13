@@ -6,3 +6,4 @@
 {"name":"sql_lexer","vers":"0.4.0","deps":[],"cksum":"f5d92a0ba78f18e5a4c82d8257d63f738bb4b61db7c618bc8de6711894c10e7e","features":{},"yanked":false}
 {"name":"sql_lexer","vers":"0.4.1","deps":[],"cksum":"dda6a8b26550a42db7e41bca36fefd13e27060f3f83eb4f331a44f860b340166","features":{},"yanked":false}
 {"name":"sql_lexer","vers":"0.4.2","deps":[],"cksum":"ca295a560518bcfce9a93716f4f7257c1016b4bdd73ad7faa1b648bff24be415","features":{},"yanked":false}
+{"name":"sql_lexer","vers":"0.5.0","deps":[],"cksum":"a8ef264c5c6fd88dab72d3ec6f16f6fc09ebd2f816afe2cdf03ef4427a0c085e","features":{},"yanked":false}
