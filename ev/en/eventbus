@@ -1,0 +1,1 @@
+{"name":"eventbus","vers":"0.1.0","deps":[{"name":"uuid","req":"^0.2","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5d09d416f5c7900697759693447fd23cc71719cf2ea10200042f517cde8408a","features":{},"yanked":false}
