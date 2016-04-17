@@ -3,3 +3,4 @@
 {"name":"linked_list_allocator","vers":"0.1.2","deps":[],"cksum":"b5d9768b265579a232f0af30098dc445ce808ef7ddadf6cac1605c611f65c6d2","features":{},"yanked":false}
 {"name":"linked_list_allocator","vers":"0.1.3","deps":[],"cksum":"4ea3f128aa1ded073ae592a33a126a62f7ff1a9ee8e235d1c7f293eb4bbe0f69","features":{},"yanked":false}
 {"name":"linked_list_allocator","vers":"0.2.0","deps":[],"cksum":"fdf2ce02c43c4c8b3ab6f4d2a9a657aa1beff368ec7191abf3058c7b317fe030","features":{},"yanked":false}
+{"name":"linked_list_allocator","vers":"0.2.1","deps":[],"cksum":"c1c588e59292b3efc713743079cd005886fe8a2b4528df890ae308b51668093e","features":{},"yanked":false}
