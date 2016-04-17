@@ -1,0 +1,1 @@
+{"name":"ispc","vers":"0.0.1","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"bindgen","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"915fa6bbd3634fe375f02cc994051859d9513cf7e9e3c26d1fdd9e19efb30b7f","features":{},"yanked":false}
