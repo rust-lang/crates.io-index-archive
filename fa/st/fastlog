@@ -1,0 +1,1 @@
+{"name":"fastlog","vers":"0.0.1","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe15980e1d0133ab69d42a9c9d79e62374c6f9bfa041698c1d8304307896f543","features":{},"yanked":false}
