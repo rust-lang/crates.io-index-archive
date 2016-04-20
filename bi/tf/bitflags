@@ -9,3 +9,4 @@
 {"name":"bitflags","vers":"0.3.4","deps":[],"cksum":"4fd2243c932b114b8d7d86821be98b2a68b35b1310d5f6e826d1c5e1cc903b1f","features":{"no_std":[]},"yanked":true}
 {"name":"bitflags","vers":"0.4.0","deps":[],"cksum":"8dead7461c1127cf637931a1e50934eb6eee8bff2f74433ac7909e9afcee04a3","features":{"no_std":[]},"yanked":false}
 {"name":"bitflags","vers":"0.5.0","deps":[],"cksum":"4f67931368edf3a9a51d29886d245f1c3db2f1ef0dcc9e35ff70341b78c10d23","features":{"assignment_operators":[],"no_std":[]},"yanked":false}
+{"name":"bitflags","vers":"0.6.0","deps":[],"cksum":"72cd7314bd4ee024071241147222c706e80385a1605ac7d4cd2fcc339da2ae46","features":{},"yanked":false}
