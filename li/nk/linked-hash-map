@@ -7,3 +7,4 @@
 {"name":"linked-hash-map","vers":"0.0.7","deps":[],"cksum":"2bdd12d3eeb97a99632ec441d5b4f764791c7d7d613dcb87220731715d8cb18a","features":{},"yanked":false}
 {"name":"linked-hash-map","vers":"0.0.8","deps":[],"cksum":"ab78b5a6c78c4e0bb37966e1dca3a1033643da528af07acf89477ae40fe97722","features":{},"yanked":true}
 {"name":"linked-hash-map","vers":"0.0.9","deps":[],"cksum":"83f7ff3baae999fdf921cccf54b61842bb3b26868d50d02dff48052ebec8dd79","features":{"nightly":[]},"yanked":false}
+{"name":"linked-hash-map","vers":"0.0.10","deps":[{"name":"serde_json","req":"^0.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^0.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f26e961e0c884309cd527b1402a5409d35db612b36915d755e1a4f5c1547a31c","features":{"nightly":[],"serde_impl":["serde","serde_json"]},"yanked":false}
