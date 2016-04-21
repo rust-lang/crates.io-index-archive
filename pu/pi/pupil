@@ -1,0 +1,1 @@
+{"name":"pupil","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c1f6e49011f93dc2e8e0346cc459a2e2a54b402881b1dfee55a06765ec8cd6b","features":{},"yanked":false}
