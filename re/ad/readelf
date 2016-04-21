@@ -1,0 +1,1 @@
+{"name":"readelf","vers":"0.0.1","deps":[{"name":"argparse","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"elf","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91c5c4a72a98d43e076d651cb531b378a5678a34fc34f21a4509229310e248e5","features":{},"yanked":false}
