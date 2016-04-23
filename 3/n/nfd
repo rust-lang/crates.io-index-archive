@@ -1,0 +1,1 @@
+{"name":"nfd","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec9828d5d8470ef51dffe080593906c87597cfce793457fba9e44426ac48f161","features":{},"yanked":false}
