@@ -1,0 +1,1 @@
+{"name":"uinput-sys","vers":"0.1.0","deps":[{"name":"ioctl","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f58efe8a1ed249c4027f4d487eb3039892a16e54268d220e0aecc9bf8482626b","features":{},"yanked":false}
