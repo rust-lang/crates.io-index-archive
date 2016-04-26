@@ -23,3 +23,4 @@
 {"name":"peg","vers":"0.3.8","deps":[],"cksum":"74900e9c0b65f494007d526b71580b9a912058061164fe10928926cf60aabeee","features":{"trace":[]},"yanked":false}
 {"name":"peg","vers":"0.3.9","deps":[],"cksum":"863dcf53c6927ca163de606d0e92ff72f9cadc526dabd1f006e32bbc02522df2","features":{"trace":[]},"yanked":false}
 {"name":"peg","vers":"0.3.10","deps":[],"cksum":"7760b398ae7c901ad6bd5cd5f42d4a58f8ebb5e07744594fa033c3b0d66d701f","features":{"trace":[]},"yanked":false}
+{"name":"peg","vers":"0.3.11","deps":[],"cksum":"355fe843a6e447700d9795ad84598f70ba2378e08665b5dc4964b9c1104d7776","features":{"trace":[]},"yanked":false}
