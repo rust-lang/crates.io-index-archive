@@ -1,0 +1,1 @@
+{"name":"frounding","vers":"0.0.1","deps":[{"name":"gcc","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e0e55210fb3cbe0247cb6b873c0dd6c80010f3f92409e2e3a78e79de72154b44","features":{},"yanked":false}
