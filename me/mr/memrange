@@ -1,1 +1,2 @@
 {"name":"memrange","vers":"0.1.0","deps":[],"cksum":"a66fbcf309c49c75060cc01c984c1eee819f1ec35263515ffa33820e3bf55d65","features":{},"yanked":false}
+{"name":"memrange","vers":"0.1.1","deps":[{"name":"rustc-serialize","req":"0.3.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8d1eb9cbd405c912070a2d3022fc72f4a1bbe2cf1a9c3b291e1fa773e355c4b","features":{},"yanked":false}
