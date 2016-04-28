@@ -1,1 +1,2 @@
 {"name":"reql","vers":"0.0.0","deps":[],"cksum":"36ebf7f5e0101543f02e3b831aa6a1eec41e9ece274e3213946a97139a7b1a4e","features":{},"yanked":false}
+{"name":"reql","vers":"0.0.1","deps":[{"name":"r2d2","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ql2","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9aafb4aa60278df05b498cd3adb96f48bd31b2f5da254a8a73ddc64d750025f0","features":{},"yanked":false}
