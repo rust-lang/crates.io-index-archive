@@ -1,0 +1,1 @@
+{"name":"cfile","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83b60a0090c62e8e26c7d16f3978b5d37623c71712b45568a5ffb800766aac9c","features":{},"yanked":false}
