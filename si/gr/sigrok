@@ -1,0 +1,1 @@
+{"name":"sigrok","vers":"0.1.0","deps":[{"name":"sigrok-sys","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aff455c8ace06478418a7892ea03c9c6e4d808e6b572765ac979b8a3a01a32be","features":{},"yanked":false}
