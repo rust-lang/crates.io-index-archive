@@ -1,0 +1,1 @@
+{"name":"sigrok-sys","vers":"0.1.0","deps":[{"name":"glib-sys","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88c0fbd3f4a67900a0051ddeb19e073dcb8381efc9e1bbb41b0a2e304a0215bb","features":{},"yanked":false}
