@@ -1,0 +1,1 @@
+{"name":"probes","vers":"0.0.1","deps":[{"name":"time","req":">= 0.1.34","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":">= 0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14a55a20d5f06dd061aee451e7f7052ca53fec692bc3ab02b2dd4768e1232dfd","features":{},"yanked":false}
