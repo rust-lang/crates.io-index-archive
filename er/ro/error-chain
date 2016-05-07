@@ -1,1 +1,2 @@
 {"name":"error-chain","vers":"0.1.8","deps":[{"name":"backtrace","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42699c55f448e5cdc52f2761a58b65d3f68d9810c306e2f8f889618c8c115e89","features":{},"yanked":false}
+{"name":"error-chain","vers":"0.1.9","deps":[{"name":"backtrace","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"369f451d4d6487dff893b48ae01fe02d9b6b4d1694d6f2d331463d49e09c5149","features":{},"yanked":false}
