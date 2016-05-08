@@ -1,1 +1,2 @@
 {"name":"treesize","vers":"0.0.1","deps":[{"name":"tabwriter","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e010074fbfce2eeca5d2b145e6865ee5f21f11893bbeaad69e2e7b5d7398359f","features":{},"yanked":false}
+{"name":"treesize","vers":"0.1.0","deps":[{"name":"tabwriter","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"790235c6d4f7360e1e4dbc0a8e39a8136bfe52280742080727b95cfd3259aa28","features":{},"yanked":false}
