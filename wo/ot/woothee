@@ -1,1 +1,2 @@
 {"name":"woothee","vers":"0.1.0","deps":[{"name":"regex","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"347a7b76ca9a2d72f933b35ea8391144584f3252bb2550d1fe66bd710731409f","features":{},"yanked":false}
+{"name":"woothee","vers":"0.1.1","deps":[{"name":"regex","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9a528c8daec50f595bd9f71f5d04a78a2fddb42aee562cface4259377fab586","features":{},"yanked":false}
