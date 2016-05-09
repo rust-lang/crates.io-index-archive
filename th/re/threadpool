@@ -7,3 +7,4 @@
 {"name":"threadpool","vers":"0.2.1","deps":[],"cksum":"ae49a41f112cb5cb00c82a4a2f78c5b98b430a187eeb3ce2d7df49b8189b661b","features":{},"yanked":false}
 {"name":"threadpool","vers":"1.0.0","deps":[],"cksum":"16094a09d6dd4e16e46469c981279745d66d51c126fe567a0a11ff63810b14b5","features":{},"yanked":false}
 {"name":"threadpool","vers":"1.0.1","deps":[],"cksum":"d7f616b1cb02d7ff3a72b47dd9c51f2088217cfb78eb8447e39b95261a887168","features":{},"yanked":false}
+{"name":"threadpool","vers":"1.0.2","deps":[],"cksum":"e8b1b30814145538f648f745a311de376cfeeb14795d01852d62cf6bd787d382","features":{},"yanked":false}
