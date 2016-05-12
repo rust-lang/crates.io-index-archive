@@ -3,3 +3,4 @@
 {"name":"atomic","vers":"0.3.0","deps":[],"cksum":"5410c31fc7d1da3cceca7ce9fc2beb143b0274e89c29a9d7e8175aeb733c3fc6","features":{"nightly":[]},"yanked":false}
 {"name":"atomic","vers":"0.3.1","deps":[],"cksum":"e873b181fc3f4afb56f235d6399336f47ffe5f9ec3edfdd60e15ac7a05a41128","features":{"nightly":[]},"yanked":false}
 {"name":"atomic","vers":"0.3.2","deps":[],"cksum":"b619abac89b26de907ab836e7b6fd07aaf4cde8fcdf06b0f67f30f14eae04f66","features":{"nightly":[]},"yanked":false}
+{"name":"atomic","vers":"0.3.3","deps":[],"cksum":"81e4fe666ae9dd4eea17160116a5f0d1e52f74504669bfc034e22850d6b7d406","features":{"nightly":[]},"yanked":false}
