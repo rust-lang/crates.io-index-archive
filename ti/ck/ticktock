@@ -6,3 +6,4 @@
 {"name":"ticktock","vers":"0.2.2","deps":[{"name":"time","req":"^0.1.34","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef7fc17c9ec39c37ca0a00b71bab2e6a7bbe4f1e3f2bca057328ce10f82fd5f3","features":{},"yanked":false}
 {"name":"ticktock","vers":"0.2.3","deps":[{"name":"time","req":"^0.1.34","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0474affa9c1ec5423c8db7863a27bce5645f3c4d1ce9a10f92d843150ce49a6e","features":{},"yanked":false}
 {"name":"ticktock","vers":"0.3.0","deps":[],"cksum":"3529cebcc6f2d9aca415fdbe3ad3477a14055b8653e4f83877f30dc8ffcf53c1","features":{},"yanked":false}
+{"name":"ticktock","vers":"0.3.1","deps":[],"cksum":"b9f29b72c26b67ff296d00d6ecce514321103b9e9839dbb2aebe97c0c8c9c2ae","features":{},"yanked":false}
