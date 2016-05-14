@@ -10,3 +10,4 @@
 {"name":"threadpool","vers":"1.0.2","deps":[],"cksum":"e8b1b30814145538f648f745a311de376cfeeb14795d01852d62cf6bd787d382","features":{},"yanked":false}
 {"name":"threadpool","vers":"1.1.0","deps":[],"cksum":"2c5a5844e1962924b3ca7dfdf41c19baaf4b20bddec348ed8b84405dce28e32e","features":{},"yanked":false}
 {"name":"threadpool","vers":"1.1.1","deps":[],"cksum":"78154f058168dbc004589ea79d8a61e70f9cdad4609900b8920b53e1e1c47987","features":{},"yanked":false}
+{"name":"threadpool","vers":"1.2.0","deps":[],"cksum":"be7efa93e32735594e905c1d50894ff04fa047584a09873d96bf54ac968ca7e8","features":{},"yanked":false}
