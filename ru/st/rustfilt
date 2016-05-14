@@ -1,0 +1,1 @@
+{"name":"rustfilt","vers":"0.1.0","deps":[{"name":"rustc-demangle","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb6bf57feeb4c6db3f58e66bda513a9c8a08e53334c4845ee8c5dd27e69313b4","features":{},"yanked":false}
