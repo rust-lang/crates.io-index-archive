@@ -1,0 +1,1 @@
+{"name":"mri-sys","vers":"0.1.0","deps":[{"name":"libc","req":">= 0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cab2f1c5730bbe5c34983574c46437d4aa7a49c4a2cd430cf0be7e34909c0c5a","features":{},"yanked":false}
