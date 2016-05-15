@@ -8,3 +8,4 @@
 {"name":"cesu8","vers":"0.0.8","deps":[],"cksum":"51d30f34012f0e42b9488033c51dc3bea633190a15a271540d9f9ebf7fc31606","features":{},"yanked":false}
 {"name":"cesu8","vers":"0.0.9","deps":[],"cksum":"026e6c731fc67c492e5c6bba57235f189feb032bc63841641fc74a5d05861ee0","features":{},"yanked":false}
 {"name":"cesu8","vers":"1.0.0","deps":[],"cksum":"929d382bc99598c13f6f337fd30ec12ea1ac28a4cb3c6c5cda4491ea7d9bbe26","features":{"unstable":[]},"yanked":false}
+{"name":"cesu8","vers":"1.1.0","deps":[],"cksum":"6d43a04d8753f35258c91f8ec639f792891f748a1edbd759cf1dcea3382ad83c","features":{"unstable":[]},"yanked":false}
