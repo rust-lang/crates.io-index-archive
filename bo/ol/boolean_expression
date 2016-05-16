@@ -1,0 +1,1 @@
+{"name":"boolean_expression","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6feb3a9ddb917919a0593674c1dc3d622882425b3da9b019b92231280888b900","features":{},"yanked":false}
