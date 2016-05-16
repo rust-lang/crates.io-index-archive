@@ -1,2 +1,3 @@
 {"name":"simple-slab","vers":"0.1.0","deps":[],"cksum":"410fb39bf0b59c2aea7efc0dc6fca894fd3b9742c5eebeace1e4130a3580eed0","features":{},"yanked":false}
 {"name":"simple-slab","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96eb0eb6d7cd15532285618221d367ea58c4a0638eda7a66a02ad565cabdcfab","features":{},"yanked":false}
+{"name":"simple-slab","vers":"0.2.1","deps":[{"name":"libc","req":"^0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a59c551b48ad0a4ff865271dc9c509f765c90e5cfd0ed9df5f07cad934f4dc11","features":{},"yanked":false}
