@@ -1,2 +1,3 @@
 {"name":"curve","vers":"0.1.0","deps":[],"cksum":"5010952ac9e6941c951e54d81e1e399ce4e6e7ce73f90c9ccf13c26439523b7d","features":{},"yanked":false}
 {"name":"curve","vers":"0.2.0","deps":[{"name":"num","req":"*","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d66eed2a1a80fd56462d966579c902327a8dd958861f8df6155da2340cc1c0f2","features":{},"yanked":false}
+{"name":"curve","vers":"0.3.0","deps":[{"name":"num-traits","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31e995e0bc81393e5ed38d4f67eeed849809d9dfb8579a37c3dd440661f5cd28","features":{},"yanked":false}
