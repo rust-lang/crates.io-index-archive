@@ -1,0 +1,1 @@
+{"name":"strfmt","vers":"0.1.0","deps":[{"name":"lazy_static","req":"0.1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1088609ca272f955f5cdff45104dd785d5466670b672f6f171d75e92e3da8e48","features":{},"yanked":false}
