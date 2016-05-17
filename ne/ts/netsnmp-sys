@@ -1,0 +1,1 @@
+{"name":"netsnmp-sys","vers":"0.1.0","deps":[{"name":"libc","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"992187b49bcc3dbd863e89e9797ba021f5fd60a5aaec1eb1e1514bed6d524241","features":{},"yanked":false}
