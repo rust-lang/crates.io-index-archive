@@ -4,3 +4,4 @@
 {"name":"heapsize_plugin","vers":"0.1.2","deps":[],"cksum":"3b4dfa485e936784044f1b8d45570d83f1444321d712ca51d86e5cd96a2f2966","features":{},"yanked":false}
 {"name":"heapsize_plugin","vers":"0.1.3","deps":[{"name":"heapsize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f995b27c73dd5b54768a5937979179d5ce1c28bb11f8e0bdeb234356caa0c664","features":{},"yanked":false}
 {"name":"heapsize_plugin","vers":"0.1.4","deps":[{"name":"heapsize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"67e6077b45ba4b5b4cc8249bcf9304d3100452c83cf5a4ddef93207765d4928f","features":{},"yanked":false}
+{"name":"heapsize_plugin","vers":"0.1.5","deps":[{"name":"heapsize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6acc766436533f244943e2b33207436a1a0f354a2d1b90b1086669f5557ea851","features":{},"yanked":false}
