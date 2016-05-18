@@ -1,3 +1,4 @@
 {"name":"flame","vers":"0.1.0","deps":[],"cksum":"67a946aa5f6af61909c1f6ee101eb822fec81d6415356ce0fc42e9aad76d4c48","features":{},"yanked":false}
 {"name":"flame","vers":"0.1.1","deps":[{"name":"clock_ticks","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36cb98d57979f1e2d4a8223e5ad6105a40b7756569b5d443ae56923e73531f01","features":{},"yanked":false}
 {"name":"flame","vers":"0.1.2","deps":[{"name":"clock_ticks","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd0080c154317d0131831290328fb429ea51fec85e97b579af4f81ba8ef0672d","features":{},"yanked":false}
+{"name":"flame","vers":"0.1.3","deps":[{"name":"clock_ticks","req":"^0.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01e15bcfdeb717b468e148bd66b511a3c48a385fd47a746263838d457963caa8","features":{},"yanked":false}
