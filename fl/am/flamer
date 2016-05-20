@@ -1,1 +1,2 @@
 {"name":"flamer","vers":"0.1.0","deps":[{"name":"flame","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b09173c77af8e879b0802082ae070aaa38e9d4fd4af6a7bc38492a6cdf95ead","features":{},"yanked":false}
+{"name":"flamer","vers":"0.1.1","deps":[{"name":"flame","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0822f403fb2f8309f077726f959cfe1d21dc043597ae7867f51b6c473090de8","features":{},"yanked":false}
