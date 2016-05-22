@@ -1,0 +1,1 @@
+{"name":"sqlcipher-src","vers":"0.1.0","deps":[{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3b4635c9243a0892a28b4afbb6b091bc6b89306a1cd0256f491e91c27176a587","features":{},"yanked":false}
