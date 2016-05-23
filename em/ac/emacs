@@ -1,0 +1,1 @@
+{"name":"emacs","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b113d0a9b4fe49152ef99292b16378a78d099e0275beca4f50fac7c07a7dee58","features":{},"yanked":false}
