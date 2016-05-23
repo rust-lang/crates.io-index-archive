@@ -1,0 +1,1 @@
+{"name":"rustlex_fsa","vers":"0.3.3","deps":[{"name":"bit-set","req":">= 0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80f398a5d677ffad3076d6913a3eca061edd961464101e89fde73218cf7f9fbd","features":{},"yanked":false}
