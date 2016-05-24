@@ -1,0 +1,1 @@
+{"name":"http-pull-parser","vers":"0.1.0","deps":[{"name":"http-muncher","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c65653ba4c6f24ee1bc4ce76ff97bdaecb983afbbf26de3220879b139e741178","features":{},"yanked":false}
