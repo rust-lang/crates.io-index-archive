@@ -1,1 +1,2 @@
 {"name":"brotli","vers":"0.1.0","deps":[],"cksum":"cc78c853d23d2502f135038ad8e5fe25ac2bdd584a6bec104768afa725f5459d","features":{},"yanked":false}
+{"name":"brotli","vers":"0.1.1","deps":[{"name":"alloc-no-stdlib","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"brotli-no-stdlib","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"870eef4033fddf8c75bbd0fe531bf77c2232cc5a8a499881c420e2c3bd24c7ee","features":{},"yanked":false}
