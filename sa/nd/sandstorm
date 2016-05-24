@@ -1,0 +1,1 @@
+{"name":"sandstorm","vers":"0.0.1","deps":[{"name":"capnp","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"capnpc","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8a1e949e0a44854e5170c9fa326a0a68245e5684bb9fcb2b77f30468464d21eb","features":{},"yanked":false}
