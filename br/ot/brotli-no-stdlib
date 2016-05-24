@@ -1,0 +1,1 @@
+{"name":"brotli-no-stdlib","vers":"1.0.0","deps":[{"name":"alloc-no-stdlib","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c32c42f1dba2c3f8a184e03a2be19cebc1da9aadf3f8123f1a301e0925472e9f","features":{},"yanked":false}
