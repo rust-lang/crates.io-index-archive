@@ -1,0 +1,1 @@
+{"name":"fitsio","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempdir","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a347bec1268a0f7432a5c13099aa6fa8ea3f56bcb13266c9be84d92d4f554b1a","features":{},"yanked":false}
