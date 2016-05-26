@@ -48,3 +48,4 @@
 {"name":"phf_shared","vers":"0.7.12","deps":[],"cksum":"f48f6906865b071461d118e76dc7ebfd51fd191e39829a2eb76e457fe3c8a0d3","features":{"core":[]},"yanked":false}
 {"name":"phf_shared","vers":"0.7.13","deps":[],"cksum":"66285109635214286693ca933456c2fb115a54a95f14bec1ab8890aa5b743845","features":{"core":[]},"yanked":false}
 {"name":"phf_shared","vers":"0.7.14","deps":[{"name":"unicase","req":"^1.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fee4d039930e4f45123c9b15976cf93a499847b6483dc09c42ea0ec4940f2aa6","features":{"core":[]},"yanked":false}
+{"name":"phf_shared","vers":"0.7.15","deps":[{"name":"unicase","req":"^1.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb6c14aac1140c2b06b41477096f249416b17c893d56386a892ac657edfdffba","features":{"core":[]},"yanked":false}
