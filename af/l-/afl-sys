@@ -1,0 +1,1 @@
+{"name":"afl-sys","vers":"0.1.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c3e38c0fbfeb905cf624ab1e6448e9458c21e73ac68d33de45ad911448cc31a3","features":{},"yanked":false}
