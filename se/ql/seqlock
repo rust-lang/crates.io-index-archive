@@ -1,0 +1,1 @@
+{"name":"seqlock","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79194be9203efed87f46a413c156c6896635580119500e2b7875e09301d1828c","features":{"nightly":["parking_lot/nightly"]},"yanked":false}
