@@ -1,2 +1,3 @@
 {"name":"claxon","vers":"0.0.1","deps":[],"cksum":"0601697d5687e4187b027be115c992fba09997768ca00f696362778c1a2b979a","features":{},"yanked":false}
 {"name":"claxon","vers":"0.1.0","deps":[{"name":"hound","req":"^0.4.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7604d3169df827e43d8cc1f29729e39a6b18c557c005e94f6dc369616dc8cc0","features":{},"yanked":false}
+{"name":"claxon","vers":"0.2.0","deps":[{"name":"hound","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"296ceb83f17298fe03e8ed75e446feb0688d4bc41add9169ea6131911c3d4efd","features":{},"yanked":false}
