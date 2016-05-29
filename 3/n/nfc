@@ -1,0 +1,1 @@
+{"name":"nfc","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67ceeb4b7abb7745dc2dfd9319053eb30f4c645679f000f3cb1318ed25e8388e","features":{},"yanked":false}
