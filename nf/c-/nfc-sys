@@ -1,0 +1,1 @@
+{"name":"nfc-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ea9cc81c4e69aa5eb86f2aa610734430931e6a0f7a648d98eca780d4667c211","features":{},"yanked":false}
