@@ -1,1 +1,2 @@
 {"name":"log_settings","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbfd520e292c44692ca7270144f6ec13504af25c20f62cdf12c354bbfdbe4727","features":{},"yanked":false}
+{"name":"log_settings","vers":"0.1.1","deps":[{"name":"lazy_static","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d382732ea0fbc09790c4899db3255bdea0fc78b54bf234bd18a63bb603915b6","features":{},"yanked":false}
