@@ -1,1 +1,2 @@
 {"name":"cat-reader","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b63ea60fccdae9a3498d59e2f802931415c6545927f74d5be36b046af3122df9","features":{},"yanked":false}
+{"name":"cat-reader","vers":"0.1.1","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6bbfd3e9d9e01f8b7c89dfded98bb1c738ea92364bd170aeab83c1d515e8c447","features":{},"yanked":false}
