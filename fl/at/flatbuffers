@@ -1,0 +1,1 @@
+{"name":"flatbuffers","vers":"0.1.0","deps":[{"name":"byteorder","req":"0.5.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f4b53d52599cf592327effe8477c3f74a0102ef61ce2e7766255be8018cbfa2","features":{"default":[],"test_idl_gen":[]},"yanked":false}
