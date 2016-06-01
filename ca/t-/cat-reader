@@ -1,0 +1,1 @@
+{"name":"cat-reader","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b63ea60fccdae9a3498d59e2f802931415c6545927f74d5be36b046af3122df9","features":{},"yanked":false}
