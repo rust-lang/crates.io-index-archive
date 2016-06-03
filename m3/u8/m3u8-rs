@@ -1,1 +1,2 @@
 {"name":"m3u8-rs","vers":"1.0.0","deps":[{"name":"nom","req":"^1.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9f0eff9587017ad5ded549002ee7a832cfaf2a84a56617b1d2a41af623afd1d","features":{},"yanked":false}
+{"name":"m3u8-rs","vers":"1.0.1","deps":[{"name":"nom","req":"^1.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25ed4decf96b0d4a68685aeab9f980dfb229aeb793d5b6ced9972f0ab92a4d8b","features":{},"yanked":false}
