@@ -1,0 +1,1 @@
+{"name":"amethyst_config","vers":"0.1.0","deps":[{"name":"yaml-rust","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24c65b2b9ad1b9c655709afe822b367e9aaea0286611fd3e5ca55db952289f50","features":{},"yanked":false}
