@@ -1,1 +1,2 @@
 {"name":"random_nice_emoji","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"604889717503487191c9a3ca6bea9cde87061741052d045f14f52229bbd466e2","features":{},"yanked":false}
+{"name":"random_nice_emoji","vers":"0.2.0","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a126a9bc0baf7627297d1f7c81068e662e3210bba975b77ba95c7fe11dac728d","features":{},"yanked":false}
