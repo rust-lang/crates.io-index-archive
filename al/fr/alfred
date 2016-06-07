@@ -10,3 +10,4 @@
 {"name":"alfred","vers":"0.3.1","deps":[],"cksum":"82f6fb602db3dae9cabc666240dc6b7561f19e2337b5875e52087c80c6154b4d","features":{},"yanked":false}
 {"name":"alfred","vers":"1.0.0","deps":[],"cksum":"572a9fb04ff1780c7465cff8b68ead1687bb5e2febf6fd93a4421bab8fe93a0c","features":{},"yanked":false}
 {"name":"alfred","vers":"1.0.1","deps":[],"cksum":"3f48aadc16d11eb98d8ea19308f5b20817fcc701a7780e35a4ab5aa8a76ace81","features":{},"yanked":false}
+{"name":"alfred","vers":"2.0.0","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74aa235f690e56af45cb239cbeb3acb5594e12c9a2bdfcdd577acb1149673765","features":{},"yanked":false}
