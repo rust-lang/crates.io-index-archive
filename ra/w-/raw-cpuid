@@ -12,3 +12,4 @@
 {"name":"raw-cpuid","vers":"1.0.3","deps":[{"name":"bitflags","req":"= 0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86c3b31e590f40e8e9b874cbf7284b0701dca46a22e32bb44341677ee68861f8","features":{},"yanked":false}
 {"name":"raw-cpuid","vers":"1.0.4","deps":[],"cksum":"433ebf57482ba22e7b240c77160a101782cf437ea63d0dadcbd4b4d797cf4ec0","features":{},"yanked":false}
 {"name":"raw-cpuid","vers":"2.0.0","deps":[],"cksum":"ce48aa568197f6ccf01c3deb708ebed9e9ab4fcd92c57aea73f6dbfd9dc82cf1","features":{},"yanked":false}
+{"name":"raw-cpuid","vers":"2.0.1","deps":[],"cksum":"7bc8e963398e6244e1d51c42dd68394f273d39ed8afc9238b74f56041b23dbd3","features":{},"yanked":false}
