@@ -2,3 +2,4 @@
 {"name":"integer-encoding","vers":"0.9.1","deps":[],"cksum":"ca565d1d5c5de7dd5a6ad9aa19ee704257cb3ca8d7996c7f7f4c21634e444169","features":{},"yanked":true}
 {"name":"integer-encoding","vers":"0.9.2","deps":[],"cksum":"2fb9e9765cb45f88ee6dd5c8f5f0eea748c2070dff8a4140c549cb6297edf090","features":{},"yanked":true}
 {"name":"integer-encoding","vers":"0.10.0","deps":[],"cksum":"444781e4ad5e24fa735199f339d0b05dd271cbe1a72a84b1d39b073a0269b531","features":{},"yanked":false}
+{"name":"integer-encoding","vers":"0.11.0","deps":[],"cksum":"7c8289d3dc1830f92dde75c900f05cf6e8c8781795500c8fa4f40e50164eadd9","features":{},"yanked":false}
