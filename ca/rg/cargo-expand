@@ -1,2 +1,3 @@
 {"name":"cargo-expand","vers":"0.1.0","deps":[],"cksum":"bc22f24a7d4ceef4c42c65d6107d7edde61cdc9c6819b51ba486e9d2fe518ffe","features":{},"yanked":false}
 {"name":"cargo-expand","vers":"0.1.1","deps":[{"name":"isatty","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9bdc80f8f297ef001f69d6a594f877f2be5e717671a807445bd4619b7228118e","features":{},"yanked":false}
+{"name":"cargo-expand","vers":"0.1.2","deps":[{"name":"isatty","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd5f2c5386047372f6694057943f7a815dc93b7c86ed5ee3772796d8c311b5a5","features":{},"yanked":false}
