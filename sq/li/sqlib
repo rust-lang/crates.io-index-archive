@@ -1,1 +1,2 @@
 {"name":"sqlib","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":">= 0.3.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd722ec7fb6ac0c1f46317f51d4a40ef71694ba1d9bc0690d5430001041b8c27","features":{},"yanked":false}
+{"name":"sqlib","vers":"0.1.1","deps":[{"name":"rustc-serialize","req":">= 0.3.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7892adc8f377940d97856e0e44777cf9e71803ee7196fd5edfb25de8de2af65f","features":{},"yanked":false}
