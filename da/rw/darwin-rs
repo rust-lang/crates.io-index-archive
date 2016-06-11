@@ -1,0 +1,1 @@
+{"name":"darwin-rs","vers":"0.1.0","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"jobsteal","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9085074b49f93de9468efbc40112d2663058555bd45ad04a31c7615c8a0e6dff","features":{},"yanked":false}
