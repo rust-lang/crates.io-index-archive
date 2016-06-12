@@ -1,0 +1,1 @@
+{"name":"slog","vers":"0.1.0","deps":[{"name":"crossbeam","req":"^0.2.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0623210fe1ee497f79ff1ac0cb50d2de9c190dd909db727c8cfbda4614c4accd","features":{},"yanked":false}
