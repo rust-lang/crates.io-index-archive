@@ -1,1 +1,2 @@
 {"name":"min-max-heap","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"35fcfeb36986a7af69c93d635ea62e1f390a9d49c6ff78fc16b0e3f4372e4899","features":{},"yanked":false}
+{"name":"min-max-heap","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e154b3f7f65ec74602d239d310ebfb90c427db13737b440764ac9f788ff4534b","features":{},"yanked":false}
