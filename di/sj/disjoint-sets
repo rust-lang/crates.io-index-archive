@@ -3,3 +3,4 @@
 {"name":"disjoint-sets","vers":"0.2.0","deps":[],"cksum":"736ecdea036440cb20ab02e4771b735fc5338052a3aaefd2a5826afcff048f01","features":{},"yanked":false}
 {"name":"disjoint-sets","vers":"0.2.1","deps":[],"cksum":"b08949b710c4c5d718d33d4471f0c0244ca4c103b41b2c6625c44f27eff08d0e","features":{},"yanked":false}
 {"name":"disjoint-sets","vers":"0.2.2","deps":[],"cksum":"55cce40a85d4fb0577198ceb477a074be9f68ef459b977d0dc7fe8fb01a98d6c","features":{},"yanked":false}
+{"name":"disjoint-sets","vers":"0.2.3","deps":[{"name":"clippy","req":"^0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65b36bd8bb692ddc18ec6c8c1583b5516274c930dca3f2ec4893c14e27a485a9","features":{},"yanked":false}
