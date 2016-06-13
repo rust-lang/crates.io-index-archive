@@ -1,0 +1,1 @@
+{"name":"leb128","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0.76","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03aa44ddc56d06604218eb84d74dad8e59342f308f2fe5534c8ab6c1e1876d28","features":{"nightly":["clippy"]},"yanked":false}
