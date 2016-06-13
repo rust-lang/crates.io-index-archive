@@ -1,0 +1,1 @@
+{"name":"min-max-heap","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"35fcfeb36986a7af69c93d635ea62e1f390a9d49c6ff78fc16b0e3f4372e4899","features":{},"yanked":false}
