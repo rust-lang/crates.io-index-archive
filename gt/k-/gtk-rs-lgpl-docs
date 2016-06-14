@@ -1,1 +1,2 @@
 {"name":"gtk-rs-lgpl-docs","vers":"0.0.1","deps":[{"name":"rustdoc-stripper","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a36e5b9bbfa4b51af9a0155c3243dc5a9226bc5ae1f4f015f96df3762c10f0c","features":{},"yanked":false}
+{"name":"gtk-rs-lgpl-docs","vers":"0.1.0","deps":[{"name":"rustdoc-stripper","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7878aa99d74eae1ff71273fef011fa3e01bfa82f227602d19216bd9e7c0f1cf9","features":{},"yanked":false}
