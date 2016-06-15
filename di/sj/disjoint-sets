@@ -5,3 +5,4 @@
 {"name":"disjoint-sets","vers":"0.2.2","deps":[],"cksum":"55cce40a85d4fb0577198ceb477a074be9f68ef459b977d0dc7fe8fb01a98d6c","features":{},"yanked":false}
 {"name":"disjoint-sets","vers":"0.2.3","deps":[{"name":"clippy","req":"^0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65b36bd8bb692ddc18ec6c8c1583b5516274c930dca3f2ec4893c14e27a485a9","features":{},"yanked":false}
 {"name":"disjoint-sets","vers":"0.3.0","deps":[{"name":"clippy","req":"^0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ffa1640a1b34cee8e18aa9a6bf59f9484640fbe5cbda1df964db0e8d1aee006","features":{},"yanked":false}
+{"name":"disjoint-sets","vers":"0.3.1","deps":[{"name":"clippy","req":"^0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5b3f7bdd606658afaab5e23023abc2bf8571b39783c75763976dcbff151d23a","features":{},"yanked":false}
