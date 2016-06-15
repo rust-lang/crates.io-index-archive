@@ -1,0 +1,1 @@
+{"name":"runas","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5029abe1af73a4c2f40639d5a13c1afdf2d50943b6d2462de4d3549a7a36b298","features":{},"yanked":false}
