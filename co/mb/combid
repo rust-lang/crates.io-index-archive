@@ -1,0 +1,1 @@
+{"name":"combid","vers":"0.5.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"byteorder","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a721fec17726b2e19263cae52349980223accccad6000aeaca247a405de3e9c9","features":{},"yanked":false}
