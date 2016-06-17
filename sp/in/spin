@@ -12,3 +12,4 @@
 {"name":"spin","vers":"0.4.0","deps":[],"cksum":"500e2422a658b9b086c3c721401261d03cd54d7b522a058faa0339d783edcaa7","features":{},"yanked":false}
 {"name":"spin","vers":"0.4.1","deps":[],"cksum":"d6d2f710a184010b4f07f2e951dd02c25b1d98243cf3393b602954d28495e63e","features":{},"yanked":false}
 {"name":"spin","vers":"0.4.2","deps":[],"cksum":"b66d582fc86ff769a644b5e35050973fc054491f64644838bae6a1943971c706","features":{"once":["const_fn"],"default":["unstable"],"asm":[],"unstable":["asm","core_intrinsics","const_fn","once"],"const_fn":[],"core_intrinsics":[]},"yanked":false}
+{"name":"spin","vers":"0.4.3","deps":[],"cksum":"e64b1f9f6eb067165a890f257804d5f4e358b7b7811a4a7c34b0345f624c0f94","features":{"core_intrinsics":[],"asm":[],"once":["const_fn"],"const_fn":[],"unstable":["asm","core_intrinsics","const_fn","once"],"default":["unstable"]},"yanked":false}
