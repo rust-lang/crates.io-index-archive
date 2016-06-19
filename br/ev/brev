@@ -1,0 +1,1 @@
+{"name":"brev","vers":"0.1.0","deps":[{"name":"glob","req":"^0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d53bf01d49ebaeb35a46596df937f3472bce14f4b6f6fbcdb5a24c41d4d94e7b","features":{},"yanked":false}
