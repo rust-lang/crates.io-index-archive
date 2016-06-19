@@ -1,1 +1,2 @@
 {"name":"alloc-no-stdlib","vers":"1.0.0","deps":[],"cksum":"03cd13f1a47f3f99256b5eef8b1e40003f1d53e215b8e25012ef40688e1cd079","features":{},"yanked":false}
+{"name":"alloc-no-stdlib","vers":"1.1.0","deps":[],"cksum":"a8acab472c10dcb1f5bbaa7ffbc681be5d9fd0fd5adb22e4105849ce30e596fc","features":{"stdlib":[],"unsafe":[]},"yanked":false}
