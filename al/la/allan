@@ -1,2 +1,3 @@
 {"name":"allan","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5aed80b9cbe465068fcfb3d5c9e6a2f7b5d79e20eebbeb581af8aa95611440a6","features":{},"yanked":false}
 {"name":"allan","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b3cc31329688a6765d7f3ee0d7a723d55d428311210621d94329e0d6d1540b1b","features":{},"yanked":false}
+{"name":"allan","vers":"0.2.0","deps":[],"cksum":"94e3e35d2c49469d74fd0f6844ba8971792ddbb1d47b9cca31c3d4c9e723ca9e","features":{},"yanked":false}
