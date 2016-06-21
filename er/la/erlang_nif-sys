@@ -1,0 +1,1 @@
+{"name":"erlang_nif-sys","vers":"0.4.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0d53581bca6e25c151bc33b3b7bfcf1ed8d20ae84b379465a20768c1af915c5f","features":{},"yanked":false}
