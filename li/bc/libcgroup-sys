@@ -1,0 +1,1 @@
+{"name":"libcgroup-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"506d77e52a1ab2f4bd9ce4b1f32632158f03ff2020d9fa1f185530a18c43136a","features":{},"yanked":false}
