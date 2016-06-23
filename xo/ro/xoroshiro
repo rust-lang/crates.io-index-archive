@@ -1,0 +1,1 @@
+{"name":"xoroshiro","vers":"0.0.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b088f73454c6c7f055ddb7c2f963bd85747ec38b75f80b736862f979689556f","features":{},"yanked":false}
