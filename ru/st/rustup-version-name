@@ -1,0 +1,1 @@
+{"name":"rustup-version-name","vers":"0.2.0","deps":[{"name":"toml","req":"^0.1.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9bd3e116ff5148ffe2ac48803a89f4690005a712cfb14fb1e9cb3a8d8daeff3f","features":{},"yanked":false}
