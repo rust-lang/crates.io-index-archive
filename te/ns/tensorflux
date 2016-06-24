@@ -1,1 +1,2 @@
 {"name":"tensorflux","vers":"0.0.1","deps":[{"name":"tensorflow-sys","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69b4647e3d36a8563efd90ec713646a4d65a7fc1ab2b6b2992b7468a0651d3e8","features":{},"yanked":false}
+{"name":"tensorflux","vers":"0.0.2","deps":[{"name":"tensorflow-sys","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"009206939033388e06e0a4f237d24fab333d0448486a3155e0e06ae371bd53c6","features":{},"yanked":false}
