@@ -16,3 +16,4 @@
 {"name":"gstreamer","vers":"0.2.7","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c547c4600018482096e8168536767ba98cd630a82975fc5c559e4558a5ea350f","features":{},"yanked":false}
 {"name":"gstreamer","vers":"0.3.0","deps":[],"cksum":"1e1b5f133bb1a9075b04681bad0af1a2f7f9048eb3ef14f6fb5fc9bd0deee44b","features":{},"yanked":false}
 {"name":"gstreamer","vers":"0.4.0","deps":[],"cksum":"060858a43b732bafa318cd4418c30598951315b5eabbf35e9ff3ff5e87469d67","features":{},"yanked":false}
+{"name":"gstreamer","vers":"0.5.0","deps":[],"cksum":"a15263d87fe3d104d0047c704bf38fb8f13e163024b49d1a0fafec44db4b303e","features":{},"yanked":false}
