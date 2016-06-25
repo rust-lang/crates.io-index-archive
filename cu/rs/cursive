@@ -1,0 +1,1 @@
+{"name":"cursive","vers":"0.0.1","deps":[{"name":"toml","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ncurses","req":"^5.80.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40d2b0546535ba9ecfdc6820e581148588d1906a22c3118a62a43b1c778b6689","features":{},"yanked":false}
