@@ -15,3 +15,4 @@
 {"name":"ascii","vers":"0.5.3","deps":[],"cksum":"3d0b15d14e78fa26b1e5359e721f1dde307ef007e85b49509928c6a11d70394f","features":{"unstable":[]},"yanked":false}
 {"name":"ascii","vers":"0.5.4","deps":[],"cksum":"cf6321593ca5d3390f05c13336052256d1e82a8f981344384fb746ba10b8cb3e","features":{"unstable":[]},"yanked":false}
 {"name":"ascii","vers":"0.6.0","deps":[],"cksum":"8322065af5156f9929edb627296c6d8697f95c74d7d4f1cea23333c32775de65","features":{"unstable":[]},"yanked":false}
+{"name":"ascii","vers":"0.7.0","deps":[],"cksum":"df73fa4497e77719e23ee7e36e548486bb6559343f6ea56cc96a835fbece5ca0","features":{"no_std":[]},"yanked":false}
