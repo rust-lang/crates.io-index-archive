@@ -17,3 +17,4 @@
 {"name":"gstreamer","vers":"0.3.0","deps":[],"cksum":"1e1b5f133bb1a9075b04681bad0af1a2f7f9048eb3ef14f6fb5fc9bd0deee44b","features":{},"yanked":false}
 {"name":"gstreamer","vers":"0.4.0","deps":[],"cksum":"060858a43b732bafa318cd4418c30598951315b5eabbf35e9ff3ff5e87469d67","features":{},"yanked":false}
 {"name":"gstreamer","vers":"0.5.0","deps":[],"cksum":"a15263d87fe3d104d0047c704bf38fb8f13e163024b49d1a0fafec44db4b303e","features":{},"yanked":false}
+{"name":"gstreamer","vers":"0.5.1","deps":[],"cksum":"4a9da262e6370160561c0acb296e0fbcb3c6074ad1ff793c84c0f493fa4c2fdc","features":{},"yanked":false}
