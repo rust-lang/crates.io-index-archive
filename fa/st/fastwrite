@@ -1,1 +1,2 @@
 {"name":"fastwrite","vers":"0.1.0","deps":[{"name":"serde_json","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6d16a4f7f0fc373659eed992e036059502d360f0398f322e6cb682201318546d","features":{},"yanked":false}
+{"name":"fastwrite","vers":"0.1.1","deps":[{"name":"serde_json","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"144a08a76c194c9ca729782fe57292e81849942266d2288093ba930fd21bd1ba","features":{},"yanked":false}
