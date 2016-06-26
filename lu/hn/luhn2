@@ -1,0 +1,1 @@
+{"name":"luhn2","vers":"0.1.0","deps":[{"name":"num-digitize","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9332a530bb7d82415d3b4e509c06bf21a4231bf28f2c68a334b3d5f3d621dd45","features":{},"yanked":false}
