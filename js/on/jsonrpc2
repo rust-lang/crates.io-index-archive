@@ -1,0 +1,1 @@
+{"name":"jsonrpc2","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e4cab9fb1bec945042b6ae762d69b3c2d1f147fb9d08ba5efac991b6624a9e8","features":{},"yanked":false}
