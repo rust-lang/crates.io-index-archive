@@ -1,0 +1,1 @@
+{"name":"lldb","vers":"0.0.1","deps":[{"name":"lldb-sys","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d81f2330ed61be2dad8cbb2d754f4379a786357175b5bbb78fa1e07e4368d460","features":{},"yanked":false}
