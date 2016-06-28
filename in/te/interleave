@@ -2,3 +2,4 @@
 {"name":"interleave","vers":"0.2.1","deps":[],"cksum":"6e4d247279f117a480d330524d0cc48e49cf084e31257e63bb6ee620ef8f9725","features":{},"yanked":false}
 {"name":"interleave","vers":"0.2.2","deps":[],"cksum":"352e2c12ac391a3d41e3d19dc26a64a5a92b88ae5f669ff36269317a2ede6598","features":{},"yanked":false}
 {"name":"interleave","vers":"0.2.3","deps":[{"name":"clippy","req":"^0.0.77","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38020467b2570595471b7f52f8f50ff53e1b0ced528a77ae4f1d052a38315f1f","features":{"dev":["clippy"],"default":[]},"yanked":false}
+{"name":"interleave","vers":"0.2.4","deps":[{"name":"clippy","req":"^0.0.77","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8dfc0e111fdced7330d8020f2e59ac2e0837fa0d43c844fb10d800069592286a","features":{"default":[],"dev":["clippy"]},"yanked":false}
