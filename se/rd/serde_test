@@ -1,0 +1,1 @@
+{"name":"serde_test","vers":"0.7.11","deps":[{"name":"serde","req":"^0.7.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"530d447cf13afc1ae25f586a388160d3580039596d6c0723261b644771078b2b","features":{},"yanked":false}
