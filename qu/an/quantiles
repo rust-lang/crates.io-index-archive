@@ -1,0 +1,1 @@
+{"name":"quantiles","vers":"0.1.1","deps":[{"name":"quickcheck","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ba0b4132f7664d49960fcb90d75e64a315bf5cf3b4574efadaab5e5b6f94025f","features":{},"yanked":false}
