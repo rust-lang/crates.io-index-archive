@@ -1,0 +1,1 @@
+{"name":"boron","vers":"0.0.1","deps":[{"name":"url","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hyper","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a913e59029f8163e054702377ed5c0473a06ad57f5003c5bbf9260ec7f61ecf7","features":{},"yanked":false}
