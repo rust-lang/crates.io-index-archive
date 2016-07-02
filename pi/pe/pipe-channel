@@ -1,0 +1,1 @@
+{"name":"pipe-channel","vers":"1.0.0","deps":[{"name":"nix","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94966a1a11ec29f88f484c0c060bba64b69d25a3420fe92a9f14336f91a22c87","features":{},"yanked":false}
