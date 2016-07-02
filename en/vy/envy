@@ -1,0 +1,1 @@
+{"name":"envy","vers":"0.1.0","deps":[{"name":"serde","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8a626abbb9e0e0bb5c6e174d429fbb66e7e54c1e91489f185681f5d332b554f","features":{},"yanked":false}
