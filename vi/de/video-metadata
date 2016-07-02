@@ -1,0 +1,1 @@
+{"name":"video-metadata","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d6e41d363b137901f3aa288bdb892cbfd9d69e856188771735e14710ca3f58e9","features":{},"yanked":false}
