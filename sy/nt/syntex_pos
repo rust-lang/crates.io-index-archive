@@ -1,0 +1,1 @@
+{"name":"syntex_pos","vers":"0.37.0","deps":[{"name":"rustc-serialize","req":"^0.3.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9866f36497b625c54ecd64a3a96f5f5c862e9160bcae039563754de493e211fa","features":{},"yanked":false}
