@@ -1,0 +1,1 @@
+{"name":"urlshortener","vers":"0.1.0","deps":[{"name":"hyper","req":"^0.9.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5a4855504f2d5d7f10529a7a94ac2dec1ef033bd71876e8ee9f08124e31519d","features":{},"yanked":false}
