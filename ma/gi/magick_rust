@@ -1,0 +1,1 @@
+{"name":"magick_rust","vers":"0.4.0","deps":[{"name":"libc","req":">= 0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74d027103ca1493e29437e6d8f3718c79c646ff179f2312ace4635454f88be12","features":{},"yanked":false}
