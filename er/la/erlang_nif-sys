@@ -2,3 +2,4 @@
 {"name":"erlang_nif-sys","vers":"0.4.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"090e31d560a133d7362d0a75e1f5d463011ef1257debd83f552936f8abfeab8a","features":{},"yanked":false}
 {"name":"erlang_nif-sys","vers":"0.5.0","deps":[],"cksum":"39d0ae485f677cf05b2f426b77718e941a80a3f19186c04d831f0efd85170d66","features":{},"yanked":false}
 {"name":"erlang_nif-sys","vers":"0.5.1","deps":[],"cksum":"fd0b621be983e3458b2ed2df3803b2e6578f299bbdb5f24c3d9e754f40fd6518","features":{},"yanked":false}
+{"name":"erlang_nif-sys","vers":"0.5.2","deps":[],"cksum":"69e5fcdb27633694c949bdf93a5548d91dfe33a7633f9bc56e597927b03c305f","features":{},"yanked":false}
