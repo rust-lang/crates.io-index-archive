@@ -1,0 +1,1 @@
+{"name":"bn","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"^0.1.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a02050d252a894ad6c0c06b972d9fcd29e35cbc3ac6ce4c35b7f45713f2716f7","features":{},"yanked":false}
