@@ -1,1 +1,2 @@
 {"name":"dogstatsd","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3eccd10d6c57698134f0ef211eb836d1cc47c809cfc59f46461340a0c4a8c551","features":{},"yanked":false}
+{"name":"dogstatsd","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5267e43a22b76efeb0c8391a0862a66e2ee1acad5fb806d974df868062291b4e","features":{},"yanked":false}
