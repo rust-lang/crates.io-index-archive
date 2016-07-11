@@ -1,1 +1,2 @@
 {"name":"codespawn","vers":"0.0.1","deps":[],"cksum":"230849edb8945a29b1d41d2c778a317c748f7c122e220c4334eb8f775b750557","features":{},"yanked":false}
+{"name":"codespawn","vers":"0.1.0","deps":[{"name":"json","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"xml-rs","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a4e300bf9c3e50296440c9052cfe35e214511f4e28696288d8843cebb6b6d5f","features":{},"yanked":false}
