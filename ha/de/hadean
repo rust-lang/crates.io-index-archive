@@ -1,0 +1,1 @@
+{"name":"hadean","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34d1dd25451dac02ddfd58a93cae038ea8871cf695c66bc8dbab719a92203a2f","features":{},"yanked":false}
