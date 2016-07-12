@@ -1,2 +1,3 @@
 {"name":"boringssl","vers":"0.0.1","deps":[],"cksum":"12e785bfa109c561a49ef39acaf6ef1b6a6dfaa1a5fff5b1cdc04ffb773df780","features":{},"yanked":false}
 {"name":"boringssl","vers":"0.0.2","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0eeacd6842ab5b43eae719a74c173581ac59a9e0fb135f708db0b783e50d9faf","features":{},"yanked":false}
+{"name":"boringssl","vers":"0.0.3","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f52cdae52ddbdfd9c84beda33d3a18053392dd6bb4358d1fce6f358c7305b9af","features":{},"yanked":false}
