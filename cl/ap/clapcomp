@@ -1,0 +1,1 @@
+{"name":"clapcomp","vers":"0.1.0","deps":[{"name":"clap","req":"^2.9.1","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"037c228d630b4fadb9f0bc97cc30021ae2a321d18179a0cbb9990169576d68a7","features":{},"yanked":false}
