@@ -1,0 +1,1 @@
+{"name":"openzwave-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"48534686ace6568934e655aa20149ada2ad98deac1d4f4dfb9a0023e8f8482aa","features":{},"yanked":false}
