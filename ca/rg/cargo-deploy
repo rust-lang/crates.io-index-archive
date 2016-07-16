@@ -1,0 +1,1 @@
+{"name":"cargo-deploy","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2a36c9f594e5b9a0ad921f7bf820de636961f7180aba4d470238aa88bf4b1862","features":{},"yanked":false}
