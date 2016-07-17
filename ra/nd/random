@@ -15,5 +15,5 @@
 {"name":"random","vers":"0.10.0","deps":[],"cksum":"f4362adc61a5791603e1542e9fe58b0c0f525289bacdeb424fc669d5698a132d","features":{},"yanked":false}
 {"name":"random","vers":"0.10.1","deps":[],"cksum":"cc3e3f049c9755e7cbbad6082ef386d6ade11a7f881b44149f48b648c28cac4c","features":{},"yanked":false}
 {"name":"random","vers":"0.11.0","deps":[],"cksum":"e61aec1d493f91b563ed05f389469fca65c82827b8fcadcca72a55f6d2086165","features":{},"yanked":false}
-{"name":"random","vers":"0.12.0","deps":[],"cksum":"9621fcc86a2c79ffc77439bc950eeba0431175d3f4f3fee6381acfd03b247dc8","features":{},"yanked":false}
+{"name":"random","vers":"0.12.0","deps":[],"cksum":"9621fcc86a2c79ffc77439bc950eeba0431175d3f4f3fee6381acfd03b247dc8","features":{},"yanked":true}
 {"name":"random","vers":"0.12.1","deps":[],"cksum":"ba6a545c87e0398267ec063bf09a2c93ff865547551a233e945d6769bb2d1b4d","features":{},"yanked":false}
