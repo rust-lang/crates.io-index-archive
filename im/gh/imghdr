@@ -1,1 +1,2 @@
 {"name":"imghdr","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0.79","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"102344c529bc78748d7afdd08fb1cc1e482c0c923f0d7ec291b943acfff4f589","features":{},"yanked":false}
+{"name":"imghdr","vers":"0.1.1","deps":[{"name":"clippy","req":"^0.0.79","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d1128f436a08765de6a7057c704be650fbe224026eaae68da148d37dc71fa0e","features":{},"yanked":false}
