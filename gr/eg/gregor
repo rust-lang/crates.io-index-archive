@@ -1,2 +1,3 @@
 {"name":"gregor","vers":"0.1.0","deps":[],"cksum":"5939cc49481760c46bed38bd44fdad437c369243ebbd8353288b84a3729450f8","features":{},"yanked":false}
 {"name":"gregor","vers":"0.2.0","deps":[],"cksum":"02689c59449cc3890e90098fd3601d2c9a4e48d6fadc98f78704d3348e7f4157","features":{"system_time":[]},"yanked":false}
+{"name":"gregor","vers":"0.2.1","deps":[],"cksum":"73d90df4c9f75948f84d2cc04c4f6fa8f8d8ff1f0411aeb5e46dec3f89f9c185","features":{"system_time":[]},"yanked":false}
