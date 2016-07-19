@@ -1,0 +1,1 @@
+{"name":"slog-stdlog","vers":"0.6.0","deps":[{"name":"log","req":"^0.3.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"slog","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"776351331389081c9641566bfb448728e6c41efe4d92b9329b80138736e40342","features":{},"yanked":false}
