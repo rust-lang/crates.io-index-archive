@@ -1,1 +1,2 @@
 {"name":"memcached-protocal","vers":"0.1.0","deps":[{"name":"error-chain","req":"^0.1.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed56dec2631476a2f4839149b2011860432cebe981878f79fa8a0b9b02e9441e","features":{},"yanked":false}
+{"name":"memcached-protocal","vers":"0.1.1","deps":[{"name":"error-chain","req":"^0.1.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70b8b14d1abe722a079c3474aa8b6624e5ad121e68a73f9913645e79a1c3cc65","features":{},"yanked":false}
