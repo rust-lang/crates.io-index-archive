@@ -8,3 +8,4 @@
 {"name":"geo","vers":"0.1.0","deps":[],"cksum":"fde6713e4896837eba3c7af1fe1c7221d874b646943d738f133301bad6783fa8","features":{},"yanked":false}
 {"name":"geo","vers":"0.1.1","deps":[],"cksum":"e50730b00ccf8900759cc537af924638946797a8044113bcfc06dfd9e0fda456","features":{},"yanked":false}
 {"name":"geo","vers":"0.2.0","deps":[{"name":"num","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4875cf4e9f623c45214e008293f50a11a2cc7b7590de37c0fa67c6be145bd0be","features":{},"yanked":false}
+{"name":"geo","vers":"0.2.1","deps":[{"name":"num","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87bf35243ce18f25cdc5be8403332bdf522ca9df96b302e2af2bdc5160cc94f9","features":{},"yanked":false}
