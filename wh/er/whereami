@@ -1,0 +1,1 @@
+{"name":"whereami","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0aa22393de7b690098380f404e1bce80850096d9e9192ff9c19abf1dcf8822c7","features":{},"yanked":false}
