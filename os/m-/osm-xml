@@ -1,0 +1,1 @@
+{"name":"osm-xml","vers":"0.4.0","deps":[{"name":"xml-rs","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34d9f288738434708dbce1373c2c1f8a2540df85251f531af42b0aa23924eb6d","features":{},"yanked":false}
