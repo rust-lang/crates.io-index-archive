@@ -1,0 +1,1 @@
+{"name":"termion","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_os = \"redox\"))","kind":"normal"}],"cksum":"fee1d0949e2d985d55f07ea513f375f5236a55016356304f09438a28ef060875","features":{},"yanked":false}
