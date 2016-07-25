@@ -1,0 +1,1 @@
+{"name":"msgp-abi","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"msgp","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07059ba2f125b9d664b301703014ece3e2868dbd43365a233ab97004b08ea32d","features":{},"yanked":false}
