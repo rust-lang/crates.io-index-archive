@@ -1,0 +1,1 @@
+{"name":"linebased","vers":"0.1.0","deps":[{"name":"mio","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb8d42c8e2891d204c01328d06fb8f84467d8d96e8b37df0c8039879eb90a9ad","features":{},"yanked":false}
