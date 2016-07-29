@@ -1,0 +1,1 @@
+{"name":"error_derive","vers":"0.1.0","deps":[{"name":"custom_derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0c6f614601124a566adf80d5755f97d0eb9dd979078d8eb5c5d71f78d304aa1c","features":{},"yanked":false}
