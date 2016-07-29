@@ -1,1 +1,2 @@
 {"name":"minions","vers":"0.0.1","deps":[{"name":"lossyq","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6963173a9c5a66e16ebd15c6e56baf512bc17106e882912e7ae19b35d32c586","features":{},"yanked":false}
+{"name":"minions","vers":"0.1.2","deps":[{"name":"lossyq","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e76a001b82deafa21cc00919eb97c4032f6d0df701852cd2eaff0ba10949f1b4","features":{},"yanked":false}
