@@ -1,0 +1,1 @@
+{"name":"secbox","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4d4927a2f66fcef157c536f542690f93ff81561127b29e462bac0d764be0155","features":{},"yanked":false}
