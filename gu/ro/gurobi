@@ -1,0 +1,1 @@
+{"name":"gurobi","vers":"0.1.0","deps":[{"name":"gurobi-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"107f414178b9654372899f0f49d85ced81525231d8dda02ff1605d9761111c98","features":{},"yanked":false}
