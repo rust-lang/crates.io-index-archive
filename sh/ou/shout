@@ -1,1 +1,2 @@
 {"name":"shout","vers":"0.1.0","deps":[{"name":"shout-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"435abfc78e9bd47c2a8c721ff902738e5d1c50ba6e5039a4cc5306e6acea2645","features":{},"yanked":false}
+{"name":"shout","vers":"0.1.1","deps":[{"name":"shout-sys","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1061df68f784a3c7e3705703f5c5f6f7123f4a2498ccee85535334cabeddc986","features":{},"yanked":false}
