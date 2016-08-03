@@ -1,0 +1,1 @@
+{"name":"gron","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"^0.3.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5be94ae099209a53ca1e4fea1c16ed0d34d4e8a207e417f0e2f6a6169c21fe4","features":{"log_errors":[]},"yanked":false}
