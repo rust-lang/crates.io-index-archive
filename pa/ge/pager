@@ -1,0 +1,1 @@
+{"name":"pager","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e483f1962e5827fa515c4aa8691154fbe118ef6a7474958bde6f8e539eb1c276","features":{},"yanked":false}
