@@ -1,0 +1,1 @@
+{"name":"objecthash","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":">= 0.3.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1fa23fcfdb2e5974ca93e50fc1e08eae8f9521f93df8f13cb450adc57a375944","features":{"objecthash-ring":[],"default":[]},"yanked":false}
