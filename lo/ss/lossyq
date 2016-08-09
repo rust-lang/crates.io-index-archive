@@ -7,3 +7,4 @@
 {"name":"lossyq","vers":"0.1.7","deps":[{"name":"quickcheck","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"65d5b6e661b0cd8bfe558d89e3723a478e563b92f4eea926a28bebdfa82bbc0e","features":{},"yanked":false}
 {"name":"lossyq","vers":"0.1.8","deps":[],"cksum":"332615d481afe7d6ca923016c7f6f0cb52eafae34730c81ce7dd5fd23a4aaa09","features":{},"yanked":false}
 {"name":"lossyq","vers":"0.1.9","deps":[],"cksum":"d9a768fde9e8504c20d220e2e74c80fae7471e6864f739a3ae48bb7284a4c3b0","features":{},"yanked":false}
+{"name":"lossyq","vers":"0.1.10","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4a64f5f8e9f1e7b4ddc7131eda6ed47563ff3eb0bd3867879701de7aeb49ad9","features":{},"yanked":false}
