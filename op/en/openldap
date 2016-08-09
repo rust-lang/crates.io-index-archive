@@ -1,0 +1,1 @@
+{"name":"openldap","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52e758a515f5cbbbe5a7b05ff8edb882d5ddf8d28cf304194ff01c09733fa739","features":{},"yanked":false}
