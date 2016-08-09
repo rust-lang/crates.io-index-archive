@@ -8,3 +8,4 @@
 {"name":"lossyq","vers":"0.1.8","deps":[],"cksum":"332615d481afe7d6ca923016c7f6f0cb52eafae34730c81ce7dd5fd23a4aaa09","features":{},"yanked":false}
 {"name":"lossyq","vers":"0.1.9","deps":[],"cksum":"d9a768fde9e8504c20d220e2e74c80fae7471e6864f739a3ae48bb7284a4c3b0","features":{},"yanked":false}
 {"name":"lossyq","vers":"0.1.10","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4a64f5f8e9f1e7b4ddc7131eda6ed47563ff3eb0bd3867879701de7aeb49ad9","features":{},"yanked":false}
+{"name":"lossyq","vers":"0.1.11","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a8b9882dc2296a35bfd57b8a93f2ce635fc0b7697eb74a79cd6a9e6bbba1062","features":{},"yanked":false}
