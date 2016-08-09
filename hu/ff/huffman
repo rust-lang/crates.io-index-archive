@@ -1,0 +1,1 @@
+{"name":"huffman","vers":"0.0.1","deps":[{"name":"bitstream","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90e263208093f443b4d7e756b67de7a105903f1436ca2fe97788d691507509ff","features":{},"yanked":false}
