@@ -1,0 +1,1 @@
+{"name":"immutable-map","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"quickcheck","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d0753e47aa5ea4c9d4d5e92b84ffff1f6be08fb1a8944d538360348beea2ea00","features":{},"yanked":false}
