@@ -1,0 +1,1 @@
+{"name":"bpfjit","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"72903c83a68736e3811756871919e15eb62ef9bad6a7a6fb93f32ee576a27f12","features":{},"yanked":false}
