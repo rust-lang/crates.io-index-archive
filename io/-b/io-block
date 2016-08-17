@@ -1,0 +1,1 @@
+{"name":"io-block","vers":"0.1.1","deps":[{"name":"ioctl-sys","req":"^0.4","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"7f45bdf9752e52c94a7b9f8b46bb319af17d0a97da483cd41a95916ac5a2e491","features":{},"yanked":false}
