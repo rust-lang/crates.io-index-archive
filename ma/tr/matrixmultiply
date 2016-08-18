@@ -7,3 +7,4 @@
 {"name":"matrixmultiply","vers":"0.1.6","deps":[],"cksum":"8130098be8848de3b4657d8b57777c76ffe02933deff31be8da086ab56cc0f9e","features":{},"yanked":false}
 {"name":"matrixmultiply","vers":"0.1.7","deps":[],"cksum":"3b3488dfa7effd6c7a87dc7003119867bea2fce0a68b50af7add2b3b069553a0","features":{},"yanked":false}
 {"name":"matrixmultiply","vers":"0.1.8","deps":[],"cksum":"96b20aff574a5af018a975788fccf82317e3cd44ce2f57fe2eed3df43e03d100","features":{},"yanked":false}
+{"name":"matrixmultiply","vers":"0.1.9","deps":[{"name":"bencher","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dee390ed044d68f8f5416fc41895ea11cd9d9930e5d6a8ca6905b73bfc83bcf3","features":{},"yanked":false}
