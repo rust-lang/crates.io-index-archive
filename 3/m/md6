@@ -1,0 +1,1 @@
+{"name":"md6","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"26b6fa2a9c0801f4112acc039c4adc3107eda89e727d8c356fd354818600f6b8","features":{},"yanked":false}
