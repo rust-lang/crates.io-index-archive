@@ -1,0 +1,1 @@
+{"name":"genetic_planner","vers":"0.1.0","deps":[{"name":"rand","req":">= 0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cacba0f16b61bd4bd169025b1a26f348ad70d63061bbfb0521270bc6522f4d4","features":{},"yanked":false}
