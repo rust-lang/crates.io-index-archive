@@ -1,0 +1,1 @@
+{"name":"dono","vers":"1.0.0","deps":[{"name":"rust-crypto","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0acf3bbcc66cc797d787dc082007d1b68b4efeefc939d801e8b83ba1d61176bf","features":{},"yanked":false}
