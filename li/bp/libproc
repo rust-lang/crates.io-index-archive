@@ -1,0 +1,1 @@
+{"name":"libproc","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"errno","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7195fca750c0f31576e8fcf970f3074a577abbe80090e486ebb040e0a8713463","features":{},"yanked":false}
