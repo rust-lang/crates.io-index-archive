@@ -1,1 +1,2 @@
 {"name":"harsh","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0.85","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5060644448555c863358638386d946550057f974663c591c4851c2d5511c578e","features":{"default":[]},"yanked":false}
+{"name":"harsh","vers":"0.1.1","deps":[{"name":"clippy","req":"^0.0.85","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"803f6059b01c3bdd5cabe8059017704886977f37ae201c07eb52325a5bafa889","features":{"default":[]},"yanked":false}
