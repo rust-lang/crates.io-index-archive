@@ -1,0 +1,1 @@
+{"name":"croaring-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d340affce5213ea315fca4b4c71b49aa0aed93304477a5f71685dea12107b805","features":{},"yanked":false}
