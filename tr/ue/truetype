@@ -35,3 +35,4 @@
 {"name":"truetype","vers":"0.19.1","deps":[],"cksum":"4345797e63994cd19e99772443f36018024370bbb42f5ef77f84c306f65aa950","features":{},"yanked":false}
 {"name":"truetype","vers":"0.20.0","deps":[],"cksum":"43b9e992e2119e14a230715788eb7113edaf0a4484c030b0cc53feb7f6f889ec","features":{},"yanked":false}
 {"name":"truetype","vers":"0.21.0","deps":[],"cksum":"08acaa6f412f5f7a68fd53f39482fcec8e5d2901758e563c6a58cc82b5fa54e7","features":{},"yanked":false}
+{"name":"truetype","vers":"0.22.0","deps":[],"cksum":"5976b63974e13bddbcc3e12e146980a4d311946d5dbc4d19edb65b36453b2995","features":{},"yanked":false}
