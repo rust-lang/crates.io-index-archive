@@ -1,0 +1,1 @@
+{"name":"pmem-blk","vers":"0.0.1","deps":[{"name":"pmemblk-sys","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2609cc48557a1cbcf71800d607ca484b5787a5327c101a8f1c5f82f6ac74e1cb","features":{},"yanked":false}
