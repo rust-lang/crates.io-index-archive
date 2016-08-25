@@ -1,0 +1,1 @@
+{"name":"fractal-dto","vers":"0.0.1","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a61228e99c3ea88b984a3bdd2534b486d040daccbe9442c3d183c6d43edc1c9","features":{},"yanked":false}
