@@ -1,2 +1,3 @@
 {"name":"approx","vers":"0.0.1","deps":[],"cksum":"3db8452144e96af8a7becf4cab0787130baf7b84b49a282afc7dc786542a6806","features":{},"yanked":false}
 {"name":"approx","vers":"0.1.0","deps":[],"cksum":"514a6d760da537c6d7b16f1197d0c3e887d8313c954696b4c56cd75592afa2ee","features":{},"yanked":false}
+{"name":"approx","vers":"0.1.1","deps":[],"cksum":"08abcc3b4e9339e33a3d0a5ed15d84a687350c05689d825e0f6655eef9e76a94","features":{"no_std":[]},"yanked":false}
