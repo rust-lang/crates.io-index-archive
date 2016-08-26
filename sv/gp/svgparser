@@ -1,0 +1,1 @@
+{"name":"svgparser","vers":"0.0.1","deps":[{"name":"phf","req":"0.7.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c16f9402a6c42b56daa58fd7cf315defbc06a14b910cdb4e2c309fc0379c3595","features":{},"yanked":false}
