@@ -1,0 +1,1 @@
+{"name":"parallel","vers":"0.1.0","deps":[{"name":"num_cpus","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9af6132272b656f3a1958b2c2b966892bccf8df5bb821b99a7d979d4d2ffc88","features":{},"yanked":false}
