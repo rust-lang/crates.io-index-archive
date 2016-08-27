@@ -1,0 +1,1 @@
+{"name":"clocksource","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b619bbf6eca2fc5b06414776b60768b668ea6b021a3f4b1ea1294f0c69301bf","features":{"default":[],"asm":[]},"yanked":false}
