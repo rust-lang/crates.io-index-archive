@@ -1,0 +1,1 @@
+{"name":"scancode","vers":"0.1.0","deps":[{"name":"glutin","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e64f3a241af0818c7b1d52798bcbe1249b9170a6d4afec50f4248067241e691e","features":{},"yanked":false}
