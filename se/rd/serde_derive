@@ -1,0 +1,1 @@
+{"name":"serde_derive","vers":"0.8.4","deps":[{"name":"serde_codegen","req":"= 0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ade958097a21deadb84faa582066f9867d5fedb8f8b4f6d2a9ab0d4724a6c8f","features":{},"yanked":false}
