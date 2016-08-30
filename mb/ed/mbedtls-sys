@@ -1,0 +1,1 @@
+{"name":"mbedtls-sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aba472df14e0ff5eec35ace66933ef4955ffc4369bc3ec49d44295aed36bb549","features":{},"yanked":false}
