@@ -4,3 +4,4 @@
 {"name":"netstring","vers":"0.2.0","deps":[],"cksum":"205e6704316eaf38de96d5988a1c6d63624172a5c67b8348a0e68cdd157f1b68","features":{},"yanked":false}
 {"name":"netstring","vers":"0.2.1","deps":[],"cksum":"caad4ed78853cfd92adc858d5187ca83ccee56c9be9c05419635f0205c8481db","features":{},"yanked":false}
 {"name":"netstring","vers":"0.2.2","deps":[],"cksum":"b176c7095a6152e10585ab1792f882fee5e8580ae486b6b4100953c0aec796d8","features":{},"yanked":false}
+{"name":"netstring","vers":"0.3.1","deps":[{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42e68b2c523747f8e26d81bad1cc9e86fc81f40498dd2c270150e62f045b2a3f","features":{},"yanked":false}
