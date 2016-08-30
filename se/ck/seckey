@@ -1,0 +1,1 @@
+{"name":"seckey","vers":"0.1.0","deps":[{"name":"memsec","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"nix","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"90e60be1acd55d1807195aef8a0089784fb13c149b99459db995779b5d28d0e7","features":{},"yanked":false}
