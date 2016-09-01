@@ -10,3 +10,4 @@
 {"name":"marc","vers":"0.4.0","deps":[],"cksum":"5d7e6cfbf60e62b1f10e6a5580e59003722911ab11fc38e88df42cf6a06d30eb","features":{"default":[],"nightly":[]},"yanked":false}
 {"name":"marc","vers":"0.5.0","deps":[],"cksum":"8c0466e82500911f3ac34f5e41e058ab0db6f1232533929c04d171d5c475365c","features":{"default":[],"nightly":[]},"yanked":false}
 {"name":"marc","vers":"1.0.0","deps":[{"name":"error-chain","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd7e0164f156f68de85d691b4c9454c7581a72872018d478bbba5c1d650762f8","features":{"default":[],"nightly":[]},"yanked":false}
+{"name":"marc","vers":"1.1.0","deps":[{"name":"error-chain","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2ca38676a13ad98e9bda8c1e5178e26d6372400e2e0d7c2eeaaf2df37821a4d","features":{"default":[],"nightly":[]},"yanked":false}
