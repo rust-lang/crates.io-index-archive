@@ -1,0 +1,1 @@
+{"name":"cart-cache","vers":"0.1.1","deps":[{"name":"slab","req":"~0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"~0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2d2a5c07fa9895faaab668d2e51402c7771774934102a0de5953b15f430b4036","features":{},"yanked":false}
