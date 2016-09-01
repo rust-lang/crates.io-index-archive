@@ -1,0 +1,1 @@
+{"name":"tinyfiledialogs","vers":"2.5.7","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"58a19188faede80cb75a3322cd81c8a3ba23791457369f6a228f40361eb32d89","features":{},"yanked":false}
