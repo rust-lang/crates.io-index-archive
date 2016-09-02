@@ -1,1 +1,2 @@
 {"name":"bluenoisers","vers":"1.0.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7ed596c9d5101077550bba9ee1e79abf79ef7e3797cc3503830b65439cf9494","features":{},"yanked":false}
+{"name":"bluenoisers","vers":"1.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92747cc652ba4345299d29dae5b4d9a0c301507714509596f88cc457ce898151","features":{},"yanked":false}
