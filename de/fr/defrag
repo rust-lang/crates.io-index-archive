@@ -1,0 +1,1 @@
+{"name":"defrag","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"stopwatch","req":"^0.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2d050f9116ca30e7bac107d7b23d6637bd394a63ddd5c936948e1202fa1117da","features":{},"yanked":false}
