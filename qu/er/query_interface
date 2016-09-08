@@ -2,3 +2,4 @@
 {"name":"query_interface","vers":"0.2.0","deps":[],"cksum":"90ae1e60bc8a38e1af8253e0c3a0f01983533e194015926add62c32f0fd9c2c6","features":{},"yanked":false}
 {"name":"query_interface","vers":"0.3.0","deps":[],"cksum":"65a2eb3e462f77df0b0c02d958c8bf41742263f5ac40bf49fd1acb45ac82b94e","features":{},"yanked":false}
 {"name":"query_interface","vers":"0.3.1","deps":[],"cksum":"cd0625340ab6d5aecb7d25d37aa1b9a95022068154e3aa6cb70dd5a583a787a1","features":{},"yanked":false}
+{"name":"query_interface","vers":"0.3.2","deps":[],"cksum":"b0d7e0bfbd56f615f4b682598c4d80a72e4d024e8a482f2208f258738eea6020","features":{},"yanked":false}
