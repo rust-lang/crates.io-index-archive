@@ -1,1 +1,2 @@
 {"name":"veryfast","vers":"0.1.0","deps":[{"name":"crossbeam","req":"^0.2.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"470250989345b81dcae9c6fac3561b398f1b72bed6483ac52f20b864aec45476","features":{},"yanked":false}
+{"name":"veryfast","vers":"0.1.1","deps":[{"name":"crossbeam","req":"^0.2.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"350d7f053822f3a5989a832e6fe272b9961c3346717e4c2c092075feae714161","features":{},"yanked":false}
