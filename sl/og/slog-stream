@@ -1,0 +1,1 @@
+{"name":"slog-stream","vers":"1.0.0-alpha6","deps":[{"name":"slog","req":"^1.0.0-alpha6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00493d927516cf5233a900444a2241556b9019fa2a99f85fd8a68604e8703d2e","features":{},"yanked":false}
