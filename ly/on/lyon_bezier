@@ -1,1 +1,2 @@
 {"name":"lyon_bezier","vers":"0.2.0","deps":[{"name":"euclid","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eaec42da113ccae03bc418e12a0b59959a16e298e3e77f5e0d1020f60cdbc109","features":{},"yanked":false}
+{"name":"lyon_bezier","vers":"0.3.0","deps":[{"name":"euclid","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bddd307c519d61ffb3cd84b92375382e808a58a9409a2d9d54b28b08c584d0c3","features":{},"yanked":false}
