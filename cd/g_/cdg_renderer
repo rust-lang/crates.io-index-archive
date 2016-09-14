@@ -1,0 +1,1 @@
+{"name":"cdg_renderer","vers":"0.1.0","deps":[{"name":"image","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cdg","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b45908e347768fe6e5f247ac6b104cd56808c7f9da8fc5e4f4be5dd4f6ddf2fc","features":{},"yanked":false}
