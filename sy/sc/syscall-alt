@@ -1,0 +1,1 @@
+{"name":"syscall-alt","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"fc8d9281507e103221a7a3334ace45cd4517f6a457b23d5f547fce936bba59d2","features":{},"yanked":false}
