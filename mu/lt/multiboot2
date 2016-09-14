@@ -1,0 +1,1 @@
+{"name":"multiboot2","vers":"0.1.0","deps":[{"name":"bitflags","req":"^0.4.0","features":["no_std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b209a4456a3cc81fb69ad318ed6d47af81a90b829701f151354e3994d8b216d4","features":{},"yanked":false}
