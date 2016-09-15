@@ -1,1 +1,2 @@
 {"name":"trellis","vers":"0.1.0","deps":[{"name":"i2cdev","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d86eeb5dfabaa2d05eda5214273d8b2e422dec65e31bdbed9d673405c3e1d5f0","features":{},"yanked":false}
+{"name":"trellis","vers":"0.2.0","deps":[{"name":"i2cdev","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1382fdd6e1b81531968c6d9aa8a4ffe3c4d901eef7e2ee78bcab4ff64ed979a6","features":{},"yanked":false}
