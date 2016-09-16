@@ -1,0 +1,1 @@
+{"name":"namedarg","vers":"0.1.1","deps":[{"name":"namedarg_rustc_macro","req":"= 0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"305f4a96dd1ee321f04a20cf0ce392152ba5ddd9fb1bbf0e60741df3e70369b1","features":{"force_macros11_mode":["namedarg_rustc_macro/force_macros11_mode"]},"yanked":false}
