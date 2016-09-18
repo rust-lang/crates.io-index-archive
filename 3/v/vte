@@ -1,1 +1,2 @@
 {"name":"vte","vers":"0.1.0","deps":[{"name":"utf8parse","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5356f55902c6b8af3c94e38038a204d528e82b78fff9eb3487306d6bb6f44b5","features":{},"yanked":false}
+{"name":"vte","vers":"0.1.1","deps":[{"name":"utf8parse","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"889d519744c8d773708d246d046ad1c1f1c3e319d44aaeb941c56217afc94f0d","features":{},"yanked":false}
