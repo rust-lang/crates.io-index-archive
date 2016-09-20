@@ -1,0 +1,1 @@
+{"name":"rm-improved","vers":"0.5.0","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"walkdir","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4984449eaf735281f890c0eea391505c6c8ef0a9165b44648444d47ac623541e","features":{},"yanked":false}
