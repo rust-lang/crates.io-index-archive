@@ -1,0 +1,1 @@
+{"name":"libdw","vers":"0.0.1","deps":[{"name":"libdw-sys","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"637bc073198656e80628d250ebf40b6e9220cb9676d67f6dce51dd5c61b7f246","features":{},"yanked":false}
