@@ -1,0 +1,1 @@
+{"name":"bitpack","vers":"0.1.0","deps":[{"name":"byteorder","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"156b29fef3de4d3392852c6f597798574a4855fed8550493863b0920b62ace9c","features":{},"yanked":false}
