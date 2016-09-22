@@ -1,0 +1,1 @@
+{"name":"rsmath","vers":"0.1.3","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"^0.1.35","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a71d1d3957f165d883a45761e1c3225e45c3c2725133aeb203ff2c801ae14cd5","features":{},"yanked":false}
