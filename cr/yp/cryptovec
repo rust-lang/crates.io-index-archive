@@ -1,0 +1,1 @@
+{"name":"cryptovec","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f55dd6737897cf9b2c24f93bee1dd2d8950cb33ab22eb44fc827c85e0d06f587","features":{},"yanked":false}
