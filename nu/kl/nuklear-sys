@@ -1,0 +1,1 @@
+{"name":"nuklear-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3.35","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2c99df34a20c0a67b231f971e3c625a4ba38cb5cc1846ea3e1b44f6c8ff5ce42","features":{},"yanked":false}
