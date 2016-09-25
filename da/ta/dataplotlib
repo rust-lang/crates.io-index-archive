@@ -1,0 +1,1 @@
+{"name":"dataplotlib","vers":"0.1.0","deps":[{"name":"piston_window","req":"^0.52.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8644a69f8bc6a125665ee0c72747f18ef81dd444adc8239c2f71058ac264e9a3","features":{},"yanked":false}
