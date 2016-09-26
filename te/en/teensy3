@@ -1,1 +1,2 @@
 {"name":"teensy3","vers":"0.1.0","deps":[{"name":"teensy3-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8447214ccdd4b0f24d400dff7c25f794d2b170fd6075afb5a04cf33b4b71ab85","features":{},"yanked":false}
+{"name":"teensy3","vers":"0.1.1","deps":[{"name":"teensy3-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5e29afddf60c84bd90af260d316b51d2f90aa9ec7b8f09a13119e9a4c251450","features":{},"yanked":false}
