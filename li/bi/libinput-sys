@@ -1,0 +1,1 @@
+{"name":"libinput-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6dc253adebd1724642ebbb46641ea5812de88885117ac4e5b6cb237f92e5a6f1","features":{},"yanked":false}
