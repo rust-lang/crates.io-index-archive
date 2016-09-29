@@ -1,0 +1,1 @@
+{"name":"rust-cate","vers":"0.1.0","deps":[{"name":"clap","req":"^2.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be439a67185bfb522a6f12fadcddaa69fb782f586c6222e5e27161cc174b9d65","features":{},"yanked":false}
