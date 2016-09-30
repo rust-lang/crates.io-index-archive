@@ -3,3 +3,4 @@
 {"name":"i2c_parser","vers":"0.1.2","deps":[],"cksum":"85c8fcba7b128d081f9146c13773d0b4dd62b177cbdb455c605c1568a503a8ee","features":{},"yanked":false}
 {"name":"i2c_parser","vers":"0.1.3","deps":[],"cksum":"65b8d516f3943c2402f95891bca2375f305d1e46e5da11f69f790ed7dd0fab6d","features":{},"yanked":false}
 {"name":"i2c_parser","vers":"0.1.4","deps":[],"cksum":"74019de327db18bd42775ec4a7ee19eb444b7d6d1b4269d970e6ff9ccbfab195","features":{},"yanked":false}
+{"name":"i2c_parser","vers":"0.1.5","deps":[],"cksum":"82ca51df999dd811c4cd614244f824e90342727ca6155440bb7314d8e09953e0","features":{},"yanked":false}
