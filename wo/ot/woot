@@ -1,0 +1,1 @@
+{"name":"woot","vers":"0.1.0","deps":[{"name":"itertools","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f990046f766e173c994d8e7b48971690539ed1fc965d920b3c43e09ed5da82d0","features":{},"yanked":false}
