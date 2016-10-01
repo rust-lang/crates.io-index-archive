@@ -1,1 +1,2 @@
 {"name":"libc-extra","vers":"0.0.1","deps":[],"cksum":"f5d4e53c638e4ac798a1fc987c1345abaa3fcdccd80f99b9a9c2597080592dbc","features":{},"yanked":false}
+{"name":"libc-extra","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3da6146d31b88c9f265cdb09b03c40e9afe4cfa34b121f515f6d57881864b46d","features":{},"yanked":false}
