@@ -7,3 +7,4 @@
 {"name":"syscall-alt","vers":"0.0.8","deps":[],"cksum":"6324a53e8be295c7daa773eaf58efddd7aec82aa4a68b44c12721f64c57e72c5","features":{},"yanked":false}
 {"name":"syscall-alt","vers":"0.0.9","deps":[],"cksum":"3fa2c3fd21fb3c8d199b830dbdb6366e1d2cb46be768bd4a0d180dd8dca6eed7","features":{},"yanked":false}
 {"name":"syscall-alt","vers":"0.0.10","deps":[],"cksum":"c90b26f5a155b21ff728d94668b38afa539c88d1bf0342e35b0aa741f524a364","features":{},"yanked":false}
+{"name":"syscall-alt","vers":"0.0.11","deps":[],"cksum":"dd3da7501002539893ba94578945e81fd6702daf2d4835aa4e26ebf52a678580","features":{},"yanked":false}
