@@ -1,0 +1,1 @@
+{"name":"blurmock","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3cc929fb554c1246b0b955117f1491d20f6726cd6415a3a4ced3f64db65362a4","features":{},"yanked":false}
