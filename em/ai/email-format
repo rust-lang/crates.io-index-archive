@@ -1,0 +1,1 @@
+{"name":"email-format","vers":"0.1.0","deps":[{"name":"buf-read-ext","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db6001366928c25ab0834f2648663e2502fffe9259ac7078880b6e290429b92e","features":{},"yanked":false}
