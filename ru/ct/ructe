@@ -1,1 +1,2 @@
 {"name":"ructe","vers":"0.1.0","deps":[{"name":"nom","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c8c1dd24a5c8c3e6b210737eb0a0db36fd62033eccb5924a03cc82be45135a7","features":{},"yanked":false}
+{"name":"ructe","vers":"0.1.1","deps":[{"name":"nom","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e11d0885abb134679e11b5d740b4c8f757d1f0ebd20555e432acc755fa60e80a","features":{},"yanked":false}
