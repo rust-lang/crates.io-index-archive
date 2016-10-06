@@ -1,0 +1,1 @@
+{"name":"crypto-tests","vers":"0.1.0","deps":[{"name":"digest","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1ebde4691a7b7e45d6f2e8655a99e7fd822f028207b12fb8b5b67a014617d04","features":{},"yanked":false}
