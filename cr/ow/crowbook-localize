@@ -1,0 +1,1 @@
+{"name":"crowbook-localize","vers":"0.0.1","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1952787dc966d6072b3d03e5b99f7ebb5cb79bf04852d3dbd9e6d1edac041fc0","features":{},"yanked":false}
