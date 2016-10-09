@@ -28,3 +28,4 @@
 {"name":"maud","vers":"0.10.0","deps":[],"cksum":"9332762937b149cc02231e4f1162d53fa4cd959961a4c2698bdfc8cddc74a8f4","features":{},"yanked":false}
 {"name":"maud","vers":"0.11.0","deps":[{"name":"iron","req":"^0.4.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48ddfaef06bafd8d316758f4c658f01655a4daddf6fde06ca00e07aa82f97f32","features":{},"yanked":false}
 {"name":"maud","vers":"0.11.1","deps":[{"name":"iron","req":"^0.4.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a61f1d66b8913a98d5c6f1649a45d9fc59a83a4de32f21507f6f4b7a70997220","features":{},"yanked":false}
+{"name":"maud","vers":"0.12.0","deps":[{"name":"iron","req":"^0.4.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40e27d3adef3e97d828ffc3a4a8604910570037ac24c26abcf22e9a2c11b57a7","features":{},"yanked":false}
