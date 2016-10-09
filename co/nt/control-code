@@ -1,1 +1,2 @@
 {"name":"control-code","vers":"0.1.0","deps":[{"name":"nom","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f769508ee792bf0cacfd01ee0491aaa14059d2559c7a4e256c394a637c150d4c","features":{},"yanked":false}
+{"name":"control-code","vers":"0.1.1","deps":[{"name":"nom","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b3bb1af63f897eb8732f970bd4ee9dbfcd74f5c9d51e0d77f3fba1ca1ba39e3f","features":{},"yanked":false}
