@@ -4,3 +4,4 @@
 {"name":"integer-encoding","vers":"0.10.0","deps":[],"cksum":"444781e4ad5e24fa735199f339d0b05dd271cbe1a72a84b1d39b073a0269b531","features":{},"yanked":false}
 {"name":"integer-encoding","vers":"0.11.0","deps":[],"cksum":"7c8289d3dc1830f92dde75c900f05cf6e8c8781795500c8fa4f40e50164eadd9","features":{},"yanked":false}
 {"name":"integer-encoding","vers":"0.12.0","deps":[],"cksum":"5d86aca9c502ad1fcf6d2b8b6e514c34ad73da12758ad1c03308d5457315ca7a","features":{},"yanked":false}
+{"name":"integer-encoding","vers":"1.0.0","deps":[],"cksum":"c94a64ea2bd61885b5e4b749a95b5419c888bfb6ea5fe8405da9aef88e9af6e4","features":{},"yanked":false}
