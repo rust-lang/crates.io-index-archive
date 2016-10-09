@@ -1,1 +1,1 @@
-{"name":"svd-parser","vers":"0.1.0","deps":[{"name":"xmltree","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06741e624c09c24989d652dba91ed050b413331f930cffbbcf734a44d1382e35","features":{},"yanked":false}
+{"name":"svd-parser","vers":"0.1.0","deps":[{"name":"xmltree","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06741e624c09c24989d652dba91ed050b413331f930cffbbcf734a44d1382e35","features":{},"yanked":true}
