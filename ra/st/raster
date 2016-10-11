@@ -1,0 +1,1 @@
+{"name":"raster","vers":"0.0.1","deps":[{"name":"image","req":"^0.10.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"208eba348186a49e980366cc0f22629f4bb76b532fa0a8ebda205ca50414994d","features":{},"yanked":false}
