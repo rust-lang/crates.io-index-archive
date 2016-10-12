@@ -8,3 +8,4 @@
 {"name":"permutohedron","vers":"0.1.7","deps":[],"cksum":"57cfb881a00570d9a54b04ab75a2d1afcf9666f8e695cae907201d9bfdc1262a","features":{},"yanked":false}
 {"name":"permutohedron","vers":"0.2.0","deps":[],"cksum":"a7940804ed3404d2ca7b0b1394c387b5bc4106e612b4f3223b7838a025b94cdb","features":{},"yanked":false}
 {"name":"permutohedron","vers":"0.2.1","deps":[],"cksum":"abf78a1e8b52782de92fc4f361362a62bcf5fd5718b5432b48cb381485740b83","features":{"std":[],"default":["std"]},"yanked":false}
+{"name":"permutohedron","vers":"0.2.2","deps":[],"cksum":"15205169997d28cfdc18e44d18bd34b70a0322a213e57bb968c22858ea70304f","features":{"std":[],"default":["std"]},"yanked":false}
