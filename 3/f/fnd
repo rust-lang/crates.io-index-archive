@@ -1,0 +1,1 @@
+{"name":"fnd","vers":"0.1.0","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ansi_term","req":"^0.7.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3448188ea8be6d2045038ba68ac5873a212c6f3219a7d4d2473f57b23d02fff3","features":{},"yanked":false}
