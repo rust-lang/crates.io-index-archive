@@ -10,3 +10,4 @@
 {"name":"eclectic","vers":"0.8.0","deps":[],"cksum":"115329ecc2406d5b8b29af4e5d0a8a6625dfb63cc538e9532b3bb4794fe3caea","features":{},"yanked":false}
 {"name":"eclectic","vers":"0.9.0","deps":[],"cksum":"f603f9484adfd71bc13ceef9705cb6247d3b863bc578c3dbd0fb6444d942934f","features":{},"yanked":false}
 {"name":"eclectic","vers":"0.10.0","deps":[],"cksum":"b524d01374d0d85f8af8a77c200b37a43775765b971a26035bf8852ff9001a5c","features":{"nightly":[]},"yanked":false}
+{"name":"eclectic","vers":"0.11.0","deps":[],"cksum":"a06e1900d40239d9a4536bf05b252a78c09d73cd077e850d8d43f47550e91d7e","features":{"nightly":[]},"yanked":false}
