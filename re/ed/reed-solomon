@@ -1,1 +1,2 @@
 {"name":"reed-solomon","vers":"0.1.0","deps":[],"cksum":"f0eafef874449d311b51c936796c4e6fed0179440f0bb5d1762f773d09f5a333","features":{},"yanked":false}
+{"name":"reed-solomon","vers":"0.1.1","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5b132369057903900df28fdbab02b8475a0983897a4f724ad0d6706ff7d2d7f1","features":{},"yanked":false}
