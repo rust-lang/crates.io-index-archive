@@ -1,0 +1,1 @@
+{"name":"ntp-parser","vers":"0.1.1","deps":[{"name":"nom","req":"^1.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ec22f54f761c07bb75b75a756033ea73d3d2bba0c25053d2ea33bdba90134b6","features":{},"yanked":false}
