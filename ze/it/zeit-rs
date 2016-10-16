@@ -1,1 +1,2 @@
 {"name":"zeit-rs","vers":"0.1.0","deps":[],"cksum":"cb02b98e8dd38551ecf5ec05593e2096a746856f50b6f78ab4a2ae6991435356","features":{},"yanked":false}
+{"name":"zeit-rs","vers":"0.1.1","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01dc7d60943f4ce715ea32343fccc43ca5c4af5a8d95495d57a323ad96dc5320","features":{},"yanked":false}
