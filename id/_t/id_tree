@@ -1,0 +1,1 @@
+{"name":"id_tree","vers":"0.2.3","deps":[{"name":"snowflake","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"191aad9c60f5729239fee1a5d15dbf4c53390434726687fe5a588bc226583a17","features":{},"yanked":false}
