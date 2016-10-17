@@ -1,0 +1,1 @@
+{"name":"post-expansion","vers":"0.0.1","deps":[{"name":"quote","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb0ce313a46b383951e7254fd4158c9fe307ff9de47e0e2fed47b15b031e0e06","features":{},"yanked":false}
