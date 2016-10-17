@@ -1,1 +1,2 @@
 {"name":"icmp","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"283b00b561662f4b2f173a07c023396af491072466b51d932546f980ff8c165f","features":{},"yanked":false}
+{"name":"icmp","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"746b5377ed317e562c017b78d27bf2fb28a4aa1ae2e833579dc27662f46e05e4","features":{},"yanked":false}
