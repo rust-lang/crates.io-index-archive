@@ -1,0 +1,1 @@
+{"name":"claude","vers":"0.1.0","deps":[{"name":"regex","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a292548b08a5fdd4d394a3c531d5e0579fea858002ba450522eafce815ab5762","features":{"parsing":["regex"]},"yanked":false}
