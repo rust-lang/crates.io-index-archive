@@ -9,3 +9,4 @@
 {"name":"matrixmultiply","vers":"0.1.8","deps":[],"cksum":"96b20aff574a5af018a975788fccf82317e3cd44ce2f57fe2eed3df43e03d100","features":{},"yanked":false}
 {"name":"matrixmultiply","vers":"0.1.9","deps":[{"name":"bencher","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dee390ed044d68f8f5416fc41895ea11cd9d9930e5d6a8ca6905b73bfc83bcf3","features":{},"yanked":false}
 {"name":"matrixmultiply","vers":"0.1.10","deps":[{"name":"bencher","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9083932b3b815b4a5db42c3b815dfa2fa5abb3a33343457746d03ca0763d1421","features":{},"yanked":false}
+{"name":"matrixmultiply","vers":"0.1.11","deps":[{"name":"bencher","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"948b026b7b67304af68334fe0705db861616f67946b4acab9b0e26dcc1398ea8","features":{},"yanked":false}
