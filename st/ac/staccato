@@ -1,1 +1,2 @@
 {"name":"staccato","vers":"0.1.0","deps":[{"name":"clap","req":"^2.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab2727c904c73c2a97ea9ceb8fcc638ac70ccaaa4ff43e69000cf66f10b5edd4","features":{},"yanked":false}
+{"name":"staccato","vers":"0.1.1","deps":[{"name":"clap","req":"^2.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a4852217547d8fdc819649b4fdbac8ca8ed52714d24962415702f738950a05d","features":{},"yanked":false}
