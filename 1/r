@@ -5,3 +5,4 @@
 {"name":"r","vers":"0.0.5","deps":[],"cksum":"f0e4655c9bdf25b2789d6e537bb0d5c76a8d5cf1497de304619aa27e78064db8","features":{},"yanked":false}
 {"name":"r","vers":"0.0.6","deps":[],"cksum":"bfe3531d7cf8ac54012bdab630404bc34228dc59224483adc2f618f9198fae7f","features":{},"yanked":false}
 {"name":"r","vers":"0.0.7","deps":[{"name":"rand","req":"^0.3.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.3.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a37516ee1bbee94c9395092b51c98012d914839b0b7e3aa7de517d5e5fcf0e30","features":{},"yanked":false}
+{"name":"r","vers":"0.0.9","deps":[{"name":"rand","req":"^0.3.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80e936d744cbaa0564128675ed776ce70c6f4622dca3d101490afe18ddad199f","features":{},"yanked":false}
