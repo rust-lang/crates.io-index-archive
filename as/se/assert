@@ -21,3 +21,4 @@
 {"name":"assert","vers":"0.6.1","deps":[],"cksum":"7bef3d51b08e66e403b60bb2096dcbba320a8fff8e7e2fd5ecc7d90026aaac64","features":{},"yanked":false}
 {"name":"assert","vers":"0.7.0","deps":[],"cksum":"25d3d90df073db5ee8e71f358aa3664db378f6f0cdb1acaa5f0fe05b9cfb398a","features":{},"yanked":false}
 {"name":"assert","vers":"0.7.1","deps":[],"cksum":"e4c43da651e6d62a92185283c09cd8afda6abe2c3e569373ddeac6ab939986d4","features":{},"yanked":false}
+{"name":"assert","vers":"0.7.2","deps":[],"cksum":"d4faf9a55d5822fa56822911ccf066d060b4a4d029223947b261477c56c3f3ed","features":{},"yanked":false}
