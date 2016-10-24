@@ -1,0 +1,1 @@
+{"name":"githelper","vers":"0.1.0","deps":[{"name":"git2","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d4096a464e5ba7599308e8443455b9f5423edf9113c442024d612e32fa824dc","features":{},"yanked":false}
