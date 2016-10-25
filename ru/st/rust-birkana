@@ -1,0 +1,1 @@
+{"name":"rust-birkana","vers":"0.1.0","deps":[{"name":"svg","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5309fb3122566b7ce4c28b4f6bb17bee50bca8695be0118054d930cadcc83743","features":{},"yanked":false}
