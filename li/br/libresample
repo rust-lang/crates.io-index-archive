@@ -1,0 +1,1 @@
+{"name":"libresample","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"342b3fad60fea5c4f3bbf5d2babf959d86b067402945b8fb719b525ceb359492","features":{},"yanked":false}
