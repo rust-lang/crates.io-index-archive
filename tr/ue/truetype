@@ -37,3 +37,4 @@
 {"name":"truetype","vers":"0.21.0","deps":[],"cksum":"08acaa6f412f5f7a68fd53f39482fcec8e5d2901758e563c6a58cc82b5fa54e7","features":{},"yanked":false}
 {"name":"truetype","vers":"0.22.0","deps":[],"cksum":"5976b63974e13bddbcc3e12e146980a4d311946d5dbc4d19edb65b36453b2995","features":{},"yanked":false}
 {"name":"truetype","vers":"0.23.0","deps":[],"cksum":"c9ce2bdf37b03a98428f00fc2876f5d57f365087b67ae14520af7ee568a91f44","features":{},"yanked":false}
+{"name":"truetype","vers":"0.23.1","deps":[],"cksum":"2285d15f85b3b0b8818e24949f23b324ab1b144a8954127bf3c343762bebefed","features":{},"yanked":false}
