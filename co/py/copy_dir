@@ -1,0 +1,1 @@
+{"name":"copy_dir","vers":"0.1.0","deps":[{"name":"walkdir","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8dfef7a54a749b90912fa9b9dee66fe6da0dd0b39ea497f74b26675569c88af7","features":{},"yanked":false}
