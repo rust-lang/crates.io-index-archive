@@ -1,1 +1,2 @@
 {"name":"cargo-travis","vers":"0.0.0","deps":[],"cksum":"a94067959c3635c47908d2677fbac664b758a84919f7f71787e78e5ae4aa03d0","features":{},"yanked":false}
+{"name":"cargo-travis","vers":"0.0.1-pre0","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cargo","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c4dba9a262a804a8e5278f2ed684d00a39b52c4abf58b697491ad9791dd5ec2","features":{},"yanked":false}
