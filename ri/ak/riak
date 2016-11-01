@@ -1,0 +1,1 @@
+{"name":"riak","vers":"0.1.0","deps":[{"name":"protobuf","req":"^1.0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.3.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7b535595b6edfdd2e254caed9a9c3431fe5ae1fae58148b43fe42cf45f53ec9","features":{},"yanked":false}
