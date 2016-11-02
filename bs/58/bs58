@@ -1,0 +1,1 @@
+{"name":"bs58","vers":"0.1.2","deps":[{"name":"rust-base58","req":"^0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"base58","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3d1b20e972ea405593ad6336440db4de8bd12942d3ee923bb4912cf7d2c9a773","features":{},"yanked":false}
