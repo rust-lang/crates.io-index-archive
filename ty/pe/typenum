@@ -11,3 +11,4 @@
 {"name":"typenum","vers":"1.3.1","deps":[],"cksum":"4e4e1a766686e4f2d0376260a82a0cc06e8ce3bbc6f67b499065e04d63eb8951","features":{"no_std":[]},"yanked":false}
 {"name":"typenum","vers":"1.3.2","deps":[],"cksum":"20f316d9057bedfb465699a77d63d37d3eeef53a63ec835d715abd3bd3a87b5e","features":{"no_std":[]},"yanked":false}
 {"name":"typenum","vers":"1.4.0","deps":[],"cksum":"0597740ce8121d2286d9b4942effc48beb68777cdb8fe1fcb68494979b86ab69","features":{"no_std":[]},"yanked":false}
+{"name":"typenum","vers":"1.5.0","deps":[{"name":"clippy","req":"^0.0.97","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f54860ca0a4135b6f05a1f439055a9a68e819b9ec3eda10964be1119b033c91","features":{"no_std":[]},"yanked":false}
