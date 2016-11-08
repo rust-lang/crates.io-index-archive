@@ -1,0 +1,1 @@
+{"name":"cuda","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bef88d68521ba90478b86c46f7261e1ffa5958195b22cc7e30ec72448eb2e1ca","features":{},"yanked":false}
