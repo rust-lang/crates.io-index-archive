@@ -1,0 +1,1 @@
+{"name":"sharedmem","vers":"0.1.0","deps":[{"name":"memmap","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa5574a720bf292ed4c6c3547605efc18b36534420716522db9e40efca4c1044","features":{},"yanked":false}
