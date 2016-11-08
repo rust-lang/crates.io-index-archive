@@ -1,0 +1,1 @@
+{"name":"openblas_ffi","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"walkdir","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bc2362b3769d63f38800afe5565f60f80e01cbbe2dd907b844e1fb98303a2887","features":{},"yanked":false}
