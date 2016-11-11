@@ -17,3 +17,4 @@
 {"name":"lazy_static","vers":"0.1.16","deps":[],"cksum":"cf186d1a8aa5f5bee5fd662bc9c1b949e0259e1bcc379d1f006847b0080c7417","features":{"nightly":[]},"yanked":false}
 {"name":"lazy_static","vers":"0.2.0","deps":[],"cksum":"4f9e1e434b35b61b6422b19998d5c219f6b4a90aae841583444b44077adb953b","features":{"nightly":[]},"yanked":false}
 {"name":"lazy_static","vers":"0.2.1","deps":[{"name":"spin","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49247ec2a285bb3dcb23cbd9c35193c025e7251bfce77c1d5da97e6362dffe7f","features":{"nightly":[],"spin_no_std":["nightly","spin"]},"yanked":false}
+{"name":"lazy_static","vers":"0.2.2","deps":[{"name":"spin","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6abe0ee2e758cd6bc8a2cd56726359007748fbf4128da998b65d0b70f881e19b","features":{"spin_no_std":["nightly","spin"],"nightly":[]},"yanked":false}
