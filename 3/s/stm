@@ -3,3 +3,4 @@
 {"name":"stm","vers":"0.1.2","deps":[],"cksum":"15c5d2e8d93bc04be56b03979a0533f4b1f4d515e8ce40bbddfcffe2325f8a9e","features":{},"yanked":false}
 {"name":"stm","vers":"0.2.0","deps":[],"cksum":"dac23d15a3f96be8c5e331414e9e3d2451427d1e90dfc7886f248daedbb35ee5","features":{},"yanked":false}
 {"name":"stm","vers":"0.2.1","deps":[],"cksum":"2fc0634c362c5c50d4b72a19d0a7b8a49bd138ddd4a8e11449ca64a2e33ec78c","features":{},"yanked":false}
+{"name":"stm","vers":"0.2.2","deps":[{"name":"clippy","req":"^0.0.98","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3134c63bce9c720b0dc2b748b1d15af6d78739cd1008cd97b50a211253f61928","features":{"default":[],"dev":["clippy"]},"yanked":false}
