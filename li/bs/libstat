@@ -1,0 +1,1 @@
+{"name":"libstat","vers":"0.1.0","deps":[{"name":"libmath","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3fb82d718b12fc01f6c57f7d8ef09c55eba4f2ab3e292e749c4ccad2e7f0e290","features":{},"yanked":false}
