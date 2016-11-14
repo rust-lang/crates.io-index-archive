@@ -1,1 +1,2 @@
 {"name":"git-historian","vers":"0.3.2","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bce7149f16269f5069ee985c3d1aa7985811081a1a12eaa27915ebe1c6d1cc68","features":{},"yanked":false}
+{"name":"git-historian","vers":"0.3.3","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4284cd2f8d547711912641521bff49e1afda416b921c4fd23d0fb4de506cdd0","features":{},"yanked":false}
