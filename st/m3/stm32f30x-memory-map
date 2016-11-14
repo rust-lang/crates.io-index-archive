@@ -1,0 +1,1 @@
+{"name":"stm32f30x-memory-map","vers":"0.1.0","deps":[{"name":"volatile-register","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62efb115bef4ac0595287f7267da9cd0aabde589499e79561d9549cddbd895a7","features":{},"yanked":false}
