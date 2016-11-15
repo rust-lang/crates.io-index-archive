@@ -1,0 +1,1 @@
+{"name":"android_liblog-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f37c5d7876489ea7c0bab88ae690be961108d7668a872f9bcc8cc1171e6d4de2","features":{},"yanked":false}
