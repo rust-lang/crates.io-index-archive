@@ -1,1 +1,2 @@
 {"name":"pledge","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e4653280e77e1f5c04335f4b72ca775579dd258a7c92b20adcdaa4d916ce63fc","features":{},"yanked":false}
+{"name":"pledge","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64856d8ab47d811d862789230e490843b0d57555a7ee0777a8f1aad2500189cd","features":{},"yanked":false}
