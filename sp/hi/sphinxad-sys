@@ -1,0 +1,1 @@
+{"name":"sphinxad-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5700393004b7039fb44e9d8329cba82cf0c670d792d51434f342ea6e2df8996a","features":{},"yanked":false}
