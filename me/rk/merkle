@@ -1,0 +1,1 @@
+{"name":"merkle","vers":"0.1.0","deps":[{"name":"rust-crypto","req":"^0.2.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"071d85b54dcd8f076dc219a7487a2739aabd4720c667f9e1ea6639126adbed67","features":{},"yanked":false}
