@@ -1,1 +1,2 @@
 {"name":"sphinxad-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5700393004b7039fb44e9d8329cba82cf0c670d792d51434f342ea6e2df8996a","features":{},"yanked":false}
+{"name":"sphinxad-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"766be5dc12e7ef5d9a53ce8dbcc6e9053422142c9d928bcb8eeefb6b94c7a552","features":{},"yanked":false}
