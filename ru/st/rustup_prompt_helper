@@ -1,0 +1,1 @@
+{"name":"rustup_prompt_helper","vers":"1.0.0","deps":[{"name":"toml","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"daeb884eaee1f717c9031e9eada99fdaa84df5b49b21a8ff61a5853f81ea2e56","features":{},"yanked":false}
