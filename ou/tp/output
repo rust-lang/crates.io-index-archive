@@ -1,0 +1,1 @@
+{"name":"output","vers":"0.1.0","deps":[{"name":"termion","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd10072dd8b0ff05345e63b72f81c267e5e5b008bd5641de7baca4d72d15596d","features":{},"yanked":false}
