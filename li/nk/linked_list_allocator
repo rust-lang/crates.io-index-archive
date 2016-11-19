@@ -5,3 +5,4 @@
 {"name":"linked_list_allocator","vers":"0.2.0","deps":[],"cksum":"fdf2ce02c43c4c8b3ab6f4d2a9a657aa1beff368ec7191abf3058c7b317fe030","features":{},"yanked":false}
 {"name":"linked_list_allocator","vers":"0.2.1","deps":[],"cksum":"c1c588e59292b3efc713743079cd005886fe8a2b4528df890ae308b51668093e","features":{},"yanked":false}
 {"name":"linked_list_allocator","vers":"0.2.2","deps":[],"cksum":"58bc6078c53efb4976165df37d3b3c7b9eddd7091d2ec2a2062eed524e20052e","features":{},"yanked":false}
+{"name":"linked_list_allocator","vers":"0.2.3","deps":[],"cksum":"3504327a5901bc4fb25ca095d67a6d3f48be4233dc08230f197b313736a13384","features":{},"yanked":false}
