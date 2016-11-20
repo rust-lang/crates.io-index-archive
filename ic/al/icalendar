@@ -1,0 +1,1 @@
+{"name":"icalendar","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"uuid","req":"^0.3","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6114eb961bf13233abf64590628e4666197f898e5e7d52ce6a027e49f887564","features":{},"yanked":false}
