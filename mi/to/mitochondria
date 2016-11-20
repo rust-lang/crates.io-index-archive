@@ -9,3 +9,4 @@
 {"name":"mitochondria","vers":"1.0.1","deps":[],"cksum":"2273bd35eef4bc41b6694343d7c210a3741a058102595222b93d86925aa80138","features":{},"yanked":false}
 {"name":"mitochondria","vers":"1.1.0","deps":[],"cksum":"52c4c23d7622d7c96320a2c7d34be87fb3248aeef15ad0cbc7b62597b52d34e7","features":{"no_std":[]},"yanked":false}
 {"name":"mitochondria","vers":"1.1.1","deps":[],"cksum":"a3d6e78ceff1089ff234a22fa3ecdecf42530fc8bbf23b5ffcbec3ea5b0de7e7","features":{"no_std":[]},"yanked":false}
+{"name":"mitochondria","vers":"1.1.2","deps":[],"cksum":"9de3eca27871df31c33b807f834b94ef7d000956f57aa25c5aed9c5f0aae8f6f","features":{"no_std":[]},"yanked":false}
