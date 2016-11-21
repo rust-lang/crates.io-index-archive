@@ -1,0 +1,1 @@
+{"name":"pktparse","vers":"0.1.0","deps":[{"name":"arrayref","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"nom","req":"^1.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87b56f169179e8bce2ccbcb540da0f5423ca8865b009e4bdc8f31edbd557eeeb","features":{},"yanked":false}
