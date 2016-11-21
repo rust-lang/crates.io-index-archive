@@ -5,3 +5,4 @@
 {"name":"buf_redux","vers":"0.2.0","deps":[],"cksum":"c79226eea34a39cd00139c5e4c152b350e336d9fba56a2562bce30b2504ec2ea","features":{},"yanked":false}
 {"name":"buf_redux","vers":"0.3.0","deps":[],"cksum":"861b9d19b9f5cb40647242d10d0cb0a13de0a96d5ff8c8a01ea324fa3956eb7d","features":{"nightly":[]},"yanked":false}
 {"name":"buf_redux","vers":"0.5.0","deps":[{"name":"safemem","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd4232c8577a2a242ed7cd3c3dd2ca5232b93f0055f86fc896620b8e0e3dcf4a","features":{"nightly":[]},"yanked":false}
+{"name":"buf_redux","vers":"0.5.1","deps":[{"name":"safemem","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3b72356b36dea8e84f1b61f482224bd4e3f252586cefe80d643f2c6c0054acb","features":{"nightly":[]},"yanked":false}
