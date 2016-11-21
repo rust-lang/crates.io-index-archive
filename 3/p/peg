@@ -31,3 +31,4 @@
 {"name":"peg","vers":"0.3.16","deps":[],"cksum":"f7bee4a8d7e3655f9e64245d326f0a7dcbe9e3763e05159bcdd4747e0e96fc03","features":{"trace":[]},"yanked":false}
 {"name":"peg","vers":"0.3.17","deps":[],"cksum":"c4310f4230a6da1f72225ed28e3f0e04595095a7b742135c398a13b666d1a0ab","features":{"trace":[]},"yanked":false}
 {"name":"peg","vers":"0.3.18","deps":[],"cksum":"7ea7024cd8b605f95590abe0512a71000d8c596dd364c27e64f039db9647ec8b","features":{"trace":[]},"yanked":false}
+{"name":"peg","vers":"0.4.0","deps":[{"name":"quote","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2f7b0a8240dbf3d5cca65bba9791de310ce783d6e1426e56dc1278356b8017a","features":{"trace":[]},"yanked":false}
