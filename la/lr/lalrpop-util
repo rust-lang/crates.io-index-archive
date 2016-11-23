@@ -13,3 +13,4 @@
 {"name":"lalrpop-util","vers":"0.11.0","deps":[],"cksum":"bfc443e4d1f96ca708887b64b15c7c02c2bc57954fe3af41471681c242d8406b","features":{},"yanked":false}
 {"name":"lalrpop-util","vers":"0.12.0","deps":[],"cksum":"b2af45efc901171e23793f5edb55294dfab4fe1dc70d9df9450cb8f233ffea1f","features":{},"yanked":false}
 {"name":"lalrpop-util","vers":"0.12.1","deps":[],"cksum":"f59257a2ccd98d1c9d0ac4e4439e2f194a192ac38f6d840472bf37ba90554155","features":{},"yanked":false}
+{"name":"lalrpop-util","vers":"0.12.2","deps":[],"cksum":"41b247b3d287201e26994b2974b8e8881522c66afdb378244635b172c1c30132","features":{},"yanked":false}
