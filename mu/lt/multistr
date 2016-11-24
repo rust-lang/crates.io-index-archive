@@ -1,0 +1,1 @@
+{"name":"multistr","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"quickcheck","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"580cf28d7f3f14dc8493e67999a4f3a0cf628a7b2317b36f4d9306a9653e856a","features":{},"yanked":false}
