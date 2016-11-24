@@ -1,2 +1,3 @@
 {"name":"type-operators","vers":"0.1.0","deps":[],"cksum":"9ca916fb7bc821e2523ddc9df5fd49d7452c407b77a8dc527a2b3191953de9c7","features":{},"yanked":false}
 {"name":"type-operators","vers":"0.1.1","deps":[],"cksum":"623733b2d730de05296983604d1c5373f79b2dd4bfa4741aabfcd1e6451d590a","features":{},"yanked":false}
+{"name":"type-operators","vers":"0.1.2","deps":[],"cksum":"8eb3bf69ef53b71b755d6ecd32c3440ff3f066f32c34cce07e925bb4a98c1c86","features":{"default":[],"specialization":[],"nightly":["specialization"]},"yanked":false}
