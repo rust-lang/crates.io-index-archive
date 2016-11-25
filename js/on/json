@@ -33,3 +33,4 @@
 {"name":"json","vers":"0.10.3","deps":[],"cksum":"f3fb4510c0dbc38f7f43bdbe8b53defae0cd338b81ef416462a0ef69d600165c","features":{},"yanked":false}
 {"name":"json","vers":"0.11.0","deps":[],"cksum":"e35b1c427167cf2aca74cff6152263c9fa6c72b2da5d7b0645f01e2d0adf9c72","features":{},"yanked":false}
 {"name":"json","vers":"0.11.1","deps":[],"cksum":"744ac06c879a9a222f4d74e9669df5171098ae2b136cf8484b2fb8d7b4c5e894","features":{},"yanked":false}
+{"name":"json","vers":"0.11.2","deps":[],"cksum":"777d62652aaadfc58a43d15f644f34aeaa9cba7aaf9412df2e8eb3e36b0a120d","features":{},"yanked":false}
