@@ -8,3 +8,4 @@
 {"name":"redox_syscall","vers":"0.1.7","deps":[],"cksum":"39f2f63b52e4622d1fda2b242d948488a0f0e509a1df85971818a129c3b6be1e","features":{},"yanked":false}
 {"name":"redox_syscall","vers":"0.1.8","deps":[],"cksum":"6f449eb5da5711752d678b6d6550e499f113c7e64df6e421bc6d207d83bbeb8a","features":{},"yanked":false}
 {"name":"redox_syscall","vers":"0.1.9","deps":[],"cksum":"b2fc340084203cab1268036d74476555336c630eb8794f296a5124342977cf75","features":{},"yanked":false}
+{"name":"redox_syscall","vers":"0.1.10","deps":[],"cksum":"20995495fbe9d543acf8424627c7dd10857019298971cc1342b2ffafeaa11804","features":{},"yanked":false}
