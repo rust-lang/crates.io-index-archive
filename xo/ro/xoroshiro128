@@ -1,0 +1,1 @@
+{"name":"xoroshiro128","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8426417ae3d30073afc47e829dc7731388b8d86e653685c67368ee7cdb4eaf01","features":{},"yanked":false}
