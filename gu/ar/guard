@@ -8,3 +8,4 @@
 {"name":"guard","vers":"0.2.5","deps":[],"cksum":"ac0e041bfb08d070b885f3fdd92cf099f832ead3c2b56709778cc44aaf1e2d65","features":{"nightly":[],"debug":[]},"yanked":false}
 {"name":"guard","vers":"0.2.6","deps":[],"cksum":"e3345b4c8f6d71e372147ba7c7d397941673de900c0eed00c121c192a0cca62a","features":{"nightly":[],"debug":[]},"yanked":false}
 {"name":"guard","vers":"0.3.0","deps":[],"cksum":"b6fa0b8f5598cabee37d939c8b1a51a0d4a92ba434a65ec0fcaf2c4b788b6231","features":{"debug":[],"nightly":[]},"yanked":false}
+{"name":"guard","vers":"0.3.1","deps":[],"cksum":"774a55f530090b3c0fb3131349f3b52ed4b712504f600d1485113309ab9e9458","features":{"nightly":[],"debug":[]},"yanked":false}
