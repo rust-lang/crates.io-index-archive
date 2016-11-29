@@ -8,3 +8,4 @@
 {"name":"seahash","vers":"2.3.0","deps":[],"cksum":"0e2b48a8fa17c9dd63898cf062c5e66b99ecd77c5240cee10bb56c916acd049f","features":{},"yanked":false}
 {"name":"seahash","vers":"2.4.0","deps":[],"cksum":"6361289ce24413f5d608ca31c66fb1c9ce78df14e1f86488f7f8d6f14398e8ea","features":{},"yanked":false}
 {"name":"seahash","vers":"3.0.0","deps":[],"cksum":"dcfc7d04677cf3770db74b243300dc650ca3c1109e4c6cdfc2355dca8fa7b3e8","features":{},"yanked":false}
+{"name":"seahash","vers":"3.0.1","deps":[],"cksum":"a3b148745a56630372549acf89e15bbb6541db6c37cd14f8904fe2c365da044c","features":{},"yanked":false}
