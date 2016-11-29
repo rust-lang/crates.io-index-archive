@@ -1,1 +1,2 @@
 {"name":"jni-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a25c38fae61d82e144c66d6faf0b861573ec3ae65c011fb74e2e1a2af922f93","features":{},"yanked":false}
+{"name":"jni-sys","vers":"0.2.0","deps":[],"cksum":"eac30fff0b1c46e3108b15520094c025610f08b4ccbd9e0bc0eb3bbd3b7c45ec","features":{},"yanked":false}
