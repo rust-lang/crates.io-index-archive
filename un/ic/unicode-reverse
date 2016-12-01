@@ -1,1 +1,2 @@
 {"name":"unicode-reverse","vers":"1.0.0","deps":[{"name":"unicode-segmentation","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99d43d7a4bb68ed7ffed3ca90a7ec7d615149b1976d3e2131d5b93c8295173b5","features":{},"yanked":false}
+{"name":"unicode-reverse","vers":"1.0.1","deps":[{"name":"unicode-segmentation","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d88e5bc4a9ae832ceee3a93f07aaa85842252874b734b6758a19bb19968d701","features":{},"yanked":false}
