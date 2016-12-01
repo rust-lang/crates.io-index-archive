@@ -1,1 +1,2 @@
 {"name":"brainfuck_rs","vers":"0.1.0","deps":[{"name":"nom","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0c61681656d974143ef33800576fd8f48083230232bca3ac74556d385157447","features":{},"yanked":false}
+{"name":"brainfuck_rs","vers":"0.2.0","deps":[{"name":"nom","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9301d5f8b52ab4f0107da98cb1130f8c2ed9b557cf5d3b163cfa2f1745f0055f","features":{},"yanked":false}
