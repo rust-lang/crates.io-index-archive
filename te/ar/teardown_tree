@@ -1,0 +1,1 @@
+{"name":"teardown_tree","vers":"0.4.1","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d0e4b3624cfb88dd63b60b944b29274f7859ae955a72b523bc7ef0543b4cba4","features":{"unstable":[]},"yanked":false}
