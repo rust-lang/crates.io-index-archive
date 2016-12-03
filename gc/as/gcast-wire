@@ -1,0 +1,1 @@
+{"name":"gcast-wire","vers":"0.1.1","deps":[{"name":"protobuf","req":"^1.0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"890feb5c1244f587c8fadeaf57b95061b1a914ed629e5d8fa25da7ec5bd95505","features":{},"yanked":false}
