@@ -1,2 +1,3 @@
 {"name":"rle_vec","vers":"0.1.0","deps":[],"cksum":"15d526aeb8191d97081397a6e2c635dcf030cd57c4c11a6325b65014af925ae8","features":{},"yanked":false}
 {"name":"rle_vec","vers":"0.2.0","deps":[],"cksum":"d1b6b311c9272b8480f20cffd330fad596f115a69024bcaddc31c74100ca3623","features":{},"yanked":false}
+{"name":"rle_vec","vers":"0.2.1","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1f903aaefa07d840bd5ca48859fb91612b29d58e2e5aa006d9aab213f1be218","features":{},"yanked":false}
