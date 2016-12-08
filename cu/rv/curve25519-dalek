@@ -1,0 +1,1 @@
+{"name":"curve25519-dalek","vers":"0.1.0","deps":[{"name":"arrayref","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30182855843af9c0847ecd71bb78bfe44760336e130dd92a42e7585c2a4d0e80","features":{},"yanked":false}
