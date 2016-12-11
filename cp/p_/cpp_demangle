@@ -1,0 +1,1 @@
+{"name":"cpp_demangle","vers":"0.1.0","deps":[{"name":"error-chain","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbcd8045f5e7f6a07c8e688fdfe707175e243abd9a1b0b2734584c4579e1f440","features":{"nightly":[]},"yanked":false}
