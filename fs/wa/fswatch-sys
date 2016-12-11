@@ -1,0 +1,1 @@
+{"name":"fswatch-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f4d29d05f88e766d277052daf0ef15734d359ac0e2907dca8766b1e16b4df10","features":{},"yanked":false}
