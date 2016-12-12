@@ -2,3 +2,4 @@
 {"name":"libgpg-error-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.1","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9affa8cb51711fa3790097fbae383ec602f002f8ca33f8d607c292afacddf426","features":{},"yanked":false}
 {"name":"libgpg-error-sys","vers":"0.1.2","deps":[],"cksum":"d4397f13e582abf8053a0394b6dc73428f343636e02c2c1969b564ca0311ecd8","features":{},"yanked":false}
 {"name":"libgpg-error-sys","vers":"0.1.4","deps":[],"cksum":"1eb0575b1c2be7c13bfb93034bda0d1ff61dd9faefb4804613312c9db1c94235","features":{},"yanked":false}
+{"name":"libgpg-error-sys","vers":"0.1.5","deps":[],"cksum":"3bb64fba126a92f112f2c707b2721d177c40dd916ccacda4b8f62446813b5142","features":{},"yanked":false}
