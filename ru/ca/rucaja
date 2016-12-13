@@ -1,0 +1,1 @@
+{"name":"rucaja","vers":"0.1.0","deps":[{"name":"jni-sys","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d499464c22866c2ceeecd30f5b47cb9ae51f0aa538fb7e6c7c2489e04856950","features":{},"yanked":false}
