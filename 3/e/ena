@@ -2,3 +2,4 @@
 {"name":"ena","vers":"0.1.1","deps":[],"cksum":"1d94174ed77a04d9183b3a05fc3c51c278efbb4b53778ed63bb477faf2799159","features":{},"yanked":false}
 {"name":"ena","vers":"0.2.0","deps":[],"cksum":"ef6777d97afbda76a79b1edb9127ed1a72a25159e75e12829acee0e3e9f27495","features":{},"yanked":false}
 {"name":"ena","vers":"0.3.0","deps":[],"cksum":"be8aa57014c625b37ce72a1f9330b27c4b5e8237ad76f06b70a97353207641d7","features":{},"yanked":false}
+{"name":"ena","vers":"0.4.0","deps":[],"cksum":"5c109645f12ca057044ef2ffa56670cf7e3fd1fa530d73cd185e8298b03380b5","features":{"unstable":[],"default":["unstable"]},"yanked":false}
