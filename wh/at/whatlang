@@ -1,0 +1,1 @@
+{"name":"whatlang","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"45250feeb61c2a97e08b7c7b8e110378c8717654f03ae0b78cf8eb8f9a4fcdcc","features":{},"yanked":false}
