@@ -1,1 +1,2 @@
 {"name":"test-to-vec","vers":"0.1.0","deps":[{"name":"nom","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"525181fd8b0b209a6ebdf79f9c949ed94f73dd981214016d614b52c2d7641e5a","features":{},"yanked":false}
+{"name":"test-to-vec","vers":"0.2.0","deps":[{"name":"nom","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3063ffa2801b7d30f17065efb369ecf142482778733a7c7ad5cc60115ccd8b11","features":{},"yanked":false}
