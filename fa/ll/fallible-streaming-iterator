@@ -1,1 +1,2 @@
 {"name":"fallible-streaming-iterator","vers":"0.1.0","deps":[],"cksum":"c3a5e3af625abf705e0b9836f2ecf17fe8340efbdbe3538dd25b9745ac28cf94","features":{},"yanked":false}
+{"name":"fallible-streaming-iterator","vers":"0.1.1","deps":[],"cksum":"f21789a72471af7eac15198255f1697eadfa010674735104bc2c9e43e69403ca","features":{"std":[]},"yanked":false}
