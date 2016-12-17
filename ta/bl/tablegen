@@ -1,0 +1,1 @@
+{"name":"tablegen","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"70202bacec4894200c4acef5d7503982b073548d03d733c700ba3be68a3d798e","features":{},"yanked":false}
