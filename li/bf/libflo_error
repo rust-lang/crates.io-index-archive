@@ -1,0 +1,1 @@
+{"name":"libflo_error","vers":"0.1.0","deps":[{"name":"error-chain","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0f1b76a9531c9b5faf3ccbaf9576f1d6daf6c207755b91d374756e3038e0dcb","features":{},"yanked":false}
