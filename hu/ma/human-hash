@@ -1,1 +1,2 @@
 {"name":"human-hash","vers":"0.1.0","deps":[{"name":"uuid","req":"^0.2","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d46778bc66c9f8396f50c77a6e39d07aa4062dbf9ca398c3cda9c84965820841","features":{},"yanked":false}
+{"name":"human-hash","vers":"0.1.1","deps":[{"name":"uuid","req":"^0.2","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b0ce626a6adbf800846a57f6f264f3f69fe57ac50ba2510265fe7449c7dff1e","features":{},"yanked":false}
