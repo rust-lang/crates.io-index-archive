@@ -1,0 +1,1 @@
+{"name":"arthas_plugin","vers":"0.1.0","deps":[{"name":"regex","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ecp","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e1eb1a300721d7260487c6a3fe5949294651969540281ea06f050d17f1a78db","features":{},"yanked":false}
