@@ -1,0 +1,1 @@
+{"name":"autoit","vers":"0.1.0","deps":[{"name":"libbindgen","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"64a9ba049727aad8973f325ac905b37f6933841b8831a6d3728f3a110bb96906","features":{},"yanked":false}
