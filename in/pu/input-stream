@@ -1,0 +1,1 @@
+{"name":"input-stream","vers":"0.1.0","deps":[{"name":"error-chain","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"631d196bb4406d173eba5bea28fdd2454057eb4967ee974bb16bcf068682dd11","features":{},"yanked":false}
