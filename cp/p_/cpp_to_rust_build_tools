@@ -1,0 +1,1 @@
+{"name":"cpp_to_rust_build_tools","vers":"0.1.0","deps":[{"name":"cpp_to_rust_common","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dea91c747636c9d4098d512c90963da441c965eafeed5e8f00e6c9e5b7125b59","features":{},"yanked":false}
