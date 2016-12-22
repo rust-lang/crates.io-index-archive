@@ -1,0 +1,1 @@
+{"name":"mowl","vers":"1.0.0","deps":[{"name":"log","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"term","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2eaf9bae72d1d94500cdec34622cae809a409509324b50851ada136b8d6f58f","features":{},"yanked":false}
