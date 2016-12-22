@@ -1,2 +1,3 @@
 {"name":"undo","vers":"0.1.0","deps":[],"cksum":"1bc10277d3953f33ae67fd7a375af852c419c3e8128a806aa08fcb935676dfd0","features":{},"yanked":false}
 {"name":"undo","vers":"0.2.0","deps":[{"name":"fnv","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4a9281e14935225f9ff75529d2c79ab804532254b9a05f23a6ff3f3d202ec62","features":{},"yanked":false}
+{"name":"undo","vers":"0.2.1","deps":[{"name":"fnv","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7223a80d416f50e5d34ee3795ad4c467963e5b156d327199f8e0889136305be2","features":{},"yanked":false}
