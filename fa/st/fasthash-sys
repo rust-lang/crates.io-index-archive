@@ -1,0 +1,1 @@
+{"name":"fasthash-sys","vers":"0.1.0","deps":[{"name":"libbindgen","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ad6265d32484f308d35ab8b4ba08919973ffe0cef23b278179d1e75815f6dff4","features":{},"yanked":false}
