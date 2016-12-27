@@ -1,1 +1,2 @@
 {"name":"pathfinding","vers":"0.1.0","deps":[{"name":"num","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"abfd4d37cd74d35909bea6c62caf0adf37303bed0deb79a599217611b5751be6","features":{},"yanked":false}
+{"name":"pathfinding","vers":"0.1.1","deps":[{"name":"num","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b1babeda9853f9a54cda651430df5f302890b2dfb07cf9840c5a5b766f05c5b","features":{},"yanked":false}
