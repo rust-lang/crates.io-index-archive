@@ -1,1 +1,2 @@
 {"name":"lopdf","vers":"0.1.0","deps":[{"name":"nom","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df8bda2bc6bcfea416141cd68af09fd6741a4457bd7667795e047114c08f4ef2","features":{},"yanked":false}
+{"name":"lopdf","vers":"0.1.1","deps":[{"name":"nom","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"396de58ee9eea9a92444892d3c2c85bbb0a29d160901fff1e043089747fcb862","features":{},"yanked":false}
