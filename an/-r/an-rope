@@ -1,0 +1,1 @@
+{"name":"an-rope","vers":"0.0.1","deps":[{"name":"tendril","req":"^0.2.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b7fa46f3be86eb809300de69d0a633cf617b7620f70b986e1a1e6cdf1c83b694","features":{"default":[],"rebalance":[],"with_tendrils":["tendril"]},"yanked":false}
