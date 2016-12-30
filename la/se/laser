@@ -1,0 +1,1 @@
+{"name":"laser","vers":"0.0.1","deps":[{"name":"ilda","req":"0.0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"etherdream","req":"0.0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee35a58fdfda311f064a9f86e602ca200112ac3534ae87196fd0cd1fb066d878","features":{},"yanked":false}
