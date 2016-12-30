@@ -1,0 +1,1 @@
+{"name":"rust_ofp","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f38a064f5cda26f8fe882947dc16b53c321267656e54554fbd1d7c1e00ce6320","features":{},"yanked":false}
