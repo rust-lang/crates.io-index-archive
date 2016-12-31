@@ -1,0 +1,1 @@
+{"name":"kvlite","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"^0.3.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0948a35c5bfcb4d1866df03da0647d746c6477bfba6bacb72dbf36799e66172","features":{},"yanked":false}
