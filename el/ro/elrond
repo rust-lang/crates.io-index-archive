@@ -1,0 +1,1 @@
+{"name":"elrond","vers":"0.0.1","deps":[{"name":"byteorder","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"nom","req":"2.0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09d85ca188bd1b0b04b0653db0f864673cdfee5de00dd5d3ebcba7fccbbe62b7","features":{},"yanked":false}
