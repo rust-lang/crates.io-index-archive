@@ -1,0 +1,1 @@
+{"name":"poolite","vers":"0.2.0","deps":[{"name":"stderr","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num_cpus","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30867f1c09b1291422d19d8114226f714fdc435298f0df6268adb15557c5527a","features":{},"yanked":false}
