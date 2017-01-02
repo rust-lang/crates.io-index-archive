@@ -1,0 +1,1 @@
+{"name":"picotcp-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.19.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9de471e272a6bbf4d2693fb6bcfa5f6712dbf9f0deedbd288cf149c7281729f1","features":{},"yanked":false}
