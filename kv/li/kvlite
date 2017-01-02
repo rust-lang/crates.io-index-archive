@@ -1,1 +1,2 @@
 {"name":"kvlite","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"^0.3.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0948a35c5bfcb4d1866df03da0647d746c6477bfba6bacb72dbf36799e66172","features":{},"yanked":false}
+{"name":"kvlite","vers":"0.1.1","deps":[{"name":"nix","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"311292b9a4f0d4c8d2be193d3a338c50cb997f22223730e10391bce6c6008a45","features":{},"yanked":false}
