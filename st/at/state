@@ -1,1 +1,2 @@
 {"name":"state","vers":"0.1.0","deps":[{"name":"thread_local","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"232de090ff54c4ee8b08df1357a0917d18433f88245919a18f2da6efbf6f03b8","features":{"tls":["thread_local"]},"yanked":false}
+{"name":"state","vers":"0.1.1","deps":[{"name":"thread_local","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9d9dcc8397216861a216cc2278d3041e1e0beeef284a242c9ec9ad3007ae8e6","features":{"tls":["thread_local"]},"yanked":false}
