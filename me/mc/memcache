@@ -8,3 +8,4 @@
 {"name":"memcache","vers":"0.0.8","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35f2c1badab6e9f7a99ecd474be7a3e565066d474b5f7991be6133f6e4e8bf6e","features":{},"yanked":false}
 {"name":"memcache","vers":"0.0.9","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90edeba5a2821a47cd55cdd0fd56b2ff029b3cbe6d9c765e7ec2135da2ddebf1","features":{},"yanked":false}
 {"name":"memcache","vers":"0.0.10","deps":[],"cksum":"80729a73830f5271e23304b4b44d027dbcaa35ddc853fb9afd3a44027fe600a9","features":{},"yanked":false}
+{"name":"memcache","vers":"0.0.11","deps":[],"cksum":"0819c38b168172b23489362862260c9422115a747050af55265b45dce31752e7","features":{},"yanked":false}
