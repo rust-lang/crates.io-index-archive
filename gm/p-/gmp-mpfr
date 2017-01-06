@@ -1,1 +1,2 @@
 {"name":"gmp-mpfr","vers":"0.1.0","deps":[{"name":"gmp-mpfr-sys","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"937fdba99a3ed3c1c114e21149c7695f327d645fd8ff0fa48bf724ac093a545c","features":{},"yanked":false}
+{"name":"gmp-mpfr","vers":"0.1.1","deps":[{"name":"gmp-mpfr-sys","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6a647fd8bf356e3c200ba49539bc7526a5db66bb18a7e9bebd815f73267349f","features":{},"yanked":false}
