@@ -1,1 +1,2 @@
 {"name":"managed","vers":"0.0.0","deps":[],"cksum":"2756de0fbab723fa5e9c3da9e8b84c5e8a510034433a9c42ae251c9c524ec0a0","features":{},"yanked":false}
+{"name":"managed","vers":"0.1.0","deps":[],"cksum":"5e1cd1435deb7fc745a6930dbbeb7b33768aacea6dcf0ad5262b81d432da5e4b","features":{"use_collections":[],"use_alloc":[],"default":["use_std"],"use_std":[]},"yanked":false}
