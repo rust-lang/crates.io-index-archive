@@ -1,0 +1,1 @@
+{"name":"grpc-compiler","vers":"0.1.1","deps":[{"name":"protobuf","req":"1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05931f1edbe07e0b45771bf93c38862de63bed51e86a3686b16f90cfd34bcdb2","features":{},"yanked":false}
