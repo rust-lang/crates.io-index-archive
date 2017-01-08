@@ -1,0 +1,1 @@
+{"name":"rust-3d","vers":"0.3.2","deps":[{"name":"num","req":"^0.1.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c16514c4dc51e938b9c043076f5713893301864fb9e19b132b69de7549a043c3","features":{},"yanked":false}
