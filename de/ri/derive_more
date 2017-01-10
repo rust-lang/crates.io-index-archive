@@ -1,3 +1,4 @@
 {"name":"derive_more","vers":"0.1.0","deps":[],"cksum":"b6e0ff0621fcecc1670b9db49a9ff11232df23b161bfe6fdcfcd3ece66211099","features":{},"yanked":false}
 {"name":"derive_more","vers":"0.2.0","deps":[],"cksum":"449dbc198747c3ea09fc7b96186df647183793b5f1229cab7f2840ce1c6fb96d","features":{},"yanked":false}
 {"name":"derive_more","vers":"0.3.0","deps":[],"cksum":"7dff7f0e3d256d867110cd2b87f5212ee2c0fb5f0c87ec189bfa746d2a8ebf19","features":{},"yanked":false}
+{"name":"derive_more","vers":"0.4.0","deps":[{"name":"syn","req":"^0.10.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quote","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a33585dc6e2acd428644363b1856943be4c55722b0910a7e62dd9588ae41219f","features":{},"yanked":false}
