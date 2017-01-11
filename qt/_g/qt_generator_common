@@ -1,0 +1,1 @@
+{"name":"qt_generator_common","vers":"0.0.0","deps":[{"name":"cpp_to_rust_common","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c03b885bb62bba7d3099014deba32d1c2ecf119b00e0ff66b232a94dab30202","features":{},"yanked":false}
