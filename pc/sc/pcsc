@@ -1,1 +1,2 @@
 {"name":"pcsc","vers":"0.1.0-alpha1","deps":[{"name":"bitflags","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac00072122345580aeef04a73a63789d8d25ca6381b0a0bf50445abd1a84e783","features":{},"yanked":false}
+{"name":"pcsc","vers":"0.1.0-alpha2","deps":[{"name":"bitflags","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a58f7a6d490e1398272893d87aa23f5a73c99a47547cf844457a1c52ba282bb","features":{},"yanked":false}
