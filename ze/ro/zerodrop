@@ -1,0 +1,1 @@
+{"name":"zerodrop","vers":"0.1.0","deps":[{"name":"consistenttime","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afa2c91686a293f30ca2143f5d471837cf87df0de2b41324a688ca9a9ee3df2c","features":{},"yanked":false}
