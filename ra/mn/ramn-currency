@@ -1,1 +1,1 @@
-{"name":"ramn-currency","vers":"0.4.0","deps":[{"name":"num","req":"^0.1.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a320be0eac579656ce1a0848d3a3614c416d1454a00e8fec584246b54d68bf3d","features":{},"yanked":false}
+{"name":"ramn-currency","vers":"0.4.0","deps":[{"name":"num","req":"^0.1.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a320be0eac579656ce1a0848d3a3614c416d1454a00e8fec584246b54d68bf3d","features":{},"yanked":true}
