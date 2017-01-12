@@ -11,3 +11,4 @@
 {"name":"memcache","vers":"0.0.11","deps":[],"cksum":"0819c38b168172b23489362862260c9422115a747050af55265b45dce31752e7","features":{},"yanked":false}
 {"name":"memcache","vers":"0.0.12","deps":[],"cksum":"2fd966ab13c1e7937d007b903d609e84f74b3a674ec722c1a758a77925eac185","features":{},"yanked":false}
 {"name":"memcache","vers":"0.0.13","deps":[],"cksum":"160a1fbbe192cec4dfba15c05aa4b3c725d001bd052b193d8e276f97a4ec4fde","features":{},"yanked":false}
+{"name":"memcache","vers":"0.0.14","deps":[],"cksum":"4ea73494d62dce43d94fdfbffed708d9eaf132e0fef8848f2a575dbb7333d132","features":{},"yanked":false}
