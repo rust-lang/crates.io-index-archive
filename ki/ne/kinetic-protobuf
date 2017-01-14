@@ -1,0 +1,1 @@
+{"name":"kinetic-protobuf","vers":"0.1.0","deps":[{"name":"protobuf","req":"^1.0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"768ccf5b33e74c99f27fb8cde344774c8187f59fba66b69c1e9e190132bde3ac","features":{},"yanked":false}
