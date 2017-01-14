@@ -1,0 +1,1 @@
+{"name":"clear_on_drop","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f29e2c224d73e3b65466f046fca0e17417dac56f2162197a0c3097fe06216727","features":{"nightly":["no_cc"],"no_cc":[]},"yanked":false}
