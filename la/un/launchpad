@@ -1,0 +1,1 @@
+{"name":"launchpad","vers":"0.1.0","deps":[{"name":"portmidi","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"79cc83defa9cc94427857dcc14523f69d761fa785201c941c4eb13f3e6e9bc41","features":{},"yanked":false}
