@@ -1,0 +1,1 @@
+{"name":"trompt","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"termios","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c4a63ed4c79a4e17912ed4b4070758cf867f10590e7e7220dd67675f5146abe","features":{},"yanked":false}
