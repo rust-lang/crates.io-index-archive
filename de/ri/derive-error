@@ -1,0 +1,1 @@
+{"name":"derive-error","vers":"0.0.0","deps":[{"name":"quote","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c36d67149b74c52114c615c4ae1289746f96af0a15b5d8a022ed0636977c1e3","features":{},"yanked":false}
