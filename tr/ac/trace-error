@@ -1,0 +1,1 @@
+{"name":"trace-error","vers":"0.1.0","deps":[{"name":"backtrace","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1eb607817b7c597abe3b9c6e5b3b27958ef6395aec0d1eb72b28c4febe2c7b9","features":{},"yanked":false}
