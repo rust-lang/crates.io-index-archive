@@ -1,0 +1,1 @@
+{"name":"ufind","vers":"0.1.0","deps":[{"name":"atty","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^2.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e25867d3fa1999605e1ad2ea8e6ab9928f5d2037a2c7cdbb6f514c31a39bdc18","features":{},"yanked":false}
