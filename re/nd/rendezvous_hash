@@ -1,1 +1,2 @@
 {"name":"rendezvous_hash","vers":"0.1.0","deps":[],"cksum":"f01c7a4c6c50f6612ac6c2a16cfde6637c197ad3b698848132b7d4914b779dcb","features":{},"yanked":false}
+{"name":"rendezvous_hash","vers":"0.1.1","deps":[{"name":"clap","req":"^2.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"177a4abecbc06bf18f3982f8b635ffb6f11ff3bf1348387c66725793242c7658","features":{},"yanked":false}
