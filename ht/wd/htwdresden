@@ -1,0 +1,1 @@
+{"name":"htwdresden","vers":"0.1.0","deps":[{"name":"json","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"reqwest","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ad7c2fa61f8107fd78404b30d0d187a78bb197d0ab69b9d3d38bc143c21c77b","features":{},"yanked":false}
