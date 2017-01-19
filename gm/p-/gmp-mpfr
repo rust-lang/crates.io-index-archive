@@ -6,3 +6,4 @@
 {"name":"gmp-mpfr","vers":"0.3.2","deps":[{"name":"gmp-mpfr-sys","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d744b25e3a5255732e9819a6041119f12bd7a6e83a9907d4f4d70393dba210b1","features":{},"yanked":false}
 {"name":"gmp-mpfr","vers":"0.4.0","deps":[{"name":"gmp-mpfr-sys","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c8a86e51a42bb10ee1f32d83413d6eb6ffcaa99e9f245729294d8208b626eee","features":{},"yanked":false}
 {"name":"gmp-mpfr","vers":"0.4.1","deps":[{"name":"gmp-mpfr-sys","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0abcac3ee950712e16dfa4ace5ef64964144db0de583dc49679fc71b24956832","features":{},"yanked":false}
+{"name":"gmp-mpfr","vers":"0.5.0","deps":[],"cksum":"ec8155effd5ac1a3674d26e8d2f13669206e73d2ece1a73cf240d72b5732e478","features":{},"yanked":false}
