@@ -4,3 +4,4 @@
 {"name":"gmp-mpfr-sys","vers":"0.2.2","deps":[],"cksum":"40980ec784c18295442685be6d4c7c943886349939e114e9e88e0c4e65f11782","features":{},"yanked":true}
 {"name":"gmp-mpfr-sys","vers":"0.2.3","deps":[],"cksum":"4375231f3f17505f19e61c730e205f9fd17a2f3ca5822fce8ca0e53097519e44","features":{},"yanked":false}
 {"name":"gmp-mpfr-sys","vers":"0.3.0","deps":[],"cksum":"1cd900cdef8fc5c21d2f719644547a5e76e21fff77b2815cb9c217f9f48206a5","features":{},"yanked":false}
+{"name":"gmp-mpfr-sys","vers":"0.3.1","deps":[],"cksum":"b0fda85dafcd45b024d44a5cc6cfb4d2d34851389bab8e9ee564cf8ee552a326","features":{},"yanked":false}
