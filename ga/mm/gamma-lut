@@ -1,2 +1,3 @@
 {"name":"gamma-lut","vers":"0.1.0","deps":[],"cksum":"07806d30f2a95f4db3a9b1d9b54c35317952cf168b54446d17468d8ed1a309fb","features":{},"yanked":false}
 {"name":"gamma-lut","vers":"0.1.1","deps":[],"cksum":"5a16b657a962defd12c0f84bcfc14bb56d3c22625f603025106e2d1ae48cb7cb","features":{},"yanked":false}
+{"name":"gamma-lut","vers":"0.1.2","deps":[{"name":"lazy_static","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f305b39e1b582d9b7e4625ed6c0cc169e72d88585157d05779e5c9a07f6ec604","features":{},"yanked":false}
