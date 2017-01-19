@@ -2,3 +2,4 @@
 {"name":"bitintr","vers":"0.1.1","deps":[],"cksum":"618ac40ad0e70033fb635375340deec6554f83f8f34deebf2ab2d8eb14e62907","features":{},"yanked":false}
 {"name":"bitintr","vers":"0.1.2","deps":[{"name":"rustc_version","req":"0.1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"56da2c1965e31e8c455b64234e0ffd0caa82ef2e5eb9a833660975d759b5a81f","features":{},"yanked":false}
 {"name":"bitintr","vers":"0.1.3","deps":[{"name":"rustc_version","req":"0.1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"701fb73f5b96648bdafe2eead42c8327d5c95cabcc5daf3b33476d66ac75e726","features":{},"yanked":false}
+{"name":"bitintr","vers":"0.1.4","deps":[{"name":"rustc_version","req":"0.1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"74cf92a3360e7bf98f8b28135deaa735013fed7019f96028da2bbed4dbc4f676","features":{},"yanked":false}
