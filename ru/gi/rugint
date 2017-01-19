@@ -1,0 +1,1 @@
+{"name":"rugint","vers":"0.1.0","deps":[{"name":"gmp-mpfr-sys","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcb50feaad4ec1b2661efcbcec2af8ab53cdb4dedf38ae2ab870cd7df600c086","features":{},"yanked":false}
