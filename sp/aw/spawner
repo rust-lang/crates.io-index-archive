@@ -2,3 +2,4 @@
 {"name":"spawner","vers":"0.2.0","deps":[],"cksum":"bb7c59ae8c3a6cc9ee3af442dc02f394ecd2e6014302eebe3ccab89d0788767b","features":{"nightly":[]},"yanked":false}
 {"name":"spawner","vers":"0.3.0","deps":[],"cksum":"a1292c053fd6d6b870727144ff6fe1453bb59830b22d3230675d728a2bc98c85","features":{"nightly":[]},"yanked":true}
 {"name":"spawner","vers":"0.3.1","deps":[],"cksum":"a5d0f4986d43476c5eb613ccd719b9e0969f4fb213f42eaab6199c911610c4d1","features":{"nightly":[]},"yanked":false}
+{"name":"spawner","vers":"0.3.2","deps":[],"cksum":"efea700855168d1f70d6eb1e0fce7d309e7f9c216d548495103c22cff2d86f48","features":{"nightly":[]},"yanked":false}
