@@ -10,3 +10,4 @@
 {"name":"guard","vers":"0.3.0","deps":[],"cksum":"b6fa0b8f5598cabee37d939c8b1a51a0d4a92ba434a65ec0fcaf2c4b788b6231","features":{"debug":[],"nightly":[]},"yanked":false}
 {"name":"guard","vers":"0.3.1","deps":[],"cksum":"774a55f530090b3c0fb3131349f3b52ed4b712504f600d1485113309ab9e9458","features":{"nightly":[],"debug":[]},"yanked":false}
 {"name":"guard","vers":"0.3.2","deps":[],"cksum":"868c8f647010539b7ef3b8d3d79668781306101fcd0c95d5aa4e0f80a55b4f58","features":{"debug":[],"nightly":[]},"yanked":false}
+{"name":"guard","vers":"0.3.3","deps":[],"cksum":"1ee02510d4fd33d09cc89f71b764cd4ecea7ca80de818c6f97dbc9a29350eaa2","features":{"debug":[],"nightly":[]},"yanked":false}
