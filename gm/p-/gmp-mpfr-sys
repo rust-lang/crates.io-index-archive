@@ -5,3 +5,4 @@
 {"name":"gmp-mpfr-sys","vers":"0.2.3","deps":[],"cksum":"4375231f3f17505f19e61c730e205f9fd17a2f3ca5822fce8ca0e53097519e44","features":{},"yanked":false}
 {"name":"gmp-mpfr-sys","vers":"0.3.0","deps":[],"cksum":"1cd900cdef8fc5c21d2f719644547a5e76e21fff77b2815cb9c217f9f48206a5","features":{},"yanked":false}
 {"name":"gmp-mpfr-sys","vers":"0.3.1","deps":[],"cksum":"b0fda85dafcd45b024d44a5cc6cfb4d2d34851389bab8e9ee564cf8ee552a326","features":{},"yanked":false}
+{"name":"gmp-mpfr-sys","vers":"0.3.2","deps":[],"cksum":"8a850a5c5fe4bf5990f666923cbed8c065110815f9b0b81b7dcdb7a91b011ad1","features":{},"yanked":false}
