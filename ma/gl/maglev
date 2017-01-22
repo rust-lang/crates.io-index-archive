@@ -1,0 +1,1 @@
+{"name":"maglev","vers":"0.1.0","deps":[{"name":"primal","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"fasthash","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dd59c8566328286772bd98a3f088a2afd8f9387f21bde9d68ec203041d4c03f0","features":{},"yanked":false}
