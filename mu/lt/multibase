@@ -1,1 +1,2 @@
 {"name":"multibase","vers":"0.2.0","deps":[{"name":"base-x","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41ffe6754e45742bfd50ee5417e01608477d88736605a45423974148dda9afec","features":{},"yanked":false}
+{"name":"multibase","vers":"0.3.0","deps":[{"name":"base-x","req":"~0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73dda97c303ee34cc10b8c045f6ea2e13d9291f73993d21604e7a7d9ac4c71d7","features":{},"yanked":false}
