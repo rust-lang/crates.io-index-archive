@@ -1,1 +1,2 @@
 {"name":"zipf","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a453096f02f544468f755fb458bd06bb0a8a81b10c573a33abc7eaaa2c05fdad","features":{},"yanked":false}
+{"name":"zipf","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0416035b84e73e4f7dabfa5aa23a3b4c0582375067c3dcfdfde0ac8b490be9f1","features":{},"yanked":false}
