@@ -1,0 +1,1 @@
+{"name":"uhttp_request","vers":"0.5.0","deps":[{"name":"memchr","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2504a8b869b1900d3dc7b63dac132292890a6e0685589305e3cf501b18ba4687","features":{},"yanked":false}
