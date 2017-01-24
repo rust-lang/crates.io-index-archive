@@ -1,0 +1,1 @@
+{"name":"bpf","vers":"0.1.1","deps":[{"name":"clippy","req":"~0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"~0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62c1235c3b211e35be175066c671b8aa400ef79753be87e3dedbbd1e0a7948d2","features":{},"yanked":false}
