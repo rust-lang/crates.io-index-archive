@@ -1,1 +1,2 @@
 {"name":"autoit","vers":"0.1.0","deps":[{"name":"libbindgen","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"64a9ba049727aad8973f325ac905b37f6933841b8831a6d3728f3a110bb96906","features":{},"yanked":false}
+{"name":"autoit","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"580d14a94b22a7d48a795a133ac4e77d41dbe7f748f8e3e8724f84e7c079c672","features":{},"yanked":false}
