@@ -1,0 +1,1 @@
+{"name":"tree-rs","vers":"0.1.0","deps":[{"name":"term","req":"0.4.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"~2.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b4e691d9ca873294e5f10df3c805cc7d015df88f6cb83c15df14c97849cbeab","features":{},"yanked":false}
