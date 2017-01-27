@@ -1,0 +1,1 @@
+{"name":"lazy-init","vers":"0.1.0","deps":[{"name":"scoped-pool","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1b1a6719880bfc80f018c6513df24fb448fc0242594a45564473d1d7af768e8e","features":{},"yanked":false}
