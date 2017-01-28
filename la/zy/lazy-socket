@@ -1,3 +1,4 @@
 {"name":"lazy-socket","vers":"0.0.0","deps":[],"cksum":"9d3276cbb0cf501d0db5b852a5f46c61801669e85381241389e5b6d596aeb00c","features":{},"yanked":false}
 {"name":"lazy-socket","vers":"0.0.1","deps":[],"cksum":"de56588afb112972b0d79aa8298b813a11363ed8428126ffbfbdd568ebdb3194","features":{},"yanked":false}
 {"name":"lazy-socket","vers":"0.0.2","deps":[],"cksum":"9a090b506e6c3b0f41df8bc41912c38709f43d9b0e85ae833133d565c50a0fb6","features":{},"yanked":false}
+{"name":"lazy-socket","vers":"0.0.3","deps":[{"name":"libc","req":"^0.2.20","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"55f77c43c0780c3a56156bcee07407dac715389bcc3cf8d7d1f9be5970bf2fc1","features":{},"yanked":false}
