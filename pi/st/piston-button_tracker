@@ -1,0 +1,1 @@
+{"name":"piston-button_tracker","vers":"0.1.0","deps":[{"name":"pistoncore-input","req":"^0.17.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be5d59c849561ca2bf91216aeb9b406d8c0b24c62dad84a006b4b0f001f00e2e","features":{},"yanked":false}
