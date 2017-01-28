@@ -1,0 +1,1 @@
+{"name":"pcsc-sys","vers":"0.1.0-alpha4","deps":[{"name":"pkg-config","req":"^0.3.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"12243f484334aa80293eb5f2cedc76770d0cee006f989033bf387643ed7e9c06","features":{},"yanked":false}
