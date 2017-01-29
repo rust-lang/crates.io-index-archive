@@ -1,1 +1,1 @@
-{"name":"jeepers","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e460b83bd9384e8af2b3f68e5819f79a7ad9ebdd8f6a47423775c561bc57fec","features":{},"yanked":false}
+{"name":"jeepers","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e460b83bd9384e8af2b3f68e5819f79a7ad9ebdd8f6a47423775c561bc57fec","features":{},"yanked":true}
