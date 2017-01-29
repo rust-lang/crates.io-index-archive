@@ -1,0 +1,1 @@
+{"name":"mock_me","vers":"0.2.0","deps":[{"name":"mock_me_test_context","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3fb22b83f3b097ede060c786edf19f6e3efb3b038a5dc250fb215cf624518bb8","features":{},"yanked":false}
