@@ -1,0 +1,1 @@
+{"name":"gif-dispose","vers":"1.0.0","deps":[{"name":"rgb","req":"^0.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gif","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"991ea2e585d4fba1bfb890a9314c5746b8885cacb1c73d0bd3ef99b1d2584ba4","features":{},"yanked":false}
