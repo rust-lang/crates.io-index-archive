@@ -33,3 +33,4 @@
 {"name":"peg","vers":"0.3.18","deps":[],"cksum":"7ea7024cd8b605f95590abe0512a71000d8c596dd364c27e64f039db9647ec8b","features":{"trace":[]},"yanked":false}
 {"name":"peg","vers":"0.4.0","deps":[{"name":"quote","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2f7b0a8240dbf3d5cca65bba9791de310ce783d6e1426e56dc1278356b8017a","features":{"trace":[]},"yanked":false}
 {"name":"peg","vers":"0.5.0","deps":[{"name":"quote","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1f701f2e9801f642ff4511110a1c10e8b28059b5905c6c45405a4b2553cd71b","features":{"trace":[]},"yanked":false}
+{"name":"peg","vers":"0.5.1","deps":[{"name":"quote","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5fd5b23b4705900a7dd1e40a5d689bd854840e9ed9d1259ee936fb1752b771d6","features":{"trace":[]},"yanked":false}
