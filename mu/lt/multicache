@@ -1,0 +1,1 @@
+{"name":"multicache","vers":"0.1.0","deps":[{"name":"linked-hash-map","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42ee5fab49e9f4b7ed047db28757f5b9c99e2ad0f9d041bbb23063b68c3688be","features":{},"yanked":false}
