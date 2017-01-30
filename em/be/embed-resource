@@ -1,0 +1,1 @@
+{"name":"embed-resource","vers":"0.1.0","deps":[{"name":"winreg","req":"^0.4","features":[],"optional":false,"default_features":false,"target":"cfg(all(windows, target_env = \"msvc\"))","kind":"normal"}],"cksum":"907f899f4a34fc0b80012f262afba16431105577be822b47303e4d1d65310d73","features":{},"yanked":false}
