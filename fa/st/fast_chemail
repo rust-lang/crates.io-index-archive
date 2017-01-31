@@ -1,1 +1,2 @@
 {"name":"fast_chemail","vers":"0.9.3","deps":[{"name":"ascii_utils","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20129142859904e65f411d7960d402e9d1600129002be12bce97302d03eeca51","features":{},"yanked":false}
+{"name":"fast_chemail","vers":"0.9.4","deps":[{"name":"ascii_utils","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e85e8064ebdd9193f900d7aa5e2bd39faaa1e12a91a39b8e795f9fb94abbe750","features":{},"yanked":false}
