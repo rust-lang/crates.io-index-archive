@@ -5,3 +5,4 @@
 {"name":"bk-tree","vers":"0.1.4","deps":[],"cksum":"68c7a4e6a17db7190e94132108593693848b849e50605cfcc95d44b2b8a5ef08","features":{},"yanked":false}
 {"name":"bk-tree","vers":"0.1.5","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6b06aeaf4552b62d223da5ac9288929cfb9b807047f233a616c18099e3a797e9","features":{},"yanked":false}
 {"name":"bk-tree","vers":"0.1.6","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c0a61f82899f1d1651c9365b046d92b06f7d1d140b9373ec6f97c0f5ef2878fd","features":{},"yanked":false}
+{"name":"bk-tree","vers":"0.2.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dbfc98ddd7a3ca7ea58f873db017802f3cf2acbecf62ccbd61c407a4c667765e","features":{},"yanked":false}
