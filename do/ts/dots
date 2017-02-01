@@ -1,0 +1,1 @@
+{"name":"dots","vers":"0.1.0","deps":[{"name":"git2","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^2.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68b8b7b1bbccb357486265e9ba231253f6b3cce563722eeacb20237089d09821","features":{},"yanked":false}
