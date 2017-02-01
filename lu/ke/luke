@@ -1,0 +1,1 @@
+{"name":"luke","vers":"0.1.0","deps":[{"name":"openai","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6f44dc2d46aadb37991c02c979edae12fecd52ce11d1860ef14e907ddb57ff5","features":{},"yanked":false}
