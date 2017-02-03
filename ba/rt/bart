@@ -1,1 +1,2 @@
 {"name":"bart","vers":"0.0.1","deps":[],"cksum":"5f6cf6bd1b59409f8d0170ee25c1c1b3089311c07e9b5f43b82c256e353a1cf1","features":{"default":[],"specialization":[]},"yanked":false}
+{"name":"bart","vers":"0.1.0","deps":[{"name":"nom","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb8a666d08c9f211f0d0763b632436f850f59ff6705e8efaf61c4aeccc86feca","features":{"default":[],"specialization":[]},"yanked":false}
