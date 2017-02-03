@@ -12,3 +12,4 @@
 {"name":"alfred","vers":"1.0.1","deps":[],"cksum":"3f48aadc16d11eb98d8ea19308f5b20817fcc701a7780e35a4ab5aa8a76ace81","features":{},"yanked":false}
 {"name":"alfred","vers":"2.0.0","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74aa235f690e56af45cb239cbeb3acb5594e12c9a2bdfcdd577acb1149673765","features":{},"yanked":false}
 {"name":"alfred","vers":"2.0.1","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e51ca2cadb530ab20240eef10eab930d1c913ec5356425093b6877f8533ab7b2","features":{},"yanked":false}
+{"name":"alfred","vers":"3.0.0","deps":[{"name":"serde_json","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d91b5f7c090f94c5922d79993fb3afba1fed36555f2e54e31dd97bb0dc32847","features":{},"yanked":false}
