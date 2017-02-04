@@ -1,0 +1,1 @@
+{"name":"remote","vers":"0.0.0","deps":[{"name":"clap","req":"^2.20.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2636d0c76b00a2a5ecde32314cd08da054b00b7c397e281968d8c2b1447a78b","features":{},"yanked":false}
