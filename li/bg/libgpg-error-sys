@@ -5,3 +5,4 @@
 {"name":"libgpg-error-sys","vers":"0.1.5","deps":[],"cksum":"3bb64fba126a92f112f2c707b2721d177c40dd916ccacda4b8f62446813b5142","features":{},"yanked":false}
 {"name":"libgpg-error-sys","vers":"0.1.6","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0fc7973a5e24a8cdb02a3d519102ae3b3a97efe63d6716a21590fdbd9a2d0772","features":{},"yanked":true}
 {"name":"libgpg-error-sys","vers":"0.2.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c7eeca3abfe83d8832fd5caf90a5f07ad03a540dddd7774b6757a92fe8ef9b4f","features":{},"yanked":false}
+{"name":"libgpg-error-sys","vers":"0.2.1","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"153c09a335cd43975e7d4a7e89b738ce3bad8ec3a2441eb2c6a530632779c52b","features":{},"yanked":false}
