@@ -1,2 +1,3 @@
 {"name":"string-interner","vers":"0.1.0","deps":[],"cksum":"5bb1c11623730be15146707c33f0c9f745ec09e54bfe5197cffbc9bf4c44e47f","features":{},"yanked":false}
 {"name":"string-interner","vers":"0.2.0","deps":[{"name":"num-traits","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0944b929c485c4c98e71e68f01270a0b3f21d38b510b7bdd416aa1464fa151e0","features":{},"yanked":false}
+{"name":"string-interner","vers":"0.2.1","deps":[],"cksum":"99db7652b84954cca29f4b3988399023015530ef5b63a9613a56ae2d30cea9a2","features":{},"yanked":false}
