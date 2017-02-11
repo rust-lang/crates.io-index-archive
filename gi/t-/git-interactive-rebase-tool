@@ -1,0 +1,1 @@
+{"name":"git-interactive-rebase-tool","vers":"0.4.0","deps":[{"name":"pancurses","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"694e3ccfbe480fd9efa9f23cef4b32c7b9d0df85a627a137fef618eb41cf6a4e","features":{},"yanked":false}
