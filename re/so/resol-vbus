@@ -1,0 +1,1 @@
+{"name":"resol-vbus","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d6075e7d6b33ef57f58203b6649be8111b6b0ea9b57024c2ed8df0b570f3449","features":{},"yanked":false}
