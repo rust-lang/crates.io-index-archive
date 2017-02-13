@@ -1,0 +1,1 @@
+{"name":"brain-brainfuck","vers":"1.0.0","deps":[{"name":"clap","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ffc9d8371bdcbcc35a181938ac02a5bbfd9bbbf4c1852787cd0ed21e7c6f3b9","features":{},"yanked":false}
