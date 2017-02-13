@@ -1,0 +1,1 @@
+{"name":"banana","vers":"0.0.1","deps":[{"name":"bufstream","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0df291a65db341c87ee82f3d9aa7014f2bf077fa4749b395e0dc7d962011844e","features":{},"yanked":false}
