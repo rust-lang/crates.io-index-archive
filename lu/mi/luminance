@@ -27,3 +27,4 @@
 {"name":"luminance","vers":"0.15.0","deps":[],"cksum":"0d0a597a0f8528d1077a97f4910839c2d4f48dfb98d9df4588e4fc3afb26752d","features":{},"yanked":false}
 {"name":"luminance","vers":"0.16.0","deps":[],"cksum":"eed46cce3e854aa13f15e541cf655302be5abbc5eeba0e99335e9126a98367e9","features":{},"yanked":false}
 {"name":"luminance","vers":"0.17.0","deps":[{"name":"gl","req":"^0.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c68613d74fc8c1f6fc6ca2f983dd7ddb2a4f27db75bec464df938b0bcd9efbb","features":{},"yanked":false}
+{"name":"luminance","vers":"0.17.1","deps":[{"name":"gl","req":"^0.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9841e624751c012387543d90754118c5a973b27e2f0b0f795ec518c076503a37","features":{},"yanked":false}
