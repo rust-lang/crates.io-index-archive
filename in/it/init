@@ -1,0 +1,1 @@
+{"name":"init","vers":"0.1.0","deps":[{"name":"init_codegen","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe3c7811526c510e9cec6de6365fc30f3860a4d800da2808d98e23175e3dc6c6","features":{},"yanked":false}
