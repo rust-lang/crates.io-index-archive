@@ -1,2 +1,3 @@
 {"name":"docsrs-test","vers":"0.0.0","deps":[],"cksum":"c0b005311364044984aaa154e370c35c0a3ebe594d6f97db2ce681dd50794d1c","features":{"feature3":[],"feature1":[],"feature2":[],"default":["feature1","feature3"]},"yanked":false}
 {"name":"docsrs-test","vers":"0.0.1","deps":[],"cksum":"25e018b58a623ec900a15695d6a25f9b430ecbf2509c09dac70ed3fb1cc08c91","features":{"feature3":[],"default":["feature1","feature3"],"feature2":[],"feature1":[]},"yanked":false}
+{"name":"docsrs-test","vers":"0.0.2","deps":[],"cksum":"f3aecadef59759ce2c9c1b47ba203db7a80a98f135d6216551d944a0cca8f66f","features":{"feature2":[],"feature3":[],"feature1":[],"default":["feature1","feature3"]},"yanked":false}
