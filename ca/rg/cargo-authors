@@ -1,1 +1,2 @@
 {"name":"cargo-authors","vers":"0.0.0","deps":[],"cksum":"186fec593e661a913c30efedb50d91574814485d74323117efe4945fc187732a","features":{},"yanked":false}
+{"name":"cargo-authors","vers":"0.0.1","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cargo","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc501eaaa924ec19d3e5a345f1f485d6fe6a51924fb6b82f3cabdab3f5b050cf","features":{},"yanked":false}
