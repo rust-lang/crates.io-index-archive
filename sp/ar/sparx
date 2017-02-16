@@ -1,0 +1,1 @@
+{"name":"sparx","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"clippy","req":"~0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a58f1c8d0510b999bce2c287bc6c980fc3e3fffcc5bf8f53c111c1aa450a30b","features":{},"yanked":false}
