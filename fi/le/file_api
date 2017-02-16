@@ -1,0 +1,1 @@
+{"name":"file_api","vers":"0.1.0","deps":[{"name":"log","req":"^0.3.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hyper","req":"^0.9.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d639f675e4f3342d48e8c2b6ebf5e6073dd33e88bfdc3a0606ff8a0697cdc8e7","features":{},"yanked":false}
