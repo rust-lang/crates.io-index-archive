@@ -1,0 +1,1 @@
+{"name":"neon-runtime","vers":"0.1.12","deps":[{"name":"cslice","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4a88b9c01db674c1d885bcf3cf9ce64472f9b503fd0199ebdc93301804196a22","features":{},"yanked":false}
