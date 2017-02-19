@@ -1,1 +1,2 @@
 {"name":"shogi","vers":"0.1.0","deps":[],"cksum":"1a81cf9ba001cb0a8a4a1fbc98fb94e8c23ff3afdc630602c435c559cf817ae1","features":{},"yanked":false}
+{"name":"shogi","vers":"0.2.0","deps":[{"name":"itertools","req":"^0.5.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e60d89ca2209f00311dd831d94881ed698084abfe41d9b26e2ca734048f9a45","features":{},"yanked":false}
