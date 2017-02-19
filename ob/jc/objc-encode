@@ -1,0 +1,1 @@
+{"name":"objc-encode","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"661b282675b3e4f38bf409ca4a66c881b605efe0dd7782ed6d2b3eb91d7dcff1","features":{},"yanked":false}
