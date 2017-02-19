@@ -3,3 +3,4 @@
 {"name":"string-interner","vers":"0.2.1","deps":[],"cksum":"99db7652b84954cca29f4b3988399023015530ef5b63a9613a56ae2d30cea9a2","features":{},"yanked":false}
 {"name":"string-interner","vers":"0.3.0","deps":[],"cksum":"79b054ed3ff52d196cc84e8118554128d1b5790383109a434333df1a77a88722","features":{},"yanked":false}
 {"name":"string-interner","vers":"0.3.1","deps":[],"cksum":"83d4b30c733f62354ccf6088caac884e5e02a45fa4dcb5b09f9231c43c48b799","features":{"bench":[]},"yanked":false}
+{"name":"string-interner","vers":"0.3.2","deps":[],"cksum":"c88e1cdaf39c0ffc7c22cde17b944742df1934717c0fabaa79ca569e419c2456","features":{"bench":[]},"yanked":false}
