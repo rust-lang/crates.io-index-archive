@@ -1,0 +1,1 @@
+{"name":"rusticata-macros","vers":"0.1.0","deps":[{"name":"nom","req":"^2","features":["verbose-errors"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b7fc08ffda9a1ee49bc2ee6b125c189418423f06c64884059e579e71ba3f6a9","features":{},"yanked":false}
