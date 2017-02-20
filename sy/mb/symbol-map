@@ -1,1 +1,2 @@
 {"name":"symbol-map","vers":"1.0.0","deps":[{"name":"crossbeam","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c3cf5351db1182735b4430b0be0be29d5b3c5cc2b27c6708c9bebfd3eddcb5bd","features":{},"yanked":false}
+{"name":"symbol-map","vers":"1.0.1","deps":[{"name":"crossbeam","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a49894217c1d2f69b90433a53f3e036ae3fa22f3d2336205d90bc9ba0244d4ad","features":{},"yanked":false}
