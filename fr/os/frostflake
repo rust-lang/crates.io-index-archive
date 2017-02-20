@@ -1,1 +1,2 @@
 {"name":"frostflake","vers":"0.1.0","deps":[],"cksum":"5bc627bd417f7b84639ffa1dd3ec24d489ad5d91160b20cfdf34125d4a3626e9","features":{},"yanked":false}
+{"name":"frostflake","vers":"0.2.0","deps":[{"name":"crossbeam","req":"^0.2.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b71011acd17b1c100d5f8e6326b825d0b5f854b50a29f5b41e07a284ff167632","features":{},"yanked":false}
