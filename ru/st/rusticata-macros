@@ -1,1 +1,2 @@
 {"name":"rusticata-macros","vers":"0.1.0","deps":[{"name":"nom","req":"^2","features":["verbose-errors"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b7fc08ffda9a1ee49bc2ee6b125c189418423f06c64884059e579e71ba3f6a9","features":{},"yanked":false}
+{"name":"rusticata-macros","vers":"0.1.1","deps":[{"name":"nom","req":"^2","features":["verbose-errors"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86cb2b7b0cf226e38d5ffa7f2df6f54d033d308b133c5ad3df37373b52e7ef8d","features":{},"yanked":false}
