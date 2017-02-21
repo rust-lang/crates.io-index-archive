@@ -1,1 +1,2 @@
 {"name":"combup","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"525452fdedc277d59944e3cfe8e47f5acb30b4a05a2db917ed89a9d99625da51","features":{},"yanked":false}
+{"name":"combup","vers":"0.1.1","deps":[{"name":"winapi","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42523ccc9c005430f19a275452e9030cc4c445220e3335aa6ef93f541025132d","features":{},"yanked":false}
