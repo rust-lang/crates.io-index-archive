@@ -1,0 +1,1 @@
+{"name":"regex_env","vers":"0.1.0","deps":[{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25bab85cdd58d32de916eec6887ac95b80e516d46de293fbd4d17ef913c0a64e","features":{},"yanked":false}
