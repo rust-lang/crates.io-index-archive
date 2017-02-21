@@ -1,2 +1,3 @@
 {"name":"stash","vers":"0.0.1","deps":[],"cksum":"e1caea3bafc263fd14c351aaa78df97704d056c9803e3a55304da44f4daf0c18","features":{},"yanked":false}
 {"name":"stash","vers":"0.1.0","deps":[],"cksum":"cb58019938e0f1122d0f63779b748a01138f8dba477cdb38f1767a85945c45a5","features":{},"yanked":false}
+{"name":"stash","vers":"0.1.1","deps":[{"name":"unreachable","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00ce48c2670dcd4ba65c5e5f4e070ccdaeae6a927af70a24b84a403f347f9e47","features":{},"yanked":false}
