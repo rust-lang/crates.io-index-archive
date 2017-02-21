@@ -1,0 +1,1 @@
+{"name":"extra-default","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"db7803f5449f27f7dc720854ee7613949cdf3528b6532f257609e1f2579a4b12","features":{},"yanked":false}
