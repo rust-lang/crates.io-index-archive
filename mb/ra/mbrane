@@ -2,3 +2,4 @@
 {"name":"MBrane","vers":"1.0.1","deps":[],"cksum":"e0d9b704149130665ecf72b443699e9deced96e923469156cfa38017d32d0900","features":{},"yanked":false}
 {"name":"MBrane","vers":"1.0.2","deps":[{"name":"rand","req":"^0.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10fa15db4d215cb3a4712c15ae38d7ff0fee5dce843a2c1551303c8a821bb546","features":{},"yanked":false}
 {"name":"MBrane","vers":"1.0.3","deps":[{"name":"rand","req":"^0.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47bfa14b98c1c17e29a7be1eec7becf7574ce7ad3303028395f8db49bc167917","features":{},"yanked":false}
+{"name":"MBrane","vers":"1.0.4","deps":[{"name":"rand","req":"^0.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f282596b7486370e1d489303fa32de79b00a96dfe47476f3c7b12b360889813","features":{},"yanked":false}
