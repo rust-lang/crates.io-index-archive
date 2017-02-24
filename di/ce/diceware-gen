@@ -1,0 +1,1 @@
+{"name":"diceware-gen","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5bd6e3696135ba8a21aba961d4453c0663a8d61b797a6948cbd622334a12feb","features":{},"yanked":false}
