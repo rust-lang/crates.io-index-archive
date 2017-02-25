@@ -1,1 +1,2 @@
 {"name":"fixedpoint","vers":"0.1.0","deps":[],"cksum":"3bd3bb72fc3dcdc3225f09f78c5d25b738800e198b3f8a55f4c445858a6859e7","features":{},"yanked":false}
+{"name":"fixedpoint","vers":"0.1.1","deps":[{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"error-chain","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"761fa415bd1dd73317ac7a184a40d504a5d27a1f7a4eccdc82ceb893848f7c13","features":{},"yanked":false}
