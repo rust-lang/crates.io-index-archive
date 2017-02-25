@@ -1,1 +1,2 @@
 {"name":"minidom","vers":"0.1.0","deps":[{"name":"xml-rs","req":"^0.3.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b3c8a644bd2e12fab089ab7f19639165cb375254650f24077f1ad19b79fe0fda","features":{},"yanked":false}
+{"name":"minidom","vers":"0.1.1","deps":[{"name":"xml-rs","req":"^0.3.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2105338bd51ea99c599b37cd638011e921067574a5c5d107a360ae0f7062925c","features":{},"yanked":false}
