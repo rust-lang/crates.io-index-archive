@@ -1,0 +1,1 @@
+{"name":"tesseract-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b394878aef76d078f189665a2303f49d36189b9359ac03d5ac9e0d091969d585","features":{},"yanked":false}
