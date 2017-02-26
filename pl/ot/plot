@@ -1,0 +1,1 @@
+{"name":"plot","vers":"0.1.0","deps":[{"name":"clap","req":"^2.20.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33a5e2457eb032e93b7e12d69dc0d66acd889a73f2976ad18b61478b0f525695","features":{},"yanked":false}
