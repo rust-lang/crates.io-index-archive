@@ -1,0 +1,1 @@
+{"name":"noise-protocol","vers":"0.0.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13706ccb48155a519f040889936adba2ff3ca48766926407116032904c0c083d","features":{},"yanked":false}
