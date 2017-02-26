@@ -1,0 +1,1 @@
+{"name":"tolk-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a6e3d9710e10c850daedae104626694e3a0ee6ecc19a291ec5c470591867b6a","features":{},"yanked":false}
