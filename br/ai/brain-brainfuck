@@ -1,1 +1,2 @@
 {"name":"brain-brainfuck","vers":"1.0.0","deps":[{"name":"clap","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ffc9d8371bdcbcc35a181938ac02a5bbfd9bbbf4c1852787cd0ed21e7c6f3b9","features":{},"yanked":false}
+{"name":"brain-brainfuck","vers":"1.1.0","deps":[{"name":"clap","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e680829c821d9b446b079f8af4f297e79b1c489938bca5e86496f4e3e1fb5768","features":{},"yanked":false}
