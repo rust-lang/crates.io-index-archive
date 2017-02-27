@@ -1,0 +1,1 @@
+{"name":"emscripten-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.22.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"97e0ed12113bec9762923192f4f0ba999d50b6d80173181240007ecfdd525aa6","features":{},"yanked":false}
