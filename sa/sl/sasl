@@ -1,0 +1,1 @@
+{"name":"sasl","vers":"0.1.0","deps":[{"name":"base64","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"openssl","req":"^0.9.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e4f254861ae8744e0cb6a825f2d11f974ba39dbd72ea7d6167ace6328278b5a","features":{},"yanked":false}
