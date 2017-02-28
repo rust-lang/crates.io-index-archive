@@ -1,0 +1,1 @@
+{"name":"textsearch","vers":"0.0.2","deps":[{"name":"uuid","req":"^0.2","features":["serde","v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d476ffa2b494d6a6ce9d7d93d19974ba6f066535ed19ac0d1856cd16e89b0370","features":{},"yanked":false}
