@@ -4,3 +4,4 @@
 {"name":"proc-macro-hack","vers":"0.2.2","deps":[],"cksum":"98f6b8002bdd3b9c6158b72b6a7fe2dfbea7a2dd5c78bcb9b20dc656bd4723b6","features":{},"yanked":false}
 {"name":"proc-macro-hack","vers":"0.2.3","deps":[],"cksum":"41fc239a034041ad004867519f814d02f9caf51307e7280acc4ebb799ec76972","features":{},"yanked":false}
 {"name":"proc-macro-hack","vers":"0.2.4","deps":[],"cksum":"28b2424a18144397c57f9143065c0f3bf70395ae8cafb77fcd8b249c4007008d","features":{},"yanked":false}
+{"name":"proc-macro-hack","vers":"0.3.0","deps":[{"name":"proc-macro-hack-impl","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6525876cf2e4ebbdb38f1ed20cead68fbcf55559f8d47c9765e327cfa1932aec","features":{},"yanked":false}
