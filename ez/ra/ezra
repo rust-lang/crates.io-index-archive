@@ -1,1 +1,2 @@
 {"name":"ezra","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccf957971d61df3f5edf1d7fe13c4ec0f554198f0bdde813f0bba41da7bf11f2","features":{},"yanked":false}
+{"name":"ezra","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f2d5e1383e0542341069256ec39cadd051cf3be864f2c13b259925d454810f6","features":{},"yanked":false}
