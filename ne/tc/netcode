@@ -1,0 +1,1 @@
+{"name":"netcode","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3.43","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8e03b1b959d9f5665ec47425064b2e33804c5779ed9f8b5f056b00250a0e2cd6","features":{},"yanked":false}
