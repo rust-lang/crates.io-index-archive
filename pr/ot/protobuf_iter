@@ -1,0 +1,1 @@
+{"name":"protobuf_iter","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87c382ccdba146665c26b43d00e5a9bfbca7851d9ced108bd88adc90dba51a1c","features":{},"yanked":false}
