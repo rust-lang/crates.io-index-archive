@@ -1,0 +1,1 @@
+{"name":"gvr-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.22.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a3a5893f59cffed2b881fb1449458e034f39e0224c38df71992f31a7dd33fbff","features":{},"yanked":false}
