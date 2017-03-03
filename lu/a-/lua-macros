@@ -1,0 +1,1 @@
+{"name":"lua-macros","vers":"0.1.8","deps":[{"name":"lua","req":"^0.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69c7119b1269128453b1b58c83eca2da3f3f47250c12c441533d6d82b7067839","features":{},"yanked":false}
