@@ -1,1 +1,2 @@
 {"name":"puzzle-solver","vers":"0.1.0","deps":[{"name":"bit-set","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fcff3a12748a9fb5201b3f35a582ad3a8cddd575ef0531cb09fd15ca267056c","features":{},"yanked":false}
+{"name":"puzzle-solver","vers":"0.2.0","deps":[{"name":"bit-set","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d4a82186840129c088c9ac1cc460ea41cbba2dea5293869f162c772658bd198","features":{},"yanked":false}
