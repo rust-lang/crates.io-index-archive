@@ -1,2 +1,3 @@
 {"name":"arccstr","vers":"0.1.0","deps":[],"cksum":"61f248e7af74f8234ad43eb3c13c07ca3739cf0e195de182a35a3df6776b71a9","features":{},"yanked":false}
 {"name":"arccstr","vers":"0.1.1","deps":[],"cksum":"6544723f0e74d2a91f9c46ce691cb0236a4df9d7508af1d768a502bfcff7d559","features":{},"yanked":false}
+{"name":"arccstr","vers":"0.2.0","deps":[{"name":"serde","req":"^0.9.10","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_test","req":"^0.9.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d81edafd539770be762a114af45edc00256e10da0ae98da4ebeed8554db15d31","features":{"default":["serde"]},"yanked":false}
