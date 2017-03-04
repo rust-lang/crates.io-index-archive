@@ -1,1 +1,2 @@
 {"name":"rusterize","vers":"0.2.0","deps":[{"name":"sdl2","req":"^0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbfce11cca5d10bfa3854069c6da8d9cd5721b0867a57c0ca5f0e02ff18c37f3","features":{},"yanked":false}
+{"name":"rusterize","vers":"0.3.0","deps":[{"name":"sdl2","req":"^0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ab1bee7d68ab31551409dd98417d5f74ac28fb1c3e93e880fdeaf234a960d70","features":{},"yanked":false}
