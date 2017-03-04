@@ -1,1 +1,2 @@
 {"name":"amq-protocol","vers":"0.0.0","deps":[],"cksum":"c1f5f1f47a9a6cdf944639123473e2f6b6bedd0eaa573d30ca863a1a12de689f","features":{},"yanked":false}
+{"name":"amq-protocol","vers":"0.1.0","deps":[{"name":"amq-protocol-codegen","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ac93b9697ebe82def7b1ead3de61c39aaa3564a691db1f54ab9412861aac3cf3","features":{},"yanked":false}
