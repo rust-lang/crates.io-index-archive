@@ -1,0 +1,1 @@
+{"name":"pokemon","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"^0.3.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4d280996054dbecaaaf0ac4f5997044d7f01e97be5f81c7bb7da906fb8b2e6d","features":{},"yanked":false}
