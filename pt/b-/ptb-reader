@@ -1,0 +1,1 @@
+{"name":"ptb-reader","vers":"0.1.0","deps":[{"name":"pest","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"696b05ccc21a0051f1a28c8ebf14eb9320d0c998d7eafe26314f84dd912aa80b","features":{},"yanked":false}
