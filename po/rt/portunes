@@ -1,0 +1,1 @@
+{"name":"portunes","vers":"0.0.0","deps":[{"name":"clap","req":"^2.20.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e50b83983785bbe317940550f38eafacba301ad75ce32e834b4f246e82d39a6","features":{},"yanked":false}
