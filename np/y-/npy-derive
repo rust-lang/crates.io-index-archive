@@ -1,0 +1,1 @@
+{"name":"npy-derive","vers":"0.1.0","deps":[{"name":"syn","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quote","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e590844b3f99249c19a5906df1919900086ae9401f91a2c209f99acb39772700","features":{},"yanked":false}
