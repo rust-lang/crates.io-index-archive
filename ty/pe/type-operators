@@ -9,3 +9,4 @@
 {"name":"type-operators","vers":"0.3.2","deps":[],"cksum":"457c7d37face6d736e0eb4c68069e0a4617965c5bafeeaee6563438abacdff14","features":{"default":[],"nightly":["specialization"],"specialization":[]},"yanked":false}
 {"name":"type-operators","vers":"0.3.3","deps":[],"cksum":"c48dbedb13fded7fb4f034a899a7514da86025c890eca23a474a18cc335b35f1","features":{"specialization":[],"default":[],"nightly":["specialization"]},"yanked":true}
 {"name":"type-operators","vers":"0.3.4","deps":[],"cksum":"913c7144a4700cd35fa095bf512a57ff9b53c777ee0520e07c306e16859c70d7","features":{"specialization":[],"default":[],"nightly":["specialization"]},"yanked":false}
+{"name":"type-operators","vers":"0.3.5","deps":[{"name":"bit-vec","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e038b62f702a7fa16902d988dfc0d2f322db72821c2f3c6809e5b3f6691d636c","features":{"specialization":[],"default":[],"nightly":["specialization"]},"yanked":false}
