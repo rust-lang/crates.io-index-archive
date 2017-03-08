@@ -1,0 +1,1 @@
+{"name":"oozie","vers":"0.1.0","deps":[{"name":"csv","req":"^0.15.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4877c8202d1355ad60fe20d13cdce3e09229fd495d4b5cd16580f299519fa83","features":{},"yanked":false}
