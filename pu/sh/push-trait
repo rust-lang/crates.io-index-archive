@@ -1,1 +1,2 @@
 {"name":"push-trait","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"045e3c22d7b80b44b5104016af47209a23721280a1f4473a931c25f8b2c16e6e","features":{},"yanked":false}
+{"name":"push-trait","vers":"0.2.0","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"428bc1c91bc3153cdc69b602a938ac8f806ec0a0aec348b802cd666f478d6ed5","features":{},"yanked":false}
