@@ -9,3 +9,4 @@
 {"name":"rental","vers":"0.3.2","deps":[],"cksum":"eaa244981f62d0f5f9b1412dacddbbe5fea5f0a7096bacff33e9f5a2851c975b","features":{},"yanked":false}
 {"name":"rental","vers":"0.3.3","deps":[],"cksum":"ece212fd65a58bc973584bb16877541086aedf55a2915414bc2c72e4de7d7a3d","features":{},"yanked":false}
 {"name":"rental","vers":"0.3.4","deps":[],"cksum":"f683c4a40a5ab91842f3e7612b030565295ced95d36dec0d42f603357d382775","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"rental","vers":"0.3.5","deps":[{"name":"stable_deref_trait","req":"^1.0.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1eabe33ff4f86cdb6486a6941817f3b0bfd80b79503735f2e8df321011dceade","features":{"default":["std"],"std":["stable_deref_trait/std"]},"yanked":false}
