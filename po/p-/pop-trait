@@ -1,0 +1,1 @@
+{"name":"pop-trait","vers":"0.2.0","deps":[{"name":"len-trait","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clippy","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e6e8ee1e7092fa807b721491007853a6daa09a55b454edfcc5f8ce9827051efc","features":{},"yanked":false}
