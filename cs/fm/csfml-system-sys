@@ -1,1 +1,2 @@
 {"name":"csfml-system-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f613309f92bca2549e066286580d0ab69809afba4675c3fc0c7943409c77206d","features":{},"yanked":false}
+{"name":"csfml-system-sys","vers":"0.2.0","deps":[{"name":"sfml-build","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"76a5460c62ca03a1093e61303f6c09932a2f7275372dd9549a34c7f3dffd6f3c","features":{},"yanked":false}
