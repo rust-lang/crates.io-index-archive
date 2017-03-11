@@ -1,4 +1,4 @@
 {"name":"triple_buffer","vers":"0.1.0","deps":[],"cksum":"d002e68918d463268bcc72409bbf34be9c86f1090f589abcdceb74cbc272721e","features":{},"yanked":false}
 {"name":"triple_buffer","vers":"0.1.1","deps":[],"cksum":"9b95308ae12c08156c5bab011233d8715ea6715ff4b77ce71e3513bc77d4c153","features":{},"yanked":false}
-{"name":"triple_buffer","vers":"0.2.0","deps":[],"cksum":"51f9856bb66b21e5362d78c02a564261afb0a2f51653f4901e9cb4703eb7736a","features":{},"yanked":false}
+{"name":"triple_buffer","vers":"0.2.0","deps":[],"cksum":"51f9856bb66b21e5362d78c02a564261afb0a2f51653f4901e9cb4703eb7736a","features":{},"yanked":true}
 {"name":"triple_buffer","vers":"0.2.1","deps":[],"cksum":"b6732f229db961d3d98f58cd3f23d455093dad5bfb6a516bffb1015aedab1830","features":{},"yanked":false}
