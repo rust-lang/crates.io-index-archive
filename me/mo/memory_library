@@ -1,0 +1,1 @@
+{"name":"memory_library","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ce04066a16eb1ddf52822db9cf8762df3c528954372eec0ad39c957e5ab832c","features":{},"yanked":false}
