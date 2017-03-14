@@ -13,3 +13,4 @@
 {"name":"oak_runtime","vers":"0.4.1","deps":[],"cksum":"9e457777c97e45f054fb754e9cab2d74114b04606cb3ff2489b6cd59dbbd8e61","features":{},"yanked":false}
 {"name":"oak_runtime","vers":"0.4.2","deps":[],"cksum":"88b778aa255ae4612a342d2df15a7f6cd133954984842dcd91ff95284bf6a07c","features":{},"yanked":false}
 {"name":"oak_runtime","vers":"0.4.3","deps":[],"cksum":"b1b120e9e0f7cf2e4e73fb50e4af3281bd8c4255904395e8ea5951f8980bd284","features":{},"yanked":false}
+{"name":"oak_runtime","vers":"0.5.0","deps":[{"name":"syntex_pos","req":"^0.58.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0bb3e317eb19da181e3632999f2ebb53a9190348245a82df9de95329e3da183","features":{},"yanked":false}
