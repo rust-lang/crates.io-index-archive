@@ -1,0 +1,1 @@
+{"name":"rust-embed","vers":"0.2.0","deps":[{"name":"hyper","req":"^0.6.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"32820d4198efb628bbc500f7e4a1d0de14dd48af5d5b4c4dd2c07c288058d1a6","features":{},"yanked":false}
