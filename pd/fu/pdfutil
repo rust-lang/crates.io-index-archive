@@ -1,0 +1,1 @@
+{"name":"pdfutil","vers":"0.1.0","deps":[{"name":"clap","req":"^2.21.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"lopdf","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4cc4c631c38fb5ee51cf8fdae9050925c65e8fb3cc0c5cd9efff1766f395157","features":{},"yanked":false}
