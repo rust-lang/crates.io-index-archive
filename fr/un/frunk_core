@@ -7,3 +7,4 @@
 {"name":"frunk_core","vers":"0.0.7","deps":[],"cksum":"f8f4e74cd28514421f9f87af8563ffe4959227c908469ae027c09afbc4630752","features":{},"yanked":false}
 {"name":"frunk_core","vers":"0.0.8","deps":[],"cksum":"b02758792ef2a5c397f89eb64431507169078d5bd9ee7a84be47517bdc1a1d8f","features":{},"yanked":false}
 {"name":"frunk_core","vers":"0.0.9","deps":[],"cksum":"dd60b691761a2e927565cf2d7378ec3b8aeb4d078142948a3a4be38557face87","features":{},"yanked":false}
+{"name":"frunk_core","vers":"0.0.10","deps":[{"name":"frunk_derives","req":"^0.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e7513b7236db8bcdce46f3589cf47c902ca6c52ec5f22410e9dd9979088ba283","features":{},"yanked":false}
