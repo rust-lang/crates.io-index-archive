@@ -1,1 +1,2 @@
 {"name":"caesarlib","vers":"0.1.1","deps":[],"cksum":"8eedce4645fbf4a8809917666887e67acdad4e5edf67d5a3b30285ec4a3a17e4","features":{},"yanked":false}
+{"name":"caesarlib","vers":"0.1.2","deps":[{"name":"rand","req":"^0.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e942fd88cf32825a610fc3b26d4b0b5476c05167127bb69b37f67d3375f69ec5","features":{},"yanked":false}
