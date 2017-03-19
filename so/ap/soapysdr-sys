@@ -1,0 +1,1 @@
+{"name":"soapysdr-sys","vers":"0.5.0","deps":[{"name":"bindgen","req":"^0.22.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7d4099ec8bdcfc8fb79bbc1eb792bd32361908e07bce9eeace364828fb9d4784","features":{},"yanked":false}
