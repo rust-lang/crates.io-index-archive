@@ -1,0 +1,1 @@
+{"name":"hex2ascii","vers":"0.1.0","deps":[{"name":"clap","req":"^2.21.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hex","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7474aefbb72c7030db4bb19e270f1dd1bc1f828c003cde26bac4977a4d2ab6e2","features":{},"yanked":false}
