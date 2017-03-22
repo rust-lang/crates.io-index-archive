@@ -1,0 +1,1 @@
+{"name":"timeseries","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2a646a2ef52a8de7049e487ad1a84e80746fad2f2bd67dcedd7efb5fba889fe","features":{},"yanked":false}
