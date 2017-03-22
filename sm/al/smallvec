@@ -10,3 +10,4 @@
 {"name":"smallvec","vers":"0.2.0","deps":[],"cksum":"9907c67eff60f46cbc2847fb0be5bd1ec54e73c0c7dc07bb97a83236179d016d","features":{},"yanked":false}
 {"name":"smallvec","vers":"0.2.1","deps":[],"cksum":"4c8cbcd6df1e117c2210e13ab5109635ad68a929fcbb8964dc965b76cb5ee013","features":{},"yanked":false}
 {"name":"smallvec","vers":"0.3.1","deps":[],"cksum":"3a3c84984c278afe61a46e19868e8b23e2ee3be5b3cc6dea6edad4893bc6c841","features":{},"yanked":false}
+{"name":"smallvec","vers":"0.3.2","deps":[{"name":"heapsize","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dca03f2f42500a9ef8ac0d16183dff8bed40e3dcf98f9d4147928548d5c4236e","features":{"heapsizeof":["heapsize"]},"yanked":false}
