@@ -10,3 +10,4 @@
 {"name":"either","vers":"1.0.1","deps":[],"cksum":"8aa2c82b7e1abd89a8a59fd89c4a51576ea76a894edf5d5b28944dd46edfed8d","features":{"use_std":[],"default":["use_std"]},"yanked":false}
 {"name":"either","vers":"1.0.2","deps":[],"cksum":"3d2b503c86dad62aaf414ecf2b8c527439abedb3f8d812537f0b12bfd6f32a91","features":{"default":["use_std"],"use_std":[]},"yanked":false}
 {"name":"either","vers":"1.0.3","deps":[],"cksum":"63f94a35a9ca0d4178e85f0250373f2cea55c5d603e6993778d68a99b3d8071c","features":{"use_std":[],"default":["use_std"]},"yanked":false}
+{"name":"either","vers":"1.1.0","deps":[],"cksum":"18785c1ba806c258137c937e44ada9ee7e69a37e3c72077542cd2f069d78562a","features":{"use_std":[],"default":["use_std"]},"yanked":false}
