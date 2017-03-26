@@ -1,1 +1,2 @@
 {"name":"gcj-helper","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3dd7df464d7527168d888e4fd2050fb29be05eae1949ba1c937a21606dfccd76","features":{},"yanked":true}
+{"name":"gcj-helper","vers":"0.1.1","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9627a24f7ad274bb656761ff0f73262450b26dc49bd4c9d2cda77fef507205c","features":{},"yanked":false}
