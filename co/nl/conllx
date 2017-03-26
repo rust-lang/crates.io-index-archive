@@ -7,3 +7,4 @@
 {"name":"conllx","vers":"0.3.1","deps":[],"cksum":"3756621e3cfe3cd9dc3fd06f1b5b8275530de1ec37a037aa24a6c218397a791c","features":{},"yanked":false}
 {"name":"conllx","vers":"0.3.2","deps":[],"cksum":"fbacde5ad7b4a97474ddc340d52869b83c5849992092ea375da3f8fa7f818d2b","features":{},"yanked":false}
 {"name":"conllx","vers":"0.4.0","deps":[{"name":"error-chain","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e225d197d8abe5d9162662b6c805708b9c25a90d033300f7a8322721785d290d","features":{},"yanked":false}
+{"name":"conllx","vers":"0.5.0","deps":[{"name":"error-chain","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e122bf1a193a1e492f606a0bdb517627c6c66c029120f0ea4bd592a239eb9ace","features":{},"yanked":false}
