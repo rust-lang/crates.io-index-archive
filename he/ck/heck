@@ -1,1 +1,2 @@
 {"name":"heck","vers":"0.1.0","deps":[{"name":"unicode-segmentation","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51d06ada917775339740e560fb86cf0922e698aa1bebdc7ea9ee17dc0425ce06","features":{},"yanked":false}
+{"name":"heck","vers":"0.2.0","deps":[{"name":"unicode-segmentation","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f807d2f64cc044a6bcf250ff23e59be0deec7a16612c014f962a06fa7e020f9","features":{},"yanked":false}
