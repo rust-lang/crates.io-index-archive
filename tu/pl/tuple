@@ -1,1 +1,2 @@
 {"name":"tuple","vers":"0.1.0","deps":[],"cksum":"2d4514b18bfcac8a401241ead1402c97f2f4b4b1bb3951a0a12a81013e3e77d2","features":{},"yanked":false}
+{"name":"tuple","vers":"0.1.1","deps":[{"name":"num-traits","req":"0.1.*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09f50e4f43aac4d5791b76c9e97783742f7af21b2597f37aefa6740191f72ae4","features":{"default":["impl_num"],"impl_num":["num-traits"]},"yanked":false}
