@@ -1,0 +1,1 @@
+{"name":"bcmp","vers":"0.1.0","deps":[{"name":"bytepack","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06ac03210e906606c466c7744f2cb5290eee82f1739dc94bc2944dffaec4c25c","features":{},"yanked":false}
