@@ -1,0 +1,1 @@
+{"name":"skylane","vers":"0.0.1","deps":[{"name":"byteorder","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"nix","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4a58c8f18da7ba709235cae7f01bb68020b373d908eb6b65f612d6daf4da320","features":{},"yanked":false}
