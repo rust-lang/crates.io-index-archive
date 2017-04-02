@@ -1,2 +1,3 @@
 {"name":"inflate","vers":"0.1.0","deps":[],"cksum":"069121857a728d010c7b2fb8f2ae17b337df763ebbd68a04ea8df7e5b52f53a4","features":{"unstable":[],"default":[]},"yanked":false}
 {"name":"inflate","vers":"0.1.1","deps":[],"cksum":"e7e0062d2dc2f17d2f13750d95316ae8a2ff909af0fda957084f5defd87c43bb","features":{"default":[],"unstable":[]},"yanked":false}
+{"name":"inflate","vers":"0.2.0","deps":[],"cksum":"d1238524675af3938a7c74980899535854b88ba07907bb1c944abe5b8fc437e5","features":{"default":[],"unstable":[]},"yanked":false}
