@@ -11,3 +11,4 @@
 {"name":"vsop87","vers":"1.0.4","deps":[],"cksum":"d4d0d9bed7804abcf9ac12212fb24be98e57c5ef401520f3c4fb52fe37939513","features":{},"yanked":false}
 {"name":"vsop87","vers":"2.0.0","deps":[{"name":"rand","req":"^0.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e0673914e08711d6a3be8886387c07d4d812c615e24c4cd081a860fa1fdcd1cb","features":{},"yanked":false}
 {"name":"vsop87","vers":"2.0.1","deps":[{"name":"rand","req":"^0.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a39b65c32f1bcd450a2dd15fe603c05110b7d1c863c23f3cefdb9f0cf7b75dc1","features":{},"yanked":false}
+{"name":"vsop87","vers":"2.0.2","deps":[{"name":"rand","req":"^0.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c6022bb475c74ab500d3505ce2904ff6d0ed26f95ca37673fdbf03b6d280b2c7","features":{},"yanked":false}
