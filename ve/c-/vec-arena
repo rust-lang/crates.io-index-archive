@@ -1,2 +1,3 @@
 {"name":"vec-arena","vers":"0.1.0","deps":[],"cksum":"ae988e1927a7ad1102df75f15950b050b80cc3048f1302d5f6cfe8f8317dd948","features":{},"yanked":false}
 {"name":"vec-arena","vers":"0.1.1","deps":[],"cksum":"e0650ec0f5a12f3c59ad0b6a2700a39532a8a965c3903d4b39172e860d8431e8","features":{},"yanked":false}
+{"name":"vec-arena","vers":"0.2.0","deps":[{"name":"unreachable","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd90b94b9e24a12bbc4d3241b4b41e25a790529819c575a9ced544e155cdb276","features":{},"yanked":false}
