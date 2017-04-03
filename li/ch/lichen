@@ -1,1 +1,2 @@
 {"name":"lichen","vers":"0.1.0","deps":[],"cksum":"0da190171c1adf78c236e8816afc154cea623c4b7a7824bd974eb6e02dee7bc6","features":{},"yanked":false}
+{"name":"lichen","vers":"0.2.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6561dd0a7da0e9b87cec2e7005f6816d0ca36d34f8b3796ddc2f58834c5b5fc","features":{},"yanked":false}
