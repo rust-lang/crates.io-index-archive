@@ -1,1 +1,1 @@
-{"name":"ao_rs","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1736d5c5333ed804ac5e2d8a0c88c3320bdc4dc5dbfd2694d51e0dfc33f0bdad","features":{},"yanked":false}
+{"name":"ao_rs","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1736d5c5333ed804ac5e2d8a0c88c3320bdc4dc5dbfd2694d51e0dfc33f0bdad","features":{},"yanked":true}
