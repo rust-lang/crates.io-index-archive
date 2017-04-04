@@ -1,0 +1,1 @@
+{"name":"sinit","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f7561ec61e45625e07d20b1faffeaf36e7ce099f21b7c7cb6278a343dc6d507","features":{},"yanked":false}
