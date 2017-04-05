@@ -1,1 +1,2 @@
 {"name":"atomic_utilities","vers":"0.1.0","deps":[],"cksum":"e4f807d571079b3e51e8c081a6f0f7796bd84f79c745b44c8bb739ff89ae5632","features":{},"yanked":false}
+{"name":"atomic_utilities","vers":"0.2.0","deps":[{"name":"rustc_version","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"89f4ef8e5ebb7e148b7e4e947fee0db0f8bce26d926f3e609977484df678b0a1","features":{},"yanked":false}
