@@ -1,1 +1,2 @@
 {"name":"bcmp","vers":"0.1.0","deps":[{"name":"bytepack","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06ac03210e906606c466c7744f2cb5290eee82f1739dc94bc2944dffaec4c25c","features":{},"yanked":false}
+{"name":"bcmp","vers":"0.2.0","deps":[{"name":"bytepack","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bed28a81a139cc0614ef4c267f5c8990250e467f54895aed6bdaa37ff4181633","features":{},"yanked":false}
