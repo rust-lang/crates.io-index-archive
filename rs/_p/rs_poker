@@ -1,0 +1,1 @@
+{"name":"rs_poker","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb80e0c788b54aaba181cebc7151acfa71656fe0f1a28c327c0c88fc35a6f05a","features":{},"yanked":false}
