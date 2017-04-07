@@ -11,3 +11,4 @@
 {"name":"downcast","vers":"0.5.0","deps":[],"cksum":"7fff07e2ba8f05092769f3c515b32d5286a6e5d2ad4aa3a84c4f8e587c1f2364","features":{},"yanked":false}
 {"name":"downcast","vers":"0.6.0","deps":[],"cksum":"142a75704940648303b7afa168a4ed7fdb3d050c8e3dfc66efb0ff3e5e8b4e46","features":{},"yanked":false}
 {"name":"downcast","vers":"0.7.0","deps":[],"cksum":"94a95808b9a6d4be11ec042ea163a4b7d7998c079b6a808d7133ad8769da3c18","features":{"nightly":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"downcast","vers":"0.7.1","deps":[],"cksum":"6dba60c4401126a66d7b76580f4b414fa3c2dc4747f3b75348d6a3e25041a769","features":{"nightly":[],"default":["std"],"std":[]},"yanked":false}
