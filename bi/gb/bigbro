@@ -1,0 +1,1 @@
+{"name":"bigbro","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"abb8308612b31f54c9fea55d1733a47f8e6444a54aa36a09586acc7ae915bd4b","features":{"strict":[]},"yanked":false}
