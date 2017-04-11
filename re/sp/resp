@@ -17,3 +17,4 @@
 {"name":"resp","vers":"0.4.0","deps":[],"cksum":"560c844952341f096d5411998cff261b75dac457a15b1b7334d6e759b07dd0ae","features":{},"yanked":false}
 {"name":"resp","vers":"1.0.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3d64d9b9fd0ec289d5c911e42b8c5d6ac5e5c57a2e5399eb919397fe8b107e97","features":{},"yanked":false}
 {"name":"resp","vers":"1.0.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"243f0b999c266821ec7f353b4482721347c45530f275cd5e2d3599fe453b181e","features":{},"yanked":false}
+{"name":"resp","vers":"1.0.2","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7ce95c368eb562d084ac9ee4dc1506a0b83a248df4afaed4b3779013b49d88ea","features":{},"yanked":false}
