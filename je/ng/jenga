@@ -1,2 +1,3 @@
 {"name":"jenga","vers":"0.1.0","deps":[],"cksum":"213d49d426e068283b71da7482fede26fdcc7ad5099cbef97c20137eab0fe91f","features":{},"yanked":false}
 {"name":"jenga","vers":"0.1.1","deps":[],"cksum":"41dcbd6d2a5f8abe48dd289c7ed20ec3b3a136770da52dcf36d4f7cf39b3d804","features":{},"yanked":false}
+{"name":"jenga","vers":"0.1.2","deps":[],"cksum":"5a089b4c435d657e9d7653542e320c7b2217460b523e10d065abaf62ab09dac9","features":{"default":["std"],"std":[]},"yanked":false}
