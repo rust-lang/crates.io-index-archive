@@ -1,0 +1,1 @@
+{"name":"ocl-core-vector","vers":"0.1.0","deps":[{"name":"num","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b4072920739958adeec5abedec51af70febc58f7fff0601aaa0827c1f3c8fefd","features":{},"yanked":false}
