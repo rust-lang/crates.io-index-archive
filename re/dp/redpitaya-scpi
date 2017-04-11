@@ -1,1 +1,2 @@
 {"name":"redpitaya-scpi","vers":"0.1.0","deps":[{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d86f8efdeb0bd7f1220abef185815bc911a57882640e9cfc47f963b74648184","features":{},"yanked":false}
+{"name":"redpitaya-scpi","vers":"0.2.0","deps":[{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00632b5bbe380a310ee43be05fbbf97a90a357ddc0dca7e35b67ba04cbc9aeed","features":{},"yanked":false}
