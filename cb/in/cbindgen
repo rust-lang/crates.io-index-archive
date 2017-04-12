@@ -1,0 +1,1 @@
+{"name":"cbindgen","vers":"0.1.0","deps":[{"name":"syn","req":"^0.11.8","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d966cd5cbf7febf94673848f9496aeb92a6d8f0c138ab4495c251c0015d5477a","features":{},"yanked":false}
