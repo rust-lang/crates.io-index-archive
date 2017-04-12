@@ -1,0 +1,1 @@
+{"name":"ocl-extras","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ocl","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9103d616cdece0aebc74a60507720e0486d32b1099c9ee2685b9f865986f3423","features":{},"yanked":false}
