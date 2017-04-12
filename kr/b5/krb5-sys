@@ -1,2 +1,3 @@
 {"name":"krb5-sys","vers":"0.1.0","deps":[],"cksum":"2227aa035e4e52e4e62a0dd358982d57235ddbc20be7de0991d316562a83a106","features":{"krb5_deprecated":[],"krb5_old_crypto":[],"default":[]},"yanked":false}
 {"name":"krb5-sys","vers":"0.1.1","deps":[],"cksum":"21d9aad67c1fbbec900e99c26261ae1d907697f12dea058a077181c7cb39440b","features":{"krb5_old_crypto":[],"krb5_deprecated":[],"default":[]},"yanked":false}
+{"name":"krb5-sys","vers":"0.1.2","deps":[],"cksum":"fe7c9b91c3619bfafe9681fa0098343b0dc0ec9aabcf3fa4c593145b9f85fb4e","features":{"krb5_deprecated":[],"krb5_old_crypto":[],"default":[]},"yanked":false}
