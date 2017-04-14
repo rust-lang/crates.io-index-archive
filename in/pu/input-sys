@@ -1,0 +1,1 @@
+{"name":"input-sys","vers":"1.7.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"bindgen","req":"^0.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e29c5d7750aed695225e04b0a491f13b5c99e673e39baf3414a9c10c5861e2b2","features":{},"yanked":false}
