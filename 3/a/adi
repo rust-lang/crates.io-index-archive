@@ -1,0 +1,1 @@
+{"name":"adi","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"eac9e2db5fccaf780bafe2a419c5c48e9ae6cfcb848332890ef6f190136976bc","features":{},"yanked":false}
