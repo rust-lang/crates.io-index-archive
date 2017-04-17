@@ -4,3 +4,4 @@
 {"name":"sudoku","vers":"0.1.3","deps":[],"cksum":"14433323ae90209766e950d91c285feee988462b8ac687a5a6824e82fed5616f","features":{},"yanked":false}
 {"name":"sudoku","vers":"0.2.0","deps":[],"cksum":"adbc27b48bdeed424e075c41701dbcf1661cb8c4ad1f2a74e203ff1f1cafc321","features":{},"yanked":true}
 {"name":"sudoku","vers":"0.2.1","deps":[],"cksum":"651dc3f767c4d56dd8a20397253076f78294faa45e18949e0300c064245b5acd","features":{},"yanked":false}
+{"name":"sudoku","vers":"0.3.0","deps":[],"cksum":"701bac81710429141d1f88b318abc7db8705817732fb29b486b55148f942ddd0","features":{},"yanked":false}
