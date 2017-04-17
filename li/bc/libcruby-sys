@@ -1,0 +1,1 @@
+{"name":"libcruby-sys","vers":"0.5.0-alpha-1","deps":[{"name":"libc","req":">= 0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ebd2d568716e1382397955cc619aa9d64e8d5898612e49889f394f6da2b37c1","features":{},"yanked":false}
