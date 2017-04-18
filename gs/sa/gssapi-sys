@@ -1,0 +1,1 @@
+{"name":"gssapi-sys","vers":"0.1.0","deps":[{"name":"krb5-sys","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afe8bbecef9bfa8a61ab3b6f134fddc9cdfb0c489293cc5ed18a1b003f84f4c9","features":{"om_string":[],"default":["krb5"],"krb5":["krb5-sys"]},"yanked":false}
