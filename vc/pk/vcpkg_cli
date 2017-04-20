@@ -1,0 +1,1 @@
+{"name":"vcpkg_cli","vers":"0.1.0","deps":[{"name":"vcpkg","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^2.23.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22fc7f3c0fdd1d2e83e9b4b836033e5a06e1b5765a6f4d16e5658eef194aaa8d","features":{},"yanked":false}
