@@ -1,1 +1,2 @@
 {"name":"virt","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6031ff01aeab81d53a5818fae170629b6203dfe3fe303688dba5fbe8c0b1d3b6","features":{},"yanked":false}
+{"name":"virt","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"439a16138936a4eade35719580e54a116e0d812cca64e5e2cad4d7a235622531","features":{},"yanked":false}
