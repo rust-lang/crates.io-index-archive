@@ -1,0 +1,1 @@
+{"name":"text-to-polly-ssml","vers":"0.1.0","deps":[{"name":"quick-xml","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5714c8ef636f143e746b4f7ea92670b37751c8259ba709989d71d6051d138cf0","features":{},"yanked":false}
