@@ -5,3 +5,4 @@
 {"name":"chords","vers":"0.1.5","deps":[],"cksum":"3eeb3542e0c7de89da8ba722d6fde6a566a24fa14230d35c343fca5fbcb35737","features":{},"yanked":false}
 {"name":"chords","vers":"0.1.6","deps":[],"cksum":"efd71bdbd1fb053d4a5a7d0167c0ecdec0e19fee516a4c04aa60755bd35cbd03","features":{},"yanked":false}
 {"name":"chords","vers":"0.1.7","deps":[{"name":"serde_json","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3778b25f5799bfa0a099215af1a172cc62c23076271adcc23f8d9e2092c6a29","features":{},"yanked":false}
+{"name":"chords","vers":"0.1.8","deps":[{"name":"libc","req":"^0.2.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"158c25c32f0e7d63ac3e033a2fa8c370c996f484f6d4b0a32ccb57e64d8339be","features":{},"yanked":false}
