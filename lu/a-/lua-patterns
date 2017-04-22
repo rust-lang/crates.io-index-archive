@@ -1,0 +1,1 @@
+{"name":"lua-patterns","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5324d5d3964f7c49fddac33b85a48f75f2839c58044f8e45d3ad43a070fbf872","features":{},"yanked":false}
