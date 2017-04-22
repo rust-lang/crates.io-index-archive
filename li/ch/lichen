@@ -7,3 +7,4 @@
 {"name":"lichen","vers":"0.2.5","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc4e7a030e9ea5b570151377f082684dbd188f06ae21bbc415d668857755652f","features":{},"yanked":false}
 {"name":"lichen","vers":"0.2.6","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d7bf17079831589f0a6ee67e8cd717b6e3388fccd002b374a3ecf3a2faa2748","features":{},"yanked":false}
 {"name":"lichen","vers":"0.2.7","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3834bc9c77d95523b9f78c877b24f9c5a465482faf26475e382db1184980a38e","features":{},"yanked":false}
+{"name":"lichen","vers":"0.2.8","deps":[],"cksum":"cb70cddc631a12c2cebae7fb9d670275ee2de18f6a2956ec97eb6591bfe67f6a","features":{},"yanked":false}
