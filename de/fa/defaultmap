@@ -1,1 +1,2 @@
 {"name":"defaultmap","vers":"0.1.0","deps":[{"name":"delegatemethod","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac7bdb68c15c8ef8785938bd201e035a65c281decb3dd57c7e718f1b6397ee87","features":{},"yanked":false}
+{"name":"defaultmap","vers":"0.1.1","deps":[],"cksum":"65ad008429b33efbad8adb4a25faad5636bd4b86d2c938e17aeb9b980abe1cac","features":{},"yanked":false}
