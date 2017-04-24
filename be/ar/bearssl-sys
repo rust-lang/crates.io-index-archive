@@ -1,1 +1,2 @@
 {"name":"bearssl-sys","vers":"0.0.1","deps":[],"cksum":"de435a27f3245bc0cf96b64b1d277ef60942fd487a74f8386c4bd3959b39da24","features":{},"yanked":false}
+{"name":"bearssl-sys","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rust_c","req":"^0.1.0","features":["build"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9553fcbd81d267e3dbc5df82481c2d08988692f7bc8c9bb213611e0e888cd7e1","features":{},"yanked":false}
