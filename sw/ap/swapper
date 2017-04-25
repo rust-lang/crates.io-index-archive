@@ -1,0 +1,1 @@
+{"name":"swapper","vers":"0.0.1","deps":[{"name":"skeptic","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"skeptic","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5293dd64afd3c84700dbaae31540e75ba0d05fa06eef0afd049220a78a59d1aa","features":{},"yanked":false}
