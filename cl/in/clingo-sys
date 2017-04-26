@@ -1,0 +1,1 @@
+{"name":"clingo-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"906bd6bb4ffd9f12850533351c66d05fa5b7e6a31ec4e3fc134ffd64b4289c0b","features":{},"yanked":false}
