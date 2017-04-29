@@ -1,0 +1,1 @@
+{"name":"tm4c123x","vers":"0.2.0","deps":[{"name":"cortex-m","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"vcell","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fd01830d481deb6c30ea1ab00810e3531781e860202d7dd30d1ddd9cf439098","features":{},"yanked":false}
