@@ -6,3 +6,4 @@
 {"name":"adapton","vers":"0.2.4","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"0.3.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72e277d9516b3f7afd139a84124cfda68618e4986b2bbe81b05ce0f7eeebd398","features":{},"yanked":false}
 {"name":"adapton","vers":"0.2.5","deps":[],"cksum":"74fba68f67e19a82c9a5afb031a045d4c8988adebfd8daa81d29801b1c42aa9e","features":{},"yanked":false}
 {"name":"adapton","vers":"0.2.6","deps":[],"cksum":"140190e0198a11fffbfeb9ea91ddce63a3a5eb10a829fc3e87af95c0803b9968","features":{},"yanked":false}
+{"name":"adapton","vers":"0.2.7","deps":[],"cksum":"9ed44c93691284bac9999e4fe7344e3810423c491068bf9f404b175b135212d2","features":{},"yanked":false}
