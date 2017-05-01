@@ -1,1 +1,2 @@
 {"name":"mxf","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aef9cf5f889d8172ff5458c98325557dca120adb139dc7ee7712789bdc9a4a0f","features":{},"yanked":false}
+{"name":"mxf","vers":"0.1.1","deps":[{"name":"byteorder","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1dc1045025e672a3d02525efc1f852e5575c0cacd99140cb34b0859ffc513369","features":{},"yanked":false}
