@@ -1,1 +1,2 @@
 {"name":"honestintervals","vers":"0.1.0","deps":[{"name":"libc","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b69e56ef36a7ba3707d14d2c4f4b424c11b44e8dd01e4b3c5ccba46415e1b8b","features":{},"yanked":false}
+{"name":"honestintervals","vers":"0.1.1","deps":[{"name":"libc","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80e4808f04c8acea402b20d4da03021c4f014d69cde84d520a770d95969b21d6","features":{},"yanked":false}
