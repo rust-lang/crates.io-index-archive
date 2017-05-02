@@ -1,0 +1,1 @@
+{"name":"recless","vers":"0.1.0","deps":[{"name":"ndarray","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9254f5f40ea931a453242ee47bd671ca4a543bc2ed1940d19773427cf65e7c33","features":{"blas":["ndarray/blas"]},"yanked":false}
