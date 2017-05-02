@@ -1,0 +1,1 @@
+{"name":"iodyn","vers":"0.2.0","deps":[{"name":"adapton","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"104037973a64acdb06acbb9a1e6111690f31515e7d1a3283afdfd5568933d34b","features":{},"yanked":false}
