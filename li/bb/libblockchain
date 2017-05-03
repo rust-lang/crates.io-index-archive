@@ -1,1 +1,2 @@
 {"name":"libblockchain","vers":"0.0.1","deps":[],"cksum":"8a95f5fcd4530a78f90e64eb2ea9dd9a5259d9906aed337d8f38f83d7cd01151","features":{},"yanked":false}
+{"name":"libblockchain","vers":"0.0.2","deps":[{"name":"time","req":"^0.1.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f2270a6485abc0d815968be1c4db7b588ee3e687275b860f086f524fb46c669","features":{},"yanked":false}
