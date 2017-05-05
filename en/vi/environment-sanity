@@ -1,0 +1,1 @@
+{"name":"environment-sanity","vers":"0.0.1","deps":[{"name":"memchr","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"439e51f729ffeef509371f5f77f604f69ee31e456a5921c8e27387a6ab8f648e","features":{},"yanked":false}
