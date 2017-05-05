@@ -1,0 +1,1 @@
+{"name":"brewcalc","vers":"0.1.0","deps":[{"name":"clap","req":"^2.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"779dc6650dac578a745f3a60edb7889ad6bced7a6b68e119212783dd76eb52ea","features":{},"yanked":false}
