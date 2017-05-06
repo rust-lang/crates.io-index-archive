@@ -1,0 +1,1 @@
+{"name":"api","vers":"0.1.0","deps":[{"name":"hyper","req":"^0.10","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af43e55f691578e4c1683117876ed3f95e40e5c79d23185623291c3623a569df","features":{"use-hyper":["hyper"],"default":[]},"yanked":false}
