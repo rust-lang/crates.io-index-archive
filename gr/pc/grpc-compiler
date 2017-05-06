@@ -1,1 +1,2 @@
 {"name":"grpc-compiler","vers":"0.1.1","deps":[{"name":"protobuf","req":"1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05931f1edbe07e0b45771bf93c38862de63bed51e86a3686b16f90cfd34bcdb2","features":{},"yanked":false}
+{"name":"grpc-compiler","vers":"0.1.3","deps":[{"name":"protobuf","req":"1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5dfc80f692cc852a5f076e1af66cae482b6b0c32aea0557a59e473b46baebfc0","features":{},"yanked":false}
