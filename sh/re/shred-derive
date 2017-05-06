@@ -1,0 +1,1 @@
+{"name":"shred-derive","vers":"0.1.0","deps":[{"name":"quote","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1aa177a3bc7b1845e7ba8ea6f93fd471e0f6e899483fea038040b550d6581236","features":{},"yanked":false}
