@@ -1,0 +1,1 @@
+{"name":"kt","vers":"0.0.1","deps":[{"name":"untrusted","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ring","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eba78d075aee8d384ef70d5a4da221418b86d735c4a72d0aa647d521aa9d5d01","features":{},"yanked":false}
