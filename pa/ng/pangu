@@ -1,0 +1,1 @@
+{"name":"pangu","vers":"0.0.1","deps":[{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"lazy_static","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c315f465197910b49f08a6283e52a015063029d4997d7371ce6b7c6d812c5a1","features":{},"yanked":false}
