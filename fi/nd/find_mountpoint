@@ -1,1 +1,2 @@
 {"name":"find_mountpoint","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38eebec08ccde7bfa6cf76de708e472d549d606c3ed3f02d246dba862b1ca179","features":{},"yanked":false}
+{"name":"find_mountpoint","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2.22","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"macos\")","kind":"normal"}],"cksum":"07a611038f3cdf044998d5d45cc254448c12b57a6a74fd8d99f52ab718ccc579","features":{},"yanked":false}
