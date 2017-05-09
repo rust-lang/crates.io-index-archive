@@ -7,3 +7,4 @@
 {"name":"sysfs-rs","vers":"0.0.7","deps":[],"cksum":"4dbdd31e289cf733f6c7dbaf14364d388092331f4c6a3d73840a77eb97e77849","features":{},"yanked":false}
 {"name":"sysfs-rs","vers":"0.0.8","deps":[],"cksum":"044e6e3b20a318586d9c8a528668e03755a730a76494609d065a0e40e29681e7","features":{},"yanked":false}
 {"name":"sysfs-rs","vers":"0.0.9","deps":[{"name":"bit-vec","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68deda1a0b7a1cdb2d2a7a60b93d96e6d065610db3668c2e518071e421827639","features":{},"yanked":false}
+{"name":"sysfs-rs","vers":"0.0.10","deps":[{"name":"bit-vec","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a407601d474548a804321b76938a50fe14b59e8c754791e5a70e331439b4600a","features":{},"yanked":false}
