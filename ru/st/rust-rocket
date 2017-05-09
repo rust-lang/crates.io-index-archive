@@ -1,1 +1,2 @@
 {"name":"rust-rocket","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb923877582ba1695db9ebf300d63752ca47020d15774bc109a40298b7f87680","features":{},"yanked":false}
+{"name":"rust-rocket","vers":"0.1.1","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0fb980771da2bfc911015929cd40cb2235a39f5e770fa8b2fb371993a56dc42f","features":{},"yanked":false}
