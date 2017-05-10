@@ -1,0 +1,1 @@
+{"name":"ibverbs","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"de6d8d478ef35bf5ab5cb8f3f78483c336fbb5da2b19d9c90a65f247985c2e77","features":{},"yanked":false}
