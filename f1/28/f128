@@ -1,1 +1,2 @@
 {"name":"f128","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5c12a59b1f2b02be48c64c00d9dae9ab6f49f2a5fbfc9f4a7c523419a3ca3787","features":{},"yanked":false}
+{"name":"f128","vers":"0.1.1","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fbab83ed2eb4110f60faba73304079c7ca5c2df491841248b9c06c3f6d44faa3","features":{},"yanked":false}
