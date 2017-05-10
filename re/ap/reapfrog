@@ -1,0 +1,1 @@
+{"name":"reapfrog","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80414a3d33a4637ab5fc5ca853f38368412bbedcd1246d40a99a5db0eca8e295","features":{},"yanked":false}
