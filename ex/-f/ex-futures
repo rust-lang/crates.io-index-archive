@@ -1,1 +1,2 @@
 {"name":"ex-futures","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"133d38bf7ad527ae7507890d4584845ed87317fe32850cccbaf2f68ef27817bc","features":{},"yanked":false}
+{"name":"ex-futures","vers":"0.1.1","deps":[{"name":"futures","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e28a73d45b7c53086f1a6358ef6ad392a74bb6fc3247a56d5eff784d774877e","features":{},"yanked":false}
