@@ -1,0 +1,1 @@
+{"name":"platter-walk","vers":"0.1.0","deps":[{"name":"btrfs","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea2a4d36ac24376051338ec794bbcf4dbe13aeeb52b7824f41fb8e539d5d8b57","features":{},"yanked":false}
