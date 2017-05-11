@@ -6,3 +6,4 @@
 {"name":"panoradix","vers":"0.3.3","deps":[],"cksum":"dbcd470b6cbd630fbb798cadf68d6696e1f90984241e656d3647471f593019dc","features":{},"yanked":false}
 {"name":"panoradix","vers":"0.3.4","deps":[],"cksum":"2fe04a4fd2c498c0ecad006a8d2ba1bd27021a9d4007786e72895f68fc33840c","features":{},"yanked":false}
 {"name":"panoradix","vers":"0.3.5","deps":[],"cksum":"dc711cccdf26adf7a4b5b5554b3d3b6336684809f8a267363b3dec397e6a7234","features":{},"yanked":false}
+{"name":"panoradix","vers":"0.4.0","deps":[{"name":"clippy","req":"^0.0.131","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e179e66ea85fba0eb82919f9327a112f45d692a026229f1cc2f0b68df6d3c74","features":{"default":[]},"yanked":false}
