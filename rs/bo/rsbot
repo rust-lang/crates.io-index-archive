@@ -1,1 +1,2 @@
 {"name":"rsbot","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c55b11583b4dc9fe77128b7f19f3a93b82571af27490a4f5eefa6e043edbe68","features":{},"yanked":false}
+{"name":"rsbot","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db2194e957af95b5890cf4d46b1d2dcb15ab3861e2d4845bf5686580bb37331d","features":{},"yanked":false}
