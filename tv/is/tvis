@@ -9,3 +9,4 @@
 {"name":"tvis","vers":"0.7.0","deps":[],"cksum":"ed67e758742a27aa3f5e90aa6d4f0ffb433c6f3e0fe17f54932118832cb6e5e9","features":{},"yanked":false}
 {"name":"tvis","vers":"0.10.0","deps":[],"cksum":"b3362ffafd813edf66e3e706a8bccbf73e1b03186ea19b4ee2f8d0e947b3e925","features":{},"yanked":false}
 {"name":"tvis","vers":"0.10.1","deps":[{"name":"tinf","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3209f0c7a907155550720d659949ed571f339a4f6541eda07218e26ac88cec0","features":{},"yanked":false}
+{"name":"tvis","vers":"0.11.0","deps":[{"name":"tinf","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47494ee2c2f2d86a3ce28f4580a8fa00c1f93209cf24d925184c675e4f1077b4","features":{},"yanked":false}
