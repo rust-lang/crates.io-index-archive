@@ -1,1 +1,2 @@
 {"name":"tcalc","vers":"1.0.1","deps":[{"name":"getopts","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53ee78da94b65ee2305e83a3b64e0771b4562fcc83a2c6f8b5310cd51cd603bb","features":{},"yanked":false}
+{"name":"tcalc","vers":"1.0.2","deps":[{"name":"getopts","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ef408a9efbb9821a01df3d0846ed7d20b0c01df3846b40be88d20990d6f43c2","features":{},"yanked":false}
