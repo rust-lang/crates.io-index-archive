@@ -1,0 +1,1 @@
+{"name":"tcalc","vers":"1.0.1","deps":[{"name":"getopts","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53ee78da94b65ee2305e83a3b64e0771b4562fcc83a2c6f8b5310cd51cd603bb","features":{},"yanked":false}
