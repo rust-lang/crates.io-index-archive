@@ -1,0 +1,1 @@
+{"name":"onyx","vers":"0.1.0","deps":[{"name":"rusttype","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"glium","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a3501627766d0a04127f1177d270b261408007ebee922ab0a0d8bf930768b24","features":{},"yanked":false}
