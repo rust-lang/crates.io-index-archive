@@ -2,3 +2,4 @@
 {"name":"froggy","vers":"0.1.1","deps":[],"cksum":"18f7251b93c334c3dc64c8aaa92cec1745ece0e4d52efc287242e06a303ed59d","features":{},"yanked":false}
 {"name":"froggy","vers":"0.2.0","deps":[{"name":"skeptic","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"skeptic","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"be9d396bb577d68dc1135420d236da0b065a8b2508343081ecb69f7755b9a0a4","features":{},"yanked":false}
 {"name":"froggy","vers":"0.2.1","deps":[],"cksum":"71c7a5bc4e324abcb5622b713960b8596d86d2553eb3f199bcb63833baf6037e","features":{},"yanked":false}
+{"name":"froggy","vers":"0.3.0","deps":[],"cksum":"f9e70f3351594aa5a564804338fb1b89eef83c1dd57b86a0008233dff31c8a94","features":{},"yanked":false}
