@@ -1,0 +1,1 @@
+{"name":"borrow-bag","vers":"0.1.0","deps":[{"name":"skeptic","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"skeptic","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ebfb3e665e7bb501ea06907af594bc1af971c328e61421502e8ab82c698f9bed","features":{},"yanked":false}
