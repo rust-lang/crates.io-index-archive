@@ -1,1 +1,1 @@
-{"name":"pastebin_rust_api","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcdc4ebb3c3858621d6a922b4c16756bf8e467be1d021df64f7d811ca30fd7d5","features":{},"yanked":false}
+{"name":"pastebin_rust_api","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcdc4ebb3c3858621d6a922b4c16756bf8e467be1d021df64f7d811ca30fd7d5","features":{},"yanked":true}
