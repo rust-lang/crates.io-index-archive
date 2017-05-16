@@ -1,0 +1,1 @@
+{"name":"enum-map","vers":"0.1.0","deps":[{"name":"enum-map-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"411a0969deca74cda2f3379a72c5bf0c3b6ebc64e4e432f102f2989f57b85ab4","features":{},"yanked":false}
