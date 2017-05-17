@@ -1,0 +1,1 @@
+{"name":"librealsense-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d436aa7234217ec48ea448d3b09be0ecef8418d3a12e0780f66ac5447680f72a","features":{},"yanked":false}
