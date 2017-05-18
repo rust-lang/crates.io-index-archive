@@ -1,0 +1,1 @@
+{"name":"jsonfeed","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_derive","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0fe16d4510add5912c875cc7c78d7d6de1263170bd591376d25cb856d3b4c77","features":{},"yanked":false}
