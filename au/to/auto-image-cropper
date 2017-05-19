@@ -1,0 +1,1 @@
+{"name":"auto-image-cropper","vers":"0.1.0","deps":[{"name":"image","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f40481c9733a9bf1dc2e1f91678916aaa43b09f935b05080701eceb2ae46381c","features":{},"yanked":false}
