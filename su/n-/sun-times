@@ -1,1 +1,2 @@
 {"name":"sun-times","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0445177031e3ed2d8649bab31e12110f8b4ae2ad1e3ddf25fbb62b68aeff2746","features":{},"yanked":false}
+{"name":"sun-times","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee45f47e5e0d4b8cbb0fe4a8725a41f666e19b182b145d01bad5afd69e05073a","features":{},"yanked":false}
