@@ -19,3 +19,4 @@
 {"name":"lambda_calculus","vers":"0.8.0","deps":[],"cksum":"71f0b78eace2dbe3b3a71dfc7f9131062c8575dac4e2f94608e3ea2ed9735fd0","features":{},"yanked":false}
 {"name":"lambda_calculus","vers":"0.9.0","deps":[],"cksum":"dac09ce8c728630fcd259868bcfd95d26e3b26fd1ded4b81a196f01df35aaaad","features":{},"yanked":false}
 {"name":"lambda_calculus","vers":"0.10.0","deps":[],"cksum":"b9a4d66d24c5e63ed6e00cd1fa742b5bd2de6d7fd3eab0b8bb1f2822b9a692ac","features":{},"yanked":false}
+{"name":"lambda_calculus","vers":"0.10.1","deps":[],"cksum":"487cd5a2f676d2a1d7df31e81fa0492e084880b779e6bc087c4653e01803de02","features":{},"yanked":false}
