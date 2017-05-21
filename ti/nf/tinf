@@ -2,3 +2,4 @@
 {"name":"tinf","vers":"0.11.0","deps":[],"cksum":"37dae29d8f056debc8985dcb19aaddd846b9e7f972b3bc0f3f8213e725022315","features":{},"yanked":false}
 {"name":"tinf","vers":"0.11.1","deps":[],"cksum":"952172c94dc719a219ff78a49fafbeb372b337673f2481f38742da1c0266f067","features":{},"yanked":false}
 {"name":"tinf","vers":"0.11.2","deps":[],"cksum":"bcce55cd3fac194526fba421c03d7639b3e35beb58c0020b53c67f522dd2cc67","features":{},"yanked":false}
+{"name":"tinf","vers":"0.12.0","deps":[{"name":"lazy_static","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17df8a62da0ad38873226b349024812529bba3e1ffc2b333bc288f59d8c089d9","features":{},"yanked":false}
