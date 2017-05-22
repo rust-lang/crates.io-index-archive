@@ -1,2 +1,3 @@
 {"name":"Lattice","vers":"0.0.1","deps":[],"cksum":"a63752155cba1ae754ec3d68e7cccadb94047a8cb6699228ab0aee62e6cf8952","features":{},"yanked":false}
 {"name":"Lattice","vers":"0.1.1","deps":[{"name":"sdl2","req":"^0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eed039bc1ac033c95094c4b1e61bf1a3f15fb0785ce423b97f73046d806222a1","features":{},"yanked":false}
+{"name":"Lattice","vers":"0.1.2","deps":[{"name":"sdl2","req":"^0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3272bfe222cd1078ae2005708eeeaff513089d88cc0df98291fb469177ec74d4","features":{},"yanked":false}
