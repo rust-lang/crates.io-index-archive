@@ -1,0 +1,1 @@
+{"name":"gumdrop_derive","vers":"0.1.0","deps":[{"name":"quote","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dff28c5af0b9a24653cc7675ab79cb9f70de76f7f7c287e048c7d5ab5611423b","features":{},"yanked":false}
