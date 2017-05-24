@@ -1,0 +1,1 @@
+{"name":"rustdct","vers":"0.1.0","deps":[{"name":"rustfft","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"~0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bec0552a5285df203be86738e5d10688b074d0e072d735e5b4020eca6cde2401","features":{},"yanked":false}
