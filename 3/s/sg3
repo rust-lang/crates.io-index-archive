@@ -1,0 +1,1 @@
+{"name":"sg3","vers":"0.1.0","deps":[{"name":"nix","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"bindgen","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6dc081e83df00659780d1828d5c4dbb9a8dd0a3e8705ef460af6f9b40bf69d4b","features":{},"yanked":false}
