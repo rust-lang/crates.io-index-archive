@@ -1,0 +1,1 @@
+{"name":"enchant-sys","vers":"0.1.0","deps":[{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3c354b325a6fa9292fca2fa584c2b76c9024ec45619a87357dff2fbbde78a931","features":{},"yanked":false}
