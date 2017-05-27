@@ -1,0 +1,1 @@
+{"name":"enchant","vers":"0.1.0","deps":[{"name":"enchant-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"810ff97cdc049344366f638707c634c33d33351def838034ee67c073530098cb","features":{},"yanked":false}
