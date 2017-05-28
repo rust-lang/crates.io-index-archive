@@ -1,0 +1,1 @@
+{"name":"backoff","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"reqwest","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7ff3c71744c6442ab0874cf96f759f3d94668cc9af304d367d305bd0b5f8e1a7","features":{},"yanked":false}
