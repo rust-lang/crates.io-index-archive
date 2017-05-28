@@ -1,1 +1,2 @@
 {"name":"mpc","vers":"0.1.2","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3fef099889edfe8aa6053c105e5f237e15d806e96f74279835e30faf35c255c2","features":{},"yanked":false}
+{"name":"mpc","vers":"0.1.3","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"908f02a32c2a8e17fc21ed8bdfa50f14f41a3eddaf191e3fc073009cf0bf5bf2","features":{},"yanked":false}
