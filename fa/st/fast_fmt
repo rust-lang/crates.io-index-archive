@@ -1,0 +1,1 @@
+{"name":"fast_fmt","vers":"0.1.0","deps":[{"name":"void","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6d21a46605cf2cc4b7ac7b3fdcacfa67e82b86e73a83a6bda6f581e58baa3fd","features":{"nightly":[],"default":["with_std"],"with_std":[]},"yanked":false}
