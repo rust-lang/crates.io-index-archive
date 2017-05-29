@@ -1,1 +1,2 @@
 {"name":"hibitset","vers":"0.1.0","deps":[{"name":"atom","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b87812cfcd1a1572db3f89dd651bf5a1daeabe81c56a7756dcbddd389d2ee8c","features":{},"yanked":false}
+{"name":"hibitset","vers":"0.1.1","deps":[{"name":"atom","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab4c26acaf5eed47f522031bcdbbdaf7aae56cdd64e7ebe7b947b0174720fcd2","features":{},"yanked":false}
