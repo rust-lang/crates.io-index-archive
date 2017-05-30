@@ -1,0 +1,1 @@
+{"name":"linkbot","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd44d1f95997b3ace4ef9d529cd979f30fb28f99648f388a37712e7c815bc76b","features":{},"yanked":false}
