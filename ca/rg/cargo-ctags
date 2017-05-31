@@ -1,0 +1,1 @@
+{"name":"cargo-ctags","vers":"0.2.2","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"382ba594d4603fa76b62205c363405d6f629de67f9a6d03256e1d3aa21bd704c","features":{},"yanked":false}
