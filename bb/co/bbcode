@@ -1,0 +1,1 @@
+{"name":"bbcode","vers":"1.0.0","deps":[{"name":"lazy_static","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec14a8043af3716479bd372be83e3c9482dabe22bbfa3ee72f8953a635008e69","features":{},"yanked":false}
