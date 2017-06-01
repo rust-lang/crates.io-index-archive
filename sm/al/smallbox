@@ -1,2 +1,3 @@
 {"name":"smallbox","vers":"0.2.1","deps":[],"cksum":"a1d95d3604c7b9f38bc132bac4fe1da68119d0900dd6f8585586ce5b6bfedaff","features":{},"yanked":false}
 {"name":"smallbox","vers":"0.2.2","deps":[],"cksum":"c8e616de6b0248ef7d6085867e7f2983bb4b0efeedeaa9c829c38393c2eb25b8","features":{"default":["std"],"heap":[],"std":["heap"]},"yanked":false}
+{"name":"smallbox","vers":"0.3.1","deps":[],"cksum":"de8876fbe00fbfbf7083665c5441206a6c1c573dbe72e2e114eb43a42e1e6396","features":{"default":["std"],"heap":[],"std":["heap"]},"yanked":false}
