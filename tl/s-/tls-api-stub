@@ -1,0 +1,1 @@
+{"name":"tls-api-stub","vers":"0.1.5","deps":[{"name":"tls-api","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"void","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7134962c439de1f7bcebcd67ab90e7d097354f59947525789c738d3c1f03216c","features":{},"yanked":false}
