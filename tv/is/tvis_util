@@ -1,0 +1,1 @@
+{"name":"tvis_util","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0a79fc1b4fdb11a9c718c1419657fab79553b39a2df7467f7c44d999601253d","features":{},"yanked":false}
