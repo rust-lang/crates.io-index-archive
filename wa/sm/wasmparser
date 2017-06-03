@@ -3,3 +3,4 @@
 {"name":"wasmparser","vers":"0.1.2","deps":[],"cksum":"cbec587fe2897d5a731995dc075f8ef7b3160646bee5175642fdc7d7c6e2fc46","features":{},"yanked":false}
 {"name":"wasmparser","vers":"0.2.0","deps":[],"cksum":"54cc620e02d114b70fbaf2166543565e07c15ddeb9c7bd74dadd6655cca665f2","features":{},"yanked":false}
 {"name":"wasmparser","vers":"0.2.1","deps":[],"cksum":"7e789d1ad7f2953d629ba3ccb00bff91b6c2c92130fdd6e7518d7f929c6c5b4b","features":{},"yanked":false}
+{"name":"wasmparser","vers":"0.3.0","deps":[],"cksum":"4fd9ea8137277c8b40d92c3d499b4dda9ebed4438eab8b1e1a29bb3c1284eb8d","features":{},"yanked":false}
