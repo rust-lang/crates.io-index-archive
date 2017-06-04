@@ -1,1 +1,2 @@
 {"name":"raw_serde","vers":"0.1.0","deps":[{"name":"raw_serde_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d87aa8d0c65f3d35caf6e3e5f2cca81aaa792bc3cbd45aa06e231ea87eb4ed8","features":{},"yanked":false}
+{"name":"raw_serde","vers":"0.1.1","deps":[{"name":"raw_serde_derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"628a0288f55a0efbf378d6398b3c618342411fe8ed5280b9eefa1415160381a8","features":{},"yanked":false}
