@@ -1,0 +1,1 @@
+{"name":"ucx-sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eff3fbf7b8f0fc7888cdcd36c874ba99f753d0f11d5a6a53bed6787aea56e79f","features":{},"yanked":false}
