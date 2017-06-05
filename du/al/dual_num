@@ -1,1 +1,2 @@
 {"name":"dual_num","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.1.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e12feea144384d3c180413328cb705137ef5457eb37abe2ab5367340f510dc6","features":{},"yanked":false}
+{"name":"dual_num","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.1.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e1876c8c51deda8a2378bde793ff3086aebc4e3e005ceac04b5f856420f7cdb","features":{},"yanked":false}
