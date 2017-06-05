@@ -1,1 +1,2 @@
 {"name":"pinboard","vers":"0.9.0","deps":[{"name":"crossbeam","req":"^0.2.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe1d9f1f072674bc4a5faca52b801729c82c63720697d8637e369e758804e1a3","features":{},"yanked":false}
+{"name":"pinboard","vers":"0.10.0","deps":[{"name":"crossbeam","req":"^0.2.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ba7c51599b594531c54d3e14863b2fc0a259e87a23b0fabae29c2127c242c03","features":{},"yanked":false}
