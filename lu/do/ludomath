@@ -1,1 +1,2 @@
 {"name":"ludomath","vers":"1.0.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a8e79d0af9684a429315c0e9465d8d60509aa1b74ebb44eb4954b28ccfc27a0","features":{},"yanked":false}
+{"name":"ludomath","vers":"1.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58da04e0a7d94176995bce3f250962f663e5ea79db1d3140c80be8cba9cdd36d","features":{},"yanked":false}
