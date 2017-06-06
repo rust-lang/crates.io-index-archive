@@ -1,4 +1,4 @@
 {"name":"mint","vers":"0.1.0","deps":[],"cksum":"da03c41c5108c7cee9fef30165c760296c47c606bb53345912d171157bad9f2e","features":{},"yanked":false}
 {"name":"mint","vers":"0.2.0","deps":[],"cksum":"666baeab2abca6eb882adecd07bed48e1f99f1497499c3c803a7959c36242297","features":{},"yanked":false}
 {"name":"mint","vers":"0.3.0","deps":[],"cksum":"be1c0e00f3cf428953245a2e0bc78a7150fc58606bbbbec4be492a20bf3b65d9","features":{},"yanked":false}
-{"name":"mint","vers":"0.4.0","deps":[],"cksum":"92f78cda021fbf20102c343c3be5d97b0addd0f154bc4a5f191c6a5e59229c40","features":{},"yanked":false}
+{"name":"mint","vers":"0.4.0","deps":[],"cksum":"92f78cda021fbf20102c343c3be5d97b0addd0f154bc4a5f191c6a5e59229c40","features":{},"yanked":true}
