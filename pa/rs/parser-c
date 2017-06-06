@@ -1,0 +1,1 @@
+{"name":"parser-c","vers":"0.0.1","deps":[{"name":"num-derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a4c0b4d0f98c46910e631ad20fb9376d978ed0c7299fed85d97c6adedd8e66c","features":{},"yanked":false}
