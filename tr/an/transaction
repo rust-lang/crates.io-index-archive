@@ -1,0 +1,1 @@
+{"name":"transaction","vers":"0.1.0","deps":[{"name":"mdo","req":"^0.3.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a8df616dddff9b23f80bfedaf8e34adf6f0a08357c4fd6700156f1f93015ca9","features":{},"yanked":false}
