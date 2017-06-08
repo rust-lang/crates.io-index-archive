@@ -1,1 +1,2 @@
 {"name":"linkify","vers":"0.1.0","deps":[{"name":"memchr","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f32242727209daebca0171f2ad04f818f9b8596bae6c028ef8374afa89dc577","features":{},"yanked":false}
+{"name":"linkify","vers":"0.1.1","deps":[{"name":"memchr","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c64ee16dd51f5ff4e1905cf30a68a0a8a1edcd19d000309deca0a2532876aeb","features":{},"yanked":false}
