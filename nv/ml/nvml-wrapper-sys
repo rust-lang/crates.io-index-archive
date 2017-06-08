@@ -1,1 +1,2 @@
 {"name":"nvml-wrapper-sys","vers":"0.1.0","deps":[],"cksum":"b29d6755f931c0dd166fc327089e8440681b77078ba2105212e3bc0881fc6d00","features":{"nightly":[],"default":[]},"yanked":false}
+{"name":"nvml-wrapper-sys","vers":"0.2.0","deps":[],"cksum":"70cd9b107a9a322d041e114d23de74e97c4fba427bf203d11c7fd214e03ef06a","features":{"default":[],"nightly":[]},"yanked":false}
