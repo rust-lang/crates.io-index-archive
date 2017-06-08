@@ -1,0 +1,1 @@
+{"name":"audact","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cpal","req":"^0.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89b769a3c09c2e61a88d9464928f63ec76246555d6907af7ba3a4e258bdb433d","features":{},"yanked":false}
