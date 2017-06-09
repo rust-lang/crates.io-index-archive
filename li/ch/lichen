@@ -28,4 +28,4 @@
 {"name":"lichen","vers":"0.2.27","deps":[],"cksum":"1bda8434a62318be8136a552f0b6fea648920cb7d57fdf6c020e9bd011e3c000","features":{},"yanked":false}
 {"name":"lichen","vers":"0.2.28","deps":[],"cksum":"94f3c8f55a09d66f7dfa0cbf0e6ffc1778beec297ef3c272f50a7ddcfa806ce3","features":{},"yanked":false}
 {"name":"lichen","vers":"0.2.29","deps":[],"cksum":"88ff6a57b21c3c07b96692bdb8cb1c8ced2dc19c83e4f7d839718c27f86e0b73","features":{},"yanked":false}
-{"name":"lichen","vers":"0.2.30","deps":[],"cksum":"6b1cec4fd0a41eea829dbfce4470c3b5a5034e6020124ebd5694c41636747789","features":{},"yanked":false}
+{"name":"lichen","vers":"0.2.30","deps":[],"cksum":"6b1cec4fd0a41eea829dbfce4470c3b5a5034e6020124ebd5694c41636747789","features":{},"yanked":true}
