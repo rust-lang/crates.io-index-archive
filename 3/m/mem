@@ -1,0 +1,1 @@
+{"name":"mem","vers":"0.4.0","deps":[{"name":"error-chain","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acd6cbdf6ce1c5a0f6a8cc60bcb64e9f6890f9fb2166228392116b3578acce8c","features":{},"yanked":false}
