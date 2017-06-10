@@ -1,2 +1,3 @@
 {"name":"sconcat","vers":"0.1.0","deps":[],"cksum":"306826bf74cfd9399aee34d78cb41795128cd7a229a0a9ad763f791d6cac83e7","features":{},"yanked":false}
 {"name":"sconcat","vers":"0.1.1","deps":[],"cksum":"eefd8f6c88728f4ed41cf72a24f5600c0f6299eab069352997e6c295716e43ec","features":{},"yanked":false}
+{"name":"sconcat","vers":"0.1.2","deps":[{"name":"fast_fmt","req":"^0.1.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acd717bfe1d8697fe06e73fe0987b1e12d58a55c7f0a1bc6d6577da8fb740b9c","features":{},"yanked":false}
