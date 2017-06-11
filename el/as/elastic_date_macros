@@ -12,4 +12,4 @@
 {"name":"elastic_date_macros","vers":"0.6.0","deps":[{"name":"chrono","req":"~0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b6a66b108950dff4e3b8b745c6a799a240daf21e9651e3ff159b5b4abf6161f","features":{"nightly":[]},"yanked":true}
 {"name":"elastic_date_macros","vers":"0.7.0","deps":[],"cksum":"84ca908b0d04504c304f20f8901c10b6c8bf74ffc436aba4f6eec2b828d0fe94","features":{},"yanked":true}
 {"name":"elastic_date_macros","vers":"0.7.1","deps":[],"cksum":"d9af536a9d72ef843cf7a86829ef3720fb262e38709c5381c116d9501e0fc21d","features":{},"yanked":true}
-{"name":"elastic_date_macros","vers":"0.7.2","deps":[],"cksum":"90a18b41171e254763b220312ba9f866e5de66b18657b4b12215e66b2084f9ef","features":{},"yanked":false}
+{"name":"elastic_date_macros","vers":"0.7.2","deps":[],"cksum":"90a18b41171e254763b220312ba9f866e5de66b18657b4b12215e66b2084f9ef","features":{},"yanked":true}
