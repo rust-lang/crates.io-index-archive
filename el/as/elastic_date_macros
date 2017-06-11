@@ -11,3 +11,4 @@
 {"name":"elastic_date_macros","vers":"0.5.3","deps":[{"name":"chrono","req":"~0.2.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44798580e7e9061c1c9f6d1e9f64cfa0d2e9259dc89996dc2a1b7757c5f125bd","features":{"nightly":[]},"yanked":true}
 {"name":"elastic_date_macros","vers":"0.6.0","deps":[{"name":"chrono","req":"~0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b6a66b108950dff4e3b8b745c6a799a240daf21e9651e3ff159b5b4abf6161f","features":{"nightly":[]},"yanked":true}
 {"name":"elastic_date_macros","vers":"0.7.0","deps":[],"cksum":"84ca908b0d04504c304f20f8901c10b6c8bf74ffc436aba4f6eec2b828d0fe94","features":{},"yanked":true}
+{"name":"elastic_date_macros","vers":"0.7.1","deps":[],"cksum":"d9af536a9d72ef843cf7a86829ef3720fb262e38709c5381c116d9501e0fc21d","features":{},"yanked":false}
