@@ -1,0 +1,1 @@
+{"name":"curses-line-ui","vers":"0.1.0","deps":[{"name":"pancurses","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"856862a74443b643000226b69f485dda03d86008b25e8d3dc843e08275dbf988","features":{},"yanked":false}
