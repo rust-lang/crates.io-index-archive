@@ -1,0 +1,1 @@
+{"name":"rudy","vers":"0.0.1","deps":[{"name":"nodrop","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num-traits","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34b7d5189321a755d0187705c21b5161c064289a3249a028f79e57417845028b","features":{},"yanked":false}
