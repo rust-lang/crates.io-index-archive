@@ -6,3 +6,4 @@
 {"name":"triple_buffer","vers":"0.2.3","deps":[],"cksum":"5bb997e9dec99d976d0ac95158006d4a47b3ba53d50b488097e3be3327b4af23","features":{},"yanked":false}
 {"name":"triple_buffer","vers":"0.2.4","deps":[{"name":"testbench","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a06f6ffc33387cf4eb09a15e1bccf2344dda809b12c27bbbcd8dc2972ea6a353","features":{},"yanked":false}
 {"name":"triple_buffer","vers":"0.3.0","deps":[{"name":"testbench","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49768bededb0518c2f177516dc2251766cf9d958bdd43604a6d91b8206febb85","features":{},"yanked":false}
+{"name":"triple_buffer","vers":"0.3.1","deps":[{"name":"testbench","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8ad2f17ff1ccd1b53281f1d94e302bf36dda7391aa6d7cce357182c28b4e07c","features":{},"yanked":false}
