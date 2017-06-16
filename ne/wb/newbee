@@ -1,1 +1,2 @@
 {"name":"newbee","vers":"0.1.0","deps":[{"name":"lzf","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93c21b7c2752e6f1f1da90a6f746dc3c3955ef76459e733aa7ec7faf6d77dc87","features":{},"yanked":false}
+{"name":"newbee","vers":"0.1.1","deps":[{"name":"lzf","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80f62c662eff4a0deb116b17495df8f40eb7f04ed236215e394bede326676e3b","features":{},"yanked":false}
