@@ -34,3 +34,4 @@
 {"name":"wdg-base32","vers":"0.3.26","deps":[],"cksum":"49e92123eb4272a266795f99681c8bbff40fb00045f0ec7d106b65663b820c18","features":{},"yanked":false}
 {"name":"wdg-base32","vers":"0.4.0","deps":[],"cksum":"9b75c164a284b80cfae2f8c8d8c0a6f68888e4b6bef6fb5dce818cf9e48994a8","features":{},"yanked":false}
 {"name":"wdg-base32","vers":"0.4.1","deps":[],"cksum":"1b4e2f2b426ef67ab2e799c800cb7d4060410801433a70b30b09c338ca9e68db","features":{},"yanked":false}
+{"name":"wdg-base32","vers":"0.4.2","deps":[],"cksum":"6011fd0819106f1c09bff63f7237ab1959c680e579491ef20a3ff3ad1d671a03","features":{},"yanked":false}
