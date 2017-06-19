@@ -1,1 +1,2 @@
 {"name":"sid","vers":"0.1.0","deps":[],"cksum":"a2acde482281d7b16bca059302c1a142506c63f13e14d72ce80b706f9087c5c9","features":{},"yanked":false}
+{"name":"sid","vers":"0.3.0","deps":[{"name":"num-traits","req":"^0.1.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7afd059cc7241919d36f211608f3829e7921933771da0e5d33de7e9485fd1d82","features":{},"yanked":false}
