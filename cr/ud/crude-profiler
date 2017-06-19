@@ -1,1 +1,2 @@
 {"name":"crude-profiler","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82b5556baa955cb1c434a063066abe70f997fef8edb945fe651821176e172120","features":{},"yanked":false}
+{"name":"crude-profiler","vers":"0.1.1","deps":[{"name":"lazy_static","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a81bf120974915c35ff947c9f68e0b6d2841620be1d009a816a32b0540353092","features":{},"yanked":false}
