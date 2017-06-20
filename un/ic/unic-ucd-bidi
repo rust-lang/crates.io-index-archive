@@ -1,1 +1,2 @@
 {"name":"unic-ucd-bidi","vers":"0.1.0","deps":[{"name":"unic-ucd-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca805ce69c6b67d723a7028ad5cf39b98ce3def6b33f6011ec39d7e8c413a14b","features":{"unstable":[],"default":[]},"yanked":false}
+{"name":"unic-ucd-bidi","vers":"0.1.1","deps":[{"name":"unic-ucd-core","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b095a6974e8890606b4a0d7ad787161977518ec10fb38d93a122374f687bf5b1","features":{},"yanked":false}
