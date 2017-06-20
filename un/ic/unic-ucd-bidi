@@ -1,0 +1,1 @@
+{"name":"unic-ucd-bidi","vers":"0.1.0","deps":[{"name":"unic-ucd-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca805ce69c6b67d723a7028ad5cf39b98ce3def6b33f6011ec39d7e8c413a14b","features":{"unstable":[],"default":[]},"yanked":false}
