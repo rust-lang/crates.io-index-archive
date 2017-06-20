@@ -1,1 +1,2 @@
 {"name":"rug","vers":"0.0.0","deps":[],"cksum":"a892a2672be7e7556ae0e022d590b61fd906300610b0b778f349c01bb0329a74","features":{},"yanked":false}
+{"name":"rug","vers":"0.4.0","deps":[{"name":"gmp-mpfr-sys","req":"^1.0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0b022972c63fb4bd284dcb2963f5b93070976feb046119a613f8c40bec9881f7","features":{"float":["gmp-mpfr-sys/mpfr"],"complex":["float","gmp-mpfr-sys/mpfr","gmp-mpfr-sys/mpc"],"rational":[],"default":["rational","float","complex"]},"yanked":false}
