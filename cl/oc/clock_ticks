@@ -5,3 +5,4 @@
 {"name":"clock_ticks","vers":"0.0.5","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c1c6644e669ebf7db75f06c58193aa40f0c9d8aee69573ef51906a53d445b9e","features":{},"yanked":false}
 {"name":"clock_ticks","vers":"0.0.6","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af2a00c56fb3ca01175086cecb8e87142744ee29c4ec8b504b81ce8557cdb1d9","features":{},"yanked":false}
 {"name":"clock_ticks","vers":"0.1.0","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da9bd98fefcf1904a3f80ead86d366d9373c34db7b8a8e48c1fdcaac4787800d","features":{},"yanked":false}
+{"name":"clock_ticks","vers":"0.1.1","deps":[],"cksum":"c49a90f58e73ac5f41ed0ac249861ceb5f0976db35fabc2b9c2c856916042d63","features":{},"yanked":false}
