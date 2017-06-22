@@ -1,0 +1,1 @@
+{"name":"timing-shield","vers":"0.1.0","deps":[{"name":"quickcheck","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4df4a5900247642fa9cb3b48cec7e0476e12cd002b8da2c3245631011f117ed0","features":{},"yanked":false}
