@@ -1,0 +1,1 @@
+{"name":"bsdiff","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a9700f8065d83c5a232749caaeb92fdeb1b755a543f1f168679b4ce96526270","features":{},"yanked":false}
