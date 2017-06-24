@@ -1,0 +1,1 @@
+{"name":"csa","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"nom","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5a7b9bd6a3dac16f41d4d5b59cae18271302f8f610bd00667815e2b0bf9e3cc","features":{},"yanked":false}
