@@ -1,0 +1,1 @@
+{"name":"libdbus-sys","vers":"0.1.0","deps":[{"name":"metadeps","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"55904e6196f1e97a213c07522e375f234d9e458f9e0cc884e7876bce3c353ce1","features":{},"yanked":false}
