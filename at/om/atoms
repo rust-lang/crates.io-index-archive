@@ -1,1 +1,2 @@
 {"name":"atoms","vers":"1.1.4","deps":[],"cksum":"d4f20067df4ead16e022cfb09e570a67c9b14de54539cdda775b989d2f1dbc7a","features":{},"yanked":false}
+{"name":"atoms","vers":"2.0.0","deps":[{"name":"unescape","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90af8e35d10525eadee66e0590a1760b649a06bea754fa02633e3e47cc50630b","features":{},"yanked":false}
