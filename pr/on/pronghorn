@@ -1,1 +1,2 @@
 {"name":"pronghorn","vers":"0.1.0","deps":[],"cksum":"88850c914157daf076a03649c5e0d86facda8a7b908beab972b2a6d0df426930","features":{},"yanked":false}
+{"name":"pronghorn","vers":"0.1.1","deps":[{"name":"futures","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hyper","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13053bcf20f648031ed4a1444a27c24a606849245da7acef3382c2c6c68731e9","features":{},"yanked":false}
