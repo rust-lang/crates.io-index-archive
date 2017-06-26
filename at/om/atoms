@@ -1,3 +1,4 @@
 {"name":"atoms","vers":"1.1.4","deps":[],"cksum":"d4f20067df4ead16e022cfb09e570a67c9b14de54539cdda775b989d2f1dbc7a","features":{},"yanked":false}
 {"name":"atoms","vers":"2.0.0","deps":[{"name":"unescape","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90af8e35d10525eadee66e0590a1760b649a06bea754fa02633e3e47cc50630b","features":{},"yanked":false}
 {"name":"atoms","vers":"2.1.0","deps":[{"name":"unescape","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6af5b4e714a4514683a56acc84dbb3aef1d55e702502ba47bfbf6286d727289","features":{},"yanked":false}
+{"name":"atoms","vers":"2.1.1","deps":[{"name":"unescape","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7bb1d8d3127eb10c3fcab9000c7062e1b94397be50b2906d42c41e6dd60d3269","features":{},"yanked":false}
