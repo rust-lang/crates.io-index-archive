@@ -16,3 +16,4 @@
 {"name":"gmp-mpfr-sys","vers":"1.0.2","deps":[],"cksum":"eb6dbc800913427ada45aba17ca93f7aaf89276b2e727fcfeaad000a29f64004","features":{"default":["mpfr","mpc"],"mpfr":[],"mpc":["mpfr"]},"yanked":false}
 {"name":"gmp-mpfr-sys","vers":"1.0.3","deps":[],"cksum":"0f0f2149b2f33847eb6c84034f320d53d804a11144f431e67ff68bbeedf48f09","features":{"mpc":["mpfr"],"mpfr":[],"default":["mpfr","mpc"]},"yanked":false}
 {"name":"gmp-mpfr-sys","vers":"1.0.4","deps":[],"cksum":"031e564d2978a6eefd843f73ab5da2b01e468ef60c67eba502b5c9795589c621","features":{"default":["mpfr","mpc"],"cnotest":[],"mpc":["mpfr"],"mpfr":[],"ctest":[]},"yanked":false}
+{"name":"gmp-mpfr-sys","vers":"1.0.5","deps":[],"cksum":"772d58b03f1b37571dcaa164d65074c91e73f394a5a0e9cc581c4e124a272113","features":{"ctest":[],"default":["mpfr","mpc"],"mpc":["mpfr"],"cnotest":[],"mpfr":[]},"yanked":false}
