@@ -1,0 +1,1 @@
+{"name":"cmark2jira","vers":"0.1.0","deps":[{"name":"pulldown-cmark","req":"^0.0.15","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"14e3914412ae24276f3ac723727627848af810dbd06b20b81beb7be5653db543","features":{},"yanked":false}
