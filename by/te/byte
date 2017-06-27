@@ -1,0 +1,1 @@
+{"name":"byte","vers":"0.2.0","deps":[{"name":"byteorder","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"quickcheck","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cdf9f18d9c4a2ad4290cc4051b244b3d5c62f5b4057ec266e5b28effbe6aad50","features":{},"yanked":false}
