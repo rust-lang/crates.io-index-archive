@@ -17,3 +17,4 @@
 {"name":"wasmparser","vers":"0.5.4","deps":[],"cksum":"c94b29ed2587edd2bdb1d29b340a56e2490d65479d53bafddab0dad479ddfca0","features":{},"yanked":false}
 {"name":"wasmparser","vers":"0.5.5","deps":[],"cksum":"f98e14c6c4d1f9b37b6ea706fa3a2383b67bd0e4c4e39046e86b5d5666e31ec9","features":{},"yanked":false}
 {"name":"wasmparser","vers":"0.6.0","deps":[],"cksum":"484726662446204073e9fc87f3cf15a483aa3bdffcb5a1ede7b5db79b14c3f3f","features":{},"yanked":false}
+{"name":"wasmparser","vers":"0.6.1","deps":[],"cksum":"3b99555fb7f034b8aa58d18809bb3eaf4252d570bfd6c62b099e7858c9c9c398","features":{},"yanked":false}
