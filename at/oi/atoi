@@ -1,0 +1,1 @@
+{"name":"atoi","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.1.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05d5b63c1bd38d5b2e8afd5eddd30c22a4680223270ec3c5a53e1108a1553640","features":{},"yanked":false}
