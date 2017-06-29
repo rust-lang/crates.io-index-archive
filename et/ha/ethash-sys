@@ -1,0 +1,1 @@
+{"name":"ethash-sys","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"65d881c55900c7bf1f5f387d7ca36c30dff4e1751b30d464d7c5678e354f7dea","features":{},"yanked":false}
