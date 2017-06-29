@@ -1,0 +1,1 @@
+{"name":"inkwell","vers":"0.0.0","deps":[{"name":"llvm-sys","req":"^37.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"adb2a6e70119646c2e2ed04677a1697dc3e441d685dfd03e87443dc1b9376735","features":{},"yanked":false}
