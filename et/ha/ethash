@@ -1,0 +1,1 @@
+{"name":"ethash","vers":"0.1.0","deps":[{"name":"sha3","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9508b6bde9281092c710712705e292376cab15e927e212ad11c7e59da434cbca","features":{},"yanked":false}
