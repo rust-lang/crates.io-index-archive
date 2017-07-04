@@ -1,0 +1,1 @@
+{"name":"mqtt311","vers":"0.1.4","deps":[{"name":"byteorder","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d46a29d1a5fe9b5eb413f1721b50b1edb8b4adaee5ef9f1f0eb4bc21821b2032","features":{},"yanked":false}
