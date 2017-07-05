@@ -1,0 +1,1 @@
+{"name":"etcommon-block","vers":"0.1.1","deps":[{"name":"etcommon-bigint","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f09c0d3179f2dd08ccfa5fcabb6ba540321efa3535f93a52443ad527024714c2","features":{},"yanked":false}
