@@ -42,3 +42,4 @@
 {"name":"wdg-base32","vers":"0.5.4","deps":[],"cksum":"a534ec9859eeb0b05569e70497c87934f773ad65d4ab80a77fb12cfbe72617c8","features":{},"yanked":false}
 {"name":"wdg-base32","vers":"0.5.5","deps":[],"cksum":"63c66e59ab5383050bdb087febe5ddc11095fe3aa85ff0566e83fe190231b56e","features":{},"yanked":false}
 {"name":"wdg-base32","vers":"0.5.6","deps":[],"cksum":"9620b51e7e0e9e3a4f3f02e51480efb49df4cbebb5a84d5be6bf190e2c4bb35d","features":{},"yanked":false}
+{"name":"wdg-base32","vers":"0.5.7","deps":[{"name":"wdg-converter","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fad2a6784f23974830ce10111c3299f746b99e370dc526c6af7a0a540c0f7402","features":{},"yanked":false}
