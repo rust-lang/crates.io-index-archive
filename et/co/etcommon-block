@@ -1,1 +1,2 @@
 {"name":"etcommon-block","vers":"0.1.1","deps":[{"name":"etcommon-bigint","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f09c0d3179f2dd08ccfa5fcabb6ba540321efa3535f93a52443ad527024714c2","features":{},"yanked":false}
+{"name":"etcommon-block","vers":"0.1.2","deps":[{"name":"etcommon-bigint","req":"^0.1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"572d3aa685b367c31dbd3168773dd58f5f7fb4e91afb666b321748e55b1d0c40","features":{},"yanked":false}
