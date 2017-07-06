@@ -1,0 +1,1 @@
+{"name":"devp2p","vers":"0.1.0","deps":[{"name":"dpt","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rlpx","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34b8346b884b2a5bdfb2e625795e72ece2b3c1ff1c5def995dbfbffb97bb5380","features":{},"yanked":false}
