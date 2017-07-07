@@ -11,3 +11,4 @@
 {"name":"linked_list_allocator","vers":"0.2.6","deps":[],"cksum":"63db7e15a417f1264e31e19a602970de68128e988cd3aa7c8f8b20235092f1cc","features":{},"yanked":false}
 {"name":"linked_list_allocator","vers":"0.2.7","deps":[],"cksum":"4025b00ae181abe3027ec4216e26d8d719724d32392112592f0ecb2b4ac6953c","features":{},"yanked":false}
 {"name":"linked_list_allocator","vers":"0.3.0","deps":[],"cksum":"576ca993a60d81ecdda4419061395d4c5d0f2096fb937d8c1b020cf952ecb6f9","features":{},"yanked":false}
+{"name":"linked_list_allocator","vers":"0.4.0","deps":[{"name":"spin","req":"^0.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b498e418e0925c6d5c9736be87600a9b000407125154d09bfb431302f8d98d91","features":{},"yanked":false}
