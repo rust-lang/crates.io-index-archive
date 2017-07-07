@@ -1,0 +1,1 @@
+{"name":"table-extract","vers":"0.1.0","deps":[{"name":"scraper","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7603dbf4240e81fd19474211f02f2dfb31199df45be141a1b720796c45cb2923","features":{},"yanked":false}
