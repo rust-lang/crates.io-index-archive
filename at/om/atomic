@@ -4,3 +4,4 @@
 {"name":"atomic","vers":"0.3.1","deps":[],"cksum":"e873b181fc3f4afb56f235d6399336f47ffe5f9ec3edfdd60e15ac7a05a41128","features":{"nightly":[]},"yanked":false}
 {"name":"atomic","vers":"0.3.2","deps":[],"cksum":"b619abac89b26de907ab836e7b6fd07aaf4cde8fcdf06b0f67f30f14eae04f66","features":{"nightly":[]},"yanked":false}
 {"name":"atomic","vers":"0.3.3","deps":[],"cksum":"81e4fe666ae9dd4eea17160116a5f0d1e52f74504669bfc034e22850d6b7d406","features":{"nightly":[]},"yanked":false}
+{"name":"atomic","vers":"0.3.4","deps":[],"cksum":"6945bb928733f277215e12824ca9e31ce2016b6231dfc4816ed877df189cc17e","features":{"nightly":[]},"yanked":false}
