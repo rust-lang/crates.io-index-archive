@@ -1,0 +1,1 @@
+{"name":"liar","vers":"0.1.0","deps":[{"name":"rustc_version","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"dcd34eabf7a253c0f44a2f210bf5671818de58ee6ebb19277b4dd21ae2be9c8a","features":{},"yanked":false}
