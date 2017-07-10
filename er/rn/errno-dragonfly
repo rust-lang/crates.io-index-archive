@@ -1,0 +1,1 @@
+{"name":"errno-dragonfly","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"64cac02eb72976714b219a7212383d543e7f6156c5b7f6d35988540cc7fbb83c","features":{},"yanked":false}
