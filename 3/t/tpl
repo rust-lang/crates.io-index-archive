@@ -1,0 +1,1 @@
+{"name":"tpl","vers":"0.1.0","deps":[{"name":"error-chain","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"nom","req":"^3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22940d8390343a225248176f174241c631d3d7fd8e03a311df0e7ef37016d6a2","features":{},"yanked":false}
