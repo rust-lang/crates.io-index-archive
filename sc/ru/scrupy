@@ -1,0 +1,1 @@
+{"name":"scrupy","vers":"0.1.0","deps":[{"name":"url","req":"^1.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hyper","req":"^0.10.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14a26f96666e874b4ac6f33e9504774590fc1d2156d866569cde4f784b5da77b","features":{},"yanked":false}
