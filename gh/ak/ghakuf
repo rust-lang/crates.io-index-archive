@@ -1,0 +1,1 @@
+{"name":"ghakuf","vers":"0.2.1","deps":[{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"byteorder","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"979baf6f91d139efe529ef511d264abaebc8905dbf31fe6ddec58dd208361396","features":{},"yanked":false}
