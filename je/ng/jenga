@@ -5,3 +5,4 @@
 {"name":"jenga","vers":"0.1.4","deps":[],"cksum":"cb382535d6807066052d90ebda04da4735afbb706b621a89cf544da50a078391","features":{"std":["alloc"],"alloc":[],"default":["std","alloc"]},"yanked":true}
 {"name":"jenga","vers":"0.1.5","deps":[],"cksum":"ca7ddeb9a9f893a87e28fc9ff200b48e89c1ab918bf98195de76e8e18eacc2cd","features":{"default":["std","alloc"],"alloc":[],"std":["alloc"]},"yanked":true}
 {"name":"jenga","vers":"0.1.6","deps":[],"cksum":"6bf9d977d19cd13e04f163334cdaa5cc3fd4e3660f82f6f552fd4b8937bc0990","features":{"std":["alloc"],"default":["std","alloc"],"alloc":[]},"yanked":false}
+{"name":"jenga","vers":"0.1.7","deps":[],"cksum":"cb81deeda31dd44be14e5a631bc0c2ccf9dbc774556e5ce9fd36bf560ecd5ab4","features":{"alloc":[],"std":["alloc"],"default":["std","alloc"]},"yanked":false}
