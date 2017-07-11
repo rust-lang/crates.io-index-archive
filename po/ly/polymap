@@ -7,3 +7,4 @@
 {"name":"polymap","vers":"0.1.0","deps":[],"cksum":"c5e9c0a9bd4d985a79beb5e53eba40ea6d3f864a6964a25357d5657694c23d2c","features":{},"yanked":false}
 {"name":"polymap","vers":"0.1.1","deps":[],"cksum":"0e245960c5aed63bcbc71f735570e5049966806a1ca58cec38953a5f19abbb7a","features":{},"yanked":false}
 {"name":"polymap","vers":"0.2.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6666d71f2fd12074f80c507d4943c8c5b6e009d4634cd89e442fa6e1ada46d6e","features":{},"yanked":false}
+{"name":"polymap","vers":"0.3.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"515930effd824efac6f4eea20c5457b8a6985c6202ec7fbd63408bad3e793d5f","features":{},"yanked":false}
