@@ -1,0 +1,1 @@
+{"name":"kvfilter","vers":"0.2.0","deps":[{"name":"slog","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a7317873530836f3ff592f3ec8608d5e465767ca4105d0574cdf164998c3ab7","features":{},"yanked":false}
