@@ -17,3 +17,4 @@
 {"name":"cpp","vers":"0.2.0","deps":[],"cksum":"0ecbbd00fa25ee43ba4c7e9bf6e933dbca07d89cb40d74d4564a9d555e4b3aff","features":{},"yanked":false}
 {"name":"cpp","vers":"0.2.1","deps":[],"cksum":"a877a70dd9b73c75e044fb63ad1c79720a991d5b5f1911511cd4adc974528392","features":{},"yanked":false}
 {"name":"cpp","vers":"0.3.0","deps":[{"name":"cpp_macros","req":"= 0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e72e3d17cbee978d237f9813676e075f47ce25039931e1235f13a79ddd6d71a","features":{},"yanked":false}
+{"name":"cpp","vers":"0.3.1","deps":[{"name":"cpp_macros","req":"= 0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4bd902948c3dc3ddf0879dbbb5a4ddfbd631d09b7faf893b7200634652e8a214","features":{},"yanked":false}
