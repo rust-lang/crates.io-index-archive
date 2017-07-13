@@ -1,1 +1,2 @@
 {"name":"drop_guard","vers":"0.0.0","deps":[],"cksum":"460363650f603e4579d7e031684c9ae2861cec632b2dc6218f1c6c67716f101a","features":{},"yanked":false}
+{"name":"drop_guard","vers":"0.0.1","deps":[{"name":"threadpool","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"95bec44fe992954882d298d77564aac986660ce4ea642f0eed5a2c054f15d812","features":{},"yanked":false}
