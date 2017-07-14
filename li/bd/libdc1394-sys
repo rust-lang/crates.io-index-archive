@@ -1,0 +1,1 @@
+{"name":"libdc1394-sys","vers":"0.1.0","deps":[{"name":"pkg-config","req":"^0.3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2858267c44fe482f3a3234850ce7d693e040afb518fb69f4b032cd1c7411683d","features":{},"yanked":false}
