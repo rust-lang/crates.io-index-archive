@@ -5,3 +5,4 @@
 {"name":"crius","vers":"0.1.4","deps":[],"cksum":"b5216f050d78d87dd884036d067b2babb390783988ef4a984ef3d4072fa365da","features":{},"yanked":false}
 {"name":"crius","vers":"0.1.5","deps":[],"cksum":"4c3995167698d28c4db4a89dc568937cd0b375c9300a0d156d4e781908876cbd","features":{},"yanked":false}
 {"name":"crius","vers":"0.2.0","deps":[{"name":"threadpool","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a55c0c1dcb20f9f5b6e6e4bc12b18b05b24e7c3491dacd7e8d808f20d62960e","features":{},"yanked":false}
+{"name":"crius","vers":"0.3.0","deps":[{"name":"threadpool","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88ba0990645f25aaeae2d6109c48015c3d8326c145322231aa07301439644990","features":{},"yanked":false}
