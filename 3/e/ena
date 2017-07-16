@@ -4,3 +4,4 @@
 {"name":"ena","vers":"0.3.0","deps":[],"cksum":"be8aa57014c625b37ce72a1f9330b27c4b5e8237ad76f06b70a97353207641d7","features":{},"yanked":false}
 {"name":"ena","vers":"0.4.0","deps":[],"cksum":"5c109645f12ca057044ef2ffa56670cf7e3fd1fa530d73cd185e8298b03380b5","features":{"unstable":[],"default":["unstable"]},"yanked":false}
 {"name":"ena","vers":"0.5.0","deps":[],"cksum":"cabe5a5078ac8c506d3e4430763b1ba9b609b1286913e7d08e581d1c2de9b7e5","features":{},"yanked":false}
+{"name":"ena","vers":"0.6.0","deps":[{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"petgraph","req":"^0.4.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8368b65b484d35b09cb867ec22a64fdd81a64086b98feb21a483aa657d1298ab","features":{"bench":[],"congruence-closure":["petgraph"]},"yanked":false}
