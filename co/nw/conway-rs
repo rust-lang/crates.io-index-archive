@@ -1,0 +1,1 @@
+{"name":"conway-rs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ccfe6681f7f2401bf5c13ac7c448ddd5bdb7626d881f11fef475d2942ef5f43","features":{},"yanked":false}
