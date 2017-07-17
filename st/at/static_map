@@ -1,1 +1,2 @@
 {"name":"static_map","vers":"0.1.0","deps":[{"name":"fxhash","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88d20b29bae8b4bf4f9ea03e1bfccc1710cb39247b2f5add310999355c57469e","features":{},"yanked":false}
+{"name":"static_map","vers":"0.1.1","deps":[{"name":"fxhash","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ba018325562eecb501386c19639faf16bc7b0dc887ef3d278bc90659c9c0a1b","features":{},"yanked":false}
