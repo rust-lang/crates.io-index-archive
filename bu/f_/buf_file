@@ -1,0 +1,1 @@
+{"name":"buf_file","vers":"0.1.0","deps":[{"name":"raw_serde","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8f14eba5613ca7048a3940c3bf52d857e483641bb1a5a53d16e17b4c2fb47df","features":{},"yanked":false}
