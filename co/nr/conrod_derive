@@ -1,0 +1,1 @@
+{"name":"conrod_derive","vers":"0.1.0","deps":[{"name":"quote","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c28f8b4fcf117f963e5e001647f2664a776eed7bcbf64b66b03ad67ceabde94e","features":{},"yanked":false}
