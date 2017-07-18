@@ -1,0 +1,1 @@
+{"name":"kcp","vers":"0.1.0","deps":[{"name":"bytes","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"mio","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6410e7682865c727e94d77cafd510bd713eb350ef8eed4e2b87663d5130ae507","features":{},"yanked":false}
