@@ -1,2 +1,3 @@
 {"name":"buf_file","vers":"0.1.0","deps":[{"name":"raw_serde","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8f14eba5613ca7048a3940c3bf52d857e483641bb1a5a53d16e17b4c2fb47df","features":{},"yanked":false}
 {"name":"buf_file","vers":"0.1.1","deps":[{"name":"raw_serde","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5dee21b6efc50185b254b7dcb4383de3301aa7452920d19fbfd92adf8141c4b8","features":{},"yanked":false}
+{"name":"buf_file","vers":"0.2.1","deps":[],"cksum":"632574b81129fde14dbfa7615385eff808c2e3f134a12f97ce704923bee1da2a","features":{},"yanked":false}
