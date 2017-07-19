@@ -1,0 +1,1 @@
+{"name":"nazar","vers":"0.1.0","deps":[{"name":"redis","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10659dc8d1974f19b035544b79cb35c05bcd1774af299b8e70d7c3183b45ae82","features":{},"yanked":false}
