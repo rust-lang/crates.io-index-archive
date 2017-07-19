@@ -1,1 +1,2 @@
 {"name":"judy-sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e257fa5094f74f2a70a80b4fa30e6894fb0c60938aa052127dfd26944583b23","features":{},"yanked":true}
+{"name":"judy-sys","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa006904d83c11d1f16afb6e8f4fe416f69e10a52cfb5f99b90e53c01fed5d77","features":{},"yanked":false}
