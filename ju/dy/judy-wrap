@@ -1,0 +1,1 @@
+{"name":"judy-wrap","vers":"0.0.1","deps":[{"name":"judy-sys","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db83fdfb6c020361fc44785a3ccd4cdaef759f6f8fa82235d34bd1ee4a552e7b","features":{},"yanked":false}
