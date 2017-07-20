@@ -1,0 +1,1 @@
+{"name":"globtest","vers":"0.1.0","deps":[{"name":"glob","req":"^0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^2.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb5cec454c7d76b0687c9dffecc2d88419c2597f93aa72468cac35b96e223107","features":{},"yanked":false}
