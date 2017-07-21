@@ -5,3 +5,4 @@
 {"name":"jni-sys","vers":"0.2.3","deps":[],"cksum":"2eff9fa9fbea67e7a1f2216506ee304bb322a6defff6eed1e3c54684d00159eb","features":{},"yanked":false}
 {"name":"jni-sys","vers":"0.2.4","deps":[],"cksum":"a7da1fbb4b58af6e3b3942f1fa52ebf6bad40e1c430d1f32a07f7952842d27f0","features":{},"yanked":false}
 {"name":"jni-sys","vers":"0.2.5","deps":[],"cksum":"de0aaaba8809ab8d83a53fe2b313b996b79e8632b855eae9f70ad4323dca91b8","features":{},"yanked":false}
+{"name":"jni-sys","vers":"0.3.0","deps":[],"cksum":"8eaf4bc02d17cbdd7ff4c7438cafcdf7fb9a4613313ad11b4f8fefe7d3fa0130","features":{},"yanked":false}
