@@ -1,0 +1,1 @@
+{"name":"specs-derive","vers":"0.1.0","deps":[{"name":"syn","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quote","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6867820875f5348cf37d14786f35e406870706cc587d30315dbbf6c92958207a","features":{},"yanked":false}
