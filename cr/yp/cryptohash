@@ -1,1 +1,2 @@
 {"name":"cryptohash","vers":"0.1.0","deps":[{"name":"blake2-rfc","req":"^0.2.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce2955f35138cec08b7ba8df41e73d7ebf3445330783ea1920d2fc4a15b92e64","features":{},"yanked":false}
+{"name":"cryptohash","vers":"0.1.1","deps":[{"name":"blake2-rfc","req":"^0.2.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"050ebb12fbffdea9bf916894aa2a3ddb983cddd27bb21bb4db43d08bcac6536b","features":{},"yanked":false}
