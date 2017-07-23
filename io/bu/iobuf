@@ -75,3 +75,4 @@
 {"name":"iobuf","vers":"5.7.0","deps":[],"cksum":"eb08ca77e4621d722140d106b9211d4117279de05f0350476e1dd2892756eb24","features":{},"yanked":false}
 {"name":"iobuf","vers":"5.7.1","deps":[],"cksum":"8829be880cae02311416f8e5a5a25eb1088841967beb658fef6cdd19b9d37f62","features":{},"yanked":false}
 {"name":"iobuf","vers":"5.8.0","deps":[],"cksum":"d95a61cecda87cabe1d2f6a5ecf316dab165891dc000e7e89507bc924fb8abc4","features":{},"yanked":false}
+{"name":"iobuf","vers":"5.8.1","deps":[],"cksum":"6e024bf2943afbf90dbbefd01a43d8850694ae2aafe8dd4f049bfc7516f6c062","features":{},"yanked":false}
