@@ -1,1 +1,1 @@
-{"name":"path-router","vers":"0.1.0","deps":[{"name":"log","req":"^0.3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3e80065a716a71bef09f2bd5241bd81a179c08acfd57577015de4a25c3e62cb","features":{},"yanked":false}
+{"name":"path-router","vers":"0.1.0","deps":[{"name":"log","req":"^0.3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3e80065a716a71bef09f2bd5241bd81a179c08acfd57577015de4a25c3e62cb","features":{},"yanked":true}
