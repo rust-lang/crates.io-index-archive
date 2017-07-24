@@ -1,0 +1,1 @@
+{"name":"bcndecode","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"98a5404f3e20cafe65574f9ad1a54782cf064bc4715febb116a0cbfc2fa2831e","features":{},"yanked":false}
