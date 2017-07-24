@@ -17,3 +17,4 @@
 {"name":"gmp-mpfr-sys","vers":"1.0.3","deps":[],"cksum":"0f0f2149b2f33847eb6c84034f320d53d804a11144f431e67ff68bbeedf48f09","features":{"mpc":["mpfr"],"mpfr":[],"default":["mpfr","mpc"]},"yanked":false}
 {"name":"gmp-mpfr-sys","vers":"1.0.4","deps":[],"cksum":"031e564d2978a6eefd843f73ab5da2b01e468ef60c67eba502b5c9795589c621","features":{"default":["mpfr","mpc"],"cnotest":[],"mpc":["mpfr"],"mpfr":[],"ctest":[]},"yanked":false}
 {"name":"gmp-mpfr-sys","vers":"1.0.5","deps":[],"cksum":"772d58b03f1b37571dcaa164d65074c91e73f394a5a0e9cc581c4e124a272113","features":{"ctest":[],"default":["mpfr","mpc"],"mpc":["mpfr"],"cnotest":[],"mpfr":[]},"yanked":false}
+{"name":"gmp-mpfr-sys","vers":"1.0.6","deps":[],"cksum":"ef8523b7f7cb9a64eaf2ffd1f354816f4260ae562785820052d75eda2e3e32af","features":{"ctest":[],"mpfr":[],"default":["mpfr","mpc"],"mpc":["mpfr"],"cnotest":[]},"yanked":false}
