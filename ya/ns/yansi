@@ -2,3 +2,4 @@
 {"name":"yansi","vers":"0.1.1","deps":[],"cksum":"b90f33fab47d0a19361a7a8668ecc1eae4f23fe9f88d69f21b8e08df97825b84","features":{"nightly":[]},"yanked":false}
 {"name":"yansi","vers":"0.2.0","deps":[],"cksum":"0a72c5a0703f0440242478d68c87df94fe916711131c733cbd1420dd768811d8","features":{"nightly":[]},"yanked":false}
 {"name":"yansi","vers":"0.3.0","deps":[],"cksum":"b731f15b7c13b4988f2836d88ce92b699c72dbc0178cf9d7c3ecad0d8fd1c902","features":{"nightly":[]},"yanked":false}
+{"name":"yansi","vers":"0.3.1","deps":[],"cksum":"dd2dfa56374d28edfbacab616c79e4a4fc8646f4454dacb341cc4f3aa47ed5de","features":{"nightly":[]},"yanked":false}
