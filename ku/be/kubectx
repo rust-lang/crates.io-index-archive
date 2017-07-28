@@ -1,0 +1,1 @@
+{"name":"kubectx","vers":"1.0.0","deps":[{"name":"dialoguer","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fece1295cdc7c29d95bbd279e4cd7fb6b9883ca7703e8949970a0b24d5e4e277","features":{},"yanked":false}
