@@ -16,3 +16,4 @@
 {"name":"threadpool","vers":"1.3.2","deps":[],"cksum":"59f6d3eff89920113dac9db44dde461d71d01e88a5b57b258a0466c32b5d7fe1","features":{},"yanked":false}
 {"name":"threadpool","vers":"1.4.0","deps":[],"cksum":"2f95666101aad0c8f42d0533b696aee6de31d2ee6fc5081aa839b9b3b8440c3a","features":{},"yanked":false}
 {"name":"threadpool","vers":"1.4.1","deps":[],"cksum":"39fdea8783394a1396579ce8ee4c3be056a0dd49dc0de5aa322f63eb95579d90","features":{},"yanked":false}
+{"name":"threadpool","vers":"1.5.0","deps":[{"name":"num_cpus","req":"^1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd329bef8c4b6c60ce9f0b4e12813feb0f1b71b16cc56dc9773be77e3b8d9294","features":{},"yanked":false}
