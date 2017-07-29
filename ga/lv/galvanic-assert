@@ -8,3 +8,4 @@
 {"name":"galvanic-assert","vers":"0.8.2","deps":[],"cksum":"3ae45bdeaf3a04c2ed09530f9f3036615862a4479ce9c3445b98d409de1bb8de","features":{},"yanked":false}
 {"name":"galvanic-assert","vers":"0.8.3","deps":[],"cksum":"1904e23e64814e1e3dbffc0326bfb77b017000de7d273d5e43bc335f9cee4b59","features":{},"yanked":false}
 {"name":"galvanic-assert","vers":"0.8.4","deps":[],"cksum":"76d3ff89bb8a74d75d76d6e98a878393d1f76d383a00eea36a641f412ad15085","features":{},"yanked":true}
+{"name":"galvanic-assert","vers":"0.8.5","deps":[{"name":"rustc_version","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2f09c5c6f5f5d71f135ef1e83b148e29cb6a88c67ebdd17553bc94cd57c8d55a","features":{},"yanked":false}
