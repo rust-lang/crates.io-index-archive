@@ -1,1 +1,2 @@
 {"name":"comment-strip","vers":"0.1.1","deps":[{"name":"clap","req":"^2.25.0","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3bda4ba2f0bbce772d4b96f50675ff7a0e0557c4f98a76259f964e5ed112e078","features":{},"yanked":false}
+{"name":"comment-strip","vers":"0.1.2","deps":[{"name":"clap","req":"^2.25.0","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8dc1a43eafab29d3175798d1fae9e470910df577bce716a5a3c2d90c5e129d94","features":{},"yanked":false}
