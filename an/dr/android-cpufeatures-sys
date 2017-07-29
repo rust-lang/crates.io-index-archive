@@ -1,1 +1,1 @@
-{"name":"android-cpufeatures-sys","vers":"1.0.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"26ee9b755948fbd18602d79cce5e1425fd0e08e10ec133eceff2919b905dce96","features":{},"yanked":false}
+{"name":"android-cpufeatures-sys","vers":"1.0.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"26ee9b755948fbd18602d79cce5e1425fd0e08e10ec133eceff2919b905dce96","features":{},"yanked":true}
