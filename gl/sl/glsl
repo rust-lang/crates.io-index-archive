@@ -1,1 +1,2 @@
 {"name":"glsl","vers":"0.1.0","deps":[{"name":"nom","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"208b1b1681fb1444359116d6f7a8cabc30299d5e9084c2f678c972864f0c468b","features":{},"yanked":false}
+{"name":"glsl","vers":"0.2.0","deps":[{"name":"nom","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10e7eef503dd52e0f75b817083493ee6b4ed9095f2a077050c5f97b2edae1236","features":{},"yanked":false}
