@@ -1,0 +1,1 @@
+{"name":"parking_lot_mpsc","vers":"0.1.1","deps":[{"name":"parking_lot","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5959020698f1ffe1c868af6f7163f8dd67243b81bed3379bef821e08a167419","features":{},"yanked":false}
