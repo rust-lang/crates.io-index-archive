@@ -1,0 +1,1 @@
+{"name":"uavcan","vers":"0.0.1","deps":[{"name":"uavcan-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2afd546e8569f324228bb1188b772c9e4511d2d9fa54b6aee97d607c0bbebf49","features":{},"yanked":false}
