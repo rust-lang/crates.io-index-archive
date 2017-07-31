@@ -18,3 +18,4 @@
 {"name":"sequence_trie","vers":"0.3.1","deps":[],"cksum":"1154a2b46efa8e967b98291173a559ee346e87f33b7aaa517d3fa72ab6112001","features":{},"yanked":false}
 {"name":"sequence_trie","vers":"0.3.2","deps":[],"cksum":"de3fcd651edb1eae3500342afe0233e20b1a5afcd0dcfa1b67b0db795029b6b5","features":{},"yanked":false}
 {"name":"sequence_trie","vers":"0.3.3","deps":[],"cksum":"880de14df99807f00f3a8e0e5bd89968fa2d2f5138160ffcfe98b9ce946a9433","features":{},"yanked":false}
+{"name":"sequence_trie","vers":"0.3.4","deps":[],"cksum":"ec13febfa2b1f4205616b9de73c6bd9eaa1c89d3f8c5abf68c6217ec4e4a1831","features":{},"yanked":false}
