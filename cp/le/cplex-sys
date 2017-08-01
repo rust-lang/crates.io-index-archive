@@ -1,0 +1,1 @@
+{"name":"cplex-sys","vers":"0.2.3","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4c6bcb030846f1c783e8f0ca73f1392498096847680d44a6513ebfa36b4f770f","features":{},"yanked":false}
