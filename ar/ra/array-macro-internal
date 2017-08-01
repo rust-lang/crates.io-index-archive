@@ -1,0 +1,1 @@
+{"name":"array-macro-internal","vers":"0.1.0","deps":[{"name":"proc-macro-hack","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"609c62ab4496ecb545227b7c997936e87781e49f6c6a588c067c1fdeafe618e4","features":{},"yanked":false}
