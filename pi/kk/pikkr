@@ -2,3 +2,4 @@
 {"name":"pikkr","vers":"0.0.2","deps":[],"cksum":"13e8c3e47a5469bca219a43b3538b393c4fe1002e3a6441285b0f76e591f4605","features":{},"yanked":false}
 {"name":"pikkr","vers":"0.0.3","deps":[],"cksum":"962f0f6a83a1262fcd9af4bb4fe621c515b3c70df78164664cecb491f45bbc6b","features":{},"yanked":false}
 {"name":"pikkr","vers":"0.0.4","deps":[],"cksum":"6d180f1bc146626c053a2ef34d0de16aab9a45f57206e117d15e7d225c478616","features":{},"yanked":false}
+{"name":"pikkr","vers":"0.0.5","deps":[{"name":"x86intrin","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5084e75f1ebf3cc0a1c0f73a74a6fa6089f27a9ee35f358969797e8cd0575d6","features":{},"yanked":false}
