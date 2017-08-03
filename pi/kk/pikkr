@@ -4,3 +4,4 @@
 {"name":"pikkr","vers":"0.0.4","deps":[],"cksum":"6d180f1bc146626c053a2ef34d0de16aab9a45f57206e117d15e7d225c478616","features":{},"yanked":false}
 {"name":"pikkr","vers":"0.0.5","deps":[{"name":"x86intrin","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5084e75f1ebf3cc0a1c0f73a74a6fa6089f27a9ee35f358969797e8cd0575d6","features":{},"yanked":false}
 {"name":"pikkr","vers":"0.0.6","deps":[{"name":"x86intrin","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26685d3734338aba37b3a105c011becbbae91aac4dca3963bda6557de7388ffc","features":{},"yanked":false}
+{"name":"pikkr","vers":"0.0.7","deps":[{"name":"x86intrin","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"725fb61dd6143a40114e8caaa1af771726b6b94390b236012564b2756f28ca3c","features":{},"yanked":false}
