@@ -1,0 +1,1 @@
+{"name":"nom-hpgl","vers":"0.1.0","deps":[{"name":"nom","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"memmap","req":"^0.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"35ff530303ac7e25936f2017d3ecb8082e2beddb9c214423eb98f8534d17778a","features":{},"yanked":false}
