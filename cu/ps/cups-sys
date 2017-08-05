@@ -1,1 +1,2 @@
 {"name":"cups-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.28.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0bc23473dac376fb5d3044a74ca108a05debfdf49571282f2f3c245c2f8f63a9","features":{},"yanked":false}
+{"name":"cups-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.28.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"abaf907c9fc3682ba27d64f420c35c796e5ba1cc2d6419b9b2b90aa65b7f6e9c","features":{},"yanked":false}
