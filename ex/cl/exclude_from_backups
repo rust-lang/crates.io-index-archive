@@ -1,0 +1,1 @@
+{"name":"exclude_from_backups","vers":"0.1.0","deps":[{"name":"objc","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"ef8f2871ae909bcfdcc0576842b1607a59d38e27c634e99290b10cd2f6de31ce","features":{},"yanked":false}
