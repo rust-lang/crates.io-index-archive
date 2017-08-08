@@ -4,3 +4,4 @@
 {"name":"varuint","vers":"0.3.0","deps":[],"cksum":"0cd4ee864d83de1a048b0c09c7880d2f12462e4a16fc4965742e780b8e961614","features":{},"yanked":false}
 {"name":"varuint","vers":"0.3.1","deps":[],"cksum":"95bda1a4df35f3d90301f041ab5cd0bc1ba91244d99c795e7cc250dff3a21fff","features":{},"yanked":false}
 {"name":"varuint","vers":"0.3.2","deps":[],"cksum":"96a2752dc260166307bf4ce29fd0dc1e2e2bd741be7e5f93fc54b44e6375d397","features":{},"yanked":false}
+{"name":"varuint","vers":"0.3.3","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_derive","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e5f880025b0c4ab8a7c909f96f5e36c337521d23f31721191d9b4a3735995f8","features":{"serde-support":["serde","serde_derive"],"default":[]},"yanked":false}
