@@ -1,2 +1,3 @@
 {"name":"drop_guard","vers":"0.0.0","deps":[],"cksum":"460363650f603e4579d7e031684c9ae2861cec632b2dc6218f1c6c67716f101a","features":{},"yanked":false}
 {"name":"drop_guard","vers":"0.0.1","deps":[{"name":"threadpool","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"95bec44fe992954882d298d77564aac986660ce4ea642f0eed5a2c054f15d812","features":{},"yanked":false}
+{"name":"drop_guard","vers":"0.0.2","deps":[{"name":"threadpool","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0033bfe7de15de95c68058a1ac6a76bc7fae9a8fca011e47c9fcc79277e88112","features":{},"yanked":false}
