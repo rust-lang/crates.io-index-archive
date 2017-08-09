@@ -1,1 +1,2 @@
 {"name":"easycurses","vers":"0.4.0","deps":[{"name":"pancurses","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ef35cda3c371820d655c2ce229bfa17527abdc900b9f46c6db06d4f0367d14c","features":{},"yanked":false}
+{"name":"easycurses","vers":"0.5.0","deps":[{"name":"pancurses","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88c02ccc7985b0d29389183f633b35855e49883bb7a68b6ab2f6830e59b6f38b","features":{},"yanked":false}
