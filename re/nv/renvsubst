@@ -1,0 +1,1 @@
+{"name":"renvsubst","vers":"0.1.0","deps":[{"name":"uuid","req":"^0.4","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"344d1f56a3cc90a298b4d999380296d412467c81548bd8e8b47425a872c2e6e5","features":{},"yanked":false}
