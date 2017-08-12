@@ -1,0 +1,1 @@
+{"name":"neural_network","vers":"0.0.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38970189f4220d925295b2e29f5b3635ee6b583ced5df75f1a8846b5c28fcfdc","features":{},"yanked":false}
