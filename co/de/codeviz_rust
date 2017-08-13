@@ -1,1 +1,2 @@
 {"name":"codeviz_rust","vers":"0.1.0","deps":[{"name":"codeviz_common","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"049489197e544c2d1312a181aaeca3a38b81db1a9206c7c052e06d261c397918","features":{},"yanked":false}
+{"name":"codeviz_rust","vers":"0.1.1","deps":[{"name":"codeviz_common","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71fe9ef07bcbddcf9a787f11ce4e782c8a3d41526d97f0a0134750d855fcc00b","features":{},"yanked":false}
