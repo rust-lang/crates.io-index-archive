@@ -1,1 +1,2 @@
 {"name":"codeviz_common","vers":"0.1.0","deps":[{"name":"error-chain","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2702dd66112a57da2aba9a7c3499a3157e43ac29d5467ef4182c66c3fcf2a246","features":{},"yanked":false}
+{"name":"codeviz_common","vers":"0.1.1","deps":[{"name":"error-chain","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"762d45be7d016665267ca818c8cedb262208fa61f786e3e3458779033fcb7577","features":{},"yanked":false}
