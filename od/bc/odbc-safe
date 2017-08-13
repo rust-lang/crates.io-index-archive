@@ -1,0 +1,1 @@
+{"name":"odbc-safe","vers":"0.1.0","deps":[{"name":"odbc-sys","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58ccdd654ef898b3c2bff6c170a704fc23e789c49b463c411d03e842f180ecc8","features":{"travis":[],"default":[]},"yanked":false}
