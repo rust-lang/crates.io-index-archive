@@ -1,2 +1,3 @@
 {"name":"static_assertions","vers":"0.1.0","deps":[],"cksum":"e7286a0cd855b00c18221a7874770d83778652cb18b3fa483e72f70734025c2f","features":{"nightly":["const_fn"],"const_fn":[],"failure":[]},"yanked":false}
 {"name":"static_assertions","vers":"0.1.1","deps":[],"cksum":"f406d6ee68db6796e11ffd7b4d171864c58b7451e79ef9460ea33c287a1f89a7","features":{"failure":[],"nightly":["const_fn"],"const_fn":[]},"yanked":false}
+{"name":"static_assertions","vers":"0.2.0","deps":[],"cksum":"bc8d4241ae2ecd8de4977c02407f0b1c239074802e0b9c94fb1e15a7e2f66715","features":{"const_fn":[],"nightly":["const_fn"],"failure":[]},"yanked":false}
