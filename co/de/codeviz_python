@@ -1,1 +1,2 @@
 {"name":"codeviz_python","vers":"0.1.0","deps":[{"name":"codeviz_common","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"734a906a138224b8428bca41414f234fc9edf0213a7d4cd37aa4c8ec65bc27d8","features":{},"yanked":false}
+{"name":"codeviz_python","vers":"0.1.1","deps":[{"name":"codeviz_common","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4409a58154340ed67cafc29afdc40078b48b02059eb1ab0890bf1c4909766048","features":{},"yanked":false}
