@@ -10,3 +10,4 @@
 {"name":"crow_util","vers":"0.2.4","deps":[],"cksum":"0c639eb910d1d9a44d9d6c64fb0e41b0fcd2e09a560dacc631c4830fad450bdb","features":{},"yanked":false}
 {"name":"crow_util","vers":"0.2.5","deps":[],"cksum":"4d7d99d2a794dd988d1d209e3b1151448e6fa3b8ff0e1f894df5bb6bcc9294f9","features":{},"yanked":false}
 {"name":"crow_util","vers":"0.2.5-1","deps":[],"cksum":"78fee1e433a8f316d52cc61604d2b0d88fa46364365a42db2c3d1bfb1b9eb9cf","features":{},"yanked":false}
+{"name":"crow_util","vers":"0.3.0","deps":[],"cksum":"78ef289c3f9429251282bb8b76e2b81c68e4d9796f3071f286aca9d6937cd3cb","features":{},"yanked":false}
