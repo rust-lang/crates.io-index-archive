@@ -1,0 +1,1 @@
+{"name":"kodama-capi","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"kodama","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c49a1fa138fffb01d824e9ec0d47d26c8072d869e1e753b089e3d9d03b98bd0f","features":{},"yanked":false}
