@@ -1,0 +1,1 @@
+{"name":"mat4","vers":"0.1.0","deps":[{"name":"vec3","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"number_traits","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db39f63e813a534619ff718424c9efc7483785691aa5b5b284e114b5be26d451","features":{},"yanked":false}
