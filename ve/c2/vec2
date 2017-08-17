@@ -1,0 +1,1 @@
+{"name":"vec2","vers":"0.1.0","deps":[{"name":"vec3","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"number_traits","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e192a68139a3e2af3a2b4f65bd3ce813611f57e960ca31ea38f1752fed897052","features":{},"yanked":false}
