@@ -1,0 +1,1 @@
+{"name":"mat32","vers":"0.1.0","deps":[{"name":"vec2","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"number_traits","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc7a9672c410afc7eee6270b65efd2af31cacfb87909450ebf84903fdf55a367","features":{},"yanked":false}
