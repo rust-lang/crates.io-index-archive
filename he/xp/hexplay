@@ -5,3 +5,4 @@
 {"name":"hexplay","vers":"0.1.4","deps":[],"cksum":"030811c6e45c2309230904751a90a687c7a01ffe7d8a489159681c6836125ba0","features":{},"yanked":false}
 {"name":"hexplay","vers":"0.1.5","deps":[],"cksum":"d4ef61d0a15824987d8c3f60e2566beb9f2ca4e5b98b51fa58456dc2073cdf27","features":{},"yanked":false}
 {"name":"hexplay","vers":"0.1.6","deps":[],"cksum":"26f78b6ae8c9555684e6fb6d4f4931e8cce8329d509f00c868e4dcc2b64b6b41","features":{},"yanked":false}
+{"name":"hexplay","vers":"0.2.0","deps":[{"name":"atty","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"termcolor","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea82be038246940c8143e7829aaa2a1c7b1a4e0430612d206d2d97ee98e62094","features":{},"yanked":false}
