@@ -1,0 +1,1 @@
+{"name":"krpc-rs","vers":"0.0.1","deps":[{"name":"quick-protobuf","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d5f78ada2ac1d7059bd50d674a9478ea90c3244e36cd589e609bfc9d6b48078","features":{},"yanked":false}
