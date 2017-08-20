@@ -1,1 +1,2 @@
 {"name":"rmenu","vers":"0.1.0","deps":[{"name":"conrod","req":"0.54.*","features":["glium","winit"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8604bb6abb85e151d3c640777d5374df6b140e9f65d99362c982bcd4af3d2d8","features":{},"yanked":false}
+{"name":"rmenu","vers":"0.1.1","deps":[{"name":"conrod","req":"0.54.*","features":["glium","winit"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ceabb72ee5d08896f0230726e8312ba4b1aaea8a9b5bbc7a7db2b8d087b2a164","features":{},"yanked":false}
