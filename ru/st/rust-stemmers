@@ -1,1 +1,2 @@
 {"name":"rust-stemmers","vers":"0.1.0","deps":[],"cksum":"8398e39ef1740238f87fcc4171fccc2231ba7ef1ecd64075d77feb0041927fc7","features":{},"yanked":false}
+{"name":"rust-stemmers","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_derive","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcf436ac86e69ede22851f6bb43eff9c196715b2fc243a65cd28b19c675d363c","features":{},"yanked":false}
