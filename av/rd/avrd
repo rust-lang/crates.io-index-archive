@@ -1,1 +1,2 @@
 {"name":"avrd","vers":"0.1.0","deps":[{"name":"xmltree","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7ac456c99022560c346cd9177c535bc376abe44e93945a859b8ade0335a3da4e","features":{},"yanked":false}
+{"name":"avrd","vers":"0.1.1","deps":[{"name":"xmltree","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fc3b95cce879cd4e9778df0f3a0cfa4d05957a87b67f7687974e4ebdf9ab173d","features":{},"yanked":false}
