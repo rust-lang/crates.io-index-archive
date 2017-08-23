@@ -1,0 +1,1 @@
+{"name":"zydis","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"gcc","req":"^0.3.53","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e0a3ea24f57651b7697a6b23bb1a021a3a63ba4f609174693a8c003043453447","features":{},"yanked":false}
