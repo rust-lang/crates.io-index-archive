@@ -1,1 +1,2 @@
 {"name":"endian_trait","vers":"0.1.0","deps":[{"name":"endian_trait_derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa2c4351f1e79c64f07a5455e7645ab5cd7abedb1d19c291c8fcc6497bb2520b","features":{},"yanked":false}
+{"name":"endian_trait","vers":"0.1.1","deps":[{"name":"endian_trait_derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb3e1436252b48946ff5164fc9d54894dcbc2f022f55c70208d3a53c312eb222","features":{},"yanked":false}
