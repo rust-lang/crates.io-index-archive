@@ -6,3 +6,4 @@
 {"name":"tls-api","vers":"0.1.6","deps":[],"cksum":"aea1062f760ce10657188c1d44be231619dba484c104c599cc78a78d7831d457","features":{},"yanked":false}
 {"name":"tls-api","vers":"0.1.7","deps":[{"name":"log","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dae5393fd5850e20ce224633a43e82ec5b402b77eb332c5e23ddf31a9aa6d5cc","features":{},"yanked":false}
 {"name":"tls-api","vers":"0.1.8","deps":[{"name":"log","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80fe001fae047bec908b0299fae208afddcb70b2cac2411487ba7db7da4ab966","features":{},"yanked":false}
+{"name":"tls-api","vers":"0.1.9","deps":[{"name":"log","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7369082f4c4daec9a0818a5f654ce25ccafec0ec58bc771224c2951bb79a4648","features":{},"yanked":false}
