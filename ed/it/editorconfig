@@ -1,0 +1,1 @@
+{"name":"editorconfig","vers":"0.1.0","deps":[{"name":"rust-ini","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3abd8b407e2adfdafb94a30a39753b5d119d71400127db9014753eb2646f1cef","features":{},"yanked":false}
