@@ -8,3 +8,4 @@
 {"name":"float-cmp","vers":"0.2.1","deps":[],"cksum":"355eaa46de61650b79ebec8536132064f250c0795a0d61107f47a562ab941a30","features":{},"yanked":false}
 {"name":"float-cmp","vers":"0.2.2","deps":[{"name":"num","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84cc3bc62dc0d69062fd96ca81707e6e0490d125d4106909a9f72ddbf3b39d72","features":{},"yanked":false}
 {"name":"float-cmp","vers":"0.2.3","deps":[{"name":"num-traits","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ae5c9d3ac80527346eb21666d9135b695243a48ef5f2df19022856975a66c411","features":{},"yanked":false}
+{"name":"float-cmp","vers":"0.2.4","deps":[{"name":"num","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5ab86b24af025df4a682d516a9a3583860edf3415f70fd85c6a6f03ef86af516","features":{},"yanked":false}
