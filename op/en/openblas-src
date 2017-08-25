@@ -2,3 +2,4 @@
 {"name":"openblas-src","vers":"0.5.1","deps":[],"cksum":"1b0b0193417c7e5e2e3abe1111602890840562a0c544012f301cd281a429a781","features":{"system":[],"static":[],"lapacke":[],"default":["cblas","lapacke"],"cblas":[]},"yanked":false}
 {"name":"openblas-src","vers":"0.5.2","deps":[],"cksum":"9567796e5e1ade1bd802a37ebfbd01dc0548f8c32773b732cce5707cae043c72","features":{"static":[],"default":["cblas","lapacke"],"system":[],"cblas":[],"lapacke":[]},"yanked":false}
 {"name":"openblas-src","vers":"0.5.3","deps":[],"cksum":"6a83675723211745cf3b08eedf276a7b7b4c6d58f9a2b41cb06a9164329e0b89","features":{"cblas":[],"default":["cblas","lapacke"],"system":[],"lapacke":[],"static":[]},"yanked":false}
+{"name":"openblas-src","vers":"0.5.4","deps":[],"cksum":"409b425320a6b63c6a0b9fa69bedf27c18038046c2e1df3b3f382b89fd68323e","features":{"static":[],"cblas":[],"system":[],"default":["cblas","lapacke"],"lapacke":[]},"yanked":false}
