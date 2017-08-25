@@ -1,0 +1,1 @@
+{"name":"cronjob","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cron","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42c8510f7c043532f6172041847848b63c4720cbc5569784250e046af2c11c2a","features":{},"yanked":false}
