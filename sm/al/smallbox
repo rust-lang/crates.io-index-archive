@@ -2,3 +2,4 @@
 {"name":"smallbox","vers":"0.2.2","deps":[],"cksum":"c8e616de6b0248ef7d6085867e7f2983bb4b0efeedeaa9c829c38393c2eb25b8","features":{"default":["std"],"heap":[],"std":["heap"]},"yanked":false}
 {"name":"smallbox","vers":"0.3.1","deps":[],"cksum":"de8876fbe00fbfbf7083665c5441206a6c1c573dbe72e2e114eb43a42e1e6396","features":{"default":["std"],"heap":[],"std":["heap"]},"yanked":false}
 {"name":"smallbox","vers":"0.4.1","deps":[],"cksum":"926219e9e89cc1eaa03243f196e912dfc097ccbecf9638b6ad804870d02de419","features":{"default":["std"],"heap":[],"std":["heap"]},"yanked":false}
+{"name":"smallbox","vers":"0.4.2","deps":[{"name":"nodrop-union","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11f7ef0f61eb3980c7ddcb81990b3488ae9420aecaca9639c29d1796a92ff1ba","features":{"heap":[],"default":["std"],"std":["heap"]},"yanked":false}
