@@ -1,0 +1,1 @@
+{"name":"mauzi_macros","vers":"0.0.1","deps":[{"name":"literalext","req":"^0.1","features":["proc-macro"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8256854b1ddd353b74efd9eefdfa30d75228610743895bf2d29d9f610d964463","features":{},"yanked":false}
