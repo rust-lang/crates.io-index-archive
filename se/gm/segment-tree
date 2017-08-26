@@ -1,0 +1,1 @@
+{"name":"segment-tree","vers":"1.0.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e629f91ea37bfb7c8624cd78b5098dd051c8665fd41ab854eba54b87b9459851","features":{},"yanked":false}
