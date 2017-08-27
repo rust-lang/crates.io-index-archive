@@ -1,0 +1,1 @@
+{"name":"gltf-utils","vers":"0.1.0","deps":[{"name":"gltf","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d7dda04ba9af422327ca0145ce7dda0246e593576b1d16226249fe36339e370","features":{"default":[],"names":[],"extras":[]},"yanked":false}
