@@ -1,1 +1,2 @@
 {"name":"meealgi","vers":"0.0.1","deps":[{"name":"chrono","req":"~0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d5786c8428641494e7132c92c990c9218489ccb73d957d134ad9c5ff97cccb4","features":{},"yanked":false}
+{"name":"meealgi","vers":"0.0.2","deps":[{"name":"chrono","req":"~0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec747f5c2fc783c8f20fadc77fd20de42d318ebb890a871d7f5b9b5a1d33a83a","features":{},"yanked":false}
