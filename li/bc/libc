@@ -41,3 +41,4 @@
 {"name":"libc","vers":"0.2.27","deps":[],"cksum":"719aa0af4c241fa71d396ffdfe584aa758f08f35b4680ec3f03ecc2c3fe69b76","features":{"default":["use_std"],"use_std":[]},"yanked":false}
 {"name":"libc","vers":"0.2.28","deps":[],"cksum":"bb7b49972ee23d8aa1026c365a5b440ba08e35075f18c459980c7395c221ec48","features":{"use_std":[],"default":["use_std"]},"yanked":false}
 {"name":"libc","vers":"0.2.29","deps":[],"cksum":"8a014d9226c2cc402676fbe9ea2e15dd5222cd1dd57f576b5b283178c944a264","features":{"use_std":[],"default":["use_std"]},"yanked":false}
+{"name":"libc","vers":"0.2.30","deps":[],"cksum":"2370ca07ec338939e356443dac2296f581453c35fe1e3a3ed06023c49435f915","features":{"use_std":[],"default":["use_std"]},"yanked":false}
