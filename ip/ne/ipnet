@@ -21,3 +21,4 @@
 {"name":"ipnet","vers":"0.18.2","deps":[],"cksum":"ce3f26f14e9fc7b0af76dd9db76c848fc5dfb7c0137ad3477a4d774146249562","features":{},"yanked":false}
 {"name":"ipnet","vers":"0.18.3","deps":[],"cksum":"c5251cef36973004b3aa8cfbac0dc5c454404bff927b2b0b74e0db4628310c0e","features":{},"yanked":false}
 {"name":"ipnet","vers":"0.19.0","deps":[],"cksum":"7b802c5de98558352b3d13c673507c5d9c0e2e6a4289d3793feacd4331bb8dca","features":{},"yanked":false}
+{"name":"ipnet","vers":"0.20.0","deps":[],"cksum":"105df4372cdace91939e5e1cdd42464dd4e98daa69544bb8f2983c6bdd50662d","features":{},"yanked":false}
