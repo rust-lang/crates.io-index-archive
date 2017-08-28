@@ -1,1 +1,2 @@
 {"name":"ct-logs","vers":"0.1.0","deps":[{"name":"sct","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b21b0eecd7926fe8097dd08242d1106b12e949b13ea6f68b4abf16a50e8c0f11","features":{},"yanked":false}
+{"name":"ct-logs","vers":"0.2.0","deps":[{"name":"sct","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61cd11fb222fecf889f4531855c614548e92e8bd2eb178e35296885df5ee9a7c","features":{},"yanked":false}
