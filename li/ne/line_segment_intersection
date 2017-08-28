@@ -1,1 +1,2 @@
 {"name":"line_segment_intersection","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae3f3dec0057a8e3ebd705f20509ab8bd1ae77b2a19e8915d2ba25dc3d3eda6b","features":{},"yanked":false}
+{"name":"line_segment_intersection","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bafef663220258c1e9c4dd19238497a5c94ab382e519cab8e5721fc5552bb8dd","features":{},"yanked":false}
