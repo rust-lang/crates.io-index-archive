@@ -1,3 +1,4 @@
 {"name":"hetseq","vers":"0.1.0","deps":[],"cksum":"2264449c0f4d848c38ba212a66d44e563ce685a7034c19aa91f33193acc7ac18","features":{"nightly":[]},"yanked":false}
 {"name":"hetseq","vers":"0.1.1","deps":[],"cksum":"7f494f4392ae7c0d7c57e826b8586c3cfd604c171f3060243082716c763c3470","features":{"nightly":[]},"yanked":false}
 {"name":"hetseq","vers":"0.1.2","deps":[],"cksum":"867b9b2275db071aabfbfb98ecfa1315dd2dccfebbd32082d731eeb17526f3cd","features":{"nightly":[]},"yanked":false}
+{"name":"hetseq","vers":"0.1.3","deps":[{"name":"rayon","req":"^0.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec42b93572d3769b2a52fac6b5ae9369bdb83ab5eb4fbab83ab28f9de363b847","features":{"par_iter":["rayon"],"nightly":[]},"yanked":false}
