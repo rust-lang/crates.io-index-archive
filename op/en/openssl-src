@@ -1,0 +1,1 @@
+{"name":"openssl-src","vers":"110.0.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afb6b204f45a7becf0bbcf063c7fead77fce11cc3929a3affe65e7bb3b3d8c9a","features":{},"yanked":false}
