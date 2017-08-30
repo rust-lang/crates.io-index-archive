@@ -1,1 +1,2 @@
 {"name":"spatialindex","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"91f152af15292d9b83cccb0f2027bf5f79a7626cd074f0bbacc8e9da102381f5","features":{},"yanked":false}
+{"name":"spatialindex","vers":"0.2.0","deps":[{"name":"spatialindex-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40db129ccd57bb09f2289ec4109a5a9c4ab9910d4657acf3915c92c57701a1bc","features":{},"yanked":false}
