@@ -1,3 +1,4 @@
 {"name":"bech32","vers":"0.1.0","deps":[],"cksum":"f369aa1aa60fd10e0df9915676c73e76558144955d849ac6555cce6d71398c0d","features":{},"yanked":false}
 {"name":"bech32","vers":"0.2.0","deps":[],"cksum":"10845b637b4e93a71eb84d9623115d9588a0c7897a106ecca9e589b18a282bc2","features":{},"yanked":false}
 {"name":"bech32","vers":"0.2.1","deps":[],"cksum":"c1ab5e031405695cf68ed6b5082f95b9316daeb233de56162b16f90685d261a2","features":{},"yanked":false}
+{"name":"bech32","vers":"0.2.2","deps":[],"cksum":"1955ebdd52d5c5f1fb4f94e97aa241c2ce5729d200b3c34fc71ac6ff7a7cc556","features":{},"yanked":false}
