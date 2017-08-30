@@ -1,1 +1,2 @@
 {"name":"historian","vers":"1.0.0","deps":[{"name":"coco","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5022fd6352bd3788f9b5193fb5fb677ddf35ea008d51156889d94cb8a570da4c","features":{},"yanked":false}
+{"name":"historian","vers":"1.0.1","deps":[{"name":"coco","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8fbddf5db5a5649a8907cca8a08edd8422a24ef8b2c666cc46e63bbc0aaa7f0e","features":{},"yanked":false}
