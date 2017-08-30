@@ -3,3 +3,4 @@
 {"name":"nccl","vers":"0.2.1","deps":[],"cksum":"533cf044212c0cc521fb2c13c5f70a4e31559d8a316e23597f95832a4b398b87","features":{},"yanked":false}
 {"name":"nccl","vers":"0.3.0","deps":[],"cksum":"7e9ae96a353dec414444200b788867735fad4bf093ce54ea95bd60abaac8c771","features":{},"yanked":false}
 {"name":"nccl","vers":"0.3.1","deps":[],"cksum":"1b069962a068e91ace742086bca4e97e324cd1808b2fa7bd1e059815f8850c06","features":{},"yanked":false}
+{"name":"nccl","vers":"0.4.0","deps":[],"cksum":"0a08f37bcfd5b12d915cde74d8d4f99283df0de1dda1fba4d0ac0ebb078f8ff2","features":{},"yanked":false}
