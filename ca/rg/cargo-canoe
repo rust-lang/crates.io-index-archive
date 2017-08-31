@@ -3,3 +3,4 @@
 {"name":"cargo-canoe","vers":"0.1.2","deps":[],"cksum":"41d05ce07e0372d9c1568340218d358476d9692073fe282e5bbaba5314d2971d","features":{},"yanked":true}
 {"name":"cargo-canoe","vers":"6.6.6","deps":[],"cksum":"27f33057378e4e225e4353a84d3862c9396436233ebf973f9a18db5e1c5fd9d1","features":{},"yanked":false}
 {"name":"cargo-canoe","vers":"6.6.6-ferris","deps":[{"name":"term-painter","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57735b9dc483e0ee784c8baaeb42cb3b799bd1094150cd289ef55ca07187565d","features":{},"yanked":false}
+{"name":"cargo-canoe","vers":"6.6.6-69","deps":[],"cksum":"194e733281672a8fc1b048615e11d81b67b0cedc996da795e8c9932188e52dec","features":{},"yanked":false}
