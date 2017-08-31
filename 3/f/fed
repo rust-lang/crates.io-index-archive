@@ -3,3 +3,4 @@
 {"name":"fed","vers":"0.2.1","deps":[],"cksum":"11f90dbe6cd1ca2b0b433504c4f175ba1f391b867e3201c172c7455568bacc35","features":{},"yanked":false}
 {"name":"fed","vers":"0.2.2","deps":[],"cksum":"58b4f17907cced19995f3f53156b7dc8b6c9032b31cc177d81a172ee4a25bdf6","features":{},"yanked":false}
 {"name":"fed","vers":"0.3.0","deps":[],"cksum":"07bf3a87fac428b681c7d081577a00f75642e340094e2b4402c4f5212dcc7aae","features":{},"yanked":false}
+{"name":"fed","vers":"0.4.0","deps":[{"name":"serde_derive","req":"^1.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"serde","req":"^1.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"bincode","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a166d8c7ca1c3efdc73267befc87d9a2bf59953858a666c931ab528812f01e81","features":{},"yanked":false}
