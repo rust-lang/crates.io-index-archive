@@ -27,3 +27,4 @@
 {"name":"undo","vers":"0.12.1","deps":[{"name":"fnv","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a79152bd5cd83fb4e531fb4d0d837047dac8a3c6b5f7180c1d0bef3ddefc03f","features":{},"yanked":false}
 {"name":"undo","vers":"0.12.2","deps":[{"name":"fnv","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c9a3e2aaa5d60f43434b12029d09dd21c349e7a1a91fff10cadd7421e4a68d19","features":{},"yanked":false}
 {"name":"undo","vers":"0.13.0","deps":[{"name":"fnv","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc479b1bb1d271945ccae412955fdcf4be3bd3e423a452fe69b2384317f0d25d","features":{},"yanked":false}
+{"name":"undo","vers":"0.14.0","deps":[],"cksum":"0b3cd2db4c97dfde2bf30ee2ae3679b55396f112eef76b1e2ddd388f77fb3d37","features":{},"yanked":false}
