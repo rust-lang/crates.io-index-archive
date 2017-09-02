@@ -1,1 +1,2 @@
 {"name":"time-test","vers":"0.1.0","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d22ffa64323432248da23046c84459f9d8cf5b381444957c161bf8e57243593","features":{},"yanked":false}
+{"name":"time-test","vers":"0.2.0","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"692877c5fc3f71a9fd7d4bfd4b4f9f8a46b9c84844d9fd973f2540ec6fb6fa0b","features":{},"yanked":false}
