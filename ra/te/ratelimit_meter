@@ -1,0 +1,1 @@
+{"name":"ratelimit_meter","vers":"0.0.2","deps":[{"name":"error-chain","req":"^0.11.0-rc.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed4fe722e1d9fe0de2d52c1057a740fa5519a3cf43b0b4776901d47916788f5e","features":{},"yanked":false}
