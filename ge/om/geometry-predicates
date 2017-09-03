@@ -1,0 +1,1 @@
+{"name":"geometry-predicates","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"87054a22de5d231f645d8cc42c31d1f4995875b5485cbb97ca4b71f4ff5638d0","features":{"unstable":[]},"yanked":false}
