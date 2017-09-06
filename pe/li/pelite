@@ -1,3 +1,4 @@
 {"name":"pelite","vers":"0.1.0","deps":[],"cksum":"fbdf5fe2412f49cd2d5fdf94b313fcfce2c2108b0c9c5f66080d6ffaf5006149","features":{},"yanked":false}
 {"name":"pelite","vers":"0.2.0","deps":[],"cksum":"603283485963cb878e40537241aa62ec742e3add119110478131d9b96a50bd19","features":{},"yanked":false}
 {"name":"pelite","vers":"0.3.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"54bc47e6bc3d8f2a5d39764314bb4ae544861d2dd5a84060041f1d2b8c59d644","features":{},"yanked":false}
+{"name":"pelite","vers":"0.4.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"55a52d1ab038e83799a4ae7a97399afe124c477dcb42a0079af6ea3318daed98","features":{"unsafe_alignment":[]},"yanked":false}
