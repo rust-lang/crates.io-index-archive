@@ -17,3 +17,4 @@
 {"name":"bitflags","vers":"0.8.2","deps":[],"cksum":"1370e9fc2a6ae53aea8b7a5110edbd08836ed87c88736dfabccade1c2b44bff4","features":{"i128":[],"unstable":["i128"]},"yanked":false}
 {"name":"bitflags","vers":"0.9.0","deps":[],"cksum":"495f2e52c8a74f8dfe6e1fd48dd4e8d7bc372b1299f7e93c2eb83a15a50ff37e","features":{"unstable_testing":[],"example_generated":[],"default":["example_generated"]},"yanked":false}
 {"name":"bitflags","vers":"0.9.1","deps":[],"cksum":"4efd02e230a02e18f92fc2735f44597385ed02ad8f831e7c1c1156ee5e1ab3a5","features":{"example_generated":[],"default":["example_generated"],"unstable_testing":[]},"yanked":false}
+{"name":"bitflags","vers":"1.0.0","deps":[],"cksum":"f5cde24d1b2e2216a726368b2363a273739c91f4e3eb4e0dd12d672d396ad989","features":{"unstable_testing":[],"example_generated":[],"default":["example_generated"]},"yanked":false}
