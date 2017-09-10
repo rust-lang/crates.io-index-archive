@@ -18,3 +18,4 @@
 {"name":"gmp-mpfr-sys","vers":"1.0.4","deps":[],"cksum":"031e564d2978a6eefd843f73ab5da2b01e468ef60c67eba502b5c9795589c621","features":{"default":["mpfr","mpc"],"cnotest":[],"mpc":["mpfr"],"mpfr":[],"ctest":[]},"yanked":false}
 {"name":"gmp-mpfr-sys","vers":"1.0.5","deps":[],"cksum":"772d58b03f1b37571dcaa164d65074c91e73f394a5a0e9cc581c4e124a272113","features":{"ctest":[],"default":["mpfr","mpc"],"mpc":["mpfr"],"cnotest":[],"mpfr":[]},"yanked":false}
 {"name":"gmp-mpfr-sys","vers":"1.0.6","deps":[],"cksum":"ef8523b7f7cb9a64eaf2ffd1f354816f4260ae562785820052d75eda2e3e32af","features":{"ctest":[],"mpfr":[],"default":["mpfr","mpc"],"mpc":["mpfr"],"cnotest":[]},"yanked":false}
+{"name":"gmp-mpfr-sys","vers":"1.0.7","deps":[],"cksum":"e70904b7f05783a798d3db8301af00f6035c332e255da27107997b620db688a7","features":{"mpfr":[],"mpc":["mpfr"],"default":["mpfr","mpc"],"ctest":[],"cnotest":[]},"yanked":false}
