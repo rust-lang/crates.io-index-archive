@@ -5,3 +5,4 @@
 {"name":"index-pool","vers":"1.0.4","deps":[],"cksum":"7596572df9a7ef03c47ad406197b0c2a9eeee9be945429bb7bc47823c8a481d7","features":{},"yanked":false}
 {"name":"index-pool","vers":"1.0.5","deps":[{"name":"free-ranges","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08ea7c96f69dcc0b7798a8e548748214f5ae31c377064a88c214c57d7f4f865e","features":{},"yanked":false}
 {"name":"index-pool","vers":"1.0.6","deps":[{"name":"free-ranges","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f80e940a220c160c20fcbc35ba135a4101a90f31ef629501e06dfdf35ce59d8","features":{},"yanked":false}
+{"name":"index-pool","vers":"1.0.7","deps":[{"name":"free-ranges","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be464a9e178fbd40c8996e14cad8fc67e0e34b3ccaa09573e3e566774304063a","features":{},"yanked":false}
