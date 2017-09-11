@@ -1,0 +1,1 @@
+{"name":"lcd","vers":"0.1.1","deps":[{"name":"fast_fmt","req":"^0.1.3","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6286197e8f255ac5e5920740ef96e718df6aca5a2dd7bba102de1036b3d78a10","features":{"default":[],"fast-format":["fast_fmt"]},"yanked":false}
