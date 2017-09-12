@@ -1,1 +1,2 @@
 {"name":"number_traits","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ae59834a0cbc06b8dedbbad33b0511890796f4e92af569388a378a8f81da0e45","features":{},"yanked":false}
+{"name":"number_traits","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9ff0296bc3b61c62ad98b36d47c09adb0049698d54519f0d9befd5a914905760","features":{},"yanked":false}
