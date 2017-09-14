@@ -1,0 +1,1 @@
+{"name":"libsweep","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c70b18f6a82242e4b53b729b29238bcc04e9aec8d6dfaa7c55234e12bc2fc46","features":{},"yanked":false}
