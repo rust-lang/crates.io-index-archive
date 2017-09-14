@@ -1,1 +1,2 @@
 {"name":"inotify-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c13b3df0799ab6ba49e0dcfa9d3f0e787cd6895b693053f98609bc718ffd0dd5","features":{},"yanked":false}
+{"name":"inotify-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"854ff3ac0c63645fabf73d5b49830c798728c98bb5e6233cc2a5ff1924537d24","features":{},"yanked":false}
