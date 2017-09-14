@@ -1,0 +1,1 @@
+{"name":"fishers_exact","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"67df661753c7e11dc2960300cace9601a36934fe4133715f5b0708674495ed08","features":{},"yanked":false}
