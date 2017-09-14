@@ -6,3 +6,4 @@
 {"name":"mp3-metadata","vers":"0.2.3","deps":[],"cksum":"2f61cf32f7fc3cec83a15a255ac60bceb6cac59a7ce190cb824ca25c0fce0feb","features":{},"yanked":false}
 {"name":"mp3-metadata","vers":"0.2.4","deps":[],"cksum":"dca6299484870199a7964d957411417abd916ab6ebce9e8ce4df98fa8072ca18","features":{},"yanked":false}
 {"name":"mp3-metadata","vers":"0.2.5","deps":[],"cksum":"dd4732af80b14b3e041738c15029f2bcd57d0c18ef649aaa66ba9fed1c534219","features":{},"yanked":false}
+{"name":"mp3-metadata","vers":"0.3.0","deps":[{"name":"simplemad","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"reqwest","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4ab5f1d2693586420208d1200ce5a51cd44726f055b635176188137aff42c7de","features":{},"yanked":false}
