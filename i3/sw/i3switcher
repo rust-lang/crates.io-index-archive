@@ -1,0 +1,1 @@
+{"name":"i3switcher","vers":"0.1.0","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"i3ipc","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6daea536a27126809508b55267c844b1f426545f7557974384d5e91b825b310","features":{},"yanked":false}
