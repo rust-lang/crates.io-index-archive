@@ -1,1 +1,2 @@
 {"name":"cc","vers":"0.0.1","deps":[],"cksum":"adf486da8994fc25f4da025e41477f1e52ad983457cc8c191898e3c56c97120d","features":{},"yanked":false}
+{"name":"cc","vers":"1.0.0","deps":[{"name":"rayon","req":"^0.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7db2f146208d7e0fbee761b09cd65a7f51ccc38705d4e7262dad4d73b12a76b1","features":{"parallel":["rayon"]},"yanked":false}
