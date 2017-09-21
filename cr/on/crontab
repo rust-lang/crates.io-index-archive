@@ -1,0 +1,1 @@
+{"name":"crontab","vers":"0.0.0","deps":[{"name":"expectest","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c62cdd1a1ac27412a4a3e6695487b86a9081ebca536b5e1bd83db277c1701e64","features":{},"yanked":false}
