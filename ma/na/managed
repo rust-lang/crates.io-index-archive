@@ -4,3 +4,4 @@
 {"name":"managed","vers":"0.2.0","deps":[],"cksum":"c94ada75669dbe61ef16666546b180b150910c4b69c60517bccf22062fbdc8fa","features":{"use_std":[],"use_alloc":[],"use_collections":[],"default":["use_std"]},"yanked":false}
 {"name":"managed","vers":"0.2.1","deps":[],"cksum":"5981b4c6de5ce272aaf2caaa56adb8f6fd24a73206b38302db572ab9374aab10","features":{"use_std":[],"use_alloc":[],"default":["use_std"],"use_collections":[]},"yanked":false}
 {"name":"managed","vers":"0.3.0","deps":[],"cksum":"61eb783b4fa77e8fa4d27ec400f97ed9168546b8b30341a120b7ba9cc6571aaf","features":{"collections":[],"alloc":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"managed","vers":"0.4.0","deps":[],"cksum":"b5d48e8c30a4363e2981fe4db20527f6ab0f32a243bbc75379dea5a64f60dae4","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
