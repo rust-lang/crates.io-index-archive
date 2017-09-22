@@ -1,0 +1,1 @@
+{"name":"unic-char-range","vers":"0.6.0","deps":[],"cksum":"7d9c3bb5ec40e132a14838b03b935894ade75254196b75dedd4b385b5c504f3a","features":{"fused":[],"unstable":["exact-size-is-empty","fused","trusted-len"],"trusted-len":[],"exact-size-is-empty":[],"default":[]},"yanked":false}
