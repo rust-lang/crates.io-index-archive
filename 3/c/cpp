@@ -18,3 +18,4 @@
 {"name":"cpp","vers":"0.2.1","deps":[],"cksum":"a877a70dd9b73c75e044fb63ad1c79720a991d5b5f1911511cd4adc974528392","features":{},"yanked":false}
 {"name":"cpp","vers":"0.3.0","deps":[{"name":"cpp_macros","req":"= 0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e72e3d17cbee978d237f9813676e075f47ce25039931e1235f13a79ddd6d71a","features":{},"yanked":false}
 {"name":"cpp","vers":"0.3.1","deps":[{"name":"cpp_macros","req":"= 0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4bd902948c3dc3ddf0879dbbb5a4ddfbd631d09b7faf893b7200634652e8a214","features":{},"yanked":false}
+{"name":"cpp","vers":"0.3.2","deps":[{"name":"cpp_macros","req":"= 0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b244cf36c028e27227d6e7f9963c768dff5a1c06d5e01ff97f12ef4e05afd57c","features":{},"yanked":false}
