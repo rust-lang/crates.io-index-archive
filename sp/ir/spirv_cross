@@ -1,0 +1,1 @@
+{"name":"spirv_cross","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"bindgen","req":"^0.30.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6f207b7a9d6e6b84fbd1248608d999a8efdc5847721400095d694c7c3d44823d","features":{},"yanked":false}
