@@ -1,0 +1,1 @@
+{"name":"pwd","vers":"0.1.0","deps":[{"name":"error-chain","req":"^0.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb0c42d956968f56e7b16ed34da1ffa9892e496de5e098b748e7de80dfc494c5","features":{},"yanked":false}
