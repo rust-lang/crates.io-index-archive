@@ -1,0 +1,1 @@
+{"name":"sparx-cipher","vers":"0.1.0","deps":[],"cksum":"f7d2258647a9f8895de6926881568aae090cd9f114e6187e173dd0a075784378","features":{"default":["x128_128"],"x128_128":[],"x128_256":[],"x64_128":[]},"yanked":false}
