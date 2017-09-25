@@ -1,0 +1,1 @@
+{"name":"ge","vers":"0.1.0","deps":[{"name":"num","req":"^0.1.40","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.3.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"534652dbfb3f11c69adbab307c140a7c49e71367e09567330c1a668ba78ed7bc","features":{},"yanked":false}
