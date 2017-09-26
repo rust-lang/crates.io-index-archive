@@ -1,2 +1,3 @@
 {"name":"shrev","vers":"0.1.0","deps":[{"name":"shred","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ddb35305123bfcb6bd7b0ede64010e8830f9058a789c8adb5cee4cbe3c01c4f","features":{},"yanked":false}
 {"name":"shrev","vers":"0.1.1","deps":[{"name":"shred","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d29cb4ce051bcde597d7a5ba1555568070b27a3340d657e2a8bbbf682c503816","features":{},"yanked":false}
+{"name":"shrev","vers":"0.2.0","deps":[],"cksum":"6c4f1ab88963c3a4edc634e891f2072f5a3bcdd33ea313d6be7776a40d58a887","features":{},"yanked":false}
