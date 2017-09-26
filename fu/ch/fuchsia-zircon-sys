@@ -1,0 +1,1 @@
+{"name":"fuchsia-zircon-sys","vers":"0.2.0","deps":[{"name":"bitflags","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43f3795b4bae048dc6123a6b972cadde2e676f9ded08aef6bb77f5f157684a82","features":{},"yanked":false}
