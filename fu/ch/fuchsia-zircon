@@ -1,0 +1,1 @@
+{"name":"fuchsia-zircon","vers":"0.2.0","deps":[{"name":"fuchsia-zircon-sys","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13e48f51cc8467db121a19e16abf9400dd0e01b835e4071fd8be32d7e4e455d6","features":{},"yanked":false}
