@@ -1,0 +1,1 @@
+{"name":"lfcl","vers":"0.0.1","deps":[{"name":"lfclib","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"~2.26","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"fb5fcd2b74438b70addb88be20b598f147551dec8b291810e3db168c61bfbda9","features":{},"yanked":false}
