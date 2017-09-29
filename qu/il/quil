@@ -1,0 +1,1 @@
+{"name":"quil","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"colored","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a14d4e494cebf4ffb6742c88b104ce9b9e4b54f3393b9cb07b6964ac3cc4118","features":{},"yanked":false}
