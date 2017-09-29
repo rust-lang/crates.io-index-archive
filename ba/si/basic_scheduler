@@ -1,0 +1,1 @@
+{"name":"basic_scheduler","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d8fadc2be9bb3dda892e0b8167a805df30e3795ad91c5aa684b9463ac0d98fe","features":{},"yanked":false}
