@@ -1,1 +1,2 @@
 {"name":"hello-cli","vers":"0.1.0","deps":[{"name":"clap","req":"^2.26.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f66e941764d5f9292f10cfbb93f4fbdecdb338a965e9139d328912a65a17b494","features":{},"yanked":false}
+{"name":"hello-cli","vers":"0.1.1","deps":[{"name":"clap","req":"^2.26.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc065257212dbdc216e64db1d24a3d209a4e612da628b3f075c2142996856ff4","features":{},"yanked":false}
