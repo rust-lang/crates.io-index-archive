@@ -1,0 +1,1 @@
+{"name":"rustarium","vers":"0.0.5","deps":[{"name":"local-ip","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9630997961acea6cbcc910bfe9a25549542d11e147109f36048485064a39dfa7","features":{},"yanked":false}
