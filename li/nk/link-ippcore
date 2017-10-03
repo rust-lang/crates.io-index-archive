@@ -1,0 +1,1 @@
+{"name":"link-ippcore","vers":"0.1.0","deps":[{"name":"ipp-sys-build-help","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"340439905f92208fd3788146465d69447d1793a3403a29f4fb44a5f74eeda236","features":{},"yanked":false}
