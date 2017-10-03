@@ -1,0 +1,1 @@
+{"name":"semaphore","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.4.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4fa4c032616f7c72984a01a7754a0e5ab62fab5bc988d6664b5d11ddcacd25c","features":{},"yanked":false}
