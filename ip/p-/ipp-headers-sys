@@ -1,0 +1,1 @@
+{"name":"ipp-headers-sys","vers":"0.1.0","deps":[{"name":"ipp-ctypes","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b6f55d876fe4badbe5d996116b09766c683f8d59e24d4a3f56ea753310bae90","features":{},"yanked":false}
