@@ -1,2 +1,3 @@
 {"name":"libelf-sys","vers":"0.0.1","deps":[],"cksum":"8136d8851d066063b830f90dbee7f63e699d14ae5c6c9c466e1021ce7559e942","features":{},"yanked":false}
 {"name":"libelf-sys","vers":"0.0.2","deps":[{"name":"pkg-config","req":"^0.3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"14fa5fecf6c5f4e056eb90ba2b2650bb570606670267dff998c6c942c18074a9","features":{},"yanked":false}
+{"name":"libelf-sys","vers":"0.0.3","deps":[{"name":"pkg-config","req":"^0.3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"71025acf21096d182f1927bd326c731bfec7698f04ec71a5db92528420a864c3","features":{},"yanked":false}
