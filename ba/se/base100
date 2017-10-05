@@ -1,0 +1,1 @@
+{"name":"base100","vers":"0.2.0","deps":[{"name":"clap","req":"^2.19","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c06aab69e3dcd2357e963cf4f34d23ad7ff2ecca66036bca79d62da5cf512b65","features":{},"yanked":false}
