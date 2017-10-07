@@ -29,3 +29,4 @@
 {"name":"undo","vers":"0.13.0","deps":[{"name":"fnv","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc479b1bb1d271945ccae412955fdcf4be3bd3e423a452fe69b2384317f0d25d","features":{},"yanked":false}
 {"name":"undo","vers":"0.14.0","deps":[],"cksum":"0b3cd2db4c97dfde2bf30ee2ae3679b55396f112eef76b1e2ddd388f77fb3d37","features":{},"yanked":false}
 {"name":"undo","vers":"0.15.0","deps":[],"cksum":"9a608429a8304555580d4a2703f59050de69ab52c2a5427593e3d38d631f2f60","features":{},"yanked":false}
+{"name":"undo","vers":"0.15.1","deps":[],"cksum":"80f753e476bc10a049a24afbb90057dd0daed2271e12e696533e41d83164cb02","features":{},"yanked":false}
