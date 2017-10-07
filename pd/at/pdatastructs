@@ -1,1 +1,2 @@
 {"name":"pdatastructs","vers":"0.1.0","deps":[{"name":"bit-vec","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fe0cbc6020ff17cddec03e06e880a1a45f42fbbe13fca7a9b068ff2f9522ab4","features":{},"yanked":false}
+{"name":"pdatastructs","vers":"0.2.0","deps":[{"name":"bit-vec","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c0329be124551cd2555751e8e34487c63d2bba4f59fef806c866ee0dd5113aa","features":{},"yanked":false}
