@@ -1,0 +1,1 @@
+{"name":"tokio-bits","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b964e9e53c0f710f0285e2c6ad8fc9c16f21702ea8fdd0051fbe5edd21e45fcf","features":{},"yanked":false}
