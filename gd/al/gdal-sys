@@ -1,0 +1,1 @@
+{"name":"gdal-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fed2471c6e48006d09c11960a25887f9a4ae929370e07a6d119a1b74c5c935a0","features":{},"yanked":false}
