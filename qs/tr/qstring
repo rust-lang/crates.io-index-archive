@@ -1,1 +1,2 @@
 {"name":"qstring","vers":"0.1.0","deps":[{"name":"urlencoding","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec53436d6d3df3cb3fdbb41a78d18cd5a2162a91dcc4d5e7c65316e718447001","features":{},"yanked":false}
+{"name":"qstring","vers":"0.1.1","deps":[{"name":"urlencoding","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0fa2ec74242a21366be8e86f5f9accdbae8ee2dc8b1bab37059591ad26e25af","features":{},"yanked":false}
