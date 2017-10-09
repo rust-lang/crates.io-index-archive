@@ -1,0 +1,1 @@
+{"name":"ref-cast-impl","vers":"0.1.0","deps":[{"name":"quote","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c622986948f0c0c9832f6341f88f581e09175aece30998197ee702f9e630656f","features":{},"yanked":false}
