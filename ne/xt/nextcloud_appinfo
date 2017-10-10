@@ -1,0 +1,1 @@
+{"name":"nextcloud_appinfo","vers":"0.1.0","deps":[{"name":"xpath_reader","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63b9f3b12ac4defee4f95ab1c4237d757c3436386acc5fef8a177902b29ef1b4","features":{},"yanked":false}
