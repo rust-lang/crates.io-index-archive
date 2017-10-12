@@ -1,0 +1,1 @@
+{"name":"cargo-wasm","vers":"0.1.0","deps":[{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bfe6600d85ecce0f41fe68dcf917bde831de6bb392df77d5cb85c62ca7ec8f3","features":{},"yanked":false}
