@@ -1,0 +1,1 @@
+{"name":"tibrv","vers":"0.0.0","deps":[{"name":"tibrv-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba46b46d2d4e685e439130c11240b4d842ba0f66c6b07db53ade883c815709e4","features":{},"yanked":false}
