@@ -1,1 +1,2 @@
 {"name":"iata","vers":"0.0.1","deps":[{"name":"nom","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0d4bfa0783ad01625fb543f07bd59ea8d52c63729f70b7f7caa5b8b6a43d2cc","features":{},"yanked":false}
+{"name":"iata","vers":"0.0.2","deps":[{"name":"nom","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e4c759bd7790994870e1b9eee3ffa82cb1c083527dcb9fa596abefaf14c6b418","features":{},"yanked":false}
