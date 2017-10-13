@@ -1,1 +1,2 @@
 {"name":"tongue","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b8970b4b4fc6c95a1809b3ae80c3ad37b4a2db757c6d856a1bb71cdd2ee35f5b","features":{},"yanked":false}
+{"name":"tongue","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"135a83f5609cd11d3db8726d2297b03ad7a3c8ad3655fb99eaad1b631381f9b6","features":{},"yanked":false}
