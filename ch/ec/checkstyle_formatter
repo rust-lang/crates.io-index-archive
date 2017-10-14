@@ -1,1 +1,2 @@
 {"name":"checkstyle_formatter","vers":"0.0.1","deps":[],"cksum":"4ad355e87b1be17c1650c39c41225218c8c7a777823f6f7b81d14888169e4ab2","features":{},"yanked":false}
+{"name":"checkstyle_formatter","vers":"1.0.0","deps":[{"name":"quick-xml","req":"^0.9.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65e7cb8066cc0890527b3cd238593cac198f8f493c112008be955e1ef6354983","features":{},"yanked":false}
