@@ -1,0 +1,1 @@
+{"name":"base64_t","vers":"0.1.0","deps":[{"name":"base64","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ac87570ae969f9930eed9f0f1f13423571540be3b65f68dc0ae5effd9e166fa","features":{},"yanked":false}
