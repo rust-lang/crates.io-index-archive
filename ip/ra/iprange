@@ -1,1 +1,2 @@
 {"name":"iprange","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e25e3237b4476b176d6e4b67428f1bf3cebae871765a224762ff963cad60d4cb","features":{},"yanked":false}
+{"name":"iprange","vers":"0.2.0","deps":[{"name":"byteorder","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"574438777eb3cf151db96bba3a41e54d166a082861dfab40502f6b049f581c92","features":{},"yanked":false}
