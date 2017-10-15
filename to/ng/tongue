@@ -1,3 +1,4 @@
 {"name":"tongue","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b8970b4b4fc6c95a1809b3ae80c3ad37b4a2db757c6d856a1bb71cdd2ee35f5b","features":{},"yanked":false}
 {"name":"tongue","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"135a83f5609cd11d3db8726d2297b03ad7a3c8ad3655fb99eaad1b631381f9b6","features":{},"yanked":false}
 {"name":"tongue","vers":"0.0.3","deps":[],"cksum":"71a72e82d6506ce3d892137648c9f2e30a7e46eac2496762d5e838577800ac01","features":{},"yanked":false}
+{"name":"tongue","vers":"0.0.4","deps":[],"cksum":"c3052faa8ba06f8b5277e827e2b3950ab08df3f133548d7a2f178813d6ac2708","features":{},"yanked":false}
