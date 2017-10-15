@@ -1,1 +1,2 @@
 {"name":"intervaltree","vers":"0.1.0","deps":[],"cksum":"b6e294f0304f0656d0c7dbd083f8a3927b982a5960e530d240f5da837107db2f","features":{},"yanked":false}
+{"name":"intervaltree","vers":"0.2.0","deps":[{"name":"smallvec","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e4df0e7400eb733f10e4e8acceb4d9a13a64cb678033dbb56d5d04c240aae106","features":{},"yanked":false}
