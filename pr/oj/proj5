@@ -1,1 +1,2 @@
 {"name":"proj5","vers":"0.1.0","deps":[{"name":"scoped_threadpool","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2421867e1825d3e7b512ed6248f48395d3af5e6da2fbdde7febd34263f67f215","features":{},"yanked":false}
+{"name":"proj5","vers":"0.1.1","deps":[{"name":"scoped_threadpool","req":"0.1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a005b07655289c037cab8eebafcf41dd427b6528c0cc7624c71ceebf4320cc6d","features":{},"yanked":false}
