@@ -1,1 +1,2 @@
 {"name":"edge-detection","vers":"0.0.1","deps":[{"name":"image","req":"~0.17.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"803a6868a50f732484e480a197cfd0ef97a12b445c66efb1fb2c3568c108e654","features":{},"yanked":false}
+{"name":"edge-detection","vers":"0.0.2","deps":[{"name":"image","req":"~0.17.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72085a372307d4d2bbdc30d6ea552a60ab20f2046c5018dbd9f9dee6d45c1ada","features":{},"yanked":false}
