@@ -1,0 +1,1 @@
+{"name":"nvapi","vers":"0.0.1","deps":[{"name":"nvapi-sys","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ea920c0e1d5c3347049296786350084d8e3e24122ddd74cadc69d73a9b36b4c","features":{},"yanked":false}
