@@ -6,3 +6,4 @@
 {"name":"timekeeper","vers":"0.2.2","deps":[],"cksum":"c28eb3126806e638086a83c9b059ac9c26ce0099527a802e58f54844e799a24b","features":{},"yanked":false}
 {"name":"timekeeper","vers":"0.2.3","deps":[],"cksum":"54212942125689c05d2ec31eb50fccec9c463105080381c8ee9955bb0dcbd74d","features":{"disable_timekeeper":[]},"yanked":false}
 {"name":"timekeeper","vers":"0.2.4","deps":[],"cksum":"fe331f71ab799ac67d61d5b3a2d87e13579b66616e49c21f4d67696e0f326dd1","features":{"default":["enable_timekeeper"],"enable_timekeeper":[]},"yanked":false}
+{"name":"timekeeper","vers":"0.3.0","deps":[{"name":"libc","req":">= 0.2.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5bb9b8201d620a812b747fd1e8c523db6d7961ec3aa0915772256fee504bce7","features":{"default":["enable_timekeeper"],"enable_timekeeper":[]},"yanked":false}
