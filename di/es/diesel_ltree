@@ -1,0 +1,1 @@
+{"name":"diesel_ltree","vers":"0.1.0","deps":[{"name":"diesel","req":"^0.16.0","features":["postgres"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94409c45da182daf88d05297e27003713b6257cc4d40172dc2e486473d89e9ee","features":{},"yanked":false}
