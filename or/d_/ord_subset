@@ -3,3 +3,4 @@
 {"name":"ord_subset","vers":"1.2.0","deps":[],"cksum":"010031fbb4788c3d4b0cdbabfed03b981761727fc064e3d75c90e33a826cab8f","features":{},"yanked":false}
 {"name":"ord_subset","vers":"2.0.0","deps":[],"cksum":"70954e4cb1bac70f7ec80fc1eca6f2d4edc61b922b2170955af752431af0f8b8","features":{},"yanked":false}
 {"name":"ord_subset","vers":"2.1.0","deps":[],"cksum":"bdb8b8c275824bc609c8294f20a55d37d808a1b071cec596da746ce4df0405e8","features":{},"yanked":false}
+{"name":"ord_subset","vers":"3.0.0","deps":[],"cksum":"3ddfbcf302662e0d32e727073a2b574838718726746827fce0e90ee8c72ad063","features":{"unstable":[],"std":[],"default":["std"]},"yanked":false}
