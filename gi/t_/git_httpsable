@@ -1,1 +1,2 @@
 {"name":"git_httpsable","vers":"0.0.1","deps":[],"cksum":"cd7275113536d8a57c57abbf2cbca9d4bbfd5991b806b9ac796f676deb23af64","features":{},"yanked":false}
+{"name":"git_httpsable","vers":"0.1.0","deps":[{"name":"url","req":"^1.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"636f3c03d8a314604638de4e7de69c0a676d518f52340100eda7027a3244be46","features":{},"yanked":false}
