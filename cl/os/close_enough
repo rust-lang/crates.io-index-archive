@@ -1,0 +1,1 @@
+{"name":"close_enough","vers":"0.2.0","deps":[{"name":"clap","req":"^2.26","features":["color","wrap_help"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d65f218decd6bcd3364f2c094a34b225fcbc79e2315a3f5483283d2074f8dbc0","features":{"cli":["clap"],"default":["cli"]},"yanked":false}
