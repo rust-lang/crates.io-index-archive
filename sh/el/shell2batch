@@ -1,2 +1,3 @@
 {"name":"shell2batch","vers":"0.1.0","deps":[],"cksum":"2bf003cad37180678fefa0e971f0c0936f4b33e6f6bc7214962b6f9228747b20","features":{"default":[]},"yanked":false}
 {"name":"shell2batch","vers":"0.1.1","deps":[],"cksum":"5ab0f3b01885bc7b4c41cac7ca67a75ec11619a9902c7e0d23a163abae4f0bd0","features":{"default":[]},"yanked":false}
+{"name":"shell2batch","vers":"0.1.2","deps":[{"name":"regex","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3ac41ee935f814e6971f0248cd8248ddb8246d85c861634697d9045207fad73","features":{"default":[]},"yanked":false}
