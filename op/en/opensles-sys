@@ -1,0 +1,1 @@
+{"name":"opensles-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.26.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"75261e92fb8967860ace4a0c5c15ec8c02fcf66be0356c2ed170a232930a21fc","features":{},"yanked":false}
