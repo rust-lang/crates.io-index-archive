@@ -5,3 +5,4 @@
 {"name":"froggy","vers":"0.3.0","deps":[],"cksum":"f9e70f3351594aa5a564804338fb1b89eef83c1dd57b86a0008233dff31c8a94","features":{},"yanked":false}
 {"name":"froggy","vers":"0.4.0","deps":[{"name":"spin","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c245bfecf2f8ff6f84a524a4f25c432e066a48e4e605154f48f418522c3459fa","features":{},"yanked":false}
 {"name":"froggy","vers":"0.4.1","deps":[{"name":"spin","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"357922c6fc8cb7fa8f21282b91451ea3e522ebb30cf18b3e34c6c4493a9a3295","features":{},"yanked":false}
+{"name":"froggy","vers":"0.4.4","deps":[{"name":"spin","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"70d94d84c0ac571094fabf5b11ec06816e0b6784b94892ce9a3185e8a78d3a5b","features":{},"yanked":false}
