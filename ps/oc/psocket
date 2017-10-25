@@ -1,0 +1,1 @@
+{"name":"psocket","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"968cb7d3a5c00a24a768905187317ad1a692a44742dffb3a11d57726b1780d17","features":{},"yanked":false}
