@@ -1,1 +1,2 @@
 {"name":"dbg","vers":"0.0.1","deps":[],"cksum":"3377a28cea29246baa8f30fd6b5234bfc0937df2229867332a5c13cab4caf5f5","features":{},"yanked":false}
+{"name":"dbg","vers":"1.0.0","deps":[{"name":"version_check","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6b919d50e48ada4ef868bb86e8ec65d855f0619e0bba483f8f1f9b9941cdf9bf","features":{},"yanked":false}
