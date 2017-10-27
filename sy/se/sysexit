@@ -1,0 +1,1 @@
+{"name":"sysexit","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"70b347388d12547b73a196311278d46e50cc2afa2f7f92fefdcfbd5eeef501da","features":{},"yanked":false}
