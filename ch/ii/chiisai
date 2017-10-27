@@ -1,0 +1,1 @@
+{"name":"chiisai","vers":"0.1.0","deps":[{"name":"hyper","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"futures","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7421bdf15d340318d5870ecd57009f76e9cdfaf54d5a22ad4d2d0db88703c3ee","features":{},"yanked":false}
