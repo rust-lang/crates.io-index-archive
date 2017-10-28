@@ -1,0 +1,1 @@
+{"name":"bnf","vers":"0.1.0","deps":[{"name":"nom","req":"^3.2","features":["verbose-errors"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9b741e8ac5f812fd6502112ad2982921732b7bc137421437c7703e22684eb98","features":{"unstable":[]},"yanked":false}
