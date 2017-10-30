@@ -1,0 +1,1 @@
+{"name":"jemalloc","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"loca","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c30f37d9271a4a443f846e44e2a55c19d74f6f912629fcd8076636ae4147e7b4","features":{},"yanked":false}
