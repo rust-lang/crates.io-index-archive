@@ -1,0 +1,1 @@
+{"name":"tempus","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60fcb49a69c01aa786800a62e2c3717785fbcdf0cbd6fca01560a81ef0d62e4e","features":{},"yanked":false}
