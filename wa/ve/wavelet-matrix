@@ -1,1 +1,2 @@
 {"name":"wavelet-matrix","vers":"0.1.0","deps":[{"name":"succinct","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b43dfde8e5920ad610c5d3a6cc0d3088d24e6df3805cf585e5286346279e9229","features":{},"yanked":false}
+{"name":"wavelet-matrix","vers":"0.2.0","deps":[{"name":"succinct","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f4c7de0dcca0cd22d59b0ba593865f00736c73eafb13be23ab5459822c2b6ef","features":{},"yanked":false}
