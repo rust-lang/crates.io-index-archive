@@ -15,3 +15,4 @@
 {"name":"futures","vers":"0.1.14","deps":[],"cksum":"4b63a4792d4f8f686defe3b39b92127fea6344de5d38202b2ee5a11bbbf29d6a","features":{"use_std":[],"with-deprecated":[],"default":["use_std","with-deprecated"]},"yanked":false}
 {"name":"futures","vers":"0.1.15","deps":[],"cksum":"a82bdc62350ca9d7974c760e9665102fc9d740992a528c2254aa930e53b783c4","features":{"default":["use_std","with-deprecated"],"use_std":[],"with-deprecated":[]},"yanked":false}
 {"name":"futures","vers":"0.1.16","deps":[],"cksum":"05a23db7bd162d4e8265968602930c476f688f0c180b44bdaf55e0cb2c687558","features":{"default":["use_std","with-deprecated"],"with-deprecated":[],"use_std":[]},"yanked":false}
+{"name":"futures","vers":"0.1.17","deps":[],"cksum":"118b49cac82e04121117cbd3121ede3147e885627d82c4546b87c702debb90c1","features":{"with-deprecated":[],"default":["use_std","with-deprecated"],"use_std":[]},"yanked":false}
