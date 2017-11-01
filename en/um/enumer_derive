@@ -1,0 +1,1 @@
+{"name":"enumer_derive","vers":"0.1.0","deps":[{"name":"syn","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quote","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1650e5c68c0d5751f725b41e08b4522c8f14d2b16262b84b16f064d5edb06901","features":{},"yanked":false}
