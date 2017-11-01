@@ -6,3 +6,4 @@
 {"name":"loca","vers":"0.5.0","deps":[],"cksum":"3d54204f958818428ce59306fc8ccd482d53508e433002a48a891bd561e409cb","features":{},"yanked":true}
 {"name":"loca","vers":"0.5.1","deps":[],"cksum":"d0b3a2361717128ce09e10d6877231e124341209cd524c78f32adaef8c25d05b","features":{},"yanked":true}
 {"name":"loca","vers":"0.5.2","deps":[],"cksum":"ce494b77a9d77f6d8e9be2f4bcb2c4bb8b74e6c4455afd9c20cfce2992d36429","features":{},"yanked":false}
+{"name":"loca","vers":"0.5.3","deps":[{"name":"ptr","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a04f8ed7fb938aa829c12d432c1a63392a57f8c1734e19dd46324be2a6b17f7a","features":{"stable-rust":["ptr"]},"yanked":false}
