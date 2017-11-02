@@ -1,1 +1,2 @@
 {"name":"aci_ppm","vers":"0.1.0","deps":[],"cksum":"22f94566135668ddc04386fe7ec7ab4606212dee9dba33cea316a5a674452562","features":{},"yanked":false}
+{"name":"aci_ppm","vers":"0.2.0","deps":[{"name":"ami","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"afi","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43a82a6ea979766632760f6b87bc00d7fabaa9a5c7c33426b5d764b7c711af74","features":{},"yanked":false}
