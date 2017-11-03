@@ -20,3 +20,4 @@
 {"name":"ransid","vers":"0.3.6","deps":[],"cksum":"3c625c7c5f107ad066fefebfdcceca8c4a488040e72ae9ebbae7007f6e850755","features":{},"yanked":false}
 {"name":"ransid","vers":"0.3.7","deps":[],"cksum":"07e039e0e94c9d52e94a02c6fd116f961124fcefb5e8a60331f09f512c3b2ad2","features":{},"yanked":false}
 {"name":"ransid","vers":"0.3.8","deps":[],"cksum":"659b8f545f7aff48be69e96f17a6789644870d87b0d141f87599c45ea62e5baa","features":{},"yanked":false}
+{"name":"ransid","vers":"0.4.0","deps":[{"name":"vte","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d69a7ac01a7e84af63fa77e14fe47b66e59caaa642429208294c5d4c6237fa2","features":{},"yanked":false}
