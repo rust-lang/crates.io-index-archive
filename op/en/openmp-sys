@@ -1,0 +1,1 @@
+{"name":"openmp-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"912f6b04728eaa173e2e50ffa7ff7037c744319a6839fd209cce6312e5cf5d49","features":{"static":[]},"yanked":false}
