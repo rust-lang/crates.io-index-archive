@@ -5,3 +5,4 @@
 {"name":"data-encoding","vers":"1.2.0","deps":[{"name":"getopts","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rustc-serialize","req":"^0.3.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d867ddbf09de0b73e09ec798972fb7f870495a0893f6f736c1855448c5a56789","features":{},"yanked":false}
 {"name":"data-encoding","vers":"2.0.0-rc.1","deps":[],"cksum":"c48768b270ab6458e2fba295bd3593f76d22058945afb5bdc6a1b1436511402b","features":{},"yanked":false}
 {"name":"data-encoding","vers":"2.0.0-rc.2","deps":[],"cksum":"4f5a230e69215864942d635eb3d6f1f26cd244fdb04d2e12335c363b0b0c3fa7","features":{},"yanked":false}
+{"name":"data-encoding","vers":"2.0.0","deps":[],"cksum":"d26bb7bacfa6d2e9d049b98978076e7ab6517caddd4d47b8d53e7f33a85846f8","features":{},"yanked":false}
