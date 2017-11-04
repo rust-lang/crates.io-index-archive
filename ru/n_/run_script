@@ -1,0 +1,1 @@
+{"name":"run_script","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09fc768f40262818ee54515559158f93f6e76567cdfdd7e7d5e0caaf0d26abf6","features":{"default":[]},"yanked":false}
