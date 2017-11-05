@@ -1,1 +1,2 @@
 {"name":"libnv-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9760e3d1bc7644d4174b5f0943b6775e049cc6120e7413c965fe76d64650628","features":{},"yanked":false}
+{"name":"libnv-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2942285f552e1270311d6c96a082575683591159aaf97311d47e5d8e824e0da0","features":{},"yanked":false}
