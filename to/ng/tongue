@@ -5,3 +5,4 @@
 {"name":"tongue","vers":"0.0.5","deps":[],"cksum":"1dc61a6ceeb74f9c0b158f4b20caafae74c94cd5ddf92d2f58f49f6c1cfcf87d","features":{},"yanked":false}
 {"name":"tongue","vers":"0.0.6","deps":[],"cksum":"2f730c5361b69cc6ad4067a5470708802beac0583a674d8b335c7055e75636a2","features":{},"yanked":false}
 {"name":"tongue","vers":"0.0.7","deps":[{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65a7723a6cc23f158ea45266a57f4538874e0470f62e42c8d0c2994f031078cc","features":{},"yanked":false}
+{"name":"tongue","vers":"0.0.8","deps":[],"cksum":"b261de7ee587c083148c2bc3bc347ae7a7f1052741bbc403585a7c985fad91dd","features":{},"yanked":false}
