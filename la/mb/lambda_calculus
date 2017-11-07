@@ -24,3 +24,4 @@
 {"name":"lambda_calculus","vers":"0.12.0","deps":[],"cksum":"325c5f6ed317ea3a057c7a41bca95f2d62b6c9dffcc5d03e1c4a18df239f25ce","features":{},"yanked":false}
 {"name":"lambda_calculus","vers":"1.0.0","deps":[],"cksum":"f02862abda18f5d2f559059663ebc644f8c61499f9b1d6c8160c5796880b32d7","features":{"backslash_lambda":[],"no_church":[]},"yanked":false}
 {"name":"lambda_calculus","vers":"1.1.0","deps":[],"cksum":"2d064050dff43dc01bfb7a70c429353c515299f7179237afc615bed4f27e87e7","features":{"no_church":[],"backslash_lambda":[]},"yanked":false}
+{"name":"lambda_calculus","vers":"1.1.1","deps":[],"cksum":"b1b015c599de3d988719aee4e101d4c36de7017efdd249fefa445fae79725280","features":{"backslash_lambda":[],"no_church":[]},"yanked":false}
