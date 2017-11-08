@@ -1,2 +1,3 @@
 {"name":"bitcheck","vers":"0.1.0","deps":[],"cksum":"5805f75a0f82fd5d891eace56741589387696513e39671afec701a8de6d7eab6","features":{},"yanked":false}
 {"name":"bitcheck","vers":"0.1.1","deps":[{"name":"clap","req":"^2.27.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"089c884c1e118c17138a0e196cc52d74c02430c865c997a547a83938c4a5e5cd","features":{},"yanked":false}
+{"name":"bitcheck","vers":"0.1.2","deps":[{"name":"home","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f577e5123c4f1c514ee35908159b4da53870a1bbd75018daf480634d2c0a089a","features":{},"yanked":false}
