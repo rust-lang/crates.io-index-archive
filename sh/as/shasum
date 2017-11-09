@@ -1,0 +1,1 @@
+{"name":"shasum","vers":"0.4.0","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rust-crypto","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee0a3d8f0ff1e709bc13cc040087fadd00b03d4285bbde2000a49a21986567b1","features":{},"yanked":false}
