@@ -1,0 +1,1 @@
+{"name":"writium-cache","vers":"0.1.0","deps":[{"name":"lru-cache","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b62673adcac4eec74eee61b24dd1684d1e85c1e2a6dd7ca0999fccc37d913c73","features":{},"yanked":false}
