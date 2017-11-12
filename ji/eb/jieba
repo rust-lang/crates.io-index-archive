@@ -1,0 +1,1 @@
+{"name":"jieba","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"423aa9799eeda30e8738d4adde7aa0dfdaa8bb663ce0b20fd88e3f6e32e85804","features":{},"yanked":false}
