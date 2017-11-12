@@ -3,3 +3,4 @@
 {"name":"compactmap","vers":"0.2.1","deps":[],"cksum":"f90307247cb8e2dfab57e5142cb9c9044755880d3b23d121af2ffe59f3c8f9d3","features":{},"yanked":false}
 {"name":"compactmap","vers":"0.3.0","deps":[],"cksum":"18182faa51309ec9057ab6d6f7b288a8f363dbaa7c23cff1c5f5594c228d1c28","features":{},"yanked":false}
 {"name":"compactmap","vers":"0.3.1","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b99e9b4f91b2cf49d397854e63c95bd452fbc42cdb63f095e59353419910d7be","features":{"serde_ser_len":[]},"yanked":false}
+{"name":"compactmap","vers":"0.3.2","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1f714f36264974549514b55231870acc02af551540966d674e5419b053ed92c","features":{"serde_ser_len":[]},"yanked":false}
