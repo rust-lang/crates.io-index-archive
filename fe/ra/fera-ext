@@ -1,0 +1,1 @@
+{"name":"fera-ext","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"version-sync","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6783764ddeebe1bf53490513d71aaaf63fa6d40892ce0315b5d2b4bd6c3cfb18","features":{},"yanked":false}
