@@ -1,1 +1,2 @@
 {"name":"imap-proto","vers":"0.1.0","deps":[{"name":"nom","req":"^3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e5db8b53db397c87efcfcc7cf886072e9203630c701f533c3e417a38b36aca1","features":{},"yanked":false}
+{"name":"imap-proto","vers":"0.2.0","deps":[{"name":"nom","req":"^3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc565455bbf3fbbe2884d67922208fdd258c3967dcbbb81f090b987ba015ab6c","features":{},"yanked":false}
