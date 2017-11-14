@@ -1,2 +1,3 @@
 {"name":"lapacke-sys","vers":"0.0.1","deps":[],"cksum":"30189ac4551b66532eefc81f65a1905a27285b1473d48bb8f6516cfe7e23aa90","features":{},"yanked":false}
 {"name":"lapacke-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76aba829f6575ec557c8a6dec14a1b6b0e80eee25f3fea42c76a2fcaf70a523f","features":{},"yanked":false}
+{"name":"lapacke-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71aac4eddac2dd19e4036f9b3ed25185f15c4db42c778d67d36c5f4ede49b9a5","features":{},"yanked":false}
