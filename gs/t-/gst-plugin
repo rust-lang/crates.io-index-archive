@@ -1,0 +1,1 @@
+{"name":"gst-plugin","vers":"0.0.0","deps":[{"name":"gstreamer","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbf0e6cdf4cfc297ebc8200cfefff951112cce4af6ded0400cda2f7c340d3766","features":{},"yanked":false}
