@@ -14,3 +14,4 @@
 {"name":"memcache","vers":"0.0.14","deps":[],"cksum":"4ea73494d62dce43d94fdfbffed708d9eaf132e0fef8848f2a575dbb7333d132","features":{},"yanked":false}
 {"name":"memcache","vers":"0.0.15","deps":[],"cksum":"0f7a4342eaa3f1f1f32ec8c16ba4fb8bb81f9e7264c2eab1fca815988d81756c","features":{},"yanked":false}
 {"name":"memcache","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42c0681323e17f4699dc9cc5c7795a5398e2fcda1c8e5e32c88416ce54191565","features":{},"yanked":false}
+{"name":"memcache","vers":"0.2.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"url","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f842ab2c9ff2d428670f85eafbaa9d02104392daf2e160ce0b851b6a0d2b0df0","features":{},"yanked":false}
