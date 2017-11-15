@@ -1,0 +1,1 @@
+{"name":"eytzinger","vers":"1.0.0","deps":[{"name":"quickcheck","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8cb28e38005ae46de8ee6b8ff273981a89155c65179ae4218a3e2efbd7e5ac91","features":{},"yanked":false}
