@@ -12,3 +12,4 @@
 {"name":"solvent","vers":"0.6.0","deps":[{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff742ca901db0e72d0e3e19190839e7e7528cbc7fe5bfe6ca2a054438d3c994f","features":{},"yanked":false}
 {"name":"solvent","vers":"0.7.0","deps":[{"name":"log","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3d5081b71f7673d21ff3bceb69db4bbd34a55ed538b195a3951d699c1dc72cd","features":{},"yanked":false}
 {"name":"solvent","vers":"0.7.1","deps":[{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c69496e2d902860301fff09492c58ee5da876052262e7c335b2d022918f53535","features":{},"yanked":false}
+{"name":"solvent","vers":"0.8.0","deps":[],"cksum":"27ed86a27d080f2c5de9679b42e0302e9cc3f44ac343874f823ccf64448b7d19","features":{},"yanked":false}
