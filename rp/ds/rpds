@@ -1,1 +1,1 @@
-{"name":"rpds","vers":"0.0.0","deps":[{"name":"bencher","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c89f84da36201b816ec172400c7d2081d420dc5f5be52fee7af64dfed676d943","features":{"fatal-warnings":[]},"yanked":false}
+{"name":"rpds","vers":"0.0.0","deps":[{"name":"bencher","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c89f84da36201b816ec172400c7d2081d420dc5f5be52fee7af64dfed676d943","features":{"fatal-warnings":[]},"yanked":true}
