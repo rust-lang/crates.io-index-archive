@@ -1,0 +1,1 @@
+{"name":"riscv-rt","vers":"0.1.1","deps":[{"name":"r0","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"riscv","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1fa5cc37c0b40858b0daec56ebc92762ce9843cda0014c7727596d745ddc47cd","features":{},"yanked":false}
