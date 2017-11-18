@@ -1,2 +1,3 @@
 {"name":"wst","vers":"0.1.0","deps":[{"name":"ws","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6fdc0320c7de85d6316e9877465aa8a6bf1801b9275d0f5c5a5645f1f8d05af","features":{},"yanked":false}
 {"name":"wst","vers":"0.1.1","deps":[{"name":"ws","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7886c8abc21ffc645c181700dc96246bce45557e5517719e491b98f2cbc2e0c2","features":{},"yanked":false}
+{"name":"wst","vers":"0.1.2","deps":[{"name":"ws","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02015ac9e9e092e5cd84e11bd6656720a43568252ee51236e0199a6b425fad50","features":{},"yanked":false}
