@@ -1,0 +1,1 @@
+{"name":"c_str_macro","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"89b1ba20f4122cd869ff7bab687757073a06dc262ac6e4343f239d3c005a3fcd","features":{},"yanked":false}
