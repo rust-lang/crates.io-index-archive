@@ -1,1 +1,2 @@
 {"name":"runes","vers":"0.1.0","deps":[{"name":"sdl2","req":"^0.31","features":["unsafe_textures"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"07e619f547528a86527ee4e2baa7b4e247417987664602b4027e77bc454a732f","features":{},"yanked":false}
+{"name":"runes","vers":"0.1.1","deps":[{"name":"sdl2","req":"^0.31","features":["unsafe_textures"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"caa8341bb99aba53b2b609f766b8a9f973a147b7ea5796628bc9ef8e932f54df","features":{},"yanked":false}
