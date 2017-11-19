@@ -8,3 +8,4 @@
 {"name":"tongue","vers":"0.0.8","deps":[],"cksum":"b261de7ee587c083148c2bc3bc347ae7a7f1052741bbc403585a7c985fad91dd","features":{},"yanked":false}
 {"name":"tongue","vers":"0.0.9","deps":[],"cksum":"6375f8d54e68fd6c18337c7b8e2b5db415a426aac7afffd0a1f5f1f9c0ebf022","features":{},"yanked":false}
 {"name":"tongue","vers":"0.1.0","deps":[],"cksum":"a1d50b66a25d2c5c0a289656bf4fdf307a0d5f3ee5915997af4b3a592a988657","features":{},"yanked":false}
+{"name":"tongue","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26b5d8277a26efa71c33da1fe55071dd5ed8c8f01b5516b00418af161d90e0a1","features":{},"yanked":false}
