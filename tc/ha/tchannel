@@ -1,0 +1,1 @@
+{"name":"tchannel","vers":"0.0.1","deps":[{"name":"futures","req":"^0.1.17","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fdc41413b6331f7e3273680476b472ce10d844f02304ef51e02f7db5c0751ef7","features":{"default":[],"with-futures":["futures"]},"yanked":false}
