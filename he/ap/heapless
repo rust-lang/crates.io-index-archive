@@ -1,1 +1,2 @@
 {"name":"heapless","vers":"0.1.0","deps":[],"cksum":"99f02f3f074f820924b5af91f7cf45fc23e45d3c4ca4b3354c0ce7cf254c7ea7","features":{},"yanked":false}
+{"name":"heapless","vers":"0.2.0","deps":[{"name":"untagged-option","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"scoped_threadpool","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6aaca074969792d29423a987fee80c0a9623031f7535767db5afeb3e1d9be3fb","features":{},"yanked":false}
