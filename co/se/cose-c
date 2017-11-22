@@ -1,1 +1,2 @@
 {"name":"cose-c","vers":"0.1.0","deps":[{"name":"cose","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b389a0eba298994924132a86bf957ac2dd31c147b92794593ef9439e775cdf17","features":{},"yanked":false}
+{"name":"cose-c","vers":"0.1.1","deps":[{"name":"cose","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07cc8bb85ec2e93541ef9369b85a4b6fb7732bc7f4854d317eab20e726b0fc2f","features":{},"yanked":false}
