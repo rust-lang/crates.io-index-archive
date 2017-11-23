@@ -1,1 +1,2 @@
 {"name":"workerpool","vers":"1.0.0","deps":[{"name":"num_cpus","req":"^1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b326d31aba869a3184a7bd7fd52acb266bbb41f44106844d66d64daed9f96b7b","features":{},"yanked":false}
+{"name":"workerpool","vers":"1.0.1","deps":[{"name":"num_cpus","req":"^1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae7012a9f16b42a05338ab086becc3b170591e14a11cb1ce8f651908e399579e","features":{},"yanked":false}
