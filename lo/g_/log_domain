@@ -1,0 +1,1 @@
+{"name":"log_domain","vers":"0.3.0","deps":[{"name":"num-traits","req":"^0.1.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab368cb93071ab961fa703b3e4e206b4a0f940eced4b2ac866bb9d0d5dfefa52","features":{},"yanked":false}
