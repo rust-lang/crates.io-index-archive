@@ -1,0 +1,1 @@
+{"name":"deepspeech-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3c4558f2cb5197337da715851e1ac4760de2ca92b8522e80c4a0c7c32701940c","features":{},"yanked":false}
