@@ -1,1 +1,2 @@
 {"name":"binary-reader","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e65827f7de4bdbaf1bae0dd935420d078150f7863a77b653986375bdafff3f92","features":{},"yanked":false}
+{"name":"binary-reader","vers":"0.1.1","deps":[{"name":"byteorder","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57369d6bda360c5bd7a5c128ad2bae072c3e7ee0c42f13636a3cc7d3788cebfa","features":{},"yanked":false}
