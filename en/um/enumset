@@ -3,3 +3,4 @@
 {"name":"enumset","vers":"0.1.2","deps":[],"cksum":"d7f332bce86a53078c5b4ea54f606a5419e4eed71df9cd3f3bc8fc3a92f10f1e","features":{"i128":[]},"yanked":false}
 {"name":"enumset","vers":"0.2.0","deps":[],"cksum":"5dc716e8985a82affe9b860baccdf03475f7ca2245e6d49a481e24922387be55","features":{"i128":[]},"yanked":true}
 {"name":"enumset","vers":"0.2.1","deps":[],"cksum":"e039bd39932bb3f80c03bcb53c2b7a2db6d74836b5e6d72251ff262b9cb0820f","features":{"nightly":[]},"yanked":false}
+{"name":"enumset","vers":"0.3.0","deps":[],"cksum":"5d8e2aab35d11a22280dcccfabcddad6656e46d3a2744434206636873653ad7e","features":{"nightly":[]},"yanked":false}
