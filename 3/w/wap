@@ -1,1 +1,2 @@
 {"name":"wap","vers":"0.1.0","deps":[],"cksum":"b3e0d93e047b8dd5d1fd7c038786beb46b0635af2d528beb47011f11a2a14706","features":{},"yanked":false}
+{"name":"wap","vers":"0.1.1","deps":[],"cksum":"e9d0ce190802e2b9a90fc336ec201470cd0c959b9123ade186edcf1a5e151cd2","features":{"default":[],"console-log":[]},"yanked":false}
