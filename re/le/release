@@ -1,0 +1,1 @@
+{"name":"release","vers":"0.5.0","deps":[{"name":"regex","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"git2","req":"^0.6.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd4b19a6592c05a92afa124499053d8d3d2637b7deb8a8518fe3f6b440c605d9","features":{},"yanked":false}
