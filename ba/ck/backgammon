@@ -1,0 +1,1 @@
+{"name":"backgammon","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb112afbeaf95d8eada348493c165bb08919fab6d945a48ee1286df9094c9452","features":{},"yanked":false}
