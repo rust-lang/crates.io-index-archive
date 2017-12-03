@@ -1,0 +1,1 @@
+{"name":"fiffy","vers":"0.1.1","deps":[{"name":"rust-crypto","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ec78fd7be679b4b3b0d4920c9b2a118c061696849511e0fb7e7453453a9fe90","features":{"default":[]},"yanked":false}
