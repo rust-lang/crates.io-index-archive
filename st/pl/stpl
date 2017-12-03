@@ -1,0 +1,1 @@
+{"name":"stpl","vers":"0.1.0","deps":[{"name":"bincode","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92902f5f97cb9194674a91af78b870b3808ae9b06b88a7a97fac76f343f17930","features":{},"yanked":false}
