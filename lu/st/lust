@@ -1,0 +1,1 @@
+{"name":"lust","vers":"0.1.0","deps":[{"name":"rust-crypto","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6f6a3d3f6a5e6753ee1027b3ae761f321c77f23f95e34c1054e575fbc97d30f","features":{"default":[]},"yanked":false}
