@@ -1,0 +1,1 @@
+{"name":"avr-libc","vers":"0.1.0","deps":[{"name":"avr-mcu","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"bindgen","req":"^0.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b86973e4518dd2e8b3f9f23f8b1cf6c0f8e3a8d243bf219abc11f72ea0a976f6","features":{},"yanked":false}
