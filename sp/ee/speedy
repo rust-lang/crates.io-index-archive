@@ -1,0 +1,1 @@
+{"name":"speedy","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"speedy-derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"79795ac46d5230d404d95ca8d93aa9150c93b2ec8d26cab6e57b032f72b02345","features":{},"yanked":false}
