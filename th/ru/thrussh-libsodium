@@ -1,1 +1,2 @@
 {"name":"thrussh-libsodium","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e03952c4228cc92aabb483f8328710be768c3212311262824e7a92fd307e0971","features":{},"yanked":false}
+{"name":"thrussh-libsodium","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7cdcb376866e58a63f01aa97558bb1eae9b1ad75a469959b240d9190964cf796","features":{},"yanked":false}
