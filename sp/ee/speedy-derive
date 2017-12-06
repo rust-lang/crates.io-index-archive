@@ -1,0 +1,1 @@
+{"name":"speedy-derive","vers":"0.1.0","deps":[{"name":"quote","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca5edbb9eef3195ff5685249d135ac2522d4123471d40ff62fd033c7ceb2ec84","features":{},"yanked":false}
