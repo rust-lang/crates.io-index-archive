@@ -1,0 +1,1 @@
+{"name":"osqp-sys","vers":"0.2.1-pre.1","deps":[{"name":"cmake","req":"^0.1.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4c34c74aa47d194bf7294abbcea59eef3e1a96c968b08f468daa7d398e453fbe","features":{},"yanked":false}
