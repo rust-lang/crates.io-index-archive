@@ -1,0 +1,1 @@
+{"name":"cargo-version-cli","vers":"0.1.0","deps":[{"name":"cargo-version","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3c18ac02d89baa9882463f8f754a3a0ed716ebb583708df6060bd7673d43d92","features":{},"yanked":false}
