@@ -4,3 +4,4 @@
 {"name":"nasm-rs","vers":"0.0.5","deps":[],"cksum":"0344a353c0edcf2d5d5efc00380add54755c45cd41fe1ae0ae5472cd001eacc6","features":{},"yanked":false}
 {"name":"nasm-rs","vers":"0.0.6","deps":[],"cksum":"da1854e15cde0b7f77db1d5e73dd44734af7e565ddc1c29b9340eed88981b865","features":{},"yanked":false}
 {"name":"nasm-rs","vers":"0.0.7","deps":[],"cksum":"89af38d13d13783fabebbcd150c854ecdfe64cc72e251ebc33e7aca1c1f9b376","features":{},"yanked":false}
+{"name":"nasm-rs","vers":"0.1.0","deps":[{"name":"rayon","req":"^0.8.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53ebe3f4680263b858a966594f47a22b4038a16161a0d0a8d393173df0de6835","features":{"parallel":["rayon"]},"yanked":false}
