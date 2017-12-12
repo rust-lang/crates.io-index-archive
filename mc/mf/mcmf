@@ -1,0 +1,1 @@
+{"name":"mcmf","vers":"1.0.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"649008b3a7803b14576b9a068f89b014d6944dbaa897ea8aaa0131445888793a","features":{},"yanked":false}
