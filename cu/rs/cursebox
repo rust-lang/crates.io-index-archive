@@ -1,2 +1,3 @@
 {"name":"cursebox","vers":"0.1.0","deps":[],"cksum":"b01a4b7e423f204151d608539db5b24c788d1a3254ad4121c33897a2e58f989f","features":{},"yanked":false}
 {"name":"cursebox","vers":"0.1.1","deps":[],"cksum":"158e440e5b69d04386346fca57107ce5c778df91958688da27b5150b6bbe4d7e","features":{},"yanked":false}
+{"name":"cursebox","vers":"0.1.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c885263eccdb8c8891e29f13ec72ffadb58984cd4b17222247d6ae0843dc6e4a","features":{},"yanked":false}
