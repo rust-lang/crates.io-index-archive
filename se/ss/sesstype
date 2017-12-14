@@ -1,3 +1,4 @@
 {"name":"sesstype","vers":"0.1.0","deps":[],"cksum":"6174fd749c5b6f64f4f518895dec7ad67c557fdbabaf94c85e04997f7d0b932b","features":{},"yanked":false}
 {"name":"sesstype","vers":"0.2.0","deps":[{"name":"nom","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f022b56013dad858c4727deb49f8a63f92e56750558e7ecdc419ab56ff137c2c","features":{},"yanked":false}
 {"name":"sesstype","vers":"0.2.1","deps":[{"name":"nom","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9727c499899d55c59e6e881c3b59a69c0ef8ef15b8be96c2ada1777da6ab0b7","features":{},"yanked":false}
+{"name":"sesstype","vers":"0.2.2","deps":[{"name":"nom","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d420c6b1d1ae1d8846db5b56b0479ed2e19fbb8b78715af64ac19bf393598444","features":{},"yanked":false}
