@@ -1,3 +1,4 @@
 {"name":"resid-rs","vers":"0.1.0","deps":[],"cksum":"30d154dee270be9248c3f75c1c14f1be1e1e1b221a665f8ae279291c3a2e5bd5","features":{},"yanked":false}
 {"name":"resid-rs","vers":"0.2.0","deps":[],"cksum":"e2776deb4d6c6b90e0a7cec89ec93215d9cdf6a947c491b0dea1363bc06cc2e8","features":{},"yanked":false}
 {"name":"resid-rs","vers":"0.3.0","deps":[{"name":"bit_field","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba3e5b0f2188ef5a93f4ff4873aeccb4f57603a130d5ce139f7bcb1231d37b1b","features":{},"yanked":false}
+{"name":"resid-rs","vers":"0.4.0","deps":[{"name":"bit_field","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6de6550bfbb786c7d1e42d1a854b9ee0c53cca40e099ceb0ee9e9874320cf0d","features":{},"yanked":false}
