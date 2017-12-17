@@ -1,1 +1,2 @@
 {"name":"embed_js","vers":"0.1.0","deps":[{"name":"embed_js_derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a35ccfc5f91bbeac53433ad8a55e2f099d907f5f3f73e94c38dd0a05f882f083","features":{},"yanked":false}
+{"name":"embed_js","vers":"0.1.1","deps":[{"name":"embed_js_derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4503c3b30004d3b6fb719f3f46ce750ad0655496ab2704d8ddd258a94eac4ea7","features":{},"yanked":false}
