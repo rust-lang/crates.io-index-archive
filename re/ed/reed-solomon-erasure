@@ -1,1 +1,2 @@
 {"name":"reed-solomon-erasure","vers":"0.9.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f9db9d6bb0d0c0daff3e0c2e09613658e7981b6f9aacef466b2821f8e244a7d","features":{},"yanked":false}
+{"name":"reed-solomon-erasure","vers":"0.9.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"488e592e36cd602c1ca6f8af1c97c044e6389fdd5ad1c12d46cd11269c00de9c","features":{},"yanked":false}
