@@ -1,0 +1,1 @@
+{"name":"cargo-coverage-annotations","vers":"0.1.0","deps":[{"name":"xml-rs","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82490c649f3205d3b4f774b2af8d22867a032c29d7a08585b887af0db798c782","features":{},"yanked":false}
