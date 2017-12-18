@@ -1,0 +1,1 @@
+{"name":"directories","vers":"0.0.1","deps":[{"name":"winapi","req":"^0.3","features":["knownfolders","objbase","shlobj"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be8b9f2fbebf5e6429c4281e0aa7dce35f7f296c109d19a550c2e5abddfff05f","features":{},"yanked":false}
