@@ -1,1 +1,2 @@
 {"name":"tasque","vers":"0.0.1","deps":[{"name":"num_cpus","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20f0295d9369dfabd3f122bce8bd7a7fca2e6910c2b84eb4d536002f6f28e091","features":{},"yanked":false}
+{"name":"tasque","vers":"0.1.0","deps":[{"name":"num_cpus","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ff4396a43e7e7eb637bd2aebf3c7ec4d39cdc187a9ea1ad7f694cd42eac75ac","features":{},"yanked":false}
