@@ -1,1 +1,2 @@
 {"name":"chars_input","vers":"0.1.0","deps":[],"cksum":"1f35414180c593ad16ca10c06725c38995c1464510431e150d981eb1a1cb66e8","features":{"default":["use_std"],"use_std":[]},"yanked":false}
+{"name":"chars_input","vers":"0.1.1","deps":[],"cksum":"806119bc1f492ad016df7b22a00bf094a48feb913e48e6fea82ca54318444d5b","features":{"use_std":[],"default":["use_std"]},"yanked":false}
