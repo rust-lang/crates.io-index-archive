@@ -1,0 +1,1 @@
+{"name":"rubbl_casatables_impl","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4ec9ff0bbc4b709fdc253b8fbd4cd31bc8a5696dc436804f35d97de36bb946a8","features":{},"yanked":false}
