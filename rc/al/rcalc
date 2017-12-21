@@ -1,0 +1,1 @@
+{"name":"rcalc","vers":"0.1.0","deps":[{"name":"rustyline","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e74441ddc27ce82be036d20273c8b4cc9196db2282b0fa7007015012ef44766","features":{},"yanked":false}
