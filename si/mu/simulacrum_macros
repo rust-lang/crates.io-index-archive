@@ -1,1 +1,2 @@
 {"name":"simulacrum_macros","vers":"0.1.0","deps":[{"name":"simulacrum","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"354594dc7ee59d9be531e4dfc395b73da417dfeeb1443f4ae8e1e816f291fe44","features":{},"yanked":false}
+{"name":"simulacrum_macros","vers":"0.1.1","deps":[{"name":"simulacrum","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f181b2e2a7f2caafa0a8c3ecfedf084df5933afcb77d3e9e8378f9968de10b0","features":{},"yanked":false}
