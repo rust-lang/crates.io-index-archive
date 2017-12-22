@@ -1,0 +1,1 @@
+{"name":"reproto-semver","vers":"0.3.9","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99efc81ad2121b2bdf61ee075f21081457040da6e86dbfcdd0f553c3d334c4d6","features":{},"yanked":false}
