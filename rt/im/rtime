@@ -1,0 +1,1 @@
+{"name":"rtime","vers":"0.1.0","deps":[{"name":"termion","req":"^1.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdc2b9dfd5750a84f32a7226e4e887817933a981691ad1e70507561c606797ee","features":{},"yanked":false}
