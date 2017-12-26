@@ -1,0 +1,1 @@
+{"name":"sctp","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a82a3ea3c657481dd75d02ad6621f7d4d0dc011858ff7db28fbd7d93451affb6","features":{},"yanked":false}
