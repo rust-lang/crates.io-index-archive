@@ -1,1 +1,2 @@
 {"name":"yapb","vers":"0.1.0","deps":[{"name":"termion","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"95923b85436afa439553da8e1ea4c8cf035606cd607750980de8618cba427d87","features":{},"yanked":false}
+{"name":"yapb","vers":"0.1.1","deps":[{"name":"termion","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bf61e41e9528a7e19b1d6c5c9cec8e26bd9121f44f8c61f088433eb24a7cb04c","features":{},"yanked":false}
