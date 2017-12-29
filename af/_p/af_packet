@@ -1,0 +1,1 @@
+{"name":"af_packet","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3aadd338c3a1096a63eeeb80a6842b738c1106e64f53f8c6f39090da5363c036","features":{},"yanked":false}
