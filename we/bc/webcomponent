@@ -1,1 +1,2 @@
 {"name":"webcomponent","vers":"0.0.1","deps":[{"name":"stdweb","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2906dbbed37f44f9e40289b7288f33e53838f0eacdce93d3d5347311be04d89","features":{},"yanked":false}
+{"name":"webcomponent","vers":"0.0.2","deps":[{"name":"stdweb","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2747549c13e69537137f138d1d1dc6789ba1e05c183299c4f401737985cce3a1","features":{},"yanked":false}
