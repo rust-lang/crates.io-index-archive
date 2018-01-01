@@ -1,0 +1,1 @@
+{"name":"maskerad_memory_allocators","vers":"2.0.0","deps":[{"name":"bencher","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4b1157c06847d0e4f279cc424eeb3e31d56964993f815f9c892c30f2baf6c779","features":{},"yanked":false}
