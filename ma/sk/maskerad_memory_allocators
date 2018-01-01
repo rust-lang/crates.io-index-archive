@@ -1,1 +1,2 @@
 {"name":"maskerad_memory_allocators","vers":"2.0.0","deps":[{"name":"bencher","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4b1157c06847d0e4f279cc424eeb3e31d56964993f815f9c892c30f2baf6c779","features":{},"yanked":false}
+{"name":"maskerad_memory_allocators","vers":"2.0.1","deps":[{"name":"bencher","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3034d6614ed5d32217f601741678a66405845d28607d96073378a84943f2381a","features":{},"yanked":false}
