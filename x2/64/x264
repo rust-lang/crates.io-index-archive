@@ -1,0 +1,1 @@
+{"name":"x264","vers":"0.1.0","deps":[{"name":"x264-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3cbc6378b202bfb906ab521e94d3db8a56e6e963a79fc1a55bddefa14d2be32","features":{},"yanked":false}
