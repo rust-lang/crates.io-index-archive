@@ -1,0 +1,1 @@
+{"name":"nom-syslog","vers":"0.1.0","deps":[{"name":"nom","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61ace733a507badd04df5d57f72318f5574a532aff2ef2db3878cb484326b522","features":{},"yanked":false}
