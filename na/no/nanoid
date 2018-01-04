@@ -1,1 +1,2 @@
 {"name":"nanoid","vers":"0.1.0","deps":[{"name":"rand","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"209150a8e2b991d78c7731ef18e415c1cdb369914bc76e43f0ffa4f51843424b","features":{},"yanked":false}
+{"name":"nanoid","vers":"0.1.1","deps":[{"name":"rand","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f129c08b670f8ebde8bfb3ef5a93d1eefe9e1c660573206d3d9f3b959239cde","features":{},"yanked":false}
