@@ -1,0 +1,1 @@
+{"name":"openhmd-rs-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.35","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f109c16f18881a539855a2edbf646059a87bc573636a9b2ab7b7bd86e3890d41","features":{},"yanked":false}
