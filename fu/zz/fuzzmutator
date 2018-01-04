@@ -1,1 +1,2 @@
 {"name":"fuzzmutator","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d17c89c089f5cdb231e4a9c381e8becb1ba2f25929c7cca229bb11f3c296c212","features":{},"yanked":false}
+{"name":"fuzzmutator","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5398f2902e190901d493544da73fb4bded3b104e060fd14d552a74b7ebc214cd","features":{},"yanked":false}
