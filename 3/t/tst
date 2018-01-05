@@ -17,3 +17,4 @@
 {"name":"tst","vers":"0.8.3","deps":[],"cksum":"f6944b244de28c2c05622b2b6132e48d34e0c3005d040f28b3dee3c8891bc692","features":{},"yanked":false}
 {"name":"tst","vers":"0.8.4","deps":[],"cksum":"759ddfe740c00f199684585a5a66d3c8aa0fc8cff8ea8c9de13906e74bd2fd78","features":{},"yanked":false}
 {"name":"tst","vers":"0.9.0","deps":[],"cksum":"0db7708f578bc6d30019f899b49addfa686d263defb9f63edf2dc94a4e7a3493","features":{},"yanked":false}
+{"name":"tst","vers":"0.9.1","deps":[{"name":"libc","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"0.4.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ec3be2613747a5ab7f7a42b74fc9357ac11441974ad97bfdf09f18e97303f588","features":{},"yanked":false}
