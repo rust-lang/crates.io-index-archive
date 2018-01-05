@@ -1,0 +1,1 @@
+{"name":"perf","vers":"0.0.0","deps":[{"name":"errno","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2.34","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23f2129d09b096f41abbb910bfa8258f01766a610e8a78320100d4ac1ea5376f","features":{},"yanked":false}
