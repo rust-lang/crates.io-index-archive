@@ -1,3 +1,4 @@
 {"name":"enumflags","vers":"0.1.0","deps":[],"cksum":"e5353f0965a01f020dd05bb288fe2cc436fb61a26a245f1617a7ef40ad883646","features":{},"yanked":false}
 {"name":"enumflags","vers":"0.1.1","deps":[],"cksum":"2b6a2af8bf8c494af2b096d250a10bd05689f8baddd25aadf8cb2aad97e0ecfc","features":{},"yanked":false}
 {"name":"enumflags","vers":"0.1.2","deps":[],"cksum":"b003f771fcd8df873645aa0142c86b50a9d5ce063ca0ce6057a4131f2b6ef3c2","features":{},"yanked":false}
+{"name":"enumflags","vers":"0.2.0","deps":[{"name":"num","req":"^0.1.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dfd13a7b6513bc7e7a6321a8d677cf74d8d18ce822865a50d1804e134a2d9b1","features":{"default":[],"nostd":[]},"yanked":false}
