@@ -1,0 +1,1 @@
+{"name":"rolldice","vers":"0.1.0","deps":[{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^2.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e593741391ed6a073d012e60cc2581e9120986b62d8991ed5067ad4b9404731","features":{},"yanked":false}
