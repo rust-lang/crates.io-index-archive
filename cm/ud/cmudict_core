@@ -1,0 +1,1 @@
+{"name":"cmudict_core","vers":"0.1.0","deps":[{"name":"error-chain","req":"^0.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c0cc915951c99fa69ec018379c491cee7182a522a67108fe583f7f94363b3d2","features":{},"yanked":false}
