@@ -25,3 +25,4 @@
 {"name":"quote","vers":"0.3.13","deps":[],"cksum":"08de3f12e670f83f61e450443cbae34496a35b665691fd8e99b24ec662f75865","features":{},"yanked":false}
 {"name":"quote","vers":"0.3.14","deps":[],"cksum":"7375cf7ad34a92e8fd18dd9c42f58b9a11def59ab48bec955bf359a788335592","features":{},"yanked":false}
 {"name":"quote","vers":"0.3.15","deps":[],"cksum":"7a6e920b65c65f10b2ae65c831a81a073a89edd28c7cce89475bff467ab4167a","features":{},"yanked":false}
+{"name":"quote","vers":"0.4.0","deps":[{"name":"proc-macro2","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9588c006b2b46b884b49393cc875b25d9c6a0905eece0ac25fb43700d64f626","features":{},"yanked":false}
