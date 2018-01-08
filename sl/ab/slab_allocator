@@ -1,0 +1,1 @@
+{"name":"slab_allocator","vers":"0.1.0","deps":[{"name":"spin","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"338a4f35c853c47cd9168becb3066ae5145b78484a18a6738c284f5d2cfa1a68","features":{},"yanked":false}
