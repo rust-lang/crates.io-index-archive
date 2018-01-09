@@ -1,0 +1,1 @@
+{"name":"abort","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"032906c62fa2084915b77449a92782d1bedef8af234039e5f689cb51156ddcc1","features":{},"yanked":false}
