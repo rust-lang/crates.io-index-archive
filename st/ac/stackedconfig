@@ -1,0 +1,1 @@
+{"name":"stackedconfig","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c9a684af8b168050df9765a243dee3dea7ff663ea08ccb554f07fac0933e7da","features":{},"yanked":false}
