@@ -1,0 +1,1 @@
+{"name":"nb","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"16d4857ef557572eece7df23c63600de1c13c3c6bb8af3c88d1ba5af5fa7406f","features":{"unstable":[]},"yanked":false}
