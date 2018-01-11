@@ -1,0 +1,1 @@
+{"name":"flann-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.32.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"822bfdf62dd42ed19581332dc9a42e9520ab85a113d8ebde177aca81eab78e8e","features":{},"yanked":false}
