@@ -1,1 +1,2 @@
 {"name":"slab_allocator","vers":"0.1.0","deps":[{"name":"spin","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"338a4f35c853c47cd9168becb3066ae5145b78484a18a6738c284f5d2cfa1a68","features":{},"yanked":false}
+{"name":"slab_allocator","vers":"0.2.0","deps":[{"name":"spin","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0500f0ccbcb5ae39a71a558a1df8c21c9b96a1788a39f92cd07492cdf2630050","features":{},"yanked":false}
