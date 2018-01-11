@@ -1,0 +1,1 @@
+{"name":"pgen","vers":"0.2.1","deps":[{"name":"clap","req":"~2.29.1","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28ce5a708ec7151f56e620c3f426efe0eea07bf0c50a5ceb0a14c6e42e7a0391","features":{},"yanked":false}
