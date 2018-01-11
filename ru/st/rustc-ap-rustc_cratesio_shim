@@ -1,0 +1,1 @@
+{"name":"rustc-ap-rustc_cratesio_shim","vers":"1.0.0","deps":[{"name":"bitflags","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc328bbd00bbff196c4b851db3c08cb2c8fb27032013481fc2d521d591d0fe4d","features":{},"yanked":false}
