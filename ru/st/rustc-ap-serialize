@@ -1,2 +1,3 @@
 {"name":"rustc-ap-serialize","vers":"1.0.0","deps":[],"cksum":"2babb589f4b04d686b94c1365d940d20ffa982e0b9d74f7b11df43e3a7fb46a3","features":{},"yanked":false}
 {"name":"rustc-ap-serialize","vers":"2.0.0","deps":[],"cksum":"e15bd91eab1d87e6c3521d3b2a928db68b5d4660977a5773147b06fa44a9d6cd","features":{},"yanked":false}
+{"name":"rustc-ap-serialize","vers":"3.0.0","deps":[],"cksum":"e3c06ea01691440e8041272d0d328bf0d9fb567e09667940bd233cca0cf21649","features":{},"yanked":false}
