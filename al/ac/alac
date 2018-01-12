@@ -4,3 +4,4 @@
 {"name":"alac","vers":"0.4.0","deps":[{"name":"byteorder","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8805bbaf03cee041f054480d702cc8c7abdc333f5f85d373b9eb092d5eca20fa","features":{},"yanked":true}
 {"name":"alac","vers":"0.3.1","deps":[{"name":"byteorder","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"833bc6020d4f36dc936529b9e22c71172bdf3ed2941293e9b31a5418f92eea1d","features":{},"yanked":false}
 {"name":"alac","vers":"0.3.2","deps":[],"cksum":"e692787cdef33caf775109586882ca857295e8cdd47beb2228613dc8dbaeba41","features":{},"yanked":true}
+{"name":"alac","vers":"0.3.3","deps":[],"cksum":"c5313ee99cec031f3862878d6f73c85c46f7c08cbe952802e71134b7400c7ac8","features":{},"yanked":false}
