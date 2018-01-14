@@ -1,0 +1,1 @@
+{"name":"norx-permutation","vers":"0.1.0","deps":[{"name":"coresimd","req":"^0.0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83f382a8582d8b6dc5795046a4b3145459f8d197e9a053c3927f273f1f90e7db","features":{"W16":[],"W32":[],"W64":[],"L4":[],"L6":[],"simd":["coresimd"],"W8":[],"default":["W64","L4"]},"yanked":false}
