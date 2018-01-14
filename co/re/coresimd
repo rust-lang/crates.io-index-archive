@@ -1,0 +1,1 @@
+{"name":"coresimd","vers":"0.0.4","deps":[{"name":"cupid","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"29af9481e43dc29b5d29e424dcee3cbcd90af9c63d7037aa1bef9bb6490f6a9b","features":{"strict":[],"intel_sde":[]},"yanked":false}
