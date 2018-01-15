@@ -1,0 +1,1 @@
+{"name":"promql","vers":"0.2.0","deps":[{"name":"nom","req":"^3.2","features":["verbose-errors"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"839734ff70ad14318fcabb78370946008d98ceef4308bbe45e003ce3068f89f8","features":{},"yanked":false}
