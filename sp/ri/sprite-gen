@@ -1,1 +1,2 @@
 {"name":"sprite-gen","vers":"0.1.0","deps":[{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e6e43921a43a57cb4f5cfd49531c5e237bd4a9441e59e380033cd03986a96dc","features":{},"yanked":false}
+{"name":"sprite-gen","vers":"0.1.1","deps":[{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c136c979bf5d6d0cda3607ae2b5b129e4424c42ca51c4a89bbb13c784c41f75","features":{},"yanked":false}
