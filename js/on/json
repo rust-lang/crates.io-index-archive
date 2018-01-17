@@ -44,3 +44,4 @@
 {"name":"json","vers":"0.11.10","deps":[],"cksum":"d43dc02ce7e4618209b8912b61e0b373fd5c526fcc50a2907b562f2a47c0f9b1","features":{},"yanked":false}
 {"name":"json","vers":"0.11.11","deps":[],"cksum":"cb3a66b9a97c31c9ea05a9a3b81e577d066c4d9e76de09b12d2241b071ce6c4c","features":{},"yanked":false}
 {"name":"json","vers":"0.11.12","deps":[],"cksum":"39ebf0fac977ee3a4a3242b6446004ff64514889e3e2730bbd4f764a67a2e483","features":{},"yanked":false}
+{"name":"json","vers":"0.11.13","deps":[],"cksum":"9ad0485404155f45cce53a40d4b2d6ac356418300daed05273d9e26f91c390be","features":{},"yanked":false}
