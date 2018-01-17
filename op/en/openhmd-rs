@@ -1,0 +1,1 @@
+{"name":"openhmd-rs","vers":"0.1.0","deps":[{"name":"openhmd-rs-sys","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61b4cda6c675ea324381d3c5f89e5b3ebbcb16e1a9a5a31eccaa892c800034e3","features":{},"yanked":false}
