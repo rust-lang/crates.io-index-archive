@@ -1,0 +1,1 @@
+{"name":"mmal-sys","vers":"0.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"bindgen","req":"^0.32.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2a9dabb267ce277002c9400fc43a80883f237b3974fd2f5d7fc6d5e7914d9874","features":{},"yanked":false}
