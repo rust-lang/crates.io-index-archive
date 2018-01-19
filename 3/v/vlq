@@ -3,3 +3,4 @@
 {"name":"vlq","vers":"0.3.0","deps":[],"cksum":"e7a33cce848c76212e9b521a97151b178b8b60b915453f385fb5fd17cea2df87","features":{},"yanked":false}
 {"name":"vlq","vers":"0.4.0","deps":[],"cksum":"47a952fc44359f24852d5a71e21c04b5191d6ac73b2d9811e642772654082610","features":{},"yanked":false}
 {"name":"vlq","vers":"0.5.0","deps":[{"name":"quickcheck","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6a3d4ab5627e146f5dfe940b3662c003d0a66ddb56ab488b2c90e5c363851d67","features":{},"yanked":false}
+{"name":"vlq","vers":"0.5.1","deps":[{"name":"quickcheck","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"65dd7eed29412da847b0f78bcec0ac98588165988a8cfe41d4ea1d429f8ccfff","features":{},"yanked":false}
