@@ -1,0 +1,1 @@
+{"name":"sam","vers":"1.0.0","deps":[{"name":"reqwest","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"819209343cc0cad3708efc884e5166eaf0c1ffca4646dad719269842471c9122","features":{},"yanked":false}
