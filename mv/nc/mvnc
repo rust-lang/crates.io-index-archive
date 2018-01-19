@@ -2,3 +2,4 @@
 {"name":"mvnc","vers":"0.1.0-prealpha","deps":[],"cksum":"69bc66fbeff4b8dc1db5f33a47e1003c1bafd210ecf27a5c40a535b6853884d0","features":{},"yanked":false}
 {"name":"mvnc","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f1047d3b142c2fbea872652127a349426ea071ba93149a97c5412f66bc2d6a0","features":{},"yanked":false}
 {"name":"mvnc","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9f71e61e0224746e4b2b0a4801414b1154888b11befa6c202c5a6e1e6bc610c","features":{},"yanked":false}
+{"name":"mvnc","vers":"0.1.2","deps":[],"cksum":"98d08e906390aaf8a3166e89a1d352cc04d1fc78085b857bcea0ad4202f669fb","features":{},"yanked":false}
