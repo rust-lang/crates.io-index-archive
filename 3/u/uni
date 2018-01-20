@@ -1,0 +1,1 @@
+{"name":"uni","vers":"0.1.0","deps":[{"name":"clap","req":"^2.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb5af10e5e9f939e29bfb0516fa5e78df6fc23e6e96152b78601a34799a671b0","features":{},"yanked":false}
