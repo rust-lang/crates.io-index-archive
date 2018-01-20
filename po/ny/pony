@@ -1,0 +1,1 @@
+{"name":"pony","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hyper","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93c6f6d9a742fc0fd8112e720283b75b21bb33b4e573267b2885fbe146ba9407","features":{},"yanked":false}
