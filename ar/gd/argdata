@@ -1,0 +1,1 @@
+{"name":"argdata","vers":"0.0.1","deps":[{"name":"byteorder","req":"^1","features":["i128"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0d696226b5d7f51ce7fa674a3270258968c42d667f8645810c680905f8d9fa3","features":{},"yanked":false}
