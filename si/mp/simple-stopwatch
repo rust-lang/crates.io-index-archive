@@ -1,1 +1,2 @@
 {"name":"simple-stopwatch","vers":"0.1.0","deps":[{"name":"time","req":"^0.1.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8fab6e306cf974add436bbca45f938a0a0f37771a521716b3d90cc176f169d1","features":{},"yanked":false}
+{"name":"simple-stopwatch","vers":"0.1.1","deps":[{"name":"time","req":"^0.1.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39e63dab1615c5415f207b65657778cf7cbd61ed800d8223c9aef90efbd1b364","features":{},"yanked":false}
