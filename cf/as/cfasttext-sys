@@ -1,0 +1,1 @@
+{"name":"cfasttext-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cmake","req":"^0.1.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"be7f74c5d99ecf4e237bfed7fe7ffef8bd02c3aa2f4280c41ecec7e1969362ed","features":{},"yanked":false}
