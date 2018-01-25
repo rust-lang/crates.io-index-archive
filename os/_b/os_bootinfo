@@ -1,0 +1,1 @@
+{"name":"os_bootinfo","vers":"0.1.0","deps":[{"name":"x86_64","req":"^0.2.0-alpha","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b7d866e45db9442f18ae0045590781da556b6b57205d0d4703acd703e66418c5","features":{},"yanked":false}
