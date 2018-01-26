@@ -1,0 +1,1 @@
+{"name":"fselect","vers":"0.0.1","deps":[{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"term","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f65afa820b8a049cacf8a32b4355f36a4efa5781887eff6320110533cb5b7d3","features":{},"yanked":false}
