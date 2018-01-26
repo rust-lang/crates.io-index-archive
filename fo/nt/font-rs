@@ -1,0 +1,1 @@
+{"name":"font-rs","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"96cfd61f589e9be08d25dbdd4dacfd042a2374f9417d6477dd9eeeccb6b9326a","features":{"sse":[]},"yanked":false}
