@@ -6,3 +6,4 @@
 {"name":"utf-8","vers":"0.6.0","deps":[{"name":"matches","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9aee9ba280438b56d1ebc5329f2094f0ff457f811eeeff0b278d75aa99db400","features":{},"yanked":false}
 {"name":"utf-8","vers":"0.7.0","deps":[{"name":"matches","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d58461479716ff2ba870f62c8eae9a03d93716b021401965fc095539fb0570a","features":{},"yanked":false}
 {"name":"utf-8","vers":"0.7.1","deps":[{"name":"matches","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6f923c601c7ac48ef1d66f7d5b5b2d9a7ba9c51333ab75a3ddf8d0309185a56","features":{},"yanked":false}
+{"name":"utf-8","vers":"0.7.2","deps":[],"cksum":"f1262dfab4c30d5cb7c07026be00ee343a6cf5027fdc0104a9160f354e5db75c","features":{},"yanked":false}
