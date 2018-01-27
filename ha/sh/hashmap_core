@@ -1,2 +1,3 @@
 {"name":"hashmap_core","vers":"0.1.0","deps":[],"cksum":"eca91448cd6324fa19a57b98fd25fac3a75bb5f583cb611fe41d5d9913a6a28c","features":{},"yanked":false}
 {"name":"hashmap_core","vers":"0.1.1","deps":[],"cksum":"e1d87f2a3739d904668679f47e6ef3009c8b1a26cc90eb2191ee3b0bd1fa90f2","features":{"disable":[]},"yanked":false}
+{"name":"hashmap_core","vers":"0.1.2","deps":[],"cksum":"75919d1685421dc9ea9491c285bc0c0cf5525d166eec8a0f6d5462486d82ca89","features":{"disable":[]},"yanked":false}
