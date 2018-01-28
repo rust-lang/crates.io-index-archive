@@ -17,3 +17,4 @@
 {"name":"trackable","vers":"0.2.7","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bcc93a69d152b7f1cdb03cdbf6c3f2edb7dff5f496136e988e626dbbf0b31e8c","features":{},"yanked":false}
 {"name":"trackable","vers":"0.2.8","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1fea358b2bf4618517597889d75d8b947b1a15fee427cf4140c3054d0f9b846a","features":{},"yanked":false}
 {"name":"trackable","vers":"0.2.9","deps":[],"cksum":"73018ac206bc8eaf31b57ca6819f3667a8797db1a0ec5ccd7918108c8b45f9a1","features":{},"yanked":false}
+{"name":"trackable","vers":"0.2.10","deps":[],"cksum":"221cb22fceca7f246f00fd4ebf65f0f6ff83d5c7964553b343aabf3cd991aa93","features":{},"yanked":false}
