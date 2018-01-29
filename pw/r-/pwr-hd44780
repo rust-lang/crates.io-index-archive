@@ -1,0 +1,1 @@
+{"name":"pwr-hd44780","vers":"0.0.1","deps":[{"name":"i2cdev","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rppal","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb44b567abefc7ac4a515f7769c8b8cb0559b870339ac06385686e405bacf50d","features":{},"yanked":false}
