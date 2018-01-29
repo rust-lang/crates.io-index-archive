@@ -1,0 +1,1 @@
+{"name":"hex-literal-impl","vers":"0.1.0","deps":[{"name":"proc-macro-hack","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ea76da4c7f1a54d01d54985566d3fdd960b2bbd7b970da024821c883c2d9631","features":{},"yanked":false}
