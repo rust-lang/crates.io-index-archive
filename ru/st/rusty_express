@@ -1,1 +1,2 @@
 {"name":"rusty_express","vers":"0.2.0","deps":[{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f07b0d4fce8f7cd0e104c2a8d85c516b3a10521222aee998964602529458989","features":{},"yanked":false}
+{"name":"rusty_express","vers":"0.2.1","deps":[{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d46aef8e7f32716741286f6cde7f5db8464100574a8d5bfddab80fb88cc4be47","features":{},"yanked":false}
