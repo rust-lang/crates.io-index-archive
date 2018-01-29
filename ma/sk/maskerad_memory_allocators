@@ -7,3 +7,4 @@
 {"name":"maskerad_memory_allocators","vers":"3.1.2","deps":[{"name":"bencher","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b9af8974bf0a3b66dccb48f0be08c3158c6aea6c220d833b8e5c2d91eefaeae9","features":{},"yanked":false}
 {"name":"maskerad_memory_allocators","vers":"4.0.0","deps":[],"cksum":"32eb5f4af8e866882439b4c1ed1faf9358628daacfd1267587a6d77984e8f21a","features":{},"yanked":false}
 {"name":"maskerad_memory_allocators","vers":"4.0.1","deps":[],"cksum":"3994e2c46c2512d21a4f7698855965591c8f7062f6dc7db475ee9d5ff166ba88","features":{},"yanked":false}
+{"name":"maskerad_memory_allocators","vers":"4.0.2","deps":[],"cksum":"37783f3b50d5fcb322662804ee3670922b24ca115bcfb2f5ec98718ac6cae7e4","features":{},"yanked":false}
