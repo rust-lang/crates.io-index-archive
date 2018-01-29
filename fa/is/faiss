@@ -1,0 +1,1 @@
+{"name":"faiss","vers":"0.1.0","deps":[{"name":"faiss-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd3382e4c922de07471f62425735ecf6e064d79c6562585c279c0bde63584242","features":{"gpu":["faiss-sys/gpu"]},"yanked":false}
