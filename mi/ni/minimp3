@@ -1,0 +1,1 @@
+{"name":"minimp3","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.32.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0890ea61099a205cb8dcbdef5af7d5ffd314fc8c726552c4e1742a1afa2e4f45","features":{},"yanked":false}
