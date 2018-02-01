@@ -1,1 +1,2 @@
 {"name":"rvs-repl","vers":"0.2.0","deps":[{"name":"rvs","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b392c4e1601551b04ff5ca1ff752d97366dab80c08452c5e7721897ba74349a1","features":{},"yanked":false}
+{"name":"rvs-repl","vers":"0.3.0","deps":[{"name":"rvs","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c523baedf38ebe5836bdba04ba6a19c5eb11e79c94b135be626a2f41ddcdc4b","features":{},"yanked":false}
