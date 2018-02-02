@@ -1,0 +1,1 @@
+{"name":"strip-ansi-escapes","vers":"0.1.0","deps":[{"name":"vte","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d63676e2abafa709460982ddc02a3bb586b6d15a49b75c212e06edd3933acee","features":{},"yanked":false}
