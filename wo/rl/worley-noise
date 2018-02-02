@@ -1,0 +1,1 @@
+{"name":"worley-noise","vers":"0.1.0","deps":[{"name":"rand","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20ad72faf537091a2215fcdd575836a9b5bbc0af651bccd702d036bfd3e1d345","features":{},"yanked":false}
