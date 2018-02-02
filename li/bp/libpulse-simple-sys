@@ -1,1 +1,2 @@
 {"name":"libpulse-simple-sys","vers":"1.0.0","deps":[{"name":"libpulse-sys","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3232649bae2fcb399252e75f861006c67418ccbd498b9335a17f0875f8633b57","features":{},"yanked":false}
+{"name":"libpulse-simple-sys","vers":"1.0.1","deps":[{"name":"libpulse-sys","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a277c022ed3c7b9bf198e99e9a924c82ae9789e67e30f5c27f947bdbd2cdba9","features":{},"yanked":false}
