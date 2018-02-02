@@ -1,1 +1,2 @@
 {"name":"libpulse-mainloop-glib-sys","vers":"1.0.0","deps":[{"name":"libpulse-sys","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80fc5ab12df4217656e8a33d988591be48de109cabd53e2c6e7274c70d222d8f","features":{},"yanked":false}
+{"name":"libpulse-mainloop-glib-sys","vers":"1.0.1","deps":[{"name":"libpulse-sys","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"039d2c5d7edbf9ac6b7dbf548a15da0a85028caa5f07f245c68517a8818e3525","features":{},"yanked":false}
