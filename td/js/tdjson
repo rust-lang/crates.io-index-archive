@@ -1,0 +1,1 @@
+{"name":"tdjson","vers":"0.1.2","deps":[{"name":"tdjson-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f7b5dfd30d8b9501c0eab480f0fc5f7c0adc972fab4051b85b3f5450b581c86","features":{},"yanked":false}
