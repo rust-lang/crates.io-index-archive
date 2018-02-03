@@ -10,3 +10,4 @@
 {"name":"khronos_api","vers":"1.0.1","deps":[],"cksum":"d5a08e2a31d665af8f1ca437eab6d00a93c9d62a549f73f9ed8fc2e55b5a91a7","features":{},"yanked":false}
 {"name":"khronos_api","vers":"1.1.0","deps":[],"cksum":"e38c1bc4606990dddf56c97c6287edebba1e8b8951d2598fb7cc62cc567f0c6d","features":{},"yanked":true}
 {"name":"khronos_api","vers":"2.0.0","deps":[],"cksum":"d867c645cfeb8a7fec503731679eac03ac11b7105aa5a71cb8f8ee5271636add","features":{},"yanked":false}
+{"name":"khronos_api","vers":"2.1.0","deps":[],"cksum":"d9ef23fcc4059260c5936f638c9805ebfc87cb172fa6661d130cba7f97d58f55","features":{},"yanked":false}
