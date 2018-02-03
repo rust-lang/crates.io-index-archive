@@ -8,3 +8,4 @@
 {"name":"maskerad_memory_allocators","vers":"4.0.0","deps":[],"cksum":"32eb5f4af8e866882439b4c1ed1faf9358628daacfd1267587a6d77984e8f21a","features":{},"yanked":false}
 {"name":"maskerad_memory_allocators","vers":"4.0.1","deps":[],"cksum":"3994e2c46c2512d21a4f7698855965591c8f7062f6dc7db475ee9d5ff166ba88","features":{},"yanked":false}
 {"name":"maskerad_memory_allocators","vers":"4.0.2","deps":[],"cksum":"37783f3b50d5fcb322662804ee3670922b24ca115bcfb2f5ec98718ac6cae7e4","features":{},"yanked":false}
+{"name":"maskerad_memory_allocators","vers":"5.0.0","deps":[{"name":"serde","req":"~1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf9e3581f92984122d376d5489716810c187ccf4faba1693c502ca29518a8633","features":{},"yanked":false}
