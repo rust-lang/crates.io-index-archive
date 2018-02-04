@@ -1,0 +1,1 @@
+{"name":"simplog","vers":"1.0.0","deps":[{"name":"log","req":"^0.3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f40181755d54d73be6f22a47560f16c8f410d48d4b3d3fc468ed43bf27bafb69","features":{},"yanked":false}
