@@ -1,0 +1,1 @@
+{"name":"ted","vers":"0.1.0","deps":[{"name":"frappe","req":"~0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ropey","req":"~0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"593ee26489f2ccecc57055787366d25920885221da38e1c2b36d24efe98b10c2","features":{},"yanked":false}
