@@ -20,3 +20,4 @@
 {"name":"elastic_requests","vers":"0.20.6","deps":[],"cksum":"5e0904577551d8c31d166dd5fc8017850c4fcca90860c677a7d302edfc29868b","features":{},"yanked":false}
 {"name":"elastic_requests","vers":"0.20.7","deps":[],"cksum":"9b399368d1fe7eae8eefcbac657383d263bb7a25084c54d08a8606de5a029b07","features":{},"yanked":false}
 {"name":"elastic_requests","vers":"0.20.8","deps":[],"cksum":"37c344aad9b7dde5d57b2d9cbf3532ee279a6da7ba8374fac1f1ee31ae6786cd","features":{},"yanked":false}
+{"name":"elastic_requests","vers":"0.20.9","deps":[],"cksum":"1cc929c5e2da0ce6cfae670ba96c41aa968a33dc0b21d9215c081458fb2b7091","features":{},"yanked":false}
