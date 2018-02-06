@@ -1,0 +1,1 @@
+{"name":"spin-locks","vers":"0.0.0","deps":[{"name":"intel-tsx-hle","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":"cfg(any(target_arch = \"x86\", target_arch = \"x86_64\"))","kind":"normal"}],"cksum":"ae9b6124d82bbb747c0fe06833a0068772f5e94f04c9a3f2faf0ab831ec6e4db","features":{},"yanked":false}
