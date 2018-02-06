@@ -2,3 +2,4 @@
 {"name":"ethabi-contract","vers":"5.0.0","deps":[],"cksum":"875ee2bf76d6dbfae9682457c41b1debc994812419132815263b215262f6940e","features":{},"yanked":true}
 {"name":"ethabi-contract","vers":"5.0.1","deps":[],"cksum":"a45200950dae0b12825100f84050a747a399a9f4ddfdf32e72a6ab2c3cd87195","features":{},"yanked":false}
 {"name":"ethabi-contract","vers":"5.0.2","deps":[],"cksum":"f1fd714ebdb34839bd9440a5cce29dd23a4cc44c55f420fd5db15294ec6d12ad","features":{},"yanked":false}
+{"name":"ethabi-contract","vers":"5.0.3","deps":[],"cksum":"ca2263c24359e827348ac99aa1f2e28ba5bab0d6c0b83941fa252de8a9e9c073","features":{},"yanked":false}
