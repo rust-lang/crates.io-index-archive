@@ -9,3 +9,4 @@
 {"name":"num-traits","vers":"0.1.40","deps":[],"cksum":"99843c856d68d8b4313b03a17e33c4bb42ae8f6610ea81b28abe076ac721b9b0","features":{},"yanked":false}
 {"name":"num-traits","vers":"0.1.41","deps":[],"cksum":"cacfcab5eb48250ee7d0c7896b51a2c5eec99c1feea5f32025635f5ae4b00070","features":{},"yanked":false}
 {"name":"num-traits","vers":"0.1.42","deps":[],"cksum":"9936036cc70fe4a8b2d338ab665900323290efb03983c86cbe235ae800ad8017","features":{},"yanked":false}
+{"name":"num-traits","vers":"0.2.0","deps":[],"cksum":"e7de20f146db9d920c45ee8ed8f71681fd9ade71909b48c3acbd766aa504cf10","features":{"std":[],"default":["std"]},"yanked":false}
