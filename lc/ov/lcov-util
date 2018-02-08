@@ -1,0 +1,1 @@
+{"name":"lcov-util","vers":"0.1.0","deps":[{"name":"failure","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"lcov","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0449546961c96ee10e7524d602a9b971537067da1421d4f628d6931d21a7897e","features":{},"yanked":false}
