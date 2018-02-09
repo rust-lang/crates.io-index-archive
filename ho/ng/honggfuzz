@@ -3,3 +3,4 @@
 {"name":"honggfuzz","vers":"0.2.0","deps":[],"cksum":"70b67f1ffa77135df350b4e7eb18143ae12a15bb843924c04429ac20e701260c","features":{},"yanked":false}
 {"name":"honggfuzz","vers":"0.2.1","deps":[],"cksum":"92069ee99d9f78d862feb338edc4e83dcf439e88d412b00eee3ebd98df57703b","features":{},"yanked":false}
 {"name":"honggfuzz","vers":"0.3.0","deps":[],"cksum":"5d969105990e4a6c9db4d2cfc89ce7a17e51ffedbde64e5acb2cb12ec5a91b84","features":{},"yanked":false}
+{"name":"honggfuzz","vers":"0.4.0","deps":[],"cksum":"60c5280b91b3f249f82c452cb2bc8545736a3d6d0170c36e965ea8e24c26f05c","features":{},"yanked":false}
