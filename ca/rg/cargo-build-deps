@@ -1,0 +1,1 @@
+{"name":"cargo-build-deps","vers":"0.1.0","deps":[{"name":"toml","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74b5a10dce2b6aac9a459ad13f24a8762efba3bf2e45873609d86334938e9f11","features":{},"yanked":false}
