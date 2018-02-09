@@ -1,0 +1,1 @@
+{"name":"rench","vers":"0.1.0","deps":[{"name":"clap","req":"^2.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"reqwest","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47207f6420c2989c013a5f98c3417f62016afdce229239eb48a8ba8e23734fbb","features":{},"yanked":false}
