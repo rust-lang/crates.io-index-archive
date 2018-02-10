@@ -1,1 +1,2 @@
 {"name":"flowstdlib","vers":"0.2.0","deps":[{"name":"flowrlib","req":"~0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82992dbfad25078ddb96e7b57e3957808cb8dff13fbd745bc9f2e0d04a68a6ec","features":{},"yanked":false}
+{"name":"flowstdlib","vers":"0.3.0","deps":[{"name":"flowrlib","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"347145fccbbf926e5782ce3ea0089a4ef20ce447e34c85f3f6f3d3ae0f418088","features":{},"yanked":false}
