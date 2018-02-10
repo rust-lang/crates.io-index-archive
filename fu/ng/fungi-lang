@@ -1,0 +1,1 @@
+{"name":"fungi-lang","vers":"0.1.0","deps":[{"name":"adapton","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"iodyn","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcce84ac8850d7c6a198dce0742e186f3169929f465c78cdc0ed5a5193f39e5c","features":{},"yanked":false}
