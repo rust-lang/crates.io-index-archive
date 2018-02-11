@@ -1,0 +1,1 @@
+{"name":"steam-audio","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.32.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7a3ab0ae001d7c9d73a5e87ef10c8b7d6440bd3109d0027b1515a6306785e01b","features":{},"yanked":false}
