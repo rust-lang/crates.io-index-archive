@@ -1,1 +1,2 @@
 {"name":"beats","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"770f5d035b0a3502d069b00762338a8df02be4e45f4a2c3f7e81663bf8ab181b","features":{},"yanked":false}
+{"name":"beats","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e845e17a51b8a2c25f4eb532bc99938b190db4428b5edf13660ac685b9bd8786","features":{},"yanked":false}
