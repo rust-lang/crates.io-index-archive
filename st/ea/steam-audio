@@ -1,1 +1,2 @@
 {"name":"steam-audio","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.32.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7a3ab0ae001d7c9d73a5e87ef10c8b7d6440bd3109d0027b1515a6306785e01b","features":{},"yanked":false}
+{"name":"steam-audio","vers":"0.2.1","deps":[{"name":"bindgen","req":"^0.32.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3177be5d1b20e076e4dceefaa4cca7e5983ccf7495ddacadf541b3a4ed6b4f4b","features":{},"yanked":false}
