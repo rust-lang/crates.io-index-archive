@@ -5,3 +5,4 @@
 {"name":"honggfuzz","vers":"0.3.0","deps":[],"cksum":"5d969105990e4a6c9db4d2cfc89ce7a17e51ffedbde64e5acb2cb12ec5a91b84","features":{},"yanked":false}
 {"name":"honggfuzz","vers":"0.4.0","deps":[],"cksum":"60c5280b91b3f249f82c452cb2bc8545736a3d6d0170c36e965ea8e24c26f05c","features":{},"yanked":false}
 {"name":"honggfuzz","vers":"0.5.0","deps":[{"name":"memmap","req":"^0.6","features":[],"optional":false,"default_features":true,"target":"cfg(fuzzing_debug)","kind":"normal"}],"cksum":"ec97c07b9a873ebbf0cde1c39aded2ca5b7bcca22067720311ccc2dad38d2489","features":{},"yanked":false}
+{"name":"honggfuzz","vers":"0.5.1","deps":[{"name":"memmap","req":"^0.6","features":[],"optional":false,"default_features":true,"target":"cfg(fuzzing_debug)","kind":"normal"}],"cksum":"afeb1118d44050a7a4a8696a9d3c02037a5906351edb892c2900dea72ec81c6a","features":{},"yanked":false}
