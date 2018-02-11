@@ -1,0 +1,1 @@
+{"name":"ta-lib-wrapper","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.26.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6c6b1bf1172e87b780fe1ba5b0ee49a7f04a1eccd72adbac579317724e21dfda","features":{},"yanked":false}
