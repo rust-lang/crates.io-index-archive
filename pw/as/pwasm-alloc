@@ -1,1 +1,2 @@
 {"name":"pwasm-alloc","vers":"0.1.0","deps":[{"name":"pwasm-libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a61e7a9bfd7bdf92cde93dc7f4d53aad318ffefb46b96b57458ddffe49a1357","features":{"strict":[]},"yanked":false}
+{"name":"pwasm-alloc","vers":"0.2.0","deps":[{"name":"wee_alloc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0b78d682b635558a1f320ff8d4d97dd1f7e789834b78bc6c1bd3c4c707527ab","features":{"strict":[]},"yanked":false}
