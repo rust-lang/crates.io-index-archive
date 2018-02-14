@@ -1,0 +1,1 @@
+{"name":"worker-sentinel","vers":"0.3.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3e965c8cb5300c9fafd274d731ef988f482515b4897315e9f3f010463c8c8d24","features":{},"yanked":false}
