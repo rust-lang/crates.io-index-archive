@@ -1,0 +1,1 @@
+{"name":"wikibase","vers":"0.1.1","deps":[{"name":"curl","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be8ac5ede3793c86039a1d6efdbfde10e97c05b3cda3c4717ee084ae2954e0a3","features":{},"yanked":false}
