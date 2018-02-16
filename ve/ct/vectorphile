@@ -2,3 +2,4 @@
 {"name":"vectorphile","vers":"0.1.3","deps":[],"cksum":"8bc2beb672643225ccf6f1eea01e6cc43ece5de118615621f85e9aca63a922b3","features":{},"yanked":false}
 {"name":"vectorphile","vers":"0.1.5","deps":[{"name":"euclid","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d53732b6c2814b8c4137c1e95951d3c9fb0f8301e35e7a5098589a6f1121c9b","features":{},"yanked":false}
 {"name":"vectorphile","vers":"0.1.6","deps":[{"name":"euclid","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1e23b4eff8fded8ad275674a8851c82c70f693f8e1353fb9d068c0236fca866","features":{},"yanked":false}
+{"name":"vectorphile","vers":"0.1.7","deps":[{"name":"euclid","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9bfb0ace825ee441d02f553d04ba2e2a5aa6cbd5c72c526702e2d24d46e2a3e","features":{},"yanked":false}
