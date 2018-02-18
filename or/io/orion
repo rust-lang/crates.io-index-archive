@@ -1,0 +1,1 @@
+{"name":"orion","vers":"0.1.0","deps":[{"name":"rand","req":">= 0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ring","req":">= 0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0177ba23997f08adb295d7c4c0769d639fd72683e145490bba7308250994087","features":{},"yanked":false}
