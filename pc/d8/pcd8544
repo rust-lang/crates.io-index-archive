@@ -1,0 +1,1 @@
+{"name":"pcd8544","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.1.0","features":["unproven"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c548f463444aa0584142477b92bcc9f7c77ac5d3558e2a21de9861c909cafb13","features":{},"yanked":false}
