@@ -1,0 +1,1 @@
+{"name":"madgwick","vers":"0.1.0","deps":[{"name":"m","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"mat","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f821c772237352a215b77e54a10e85e11aad6565420fdbb00ecbabe9335e254","features":{},"yanked":false}
