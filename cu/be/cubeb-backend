@@ -1,0 +1,1 @@
+{"name":"cubeb-backend","vers":"0.4.0","deps":[{"name":"cubeb-core","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a869744d47f8899f792f06c888436aee3240897efa5a24f48f3d056d7fc0341","features":{},"yanked":false}
