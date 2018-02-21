@@ -6,3 +6,4 @@
 {"name":"yansi","vers":"0.3.2","deps":[],"cksum":"6871211fc002a0e63894b82cd8e3b568f94b31b499828c3dd76328de9b3f5c0b","features":{"nightly":[]},"yanked":false}
 {"name":"yansi","vers":"0.3.3","deps":[],"cksum":"8200521fa88cba2d4ec8d7500616a284ae8bd92d492a309773478a870660573a","features":{"nightly":[]},"yanked":false}
 {"name":"yansi","vers":"0.3.4","deps":[],"cksum":"a503e4eea629f145a693c8ed1eddba88b3b9de5171c6ebd0e2820cf82d38f934","features":{"nightly":[]},"yanked":false}
+{"name":"yansi","vers":"0.4.0","deps":[{"name":"parking_lot","req":"^0.5","features":["nightly"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d60c3b48c9cdec42fb06b3b84b5b087405e1fa1c644a1af3930e4dfafe93de48","features":{},"yanked":false}
