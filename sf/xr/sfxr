@@ -1,0 +1,1 @@
+{"name":"sfxr","vers":"0.1.0","deps":[{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sdl2","req":"^0.31.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0fbc7ff8c0680b5023dbfdd1f2815268e002a3ec49080f314edb88e8b3672848","features":{},"yanked":false}
