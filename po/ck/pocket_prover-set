@@ -1,1 +1,2 @@
 {"name":"pocket_prover-set","vers":"0.1.0","deps":[{"name":"pocket_prover","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82af2293038362060974a648a63c6f094708dc233296edfe9fa273b6b95e28b2","features":{},"yanked":false}
+{"name":"pocket_prover-set","vers":"0.2.0","deps":[{"name":"pocket_prover","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d759c1c277a260648efd616020519be1003b6bff42f696e51026e6bcc28e9769","features":{},"yanked":false}
