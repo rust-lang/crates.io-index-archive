@@ -30,3 +30,4 @@
 {"name":"lambda_calculus","vers":"1.4.0","deps":[],"cksum":"2f62496ef35a4dc08653f29829f41fa754e140de62a265368cc30722d738381a","features":{"parigot":[],"scott":[],"no_church":[],"backslash_lambda":[]},"yanked":false}
 {"name":"lambda_calculus","vers":"2.0.0","deps":[],"cksum":"8016b4736aad41cfbe0abf52501683fdc44c22b21ec804b8c3a4540a6ce4c36d","features":{"encoding":[],"backslash_lambda":[],"default":["encoding"]},"yanked":false}
 {"name":"lambda_calculus","vers":"2.1.0","deps":[],"cksum":"d4c4ebe58416f048c898550abaa31876e2643a31009224bfc93cbff20146651c","features":{"default":["encoding"],"backslash_lambda":[],"encoding":[]},"yanked":false}
+{"name":"lambda_calculus","vers":"2.2.0","deps":[],"cksum":"d98b854a999a4de4b925b9d2548efaec66afd4e4ed3aa4f8644f19c738d9e7c0","features":{"backslash_lambda":[],"encoding":[],"default":["encoding"]},"yanked":false}
