@@ -1,0 +1,1 @@
+{"name":"duckdns","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"dotenv","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"68fdb80f056355f8ee39b4662ab8d66e5d38d4a5deaebc8ae91aaf73ebc26dcf","features":{},"yanked":false}
