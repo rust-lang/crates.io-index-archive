@@ -1,0 +1,1 @@
+{"name":"rsudo_support","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ee0815e53a10d698741f32853c11de487834673e1ca5642d4019ac12524a811","features":{},"yanked":false}
