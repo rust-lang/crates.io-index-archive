@@ -15,3 +15,4 @@
 {"name":"tiny-keccak","vers":"1.3.0","deps":[],"cksum":"b7f160904d39904f196c4dc23ad531535bfa04c6df7bbff7cb499047f97b7912","features":{},"yanked":false}
 {"name":"tiny-keccak","vers":"1.3.1","deps":[],"cksum":"d52d12ad79e4063e0cb0ca5efa202ed7244b6ce4d25f4d3abe410b2a66128292","features":{},"yanked":false}
 {"name":"tiny-keccak","vers":"1.4.0","deps":[],"cksum":"3e9241752647ca572f12c9b520a5d360d9099360c527770647e694001646a1d0","features":{},"yanked":false}
+{"name":"tiny-keccak","vers":"1.4.1","deps":[{"name":"crunchy","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58911ed5eb275a8fd2f1f0418ed360a42f59329864b64e1e95377a9024498c01","features":{},"yanked":false}
