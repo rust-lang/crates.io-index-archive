@@ -5,3 +5,4 @@
 {"name":"rustc-demangle","vers":"0.1.4","deps":[],"cksum":"3058a43ada2c2d0b92b3ae38007a2d0fa5e9db971be260e0171408a4ff471c95","features":{},"yanked":false}
 {"name":"rustc-demangle","vers":"0.1.5","deps":[],"cksum":"aee45432acc62f7b9a108cc054142dac51f979e69e71ddce7d6fc7adf29e817e","features":{},"yanked":false}
 {"name":"rustc-demangle","vers":"0.1.6","deps":[],"cksum":"f312457f8a4fa31d3581a6f423a70d6c33a10b95291985df55f1ff670ec10ce8","features":{},"yanked":false}
+{"name":"rustc-demangle","vers":"0.1.7","deps":[],"cksum":"11fb43a206a04116ffd7cfcf9bcb941f8eb6cc7ff667272246b0a1c74259a3cb","features":{},"yanked":false}
