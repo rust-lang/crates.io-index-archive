@@ -1,0 +1,1 @@
+{"name":"castor","vers":"0.1.0","deps":[{"name":"kv","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sha2","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f539a65fbb3b1ca2d440d69b2488f7dc61bef0c79a1414395ae59aa1fc681ab","features":{},"yanked":false}
