@@ -8,3 +8,4 @@
 {"name":"hotswap","vers":"0.1.8","deps":[{"name":"parking_lot","req":"0.2.*","features":["nightly"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libloading","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8db2cdeb4325824d54758801fe9a23f857559db6e24f366730e2e28640392a03","features":{},"yanked":false}
 {"name":"hotswap","vers":"0.2.0","deps":[],"cksum":"d5c58eca61f6e52581e5560f4d48c411c8122b95fbf35418dc2d9dfaaba8e325","features":{},"yanked":false}
 {"name":"hotswap","vers":"0.3.0","deps":[],"cksum":"096e168ef118b66eae8cbeb14a0589d7f94f740ce171bec858d0c5bb2c2558b4","features":{},"yanked":false}
+{"name":"hotswap","vers":"0.3.1","deps":[],"cksum":"8c408967b1041ef0f3acd3d4baff1f31f1619f7521c200aa16b7126b0bfea5bf","features":{},"yanked":false,"links":null}
