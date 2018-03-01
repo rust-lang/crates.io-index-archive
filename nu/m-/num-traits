@@ -11,3 +11,4 @@
 {"name":"num-traits","vers":"0.1.42","deps":[],"cksum":"9936036cc70fe4a8b2d338ab665900323290efb03983c86cbe235ae800ad8017","features":{},"yanked":false}
 {"name":"num-traits","vers":"0.2.0","deps":[],"cksum":"e7de20f146db9d920c45ee8ed8f71681fd9ade71909b48c3acbd766aa504cf10","features":{"std":[],"default":["std"]},"yanked":false}
 {"name":"num-traits","vers":"0.1.43","deps":[{"name":"num-traits","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92e5113e9fd4cc14ded8e499429f396a20f98c772a47cc8622a736e1ec843c31","features":{},"yanked":false}
+{"name":"num-traits","vers":"0.2.1","deps":[],"cksum":"0b3c2bd9b9d21e48e956b763c9f37134dc62d9e95da6edb3f672cacb6caf3cd3","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
