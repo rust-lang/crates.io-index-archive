@@ -1,1 +1,2 @@
 {"name":"internship","vers":"0.1.0","deps":[],"cksum":"47641d8068092db0c1adb6d15adbcc9ee2874e2a3ca5db9bd8ef31769d004168","features":{},"yanked":false,"links":null}
+{"name":"internship","vers":"0.1.1","deps":[],"cksum":"5fb4a080a2781d77a32e6b0f68e92d142a01afdcb9ce117f13da67d4bdc27b1f","features":{"shared_from_slice2":[]},"yanked":false,"links":null}
