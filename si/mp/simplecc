@@ -1,1 +1,2 @@
 {"name":"simplecc","vers":"0.1.0","deps":[],"cksum":"8f83f7bdde56bcfcdb706cd4546616198ca41c3cb2856c2094ea1e62295b704e","features":{},"yanked":false,"links":null}
+{"name":"simplecc","vers":"0.1.1","deps":[],"cksum":"340ca1e640ce889de72dd472cb26ae10c4ffa8d71c8002af22efc858fd9c5ca1","features":{"builtin_dicts":[],"default":[]},"yanked":false,"links":null}
