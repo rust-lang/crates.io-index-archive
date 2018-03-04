@@ -1,0 +1,1 @@
+{"name":"ili9341","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7c1ea827524c99a79255b839fbb512790919a13beed9077549820ae73043092","features":{},"yanked":false,"links":null}
