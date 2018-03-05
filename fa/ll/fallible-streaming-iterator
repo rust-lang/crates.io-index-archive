@@ -6,3 +6,4 @@
 {"name":"fallible-streaming-iterator","vers":"0.1.5","deps":[],"cksum":"e071aaaba317f3c25ba002e6d8f11afb6093e5d4a2d7b5e164e45d219255fb13","features":{"std":[]},"yanked":false}
 {"name":"fallible-streaming-iterator","vers":"0.1.6","deps":[],"cksum":"cb9eb6425a22e75722e43ba74f6818deffcc494f8c9be168d04949a50900da9b","features":{"std":[]},"yanked":false}
 {"name":"fallible-streaming-iterator","vers":"0.1.7","deps":[],"cksum":"fd1dcd07b61731206233f5082bf36a8adbe8b4fbf08706799e0f93c471f35936","features":{"std":[]},"yanked":false}
+{"name":"fallible-streaming-iterator","vers":"0.1.8","deps":[],"cksum":"e5641e231f4982a948f900a1c8bf9f397c628c9551deabafc1ab45435e262976","features":{"std":[]},"yanked":false,"links":null}
