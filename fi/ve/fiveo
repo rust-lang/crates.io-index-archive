@@ -1,1 +1,2 @@
 {"name":"fiveo","vers":"0.1.0","deps":[{"name":"strsim","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d1c3e30052e4cd6813d35951209c64fb8cc639c2790e3985075bcc8fef0655a","features":{},"yanked":false,"links":null}
+{"name":"fiveo","vers":"0.2.0","deps":[{"name":"strsim","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5cc6b42a9c8448ab1a2536434eee278918c53b14586c6b5822a03b8f5fac808","features":{},"yanked":false,"links":null}
