@@ -1,1 +1,2 @@
 {"name":"weak-table","vers":"0.1.0","deps":[{"name":"quickcheck","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fe6a5163526d39b8cff65b68cc95517f2f3d0942ee7c6965d34fa084d4ea626c","features":{},"yanked":false,"links":null}
+{"name":"weak-table","vers":"0.1.1","deps":[{"name":"quickcheck","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c800ecefd32cb203d6e2c18bc2cba3bbfd190f60c8d29414b48bca4f377af6fb","features":{},"yanked":false,"links":null}
