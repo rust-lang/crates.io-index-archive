@@ -1,0 +1,1 @@
+{"name":"futures-core","vers":"0.2.0-alpha","deps":[{"name":"either","req":"^1.4","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8edc453d3cc036abd10fe909d7bc4734a6842334509fae36aca0345d51875aa8","features":{"default":["std"],"std":["either/use_std"]},"yanked":false,"links":null}
