@@ -1,0 +1,1 @@
+{"name":"wasm-bindgen","vers":"0.1.0","deps":[{"name":"wasm-bindgen-macro","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"717507a3c7ef09d740c6d781bda57ba054d7b776f3e27d4478e25a773afd2e4b","features":{},"yanked":false,"links":null}
