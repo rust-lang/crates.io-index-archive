@@ -1,1 +1,2 @@
 {"name":"node-resolve","vers":"1.0.0","deps":[{"name":"serde_json","req":"^1.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"830fb704309b041c9b6f34a48745abb48ca4ba50dc538864935f2ed102c26e3d","features":{},"yanked":false,"links":null}
+{"name":"node-resolve","vers":"1.0.1","deps":[{"name":"serde_json","req":"^1.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16d49e4a476afbb4c1549f196730fe1becdcb1fafc33ce7f8bb0a6d0d3103b7b","features":{},"yanked":false,"links":null}
