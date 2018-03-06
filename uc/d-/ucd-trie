@@ -1,0 +1,1 @@
+{"name":"ucd-trie","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f392d016aeb2d10d82523bc90afe81722ec36c7c181340085d48b74f6485516c","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
