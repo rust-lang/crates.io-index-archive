@@ -1,0 +1,1 @@
+{"name":"proj-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.33.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f76dfcff02134c689be7d156eef42ff0fe658968485832ddcd87bef3ad2c4f08","features":{},"yanked":false,"links":null}
