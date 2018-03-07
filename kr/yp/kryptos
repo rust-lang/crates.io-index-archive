@@ -3,3 +3,4 @@
 {"name":"kryptos","vers":"0.4.0","deps":[],"cksum":"28fb9056a7bf66719221ed53df02910eed12a2e882131e7665248fb54b8c4bae","features":{},"yanked":false,"links":null}
 {"name":"kryptos","vers":"0.4.1","deps":[],"cksum":"9104a04550ed42023931b34c5db1c49e9b57e51c954c34e69050b97e942c5b02","features":{},"yanked":false,"links":null}
 {"name":"kryptos","vers":"0.5.0","deps":[],"cksum":"0cf881a97fed414b7ce699320b07941af9fc527cd06e934d81c020a6863def24","features":{},"yanked":false,"links":null}
+{"name":"kryptos","vers":"0.6.0","deps":[{"name":"regex","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"506514f40b6eed5184bd305c84e66f30047196b427a3a23912e67baf2a735ab0","features":{},"yanked":false,"links":null}
