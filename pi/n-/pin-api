@@ -1,2 +1,3 @@
 {"name":"pin-api","vers":"0.1.0","deps":[],"cksum":"806c195096cb6819b6b166572e5c79a8ff8b5a1c8c238820b77bd86a9944bcd0","features":{"std":[],"default-features":["std"]},"yanked":false,"links":null}
 {"name":"pin-api","vers":"0.1.1","deps":[],"cksum":"fd268ff56a2b1e7f0f2e4bbb963bd3f9173e4eaac4deec238c6e29dc4cad8c52","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"pin-api","vers":"0.1.2","deps":[],"cksum":"c02185918706b2f8fe6021395d46c42cd640d7c2a5a138c44580353bfa528dfd","features":{"std":[],"nightly":[],"default":["std","nightly"]},"yanked":false,"links":null}
