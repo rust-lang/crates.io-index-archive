@@ -1,1 +1,2 @@
 {"name":"tokio-executor","vers":"0.0.0","deps":[],"cksum":"811d2471eb8dac73ee4b8f7d32e9383470509e5a9d47b0babb76315abeed8aec","features":{},"yanked":false}
+{"name":"tokio-executor","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46108c2aca0eb4b9a883bf37a28d122ca70f5318446f59f729cd1ff78a0bb5fb","features":{},"yanked":false,"links":null}
