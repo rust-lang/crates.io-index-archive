@@ -1,1 +1,2 @@
 {"name":"alpha-bleeder","vers":"0.1.0","deps":[{"name":"image","req":"0.18.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19e98d942f4a033f964ae67b12fd8ffcf018d881c015e4f78d62e85649e886ac","features":{},"yanked":false,"links":null}
+{"name":"alpha-bleeder","vers":"0.2.0","deps":[{"name":"image","req":"0.18.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b09dc7366d0b2ea4bf9694ac24d0321e2159a3d3657b2a7b63934835750bb21","features":{},"yanked":false,"links":null}
