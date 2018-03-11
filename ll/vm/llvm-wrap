@@ -1,0 +1,1 @@
+{"name":"llvm-wrap","vers":"0.2.1","deps":[{"name":"llvm-sys","req":"^50","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b692c72314ed12cdf9e4bcfe9e5f4073067e54dc5e3aa4963ced03449cae07f","features":{},"yanked":false,"links":null}
