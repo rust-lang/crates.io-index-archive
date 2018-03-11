@@ -1,3 +1,4 @@
 {"name":"throw","vers":"0.1.0","deps":[],"cksum":"d5dd9091c27ba4d3e682a06b5ad4baf2890c7401f7ed9332c447d78e4b7f8acd","features":{},"yanked":false}
 {"name":"throw","vers":"0.1.1","deps":[],"cksum":"fec67991a243e238bf6a17b20f739494719c010ae79c0b742d8ac94581059c44","features":{},"yanked":false}
 {"name":"throw","vers":"0.1.2","deps":[{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a26adda8556c35c08012d7e405a3f4deff6b5b94b627f6c9122b18f7d829185c","features":{},"yanked":false}
+{"name":"throw","vers":"0.1.3","deps":[{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e7f88bec7465ef7ac6cfbcd6a87c3a4ccf14b5e67f2b94da8912177c081b1f07","features":{"default":["std","unlimited-points"],"unlimited-points":[],"std":[]},"yanked":false,"links":null}
