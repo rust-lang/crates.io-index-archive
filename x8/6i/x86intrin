@@ -7,3 +7,4 @@
 {"name":"x86intrin","vers":"0.4.1","deps":[],"cksum":"920af1dbe3c9b4e3a5f52f33f68da9e4b2093f24679c77e7f93521b5a02b3ad5","features":{"doc":[]},"yanked":false}
 {"name":"x86intrin","vers":"0.4.2","deps":[],"cksum":"3d7953b8a720e1b1b4388283480d2262f3ed60cbbbdf6d8b7bafc64c82237cb4","features":{"doc":[]},"yanked":false}
 {"name":"x86intrin","vers":"0.4.3","deps":[],"cksum":"5f65e7a74c19065448f1f36de5100f947c9309244c084ded5594ddf6d588706d","features":{"doc":[]},"yanked":false}
+{"name":"x86intrin","vers":"0.4.4","deps":[],"cksum":"89b75d82807376585dbb846bf7bdde695043d8f8e87eb911c235308173e23b2c","features":{"doc":[]},"yanked":false,"links":null}
