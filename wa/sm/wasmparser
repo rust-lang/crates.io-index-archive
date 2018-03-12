@@ -34,3 +34,4 @@
 {"name":"wasmparser","vers":"0.14.0","deps":[],"cksum":"31a1d259f71352e0999bfa74dfc793916ee4cc45aec46bab2e68ae3e98815977","features":{},"yanked":false}
 {"name":"wasmparser","vers":"0.14.1","deps":[],"cksum":"00cbd65cdd1398e99e4a3c13651a6020d4fab754c2f8f8dd2cff86aab8d6c34f","features":{},"yanked":false}
 {"name":"wasmparser","vers":"0.15.0","deps":[],"cksum":"f07af36a29c4944407e7ac19a7c0910534709cfce111806565e5637310f0a8af","features":{},"yanked":false,"links":null}
+{"name":"wasmparser","vers":"0.15.1","deps":[],"cksum":"54e09ffa2814cc00a96950b5d6e0e0f5f7c6b1aaaeb69dcb45850b7b18081d1f","features":{},"yanked":false,"links":null}
