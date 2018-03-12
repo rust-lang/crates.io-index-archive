@@ -1,1 +1,2 @@
 {"name":"emojicode-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.33.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d3ee2bef258eca0370ff7608b8a627a64142113a032d7848d958c5e7b8d7db4e","features":{},"yanked":false,"links":null}
+{"name":"emojicode-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.33.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3a90d8435e0989e6c9d5774c63025f4febb23f27549fd0af540ee70da998de86","features":{},"yanked":false,"links":null}
