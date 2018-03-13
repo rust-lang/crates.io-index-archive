@@ -1,1 +1,2 @@
 {"name":"llvm-wrap","vers":"0.2.1","deps":[{"name":"llvm-sys","req":"^50","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b692c72314ed12cdf9e4bcfe9e5f4073067e54dc5e3aa4963ced03449cae07f","features":{},"yanked":false,"links":null}
+{"name":"llvm-wrap","vers":"0.2.2","deps":[{"name":"llvm-sys","req":"^50","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"540dc40a57f89a4225b6e4bddc131ea053fee0fe35171a9f14dcea0ef7bf3831","features":{},"yanked":false,"links":null}
