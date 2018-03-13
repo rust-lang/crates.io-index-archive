@@ -2,3 +2,4 @@
 {"name":"safe_unwrap","vers":"0.1.1","deps":[],"cksum":"0e50d16c694fef1dc2c66a35463f74d2b9aef74de9c02e29a3b12735c3a2540d","features":{},"yanked":false}
 {"name":"safe_unwrap","vers":"0.2.0","deps":[],"cksum":"0e4e28e63c55cf6395b86b6bdd3806b50769eb4a191ad19c91f6ef38c9c1efaa","features":{},"yanked":false}
 {"name":"safe_unwrap","vers":"0.3.0","deps":[],"cksum":"dcdd02ad3535c2fe782a8759fee384c0f8bdfc33f08228e72f9dcb4eb5df9055","features":{"default":[],"std":[]},"yanked":false,"links":null}
+{"name":"safe_unwrap","vers":"0.4.0","deps":[],"cksum":"9b0988d45cf9c9ebd5becbef245e356b1b42912c27826e6438ca77f190c0b883","features":{"default":[],"std":[]},"yanked":false,"links":null}
