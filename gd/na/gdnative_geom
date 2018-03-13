@@ -1,0 +1,1 @@
+{"name":"gdnative_geom","vers":"0.2.0","deps":[{"name":"euclid","req":"^0.17.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89e2d98d7097ecdd79f8bdfea8a7316bbd8ff10b9ebc2eb5c5dc47eacff180be","features":{},"yanked":false,"links":null}
