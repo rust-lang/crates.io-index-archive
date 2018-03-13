@@ -20,3 +20,4 @@
 {"name":"trackable","vers":"0.2.10","deps":[],"cksum":"221cb22fceca7f246f00fd4ebf65f0f6ff83d5c7964553b343aabf3cd991aa93","features":{},"yanked":false}
 {"name":"trackable","vers":"0.2.11","deps":[],"cksum":"64db3bfd52a78be937bf862d2b870a3d9fa218187aa9ff24c2657c6b33ef6459","features":{},"yanked":false,"links":null}
 {"name":"trackable","vers":"0.2.12","deps":[],"cksum":"559e499a059e81c69bd738578c95f452e18679e6ed4e9be96df0e614eb4ea570","features":{},"yanked":false,"links":null}
+{"name":"trackable","vers":"0.2.13","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_derive","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62b9bdbfd9850ab6acf836cdb4d5f0ee0588482403d4f0ffea6bed8529565555","features":{"serialize":["serde","serde_derive"]},"yanked":false,"links":null}
