@@ -1,0 +1,1 @@
+{"name":"qapi-codegen","vers":"0.0.1","deps":[{"name":"qapi-parser","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92e18d6a1421c12254f1eb8f1c8ae28f5299655b055138cd944504db4176b7cb","features":{},"yanked":false,"links":null}
