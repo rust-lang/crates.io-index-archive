@@ -2,3 +2,4 @@
 {"name":"afi","vers":"0.2.0","deps":[{"name":"ami","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc7afa9c70350656a3516a6ee37df4cd7a8946f3bec2eb54aa5288517f9b77e5","features":{},"yanked":false}
 {"name":"afi","vers":"0.3.0","deps":[{"name":"ami","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e4c07f2f16cbc2979113a56b3ef9dcbeae962ae0e8227f94e95301b5a64a3d1","features":{},"yanked":false}
 {"name":"afi","vers":"0.3.1","deps":[],"cksum":"d1198202cda4915831b047e98232fdad02e7a66842f1ebd0bbd8fc5b19698308","features":{},"yanked":false}
+{"name":"afi","vers":"0.3.2","deps":[],"cksum":"8ba9397dbb156e32ee55795cfbcbbf1a0f9f159152fcdfbabac771b2677b0015","features":{},"yanked":false,"links":null}
