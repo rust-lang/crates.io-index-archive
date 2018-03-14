@@ -1,1 +1,2 @@
 {"name":"samp-sdk","vers":"0.8.0","deps":[{"name":"lazy_static","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3dbc2eced28c1047bb348dc57699c6fbaae1441ff0fd64b67135e9b29a230a7","features":{},"yanked":false,"links":null}
+{"name":"samp-sdk","vers":"0.8.1","deps":[{"name":"lazy_static","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"215b25c59c8e34ca7e9469745bdf606d3b02d740ca96d8aa2ad8989cba9a19d9","features":{},"yanked":false,"links":null}
