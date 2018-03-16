@@ -1,1 +1,2 @@
 {"name":"histogram-sampler","vers":"0.1.0","deps":[{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6579c64e23559c1873a172549f2d7ae08a581ecd0750ddcfec2250ae1cce6376","features":{},"yanked":false,"links":null}
+{"name":"histogram-sampler","vers":"0.1.1","deps":[{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c479d2125e22affd7160ec54292ee1950b500411e826dcceff74a63c80ca348f","features":{},"yanked":false,"links":null}
