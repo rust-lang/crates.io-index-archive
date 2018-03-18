@@ -12,3 +12,4 @@
 {"name":"num-traits","vers":"0.2.0","deps":[],"cksum":"e7de20f146db9d920c45ee8ed8f71681fd9ade71909b48c3acbd766aa504cf10","features":{"std":[],"default":["std"]},"yanked":false}
 {"name":"num-traits","vers":"0.1.43","deps":[{"name":"num-traits","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92e5113e9fd4cc14ded8e499429f396a20f98c772a47cc8622a736e1ec843c31","features":{},"yanked":false}
 {"name":"num-traits","vers":"0.2.1","deps":[],"cksum":"0b3c2bd9b9d21e48e956b763c9f37134dc62d9e95da6edb3f672cacb6caf3cd3","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"num-traits","vers":"0.2.2","deps":[],"cksum":"dee092fcdf725aee04dd7da1d21debff559237d49ef1cb3e69bcb8ece44c7364","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
