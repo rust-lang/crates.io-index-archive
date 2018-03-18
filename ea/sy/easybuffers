@@ -1,1 +1,2 @@
 {"name":"easybuffers","vers":"1.1.1","deps":[{"name":"time","req":"^0.1.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b703d46990998fa85112b86385979df6c6b85aa184967ad35505c1405e6ce7f4","features":{},"yanked":false}
+{"name":"easybuffers","vers":"2.0.0","deps":[{"name":"time","req":"^0.1.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b314d92b69e4ed076ad2b47d87d9ab1327b3a71868c2c07143b4b531866ba0a","features":{},"yanked":false,"links":null}
