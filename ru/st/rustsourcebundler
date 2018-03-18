@@ -1,1 +1,2 @@
 {"name":"rustsourcebundler","vers":"0.1.1","deps":[{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"97c746483ab2f11060ba420f41e5b1f08dcba9940a78abfd4e1be1ec80c8ec18","features":{},"yanked":false}
+{"name":"rustsourcebundler","vers":"0.2.0","deps":[{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49281c20502be8069501fd4e20b5d8e5d1fdb1863f3462efdb1fd72243a259f4","features":{},"yanked":false,"links":null}
