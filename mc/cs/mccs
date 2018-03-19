@@ -1,0 +1,1 @@
+{"name":"mccs","vers":"0.0.1","deps":[{"name":"void","req":"^1.0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a7361c0e2fc5686148682e4560cb80617f8969fecf569ae0d1dc5d9d2bbfcaf","features":{"default":["void"]},"yanked":false,"links":null}
