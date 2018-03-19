@@ -1,0 +1,1 @@
+{"name":"falcon-z3","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e5b58186764a7a3011c8d91b1321e1ff0e3d1abe9be636786e52d8b49ca00880","features":{},"yanked":false,"links":null}
