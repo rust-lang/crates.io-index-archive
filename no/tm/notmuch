@@ -1,0 +1,1 @@
+{"name":"notmuch","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df591c5dd4daa433c38d204bb59b90fe7126a66e069ff817068deb5b87b16f60","features":{},"yanked":false,"links":null}
