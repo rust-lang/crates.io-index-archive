@@ -1,0 +1,1 @@
+{"name":"kalman_filter","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.14.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d672fad9e818c5aafdf8f37e84e6ea0d4c6d208e41ad42bca5e92a5b1992e5c1","features":{},"yanked":false,"links":null}
