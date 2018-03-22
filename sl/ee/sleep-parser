@@ -1,0 +1,1 @@
+{"name":"sleep-parser","vers":"0.0.1","deps":[{"name":"nom","req":"^3.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a813ae2096e93b3772249131f9833fc0867be405f367deceb58025c099ab942","features":{},"yanked":false,"links":null}
