@@ -8,3 +8,4 @@
 {"name":"itoa","vers":"0.3.3","deps":[],"cksum":"ac17257442c2ed77dbc9fd555cf83c58b0c7f7d0e8f2ae08c0ac05c72842e1f6","features":{},"yanked":false}
 {"name":"itoa","vers":"0.3.4","deps":[],"cksum":"8324a32baf01e2ae060e9de58ed0bc2320c9a2833491ee36cd3b4c414de4db8c","features":{"i128":[]},"yanked":false}
 {"name":"itoa","vers":"0.4.0","deps":[],"cksum":"92a9df60778f789c37f76778ae8d0a2471c41baa8b059d98a5873c978f549587","features":{"i128":[],"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"itoa","vers":"0.4.1","deps":[],"cksum":"c069bbec61e1ca5a596166e55dfe4773ff745c3d16b700013bcaff9a6df2c682","features":{"i128":[],"default":["std"],"std":[]},"yanked":false,"links":null}
