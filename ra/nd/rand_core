@@ -1,1 +1,1 @@
-{"name":"rand_core","vers":"0.0.1","deps":[],"cksum":"5fc7748fc351bddb5ee2a10f0cbca9c929c6ff5991e927cddd4d60deb0c84d72","features":{"default":["std"],"std":[],"nightly":["i128_support"],"i128_support":[]},"yanked":false}
+{"name":"rand_core","vers":"0.0.1","deps":[],"cksum":"5fc7748fc351bddb5ee2a10f0cbca9c929c6ff5991e927cddd4d60deb0c84d72","features":{"i128_support":[],"nightly":["i128_support"],"std":[],"default":["std"]},"yanked":true,"links":null}
