@@ -7,7 +7,7 @@
 {"name":"rustlex","vers":"0.2.1","deps":[],"cksum":"4dd7e2a5ad7b4d0d68d0872c40c4c80e4c5496153c1b6380b03f569601b5754b","features":{},"yanked":true,"links":null}
 {"name":"rustlex","vers":"0.2.2","deps":[],"cksum":"798066bfc32d94814feac3d70f146153c04a4e1a772e0dc17f1b001febe42287","features":{},"yanked":true,"links":null}
 {"name":"rustlex","vers":"0.2.3","deps":[],"cksum":"a2b1c1003737136ce6152a7d5a004b495f55115b4775251961d93d01031c85bf","features":{},"yanked":true,"links":null}
-{"name":"rustlex","vers":"0.2.4","deps":[],"cksum":"a46ffb95c179d1a8423962332805e40b31e401e612f1f4004b57866e76b49790","features":{},"yanked":false}
+{"name":"rustlex","vers":"0.2.4","deps":[],"cksum":"a46ffb95c179d1a8423962332805e40b31e401e612f1f4004b57866e76b49790","features":{},"yanked":true,"links":null}
 {"name":"rustlex","vers":"0.2.5","deps":[],"cksum":"95137f9746782b8d3163cf8c55ad8c23d0b3617e987cc67b129b0068db6e4ae3","features":{},"yanked":false}
 {"name":"rustlex","vers":"0.2.6","deps":[],"cksum":"46161ce7a3d2dc40285bbfd81769b9181be994c011c7fe7972167cec779e5a37","features":{},"yanked":false}
 {"name":"rustlex","vers":"0.3.0","deps":[{"name":"rustlex_codegen","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44ef8295b62ad4758e14f7d7391c608dedc0c48b5f85db0992af6d708eea63a4","features":{},"yanked":false}
