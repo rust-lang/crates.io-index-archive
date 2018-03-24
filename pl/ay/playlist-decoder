@@ -1,1 +1,2 @@
 {"name":"playlist-decoder","vers":"0.1.0","deps":[{"name":"quick-xml","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d2cc28d3fbb784e8c74dbe8a2e49508d507a736825ef7afce67772f6e2cdc5e","features":{},"yanked":false,"links":null}
+{"name":"playlist-decoder","vers":"0.2.0","deps":[{"name":"quick-xml","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"245138bf947ce1cf72c33c1ea4182f584c30fa358cbb19e6868c271253e93880","features":{},"yanked":false,"links":null}
