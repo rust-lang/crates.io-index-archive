@@ -9,3 +9,4 @@
 {"name":"measurements","vers":"0.9.0","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3afec2e82ce3c595398237310f11ad9fd647379ead091ce4667bb3acec313532","features":{},"yanked":false,"links":null}
 {"name":"measurements","vers":"0.10.0","deps":[],"cksum":"f84005e055340b3daedac44cc87646e5bea6aae98cc48448c17c47daca2b9ab6","features":{"no_std":[]},"yanked":false,"links":null}
 {"name":"measurements","vers":"0.10.1","deps":[],"cksum":"3f3d69e31a9267c28aff870231ff8182a6791a8d688fedaad157074a601fcd7e","features":{"no_std":[]},"yanked":false,"links":null}
+{"name":"measurements","vers":"0.10.2","deps":[],"cksum":"6df72fb577f0a0a8111b860526ab5144f166f270403fee3af5a9f84fbdd4debb","features":{"no_std":[]},"yanked":false,"links":null}
