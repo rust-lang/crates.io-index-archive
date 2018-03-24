@@ -1,0 +1,1 @@
+{"name":"fuzztest","vers":"0.1.0","deps":[{"name":"honggfuzz","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ae4d5858e0c2ea74c828f44006928b896472bf8899dfeaa3f51e5c90625c2537","features":{},"yanked":false,"links":null}
