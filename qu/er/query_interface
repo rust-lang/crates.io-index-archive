@@ -5,3 +5,4 @@
 {"name":"query_interface","vers":"0.3.2","deps":[],"cksum":"b0d7e0bfbd56f615f4b682598c4d80a72e4d024e8a482f2208f258738eea6020","features":{},"yanked":false}
 {"name":"query_interface","vers":"0.3.3","deps":[],"cksum":"ef70b5132815d88979980d82ca00bb84850ed2eb35b26065fc31f426aee8258d","features":{},"yanked":false}
 {"name":"query_interface","vers":"0.3.4","deps":[],"cksum":"77e7519d9781d120684de5bfdf31ec4e2810988b8dcafd3f08eb966c8ee078f1","features":{},"yanked":false,"links":null}
+{"name":"query_interface","vers":"0.3.5","deps":[{"name":"lazy_static","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78c0f0046284eebb86b68f93f9677d499034f88e15ca01021ceea32c4d3c3693","features":{"dynamic":["lazy_static"]},"yanked":false,"links":null}
