@@ -7,3 +7,4 @@
 {"name":"managed","vers":"0.4.0","deps":[],"cksum":"b5d48e8c30a4363e2981fe4db20527f6ab0f32a243bbc75379dea5a64f60dae4","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
 {"name":"managed","vers":"0.5.0","deps":[],"cksum":"786bd3519bdfb0e1a57146a74b7584555dd6c4f1b6e1137c70e177d60dde8186","features":{"default":["std"],"map":[],"std":[],"alloc":[]},"yanked":false}
 {"name":"managed","vers":"0.5.1","deps":[],"cksum":"43e2737ecabe4ae36a68061398bf27d2bfd0763f4c3c837a398478459494c4b7","features":{"std":[],"map":[],"alloc":[],"default":["std"]},"yanked":false}
+{"name":"managed","vers":"0.6.0","deps":[],"cksum":"cc4dce4670430c6e519ee0b5d43ad16adaa935fa0a83d2af0cabbb06e154f03f","features":{"alloc":[],"std":[],"default":["std"],"map":[]},"yanked":false,"links":null}
