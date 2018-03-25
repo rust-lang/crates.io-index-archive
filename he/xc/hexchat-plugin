@@ -1,0 +1,1 @@
+{"name":"hexchat-plugin","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90d32ed5b1e7dd5eaa79d539851a36bfea35ba2961582fc01f119d824b025837","features":{},"yanked":false,"links":null}
