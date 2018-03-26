@@ -1,3 +1,4 @@
 {"name":"timeago","vers":"0.0.1","deps":[],"cksum":"8ce51dd8685c2371b76b8bad21f6d422de317c5f2007b63bcd46258795270a91","features":{},"yanked":false}
 {"name":"timeago","vers":"0.0.2","deps":[],"cksum":"cbaac8bad0b5ce0c4b100fad45474ee142a70bd562cdf5fe0d671c79b54fe72f","features":{},"yanked":false}
 {"name":"timeago","vers":"0.1.0","deps":[{"name":"isolang","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5fa52d4101ec897ea20dc08f523705280710780e9854429e05c435ca6bd36fb","features":{"translations":[],"default":["translations"]},"yanked":false,"links":null}
+{"name":"timeago","vers":"0.1.1","deps":[{"name":"isolang","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5add6a85ffcb44e4704fdc078abe43f74a368de5611bec9491c53e3e8d1c527","features":{"default":["translations"],"translations":[]},"yanked":false,"links":null}
