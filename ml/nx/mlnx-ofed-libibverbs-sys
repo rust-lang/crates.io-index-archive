@@ -1,0 +1,1 @@
+{"name":"mlnx-ofed-libibverbs-sys","vers":"0.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"cd2ecdbc97c29794b9e6a501774106012280e99a577802efcc5e916fd2780165","features":{},"yanked":false,"links":null}
