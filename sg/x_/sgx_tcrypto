@@ -1,0 +1,1 @@
+{"name":"sgx_tcrypto","vers":"0.9.8","deps":[{"name":"sgx_types","req":"^0.9.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7fb33430cbffd434d7db97036ce781fb2f350e9646af7ba043d6d0f9fd533d85","features":{"default":[]},"yanked":false,"links":null}
