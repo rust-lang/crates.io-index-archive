@@ -1,0 +1,1 @@
+{"name":"sgx_tkey_exchange","vers":"0.9.8","deps":[{"name":"sgx_types","req":"^0.9.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1b8c40070e2fa43d6c4707a7cae986e631cecce3b3debfb18669208ff305559","features":{"default":[]},"yanked":false,"links":null}
