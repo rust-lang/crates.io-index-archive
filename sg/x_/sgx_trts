@@ -1,0 +1,1 @@
+{"name":"sgx_trts","vers":"0.9.8","deps":[{"name":"sgx_types","req":"^0.9.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1293a490ceb58471411c704f0163b716970bf53133ce9fdf2c163f46930603ea","features":{"default":[]},"yanked":false,"links":null}
