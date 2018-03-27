@@ -1,0 +1,1 @@
+{"name":"sgx_tservice","vers":"0.9.8","deps":[{"name":"sgx_types","req":"^0.9.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cd43b36e54a8ff7e718a0d28180a8591b904658d5e35fd464b3d58ca2062c41","features":{"default":[]},"yanked":false,"links":null}
