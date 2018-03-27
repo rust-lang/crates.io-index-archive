@@ -1,0 +1,1 @@
+{"name":"sgx_tunittest","vers":"0.9.8","deps":[{"name":"sgx_tstd","req":"^0.9.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56a915f1bc89354319c58c4afcdd5dbd3cb162e61bc46ab387a62efe28661239","features":{"default":[]},"yanked":false,"links":null}
