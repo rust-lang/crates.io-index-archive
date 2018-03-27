@@ -7,3 +7,4 @@
 {"name":"rhai","vers":"0.7.0","deps":[],"cksum":"2f6949024c05007ce4da880eeec3b7de6186a900ad9c811cfbbc2c038d2cc4d4","features":{},"yanked":false}
 {"name":"rhai","vers":"0.7.1","deps":[],"cksum":"7d8dd1945cb3f6c777074814bb2856a8fce36af4d6aa6f479c6a3029869e865b","features":{},"yanked":false}
 {"name":"rhai","vers":"0.8.1","deps":[],"cksum":"3357626cf650e423bf154cfb270896943ca81ce85ad9b63ca2b3ec771539f56e","features":{},"yanked":false}
+{"name":"rhai","vers":"0.8.2","deps":[],"cksum":"5335b2718fc8c2fa74633af180dc7aaf44a724a43185d34bbd6b0c4597defbe6","features":{"debug_msgs":[]},"yanked":false,"links":null}
