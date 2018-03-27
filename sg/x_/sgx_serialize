@@ -1,0 +1,1 @@
+{"name":"sgx_serialize","vers":"0.9.8","deps":[{"name":"sgx_tstd","req":"^0.9.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9627b3c21784fe1c3d5cd2e169b88d48f0eadf4d471a8fab88ab7a020e7ac204","features":{"default":[]},"yanked":false,"links":null}
