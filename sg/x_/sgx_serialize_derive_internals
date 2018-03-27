@@ -1,0 +1,1 @@
+{"name":"sgx_serialize_derive_internals","vers":"0.9.8","deps":[{"name":"syn","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3cddc4d1228cf5055b564fc899e75a79cea4a9de268e27d71f67f9b0546216a2","features":{},"yanked":false,"links":null}
