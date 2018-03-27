@@ -1,0 +1,1 @@
+{"name":"sgx_alloc","vers":"0.9.8","deps":[{"name":"sgx_trts","req":"^0.9.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f8528f6c72e037e9a300960cccf2e35935b22e358b9bab033fb14e16c579dcd","features":{"default":[]},"yanked":false,"links":null}
