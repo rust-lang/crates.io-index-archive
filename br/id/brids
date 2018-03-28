@@ -1,0 +1,1 @@
+{"name":"brids","vers":"0.1.0","deps":[{"name":"rand","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36f2c791d7a9a0a9d6af047a137a8470b55182b92b4a714a2ef37f343440f630","features":{"default":["random"],"random":["rand"]},"yanked":false,"links":null}
