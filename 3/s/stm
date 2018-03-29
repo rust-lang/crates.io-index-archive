@@ -7,3 +7,4 @@
 {"name":"stm","vers":"0.2.3","deps":[],"cksum":"f37bcf1248262a8ed48c413789257757901d4d0c380268872c2de625a77a5fa4","features":{"default":[]},"yanked":false}
 {"name":"stm","vers":"0.2.4","deps":[],"cksum":"8da70813df06f22855a872ce429dd11a27a20badb27bff92f85df1b771c867fb","features":{"default":[]},"yanked":false}
 {"name":"stm","vers":"0.3.0","deps":[],"cksum":"aebf0c16c28a48ee218a62ef3abb7dfe905e51aad62d10bc6ee9f7a508fddba8","features":{"default":[]},"yanked":false}
+{"name":"stm","vers":"0.4.0","deps":[{"name":"stm-core","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e773535c75555b0543230699a98edd4d77cbeb58cf0b81b148472e578df2002b","features":{"default":[]},"yanked":false,"links":null}
