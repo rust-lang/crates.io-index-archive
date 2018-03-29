@@ -1,0 +1,1 @@
+{"name":"sparse-bitfield","vers":"0.1.0","deps":[{"name":"memory-pager","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"065ab26db5935d2f86a8223f4602fcf0b1801c19fd56aa1da0552f94760b9acf","features":{},"yanked":false,"links":null}
