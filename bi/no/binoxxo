@@ -1,1 +1,2 @@
 {"name":"binoxxo","vers":"0.1.0","deps":[{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba1df24664b940e6b5f4760642cf314e5d952eddc768f9aa50b84c54dfbc83e4","features":{},"yanked":false,"links":null}
+{"name":"binoxxo","vers":"0.1.1","deps":[{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c233c64d8a60ae8f1e04e92605aa8fd53e614995698ff8b320c3d571f6ad92c","features":{},"yanked":false,"links":null}
