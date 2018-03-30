@@ -33,3 +33,4 @@
 {"name":"genco","vers":"0.3.12","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_derive","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e4ad0330f503cc85969762e05effa015b32f4bf568772442df8ac10516ec5ac","features":{},"yanked":false,"links":null}
 {"name":"genco","vers":"0.3.13","deps":[],"cksum":"5c24c0985ec6457f36f65bbebec21bc1fe30ac5f53d1cd4c748662ae1f831672","features":{},"yanked":false,"links":null}
 {"name":"genco","vers":"0.3.14","deps":[],"cksum":"cda975c6211e62bbed5f3b513c918d4060db703660ed4d88569a8a65d05fa9e7","features":{},"yanked":false,"links":null}
+{"name":"genco","vers":"0.3.15","deps":[],"cksum":"d5e6c9014dcd64ea24f2b65a98d8e0a146a033cbd661c70f79d38fefa209fe75","features":{},"yanked":false,"links":null}
