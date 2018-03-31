@@ -1,0 +1,1 @@
+{"name":"olm-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5b866dc3cae32a74e1786d4796732fe4a12e25faf31596a5bb467549285db47c","features":{},"yanked":false,"links":null}
