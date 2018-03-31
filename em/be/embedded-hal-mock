@@ -1,0 +1,1 @@
+{"name":"embedded-hal-mock","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"290ad78881a4e3c69133eec4c82b07f45244e0538f4286500c7882b0d27a6cf5","features":{},"yanked":false,"links":null}
