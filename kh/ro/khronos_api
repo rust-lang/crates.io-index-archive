@@ -11,3 +11,4 @@
 {"name":"khronos_api","vers":"1.1.0","deps":[],"cksum":"e38c1bc4606990dddf56c97c6287edebba1e8b8951d2598fb7cc62cc567f0c6d","features":{},"yanked":true}
 {"name":"khronos_api","vers":"2.0.0","deps":[],"cksum":"d867c645cfeb8a7fec503731679eac03ac11b7105aa5a71cb8f8ee5271636add","features":{},"yanked":false}
 {"name":"khronos_api","vers":"2.1.0","deps":[],"cksum":"d9ef23fcc4059260c5936f638c9805ebfc87cb172fa6661d130cba7f97d58f55","features":{},"yanked":false}
+{"name":"khronos_api","vers":"2.2.0","deps":[],"cksum":"037ab472c33f67b5fbd3e9163a2645319e5356fcd355efa6d4eb7fff4bbcb554","features":{},"yanked":false,"links":null}
