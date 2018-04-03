@@ -1,1 +1,2 @@
 {"name":"protobuf-parser","vers":"0.1.0","deps":[{"name":"nom","req":"^3.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9bf671e10cb999f55e6a893e26f979141768fa6f7364005b9832a31ea1de9f0","features":{},"yanked":false,"links":null}
+{"name":"protobuf-parser","vers":"0.1.1","deps":[{"name":"nom","req":"^3.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ff75b24ab7fef2fb10cc6eb033a9adbedcdf27e6e892820bd0107075d3aa6ed","features":{},"yanked":false,"links":null}
