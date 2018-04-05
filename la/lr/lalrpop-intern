@@ -20,3 +20,4 @@
 {"name":"lalrpop-intern","vers":"0.13.1","deps":[],"cksum":"05410c1e4aff497bdea1ccb274ac35536fda0ee858600df36966502d4f7acbe3","features":{},"yanked":false}
 {"name":"lalrpop-intern","vers":"0.14.0","deps":[],"cksum":"8af84a2fa97bb57e285c56b8303645cefa17c92ad115c4d711b3b4ba5bc5c197","features":{},"yanked":false}
 {"name":"lalrpop-intern","vers":"0.15.0","deps":[],"cksum":"a2f08873d86d6444c83ae6e70c085839a4464633923e921b03b222a95ad3950c","features":{},"yanked":false,"links":null}
+{"name":"lalrpop-intern","vers":"0.15.1","deps":[],"cksum":"cc4fd87be4a815fd373e02773983940f0d75fb26fde8c098e9e45f7af03154c0","features":{},"yanked":false,"links":null}
