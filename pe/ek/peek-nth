@@ -1,0 +1,1 @@
+{"name":"peek-nth","vers":"0.1.0","deps":[{"name":"smallvec","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"245bb740258904199c2d7ccd9a43d639e2c77f486cc80340c383376db2d1d8b9","features":{},"yanked":false,"links":null}
