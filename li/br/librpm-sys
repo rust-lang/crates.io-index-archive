@@ -1,0 +1,1 @@
+{"name":"librpm-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.35","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"67a2d84ce5c5a105ce929b8c188a097f42cfcdee19ede013618f092aae49281b","features":{},"yanked":false,"links":null}
