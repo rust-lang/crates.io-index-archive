@@ -1,0 +1,1 @@
+{"name":"rpmlib","vers":"0.0.1","deps":[{"name":"rpmlib-sys","req":"^0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d565dbd10ae48034f6705cf6e6613bea54d516247ce3739930f341a8746682c8","features":{"default":["rpmlib-sys"]},"yanked":false,"links":null}
