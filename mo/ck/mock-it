@@ -1,1 +1,2 @@
 {"name":"mock-it","vers":"0.1.0","deps":[{"name":"table-test","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fd9a221223ed5fea2736ee8352c6ef10a00e330f011bf24b93b0453c0bcd2552","features":{},"yanked":false,"links":null}
+{"name":"mock-it","vers":"0.2.0","deps":[{"name":"table-test","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f3861990154930f4850a67a5ebb31b38d9bb87255a84897958952ea12cfc5a47","features":{},"yanked":false,"links":null}
