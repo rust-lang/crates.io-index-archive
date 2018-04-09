@@ -1,0 +1,1 @@
+{"name":"canonical-path","vers":"0.0.0","deps":[{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ca6ceab4f0256ca91c936971a9fa700a2892f8fc022db7b05ec0e6a3a9daef28","features":{},"yanked":false,"links":null}
