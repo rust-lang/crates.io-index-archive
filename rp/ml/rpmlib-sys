@@ -1,1 +1,2 @@
 {"name":"rpmlib-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.35","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"744221e7d812a706deb807a6111cf7b7c443b15fca55d633901323683ebcbc92","features":{},"yanked":false,"links":null}
+{"name":"rpmlib-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.35","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b7e57aa64d015214ed6374e467bc682fa5f3b3e3e28f136dd7ace6ccc9480e56","features":{},"yanked":false,"links":null}
