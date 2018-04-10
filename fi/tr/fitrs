@@ -1,1 +1,2 @@
 {"name":"fitrs","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a93d66136ebb97e95e08d6285beb610ca694242d7ee475b95a1f1a1cb95f9e4","features":{},"yanked":false,"links":null}
+{"name":"fitrs","vers":"0.1.1","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f41d26324e8d4dcdcfe4b8d76c8a1cbfdb3c263f3547ea85950bb0dd91c6e82","features":{},"yanked":false,"links":null}
