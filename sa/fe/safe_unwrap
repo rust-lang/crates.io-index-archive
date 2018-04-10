@@ -4,3 +4,4 @@
 {"name":"safe_unwrap","vers":"0.3.0","deps":[],"cksum":"dcdd02ad3535c2fe782a8759fee384c0f8bdfc33f08228e72f9dcb4eb5df9055","features":{"default":[],"std":[]},"yanked":false,"links":null}
 {"name":"safe_unwrap","vers":"0.4.0","deps":[],"cksum":"9b0988d45cf9c9ebd5becbef245e356b1b42912c27826e6438ca77f190c0b883","features":{"default":[],"std":[]},"yanked":true,"links":null}
 {"name":"safe_unwrap","vers":"0.3.1","deps":[],"cksum":"e169aa3cb9dc808ff822a4fa1297f9def4cc24f1bb8c1b10f3a463358f43f98d","features":{"std":[],"default":[]},"yanked":false,"links":null}
+{"name":"safe_unwrap","vers":"0.4.1","deps":[],"cksum":"dd465bfa476b01ca5b4beba09e7b16d70fda1771648958e64142fa27cf64cccb","features":{"default":[],"std":[]},"yanked":false,"links":null}
