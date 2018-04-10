@@ -11,3 +11,4 @@
 {"name":"sta","vers":"0.1.11","deps":[],"cksum":"dab05eef13a4386327a350c5dde96235565ec02cc9247e6b3acc59427ae6f749","features":{},"yanked":false,"links":null}
 {"name":"sta","vers":"0.1.12","deps":[],"cksum":"13a2a26f001f9f86ab003888b09cba68d50f76b8ac43bb6f1e417caaf1b5aa19","features":{},"yanked":false,"links":null}
 {"name":"sta","vers":"0.1.13","deps":[],"cksum":"77cf6524714ed5f573764e5167b186a5136e2729e34c8cfdb1b3e3483b40e4e7","features":{},"yanked":false,"links":null}
+{"name":"sta","vers":"0.1.14","deps":[{"name":"serde","req":"^1.0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_derive","req":"^1.0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbf3cd57cba77d4f88764476241b88e8b1d0c946b65a873a63c347dc5e94d187","features":{},"yanked":false,"links":null}
