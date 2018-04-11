@@ -1,2 +1,3 @@
 {"name":"tilecover","vers":"0.1.0","deps":[],"cksum":"952080c7f038935d9b22b79e3ae568e3de2fbe9fd5cceb17eda4098c83764db0","features":{},"yanked":false,"links":null}
 {"name":"tilecover","vers":"0.1.1","deps":[{"name":"geo","req":"^0.7.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9af62f6409c72949eb02d5fff049045368c8176d90b28f4ed78590120ed9fd79","features":{},"yanked":false,"links":null}
+{"name":"tilecover","vers":"0.2.0","deps":[{"name":"geo","req":"^0.7.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"237c3ebb732678355e7632a06e6f2d8e9b6cfa199e6a974ec8db70014881e6b1","features":{},"yanked":false,"links":null}
