@@ -1,0 +1,1 @@
+{"name":"cbor-no-std","vers":"0.1.0","deps":[],"cksum":"2b5c73000004748b2964bbf46bef5299afdb3f4f8c2b15cc8c5894bfbf9925fd","features":{"no_std":[],"default":["no_std"]},"yanked":false,"links":null}
