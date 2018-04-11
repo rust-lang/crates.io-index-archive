@@ -1,0 +1,1 @@
+{"name":"ellipticoin","vers":"0.1.0","deps":[{"name":"wasm-rpc","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1f90ee4cf52060ba47c4cd1a48b99707b2319ecf058d10430753c66d24f0060","features":{},"yanked":false,"links":null}
