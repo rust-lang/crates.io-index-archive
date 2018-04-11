@@ -1,0 +1,1 @@
+{"name":"wasm-rpc","vers":"0.1.0","deps":[{"name":"cbor-no-std","req":"^0.1.0","features":["no_std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82322344f2df35aa0b5d7b544c815399be62b5cba12b539071dcab483e18efef","features":{},"yanked":false,"links":null}
