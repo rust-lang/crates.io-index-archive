@@ -1,1 +1,2 @@
 {"name":"allocator_api","vers":"0.0.1","deps":[],"cksum":"12a94d1e619e73e250814e90345f84a090c734a56d44a1b562e23ed5e04d9e67","features":{},"yanked":false,"links":null}
+{"name":"allocator_api","vers":"0.1.0","deps":[{"name":"rustc_version","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"96c9212eb3115b17e8940b5338fac96774d55afe68647c705a80add34cfed0a6","features":{"i128":[],"fused":[]},"yanked":false,"links":null}
