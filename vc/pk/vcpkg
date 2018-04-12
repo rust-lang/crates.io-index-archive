@@ -12,3 +12,4 @@
 {"name":"vcpkg","vers":"0.2.0","deps":[],"cksum":"df74ff70e2ced9607f67e06640f89a6a6374b459b51bdef290a5cfa657fe4fcc","features":{},"yanked":false}
 {"name":"vcpkg","vers":"0.2.1","deps":[],"cksum":"4ec083fe2a55f0c710db951078348f978d4132a702d45d7e4702ed9221f5acad","features":{},"yanked":false}
 {"name":"vcpkg","vers":"0.2.2","deps":[],"cksum":"9e0a7d8bed3178a8fb112199d466eeca9ed09a14ba8ad67718179b4fd5487d0b","features":{},"yanked":false}
+{"name":"vcpkg","vers":"0.2.3","deps":[],"cksum":"7ed0f6789c8a85ca41bbc1c9d175422116a9869bd1cf31bb08e1493ecce60380","features":{},"yanked":false,"links":null}
