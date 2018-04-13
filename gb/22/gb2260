@@ -1,1 +1,2 @@
 {"name":"gb2260","vers":"0.0.1","deps":[{"name":"phf","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41800da3836b18eb581c8452c1da2ca2fa42bcb30c229005bad9399d3d4989f2","features":{},"yanked":false,"links":null}
+{"name":"gb2260","vers":"0.0.2","deps":[{"name":"phf","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72bb13067959802201de42bcb70bdafa08aa657109e84dbae9fd7e618c5fa81c","features":{},"yanked":false,"links":null}
