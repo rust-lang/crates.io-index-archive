@@ -3,3 +3,4 @@
 {"name":"volatile","vers":"0.2.1","deps":[],"cksum":"a7ce286110f2585da4cb753affdc8b6addbab52d0e104442649237451c53cf92","features":{},"yanked":false}
 {"name":"volatile","vers":"0.2.2","deps":[],"cksum":"1ad41258d7814f441cdab10ceb7faa58a81db5a99098a8c46bd876f8a6010f9c","features":{},"yanked":false}
 {"name":"volatile","vers":"0.2.3","deps":[],"cksum":"6633c5250f16598f92b48272265ce9f8179447f702f0ba0cb640c5be6537b0c0","features":{"const_fn":[]},"yanked":false}
+{"name":"volatile","vers":"0.2.4","deps":[],"cksum":"54d4343a2df2d65144a874f95950754ee7b7e8594f6027aae8c7d0f4858a3fe8","features":{"const_fn":[]},"yanked":false,"links":null}
