@@ -1,1 +1,2 @@
 {"name":"cargo-ndk","vers":"0.1.0","deps":[{"name":"clap","req":"^2.31.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd8c30091c91072d5077a0857465426203af45801109032b2ede5343298dd360","features":{},"yanked":false,"links":null}
+{"name":"cargo-ndk","vers":"0.1.1","deps":[{"name":"clap","req":"^2.31.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"672e23fa5d0e3c061b39ff9d560e992af2fcacfd26b7379aa77ed67b4d777347","features":{},"yanked":false,"links":null}
