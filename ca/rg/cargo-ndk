@@ -1,0 +1,1 @@
+{"name":"cargo-ndk","vers":"0.1.0","deps":[{"name":"clap","req":"^2.31.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd8c30091c91072d5077a0857465426203af45801109032b2ede5343298dd360","features":{},"yanked":false,"links":null}
