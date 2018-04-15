@@ -1,0 +1,1 @@
+{"name":"uuidtoa","vers":"0.1.0","deps":[{"name":"uuid","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e8793ae1e894aaf20dc0cb19b917efe67e3636ac3028526a257ce97ba973015","features":{"default":[],"bench":[]},"yanked":false,"links":null}
