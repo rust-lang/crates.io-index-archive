@@ -1,0 +1,1 @@
+{"name":"mmseg","vers":"0.0.1","deps":[{"name":"smallvec","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f94aec8525ccf08dfdb53719672c745ed2282a5dbdd6f4bf5ffe302e5b9f83d","features":{"default":["embed-dict"],"embed-dict":[]},"yanked":false,"links":null}
