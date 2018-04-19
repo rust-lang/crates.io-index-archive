@@ -1,0 +1,1 @@
+{"name":"error-chain-mini","vers":"0.0.1","deps":[{"name":"error-chain-mini-derive","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bcbf776d38affb260a85e3ceb09a9d803a349d3a636aa6dc77e1d788169831f9","features":{},"yanked":false,"links":null}
