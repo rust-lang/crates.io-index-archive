@@ -1,0 +1,1 @@
+{"name":"hyper-thread-random","vers":"0.4.0","deps":[{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":"cfg(not(all(target_feature = \"rdrnd\", any(target_arch = \"x86\", target_arch = \"x86_64\"))))","kind":"normal"}],"cksum":"cb1210dd9d38c2e1524f3231e00ec94ffca1c977176cef9887864904013944a9","features":{},"yanked":false,"links":null}
