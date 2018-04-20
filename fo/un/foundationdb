@@ -1,0 +1,1 @@
+{"name":"foundationdb","vers":"0.0.0","deps":[{"name":"foundationdb-sys","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4e5a79fd3db65fc2930233593375b46527e3e639f7152a07bf6e3c2b93e2e22","features":{},"yanked":false,"links":null}
