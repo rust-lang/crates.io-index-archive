@@ -1,1 +1,2 @@
 {"name":"foundationdb-sys","vers":"0.0.0","deps":[{"name":"bindgen","req":"^0.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ece20353e88ee99d15e78bba4835c79b346a61b51ef7ae3e825260f8f04832a8","features":{},"yanked":false,"links":null}
+{"name":"foundationdb-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"318bf3eb01cc2a46738363cbfb96a930bb0af6c54c191bad74ec853605811c53","features":{},"yanked":false,"links":null}
