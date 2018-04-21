@@ -1,1 +1,2 @@
 {"name":"flags","vers":"0.0.0","deps":[],"cksum":"11386f1413e2b9d5b2f285704803211e74c25d7eb61fb7d66c31a7ecb0ddcd53","features":{},"yanked":false,"links":null}
+{"name":"flags","vers":"0.1.0","deps":[],"cksum":"e6189e9f32916891da651a108a5ef415ec6e87ac82b2b8b5f3c19e3d98b87faa","features":{"example_generated":[],"default":["example_generated"]},"yanked":false,"links":null}
