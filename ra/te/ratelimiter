@@ -1,1 +1,2 @@
 {"name":"ratelimiter","vers":"0.1.0","deps":[{"name":"futures","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63bc72822e24a4e2c55cdd3ef506262588b0aa8a0b5aa389abbaec34b57bdf8d","features":{},"yanked":false,"links":null}
+{"name":"ratelimiter","vers":"0.1.1","deps":[{"name":"futures","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94d77c46e96adf8293984c9506c969246869e51aef8ca65169c85f53d00dc316","features":{},"yanked":false,"links":null}
