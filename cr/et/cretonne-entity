@@ -2,3 +2,4 @@
 {"name":"cretonne-entity","vers":"0.4.4","deps":[],"cksum":"cade3b6006004e8e5104125de1a1b3d84b3f706104ea78606d4a300b0fce1026","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"cretonne-entity","vers":"0.5.0","deps":[],"cksum":"a5a97ded0c554d7fe79c0ecf850d1abdeac737fd3d28d0b7e9df2f3cfd9b12f1","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"cretonne-entity","vers":"0.5.1","deps":[],"cksum":"9c20b39aaedca34a8fe3a8ed4414f65cf9a9f34909cdc17d04de395ad4428700","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"cretonne-entity","vers":"0.6.0","deps":[],"cksum":"b50389fee809c773218213be09ad7c4994d62b519e21c42da882478eae733de3","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
