@@ -1,0 +1,1 @@
+{"name":"rusty-tcl-sys","vers":"1.0.0","deps":[{"name":"bindgen","req":"^0.26.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8100f9810f5088f2b5560bac740b242e57677f8bab4a4fba7369c168823c629d","features":{},"yanked":false,"links":"tcl8.5"}
