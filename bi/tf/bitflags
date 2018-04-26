@@ -19,3 +19,4 @@
 {"name":"bitflags","vers":"0.9.1","deps":[],"cksum":"4efd02e230a02e18f92fc2735f44597385ed02ad8f831e7c1c1156ee5e1ab3a5","features":{"example_generated":[],"default":["example_generated"],"unstable_testing":[]},"yanked":false}
 {"name":"bitflags","vers":"1.0.0","deps":[],"cksum":"f5cde24d1b2e2216a726368b2363a273739c91f4e3eb4e0dd12d672d396ad989","features":{"unstable_testing":[],"example_generated":[],"default":["example_generated"]},"yanked":false}
 {"name":"bitflags","vers":"1.0.1","deps":[],"cksum":"b3c30d3802dfb7281680d6285f2ccdaa8c2d8fee41f93805dba5c4cf50dc23cf","features":{"default":["example_generated"],"example_generated":[]},"yanked":false}
+{"name":"bitflags","vers":"1.0.2","deps":[],"cksum":"1b2bf7093258c32e0825b635948de528a5949799dcd61bef39534c8aab95870c","features":{"example_generated":[],"default":[]},"yanked":false,"links":null}
