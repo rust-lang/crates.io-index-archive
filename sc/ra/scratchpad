@@ -1,0 +1,1 @@
+{"name":"scratchpad","vers":"0.1.0","deps":[{"name":"arrayvec","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"94a7c1048eb0b3621f71f58082de46f5abe3c14e1a04c923c5cde88541e4d0cd","features":{"default":["std"],"unstable":[],"std":[]},"yanked":false,"links":null}
