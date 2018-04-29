@@ -11,3 +11,4 @@
 {"name":"json_str","vers":"0.4.1","deps":[{"name":"clippy","req":"0.*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4db0c5ae735fab9431d6aeb967431afdec2e7d39e2cbbced00c28e88b739904d","features":{"nightly-testing":["nightly","clippy"],"nightly":[]},"yanked":false}
 {"name":"json_str","vers":"0.5.0","deps":[{"name":"clippy","req":"0.*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92db37cb623194a3af06055fc6e7efb26b1c744f7be0cb7cb91fac65771bfa4d","features":{"nightly":[],"nightly-testing":["nightly","clippy"]},"yanked":false}
 {"name":"json_str","vers":"0.5.1","deps":[],"cksum":"4148071c5b7f1fe727119ad140749bd502663cc2c6eb49fbb3d2be16cbee3e1d","features":{"nightly":[]},"yanked":false}
+{"name":"json_str","vers":"0.5.2","deps":[],"cksum":"f00783c490dd203c46fb31c88fe4f26bbd4192bd63d78b335f350b8868733367","features":{"nightly":[]},"yanked":false,"links":null}
