@@ -1,0 +1,1 @@
+{"name":"unbounded-spsc","vers":"0.1.2","deps":[{"name":"bounded-spsc-queue","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"844eabd8c7c33fdfca49abf9dc4d4135ad561e135e3349c3287c5d1df9b82b6f","features":{},"yanked":false,"links":null}
