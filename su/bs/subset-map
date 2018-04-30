@@ -1,0 +1,1 @@
+{"name":"subset-map","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["serde_derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37eb7ba33e66a37f05267b68aeee77f159af3caca91f078d7cc1f58e27c09ea4","features":{},"yanked":false,"links":null}
