@@ -1,0 +1,1 @@
+{"name":"tmcl","vers":"0.1.0-alpha0","deps":[{"name":"socketcan","req":"^1.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbe92185dc9d0d1506e55631f6394cf33a9c5ba6641b3e717a980932e25e530f","features":{"std":[]},"yanked":false,"links":null}
