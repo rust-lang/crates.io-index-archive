@@ -1,2 +1,3 @@
 {"name":"asciimath","vers":"0.1.0","deps":[],"cksum":"bbc7cff99d46a6c0349a7114f596e8b8c3c657f63ed1a796f238576380dab858","features":{},"yanked":false,"links":null}
 {"name":"asciimath","vers":"0.2.0","deps":[],"cksum":"a3b2f2c1cb8b4d92bb3957ce1d392b516595902d980a4c44dd0903b89a7c86a9","features":{},"yanked":false,"links":null}
+{"name":"asciimath","vers":"0.3.0","deps":[{"name":"lazy_static","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cd8bd94afa2ea222682bfc2bad30803ebb86305bb4d4db4db9816d40a2fec0f","features":{},"yanked":false,"links":null}
