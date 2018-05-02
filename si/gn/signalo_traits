@@ -1,0 +1,1 @@
+{"name":"signalo_traits","vers":"0.1.0","deps":[{"name":"missing_mpl","req":"^0.1.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"757a0d4a6cd78644bd237499b73e0a51ab8165742eec800796ad6929a71713c3","features":{"nightly":["missing_mpl"],"std":[],"default":["std"]},"yanked":false,"links":null}
