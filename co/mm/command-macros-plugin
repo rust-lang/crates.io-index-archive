@@ -1,0 +1,1 @@
+{"name":"command-macros-plugin","vers":"0.2.0","deps":[{"name":"itertools","req":"^0.7.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e946a79c98ad6af17c8174b604a7670ae4bf8d8151950ff870db9d4a7142ef9","features":{},"yanked":false,"links":null}
