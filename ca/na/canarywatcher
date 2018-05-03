@@ -1,0 +1,1 @@
+{"name":"canarywatcher","vers":"0.1.0","deps":[{"name":"inotify","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9dc0f4a9d38ec994e7c53e6d8f0ee2d6ba50fa75a54a1b68d77a6145b9d045ec","features":{},"yanked":false,"links":null}
