@@ -1,0 +1,1 @@
+{"name":"rgb2yuv420","vers":"0.1.0","deps":[{"name":"png","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"34b5611e459e0bfc4e7f8871431703be6f88d2e0f4cb1fc87c042a1878faf34d","features":{},"yanked":false,"links":null}
