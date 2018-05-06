@@ -1,1 +1,2 @@
 {"name":"y4m","vers":"0.1.1","deps":[{"name":"resize","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"417d311a28a08228284f5e5a19c34f495fbcaf57194a04df881b7cafa59f7449","features":{},"yanked":false}
+{"name":"y4m","vers":"0.2.0","deps":[{"name":"resize","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"993850a5fc5eb40e039f825eaceecef47706484e0dcabe32d917b1e092d2509d","features":{},"yanked":false,"links":null}
