@@ -12,3 +12,4 @@
 {"name":"shrev","vers":"0.8.0","deps":[],"cksum":"083da22d0950220bafd37db14afe5d9c36907ecde9970139bfe238775b5bc758","features":{},"yanked":false}
 {"name":"shrev","vers":"0.8.1","deps":[],"cksum":"36a399d8f44e7fdc7e0be73593867fd01d66a10b5e2e33456cf3f40d5e9d1e07","features":{},"yanked":false}
 {"name":"shrev","vers":"0.8.2","deps":[],"cksum":"69bcbc0bd5a03f058312e45ea14c87b388faded87541a20f091431a13577494f","features":{},"yanked":false,"links":null}
+{"name":"shrev","vers":"1.0.0-alpha1","deps":[{"name":"derivative","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"parking_lot","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a4fdbec52504f6c037b673140e1353a742720e78aae2bbd35804652d5676d57","features":{},"yanked":false,"links":null}
