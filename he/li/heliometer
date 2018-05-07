@@ -3,3 +3,4 @@
 {"name":"heliometer","vers":"0.3.1","deps":[],"cksum":"69af9a1cfb0e44eea21ad105790d1bd5aca36497fd9391fed2ad1a5d17a58307","features":{},"yanked":false,"links":null}
 {"name":"heliometer","vers":"0.3.3","deps":[],"cksum":"6a5b1403ca6e93a85face95c3f2f087a2ea4f594e9f3ce0000db3e39add2e54e","features":{},"yanked":false,"links":null}
 {"name":"heliometer","vers":"0.3.6","deps":[],"cksum":"6abd609ebfb821ee0f10d3daed5fd1706ffdf85c77c839b59eccfdf78c73190e","features":{},"yanked":false,"links":null}
+{"name":"heliometer","vers":"0.4.0","deps":[{"name":"assert_cli","req":"^0.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"34d7f0b7d94770061f86c5aeaa1b2bdcb38e06c039e6005ca773fb0c35d281a1","features":{},"yanked":false,"links":null}
