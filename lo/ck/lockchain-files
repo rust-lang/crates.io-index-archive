@@ -1,0 +1,1 @@
+{"name":"lockchain-files","vers":"0.0.0","deps":[{"name":"lockchain-core","req":">= 0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c6404bea015818d89ea81e86c6eb463cfc0e0599a04c67bfcfbb285f4ff4133","features":{},"yanked":false,"links":null}
