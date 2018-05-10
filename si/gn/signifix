@@ -7,3 +7,4 @@
 {"name":"signifix","vers":"0.6.0","deps":[],"cksum":"cf4f21603468e8960580e057ec5f4c5dd4f6f288097e7f13b79ca72b04d15778","features":{},"yanked":false}
 {"name":"signifix","vers":"0.7.0","deps":[],"cksum":"2d9fd21e776312243454660cee367a514c1bb94db8373ec1a38a855298a5ac1d","features":{},"yanked":false}
 {"name":"signifix","vers":"0.8.0","deps":[],"cksum":"fa776635e94f7e1c1544eb6857891380165b4d048acac2f7f65c09eb89da4f23","features":{"nightly":[]},"yanked":false}
+{"name":"signifix","vers":"0.9.0","deps":[],"cksum":"fa4e7c020fda4e96632547fb7f94271f1ed231033cdc2e4f3a25bb9489cf4f01","features":{"nightly":[]},"yanked":false,"links":null}
