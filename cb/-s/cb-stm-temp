@@ -1,0 +1,1 @@
+{"name":"cb-stm-temp","vers":"0.1.0","deps":[{"name":"crossbeam-epoch","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4dfaee15c50621d53b0afb3c526ee5a766db2f64689a7a854de97021e6f0f83","features":{},"yanked":false,"links":null}
