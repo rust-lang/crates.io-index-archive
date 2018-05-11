@@ -6,5 +6,5 @@
 {"name":"xvii","vers":"0.2.3","deps":[],"cksum":"f6b677a8bc2949e471f780b71e6fd30aace101181d36d485d09d38750ad5c740","features":{},"yanked":false}
 {"name":"xvii","vers":"0.3.0","deps":[],"cksum":"2078890cd236b533725e0bda5de3823b3cf19601811dd093cc67760373bf93cc","features":{},"yanked":false,"links":null}
 {"name":"xvii","vers":"0.3.1","deps":[],"cksum":"1d2032220ce28f4bcb580e94df6b84fadf6bbbd6b12439b669ae0075a2dbf9c4","features":{},"yanked":false,"links":null}
-{"name":"xvii","vers":"0.3.2","deps":[],"cksum":"a3a9b6fdf5a2c5e251e57cb90994dfe1957ca11b148da02cac6a1888db9759ea","features":{},"yanked":false,"links":null}
+{"name":"xvii","vers":"0.3.2","deps":[],"cksum":"a3a9b6fdf5a2c5e251e57cb90994dfe1957ca11b148da02cac6a1888db9759ea","features":{},"yanked":true,"links":null}
 {"name":"xvii","vers":"0.3.3","deps":[],"cksum":"3863663dd4b77e13cd4275c13f73b2bf3902899bc07c28670c516b23fa3801ad","features":{},"yanked":false,"links":null}
