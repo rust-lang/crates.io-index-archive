@@ -1,0 +1,1 @@
+{"name":"protobuf-codegen","vers":"1.6.0","deps":[{"name":"protobuf","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89f7524bbb8c6796a164d29cbd8aae51ece80e4ae2040ffb2faa875b2f6823b4","features":{},"yanked":false,"links":null}
