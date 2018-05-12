@@ -1,0 +1,1 @@
+{"name":"gpac-sys","vers":"0.9.0","deps":[{"name":"bindgen","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b439b4d427638f92e7f92cd444477113509cbb571c6ab5d894eb8a946b6b3062","features":{},"yanked":false,"links":null}
