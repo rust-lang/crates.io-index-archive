@@ -1,2 +1,3 @@
 {"name":"zlib-src-sys","vers":"0.0.1","deps":[],"cksum":"7e71759f0e6eb441b863d9dd21f4526fb60208de9dfe8602476f299a3eb4a52a","features":{},"yanked":false}
 {"name":"zlib-src-sys","vers":"0.0.2","deps":[],"cksum":"d692eef67d95f7b494f63b84acff20f83aa95bac876eb338090512c9abbb1e53","features":{},"yanked":false}
+{"name":"zlib-src-sys","vers":"0.1.0","deps":[],"cksum":"4531c3c5a028b1d095b838ed525435c176f502355097b7438d405cdf33fcdf1f","features":{},"yanked":false,"links":"zlib"}
