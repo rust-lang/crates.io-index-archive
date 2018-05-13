@@ -1,0 +1,1 @@
+{"name":"rustc-ap-arena","vers":"129.0.0","deps":[{"name":"rustc-ap-rustc_data_structures","req":"^129.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"743d499969684377f2111db8b871009907a56e3003c7bc71240499b32a098d1d","features":{},"yanked":false,"links":null}
