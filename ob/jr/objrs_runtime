@@ -1,0 +1,1 @@
+{"name":"objrs_runtime","vers":"0.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"93f969c5e945715adb79f39458f2cd85d9a17024571edab4d29c24298d995174","features":{},"yanked":false,"links":null}
