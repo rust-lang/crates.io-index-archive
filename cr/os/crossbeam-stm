@@ -1,0 +1,1 @@
+{"name":"crossbeam-stm","vers":"0.3.0","deps":[{"name":"crossbeam-epoch","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6422eefe71e34712c1937a2e0cd9592ef9655f830536ea6eec4124bba36fa0f","features":{},"yanked":false,"links":null}
