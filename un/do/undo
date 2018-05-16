@@ -40,3 +40,4 @@
 {"name":"undo","vers":"0.19.1","deps":[],"cksum":"f87ecf1a8da6c0ad6bc0003bc716466fdecd2b6a2f2732bb587c9e7b9105eed2","features":{"display":[],"default":[]},"yanked":true,"links":null}
 {"name":"undo","vers":"0.19.2","deps":[],"cksum":"aa331628f04f3ad52786c64cea67833377ad1090512f1380c65d9f3eb1dac466","features":{"default":[],"display":[]},"yanked":false,"links":null}
 {"name":"undo","vers":"0.20.0","deps":[],"cksum":"098923a99c2b83d66e1596508a4e3edbaf2e8b15389ae962e204d58469e81bc8","features":{"default":[],"display":[]},"yanked":false,"links":null}
+{"name":"undo","vers":"0.21.0","deps":[],"cksum":"e20d4f1c96168dbc2c66af04b583d860d565249d46379bb97ef3f7ffa1e22b21","features":{"display":[],"default":[]},"yanked":false,"links":null}
