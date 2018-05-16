@@ -45,3 +45,4 @@
 {"name":"xml-rs","vers":"0.6.2","deps":[{"name":"bitflags","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f402838a64cce739fa6684ab3d70916710bea1e021f181687511f58f6c9ee7a1","features":{},"yanked":true}
 {"name":"xml-rs","vers":"0.7.0","deps":[{"name":"bitflags","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c1cb601d29fe2c2ac60a2b2e5e293994d87a1f6fa9687a31a15270f909be9c2","features":{},"yanked":false}
 {"name":"xml-rs","vers":"0.7.1","deps":[],"cksum":"3646aef67e75922d0e77af92599ed8499c0a60f043708821f5c3c940e88f67f3","features":{},"yanked":true,"links":null}
+{"name":"xml-rs","vers":"0.8.0","deps":[],"cksum":"541b12c998c5b56aa2b4e6f18f03664eef9a4fd0a246a55594efae6cc2d964b5","features":{},"yanked":false,"links":null}
