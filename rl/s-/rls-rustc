@@ -3,3 +3,4 @@
 {"name":"rls-rustc","vers":"0.2.0","deps":[],"cksum":"0ad5bd451d475380356f124efd104dc924ef91eeb76155be933de23d00d26acd","features":{},"yanked":false}
 {"name":"rls-rustc","vers":"0.2.1","deps":[],"cksum":"85cfb9dde19e313da3e47738008f8a472e470cc42d910b71595a9238494701f2","features":{},"yanked":false}
 {"name":"rls-rustc","vers":"0.2.2","deps":[],"cksum":"885f66b92757420572cbb02e033d4a9558c7413ca9b7ac206f28fd58ffdb44ea","features":{},"yanked":false,"links":null}
+{"name":"rls-rustc","vers":"0.3.0","deps":[],"cksum":"8ed5342b2bbbe8663c04600af506c8902b6b4d3e627b006eb1bd65aa14805f4d","features":{},"yanked":false,"links":null}
