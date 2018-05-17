@@ -1,1 +1,2 @@
 {"name":"protobuf-codegen","vers":"1.6.0","deps":[{"name":"protobuf","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89f7524bbb8c6796a164d29cbd8aae51ece80e4ae2040ffb2faa875b2f6823b4","features":{},"yanked":false,"links":null}
+{"name":"protobuf-codegen","vers":"2.0.0","deps":[{"name":"protobuf","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03df6ea3c8166894104042162c6fd48f2d9c98cc23e72c4bad109e64b3e3be62","features":{},"yanked":false,"links":null}
