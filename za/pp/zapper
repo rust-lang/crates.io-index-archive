@@ -1,1 +1,2 @@
 {"name":"zapper","vers":"0.1.0","deps":[{"name":"zapper_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8622367f203551f69597c3b06171477c9d3034dc7e137a73cdfd3eafc93e63c2","features":{},"yanked":false,"links":null}
+{"name":"zapper","vers":"0.1.1","deps":[{"name":"zapper_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00d078d35ae667ae66acb997f880adeeada863d6a696318267641a316da4771e","features":{},"yanked":false,"links":null}
