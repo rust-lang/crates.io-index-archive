@@ -1,1 +1,2 @@
 {"name":"promptly","vers":"0.1.0","deps":[{"name":"rustyline","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c67c3218741aa04a9f1aee57275b339811bd2ba82d4018eadb086b7fa883b8e3","features":{},"yanked":false,"links":null}
+{"name":"promptly","vers":"0.1.1","deps":[{"name":"rustyline","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7efda60499752b04ac8388faee7d3191a5d6032bd036a0727c67c7ad24b7a775","features":{},"yanked":false,"links":null}
