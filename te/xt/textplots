@@ -1,1 +1,2 @@
 {"name":"textplots","vers":"0.1.0","deps":[{"name":"drawille","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56449c3f675eb7c551a0a018f60034693b3785363b2565f177092e16c2843c45","features":{},"yanked":false,"links":null}
+{"name":"textplots","vers":"0.1.1","deps":[{"name":"drawille","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9950403900d3af2032927343f4adb2a5af31fe421ed0dcefa6ae903b307d5a0","features":{},"yanked":false,"links":null}
