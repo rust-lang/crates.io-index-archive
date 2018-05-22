@@ -1,2 +1,3 @@
 {"name":"nzsc_single_player","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"374ccc4e755ca62488407b6f48f0f51451badeaa22d289544f90d96197d58441","features":{},"yanked":false,"links":null}
 {"name":"nzsc_single_player","vers":"0.2.0","deps":[],"cksum":"72c8bb77218f3cfb9210c28f06e7d0fc8c630a0bb395ece1932cf1ca38f0cf88","features":{},"yanked":false,"links":null}
+{"name":"nzsc_single_player","vers":"0.3.0","deps":[],"cksum":"5176cc3188da29e1aa8de4b5a003c1d2b439635c50b47bcc64adbaf7968cc5b4","features":{},"yanked":false,"links":null}
