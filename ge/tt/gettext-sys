@@ -1,0 +1,1 @@
+{"name":"gettext-sys","vers":"0.19.8","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"62c644c0b8b73706fb8c7420533fd30abf6f41c2703994bc6f0826fceb7fb3d6","features":{"gettext-system":[]},"yanked":false,"links":"gettext"}
