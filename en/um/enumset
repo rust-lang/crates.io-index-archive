@@ -7,3 +7,4 @@
 {"name":"enumset","vers":"0.3.1","deps":[],"cksum":"04cf32afbd375fd34f2ab24e2590d681cee27e275e1c532d10523fed2a8e9fd6","features":{"nightly":[]},"yanked":true}
 {"name":"enumset","vers":"0.3.2","deps":[],"cksum":"0e8136d07e7917b56f2851b84f2e88c67df05720261bee116c3f2b781fd055ec","features":{"nightly":[]},"yanked":false}
 {"name":"enumset","vers":"0.3.3","deps":[],"cksum":"ccc43ef14628406463dbc77a50b0ed9f02940ba1d879ef33578f7b1b0b337323","features":{"nightly":[]},"yanked":false}
+{"name":"enumset","vers":"0.3.4","deps":[],"cksum":"f9c22b66642e72e5280c5d54ad99dfa85d818aa38d0d1eb2ca22d8476d19afa1","features":{"nightly":[]},"yanked":false,"links":null}
