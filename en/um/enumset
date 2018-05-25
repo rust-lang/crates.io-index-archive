@@ -13,3 +13,4 @@
 {"name":"enumset","vers":"0.3.7","deps":[],"cksum":"aff086854eb71825960db0ce6433a6468cf4be36afba80e4f0b94f46da49a9c2","features":{"nightly":[]},"yanked":true,"links":null}
 {"name":"enumset","vers":"0.3.8","deps":[],"cksum":"dbcc638022cdfd198695790fcad5dc8d0ac0e7ab969be251663a33b7c15e735d","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"enumset","vers":"0.3.9","deps":[],"cksum":"a60a32ed81e9b225a09e0181e167b7a5ce0a78dbbae6de9fb8c700c761099628","features":{"nightly":[]},"yanked":false,"links":null}
+{"name":"enumset","vers":"0.3.10","deps":[],"cksum":"9505d5f599d98d1a83d54d270c3938d253e6794c788847b4c4b9346eae9895de","features":{"nightly":[]},"yanked":false,"links":null}
