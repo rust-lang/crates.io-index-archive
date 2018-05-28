@@ -1,0 +1,1 @@
+{"name":"pkg","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"569ec373146f9e2484b2f9301b909a2deb32a2451541e28d576d6a29169e31b3","features":{"nightly":["lazy_static/nightly"]},"yanked":false,"links":null}
