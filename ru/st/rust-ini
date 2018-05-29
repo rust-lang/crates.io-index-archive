@@ -26,3 +26,4 @@
 {"name":"rust-ini","vers":"0.10.3","deps":[],"cksum":"8a654c5bda722c699be6b0fe4c0d90de218928da5b724c3e467fc48865c37263","features":{},"yanked":false}
 {"name":"rust-ini","vers":"0.11.0","deps":[],"cksum":"b732cfec8f3d19fd9979b1f5e05ef05f26506b5971b3045ecb4ab2e261f6a21a","features":{},"yanked":false,"links":null}
 {"name":"rust-ini","vers":"0.12.0","deps":[],"cksum":"d74f88104648fe3d790d2f16c19c3c1964d01fb9c6ff35cfc75ea10d414ca243","features":{},"yanked":false,"links":null}
+{"name":"rust-ini","vers":"0.12.1","deps":[],"cksum":"d017107127e969e7812825917f4c1a518288f784462d831b1eb214e425677c5d","features":{},"yanked":false,"links":null}
