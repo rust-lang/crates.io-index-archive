@@ -39,3 +39,4 @@
 {"name":"mockers","vers":"0.10.1","deps":[],"cksum":"63705df961308c286747c17a3098ab96081434a3999197196bccd5db49e38c5b","features":{"default":["nightly"],"nightly":[]},"yanked":false,"links":null}
 {"name":"mockers","vers":"0.10.2","deps":[],"cksum":"968e2ea961040fef99b0c39c12ad69400341851923d64a28a7149a363abc1ffd","features":{"default":["nightly"],"nightly":[]},"yanked":false,"links":null}
 {"name":"mockers","vers":"0.11.0","deps":[],"cksum":"dedaeb77c092d5095151e5d69d9a63a768e04a40fc931c568038df842ba584fd","features":{},"yanked":false,"links":null}
+{"name":"mockers","vers":"0.11.1","deps":[],"cksum":"c677b2cf66501d6661ec43da26e1679747170f9790c13629fe285d717e26e1db","features":{},"yanked":false,"links":null}
