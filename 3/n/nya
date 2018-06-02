@@ -1,1 +1,2 @@
 {"name":"nya","vers":"0.1.0","deps":[{"name":"walkdir","req":"^2.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7a38702e7dea7be4d7f341a3e9791e80c7d07a9a23921c96a476a4e1f0aeaf1","features":{},"yanked":false,"links":null}
+{"name":"nya","vers":"0.2.0","deps":[{"name":"walkdir","req":"^2.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1f119b7650b55788363cfdf9e618bdecde9d62774e211fafd9555f93179a8b1","features":{},"yanked":false,"links":null}
