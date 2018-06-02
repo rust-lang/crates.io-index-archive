@@ -1,1 +1,2 @@
 {"name":"m_lexer","vers":"0.0.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb3a98770b4042f9b0d59ed45bd124092f639156b79e6760be01294c584dcda5","features":{},"yanked":false,"links":null}
+{"name":"m_lexer","vers":"0.0.2","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d9159c0f427d55fa46fa22184573aaf6ae9fe45dcc0ed61f764fbda7e4ca7c8","features":{},"yanked":false,"links":null}
