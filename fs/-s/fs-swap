@@ -1,0 +1,1 @@
+{"name":"fs-swap","vers":"0.1.0","deps":[{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8aa1edbe0b31d35059b5a61a780c31885c692024edaf24bfd8e6393b520c6888","features":{},"yanked":false,"links":null}
