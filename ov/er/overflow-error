@@ -1,1 +1,2 @@
 {"name":"overflow-error","vers":"0.1.0","deps":[],"cksum":"d4fdfbf2f07a31144f2008a04fb4a6ea215108b3e96eedc95d58a78345cb8e13","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"overflow-error","vers":"0.2.0","deps":[{"name":"failure","req":"^0.1.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d6bbd5e55387505d9bbfb63371969a615170e01f3d4d9c31e1c17e0a3e63c32d","features":{"default":["std"],"std":["failure/std"]},"yanked":false,"links":null}
