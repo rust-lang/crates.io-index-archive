@@ -1,0 +1,1 @@
+{"name":"buttercup-crypto","vers":"0.1.0","deps":[{"name":"rust-crypto-wasm","req":"^0.2.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ce8fd9013aa00aa98c93283533d115b60a2d997d1373a3abd2c0cc4e2f245b3","features":{},"yanked":false,"links":null}
