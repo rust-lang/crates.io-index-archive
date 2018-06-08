@@ -1,1 +1,2 @@
 {"name":"atomic-ref2","vers":"0.1.0","deps":[],"cksum":"f241e0b7c615cdb65f2a1fa7076dfb3aee7b064220bad3e392822bf01403789f","features":{},"yanked":false,"links":null}
+{"name":"atomic-ref2","vers":"0.2.0","deps":[{"name":"rand","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d16412f731aaf0870275d4eb228ca2ada4c35b3945bee8870888f4a939f7008c","features":{},"yanked":false,"links":null}
