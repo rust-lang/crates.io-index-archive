@@ -1,0 +1,1 @@
+{"name":"memsocket","vers":"0.1.0","deps":[{"name":"tokio","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d9074906e877fe230d6c27d0f07da1de3c2d6bd276dafa0bfebb81a0a141c8d","features":{},"yanked":false,"links":null}
