@@ -1,1 +1,2 @@
 {"name":"easylog","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59e9422b7728524ad58b20705055fc2c2dd9fe450836e945fda1a41108d61162","features":{},"yanked":false,"links":null}
+{"name":"easylog","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a80419d394f9d5e34a8b870902ef314088e792eeaf49713e11103be8018c3a3e","features":{},"yanked":false,"links":null}
