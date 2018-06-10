@@ -5,3 +5,4 @@
 {"name":"bow","vers":"1.0.2","deps":[{"name":"cfg-if","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0ad826831ef9226adeaa7fa94a866b2dd316258219ec9cefb58595818dc5c52","features":{"std":[],"default":["std"]},"yanked":false}
 {"name":"bow","vers":"1.0.3","deps":[{"name":"cfg-if","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3515aa4ff985354324525864de99bd1c834a52b42240f71f1f1dfab16845e830","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"bow","vers":"2.0.0","deps":[],"cksum":"bab6ad61036f6d750155287e9a1015c5d758359b4e7c15f2c1b3244e42576826","features":{},"yanked":false,"links":null}
+{"name":"bow","vers":"2.0.1","deps":[],"cksum":"2132c20258e6491ba68e8c6a4f7a323f616d447db7dcd43facf99f09c9c2d217","features":{},"yanked":false,"links":null}
