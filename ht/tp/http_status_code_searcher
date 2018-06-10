@@ -1,0 +1,1 @@
+{"name":"http_status_code_searcher","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ce0f33eeb71156fa61140cb3fc8d16b84c9beb98f4e5561dacba69941aad7d2","features":{},"yanked":false,"links":null}
