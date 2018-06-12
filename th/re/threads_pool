@@ -4,3 +4,4 @@
 {"name":"threads_pool","vers":"0.1.3","deps":[],"cksum":"4ca212d7c6807e4abfe8790150ea267733947966d551a5b0cc6db42d29f84c03","features":{},"yanked":false,"links":null}
 {"name":"threads_pool","vers":"0.1.4","deps":[],"cksum":"651b196aa2a61ac85c740b9fc22e0768ede8b772c3a100a4b1803f65117eb604","features":{},"yanked":false,"links":null}
 {"name":"threads_pool","vers":"0.1.5","deps":[],"cksum":"56d0fcef2867ce090a2f23c2f03709467f68826733c33080d519731884399df9","features":{},"yanked":false,"links":null}
+{"name":"threads_pool","vers":"0.1.6","deps":[{"name":"crossbeam-channel","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a312708dab2d5f2599d094e1c24ef1454648fde4e86328c51014a27c326f4eba","features":{},"yanked":false,"links":null}
