@@ -1,1 +1,2 @@
 {"name":"tokio-current-thread","vers":"0.0.0","deps":[],"cksum":"8387dca3284435a53051401ed19e9c451884574075dcdd8eb43658d687313500","features":{},"yanked":false}
+{"name":"tokio-current-thread","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio-executor","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f785265962bde425bf3b77dd6abac6674b8c6d5e8831427383aa9c56c5210e1","features":{},"yanked":false,"links":null}
