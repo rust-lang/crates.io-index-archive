@@ -1,0 +1,1 @@
+{"name":"nng-sys","vers":"0.0.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d52fcf46c3598c49362b2ba7f538f8ff12c10019987efb0c8322d9c0b6f1858b","features":{},"yanked":false,"links":"nng"}
