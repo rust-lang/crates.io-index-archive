@@ -1,1 +1,2 @@
 {"name":"simdnoise","vers":"1.0.0","deps":[{"name":"rand","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a0ee575654a9cbf951da727bffb6da0ec8791ef909f9f9a074751a997c332fd","features":{},"yanked":false,"links":null}
+{"name":"simdnoise","vers":"1.0.1","deps":[{"name":"rand","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"495979ff496eea2d76e83fd9ee8ae522521255d1bc3daa30bbc358dde402f9dc","features":{},"yanked":false,"links":null}
