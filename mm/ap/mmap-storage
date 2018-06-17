@@ -1,1 +1,2 @@
 {"name":"mmap-storage","vers":"0.1.0","deps":[{"name":"memmap","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c189ddb507a994d49d39b2937e2101bc5124572bc697de86c5a6efc5f2709af1","features":{},"yanked":false,"links":null}
+{"name":"mmap-storage","vers":"0.2.0","deps":[{"name":"memmap","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9564e71ed2018bce2088653c6df524f64058d953e042bbbaa304dcb73c573d51","features":{},"yanked":false,"links":null}
