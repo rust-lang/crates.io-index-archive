@@ -1,0 +1,1 @@
+{"name":"mmap-storage","vers":"0.1.0","deps":[{"name":"memmap","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c189ddb507a994d49d39b2937e2101bc5124572bc697de86c5a6efc5f2709af1","features":{},"yanked":false,"links":null}
