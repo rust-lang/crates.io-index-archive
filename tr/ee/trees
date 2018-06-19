@@ -4,3 +4,4 @@
 {"name":"trees","vers":"0.1.3","deps":[],"cksum":"bd721711c0352045200100ba367fce919750b7759075fd41cbbf1a4217b3f481","features":{},"yanked":false,"links":null}
 {"name":"trees","vers":"0.1.4","deps":[],"cksum":"28aa948154829647f3d6f698478a085b2d58efb260dd1baa8222b4a3caf95545","features":{"no_std":[]},"yanked":false,"links":null}
 {"name":"trees","vers":"0.1.5","deps":[],"cksum":"d8a934e110521a9ab97a262dd50cc2476e570ea7484a12f6020c7d03fddf0990","features":{"no_std":[]},"yanked":false,"links":null}
+{"name":"trees","vers":"0.1.6","deps":[],"cksum":"057914b121b118636cc7f2660bd9e6413dfacd26e80139e257dcd2f2e5c85345","features":{"no_std":[]},"yanked":false,"links":null}
