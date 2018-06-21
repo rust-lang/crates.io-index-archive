@@ -7,3 +7,4 @@
 {"name":"simdnoise","vers":"2.2.0","deps":[{"name":"rand","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94c00ab60071811031f4ecac698871fb7d73246460b136cd4f4dcbaa9e3efc00","features":{},"yanked":false,"links":null}
 {"name":"simdnoise","vers":"2.2.1","deps":[],"cksum":"f7a5b042d2c1beeb2abcc0c0dca645ab278427740d9544a12f1698f540711f11","features":{},"yanked":false,"links":null}
 {"name":"simdnoise","vers":"2.2.2","deps":[],"cksum":"4e9fa1a314b3ba90d78181f1b83b3a4b416dd5a8c3559f7aea83887c899f48f4","features":{},"yanked":false,"links":null}
+{"name":"simdnoise","vers":"2.2.3","deps":[],"cksum":"9a1e5a44acd7cb5464bcfe31695c14727a355308e3feffd8c1fc575349c0cdd6","features":{},"yanked":false,"links":null}
