@@ -1,0 +1,1 @@
+{"name":"libnfs-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.26.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ed6dcc001eeea582a91155b62a3a9cd13c00dc194a1e8a7309418bef17d2422a","features":{},"yanked":false,"links":null}
