@@ -1,0 +1,1 @@
+{"name":"futures-channel-preview","vers":"0.2.2","deps":[{"name":"futures-core-preview","req":"^0.2.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d6f8aec6b0eb1d281843ec666fba2b71a49610181e3078fbef7a8cbed481821e","features":{"default":["std"],"std":["futures-core-preview/std"]},"yanked":false,"links":null}
