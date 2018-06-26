@@ -14,3 +14,4 @@
 {"name":"ami","vers":"0.9.1","deps":[],"cksum":"f8248a722a39c03acb34f60ba739ea657bfe5942e068e26f8c55beaf6255c021","features":{},"yanked":false,"links":null}
 {"name":"ami","vers":"0.9.2","deps":[],"cksum":"7cd8d2eabc6f44dda9e49ce53a605e7e6693c1b3aaa03d3c1d186081989c17fe","features":{},"yanked":false,"links":null}
 {"name":"ami","vers":"0.10.0","deps":[{"name":"euler","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d7258bf4979437dc17f234209f49d1a719a636081bd6a715198fd7f733048a6","features":{},"yanked":false,"links":null}
+{"name":"ami","vers":"0.11.0","deps":[{"name":"euler","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f5d190cac2c2b87811caa2c590f9493bbaaedf5e1c01d8fe5f84b7619a5a527","features":{},"yanked":false,"links":null}
