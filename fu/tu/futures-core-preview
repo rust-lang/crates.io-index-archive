@@ -1,0 +1,1 @@
+{"name":"futures-core-preview","vers":"0.2.2","deps":[{"name":"either","req":"^1.4","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ce9411d73728d2a0ea7cc460dd7226a38a614a8dc66915ccfb755c9a88313ea5","features":{"default":["std"],"nightly":[],"std":["either/use_std"]},"yanked":false,"links":null}
