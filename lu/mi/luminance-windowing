@@ -1,3 +1,4 @@
 {"name":"luminance-windowing","vers":"0.1.0","deps":[],"cksum":"2ca0b78f49fc559f76de3c0969c194907d3b8a8aad7594051d737f575c6b7ef9","features":{},"yanked":false}
 {"name":"luminance-windowing","vers":"0.1.1","deps":[],"cksum":"7ff18f81ae6b1679919733c5469ea8b9fe406552498b6452e529b99b4972aa9e","features":{},"yanked":false}
 {"name":"luminance-windowing","vers":"0.2.0","deps":[{"name":"luminance","req":"^0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5642db8b6e64f0faa67a7d0dbd412acbcdc4957ac9f6278a37cfd01c95fb494f","features":{},"yanked":false,"links":null}
+{"name":"luminance-windowing","vers":"0.2.1","deps":[{"name":"luminance","req":"^0.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2de8b8aaef458f1fab9ee55b6c585cf0da8f42dd3d1c9916294f5cdb6be45c7","features":{},"yanked":false,"links":null}
