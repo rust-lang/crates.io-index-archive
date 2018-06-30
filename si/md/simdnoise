@@ -8,3 +8,4 @@
 {"name":"simdnoise","vers":"2.2.1","deps":[],"cksum":"f7a5b042d2c1beeb2abcc0c0dca645ab278427740d9544a12f1698f540711f11","features":{},"yanked":false,"links":null}
 {"name":"simdnoise","vers":"2.2.2","deps":[],"cksum":"4e9fa1a314b3ba90d78181f1b83b3a4b416dd5a8c3559f7aea83887c899f48f4","features":{},"yanked":false,"links":null}
 {"name":"simdnoise","vers":"2.2.3","deps":[],"cksum":"9a1e5a44acd7cb5464bcfe31695c14727a355308e3feffd8c1fc575349c0cdd6","features":{},"yanked":false,"links":null}
+{"name":"simdnoise","vers":"2.3.0","deps":[{"name":"simdeez","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8b3a0729da9284a0b3a7368ceb12d808520dbbc44640f2a13d52442330084a27","features":{},"yanked":false,"links":null}
