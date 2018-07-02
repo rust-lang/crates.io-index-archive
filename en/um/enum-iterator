@@ -1,0 +1,1 @@
+{"name":"enum-iterator","vers":"0.2.0","deps":[{"name":"enum-iterator-derive","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85012092e543e198a02f3ac3d587798253e8ec374bc9c3d7da5319cf579ea4c6","features":{},"yanked":false,"links":null}
