@@ -1,1 +1,2 @@
 {"name":"fn_block","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9a53a35c12f70840261040b5852e542bae38defeff4dadaa892f59fe00d9f477","features":{},"yanked":false,"links":null}
+{"name":"fn_block","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"02b5f0c22498da2b548230e7bb1dff33b782f13a9d418d729fad14179488e486","features":{"unproven":[]},"yanked":false,"links":null}
