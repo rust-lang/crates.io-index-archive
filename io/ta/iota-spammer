@@ -1,0 +1,1 @@
+{"name":"iota-spammer","vers":"0.0.1","deps":[{"name":"iota-lib-rs","req":"^0.0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e2491c71ab9ec1478634e008479dbef5f3425058184499d62620fb969871c4b","features":{},"yanked":false,"links":null}
