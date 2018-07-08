@@ -1,0 +1,1 @@
+{"name":"bele","vers":"0.0.2","deps":[{"name":"dia-go","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"kib","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c2e50ca98fc2e4947893b950bffebe54a87ab327f221c3d8aad7f57eda74781","features":{},"yanked":false,"links":null}
