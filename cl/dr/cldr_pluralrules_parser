@@ -1,0 +1,1 @@
+{"name":"cldr_pluralrules_parser","vers":"0.1.0","deps":[{"name":"nom","req":"^4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5578022e58cce776e5e615b2b7684547ba4cde3d4f66da82d3a1eff84fa992f8","features":{},"yanked":false,"links":null}
