@@ -1,0 +1,1 @@
+{"name":"openni2","vers":"0.0.1","deps":[{"name":"openni2-sys","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47f65eddcf3ade5c989444b4f52dae68130db6c1567f151f615795fdc157bf6c","features":{},"yanked":false,"links":null}
