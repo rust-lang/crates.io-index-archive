@@ -1,0 +1,1 @@
+{"name":"exponential-backoff","vers":"0.1.0","deps":[{"name":"rand","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"171ac8ffa674267b614bff58d89af7263449a3f8472e0540b0c00d40cbd0a73c","features":{},"yanked":false,"links":null}
