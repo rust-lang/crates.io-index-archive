@@ -1,1 +1,2 @@
 {"name":"zerodmg-codes","vers":"0.1.7","deps":[{"name":"zerodmg-utils","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23b39e7322f6011ff3bbec944ae23a5600c55a8574462de3bc41e9588074f670","features":{},"yanked":false,"links":null}
+{"name":"zerodmg-codes","vers":"0.1.8","deps":[{"name":"zerodmg-utils","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca4444d106fd1a607fc614c24865da86a0e0f0d5d9867bee7e2ba86a2cfb8116","features":{},"yanked":false,"links":null}
