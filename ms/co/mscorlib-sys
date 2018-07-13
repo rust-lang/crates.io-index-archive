@@ -1,0 +1,1 @@
+{"name":"mscorlib-sys","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3.5","features":["oaidl","winerror"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f33da7605479af66ebf08d7d58bbe18c61f87391a294432144260737992ad7a2","features":{},"yanked":false,"links":null}
