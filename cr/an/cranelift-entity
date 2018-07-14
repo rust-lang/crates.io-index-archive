@@ -1,1 +1,2 @@
 {"name":"cranelift-entity","vers":"0.14.0","deps":[],"cksum":"ae4f5796a9618786ddc8e8ec2c879a0e43e611b924657dc0929f475bf7efd6d4","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"cranelift-entity","vers":"0.15.0","deps":[],"cksum":"6880b2f8a55577a338cf1c521eb3f9378ed1b2a168980b791b62ba84a19676a1","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
