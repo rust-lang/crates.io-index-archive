@@ -1,1 +1,2 @@
 {"name":"elias-fano","vers":"0.1.0","deps":[{"name":"fixedbitset","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5e4bc7dd28205c3c0ffc6ccbba186fbdd68af9a39767d0e131ab1d9c5d65437","features":{},"yanked":false,"links":null}
+{"name":"elias-fano","vers":"0.2.0","deps":[{"name":"fixedbitset","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d993d0862c982d2466775037397ae77551168799f8262d88be1779ba9192d90d","features":{},"yanked":false,"links":null}
