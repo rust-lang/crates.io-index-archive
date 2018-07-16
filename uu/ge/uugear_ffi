@@ -1,0 +1,1 @@
+{"name":"uugear_ffi","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.37.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fe95dc64b679ab7353322e71d83270a605cfbb5a3c622da1bb539ff82f80ff39","features":{},"yanked":false,"links":null}
