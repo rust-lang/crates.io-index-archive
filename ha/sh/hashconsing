@@ -6,3 +6,4 @@
 {"name":"hashconsing","vers":"0.9.0","deps":[],"cksum":"15e86ffd504bc2764c0cbcec8a5e6b4f1cc1a9eb6d5ce576ca5e036d40a6ce41","features":{},"yanked":false}
 {"name":"hashconsing","vers":"0.9.9","deps":[],"cksum":"ef549cc1be545db5f8852e0d8e655e3f55b61c9f19a9f9439da894493bea11e3","features":{},"yanked":false,"links":null}
 {"name":"hashconsing","vers":"0.9.11","deps":[{"name":"lazy_static","req":"1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c32e0a8e031fad1ff3802b5d050075348def7f0469d2827a9d1d719f216a055","features":{},"yanked":false,"links":null}
+{"name":"hashconsing","vers":"0.10.0","deps":[{"name":"lazy_static","req":"1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"019e77ccda246f3d2f7fd60ced66361f1074f977dc520abe668abe1e00253826","features":{},"yanked":false,"links":null}
