@@ -1,1 +1,2 @@
 {"name":"nite2-sys","vers":"0.0.1","deps":[{"name":"openni2-sys","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92ec411fe9a172ac4d22fb058b16afe901639de33165baf8e356f1362fd0d627","features":{},"yanked":false,"links":"nite2"}
+{"name":"nite2-sys","vers":"0.1.0","deps":[{"name":"openni2-sys","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbd743f5e7f1245b6f4c380a82b7d3ac93e150822a565315cd950cd4f5c19c79","features":{},"yanked":false,"links":"nite2"}
