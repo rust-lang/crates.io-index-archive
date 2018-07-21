@@ -7,3 +7,4 @@
 {"name":"font8x8","vers":"0.1.6","deps":[],"cksum":"5dfafe6d2dce089e56b01ed2a89af00bc6dd833f76c0e6dd2443e56c4f6dd04f","features":{"unicode":[],"std":[],"default":["unicode","std"]},"yanked":false,"links":null}
 {"name":"font8x8","vers":"0.2.0","deps":[],"cksum":"cd742ca6bfc7358ece54ebfeba02e382641670b0eb48c0a17df7729be0a3bed8","features":{"unicode":[],"default":["unicode","std"],"std":[]},"yanked":false,"links":null}
 {"name":"font8x8","vers":"0.2.1","deps":[],"cksum":"e90f02a3eefa1520f4fadb428c4f0f789d7a23edf75a152d1db1e56abf5af112","features":{"unicode":[],"std":[],"default":["unicode","std"]},"yanked":false,"links":null}
+{"name":"font8x8","vers":"0.2.2","deps":[],"cksum":"3dfef83be7202e4fcd5b15f91c4173dc19d8d8fe1a38e31028638a82034e34af","features":{"std":[],"default":["unicode","std"],"unicode":[]},"yanked":false,"links":null}
