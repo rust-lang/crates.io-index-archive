@@ -1,0 +1,1 @@
+{"name":"porcupine-sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"773a61f504b805b588db3e94d695cbbe5c3f5f29e765e50bfbba70c128ef6503","features":{},"yanked":false,"links":null}
