@@ -1,0 +1,1 @@
+{"name":"card_deck","vers":"0.1.0","deps":[{"name":"rand","req":"^0.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"622e6f76915a3fd5f5c24973f8bff68ae7d83394a2ae7da1114099e101a5f162","features":{},"yanked":false,"links":null}
