@@ -206,3 +206,4 @@
 {"name":"rustc-ap-serialize","vers":"206.0.0","deps":[],"cksum":"d5c2d53d0d466bbedb104d5bf83e233bc61b87ff945667b690356727dc8eaa8b","features":{},"yanked":false,"links":null}
 {"name":"rustc-ap-serialize","vers":"207.0.0","deps":[],"cksum":"b553d29aaf3c9d8e1eded24e5cb958b6202a4a63b9a854ff92849d2fc2de5e2a","features":{},"yanked":false,"links":null}
 {"name":"rustc-ap-serialize","vers":"208.0.0","deps":[],"cksum":"ddf7d1b19d33838bd004602c47810e307fd951099672f752cf89fbd96dd52d03","features":{},"yanked":false,"links":null}
+{"name":"rustc-ap-serialize","vers":"209.0.0","deps":[],"cksum":"8b08f8f175b038a82caa7e51fc52b72ff96cfe8c1429755da30380dbd4199c7f","features":{},"yanked":false,"links":null}
