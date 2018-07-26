@@ -1,1 +1,2 @@
 {"name":"botan","vers":"0.1.0","deps":[{"name":"botan-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83bf3b0c39353f4fd8e678e8c9fbcf6ea9a494229d4270a4b47367f15f8698fb","features":{},"yanked":false,"links":null}
+{"name":"botan","vers":"0.1.1","deps":[{"name":"botan-sys","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd42a683742bdc496befebcb6f19798d1a1176b34e3dc63d1136067542bf85d0","features":{},"yanked":false,"links":null}
