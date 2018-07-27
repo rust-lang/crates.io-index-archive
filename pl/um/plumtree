@@ -4,3 +4,4 @@
 {"name":"plumtree","vers":"0.0.4","deps":[],"cksum":"e374bb3bf2516db427af6a343c0dc99a7fad31c6fdfbcdcce7ce34d0fd217263","features":{},"yanked":false,"links":null}
 {"name":"plumtree","vers":"0.0.5","deps":[],"cksum":"f1354b792000280f57a01cdd1493dca565665e355eff4f977401405b462eaf87","features":{},"yanked":false,"links":null}
 {"name":"plumtree","vers":"0.1.0","deps":[{"name":"rand","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8bdc87d41ae2831f5f6bea770ed62544f990665e52029e213b13472451845ac4","features":{},"yanked":false,"links":null}
+{"name":"plumtree","vers":"0.1.1","deps":[{"name":"rand","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"076f72fae263d846272eed089533bee66158cd975c12ac06233e1afe24e1bb71","features":{},"yanked":false,"links":null}
