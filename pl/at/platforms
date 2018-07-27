@@ -1,1 +1,2 @@
 {"name":"platforms","vers":"0.0.1","deps":[],"cksum":"b219359892d471e148da74310a6a57abe24b4b682b804e60f267ba77f648aad0","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"platforms","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f836d32ad4bb6647469728878f095f6479c49c4ca939ed1cc5a887989eec7ee9","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
