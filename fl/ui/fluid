@@ -1,1 +1,2 @@
 {"name":"fluid","vers":"0.0.0","deps":[],"cksum":"bc924aed1a77c6379358da56a89642a092fbefc9462c54b9e7aa43d14f8c44a7","features":{},"yanked":false,"links":null}
+{"name":"fluid","vers":"0.1.0","deps":[{"name":"colored","req":"^1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"899be02db0a33d66cabb81f111fe9e64a63309540ec9acc7a0dfb949777ff5b0","features":{},"yanked":false,"links":null}
