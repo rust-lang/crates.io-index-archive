@@ -1,1 +1,2 @@
 {"name":"ryu","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b10f36472719a5bf06735a8737dbd06c6e1bfdae6702b763847449db289ea770","features":{},"yanked":false,"links":null}
+{"name":"ryu","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"996f6f170cbaca6b23d9fc4f9c9fd7b0ad9709ebca0f2f92e77ea7bc4a2fac7f","features":{},"yanked":false,"links":null}
