@@ -2,3 +2,4 @@
 {"name":"callpass","vers":"0.3.0","deps":[],"cksum":"1587fcb26a95b943fd6e5cdc893b3d399e3666eeae18fdd355efb4095ada67ed","features":{},"yanked":false,"links":null}
 {"name":"callpass","vers":"0.3.1","deps":[],"cksum":"fcf5901ac52cc7fb2f210403b37e0b937279918c38c0e3b2ac7373a004298831","features":{},"yanked":false,"links":null}
 {"name":"callpass","vers":"0.3.2","deps":[{"name":"ascii","req":"0.9.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52ac35778a18031d57920c51be73295a04c95ea408c210e351c8a409033abdc2","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"callpass","vers":"1.0.0-rc.1","deps":[{"name":"ascii","req":"0.9.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3bdacc6a164a2b6ab92199c6e08b25d9f18bb23aa14336892adabd20dabc115","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
