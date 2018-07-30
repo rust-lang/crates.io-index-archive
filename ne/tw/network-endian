@@ -1,2 +1,3 @@
 {"name":"network-endian","vers":"0.1.0","deps":[],"cksum":"187d2f212a2bcee87467de545164ebe5625d0beca3b351bb08e8ccdde71f6031","features":{},"yanked":false,"links":null}
 {"name":"network-endian","vers":"0.1.1","deps":[],"cksum":"df7ad74caae70142856a031c2da431480cda5e0094e745c0765f8acb4631dda5","features":{},"yanked":false,"links":null}
+{"name":"network-endian","vers":"0.1.2","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_derive","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d816071fbdc7d9ee93c410976da6b55230366d331334a6d5b05d61c04c9f8e9","features":{},"yanked":false,"links":null}
