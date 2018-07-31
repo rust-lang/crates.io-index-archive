@@ -8,3 +8,4 @@
 {"name":"utf-8","vers":"0.7.1","deps":[{"name":"matches","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6f923c601c7ac48ef1d66f7d5b5b2d9a7ba9c51333ab75a3ddf8d0309185a56","features":{},"yanked":false}
 {"name":"utf-8","vers":"0.7.2","deps":[],"cksum":"f1262dfab4c30d5cb7c07026be00ee343a6cf5027fdc0104a9160f354e5db75c","features":{},"yanked":false}
 {"name":"utf-8","vers":"0.7.3","deps":[],"cksum":"3f28507b58f0e37692632184ea0846c1dc1f45e6a9b16bcbaae8e22bbf5a5178","features":{},"yanked":false,"links":null}
+{"name":"utf-8","vers":"0.7.4","deps":[],"cksum":"bab35f71693630bb1953dce0f2bcd780e7cde025027124a202ac08a45ba25141","features":{},"yanked":false,"links":null}
