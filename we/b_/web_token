@@ -1,1 +1,2 @@
 {"name":"web_token","vers":"0.1.0","deps":[{"name":"rand","req":"^0.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"134e2cbfaae62eb26d50154e2badd124c25147868e8c0e4b0784483b4ebcb5af","features":{},"yanked":false,"links":null}
+{"name":"web_token","vers":"0.1.1","deps":[{"name":"rand","req":"^0.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbb0ba7aeec1ae859207da187e183e4546c072c6a7e1e2756b27600918c16d56","features":{},"yanked":false,"links":null}
