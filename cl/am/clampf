@@ -1,0 +1,1 @@
+{"name":"clampf","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4b1f7d2032e8360e810cb8a1a87cbbafede1e1c68bd0421c9605449a82630a7e","features":{"std":["num-traits/std"],"default":["std"]},"yanked":false,"links":null}
