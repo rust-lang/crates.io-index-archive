@@ -1,3 +1,4 @@
 {"name":"once_cell","vers":"0.0.1","deps":[],"cksum":"d3347894592bc43e9d4f0089417106e39431bf3da31f49053987f61ef39aac57","features":{},"yanked":true,"links":null}
 {"name":"once_cell","vers":"0.0.2","deps":[],"cksum":"ffb12bba66442fea2e7b5aaf38a5675db4e4d37f84e6b3dd1ab5651b6e0f8008","features":{"beta":[]},"yanked":true,"links":null}
 {"name":"once_cell","vers":"0.0.3","deps":[{"name":"parking_lot","req":"^0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0bf890ff1256d2baf596146a5d9344e48c42ee4bfe6664e506172df93521651c","features":{},"yanked":false,"links":null}
+{"name":"once_cell","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.6.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ff989bbfeed9ac8626ab060bb2659deaa69d6acd5eb8470820e52447c83d877","features":{"default":["parking_lot"]},"yanked":false,"links":null}
