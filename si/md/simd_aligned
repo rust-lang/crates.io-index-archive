@@ -1,0 +1,1 @@
+{"name":"simd_aligned","vers":"0.1.0","deps":[{"name":"packed_simd","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9895b3bb55ea560a60429264b2c42278eb37ceee5a621029a4ddc4fc4019c495","features":{},"yanked":false,"links":null}
