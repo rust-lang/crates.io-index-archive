@@ -43,3 +43,4 @@
 {"name":"undo","vers":"0.21.0","deps":[],"cksum":"e20d4f1c96168dbc2c66af04b583d860d565249d46379bb97ef3f7ffa1e22b21","features":{"display":[],"default":[]},"yanked":false,"links":null}
 {"name":"undo","vers":"0.22.0","deps":[],"cksum":"66effdf8b317361878ab786ec005228e2a432befd301317dde55002192f4fc81","features":{"display":[],"default":[]},"yanked":false,"links":null}
 {"name":"undo","vers":"0.23.0","deps":[{"name":"fnv","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8659d94777b978001ab3316cd00eb854bfbf5a8b73961a2995e6695bbd9b92df","features":{"display":[],"default":[]},"yanked":false,"links":null}
+{"name":"undo","vers":"0.24.0","deps":[{"name":"fnv","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9beda3408ec29792e3b604f390303bb1abbc5e67856d887662b1630f79bd0554","features":{"display":[],"default":[]},"yanked":false,"links":null}
