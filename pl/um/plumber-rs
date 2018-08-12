@@ -1,0 +1,1 @@
+{"name":"plumber-rs","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75765a395b9f91d7eb4ebfff467acd67f126ee714619e09252ac5e5363e774e8","features":{},"yanked":false,"links":null}
