@@ -6,3 +6,4 @@
 {"name":"cranelift-entity","vers":"0.17.0","deps":[],"cksum":"0edd656fbb0e486c305c4c8878b69b7ab197bb6fb3daeb70c51e8072f7d2aa9d","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"cranelift-entity","vers":"0.18.0","deps":[],"cksum":"ea63194473c8f49fde2dcb13848b614faa22db8c236a9cf6fd8de112203c4e6e","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"cranelift-entity","vers":"0.18.1","deps":[],"cksum":"751d63aace57f5aaaeeeea0effb7238c27f6b7b252440cecf3b881afcdfaa46b","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"cranelift-entity","vers":"0.19.0","deps":[],"cksum":"a1d1c6f708d65060e7581f296bdde1cb61747ff0aec40bdd6a4b93dcdd4bad00","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
