@@ -3,3 +3,4 @@
 {"name":"slice_queue","vers":"0.1.2","deps":[],"cksum":"b7db99abf95e7b09a6f2b88befd990877f38875632530257f685ddaa656c78b2","features":{},"yanked":false,"links":null}
 {"name":"slice_queue","vers":"0.1.3","deps":[],"cksum":"a9049182e0cd0d74b5b093d082e942f7467b4088b75e347b655cf1a51aa9a002","features":{},"yanked":false,"links":null}
 {"name":"slice_queue","vers":"0.1.4","deps":[],"cksum":"61e479c64b6517e7bae831b364877764920dde0801150abeeb2a93b3ff296e1b","features":{"default":[],"fast_unsafe_code":[]},"yanked":false,"links":null}
+{"name":"slice_queue","vers":"0.1.5","deps":[],"cksum":"52a165b989ea34791e2014bcb853a144092bf3a808b2f8c7713d9b6a8a25e806","features":{"fast_unsafe_code":[],"default":[]},"yanked":false,"links":null}
