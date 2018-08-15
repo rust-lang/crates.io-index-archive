@@ -43,3 +43,4 @@
 {"name":"mockers","vers":"0.11.2","deps":[],"cksum":"96fc7180aa92f64299a4e050e353b8add0e2446ef6697443b32b4ce279104017","features":{},"yanked":false,"links":null}
 {"name":"mockers","vers":"0.12.0","deps":[],"cksum":"faf36291ba0d8cbb0d8687763d284a353cf06c87341144347955eccf43be49d3","features":{},"yanked":false,"links":null}
 {"name":"mockers","vers":"0.12.1","deps":[{"name":"mockers_derive","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f0585b052c61f1a3332610cbcd1c6ff1e2f81d073ab46a36f403d4f58dbfbf16","features":{"debug":["mockers_derive/debug"]},"yanked":false,"links":null}
+{"name":"mockers","vers":"0.12.2","deps":[{"name":"mockers_derive","req":"^0.12.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"12b834a03108fdf0be08ffe40a5d0ce8142fe6a1a404d02f248e81c43abfc907","features":{"debug":["mockers_derive/debug"]},"yanked":false,"links":null}
