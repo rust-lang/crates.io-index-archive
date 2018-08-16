@@ -1,0 +1,1 @@
+{"name":"smol_str","vers":"0.1.0","deps":[{"name":"proptest","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ba9dc7a5689597071dd307304996b1332f80265e905ff07c805f0186e1f7f1e5","features":{},"yanked":false,"links":null}
