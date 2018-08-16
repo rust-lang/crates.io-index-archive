@@ -1,0 +1,1 @@
+{"name":"webrtc-data","vers":"0.0.0","deps":[{"name":"webrtc-sctp","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4936124267a4debdfdc7f50aef57cc1c33cc9b007fff5f82bf0e67df7c34b1e","features":{},"yanked":false,"links":null}
