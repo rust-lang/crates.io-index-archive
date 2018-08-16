@@ -11,3 +11,4 @@
 {"name":"slice_queue","vers":"0.1.10","deps":[],"cksum":"94df621ad3bec84ec16058ed9c481a85d7e07300d6e77d218e0bf0582158a681","features":{"default":["deref","unsafe_fast_code"],"deref":[],"unsafe_fast_code":[]},"yanked":false,"links":null}
 {"name":"slice_queue","vers":"0.2.0","deps":[],"cksum":"e20470b9636f154887210b2100d9c0327489b88a4affa9e4524ffe9fd6d6efe9","features":{"unsafe_fast_code":[],"default":["deref","unsafe_fast_code"],"deref":[]},"yanked":false,"links":null}
 {"name":"slice_queue","vers":"0.2.1","deps":[],"cksum":"192399a985eba7dd49a8f8ab98424fd63f80e3ed5d1e51982ea5bdd9bd373b2d","features":{"deref":[],"unsafe_fast_code":[],"default":["deref","unsafe_fast_code"]},"yanked":false,"links":null}
+{"name":"slice_queue","vers":"0.2.2","deps":[],"cksum":"08104e5cd77512b119b1601705ab93bcb16962b7efe46dd5416b7d630542fcd7","features":{"deref":[],"default":["deref","unsafe_fast_code"],"unsafe_fast_code":[]},"yanked":false,"links":null}
