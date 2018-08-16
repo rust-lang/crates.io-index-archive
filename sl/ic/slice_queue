@@ -8,3 +8,4 @@
 {"name":"slice_queue","vers":"0.1.7","deps":[],"cksum":"2190885579af180810b31e5059c613960f17e14756fcd80b20c0d8cbd3f93ce8","features":{"deref":[],"default":["deref"],"fast_unsafe_code":[]},"yanked":false,"links":null}
 {"name":"slice_queue","vers":"0.1.8","deps":[],"cksum":"69a1f6e56f3cfed0e8cc09ef568a89e564eb28832faedb8df7fdf4adc77126c2","features":{"default":["deref","unsafe_fast_code"],"unsafe_fast_code":[],"deref":[]},"yanked":false,"links":null}
 {"name":"slice_queue","vers":"0.1.9","deps":[],"cksum":"da7e010a99c95f4a7672505352552a9d8658a7e4ebb0e106ccce22490ea7880b","features":{"default":["deref","unsafe_fast_code"],"deref":[],"unsafe_fast_code":[]},"yanked":false,"links":null}
+{"name":"slice_queue","vers":"0.1.10","deps":[],"cksum":"94df621ad3bec84ec16058ed9c481a85d7e07300d6e77d218e0bf0582158a681","features":{"default":["deref","unsafe_fast_code"],"deref":[],"unsafe_fast_code":[]},"yanked":false,"links":null}
