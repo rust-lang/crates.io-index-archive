@@ -12,3 +12,4 @@
 {"name":"owning_ref","vers":"0.3.1","deps":[],"cksum":"37d935a436f4f73890f054a2808c1e6b68eadcf389979075b269a7495e3ad05e","features":{},"yanked":false}
 {"name":"owning_ref","vers":"0.3.2","deps":[],"cksum":"513ab0d53bf0040b0fa02acfc208eb0c5ac0ce32a1fdce0ddca9c433fd7f698f","features":{},"yanked":false}
 {"name":"owning_ref","vers":"0.3.3","deps":[{"name":"stable_deref_trait","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdf84f41639e037b484f93433aa3897863b561ed65c6e59c7073d7c561710f37","features":{},"yanked":false}
+{"name":"owning_ref","vers":"0.4.0","deps":[{"name":"stable_deref_trait","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49a4b8ea2179e6a2e27411d3bca09ca6dd630821cf6894c6c7c8467a8ee7ef13","features":{},"yanked":false,"links":null}
