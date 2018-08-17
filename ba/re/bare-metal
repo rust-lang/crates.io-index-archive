@@ -3,3 +3,4 @@
 {"name":"bare-metal","vers":"0.1.2","deps":[],"cksum":"eda0f54b2d49f18f3867a5e6d458299bb886db6e64c34d319d6b1aa0839ac31c","features":{"const-fn":[],"default":["const-fn"]},"yanked":false,"links":null}
 {"name":"bare-metal","vers":"0.2.0","deps":[],"cksum":"517bf6fd0a06665f8a6d094d3a520f1d0a989c3d114470a75a84a39204e69e96","features":{"const-fn":[]},"yanked":true,"links":null}
 {"name":"bare-metal","vers":"0.2.1","deps":[],"cksum":"ad046fbca36b9b8b593ebccb968382d2a196d35dbcaa511e5af5da9aab503fd7","features":{"const-fn":[]},"yanked":false,"links":null}
+{"name":"bare-metal","vers":"0.2.2","deps":[],"cksum":"9ac71b5cbf6f6cdee8029a8f34ece9abc6084002fe43cbaddb4e474fc19f635c","features":{"const-fn":[]},"yanked":false,"links":null}
