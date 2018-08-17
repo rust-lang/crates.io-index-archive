@@ -12,4 +12,4 @@
 {"name":"os_bootinfo","vers":"0.2.0-alpha-011","deps":[{"name":"x86_64","req":"^0.2.0-alpha","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4879cb31b16050a40d0d93a389ae43831ea0e811c8f41b095dcda6217e7a0bac","features":{},"yanked":false,"links":null}
 {"name":"os_bootinfo","vers":"0.2.0","deps":[],"cksum":"6953a44ee0fb135c3870d27b5b3fecf71ce360e409218a8205517041a3e74356","features":{},"yanked":false,"links":null}
 {"name":"os_bootinfo","vers":"0.2.1","deps":[],"cksum":"66481dbeb5e773e7bd85b63cd6042c30786f834338288c5ec4f3742673db360a","features":{},"yanked":false,"links":null}
-{"name":"os_bootinfo","vers":"0.3.0","deps":[],"cksum":"d3ffa96b6860d030c10d313611d56d236f4f66e4599a4d97caa27b25ddf34f2e","features":{},"yanked":false,"links":null}
+{"name":"os_bootinfo","vers":"0.3.0","deps":[],"cksum":"d3ffa96b6860d030c10d313611d56d236f4f66e4599a4d97caa27b25ddf34f2e","features":{},"yanked":true,"links":null}
