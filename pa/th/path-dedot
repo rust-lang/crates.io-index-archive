@@ -1,1 +1,2 @@
 {"name":"path-dedot","vers":"1.0.0","deps":[{"name":"lazy_static","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"345465b0e08b920a83d674cfdc9351c6f0eb41695413eee424afd8f6d090e620","features":{},"yanked":false,"links":null}
+{"name":"path-dedot","vers":"1.0.1","deps":[{"name":"lazy_static","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8491db3a2ba9fb1a5353d480511330eefe8d37610aadecbdd7004244126b383","features":{},"yanked":false,"links":null}
