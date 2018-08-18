@@ -1,0 +1,1 @@
+{"name":"series","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3219d4e42d782fb234d1849ce2360ce5be243e3e0318eb1aee69954f45cfe0b1","features":{},"yanked":false,"links":null}
