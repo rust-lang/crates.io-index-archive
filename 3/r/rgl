@@ -1,1 +1,2 @@
 {"name":"rgl","vers":"0.1.0","deps":[{"name":"gl","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03d0a4c2157a76a0510261b75882b350712904429ea8545e012f3e4c592dd2d6","features":{},"yanked":false,"links":null}
+{"name":"rgl","vers":"0.1.1","deps":[{"name":"gl","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"493603ffa00b24351fc1de819fbd5d657ad310b406cfd1b14229ff27c821922c","features":{},"yanked":false,"links":null}
