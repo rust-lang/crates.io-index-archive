@@ -1,1 +1,2 @@
 {"name":"grep-matcher","vers":"0.0.1","deps":[],"cksum":"4c374026743c9112e39114358cf146fe072c7e4503dc36a4813783a262d9c61c","features":{},"yanked":false,"links":null}
+{"name":"grep-matcher","vers":"0.1.0","deps":[{"name":"memchr","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"88d61db5f80bb0aac661c352a28fd71367dbf249850ec3033ad93748bb5ba7e2","features":{},"yanked":false,"links":null}
