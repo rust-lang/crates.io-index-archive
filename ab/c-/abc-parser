@@ -1,0 +1,1 @@
+{"name":"abc-parser","vers":"0.1.0","deps":[{"name":"peg","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4da8a9f8f5ade8a93f21e8505fdf185121d542c7e7fd63567f731dbf9816e43b","features":{},"yanked":false,"links":null}
