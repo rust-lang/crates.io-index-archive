@@ -1,1 +1,2 @@
 {"name":"jens","vers":"0.1.0","deps":[{"name":"regex","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d34ef0d6be4d658cf6426a4c2eca7394d2df5aef86ab47e18dcced16fbcd1d66","features":{},"yanked":false,"links":null}
+{"name":"jens","vers":"0.1.1","deps":[],"cksum":"b27ef532f9dcc649268cd41e54ae2af81766eee1b787178efa5b702e47642b6f","features":{},"yanked":false,"links":null}
