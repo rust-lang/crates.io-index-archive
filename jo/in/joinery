@@ -5,3 +5,4 @@
 {"name":"joinery","vers":"0.2.3","deps":[],"cksum":"c1998832fe17a6f72d093aa92d60c6bc5690e09292be65afb722be8a437f6596","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"joinery","vers":"1.0.0","deps":[],"cksum":"85dc817f5154c0d9d56c2adfdd862943cfb20a4206d2eaccfb0db0371b9ebf64","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"joinery","vers":"1.1.0","deps":[],"cksum":"6fe0b37df4d0e5c604d7858a9fde9d1fff22b5557375d2bd6cf798f156bcd6f5","features":{"nightly":[]},"yanked":false,"links":null}
+{"name":"joinery","vers":"1.1.1","deps":[],"cksum":"321ec719101240c7299d29a76c13547351d1f3d697d9caa1c14ef62ef3626f03","features":{"nightly":[]},"yanked":false,"links":null}
