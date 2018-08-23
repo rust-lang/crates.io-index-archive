@@ -1,1 +1,2 @@
 {"name":"html-minifier","vers":"1.0.0","deps":[{"name":"minifier","req":"^0.0.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4f9ed522a27e4dbe43bab6c2566f88dd291da3f2b4ac44aa0c9963cf35fa68e","features":{},"yanked":false,"links":null}
+{"name":"html-minifier","vers":"1.0.1","deps":[{"name":"minifier","req":"^0.0.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a1035e9966af67f62b89fc03ef086ff49d3ddc1eb96390afd20e2581dd8ee4e","features":{},"yanked":false,"links":null}
