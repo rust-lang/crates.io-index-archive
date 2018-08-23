@@ -6,3 +6,4 @@
 {"name":"hdlc","vers":"0.2.1","deps":[],"cksum":"23f4af4eb190bb3cb9f076ce8a01cc1e109199f6ee40724067217cb83ea313fe","features":{},"yanked":false,"links":null}
 {"name":"hdlc","vers":"0.2.2","deps":[],"cksum":"1515871ec7cdcde3bbfe5197ac46cb1f3e6792544bfaa609a8fdba7f799ce0d7","features":{},"yanked":false,"links":null}
 {"name":"hdlc","vers":"0.2.3","deps":[],"cksum":"026b1c8a74a1792f10cba9f101214d62f2e5a517a80f6553aa69f3d034e6427b","features":{},"yanked":false,"links":null}
+{"name":"hdlc","vers":"0.2.4","deps":[{"name":"failure","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f0e7135abaa47b1904ec4f3e87971d5f3135d020e8891a7c0c3a07d391a1da3","features":{},"yanked":false,"links":null}
