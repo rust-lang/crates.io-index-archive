@@ -5,3 +5,4 @@
 {"name":"openvr_sys","vers":"1.0.2","deps":[],"cksum":"2139a0a543a3aaa1dad5cb6a35ef17a5d8ad40761d3b1505f4e9baf8b5dd8c66","features":{},"yanked":false}
 {"name":"openvr_sys","vers":"2.0.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"89e7a1237f2b88711d0f00e9b7326a3812fb97705f02485107aa987149b58756","features":{},"yanked":false}
 {"name":"openvr_sys","vers":"2.0.1","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fc9db98055b1ca5a92068ef0113d48212879ff346f75683dd975e9c6e298fb4d","features":{},"yanked":false}
+{"name":"openvr_sys","vers":"2.0.2","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4cf1993b53b916365dc88066234029a70ee7df96ca0a9a7d607ad181b8189c9b","features":{},"yanked":false,"links":null}
