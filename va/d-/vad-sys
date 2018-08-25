@@ -1,0 +1,1 @@
+{"name":"vad-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.26.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8459dca8557a8f45c715988004b3132a4ddbc29b4643194b04dc4e33871df779","features":{},"yanked":false,"links":"vad"}
