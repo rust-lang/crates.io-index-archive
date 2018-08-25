@@ -1,0 +1,1 @@
+{"name":"vad","vers":"0.1.2","deps":[{"name":"bindgen","req":"^0.26.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e95e5f001b3b550872029443b0205f896dc9a680d9dd80fabf4ce60eeee2d7f8","features":{},"yanked":false,"links":"vad"}
