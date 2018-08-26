@@ -1,0 +1,1 @@
+{"name":"vk-sync","vers":"0.1.0","deps":[{"name":"ash","req":"^0.24.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87a53a23c571c958ac8e334786a1c48aa38c896e5a895fb39c9926cc3f66b816","features":{"default":["ash_bind"],"ash_bind":["ash"]},"yanked":false,"links":null}
