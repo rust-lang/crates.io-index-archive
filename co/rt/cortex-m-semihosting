@@ -5,3 +5,4 @@
 {"name":"cortex-m-semihosting","vers":"0.2.0","deps":[],"cksum":"4a7a324a8c184dcd3d6bd44cb4f6f85c158de15a2a8e7cd7f550909213ce3de8","features":{},"yanked":false}
 {"name":"cortex-m-semihosting","vers":"0.2.1","deps":[{"name":"cc","req":"^1.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"540df145aaf56c1c34dbb08f213f0476fc09b9cff26aa431394727197a6b1e44","features":{"inline-asm":[],"default":["inline-asm"]},"yanked":false,"links":null}
 {"name":"cortex-m-semihosting","vers":"0.3.0","deps":[{"name":"cc","req":"^1.0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0b3d0df96d537c4f66dd9f4d1da21d83f9a5917990196925b3603be85e46071e","features":{"inline-asm":[]},"yanked":false,"links":null}
+{"name":"cortex-m-semihosting","vers":"0.3.1","deps":[],"cksum":"54d46ec4730314a01de4504328ef4ed6b2c51b63815caac4847ac9e70f88c9e5","features":{"inline-asm":[]},"yanked":false,"links":null}
