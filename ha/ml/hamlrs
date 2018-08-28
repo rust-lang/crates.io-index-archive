@@ -6,3 +6,4 @@
 {"name":"hamlrs","vers":"0.2.1","deps":[],"cksum":"7b4d48e61e8370cda99e7a763c8d0cdf2bd652a34a93b634d3f56dfdddebc451","features":{},"yanked":false,"links":null}
 {"name":"hamlrs","vers":"0.3.0","deps":[{"name":"clap","req":"~2.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2dae86894728080239c695c020ad7dfd2db4d04539e5bddb5c0bb90f7e85eeb","features":{},"yanked":false,"links":null}
 {"name":"hamlrs","vers":"0.4.0","deps":[],"cksum":"225c0faffd208c32010d0146e6641ac8d830d6c023a73b168c8ca3f44bec64c3","features":{},"yanked":false,"links":null}
+{"name":"hamlrs","vers":"0.4.1","deps":[],"cksum":"574d3b4fffe925af45b02360e1397f68c2fb713016e126fcf2a89a2f6d10735b","features":{},"yanked":false,"links":null}
