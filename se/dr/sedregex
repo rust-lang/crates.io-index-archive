@@ -1,1 +1,2 @@
 {"name":"sedregex","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35a28b1cff4fb10279e944a344b3b26d7ce194ea5479f1073878e6fcfa4a5fca","features":{},"yanked":false,"links":null}
+{"name":"sedregex","vers":"0.1.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f163198de3050c9c9a05a2deb6dd4d53d491a404d50ddf1ff64691e363ca37d7","features":{},"yanked":false,"links":null}
