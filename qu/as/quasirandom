@@ -1,0 +1,1 @@
+{"name":"quasirandom","vers":"0.1.0","deps":[{"name":"rand","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2753babbd701cd84b68b9abcc080cbb4a5396aba70019d7a05dd5e724a71c1b4","features":{},"yanked":false,"links":null}
