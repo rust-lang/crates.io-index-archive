@@ -1,0 +1,1 @@
+{"name":"greenwasm-validation","vers":"0.2.0","deps":[{"name":"greenwasm-structure","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cda10e849fa85ee6d590b8d67cc751b0a662d02f6d735deebaa6c50997ea66ad","features":{},"yanked":false,"links":null}
