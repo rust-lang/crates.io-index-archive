@@ -1,0 +1,1 @@
+{"name":"validators","vers":"0.1.0","deps":[{"name":"regex","req":"^1.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4e159a4c2705b208b7066540f661c81eddeec4acdf48f3559699818b7be71bb","features":{"nightly":[]},"yanked":false,"links":null}
