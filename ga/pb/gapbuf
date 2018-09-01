@@ -1,0 +1,1 @@
+{"name":"gapbuf","vers":"0.1.0","deps":[{"name":"proptest","req":"^0.8.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cf9489628b5d00ea791eb303ea8e22e918ead2c76d61eb043d83be4d0b8213bb","features":{},"yanked":false,"links":null}
