@@ -1,0 +1,1 @@
+{"name":"greenwasm-structure","vers":"0.2.0","deps":[{"name":"smallvec","req":"^0.6.4","features":["union"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a63e2958ce59bf1a5de7008fcdaec97d5057e98d945ca1007d0d4d1ede6c1ae4","features":{},"yanked":false,"links":null}
