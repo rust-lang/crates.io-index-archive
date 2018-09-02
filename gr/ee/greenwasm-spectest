@@ -1,1 +1,2 @@
 {"name":"greenwasm-spectest","vers":"0.2.0","deps":[{"name":"wabt","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68aa530ed95e1761b298c37171725019cd40be281752a865bef0cc37c7e767a1","features":{},"yanked":false,"links":null}
+{"name":"greenwasm-spectest","vers":"0.3.0","deps":[{"name":"wabt","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42fca6f1da03cbe665e42e2616c8cc63c96b6fde3200c81278048144db1da73d","features":{},"yanked":false,"links":null}
