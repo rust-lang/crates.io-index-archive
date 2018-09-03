@@ -1,1 +1,2 @@
 {"name":"arg_combinators","vers":"0.1.0","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0dcd97dad3cfc2549bc359d9ab2550d5c9a4ecaffaa8ee14bfcdeba3891e7663","features":{},"yanked":false,"links":null}
+{"name":"arg_combinators","vers":"0.2.0","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eec9aeb37d6c026e7dbb9e23443e1312a9a08f6ad0274f793b9e9c53d4abfc40","features":{},"yanked":false,"links":null}
