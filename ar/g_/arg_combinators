@@ -1,0 +1,1 @@
+{"name":"arg_combinators","vers":"0.1.0","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0dcd97dad3cfc2549bc359d9ab2550d5c9a4ecaffaa8ee14bfcdeba3891e7663","features":{},"yanked":false,"links":null}
