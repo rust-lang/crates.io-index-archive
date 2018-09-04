@@ -1,3 +1,4 @@
 {"name":"sm","vers":"0.1.0","deps":[],"cksum":"a70965d7f17c0655e86c173b558f314855577306066b8328ef598687135ab498","features":{},"yanked":false,"links":null}
 {"name":"sm","vers":"0.2.0","deps":[],"cksum":"a15dae6a4adabbc3259ab1f9de5200a5f37474e06af487baedc1205ff700d82e","features":{},"yanked":false,"links":null}
 {"name":"sm","vers":"0.3.0","deps":[],"cksum":"301dcb8bbc2c44998504ed62a87abad69b6c08687bd973277b89fc947dd71f13","features":{},"yanked":false,"links":null}
+{"name":"sm","vers":"0.4.0","deps":[{"name":"cargo-readme","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"cargo-release","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c77f330f6f6b2969255d74448724e0f2f02d6a36ea0588275dad415b3279d5e3","features":{},"yanked":false,"links":null}
