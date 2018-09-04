@@ -1,0 +1,1 @@
+{"name":"ledger-cosmos-rs","vers":"0.0.1","deps":[{"name":"ledger","req":"^0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"610aca41a08bf22ac2c9ff3566997ae53719176ebdc7538a27b0247a4ceae526","features":{},"yanked":false,"links":null}
