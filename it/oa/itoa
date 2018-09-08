@@ -10,3 +10,4 @@
 {"name":"itoa","vers":"0.4.0","deps":[],"cksum":"92a9df60778f789c37f76778ae8d0a2471c41baa8b059d98a5873c978f549587","features":{"i128":[],"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"itoa","vers":"0.4.1","deps":[],"cksum":"c069bbec61e1ca5a596166e55dfe4773ff745c3d16b700013bcaff9a6df2c682","features":{"i128":[],"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"itoa","vers":"0.4.2","deps":[],"cksum":"5adb58558dcd1d786b5f0bd15f3226ee23486e24b7b58304b60f64dc68e62606","features":{"default":["std"],"i128":[],"std":[]},"yanked":false,"links":null}
+{"name":"itoa","vers":"0.4.3","deps":[],"cksum":"1306f3464951f30e30d12373d31c79fbd52d236e5e896fd92f96ec7babbbe60b","features":{"std":[],"default":["std"],"i128":[]},"yanked":false,"links":null}
