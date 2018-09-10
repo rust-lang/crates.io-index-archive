@@ -4,4 +4,4 @@
 {"name":"escodegen","vers":"0.2.0","deps":[],"cksum":"0192fe38f475beafafa0b10f346a66f016b979451eef717ec1539ad4b70e1df1","features":{},"yanked":false,"links":null}
 {"name":"escodegen","vers":"0.2.1","deps":[],"cksum":"cdcdd962e09d789dd8d7bbf042bca72b03f7ff1497f30361ab16613fc755c62c","features":{},"yanked":false,"links":null}
 {"name":"escodegen","vers":"0.3.0","deps":[],"cksum":"8a0ff3c603ba35b20e85e7a7d51414692b7bccb21e148f1fa0d7b90048cd4f0d","features":{},"yanked":false,"links":null}
-{"name":"escodegen","vers":"0.3.1","deps":[],"cksum":"9a28253df17794f7a872d4c801a01ee562923df66b729d757d00e09764f1090c","features":{},"yanked":false,"links":null}
+{"name":"escodegen","vers":"0.3.1","deps":[],"cksum":"9a28253df17794f7a872d4c801a01ee562923df66b729d757d00e09764f1090c","features":{},"yanked":true,"links":null}
