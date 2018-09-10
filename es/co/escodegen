@@ -7,3 +7,4 @@
 {"name":"escodegen","vers":"0.3.1","deps":[],"cksum":"9a28253df17794f7a872d4c801a01ee562923df66b729d757d00e09764f1090c","features":{},"yanked":true,"links":null}
 {"name":"escodegen","vers":"0.3.2","deps":[],"cksum":"77761822e9d8aaa154778d3e1a1e8c2118b9f701b2c42be19a59ab7e6ca08c89","features":{},"yanked":false,"links":null}
 {"name":"escodegen","vers":"0.3.3","deps":[],"cksum":"a1293c94db7cab99432e5abe8dd294f6c4bfbae22804bc1fa8b2ab20e356732a","features":{},"yanked":false,"links":null}
+{"name":"escodegen","vers":"0.4.0","deps":[],"cksum":"16375cb3b94e8df3afdee444879ece13b0f07d67458f608ca6c3c195781bb038","features":{},"yanked":false,"links":null}
