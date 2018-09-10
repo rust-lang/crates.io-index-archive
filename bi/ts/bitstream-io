@@ -10,3 +10,4 @@
 {"name":"bitstream-io","vers":"0.6.4","deps":[],"cksum":"5386d3496567302d796e6be5c9a67e4f3ba3a9dec1bd9d49cc46f6a646ec10cb","features":{},"yanked":false,"links":null}
 {"name":"bitstream-io","vers":"0.6.5","deps":[],"cksum":"73b8b8e2181df9e03d022096a6e101b385c8f4db8a7b204604b2c33484ae00ab","features":{},"yanked":false,"links":null}
 {"name":"bitstream-io","vers":"0.7.0","deps":[],"cksum":"975ad1489ee963f6371ac3e161673f05e1f5a286d8a060a3b7c88174652af654","features":{},"yanked":false,"links":null}
+{"name":"bitstream-io","vers":"0.8.0","deps":[],"cksum":"fc0b0459453a7e83a6331713234eb36ee90fd4b93a04be3850edf1bc6670efe4","features":{},"yanked":false,"links":null}
