@@ -1,0 +1,1 @@
+{"name":"libnghttp2-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4ffbfb81475cc9f625e44f3a8f8b9cf7173815ae1c7cc2fa91853ec009e38198","features":{},"yanked":false,"links":"nghttp2"}
