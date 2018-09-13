@@ -1,0 +1,1 @@
+{"name":"dumb-exec","vers":"0.0.1","deps":[{"name":"futures-preview","req":"^0.3.0-alpha","features":["nightly"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b304ca5124aa4a39975f3c5f2d676d1e4adb32248cb1820b373095b4f1df001a","features":{},"yanked":false,"links":null}
