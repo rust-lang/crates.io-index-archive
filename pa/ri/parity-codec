@@ -1,0 +1,1 @@
+{"name":"parity-codec","vers":"1.0.0","deps":[{"name":"arrayvec","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9260216bbb7acdbb72dfb6bcb63245ef5bde9a8fb7706fe641e1caf1e7ae460f","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
