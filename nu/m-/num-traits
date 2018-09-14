@@ -16,3 +16,4 @@
 {"name":"num-traits","vers":"0.2.3","deps":[],"cksum":"c22f20a157cb4af265c71e47db525852368feeb4a0013f0f8c68a7f4ef0d0fc1","features":{"std":[],"i128":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"num-traits","vers":"0.2.4","deps":[],"cksum":"775393e285254d2f5004596d69bb8bc1149754570dcc08cf30cabeba67955e28","features":{"std":[],"default":["std"],"i128":[]},"yanked":false,"links":null}
 {"name":"num-traits","vers":"0.2.5","deps":[],"cksum":"630de1ef5cc79d0cdd78b7e33b81f083cbfe90de0f4b2b2f07f905867c70e9fe","features":{"i128":[],"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"num-traits","vers":"0.2.6","deps":[],"cksum":"0b3a5d7cc97d6d30d8b9bc8fa19bf45349ffe46241e8816f50f62f6d6aaabee1","features":{"i128":[],"std":[],"default":["std"]},"yanked":false,"links":null}
