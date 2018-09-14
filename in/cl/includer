@@ -1,0 +1,1 @@
+{"name":"includer","vers":"0.1.0","deps":[{"name":"http","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7338bbeb602f0ea92ef7b5f7979efa5f42d8aa3e3ed3db25434ce2527e4e1f9c","features":{"web":["http"]},"yanked":false,"links":null}
