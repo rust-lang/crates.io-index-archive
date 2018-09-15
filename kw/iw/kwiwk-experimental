@@ -1,1 +1,2 @@
 {"name":"kwiwk-experimental","vers":"0.1.0","deps":[],"cksum":"7190d74b41441e7c6488bcc34383b8e6c7ec10fd3839b8fd8f192222487dc96d","features":{},"yanked":false,"links":null}
+{"name":"kwiwk-experimental","vers":"0.2.0","deps":[{"name":"log","req":"^0.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea4e4a77cb59a66fc59f431d0378fe474c06b672539f847769b979df303b05ff","features":{},"yanked":false,"links":null}
