@@ -11,3 +11,4 @@
 {"name":"dont_disappear","vers":"1.0.0","deps":[],"cksum":"b1968c3916df34dda60e72a61def5fe42668c73364706c4cf9aa24db5bd7760d","features":{},"yanked":false,"links":null}
 {"name":"dont_disappear","vers":"1.0.1","deps":[],"cksum":"1ddd97fb2bdf30d79e5968672d87b39568e67073d02c9d18802b683c923630d6","features":{},"yanked":false,"links":null}
 {"name":"dont_disappear","vers":"2.0.0","deps":[{"name":"crossterm","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27ed59f914e2dedba48448e8be85e9f19026e461db6154570fda168d4b7001f3","features":{},"yanked":false,"links":null}
+{"name":"dont_disappear","vers":"2.0.1","deps":[{"name":"crossterm","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e5a31c7c87f421f0ada23f2ec5759b8f6e10981115009909662b685d1c79eeb","features":{},"yanked":false,"links":null}
