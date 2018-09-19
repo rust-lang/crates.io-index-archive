@@ -1,1 +1,2 @@
 {"name":"humanize-rs","vers":"0.1.0","deps":[],"cksum":"e4a4857e6cf1eb30ef00c202de32d303e6c1bb7dd52a956917a86d6b96d47a1b","features":{},"yanked":false,"links":null}
+{"name":"humanize-rs","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b9486d7c3490f19de358eec54fd251edfb6f23d900c2000239dd92bcce75ac3","features":{},"yanked":false,"links":null}
