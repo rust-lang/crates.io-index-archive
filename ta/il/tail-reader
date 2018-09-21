@@ -1,0 +1,1 @@
+{"name":"tail-reader","vers":"0.1.0","deps":[{"name":"memmap","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14720c421551bb5f8f18766133af6c543be861ad5d0c8abcfb8e2f982e71cda4","features":{},"yanked":false,"links":null}
