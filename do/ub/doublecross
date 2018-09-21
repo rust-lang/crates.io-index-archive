@@ -1,1 +1,2 @@
 {"name":"doublecross","vers":"0.1.0","deps":[{"name":"crossbeam-channel","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1bb9d8dd6caa28427647672e7a63c0c3b69795e570867ae104b0c7ce7d718297","features":{},"yanked":false,"links":null}
+{"name":"doublecross","vers":"0.2.0","deps":[{"name":"crossbeam-channel","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acf75b4c545253050d6c4d9395e05badfeac90c4d6ada98ddc9ee816b68f0783","features":{},"yanked":false,"links":null}
