@@ -1,1 +1,2 @@
 {"name":"prattle","vers":"0.1.0","deps":[{"name":"failure","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6435054cb378bf1ded20c419b78292c13faffd731cf9c6d2398d135bfd06d057","features":{},"yanked":false,"links":null}
+{"name":"prattle","vers":"0.1.1","deps":[{"name":"failure","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a1b7fefae1a6951954d4114ec7406d8234f7b47efd2ea4af96c110576dbfc6f","features":{},"yanked":false,"links":null}
