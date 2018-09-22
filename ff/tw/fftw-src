@@ -2,3 +2,4 @@
 {"name":"fftw-src","vers":"0.2.0","deps":[],"cksum":"fe46267bf9cc79f3cc49e91e7a743e77ba4bda9eac75fcf1863ab4f6575d0519","features":{},"yanked":false}
 {"name":"fftw-src","vers":"0.2.1","deps":[],"cksum":"c881676a6fb061784e1f118452e560f21e78b039bae794cf01c671692b5c055c","features":{},"yanked":false}
 {"name":"fftw-src","vers":"0.2.2","deps":[],"cksum":"4a0d98c1500c80331ffde9de591dbb6b49bd4c507f9f3f9e3ab6a2a2efa98ea4","features":{},"yanked":false}
+{"name":"fftw-src","vers":"0.2.3","deps":[{"name":"md5","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"160ec36b2c625601dcafe9da73bbe35f47be38a523325430d7f41075fd775826","features":{},"yanked":false,"links":"fftw3"}
