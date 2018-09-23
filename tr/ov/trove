@@ -2,3 +2,4 @@
 {"name":"trove","vers":"0.2.0","deps":[],"cksum":"fff238964e745f47add52ff872c773d06cfc86cd7b7a7f32c285667cae16e091","features":{},"yanked":false,"links":null}
 {"name":"trove","vers":"0.3.0","deps":[],"cksum":"d79e083a698153952d8d3ecdb56dceeaadbb32028cf522e1c53cb83d5ea6a07b","features":{},"yanked":false,"links":null}
 {"name":"trove","vers":"0.4.0","deps":[{"name":"vec_map","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8fa33054e22e20694a1f80e50d26d23fcfbefc096151f3a143295c4f3d78743","features":{},"yanked":false,"links":null}
+{"name":"trove","vers":"0.4.1","deps":[{"name":"vec_map","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"753edcd77570d998f66116b315314f0e853d1afa990cea6c0eb9ad6542a31f63","features":{},"yanked":false,"links":null}
