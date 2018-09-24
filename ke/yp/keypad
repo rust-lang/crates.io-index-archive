@@ -1,0 +1,1 @@
+{"name":"keypad","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.1","features":["unproven"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2d8f2344e23569aa08105cea07e73a2cdd33f85e347832785eb0476cb85ede9","features":{},"yanked":false,"links":null}
