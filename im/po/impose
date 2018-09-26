@@ -1,0 +1,2 @@
+{"name":"impose","vers":"0.1.0","deps":[{"name":"rodio","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e05c6417ce520b0541f6b7a8154ca96d803b2c2e5b64bd1602ac7b226b8a0cff","features":{},"yanked":false}
+{"name":"impose","vers":"0.2.0","deps":[{"name":"rodio","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f91a3bcfcdf10e82d2ed42ad6c92348b0f682ee464ee7c349226900282745f9","features":{},"yanked":false}

@@ -1,0 +1,6 @@
+{"name":"fallible-iterator","vers":"0.1.0","deps":[],"cksum":"a41672baa6bee1390ad43d90ba0503bb296b57ba641e65e0d66238a5f3fad40c","features":{},"yanked":false}
+{"name":"fallible-iterator","vers":"0.1.1","deps":[],"cksum":"fcde6d5b1dff7b1e57bd81f8527e823edb157799206a308466bc2edcdb6a16a1","features":{},"yanked":false}
+{"name":"fallible-iterator","vers":"0.1.2","deps":[],"cksum":"c62a5eb03038a00620d4df8f087b163fe92b64727e52a21f1176a3a1e8279e47","features":{},"yanked":false}
+{"name":"fallible-iterator","vers":"0.1.3","deps":[],"cksum":"5d48ab1bc11a086628e8cc0cc2c2dc200b884ac05c4b48fb71d6036b6999ff1d","features":{},"yanked":false}
+{"name":"fallible-iterator","vers":"0.1.4","deps":[],"cksum":"d6034a9c9dfce417c7710128d202eef406878cd2fe294e76e2ee05259c9b042d","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"fallible-iterator","vers":"0.1.5","deps":[],"cksum":"ea79295a7a3e0d77f19e763cf1fe7189cd95fc2b36735ea0ea6b711a7380f509","features":{"default":["std"],"std":[],"alloc":[]},"yanked":false,"links":null}

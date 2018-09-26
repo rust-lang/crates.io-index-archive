@@ -1,0 +1,2 @@
+{"name":"iter-progress","vers":"0.3.0","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14a905d9e639057f0792185ced3b8abcad750bb0c9de52e4170d0f9485b3dd68","features":{},"yanked":false}
+{"name":"iter-progress","vers":"0.4.0","deps":[],"cksum":"60fcb7389b30afdbc3ef397fc233a472549752dfb1b1d8dd865ceb23ff1883b0","features":{},"yanked":false}

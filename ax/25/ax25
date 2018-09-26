@@ -1,0 +1,1 @@
+{"name":"ax25","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.29","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"985eb89a90f42e5269985b278d767c725ff804151b9bf895bb7a9bdb5f3cc130","features":{"linux":["libc"],"default":["libc"]},"yanked":false}

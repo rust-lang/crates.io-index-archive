@@ -1,0 +1,1 @@
+{"name":"dvi","vers":"0.1.0","deps":[{"name":"nom","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"byteorder","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"406fd344d2a54807e44112df8e12026fe70733743929634be23d2ced956616d0","features":{},"yanked":false}

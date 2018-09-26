@@ -1,0 +1,3 @@
+{"name":"rustbook","vers":"0.1.0","deps":[{"name":"getopts","req":"^0.1.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a63e0481ee28b0ed8ddeb5e4e2a54847f10c339e27992f0d219f4bf01dc93fa","features":{},"yanked":false}
+{"name":"rustbook","vers":"0.2.0","deps":[],"cksum":"f394548c8ddbc3e0fb47dc6a913c50151f685b78462ce8deae5532b2c424c878","features":{},"yanked":false}
+{"name":"rustbook","vers":"0.3.0","deps":[],"cksum":"0d99acb3d1d5798fbbd2f0bd1e1be76f05c1133eb85eed77460662e5346b7542","features":{},"yanked":false}

@@ -1,0 +1,10 @@
+{"name":"hashconsing","vers":"0.2.1","deps":[],"cksum":"297982c0df843a3ebc6e3177275b448a91996375319e4e533e2275fcdb9be899","features":{},"yanked":true,"links":null}
+{"name":"hashconsing","vers":"0.3.0","deps":[],"cksum":"c035d337821180bf9b5fe4e766568794c626ebe3e949e0402381a7f68a9570c2","features":{},"yanked":true,"links":null}
+{"name":"hashconsing","vers":"0.4.0","deps":[],"cksum":"6ce778cb823946572328bad3dc16d120193e1262496474d1b804965f9e7f3238","features":{},"yanked":true,"links":null}
+{"name":"hashconsing","vers":"0.5.0","deps":[],"cksum":"29aaea4c9536a48b21fab143aa19038ef0aa728162be4e4b76e6b0d6212db76b","features":{},"yanked":true,"links":null}
+{"name":"hashconsing","vers":"0.5.1","deps":[],"cksum":"67836f966b5da1719e6a2fca97fdd726f0b802e0166924177e092ab523202849","features":{},"yanked":false}
+{"name":"hashconsing","vers":"0.9.0","deps":[],"cksum":"15e86ffd504bc2764c0cbcec8a5e6b4f1cc1a9eb6d5ce576ca5e036d40a6ce41","features":{},"yanked":false}
+{"name":"hashconsing","vers":"0.9.9","deps":[],"cksum":"ef549cc1be545db5f8852e0d8e655e3f55b61c9f19a9f9439da894493bea11e3","features":{},"yanked":false,"links":null}
+{"name":"hashconsing","vers":"0.9.11","deps":[{"name":"lazy_static","req":"1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c32e0a8e031fad1ff3802b5d050075348def7f0469d2827a9d1d719f216a055","features":{},"yanked":false,"links":null}
+{"name":"hashconsing","vers":"0.10.0","deps":[{"name":"lazy_static","req":"1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"019e77ccda246f3d2f7fd60ced66361f1074f977dc520abe668abe1e00253826","features":{},"yanked":false,"links":null}
+{"name":"hashconsing","vers":"0.10.1","deps":[{"name":"lazy_static","req":"1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1c241e038569e815af4c1153387e239dcfe30ae8adf77b39a08f4ea0a829b0c","features":{},"yanked":false,"links":null}

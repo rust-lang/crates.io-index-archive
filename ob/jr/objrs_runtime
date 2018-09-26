@@ -1,0 +1,2 @@
+{"name":"objrs_runtime","vers":"0.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"93f969c5e945715adb79f39458f2cd85d9a17024571edab4d29c24298d995174","features":{},"yanked":false,"links":null}
+{"name":"objrs_runtime","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"80527e1c7d316ba1cdb77f7a850d9d54013cced76ddc32f7bec83e031395e72a","features":{},"yanked":false,"links":null}

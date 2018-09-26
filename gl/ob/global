@@ -1,0 +1,5 @@
+{"name":"global","vers":"0.0.0","deps":[],"cksum":"50c39dd1c22fe468430237dccb9f746e51c880d7c622a631ed4583acd0cadef7","features":{},"yanked":false,"links":null}
+{"name":"global","vers":"0.1.0","deps":[],"cksum":"f49ef522a60d4e0edcd0953efba54b5adfa7818c8a17860498c3b66431f622bb","features":{},"yanked":true,"links":null}
+{"name":"global","vers":"0.1.1","deps":[],"cksum":"af2d8b6967194c477499922be905322fa193db9797c50a4acf8c90ad31a7d3f4","features":{},"yanked":false,"links":null}
+{"name":"global","vers":"0.2.0","deps":[{"name":"once-nonstatic","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23a6985d4ee84d970953b866d86bc0d6de554eb8176aee7001c23233341a632e","features":{},"yanked":false,"links":null}
+{"name":"global","vers":"0.2.1","deps":[{"name":"once-nonstatic","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c518ada6d0a8252d7d962b2b1ea7d2ee34955742c781ffbb5cad7cb1fd3535dd","features":{},"yanked":false,"links":null}

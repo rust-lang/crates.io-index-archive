@@ -1,0 +1,2 @@
+{"name":"pushmore","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76bde4114ace461fb922e6cc0df1929a404d194a41d4aaeecabd6003f44d4940","features":{},"yanked":false,"links":null}
+{"name":"pushmore","vers":"0.1.1","deps":[{"name":"reqwest","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"592409cfe59198f6ae190843870582d54045a5d47e3e17f481b9fdefd8e7f14b","features":{},"yanked":false,"links":null}

@@ -1,0 +1,2 @@
+{"name":"libparted-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"~0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3fcb2f7ad6acd108edfa15ecc6213ddf55269b95124aae4c3c4ff636b843fa57","features":{},"yanked":false}
+{"name":"libparted-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"~0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"16498f117aee52a1caa4523a6ecd9806ba81e176f0f2b489bd308e77eb83524a","features":{},"yanked":false}

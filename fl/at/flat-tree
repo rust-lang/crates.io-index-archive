@@ -1,0 +1,9 @@
+{"name":"flat-tree","vers":"1.0.0","deps":[],"cksum":"0916a43295363051f8e70e98cfafd58f185c895ea5c32aa6163825be13ada78a","features":{},"yanked":false}
+{"name":"flat-tree","vers":"1.1.0","deps":[],"cksum":"8b5659bd0d8654f3799de4a5f8eb7b5cefce6648e59c37516ffa539dd9c54556","features":{},"yanked":false}
+{"name":"flat-tree","vers":"2.0.0","deps":[],"cksum":"a99e82ffaae1766aae422c35b16cb3ea8ac5020dfcebc0f546b0ffd72be07f65","features":{},"yanked":false}
+{"name":"flat-tree","vers":"2.0.1","deps":[],"cksum":"396a33c6709355f4944b61d1a0343b224984dc4081bd47f6f49be92541232666","features":{},"yanked":false,"links":null}
+{"name":"flat-tree","vers":"2.1.0","deps":[],"cksum":"690d1077cafc76da1adc298639368c2429f932e47a5794db788ccece172c4b18","features":{},"yanked":false,"links":null}
+{"name":"flat-tree","vers":"3.0.0","deps":[],"cksum":"da9ba3f37640e7c3ed49c3871ac85d98a71b37e700d25684ff9e52963262ce2d","features":{},"yanked":false,"links":null}
+{"name":"flat-tree","vers":"3.1.0","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"625bf8563e1a973b42342a7bda7bec3c6ae4ea42d43323ffd90dc6b03c671716","features":{},"yanked":false,"links":null}
+{"name":"flat-tree","vers":"3.2.0","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3ac7f59b0a6658659d7317be80664c8a1b56f10e82e8ee1a4ab3dc8692b7679d","features":{},"yanked":false,"links":null}
+{"name":"flat-tree","vers":"3.3.0","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6147dbdc856703e038a8e46af44beb0d627102221d57715baf9239603958beca","features":{},"yanked":false,"links":null}

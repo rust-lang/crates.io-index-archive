@@ -1,0 +1,2 @@
+{"name":"scad","vers":"1.0.0","deps":[{"name":"nalgebra","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"030110229f0710e1917eed0cf1f85440a11c9d8804af8a4849e836968261367c","features":{},"yanked":false,"links":null}
+{"name":"scad","vers":"1.0.1","deps":[{"name":"nalgebra","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9bdb399ab2f2deb05f3a817e736c9b96ff531d96cff14a75dddb6d3f331f6081","features":{},"yanked":false,"links":null}

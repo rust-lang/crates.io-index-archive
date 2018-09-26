@@ -1,0 +1,5 @@
+{"name":"pnet_macros_support","vers":"0.1.0","deps":[],"cksum":"eed5acfac80779f4e60ffbd14284e44d77e1bc2d9ab483e53b31a8a47d9c1654","features":{},"yanked":false}
+{"name":"pnet_macros_support","vers":"0.1.1","deps":[],"cksum":"d781ffd3812bf485c4f02210eeec5346ab0c42cdd59881550fff54dab3a098d1","features":{"travis":[]},"yanked":false}
+{"name":"pnet_macros_support","vers":"0.2.0","deps":[],"cksum":"8c79f254137dcce415bdf2c10b40cf74009a7a8d4a17985cc7773b41f7ccfaf1","features":{"travis":[]},"yanked":false}
+{"name":"pnet_macros_support","vers":"0.20.0","deps":[{"name":"pnet_base","req":">= 0.20.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc4fa05e0ee7d4911bc88f9da16eb0c8f238c5e001f45379e42c2b7cb35e53fc","features":{},"yanked":false}
+{"name":"pnet_macros_support","vers":"0.21.0","deps":[{"name":"pnet_base","req":">= 0.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f92b7141318df140dfb8c3f7a1a5a331edb31b1791633cc5c8f03fcd9a7f6ac4","features":{},"yanked":false,"links":null}

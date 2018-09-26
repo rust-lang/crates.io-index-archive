@@ -1,0 +1,16 @@
+{"name":"tobj","vers":"0.0.1","deps":[],"cksum":"43655be59c4851900e0017373f7ef1090b624ed9f756cc9c8f8a1eb738503214","features":{},"yanked":false}
+{"name":"tobj","vers":"0.0.2","deps":[],"cksum":"907e78d3f7ef7a1ecaf540947ca8259c2a2d4e48554e8780b8366458c6ae43a4","features":{},"yanked":false}
+{"name":"tobj","vers":"0.0.3","deps":[],"cksum":"c966bc6cdba4807bd6126d2f33e5a33f6afa2a9418ade9122b44978ccb971f16","features":{},"yanked":false}
+{"name":"tobj","vers":"0.0.4","deps":[],"cksum":"c8e4fe78c4feeeccd6ecd50bd9b7480e52da3a08c5504989b6eeb1db2413f78a","features":{"unstable":[]},"yanked":false}
+{"name":"tobj","vers":"0.0.5","deps":[],"cksum":"0a58796a9057afb2ff58fa7b699bf5f119c41fbbadf4ad8c4acb8c8e9bd6c157","features":{"unstable":[]},"yanked":false}
+{"name":"tobj","vers":"0.0.6","deps":[],"cksum":"349b6f9f7eb94f2d073037396cf9ec107c55b9fe468f096b25e4e3ae0ad3bdfe","features":{"unstable":[]},"yanked":false}
+{"name":"tobj","vers":"0.0.7","deps":[],"cksum":"898b16b2adb7565b22a6befd350c3fb698d095cf4690309190e16d4d6dbf498f","features":{"unstable":[]},"yanked":false}
+{"name":"tobj","vers":"0.0.8","deps":[],"cksum":"9b7f780a00379ee7eb57d450fb2f9ba495909668317be9c0cc743a781122fc15","features":{"unstable":[]},"yanked":false}
+{"name":"tobj","vers":"0.0.9","deps":[],"cksum":"9d50e0e52d95d4964d092476edbd7623a4cefd771580ec7831ea186ba539c910","features":{"unstable":[]},"yanked":false}
+{"name":"tobj","vers":"0.1.0","deps":[],"cksum":"acc08335768b83ade58dd2ea4890f7addd9aa3a77cd4b58206192bd5c3a4c06c","features":{"unstable":[]},"yanked":false}
+{"name":"tobj","vers":"0.1.1","deps":[{"name":"clippy","req":"^0.0.37","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73a4e298e478ca608ac5081a7ae45d74dd4365fb385e415d372fc1b0aec4ce28","features":{"unstable":["clippy"]},"yanked":false}
+{"name":"tobj","vers":"0.1.2","deps":[{"name":"clippy","req":"^0.0.91","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b10c1887f87a16d43b3600d309fe054c36bb46f58a4fa8c58412733a9d036b8","features":{"unstable":["clippy"]},"yanked":false}
+{"name":"tobj","vers":"0.1.3","deps":[{"name":"clippy","req":"^0.0.125","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f45419cf152183ddc04f3fee9bcc37a1fa682b36b2e77a25e9632443c83e942d","features":{"unstable":["clippy"]},"yanked":false}
+{"name":"tobj","vers":"0.1.4","deps":[{"name":"clippy","req":"^0.0.125","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39b2672bd8aa26221ab6e756e64d029a691473d1869a175fb8b2c8589ed3e5e0","features":{"unstable":["clippy"]},"yanked":false}
+{"name":"tobj","vers":"0.1.5","deps":[{"name":"clippy","req":"^0.0.136","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"636b1ba9431adad7ee544dc0bdd0ae9df20b1763e8e8217eef27c63822dbb05a","features":{"unstable":["clippy"]},"yanked":false}
+{"name":"tobj","vers":"0.1.6","deps":[{"name":"clippy","req":"^0.0.140","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5eb0cdeabef6fcefb92c6dcb8571ba1880d36eb608da4f9cf62673765eadc31","features":{"unstable":["clippy"]},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"ex","vers":"0.1.0","deps":[{"name":"quick-error","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b1979d402ab6dbae5266ef5226928102a3bc2ca6bb6b65d4fa9d42b4cef1318","features":{},"yanked":false,"links":null}
+{"name":"ex","vers":"0.1.1","deps":[{"name":"quick-error","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51dcdd0352d6498e32599041894bf721edd5cb9f53e38450cbfbb47f5575876e","features":{},"yanked":false,"links":null}

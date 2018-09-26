@@ -1,0 +1,2 @@
+{"name":"uvc-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.37.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1191ab9ab9b37b02f553fcd09b212d5b00021824aec5c7f53834d55100a7404a","features":{},"yanked":false,"links":"uvc"}
+{"name":"uvc-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.37.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"833f6bec2e427d477c7acbd62c6731717087f391cb83d43c2d48141faea9d7b8","features":{},"yanked":false,"links":"uvc"}

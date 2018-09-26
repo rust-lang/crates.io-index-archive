@@ -1,0 +1,6 @@
+{"name":"harsh","vers":"0.1.0","deps":[{"name":"clippy","req":"^0.0.85","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5060644448555c863358638386d946550057f974663c591c4851c2d5511c578e","features":{"default":[]},"yanked":false}
+{"name":"harsh","vers":"0.1.1","deps":[{"name":"clippy","req":"^0.0.85","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"803f6059b01c3bdd5cabe8059017704886977f37ae201c07eb52325a5bafa889","features":{"default":[]},"yanked":false}
+{"name":"harsh","vers":"0.1.2","deps":[{"name":"clippy","req":"^0.0.95","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eeb3c70d6248a8237222c4ce8eae95698b415f26e6ab0cacbcaa8da96db12444","features":{"default":[]},"yanked":false}
+{"name":"harsh","vers":"0.1.3","deps":[],"cksum":"172ab87b6e8d6abcd3820314668bf9769bd7b4c31275d965539595cacc972ded","features":{},"yanked":false}
+{"name":"harsh","vers":"0.1.4","deps":[],"cksum":"3569b119a4c247872c5790a0bfa8dc8d107c93ba97fbac457eb81f4dcdab603e","features":{},"yanked":false}
+{"name":"harsh","vers":"0.1.5","deps":[],"cksum":"85e3b39a60f194846fab8e2d11ce38b777079abbef4d03c62a654ba6aeff1b18","features":{},"yanked":false,"links":null}

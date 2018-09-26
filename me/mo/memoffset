@@ -1,0 +1,3 @@
+{"name":"memoffset","vers":"0.1.0","deps":[],"cksum":"e163e5baece1a039e71e75b074de17a9b4114982aa109921fc20253bdf91a53c","features":{"std":[],"default":["std"]},"yanked":false}
+{"name":"memoffset","vers":"0.2.0","deps":[],"cksum":"3978914322794e89d430f150d27986fe4a3fcc0050945cd7008dee145c1cb9c6","features":{},"yanked":false}
+{"name":"memoffset","vers":"0.2.1","deps":[],"cksum":"0f9dc261e2b62d7a622bf416ea3c5245cdd5d9a7fcc428c0d06804dfce1775b3","features":{},"yanked":false}

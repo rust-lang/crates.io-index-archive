@@ -1,0 +1,2 @@
+{"name":"acl-sys","vers":"1.0.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ca1f7a38fd83a8c510efc5e1d83f2b19c03b5f204638a8b9ce158cf968e5c01","features":{},"yanked":false}
+{"name":"acl-sys","vers":"1.0.1","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38ce4a98bab7a956fbb066da6a25662f93e7c8367c0a5a7c0a60f037ca07681c","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"javascriptcore-rs-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3fae3b8197de3f21279a7b74c2f3a8d951e51e4c1c19f030de1122b39d86a58c","features":{},"yanked":false}
+{"name":"javascriptcore-rs-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bee08907d562a307347c30f94866fde2a49c3259b6ff11f8e2f62317539b26cf","features":{},"yanked":false}

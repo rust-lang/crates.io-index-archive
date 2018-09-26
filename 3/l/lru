@@ -1,0 +1,9 @@
+{"name":"lru","vers":"0.1.0","deps":[],"cksum":"a042de820d356935115a8be9ff34ef73cffcea05424a4bed42d69955278c8bac","features":{"nightly":[]},"yanked":false}
+{"name":"lru","vers":"0.1.1","deps":[],"cksum":"10f71d3c0e507bac0bbd9059b5fcbedf530ec68d96b657ab4d26fd03373661ae","features":{"nightly":[]},"yanked":false}
+{"name":"lru","vers":"0.1.2","deps":[],"cksum":"26eb7222f4ff6a0ec8ccc1b12e1c1430c9a136aff7227ed35fd6f2ae7fa8e10b","features":{"nightly":[]},"yanked":false}
+{"name":"lru","vers":"0.1.3","deps":[],"cksum":"529bf3ec23bbe70fd641d9957352e4fe46e3a8618998a1fbed3380dc0d4bbafc","features":{"nightly":[]},"yanked":false}
+{"name":"lru","vers":"0.1.4","deps":[],"cksum":"4da4f241a23d30b58ee73a220040947cfa75ecc0632e01d62d042261f3c3093a","features":{"nightly":[]},"yanked":false}
+{"name":"lru","vers":"0.1.5","deps":[],"cksum":"3a475bbcb981e4b42d68c0b9b67e5804cc6afaf8f7107c30f01148c43e0f8679","features":{"nightly":[]},"yanked":false}
+{"name":"lru","vers":"0.1.6","deps":[],"cksum":"5cc78f5c34a907bf899558ab886aa98fab68c7986c3d128c37fb3e01664ceb48","features":{"nightly":[]},"yanked":false}
+{"name":"lru","vers":"0.1.7","deps":[{"name":"scoped_threadpool","req":"0.1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f1422de50f19f1e08676a563ba667974c0fe487a5c02eea23890983997c0184a","features":{"nightly":[]},"yanked":false}
+{"name":"lru","vers":"0.1.8","deps":[{"name":"scoped_threadpool","req":"0.1.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5fb41c1934bda881f2ab7ad8afa2ec25b8e0453563bfb09854bf3c319b1c96c3","features":{"nightly":[]},"yanked":false,"links":null}

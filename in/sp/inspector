@@ -1,0 +1,2 @@
+{"name":"inspector","vers":"0.0.0","deps":[{"name":"dont_panic","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec30d511ea3f8cd00107e5c5d8d1e6c5ef030e1e3f6e6bcff3ab5a136ce2ad3a","features":{"pedantic":[]},"yanked":false,"links":null}
+{"name":"inspector","vers":"0.0.1","deps":[],"cksum":"2df0ae12e1876bb9b8cce906586039657e98ec8987ae2080ea5a75301d220fcd","features":{"default":["option","result"],"result":[],"pedantic":[],"iter":[],"option":[]},"yanked":false,"links":null}

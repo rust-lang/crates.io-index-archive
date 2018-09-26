@@ -1,0 +1,3 @@
+{"name":"pipe","vers":"0.0.1","deps":[{"name":"resize-slice","req":"^0.0","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee73797bcd0dcc694074e860fd9fd5949800398c995fe28df49c01cc4dc5db99","features":{},"yanked":false}
+{"name":"pipe","vers":"0.0.2","deps":[],"cksum":"27890d6aa0b46808ddf1f623fc7b6dac06fc27e4a71fabaf589bceaffa232be5","features":{"bench":[]},"yanked":false}
+{"name":"pipe","vers":"0.0.3","deps":[],"cksum":"9cc8bd4a29fc75fb70561e09cd26cd67bc8a75df0777a86247e7540e231f30d9","features":{"bench":[]},"yanked":false}

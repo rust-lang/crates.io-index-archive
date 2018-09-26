@@ -1,0 +1,1 @@
+{"name":"bitcoin-chain","vers":"0.1.1","deps":[{"name":"bitcoin","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b18c127e1627c1c56ddb8ce0a91a792088d252f3f1a397aadff0c1a7202c9e94","features":{},"yanked":false,"links":null}

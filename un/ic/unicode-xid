@@ -1,0 +1,5 @@
+{"name":"unicode-xid","vers":"0.0.1","deps":[],"cksum":"c57c7d77ce303b7214479ffc12ae82be53ebb6a8720ff4a322e412c119747f82","features":{"default":[],"no_std":[]},"yanked":false}
+{"name":"unicode-xid","vers":"0.0.2","deps":[],"cksum":"f69506a2561962651710609304bbb961fa3da598c812f877975a82e48ee144f9","features":{"no_std":[],"default":[]},"yanked":false}
+{"name":"unicode-xid","vers":"0.0.3","deps":[],"cksum":"36dff09cafb4ec7c8cf0023eb0b686cb6ce65499116a12201c9e11840ca01beb","features":{"no_std":[],"default":[]},"yanked":false}
+{"name":"unicode-xid","vers":"0.0.4","deps":[],"cksum":"8c1f860d7d29cf02cb2f3f359fd35991af3d30bac52c57d265a3c461074cb4dc","features":{"no_std":[],"default":[],"bench":[]},"yanked":false}
+{"name":"unicode-xid","vers":"0.1.0","deps":[],"cksum":"fc72304796d0818e357ead4e000d19c9c174ab23dc11093ac919054d20a6a7fc","features":{"default":[],"no_std":[],"bench":[]},"yanked":false}

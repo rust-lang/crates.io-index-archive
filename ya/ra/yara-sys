@@ -1,0 +1,1 @@
+{"name":"yara-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.36","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"74d389488839e20796e40a6b34e0b4f6fd14fdbbfa149f2855bc66d8d40ceb4a","features":{},"yanked":false,"links":null}

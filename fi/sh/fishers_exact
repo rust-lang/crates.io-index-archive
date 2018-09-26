@@ -1,0 +1,2 @@
+{"name":"fishers_exact","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"67df661753c7e11dc2960300cace9601a36934fe4133715f5b0708674495ed08","features":{},"yanked":false}
+{"name":"fishers_exact","vers":"0.1.1","deps":[{"name":"gcc","req":"^0.3.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c44d59684f7bd9ad5a6569d6fed33eff008a9435681b883dd6a8c250e5cab84b","features":{},"yanked":false}

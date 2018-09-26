@@ -1,0 +1,5 @@
+{"name":"hex","vers":"0.1.0","deps":[],"cksum":"284091bf8874ea6b5b97485180d3e5e9d2a98b4c646d4dc6c40e44a37f6d44fc","features":{},"yanked":false}
+{"name":"hex","vers":"0.2.0","deps":[],"cksum":"d6a22814455d41612f41161581c2883c0c6a1c41852729b17d5ed88f01e153aa","features":{},"yanked":false}
+{"name":"hex","vers":"0.3.0","deps":[],"cksum":"b66c2649564633dd569707d91459ac1d2deefd9fa2a1def6fffc55b4bfee0b1f","features":{},"yanked":false}
+{"name":"hex","vers":"0.3.1","deps":[],"cksum":"459d3cf58137bb02ad4adeef5036377ff59f066dbb82517b7192e3a5462a2abc","features":{},"yanked":false}
+{"name":"hex","vers":"0.3.2","deps":[],"cksum":"805026a5d0141ffc30abb3be3173848ad46a1b1664fe632428479619a3644d77","features":{"benchmarks":[]},"yanked":false,"links":null}

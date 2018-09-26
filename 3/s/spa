@@ -1,0 +1,2 @@
+{"name":"spa","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"157e537f901b134923b8c6632d3e518a02ac53e465be810f4574875a6014c5a0","features":{},"yanked":false}
+{"name":"spa","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"019323ec81b9100abea53c52e378525d71e24bd50a0d693b220b2f37bac01281","features":{"benchmark":[]},"yanked":false}

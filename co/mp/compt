@@ -1,0 +1,5 @@
+{"name":"compt","vers":"0.1.0","deps":[],"cksum":"3ab82d8f9e7fe53ee99890c644cb5095762133da14640e8f6ef7cf356334683d","features":{},"yanked":false}
+{"name":"compt","vers":"0.1.1","deps":[],"cksum":"0769d7753d6e3e5b38934067f56661260728e1bd0cf137269bbbc6c25d54b361","features":{},"yanked":false}
+{"name":"compt","vers":"0.2.0","deps":[],"cksum":"8f0b93f88574867df6751b7be91ddf5b35923cb922c717e2b0b0400c618f1a21","features":{},"yanked":false}
+{"name":"compt","vers":"1.0.0","deps":[{"name":"rustc-test","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0d871af1bff420c3630e6efc10d8913b2f294cca3e37024b4591013420174d82","features":{},"yanked":false,"links":null}
+{"name":"compt","vers":"1.1.0","deps":[{"name":"is_sorted","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rustc-test","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5511d378c386208403ffcfdb842f6ac5078230b3287c4f7d8da4a16d922a6591","features":{},"yanked":false,"links":null}

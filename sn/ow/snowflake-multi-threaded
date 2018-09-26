@@ -1,0 +1,2 @@
+{"name":"snowflake-multi-threaded","vers":"0.1.0","deps":[],"cksum":"c61842cd87b81823b13f31e84149c41d57796005251a8ab72d286389dc7670b4","features":{},"yanked":false,"links":null}
+{"name":"snowflake-multi-threaded","vers":"0.1.1","deps":[{"name":"time","req":"^0.1.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3cf0ec5a3fda7c38ee7802e550e8314354e63e7996093f3dfe02ba4caefac536","features":{},"yanked":false,"links":null}

@@ -1,0 +1,2 @@
+{"name":"man","vers":"0.0.0","deps":[],"cksum":"39821902294123764cdfe4d0db3a11b0835da4bfdf50c82e27b646708acc2876","features":{},"yanked":false,"links":null}
+{"name":"man","vers":"0.1.0","deps":[{"name":"roff","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c8f34997c68743801c0416f07e2a752575b01f8051ba2569fd704fda0a749cb","features":{},"yanked":false,"links":null}

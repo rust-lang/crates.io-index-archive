@@ -1,0 +1,2 @@
+{"name":"ascii-canvas","vers":"0.0.1","deps":[{"name":"term","req":"^0.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbcbd1cd7a99d66772b30009b24c3979ae2fff7e53867cb17acdeaf0f56c5a48","features":{},"yanked":false}
+{"name":"ascii-canvas","vers":"1.0.0","deps":[{"name":"term","req":"^0.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b385d69402821a1c254533a011a312531cbcc0e3e24f19bbb4747a5a2daf37e2","features":{},"yanked":false}

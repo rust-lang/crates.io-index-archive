@@ -1,0 +1,2 @@
+{"name":"slablit","vers":"0.2.0","deps":[{"name":"slab","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f103c77feb909c31297f752d710587fb3561ae6ae64317e102e87c4c9d18e45","features":{},"yanked":false,"links":null}
+{"name":"slablit","vers":"0.2.1","deps":[{"name":"slab","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c1c02225f750050358a63c52be89216bf75da3694ca688850aff7031f96cf1e","features":{},"yanked":false,"links":null}

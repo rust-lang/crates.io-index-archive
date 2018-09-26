@@ -1,0 +1,2 @@
+{"name":"divbuf","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"de762a58a071c265aed7f3d2d8ce450df84998ee570725093c2491fa760320bf","features":{},"yanked":false,"links":null}
+{"name":"divbuf","vers":"0.2.0","deps":[{"name":"lazy_static","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f8c42566ff04bb5958f34d5d09d193f1d31c6c03a29f1eedb3256d3874f87b39","features":{},"yanked":false,"links":null}

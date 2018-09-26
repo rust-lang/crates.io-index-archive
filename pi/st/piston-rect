@@ -1,0 +1,2 @@
+{"name":"piston-rect","vers":"0.1.0","deps":[{"name":"piston-float","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f29e12932cf4989be51978fda072048e98bd07a6aad200f177e2e27acac72a8","features":{},"yanked":false}
+{"name":"piston-rect","vers":"0.2.0","deps":[{"name":"piston-float","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e330c7fdfea7a4e36bfabc1506f4565af235a4b2165bcb575f99640acca1a83","features":{},"yanked":false}

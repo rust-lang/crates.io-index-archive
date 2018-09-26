@@ -1,0 +1,1 @@
+{"name":"mac-process-info","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"aedcdb7168e5c8f1d67f342dd6ed69963113039574bcd447c85a437e7dd625f1","features":{},"yanked":false}

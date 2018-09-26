@@ -1,0 +1,1 @@
+{"name":"chronic","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eccb403b7796edc82ab18da1906194486b082dd82d6deff394a27541b5037079","features":{},"yanked":false}

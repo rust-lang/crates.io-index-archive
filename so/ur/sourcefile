@@ -1,0 +1,2 @@
+{"name":"sourcefile","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e745176a5bda53760d9bf17a766a442b41b06648e8526db3dc28c7264f39398f","features":{},"yanked":false,"links":null}
+{"name":"sourcefile","vers":"0.1.1","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"871c21c38541f347be1430fbb5134bd9200d9bfef4207ff5bb323e45025190d6","features":{},"yanked":false,"links":null}

@@ -1,0 +1,2 @@
+{"name":"anitomy","vers":"0.1.0","deps":[{"name":"anitomy-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93bfef2dcff82e9397ca0325f5e9228b8b286af36a825c391da8c8fe8ed7c550","features":{},"yanked":false,"links":null}
+{"name":"anitomy","vers":"0.1.1","deps":[{"name":"anitomy-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f77a0989472cc504ab1414edcaf0a90179c2510791ab202396c00e2c3d695bd","features":{},"yanked":false,"links":null}

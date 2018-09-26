@@ -1,0 +1,3 @@
+{"name":"uefi","vers":"0.1.0","deps":[],"cksum":"5085e9f5b2041b8317a4b3c7d185632efff3348904821925b60ada8a40d4926f","features":{},"yanked":false}
+{"name":"uefi","vers":"0.1.1","deps":[],"cksum":"962a3bc0eff3383ee34026dbf7af5425399d87f987f5a83f0e33c8d2584957d1","features":{},"yanked":false}
+{"name":"uefi","vers":"0.1.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0ef8bf5969f8762f7c419a49b6509fab540fbe9267a74343b45840ae176be32c","features":{},"yanked":false}

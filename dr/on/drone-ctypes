@@ -1,0 +1,4 @@
+{"name":"drone-ctypes","vers":"0.8.0","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19f2ddf9b73b589cebf2572d21115d0a7c11016fd32e818664d16a92c322ac34","features":{},"yanked":false,"links":null}
+{"name":"drone-ctypes","vers":"0.8.1","deps":[],"cksum":"0a94b9c8ca4403393c843da087d20362bbb541dd8b4a0c4325984f8d000de9ba","features":{},"yanked":false,"links":null}
+{"name":"drone-ctypes","vers":"0.8.2","deps":[],"cksum":"30a191bb8333fe7c601a971f369f6bec6ab3f0c692b9bd5864cdcd17728060a4","features":{},"yanked":false,"links":null}
+{"name":"drone-ctypes","vers":"0.8.3","deps":[],"cksum":"8f1aa39da61b7c760472695ec0177c4a6ea0448d7c105b38eb39362e46cbab5b","features":{},"yanked":false,"links":null}

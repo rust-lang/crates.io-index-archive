@@ -1,0 +1,2 @@
+{"name":"bitutils","vers":"2.0.0","deps":[],"cksum":"2308fbf1b6c0aa810b388653940a1517a2233556a0d2b2fd118b68ff8c160f7a","features":{"use_std":[],"default":["use_std"]},"yanked":false,"links":null}
+{"name":"bitutils","vers":"2.0.1","deps":[],"cksum":"c5e216f37d4a9dab67c3c77b09348fbfe99f2b0d83ee6580ee58d5611fad57c5","features":{"use_std":[],"default":["use_std"]},"yanked":false,"links":null}

@@ -1,0 +1,2 @@
+{"name":"accelerate-src","vers":"0.3.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d10d9fb0a3aeb849bf0b649bab70023f47e641f674377882cc0ff26629eb8fee","features":{},"yanked":false}
+{"name":"accelerate-src","vers":"0.3.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"661fb30bba85557834df2ff24e8508e32d7ab562b42dc31289a442305e6c71ea","features":{},"yanked":false}

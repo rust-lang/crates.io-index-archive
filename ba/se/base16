@@ -1,0 +1,2 @@
+{"name":"base16","vers":"0.1.0","deps":[{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"84937410616f48b3ea1a7f0b8191089b9f20d2b14404809e964036df527a50b6","features":{},"yanked":false,"links":null}
+{"name":"base16","vers":"0.1.1","deps":[{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a7fd4a4949666bf485542a06de6795ccba71eeabc1f5e9db7a2d82edc3573f6a","features":{},"yanked":false,"links":null}

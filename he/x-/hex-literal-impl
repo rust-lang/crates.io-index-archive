@@ -1,0 +1,2 @@
+{"name":"hex-literal-impl","vers":"0.1.0","deps":[{"name":"proc-macro-hack","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ea76da4c7f1a54d01d54985566d3fdd960b2bbd7b970da024821c883c2d9631","features":{},"yanked":false}
+{"name":"hex-literal-impl","vers":"0.1.1","deps":[{"name":"proc-macro-hack","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d340b6514f232f6db1bd16db65302a5278a04fef9ce867cb932e7e5fa21130a","features":{},"yanked":false}

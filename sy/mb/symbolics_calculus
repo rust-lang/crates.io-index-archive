@@ -1,0 +1,1 @@
+{"name":"symbolics_calculus","vers":"0.1.0","deps":[{"name":"symbolics_core","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56e1fd8b903d58cfa1b8ea05f304afd41b1a8af1147169331b227f038ef901c9","features":{},"yanked":false}

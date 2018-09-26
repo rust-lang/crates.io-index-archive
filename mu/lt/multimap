@@ -1,0 +1,4 @@
+{"name":"multimap","vers":"0.1.0","deps":[],"cksum":"049d337f3ad6b05910a23f0295bf18c2900704238bc0780d88a8f2541e3a7b65","features":{},"yanked":false}
+{"name":"multimap","vers":"0.2.0","deps":[],"cksum":"e85cb6b79f81830421066428f1f8f47032d77843dc569040a7d056b80f95d5d4","features":{},"yanked":false}
+{"name":"multimap","vers":"0.3.0","deps":[],"cksum":"9223f4774d08e06185e44e555b9a7561243d387bac49c78a6205c42d6975fbf2","features":{},"yanked":false}
+{"name":"multimap","vers":"0.4.0","deps":[{"name":"serde","req":"~1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_test","req":"~1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2eb04b9f127583ed176e163fb9ec6f3e793b87e21deedd5734a69386a18a0151","features":{"serde_impl":["serde"],"default":["serde_impl"]},"yanked":false}

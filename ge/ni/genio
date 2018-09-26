@@ -1,0 +1,1 @@
+{"name":"genio","vers":"0.1.0","deps":[{"name":"void","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0accc616073280c15d6be915f4cc3c4bfb3dba0307e62e2786baf3e6a119a2e4","features":{"default":["use_std"],"use_std":[]},"yanked":false}

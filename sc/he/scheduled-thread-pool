@@ -1,0 +1,2 @@
+{"name":"scheduled-thread-pool","vers":"0.1.0","deps":[{"name":"antidote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d9fbe48ead32343b76f544c85953bf260ed39219a8bbbb62cd85f6a00f9644f","features":{},"yanked":false}
+{"name":"scheduled-thread-pool","vers":"0.2.0","deps":[{"name":"antidote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a2ff3fc5223829be817806c6441279c676e454cc7da608faf03b0ccc09d3889","features":{},"yanked":false}

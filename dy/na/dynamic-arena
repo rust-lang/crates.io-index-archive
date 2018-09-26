@@ -1,0 +1,2 @@
+{"name":"dynamic-arena","vers":"0.1.0","deps":[{"name":"compiletest_rs","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7b5bc55bec7375373e6d216eb67321620d1f0c14f060c118785eaecb8e047d66","features":{},"yanked":false}
+{"name":"dynamic-arena","vers":"0.1.1","deps":[{"name":"compiletest_rs","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1778f03795b9897fb56df16abfc74b2f87c44229aaade736c65bb99519b5ccae","features":{},"yanked":false}

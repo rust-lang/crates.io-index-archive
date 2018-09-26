@@ -1,0 +1,2 @@
+{"name":"amf","vers":"0.1.0","deps":[{"name":"byteorder","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ff5612b859c298e0c01ed3ffa6b23195a00df8411d855db9acb474156bf7127","features":{},"yanked":false}
+{"name":"amf","vers":"0.1.1","deps":[{"name":"byteorder","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e6159a378366a886bb27aebb254669e681145c970e658b7c7c01e587a745ce6","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"cdb","vers":"0.5.0","deps":[{"name":"mmap","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac450f03c334c6275f960f1fc268a913cce9005874a5fc190376f4d92b54c630","features":{},"yanked":false}

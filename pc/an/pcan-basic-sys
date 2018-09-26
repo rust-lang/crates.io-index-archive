@@ -1,0 +1,1 @@
+{"name":"pcan-basic-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.24.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b141166ea9aac3f3603cf686a84b9975e9772917d3e0b74bf146e0ca5e8b0bec","features":{},"yanked":false}

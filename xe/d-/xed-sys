@@ -1,0 +1,2 @@
+{"name":"xed-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.26.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"75e341398645024ae29a2b7ae878cef534b4fc5644bc0efb5142a421a1ee2a66","features":{},"yanked":false}
+{"name":"xed-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.26.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"86e77198acbff1b176b34f1636c029cc28eb262871177ac5b5fbd9e8fa5fc1c4","features":{},"yanked":false}

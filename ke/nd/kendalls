@@ -1,0 +1,2 @@
+{"name":"kendalls","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f158c531b994c1d1178f9907a387e2f590055a6a73d4327bc18081dbef227250","features":{},"yanked":false,"links":null}
+{"name":"kendalls","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f615b0de10c12d0e16daad7ba629bf363d3c557500a33d4339960f8e6c477c6b","features":{},"yanked":false,"links":null}

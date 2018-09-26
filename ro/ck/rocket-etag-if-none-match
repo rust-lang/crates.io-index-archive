@@ -1,0 +1,1 @@
+{"name":"rocket-etag-if-none-match","vers":"0.1.0","deps":[{"name":"rocket","req":"^0.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bdf348e840d8080c81fea96b6e9be4490f8eb6aead2f55795e49732aacf4a124","features":{},"yanked":false,"links":null}

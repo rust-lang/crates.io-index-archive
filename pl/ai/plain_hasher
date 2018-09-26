@@ -1,0 +1,2 @@
+{"name":"plain_hasher","vers":"0.1.0","deps":[{"name":"crunchy","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83ae80873992f511142c07d0ec6c44de5636628fdb7e204abd655932ea79d995","features":{},"yanked":false}
+{"name":"plain_hasher","vers":"0.2.0","deps":[{"name":"crunchy","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95fa6386b1d34aaf0adb9b7dd2885dbe7c34190e6263785e5a7ec2b19044a90f","features":{"std":[],"default":["std"]},"yanked":false,"links":null}

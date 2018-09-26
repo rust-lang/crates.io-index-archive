@@ -1,0 +1,11 @@
+{"name":"rhai","vers":"0.1.0","deps":[],"cksum":"c4bda07cecc1d167735af71a7614c5050460b3f4a8626fb733580e4b0b94392a","features":{},"yanked":false}
+{"name":"rhai","vers":"0.2.0","deps":[],"cksum":"d5d086aa702c2de4b4de9b9592bb68739779bafb51cfbc9e07e16e2a59a7943f","features":{},"yanked":false}
+{"name":"rhai","vers":"0.3.0","deps":[],"cksum":"20dbbe6a77284cced89f96182463116eb262b67a87e78d892e8eca5c50fe795b","features":{},"yanked":false}
+{"name":"rhai","vers":"0.4.0","deps":[],"cksum":"f03213f04050c88a66c7feeb0a5aae206743d7cea56593acd7824719bedfb582","features":{},"yanked":false}
+{"name":"rhai","vers":"0.5.1","deps":[],"cksum":"efb07dea6c8aaf1b051e214f8eff56ac018dd6a60512461b8634c7ef0cdd08d6","features":{},"yanked":false}
+{"name":"rhai","vers":"0.6.2","deps":[],"cksum":"4c0e350567a49642b6e3d08d2d30738c209b7d666681cb51902929a935944c60","features":{},"yanked":false}
+{"name":"rhai","vers":"0.7.0","deps":[],"cksum":"2f6949024c05007ce4da880eeec3b7de6186a900ad9c811cfbbc2c038d2cc4d4","features":{},"yanked":false}
+{"name":"rhai","vers":"0.7.1","deps":[],"cksum":"7d8dd1945cb3f6c777074814bb2856a8fce36af4d6aa6f479c6a3029869e865b","features":{},"yanked":false}
+{"name":"rhai","vers":"0.8.1","deps":[],"cksum":"3357626cf650e423bf154cfb270896943ca81ce85ad9b63ca2b3ec771539f56e","features":{},"yanked":false}
+{"name":"rhai","vers":"0.8.2","deps":[],"cksum":"5335b2718fc8c2fa74633af180dc7aaf44a724a43185d34bbd6b0c4597defbe6","features":{"debug_msgs":[]},"yanked":false,"links":null}
+{"name":"rhai","vers":"0.9.0","deps":[],"cksum":"6238ce80180b92a7ca24557bd57033812fddaee9fcc9c212babeec715d5a249b","features":{"debug_msgs":[]},"yanked":false,"links":null}

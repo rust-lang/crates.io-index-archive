@@ -1,0 +1,4 @@
+{"name":"scan_fmt","vers":"0.1.0","deps":[],"cksum":"e7ea5930cebf37e8f60829b4f4ba78908b0ab6d61b01738f77f0873cb56869f6","features":{},"yanked":false}
+{"name":"scan_fmt","vers":"0.1.1","deps":[],"cksum":"fa6802ea974ecc8dc187344c6836df3681a5392489bb0342c1baf0da4f67d8b4","features":{},"yanked":false}
+{"name":"scan_fmt","vers":"0.1.2","deps":[{"name":"regex","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e94b9f7f55b7b1403d6a1dbc805ba4419bc135dc025bcfdef2ce946c97bdb43b","features":{},"yanked":false}
+{"name":"scan_fmt","vers":"0.1.3","deps":[{"name":"regex","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b87497427f9fbe539ee6b9626f5a5e899331fdf1c1d62f14c637a462969db30","features":{},"yanked":false,"links":null}

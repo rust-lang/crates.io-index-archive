@@ -1,0 +1,2 @@
+{"name":"delta_e","vers":"0.1.0","deps":[{"name":"lab","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cba0b178d5220d701f1f42229d44b32a2c800656abf5cd9b757c71ee7fb9f17b","features":{},"yanked":false}
+{"name":"delta_e","vers":"0.2.0","deps":[{"name":"lab","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27e3c2e03847b335b51bb63f5899ca28842a9f30765d012d9af568373611b106","features":{},"yanked":false}

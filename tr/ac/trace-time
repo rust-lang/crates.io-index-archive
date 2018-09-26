@@ -1,0 +1,2 @@
+{"name":"trace-time","vers":"0.1.0","deps":[{"name":"log","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5aea07da6582e957c6e737eeb63a5af79e648eeeaaaba8fd9a417f1124bafa41","features":{},"yanked":false,"links":null}
+{"name":"trace-time","vers":"0.1.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbe82f2f0bf1991e163e757baf044282823155dd326e70f44ce2186c3c320cc9","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"fst-subseq-ascii-caseless","vers":"0.1.0","deps":[{"name":"fst","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74cf9ec0ee068ca1dab9e083e06ca1bd368f63fcbe5d791e5566dfd42d07bf47","features":{},"yanked":false,"links":null}

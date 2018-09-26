@@ -1,0 +1,4 @@
+{"name":"word2vec","vers":"0.1.0","deps":[],"cksum":"dbf67f795e1270304bff5fcd335240feb6027eb27067edd38b195dcdb871f957","features":{},"yanked":false}
+{"name":"word2vec","vers":"0.2.0","deps":[],"cksum":"bd86d2458b2d1d5ef67a390daa355b12688642760439a982ebf39ba0860059fd","features":{},"yanked":false}
+{"name":"word2vec","vers":"0.2.1","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92f50b4badcac3e97b03da8a2666d53e25fa59b27750ee363f0521a2dedf7553","features":{},"yanked":false}
+{"name":"word2vec","vers":"0.3.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc5380e0089ee3439891a1ac3b9f64ae75b5f86cc730de14f5386d362f6fbdd1","features":{},"yanked":false}

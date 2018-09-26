@@ -1,0 +1,2 @@
+{"name":"rbpf","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14d328cdb324fd91f8b19706084afec69d566ebeec04aa5f43b5bdc0360274bd","features":{},"yanked":false}
+{"name":"rbpf","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a86d724878ccfa8687283434bc81cce69009ce6b3c6e4645e0c805d4bede4a6","features":{},"yanked":false}

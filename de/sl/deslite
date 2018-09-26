@@ -1,0 +1,1 @@
+{"name":"deslite","vers":"0.1.0","deps":[{"name":"libsqlite3-sys","req":"^0.9.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c56e546801910dca54da8708db8f104d8262302dd8844fca5359ef26b4bfc3fa","features":{},"yanked":false,"links":null}

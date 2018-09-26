@@ -1,0 +1,9 @@
+{"name":"open","vers":"1.0.0","deps":[],"cksum":"d0910e23e21215dfdfa3293f6e2f5023349e2ab7f78036d36112a8796ec132f4","features":{},"yanked":false}
+{"name":"open","vers":"1.0.1","deps":[],"cksum":"9711ee02d4b8d21590a497ac93723a80b0a644006f117b01ac8715e4c62eed77","features":{},"yanked":false}
+{"name":"open","vers":"1.0.2","deps":[],"cksum":"4aa44761c9bab29124d1f6b98d834971479c107529bf120b9cff9a4ac3e9e3f6","features":{},"yanked":false}
+{"name":"open","vers":"1.0.3","deps":[],"cksum":"ff0f4b9ef5abb2916a2be5ca9f59eabad710dbf17dfd1a39e95716f23e6aabf5","features":{},"yanked":false}
+{"name":"open","vers":"1.1.0","deps":[],"cksum":"41552aa771bf2c22d4f7a3fb94a36b7e501f50dc3f677eeada47ad5b6067bfc9","features":{},"yanked":false}
+{"name":"open","vers":"1.1.1","deps":[],"cksum":"c228597177bc4a6876e278f7c7948ac033bfcb4d163ccdd5a009557c8fe5fa1e","features":{},"yanked":false}
+{"name":"open","vers":"1.2.0","deps":[],"cksum":"3478ed1686bd1300c8a981a940abc92b06fac9cbef747f4c668d4e032ff7b842","features":{},"yanked":false}
+{"name":"open","vers":"1.2.1","deps":[],"cksum":"c281318d992e4432cfa799969467003d05921582a7489a8325e37f8a450d5113","features":{},"yanked":false}
+{"name":"open","vers":"1.2.2","deps":[{"name":"winapi","req":"^0.3","features":["shellapi"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"eedfa0ca7b54d84d948bfd058b8f82e767d11f362dd78c36866fd1f69c175867","features":{},"yanked":false,"links":null}

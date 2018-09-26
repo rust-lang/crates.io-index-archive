@@ -1,0 +1,2 @@
+{"name":"gui","vers":"0.0.0","deps":[],"cksum":"b166e8f47137d13ba15d428a66f707c068fced50b07325ebdd36befaed6bed95","features":{},"yanked":false,"links":null}
+{"name":"gui","vers":"0.1.0","deps":[{"name":"gui-derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8600b3cac0246faa319b88ca536f15db9374e153a1a307016e052cca3b27e237","features":{},"yanked":false,"links":null}

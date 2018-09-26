@@ -1,0 +1,2 @@
+{"name":"libnfs-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.26.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ed6dcc001eeea582a91155b62a3a9cd13c00dc194a1e8a7309418bef17d2422a","features":{},"yanked":false,"links":null}
+{"name":"libnfs-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.40.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a250600c0f9773f16420f7f378327005c7f55fcb6c2801b4a52321f173d2d54d","features":{},"yanked":false,"links":null}

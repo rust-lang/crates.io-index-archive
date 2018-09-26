@@ -1,0 +1,2 @@
+{"name":"cribbage","vers":"0.1.0","deps":[],"cksum":"74a17c5c478155dfeb26e551cd51d66705e871552dc9c4755605128a72504afe","features":{},"yanked":false}
+{"name":"cribbage","vers":"0.1.1","deps":[{"name":"cribbage-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7111ba3aa27625597758d3e9d8b563dc410a7ac03cd460a322ad53959e312858","features":{},"yanked":false}

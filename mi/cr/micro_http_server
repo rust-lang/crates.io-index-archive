@@ -1,0 +1,2 @@
+{"name":"micro_http_server","vers":"0.0.1","deps":[{"name":"log","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e30918675711dd57951fb727aae1821e1a40cfc4c38c195cb7a45ad75eedf7d","features":{},"yanked":false,"links":null}
+{"name":"micro_http_server","vers":"0.0.2","deps":[{"name":"log","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2b8313dcacf0f21afa82aaef3cdde10b70846832b0b6a2be1b1edb5e33b5b1a","features":{},"yanked":false,"links":null}

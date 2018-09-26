@@ -1,0 +1,3 @@
+{"name":"z3-sys","vers":"0.1.0","deps":[{"name":"va_list","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09ad369c3bebfb2b5585060ce765c1e0c4896b5a3bc58dd3870e9f73c0209b98","features":{},"yanked":false}
+{"name":"z3-sys","vers":"0.2.0","deps":[],"cksum":"e6b40aba855ee49a9edec577820b1306dc8428142bc13a0b55534af152f7d8b5","features":{},"yanked":false,"links":null}
+{"name":"z3-sys","vers":"0.3.0","deps":[],"cksum":"b9b683d22042dbcd04b737ba483fc6d0242a4a58289803d096154b3e007f963d","features":{},"yanked":false,"links":null}

@@ -1,0 +1,2 @@
+{"name":"tolk","vers":"0.1.0","deps":[{"name":"tolk-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1bad64f901d9cd71ad09dc4b7d38aae373484f632282b9179351710d2c3defa","features":{},"yanked":false}
+{"name":"tolk","vers":"0.1.1","deps":[{"name":"tolk-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8aa5d7b6571ea36ca606d582a6ee4a2ac9bd3ea427860398e94b2ba174d8bcc","features":{},"yanked":false}

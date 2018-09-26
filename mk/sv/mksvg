@@ -1,0 +1,2 @@
+{"name":"mksvg","vers":"0.1.0","deps":[{"name":"num","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c428192885148e22428d31020d0eccce60aea2931cd1ad36386e9dd8b1ce80b","features":{},"yanked":false,"links":null}
+{"name":"mksvg","vers":"0.1.1","deps":[{"name":"num","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff6297340dfa3fc2d42563cbccee13651e9b7ea2a09ed52c6f9746284a9cffd9","features":{},"yanked":false,"links":null}

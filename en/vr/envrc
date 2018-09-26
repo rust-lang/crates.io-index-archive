@@ -1,0 +1,2 @@
+{"name":"envrc","vers":"0.2.0","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"245be8532540c2752bed539c46998205f5e1961a8fa451dc5c15ad4d803c5d40","features":{},"yanked":false,"links":null}
+{"name":"envrc","vers":"0.3.0","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"171422c8a3a5d7463431c6739927a32c95914b1d9004c68244f9e48dec05426b","features":{},"yanked":false,"links":null}

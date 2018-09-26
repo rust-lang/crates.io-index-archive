@@ -1,0 +1,2 @@
+{"name":"tower-service","vers":"0.0.0","deps":[],"cksum":"d4fce4d535f5741d4ff983240628af18cdd4bdc6c91a7ecb8b0a00999b7d73a0","features":{},"yanked":false}
+{"name":"tower-service","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b32f72af77f1bfe3d3d4da8516a238ebe7039b51dd8637a09841ac7f16d2c987","features":{},"yanked":false,"links":null}

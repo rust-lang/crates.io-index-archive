@@ -1,0 +1,7 @@
+{"name":"intel-mkl-src","vers":"0.1.0","deps":[],"cksum":"7caed75397de02cb13ff7a8f3e192ae6fea529d3d24ae2fc2a4ef69b7338e940","features":{},"yanked":false}
+{"name":"intel-mkl-src","vers":"0.2.0","deps":[],"cksum":"5804be9281782bc1d1e09fe26d5998329d0ceabab243c37d5a16a6346f109eb7","features":{},"yanked":false}
+{"name":"intel-mkl-src","vers":"0.2.1","deps":[],"cksum":"1f3e8fe7a19d8b24ebfa0ef625b973ccc3d341ed4414a1eead6b2a45a23e0b25","features":{},"yanked":false}
+{"name":"intel-mkl-src","vers":"0.2.2","deps":[],"cksum":"b160d8bd2e90c1faced12ead6a04313049926fd303ae0eae784352d0e9a52cee","features":{},"yanked":false}
+{"name":"intel-mkl-src","vers":"0.2.3","deps":[{"name":"procedurals","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"curl","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"46acaf52e156ebe953c50ff917a2c7f66a16360bb5e3cbb3fb7f540ab072fbe2","features":{},"yanked":false}
+{"name":"intel-mkl-src","vers":"0.2.4","deps":[],"cksum":"dce20e14540f9eaf0a04a0c26d849c5c7f0a3058c6f1b5fd3d1e3e9229d65ff3","features":{},"yanked":false}
+{"name":"intel-mkl-src","vers":"0.2.5","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rust-crypto","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f09ddccd537ea439dd5857e7397c4f5ded56a653e6d9e0bd949614cb8ae351db","features":{},"yanked":false}

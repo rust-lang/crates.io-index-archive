@@ -1,0 +1,1 @@
+{"name":"thread_tryjoin","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a565ad2f653ad13a7491982791104b7a467a7c3e9d280d608755ed516fc34a2e","features":{},"yanked":false}

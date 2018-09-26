@@ -1,0 +1,2 @@
+{"name":"timeseries","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2a646a2ef52a8de7049e487ad1a84e80746fad2f2bd67dcedd7efb5fba889fe","features":{},"yanked":false}
+{"name":"timeseries","vers":"0.1.1","deps":[],"cksum":"217d7e1496b8e731b90e9b39a82755164b899d1e82ee7c2a8be01f4336646946","features":{},"yanked":false,"links":null}

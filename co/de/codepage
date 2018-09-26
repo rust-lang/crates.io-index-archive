@@ -1,0 +1,1 @@
+{"name":"codepage","vers":"0.0.1","deps":[{"name":"encoding_rs","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b429b7986e7fdbb7361c1d032a66e37d3e5eceea9e9e00446610d1217325657a","features":{},"yanked":false,"links":null}

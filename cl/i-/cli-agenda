@@ -1,0 +1,2 @@
+{"name":"cli-agenda","vers":"0.1.0","deps":[{"name":"term","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"961fdd1b6adeb764909b279fcfc1928070ab912391ab10536cf545f2d9f79497","features":{},"yanked":false,"links":null}
+{"name":"cli-agenda","vers":"0.1.1","deps":[{"name":"term","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f49318054d601fb7e9e19b74c43eb7faf7b9796489a14f43b431dc308680e7e","features":{},"yanked":false,"links":null}

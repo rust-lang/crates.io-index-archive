@@ -1,0 +1,2 @@
+{"name":"simple-cards","vers":"1.0.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2494dc91996f7e1b1cc003c27aba0b17ec6f1b0d1b99acdf9cf5d7d96bc0a3b7","features":{},"yanked":false}
+{"name":"simple-cards","vers":"1.0.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eaa1a8368d3c58373e7880ac1f852a5c99fa689874e1c6ee09a1fa5639a023ba","features":{},"yanked":false}

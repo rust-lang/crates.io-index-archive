@@ -1,0 +1,2 @@
+{"name":"group","vers":"0.0.0","deps":[],"cksum":"a9d1fafe8287cf1698d22e65df4aae347b3f21af8b69914fb16d4f9e6929ea73","features":{},"yanked":false,"links":null}
+{"name":"group","vers":"0.1.0","deps":[{"name":"ff","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5fa874cb11ddaf7cf45b511138f24169985d61d8760779426016230d11101d1a","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"asn1","vers":"0.1.0","deps":[{"name":"byteorder","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"chrono","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbecab098e614019eb1277ba67ffaf6f2932b36e057f82d1834d861f8c102f8d","features":{},"yanked":false}

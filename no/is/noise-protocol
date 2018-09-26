@@ -1,0 +1,4 @@
+{"name":"noise-protocol","vers":"0.0.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13706ccb48155a519f040889936adba2ff3ca48766926407116032904c0c083d","features":{},"yanked":false}
+{"name":"noise-protocol","vers":"0.0.2","deps":[],"cksum":"c74ff5a76c471b4b455f62b2f15d601a5da5d4ff02ef9b8b0a73dbe540c00a8d","features":{},"yanked":false}
+{"name":"noise-protocol","vers":"0.0.3","deps":[],"cksum":"6e0e3bb2aac2da03c66afef6428b517c40323143557d3cee6aa2511f50890c27","features":{},"yanked":false}
+{"name":"noise-protocol","vers":"0.0.5","deps":[{"name":"arrayvec","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"327f4588603f39ff17c5c9f78582924978bca4b3bf6af53d45ef328d0d07229d","features":{"default":["use_std"],"use_std":[]},"yanked":false,"links":null}

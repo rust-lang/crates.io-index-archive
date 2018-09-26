@@ -1,0 +1,1 @@
+{"name":"random-integer","vers":"1.0.0","deps":[{"name":"rand","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1ab3420f574ec7c07f79b0684ee10f01946d7042084fea32d7574b9b33fbfa1","features":{},"yanked":false,"links":null}

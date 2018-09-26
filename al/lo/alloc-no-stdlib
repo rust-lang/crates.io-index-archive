@@ -1,0 +1,4 @@
+{"name":"alloc-no-stdlib","vers":"1.0.0","deps":[],"cksum":"03cd13f1a47f3f99256b5eef8b1e40003f1d53e215b8e25012ef40688e1cd079","features":{},"yanked":false}
+{"name":"alloc-no-stdlib","vers":"1.1.0","deps":[],"cksum":"a8acab472c10dcb1f5bbaa7ffbc681be5d9fd0fd5adb22e4105849ce30e596fc","features":{"stdlib":[],"unsafe":[]},"yanked":false}
+{"name":"alloc-no-stdlib","vers":"1.2.0","deps":[],"cksum":"b21f6ad9c9957eb5d70c3dee16d31c092b3cab339628f821766b05e6833d72b8","features":{"unsafe":[],"no-stdlib":[]},"yanked":false}
+{"name":"alloc-no-stdlib","vers":"1.3.0","deps":[],"cksum":"71877e174a5d78c969228d628c4f7f3b545d13452bd3d9393fa07aacfb7c6894","features":{"no-stdlib":[],"unsafe":[]},"yanked":false,"links":null}

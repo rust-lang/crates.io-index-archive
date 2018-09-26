@@ -1,0 +1,2 @@
+{"name":"rake","vers":"0.1.0","deps":[{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31c48afed9a1de627a5e53f59bb932490657d86ec5be6cb919c4ae1a2688947b","features":{},"yanked":false,"links":null}
+{"name":"rake","vers":"0.1.1","deps":[{"name":"regex","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5555e13968a316e4d4eb1274246ac197a550f9f8e066ddc7076088494943f805","features":{},"yanked":false,"links":null}
