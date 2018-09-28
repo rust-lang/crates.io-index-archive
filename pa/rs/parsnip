@@ -5,3 +5,4 @@
 {"name":"parsnip","vers":"0.2.0","deps":[],"cksum":"562ba143c82fbb1fb17a488c7c0dd6f63bd652055ecd98b0c1ac63fc483e0706","features":{},"yanked":false,"links":null}
 {"name":"parsnip","vers":"0.2.1","deps":[],"cksum":"33be143d1654889e3cf0bcd4a1eb7304a138f24f4ba160894154d7fc3281365e","features":{},"yanked":false,"links":null}
 {"name":"parsnip","vers":"0.2.2","deps":[],"cksum":"9e4f825c2f87cd8aca493bb668efb0c3d0cac17cf094330d5c15f36037b23578","features":{},"yanked":false,"links":null}
+{"name":"parsnip","vers":"0.3.0","deps":[{"name":"approx","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6b31a43a4a05d62fa1b03d3ef216878de37923b09a03fde7acb43cdfcc2e59e6","features":{},"yanked":false,"links":null}
