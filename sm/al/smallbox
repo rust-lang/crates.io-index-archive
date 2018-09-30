@@ -8,3 +8,4 @@
 {"name":"smallbox","vers":"0.5.0","deps":[],"cksum":"f79ddc628bbd710df6d6a4ae3efe6f2c9961b464444e6787b299f92877e09175","features":{"unsize":[],"default":["std"],"heap":[],"std":["heap"]},"yanked":false,"links":null}
 {"name":"smallbox","vers":"0.5.1","deps":[],"cksum":"2587c323aeacd864b6f98ebe9959524bf38381d80ba9645383300f935a531dcb","features":{"heap":[],"default":["std"],"std":["heap"],"unsize":[]},"yanked":false,"links":null}
 {"name":"smallbox","vers":"0.6.0","deps":[],"cksum":"eeaf51b4be929a8b050208bb96839fa918d259aebdcc85746652cc8c7b46469c","features":{"default":["std"],"std":[],"unsize":[]},"yanked":false,"links":null}
+{"name":"smallbox","vers":"0.6.1","deps":[],"cksum":"90918807115c15a1bba9faf91437f36f4bbc80e285701ca87c22c1ddcf9998b4","features":{"default":["std"],"std":[],"unsize":[]},"yanked":false,"links":null}
