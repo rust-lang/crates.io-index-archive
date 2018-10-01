@@ -27,4 +27,4 @@
 {"name":"futures","vers":"0.1.22","deps":[],"cksum":"80599c995ed197a276e27c27f94a6346446538adde3b87c1ab384f6f8cabfed4","features":{"with-deprecated":[],"use_std":[],"default":["use_std","with-deprecated"]},"yanked":false,"links":null}
 {"name":"futures","vers":"0.1.23","deps":[],"cksum":"884dbe32a6ae4cd7da5c6db9b78114449df9953b8d490c9d7e1b51720b922c62","features":{"default":["use_std","with-deprecated"],"use_std":[],"with-deprecated":[]},"yanked":false,"links":null}
 {"name":"futures","vers":"0.1.24","deps":[],"cksum":"0c84b40c7e2de99ffd70602db314a7a8c26b2b3d830e6f7f7a142a8860ab3ca4","features":{"with-deprecated":[],"use_std":[],"nightly":[],"default":["use_std","with-deprecated"]},"yanked":false,"links":null}
-{"name":"futures","vers":"0.2.3-docs-yank","deps":[],"cksum":"28aaf796364360db25d60ca6ca4eb000baef9525c287195eb63e99f6650196a7","features":{},"yanked":false,"links":null}
+{"name":"futures","vers":"0.2.3-docs-yank","deps":[],"cksum":"28aaf796364360db25d60ca6ca4eb000baef9525c287195eb63e99f6650196a7","features":{},"yanked":true,"links":null}
