@@ -1,0 +1,1 @@
+{"name":"org-tangle-engine","vers":"0.1.0","deps":[{"name":"org-parser","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"105c8ec7222d3fb03b596c8c9f5cf563f3398c1dd81f02af99d37597827a91ce","features":{},"yanked":false,"links":null}
