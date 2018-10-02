@@ -1,1 +1,2 @@
 {"name":"raw-syscall","vers":"0.1.0","deps":[],"cksum":"86941ca9760fb1599260553936d22fa8045f36ab2ae0a358b4efe2ac4b983066","features":{},"yanked":false,"links":null}
+{"name":"raw-syscall","vers":"0.7.3","deps":[{"name":"raw-syscall-base","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92b5c9987ac578645c56cb89f4046814eaa3bbc89717ccb84222b063ad2f555c","features":{},"yanked":false,"links":null}
