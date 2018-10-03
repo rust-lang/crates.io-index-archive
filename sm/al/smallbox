@@ -10,3 +10,4 @@
 {"name":"smallbox","vers":"0.6.0","deps":[],"cksum":"eeaf51b4be929a8b050208bb96839fa918d259aebdcc85746652cc8c7b46469c","features":{"default":["std"],"std":[],"unsize":[]},"yanked":false,"links":null}
 {"name":"smallbox","vers":"0.6.1","deps":[],"cksum":"90918807115c15a1bba9faf91437f36f4bbc80e285701ca87c22c1ddcf9998b4","features":{"default":["std"],"std":[],"unsize":[]},"yanked":false,"links":null}
 {"name":"smallbox","vers":"0.7.0","deps":[],"cksum":"1ee551e0b08f5ef8b718d704cf06c0e8e81500c60f22e395e942b662330df36c","features":{"default":["std"],"std":[],"coerce":[]},"yanked":false,"links":null}
+{"name":"smallbox","vers":"0.7.1","deps":[],"cksum":"290facc3939ac42a49d0fd82380a17c6c947b294ff169542dda9c6bf851dfab0","features":{"coerce":[],"default":["std"],"std":[]},"yanked":false,"links":null}
