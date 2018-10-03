@@ -1,0 +1,1 @@
+{"name":"zeroize","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"bfad9572908a72d6b653649a1393acfc653fb43f8a966cd05ee7110afaca55bf","features":{"nightly":[],"linux-backport":["cc"],"default":["linux-backport","windows"],"windows":["cc"]},"yanked":false,"links":null}
