@@ -7,3 +7,4 @@
 {"name":"numtoa","vers":"0.0.7","deps":[],"cksum":"5c8fcb09df1eba2d128cfc50bdb0c3f33ac4f91fdacc2d3ac039b3b192398f8f","features":{},"yanked":false}
 {"name":"numtoa","vers":"0.1.0","deps":[],"cksum":"b8f8bdf33df195859076e54ab11ee78a1b208382d3a26ec40d142ffc1ecc49ef","features":{"std":[]},"yanked":false,"links":null}
 {"name":"numtoa","vers":"0.2.0","deps":[],"cksum":"f2bbd50399aebcf9d019c4c32281372cc2cd6ee3e809b648206776f6e695cd6a","features":{"std":[]},"yanked":false,"links":null}
+{"name":"numtoa","vers":"0.2.1","deps":[],"cksum":"a20997d773d0443c85d119d065962aae3b5782ac47d26cc3bae3076d23b7f9c6","features":{},"yanked":false,"links":null}
