@@ -1,1 +1,2 @@
 {"name":"kg-utils","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47cf4c9063a7dac67f58030bd5aecdef8c864181fca8c721fcd0684860e3fe2a","features":{},"yanked":false,"links":null}
+{"name":"kg-utils","vers":"0.2.1","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"607ab4595390cb43f20f0e66bd3cf7cf5a96947e16d436e1c3dcad1fa69f2bfa","features":{},"yanked":false,"links":null}
