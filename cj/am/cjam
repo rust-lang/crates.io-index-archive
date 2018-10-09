@@ -1,1 +1,2 @@
 {"name":"cjam","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33cfcfedb0933a3987a394eb3b279d0971cd6e1992a160e8369c494783addc9e","features":{},"yanked":false,"links":null}
+{"name":"cjam","vers":"0.1.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e68d416848aff210b12b70dad8d9ad7dabbcc5971f7b49934dd50bb16d99d7f","features":{},"yanked":false,"links":null}
