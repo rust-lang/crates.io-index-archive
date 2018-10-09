@@ -1,1 +1,2 @@
 {"name":"dlv-list","vers":"0.1.0","deps":[{"name":"rand","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76c8d08104db1f9421362f8af56fe9dac2b15476849e1138e41e81b01e687815","features":{},"yanked":false,"links":null}
+{"name":"dlv-list","vers":"0.1.1","deps":[{"name":"rand","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5b6b49d608875c834f29c63dafc671806b73d18afc02622a3f8f12801679723","features":{},"yanked":false,"links":null}
