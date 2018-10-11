@@ -1,0 +1,1 @@
+{"name":"rustc_apfloat","vers":"0.0.0","deps":[{"name":"bitflags","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae635ce4c0d6406e23afdfe419f41d89f29918dee422ebb5f1aadfe83703471d","features":{},"yanked":false,"links":null}
