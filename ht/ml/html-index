@@ -1,1 +1,2 @@
 {"name":"html-index","vers":"0.1.0","deps":[{"name":"failure","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f990d475b64434da94e24cf245dbff32b33289ac878ba7a90ba57725151028c9","features":{},"yanked":false,"links":null}
+{"name":"html-index","vers":"0.1.1","deps":[{"name":"failure","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"556025a858152aad26dca8046e108ddb61ec024a121837b888a85612ae2a7ab6","features":{},"yanked":false,"links":null}
