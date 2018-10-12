@@ -1,1 +1,2 @@
 {"name":"papyrus","vers":"0.1.0","deps":[],"cksum":"5013f0c495857d59153841e8942c62886063af5ee90719f6b69cf2da8d066c99","features":{},"yanked":false,"links":null}
+{"name":"papyrus","vers":"0.1.1","deps":[{"name":"argparse","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"362d1e06ec5ac3ede0eb06c6a6fa8aa3d77ba3cf70560f2d5a4dae3b33b11976","features":{},"yanked":false,"links":null}
