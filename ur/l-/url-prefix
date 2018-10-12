@@ -1,0 +1,1 @@
+{"name":"url-prefix","vers":"1.0.0","deps":[{"name":"validators","req":"^0.9","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c6b6c6690504926b38411b90b4479c6d69cda27cedb2c12f755e17722e56649","features":{"validator":["validators"]},"yanked":false,"links":null}
