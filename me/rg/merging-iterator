@@ -1,0 +1,1 @@
+{"name":"merging-iterator","vers":"1.0.0","deps":[{"name":"proptest","req":"^0.8.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"223f276ffded09018cc8173eb8d5fd9bf503feb8a4ede0a252abed1d75674298","features":{},"yanked":false,"links":null}
