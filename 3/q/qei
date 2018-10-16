@@ -1,0 +1,1 @@
+{"name":"qei","vers":"1.0.0","deps":[{"name":"embedded-hal","req":"^0.2.1","features":["unproven"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db02ed2609f8ce0a9d7dbc49099a8b5be0140eabf9172be382159f875331f305","features":{},"yanked":false,"links":null}
