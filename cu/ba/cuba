@@ -1,1 +1,2 @@
 {"name":"cuba","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96ab9436ef7f676b0c5a70b7f0fe9de14589374068aed7e2d203e86b0c53f1cd","features":{},"yanked":false,"links":null}
+{"name":"cuba","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2943d8e300a44f3e15459ac7432b62e6ca52380bc8ee0181541f2d1c148a2261","features":{},"yanked":false,"links":null}
