@@ -1,1 +1,2 @@
 {"name":"simon","vers":"0.1.0","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc588f55c912ba572335133edc20f52a1f0db2f954b2ffc2f7a927b9f0fa2b82","features":{},"yanked":false,"links":null}
+{"name":"simon","vers":"0.2.0","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afac86aaee767bcdf77d3a7a735729a423edf16b46a574d92b98a209336e4742","features":{},"yanked":false,"links":null}
