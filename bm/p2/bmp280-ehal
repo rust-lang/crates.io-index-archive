@@ -1,0 +1,1 @@
+{"name":"bmp280-ehal","vers":"0.0.1","deps":[{"name":"embedded-hal","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a57f9cfcb99d674e5584855d759254c737793120b102fa7c20c66a03f65b5a6","features":{},"yanked":false,"links":null}
