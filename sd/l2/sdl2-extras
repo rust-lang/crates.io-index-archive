@@ -1,0 +1,1 @@
+{"name":"sdl2-extras","vers":"0.0.1","deps":[{"name":"sdl2","req":"^0.31","features":["ttf","image"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e765e581da95d7e1efced7596d1faf3afda98bf1faeb37bf93586a54f9e2c2be","features":{},"yanked":false,"links":null}
