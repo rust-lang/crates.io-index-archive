@@ -1,0 +1,1 @@
+{"name":"gse_do_not_disturb","vers":"1.0.0","deps":[{"name":"dconf_rs","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48e8019b9564abdc5759548ca1d616d6e609a3e8ad09d6c5922805fb6936e1ed","features":{},"yanked":false,"links":null}
