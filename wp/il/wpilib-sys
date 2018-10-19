@@ -1,1 +1,2 @@
 {"name":"wpilib-sys","vers":"0.1.0","deps":[],"cksum":"7731c7d3336615fe8befd2742af3aa3e11961226058a99b086d8dd1f84d41e9d","features":{},"yanked":false,"links":null}
+{"name":"wpilib-sys","vers":"0.2.3","deps":[{"name":"bindgen","req":"^0.37.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"edd0dbb9a3d0834015bdad29a6d63bcfcb694568392a13dbf4a76c879e2a30d2","features":{"dev":[]},"yanked":false,"links":null}
