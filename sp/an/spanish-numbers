@@ -1,1 +1,2 @@
 {"name":"spanish-numbers","vers":"0.1.0","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ccea98bb464084f038ed44cce8f180e9f258376891d4b058bb5b7bbfb9f2250","features":{},"yanked":false,"links":null}
+{"name":"spanish-numbers","vers":"0.1.1","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cec550b5cef50eec5678b531228c35170fb8d9f43a04659bc95137d8d5f46761","features":{},"yanked":false,"links":null}
