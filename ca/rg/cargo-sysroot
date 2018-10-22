@@ -1,0 +1,1 @@
+{"name":"cargo-sysroot","vers":"0.1.0","deps":[{"name":"toml","req":"^0.4.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3023f092852aadffd6df0216f1a44e7641ca3707f0f7b0af658a01e21fee40d1","features":{},"yanked":false,"links":null}
