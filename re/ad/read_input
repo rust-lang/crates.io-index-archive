@@ -1,1 +1,1 @@
-{"name":"read_input","vers":"0.1.0","deps":[{"name":"dont_disappear","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2b22b292c3e47027866cf0276c2b2d9be731c086e0992a21c0ae505a2505e439","features":{},"yanked":false,"links":null}
+{"name":"read_input","vers":"0.1.0","deps":[{"name":"dont_disappear","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2b22b292c3e47027866cf0276c2b2d9be731c086e0992a21c0ae505a2505e439","features":{},"yanked":true,"links":null}
