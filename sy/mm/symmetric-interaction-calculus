@@ -5,3 +5,4 @@
 {"name":"symmetric-interaction-calculus","vers":"0.1.4","deps":[],"cksum":"1d5b1fdc4499878ce415d4a4fbad5986c906daa6f1fa748f7a6e84ccf9e05e62","features":{},"yanked":false,"links":null}
 {"name":"symmetric-interaction-calculus","vers":"0.1.5","deps":[],"cksum":"e0a33e843286e246fa38977834ec3231b6c3e4d0d12b98acf6b207ac1640b922","features":{},"yanked":false,"links":null}
 {"name":"symmetric-interaction-calculus","vers":"0.1.6","deps":[{"name":"clap","req":"^2.26.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dc828ccc86772436cd94b63bcf72b4e8672244d8b182993a36341f1183c8913","features":{},"yanked":false,"links":null}
+{"name":"symmetric-interaction-calculus","vers":"0.1.7","deps":[{"name":"clap","req":"^2.26.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e09b49fa5c966da891298cd237a02f502bbc8d6cd0963c3d6400253c14819cfc","features":{},"yanked":false,"links":null}
