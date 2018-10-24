@@ -1,0 +1,1 @@
+{"name":"ask","vers":"0.0.1","deps":[{"name":"termion","req":"^1.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ef85c8f343a65e33f115db7fc91e481402cf47afe725eef8a78d1de3e6fd239","features":{},"yanked":false,"links":null}
