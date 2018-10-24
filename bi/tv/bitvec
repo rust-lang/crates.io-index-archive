@@ -4,3 +4,4 @@
 {"name":"bitvec","vers":"0.4.0","deps":[],"cksum":"925b5b180050dd4741c15eb865c6f4b11dc6bc8c6c9fa53c62f7c791668af18e","features":{},"yanked":false,"links":null}
 {"name":"bitvec","vers":"0.5.0","deps":[],"cksum":"fff49971329f8c6e51882cdab69ade4199abe209134adbfd35cb31ad7be0219e","features":{},"yanked":false,"links":null}
 {"name":"bitvec","vers":"0.6.0","deps":[],"cksum":"9e32f19684b091800897858dc6009b0a4d48144ceba9636208a8906e18898a7f","features":{},"yanked":false,"links":null}
+{"name":"bitvec","vers":"0.6.0-e2018","deps":[],"cksum":"7be76749d7cb07c9c4675b04fbc7fe5f7f10e48fe2d27a8711e8be669343b444","features":{},"yanked":false,"links":null}
