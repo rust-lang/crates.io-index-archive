@@ -1,1 +1,2 @@
 {"name":"libsamplerate-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.43","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"883f27ff40008ccc32db861d1925ab8d7a1435a45c679194addcb5e7f6b111d6","features":{},"yanked":false,"links":null}
+{"name":"libsamplerate-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.43","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ae47411a824232d89529b508d65dbe62f8a2429896f6a55d322f4680a8097ef0","features":{},"yanked":false,"links":null}
