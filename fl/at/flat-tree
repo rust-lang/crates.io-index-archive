@@ -9,3 +9,4 @@
 {"name":"flat-tree","vers":"3.3.0","deps":[{"name":"clippy","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6147dbdc856703e038a8e46af44beb0d627102221d57715baf9239603958beca","features":{},"yanked":false,"links":null}
 {"name":"flat-tree","vers":"3.4.0","deps":[],"cksum":"d992f0fd8afa5439fe9312452cc82edd1e7e403e627a118fd36de63a4589e37a","features":{},"yanked":false,"links":null}
 {"name":"flat-tree","vers":"3.5.0","deps":[],"cksum":"76595cb02bd4440b46ef99f4ae2142f54393989f082b885736462b704508232c","features":{},"yanked":false,"links":null}
+{"name":"flat-tree","vers":"3.6.0","deps":[],"cksum":"e9ad97814fa0ee13bc38460d36d4b0aa6d748e78a8b300e8ff8589600f484f8d","features":{},"yanked":false,"links":null}
