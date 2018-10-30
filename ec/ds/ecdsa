@@ -1,0 +1,1 @@
+{"name":"ecdsa","vers":"0.0.0","deps":[{"name":"signature-traits","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b4969060e98564344c2df9efdbf39d82a28c727d78f3ade4b1a0a8d45bc4b184","features":{},"yanked":false,"links":null}
