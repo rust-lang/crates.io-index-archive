@@ -1,0 +1,1 @@
+{"name":"rand_hc","vers":"0.1.0","deps":[{"name":"rand_core","req":">= 0.2, < 0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7b40677c7be09ae76218dc623efbf7b18e34bced3f38883af07bb75630a21bc4","features":{},"yanked":false,"links":null}
