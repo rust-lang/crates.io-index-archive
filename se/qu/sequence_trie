@@ -20,3 +20,4 @@
 {"name":"sequence_trie","vers":"0.3.3","deps":[],"cksum":"880de14df99807f00f3a8e0e5bd89968fa2d2f5138160ffcfe98b9ce946a9433","features":{},"yanked":false}
 {"name":"sequence_trie","vers":"0.3.4","deps":[],"cksum":"ec13febfa2b1f4205616b9de73c6bd9eaa1c89d3f8c5abf68c6217ec4e4a1831","features":{},"yanked":false}
 {"name":"sequence_trie","vers":"0.3.5","deps":[],"cksum":"32157204e5c9d3c04007bd7e56e96e987635ce0e8e23c085b1e403861b76c351","features":{},"yanked":false}
+{"name":"sequence_trie","vers":"0.3.6","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1ee22067b7ccd072eeb64454b9c6e1b33b61cd0d49e895fd48676a184580e0c3","features":{"btreemap":[]},"yanked":false,"links":null}
