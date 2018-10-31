@@ -1,3 +1,4 @@
 {"name":"assert_float_eq","vers":"1.0.0","deps":[],"cksum":"e77b336a0c8763c2ef08bd7db695f25398b5a6cc40bf77c8f84229860e284509","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"assert_float_eq","vers":"1.0.1","deps":[],"cksum":"895431d546b758383af879da57ef43ece4fc14c1f1dcb922153c6e48c08ff30e","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"assert_float_eq","vers":"1.0.2","deps":[],"cksum":"3faa2efe2f6aba074df0d08a80ef0a47634e93b7cefed387a322a2807b91b715","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"assert_float_eq","vers":"1.0.4","deps":[],"cksum":"b6f83b6f8a0e79c7582176769d764596df278a04f25e2dbe62d9402a5303b1f1","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
