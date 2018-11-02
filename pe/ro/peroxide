@@ -26,3 +26,4 @@
 {"name":"peroxide","vers":"0.4.8","deps":[],"cksum":"e47e286cb9288a09b7220e726f0681506ea0223478e7672740ece43b35a47e66","features":{},"yanked":false,"links":null}
 {"name":"peroxide","vers":"0.4.9","deps":[],"cksum":"9bf44a4ec10d33d624ea3562e474818402ac0d60edc915595eae47aa5d790a2b","features":{},"yanked":false,"links":null}
 {"name":"peroxide","vers":"0.5.0","deps":[{"name":"csv","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c9d91be3152db1893b087638fa27f3e5dd979b7404b26d143081051c436a8906","features":{},"yanked":false,"links":null}
+{"name":"peroxide","vers":"0.5.1","deps":[{"name":"csv","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"602d88d58515bef1f44ba18b209b18fdbaf81c063cc1a226d6f0f3571e9edce6","features":{},"yanked":false,"links":null}
