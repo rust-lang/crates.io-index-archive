@@ -7,3 +7,4 @@
 {"name":"safe-transmute","vers":"0.6.0","deps":[],"cksum":"1ddf8dad72d6475552d35b82b6c932f1ac6c54549f34adae88240e5ea74d1761","features":{},"yanked":false}
 {"name":"safe-transmute","vers":"0.7.0","deps":[],"cksum":"e980484233030fecf847904234806cf29cedfcc240f3383e035cd5d99acd17ae","features":{},"yanked":false}
 {"name":"safe-transmute","vers":"0.8.0","deps":[],"cksum":"0582bbb170ff82a6aa1dc4444410cf5434622310f73e1b897f9ccfc2d113e787","features":{},"yanked":false}
+{"name":"safe-transmute","vers":"0.9.0","deps":[],"cksum":"fb144fdd79cbfae8bb7bd56efac43032dbe64b35c1a35cf38c3a06d2129aa4d9","features":{"test-unaligned":[]},"yanked":false,"links":null}
