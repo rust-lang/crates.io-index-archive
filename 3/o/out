@@ -9,3 +9,4 @@
 {"name":"out","vers":"0.4.2","deps":[],"cksum":"76204d8b8030964dbe5600bf2fef5258d25e88cbfa0f1c0182676dd0638cb583","features":{},"yanked":true,"links":null}
 {"name":"out","vers":"0.4.3","deps":[],"cksum":"bac98667b9c1fbb2d3092fce4bacd23f46758150283ca941b60d99c9e7d1514c","features":{},"yanked":true,"links":null}
 {"name":"out","vers":"0.5.0","deps":[],"cksum":"f92d49f086fbf9e22fea784fed8d6656170859b5bc67d0d9bf1e538392eece5c","features":{"default":["use_std"],"use_std":[]},"yanked":false,"links":null}
+{"name":"out","vers":"0.5.1","deps":[{"name":"rand","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5becea9411b338df79e8fa3c2a12a94ca36781b06d0650719f121b04a6ea04db","features":{"default":["use_std"],"use_std":[]},"yanked":false,"links":null}
