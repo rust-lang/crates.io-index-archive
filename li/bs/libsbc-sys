@@ -1,0 +1,1 @@
+{"name":"libsbc-sys","vers":"0.1.0","deps":[{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8ac3d9f709f9348535d678da704594481e2c5eabc1b18d1b652d36e1ce24ea83","features":{},"yanked":false,"links":null}
