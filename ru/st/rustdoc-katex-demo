@@ -1,1 +1,2 @@
 {"name":"rustdoc-katex-demo","vers":"0.1.0","deps":[{"name":"bitflags","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c56ab9343212f8496b541e8a61faf1ecdb230f966dd294d8d325842b8228f178","features":{},"yanked":false,"links":null}
+{"name":"rustdoc-katex-demo","vers":"0.1.1","deps":[{"name":"bitflags","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0b312680fb8a26fc768abcb80bcdfb6228019196fa430e1cc11ab51cbbfaed6","features":{},"yanked":false,"links":null}
