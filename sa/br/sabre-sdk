@@ -1,1 +1,2 @@
 {"name":"sabre-sdk","vers":"0.0.1","deps":[{"name":"protobuf","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f43a932bbbdf31d54c0066eef6afa9ee3708c42d043528c3aa612a74424fa130","features":{},"yanked":false,"links":null}
+{"name":"sabre-sdk","vers":"0.1.3","deps":[{"name":"protobuf","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d175cff7de14fdac5e6ddc99e648bd9b3653070730a55d2c311e2312091674e9","features":{},"yanked":false,"links":null}
