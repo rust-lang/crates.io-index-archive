@@ -5,3 +5,4 @@
 {"name":"cranelift-codegen-meta","vers":"0.21.0","deps":[],"cksum":"fa3afbe64b2e664f715f294e01a722c064a4db11f3c75aab8d2ca692fb921cf1","features":{},"yanked":false,"links":null}
 {"name":"cranelift-codegen-meta","vers":"0.21.1","deps":[],"cksum":"6c591c260ca645d18b6c3a27d4583b1dc0c3c8375d2852483e8d533804ef8c4e","features":{},"yanked":false,"links":null}
 {"name":"cranelift-codegen-meta","vers":"0.22.0","deps":[],"cksum":"b7baf504162041c394fe8a31f55e01138298c19cf3808ce9454e1315cb1e2dcd","features":{},"yanked":false,"links":null}
+{"name":"cranelift-codegen-meta","vers":"0.23.0","deps":[{"name":"cranelift-entity","req":"^0.23.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4eac16097b96e9f609df735555f2d1658531750fbc3805bca1daca7671aef9eb","features":{},"yanked":false,"links":null}
