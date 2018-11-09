@@ -6,3 +6,4 @@
 {"name":"trees","vers":"0.1.5","deps":[],"cksum":"d8a934e110521a9ab97a262dd50cc2476e570ea7484a12f6020c7d03fddf0990","features":{"no_std":[]},"yanked":false,"links":null}
 {"name":"trees","vers":"0.1.6","deps":[],"cksum":"057914b121b118636cc7f2660bd9e6413dfacd26e80139e257dcd2f2e5c85345","features":{"no_std":[]},"yanked":false,"links":null}
 {"name":"trees","vers":"0.2.0","deps":[],"cksum":"89af5e0d49c86c2878a4ed0d722862df49354bdc5b245f24a55bf817fce9d5f5","features":{"no_std":[]},"yanked":false,"links":null}
+{"name":"trees","vers":"0.2.1","deps":[{"name":"indexed","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afa1821e85be4f56cc5bd08bdbc32c0e26d105c90bed9c637992f6c7f747c180","features":{"no_std":[]},"yanked":false,"links":null}
