@@ -1,1 +1,2 @@
 {"name":"fuss","vers":"0.2.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f00fe197358d9a91446cdd9b34303411d575e50698efba2de942415df54a4eb","features":{},"yanked":false}
+{"name":"fuss","vers":"0.2.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3be149c192eed89f5e8a1f207bb94102fe22ab27fa985376bf303d30c3a48257","features":{},"yanked":false,"links":null}
