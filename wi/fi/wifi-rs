@@ -1,0 +1,1 @@
+{"name":"wifi-rs","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ca0a0e5eac575dfc5d4b659aa60ff2daf747200b9cb441b12c62fc3d730076b","features":{},"yanked":false,"links":null}
