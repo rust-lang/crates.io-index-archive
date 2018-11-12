@@ -1,2 +1,3 @@
 {"name":"mundane","vers":"0.1.0","deps":[],"cksum":"e80416c0c59466f92808dab90e37caa85fa7045d413344a24eb1ea1d4018cab5","features":{},"yanked":false,"links":null}
 {"name":"mundane","vers":"0.2.0","deps":[],"cksum":"5b29cf9b01cad6fd61f1354a6cb4a7381d7de17ed6c39cbc6e7797d70c7d72e1","features":{"kdf":[],"insecure":[],"rand-bytes":[]},"yanked":false,"links":null}
+{"name":"mundane","vers":"0.2.1","deps":[],"cksum":"6ab60a797d2a63dd9ce1f236baa4b3b685d5b4f0ede064b4662c608ea2937635","features":{"insecure":[],"rand-bytes":[],"kdf":[]},"yanked":false,"links":null}
