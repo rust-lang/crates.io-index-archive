@@ -11,4 +11,4 @@
 {"name":"cretonne-entity","vers":"0.12.0","deps":[],"cksum":"4109dcfc0c7b8e11ad92a702d3f5df435d2782012118aa75566d2d0db586da3a","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"cretonne-entity","vers":"0.13.0","deps":[],"cksum":"acb076850eea2d74cd3387b8f2b6e4084da7a4f1946df465d03c874e1a44bf0a","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"cretonne-entity","vers":"0.13.1","deps":[],"cksum":"981dbe2632657c39b2bdaf4d7351a2efd1808e8f03a2c1bd4cb07c225d6c8ee6","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
-{"name":"cretonne-entity","vers":"0.13.2","deps":[],"cksum":"3ffbd2ef5b22aa6bbb23d87a4bbb2aad4ee6cf06d8e137ee0edf4ca506d83c6b","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"cretonne-entity","vers":"0.13.2","deps":[],"cksum":"3ffbd2ef5b22aa6bbb23d87a4bbb2aad4ee6cf06d8e137ee0edf4ca506d83c6b","features":{"default":["std"],"std":[]},"yanked":true,"links":null}
