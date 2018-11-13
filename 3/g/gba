@@ -1,1 +1,2 @@
 {"name":"gba","vers":"0.1.0","deps":[{"name":"gba-proc-macro","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02141e6f2a6cadef31b38a45bc3156c2bee0a14b49e2f650d233ce29e357f7fc","features":{},"yanked":false,"links":null}
+{"name":"gba","vers":"0.2.0","deps":[{"name":"gba-proc-macro","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50abbfb9c729b0109099dcd9d1473263709231f70920b7231052bc382040bdbc","features":{},"yanked":false,"links":null}
