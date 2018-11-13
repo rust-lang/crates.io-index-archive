@@ -1,0 +1,1 @@
+{"name":"nestxml","vers":"0.1.0","deps":[{"name":"xml-rs","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5abd35799a6b7203524075a653c34819bf1b399f3f5079e0d6dcca4ce2f12004","features":{},"yanked":false,"links":null}
