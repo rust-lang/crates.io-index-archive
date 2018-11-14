@@ -6,3 +6,4 @@
 {"name":"static_assertions","vers":"0.2.3","deps":[],"cksum":"1a690c9fc7546295133286ed9a7dc581524136a10f981e114203053fda1ce916","features":{"nightly":["const_fn"],"const_fn":[],"failure":[]},"yanked":false}
 {"name":"static_assertions","vers":"0.2.4","deps":[],"cksum":"11595c10d503238617dd611f608d58f63b3c5525085a6c1f9896c3051b285247","features":{"const_fn":[],"nightly":["const_fn"],"failure":[]},"yanked":false}
 {"name":"static_assertions","vers":"0.2.5","deps":[],"cksum":"c19be23126415861cb3a23e501d34a708f7f9b2183c5252d690941c2e69199d5","features":{},"yanked":false}
+{"name":"static_assertions","vers":"0.3.0","deps":[],"cksum":"ab836ee18887baf9c5312314b25a4219a37c04a59ae1b5cbc199cea093e7e433","features":{"nightly":[]},"yanked":false,"links":null}
