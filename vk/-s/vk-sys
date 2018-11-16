@@ -13,3 +13,4 @@
 {"name":"vk-sys","vers":"0.3.2","deps":[],"cksum":"99d7d90fec4865ffd64fc057d72a0af20ed508ee665b17ad3556c3e033a65601","features":{},"yanked":false}
 {"name":"vk-sys","vers":"0.3.3","deps":[],"cksum":"9567ee6b79b72dfe50201817a9b903de91a1deb091b41c165c2c3679884d8103","features":{},"yanked":false}
 {"name":"vk-sys","vers":"0.3.4","deps":[],"cksum":"51d964d3437c53da484a46d63e16e3bf4a703219052ce27f2adf807d216c4177","features":{},"yanked":true,"links":null}
+{"name":"vk-sys","vers":"0.4.0","deps":[],"cksum":"36f5fd4a7d6d5d19808610583131c0aed271556527cad4cb71c436831a28e059","features":{},"yanked":false,"links":null}
