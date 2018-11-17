@@ -8,3 +8,4 @@
 {"name":"crius","vers":"0.3.0","deps":[{"name":"threadpool","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88ba0990645f25aaeae2d6109c48015c3d8326c145322231aa07301439644990","features":{},"yanked":false}
 {"name":"crius","vers":"0.3.1","deps":[{"name":"threadpool","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7c146a673d9c11043c4297036cc7c5bf4b0f5a2b2634cbf1bbe9cce459f53a7","features":{},"yanked":false}
 {"name":"crius","vers":"0.3.2","deps":[{"name":"threadpool","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de60c751885f261d58ab557ed504f995bbf703f7b1bdcbadbd85318d9a25d06d","features":{},"yanked":false,"links":null}
+{"name":"crius","vers":"0.4.0","deps":[],"cksum":"dee405fcd76127f1561bf94603176ebb297966c1e32b6c9630dd77f3f4ebe4e1","features":{},"yanked":false,"links":null}
