@@ -1,1 +1,2 @@
 {"name":"linear_solver","vers":"0.1.0","deps":[{"name":"bloom","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9835d958805eacffc64d4b1b5d4e53d48794b20d3a698ca359335357c43179e6","features":{},"yanked":false,"links":null}
+{"name":"linear_solver","vers":"0.2.0","deps":[{"name":"bloom","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35b555c71dbb117edec5e1449b8d419db4439c49cce9c8e0ddf8c869c8705423","features":{},"yanked":false,"links":null}
