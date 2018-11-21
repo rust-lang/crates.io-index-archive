@@ -1,1 +1,2 @@
 {"name":"cex","vers":"0.0.1","deps":[],"cksum":"adb1c690bc038d67695ca7c375dfec91c8a7edf30b01e6ab68da22a02bb74311","features":{},"yanked":false,"links":null}
+{"name":"cex","vers":"0.1.0","deps":[{"name":"cex_derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"enumx","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da109b60e3526cffe3475d2e94f64f62c7ad8c4a2ffe281b87c0d54312d76d82","features":{},"yanked":false,"links":null}
