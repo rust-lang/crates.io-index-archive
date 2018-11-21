@@ -1,1 +1,2 @@
 {"name":"enumx","vers":"0.0.1","deps":[],"cksum":"8f2f0164aa8bd96fa18b8238038563140314e0bce69377835349bb9219050ed7","features":{},"yanked":false,"links":null}
+{"name":"enumx","vers":"0.1.0","deps":[{"name":"enumx_derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"956a35f15b0123994a5f341585ba3fc8f7527579625573ae34490e51021dd880","features":{},"yanked":false,"links":null}
