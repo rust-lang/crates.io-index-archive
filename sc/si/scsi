@@ -1,1 +1,2 @@
 {"name":"scsi","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.2.7","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9e6fa8593e018bcc6cdf1787e9e92dc82fd0a449122f321d710cbb48225b255b","features":{},"yanked":false,"links":null}
+{"name":"scsi","vers":"0.1.1","deps":[{"name":"byteorder","req":"^1.2.7","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c5764ba79ef83129be8008e26797fde5e183f8aa42fac49a41b1088b4492a623","features":{},"yanked":false,"links":null}
