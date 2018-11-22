@@ -1,0 +1,1 @@
+{"name":"byteordered","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4d96b594e936db09acb3b545baa848ac05efdeab1caf851373ede17a4022aac","features":{"i128":["byteorder/i128"]},"yanked":false,"links":null}
