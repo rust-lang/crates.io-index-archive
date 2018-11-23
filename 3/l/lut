@@ -1,0 +1,1 @@
+{"name":"lut","vers":"0.1.0-unstable","deps":[{"name":"lazy_static","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a04dbc086dbfbcb928e7a583f4f9fea096f9e4180c1764e86c28808759d3501c","features":{"default":[],"media-type-chars":[]},"yanked":false,"links":null}
