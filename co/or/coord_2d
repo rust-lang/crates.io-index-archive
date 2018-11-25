@@ -1,0 +1,1 @@
+{"name":"coord_2d","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["serde_derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f4d0bfddfa97e8e74ec9f1852b90e00aaf7a254a613efb2ddb8acf6b6e88622","features":{},"yanked":false,"links":null}
