@@ -6,3 +6,4 @@
 {"name":"bitvec","vers":"0.6.0","deps":[],"cksum":"9e32f19684b091800897858dc6009b0a4d48144ceba9636208a8906e18898a7f","features":{},"yanked":false,"links":null}
 {"name":"bitvec","vers":"0.6.0-e2018","deps":[],"cksum":"7be76749d7cb07c9c4675b04fbc7fe5f7f10e48fe2d27a8711e8be669343b444","features":{},"yanked":false,"links":null}
 {"name":"bitvec","vers":"0.8.0-e2018","deps":[],"cksum":"1b21219505c2bce6abeb4df321a3744ee135651fbe790c1c7dcc95cd522cddee","features":{"default":["std"],"std":["alloc"],"alloc":[]},"yanked":false,"links":null}
+{"name":"bitvec","vers":"0.8.0","deps":[],"cksum":"e37e2176261200377c7cde4c6de020394174df556c356f965e4bc239f5ce1c5a","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"links":null}
