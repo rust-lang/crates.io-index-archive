@@ -6,3 +6,4 @@
 {"name":"afi","vers":"0.4.0","deps":[],"cksum":"924c035b2976b65b80287ca4018fbbc80220414667e84295608ff5eea235ab54","features":{},"yanked":false,"links":null}
 {"name":"afi","vers":"0.5.0","deps":[],"cksum":"2f55a644dad5773df69c10196a5617b318d26ebc5a0b8218ce83c8670112476a","features":{},"yanked":false,"links":null}
 {"name":"afi","vers":"0.7.0","deps":[],"cksum":"939ae70009675da19399e2a704acbfb487ccc1af2281e9394c106e577bbc85dd","features":{},"yanked":false,"links":null}
+{"name":"afi","vers":"0.8.0-pre0","deps":[],"cksum":"ba60f765742c7b4cdcb1ad7da27c877d3d454c55736fe430f131663bf916e0bf","features":{},"yanked":false,"links":null}
