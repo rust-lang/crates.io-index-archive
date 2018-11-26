@@ -1,1 +1,2 @@
 {"name":"epoch","vers":"0.0.0","deps":[{"name":"chrono","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb2d3b9ce921b8772f5daceaeb90d962c910d75fba2be844dcc192dad8494f17","features":{},"yanked":false,"links":null}
+{"name":"epoch","vers":"0.0.1","deps":[{"name":"chrono","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e073e3679a06fc249cfe09663b5ed7a01a04c7769c80b8675690e28af6fcf2c6","features":{},"yanked":false,"links":null}
