@@ -2,3 +2,4 @@
 {"name":"rm_rf","vers":"0.1.1","deps":[],"cksum":"00ca35de8e73a5d331cb499b661cf598ff0e5db16213cb71c977c24ca57437cc","features":{},"yanked":false,"links":null}
 {"name":"rm_rf","vers":"0.2.0","deps":[],"cksum":"0df0ca09f07d822b3e248cf15affa95f32672a234163b532e02bdae6cd293f5f","features":{},"yanked":false,"links":null}
 {"name":"rm_rf","vers":"0.2.1","deps":[{"name":"stacker","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61677e4f15895074e88df3e13687eea0a7de59219e49500371818bbcf000fe8d","features":{},"yanked":false,"links":null}
+{"name":"rm_rf","vers":"0.2.2","deps":[{"name":"stacker","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"431cd5629bac2a14692429d42466297bdf9e9c48214a775e130613e5af273ed3","features":{},"yanked":false,"links":null}
