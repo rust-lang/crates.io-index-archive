@@ -1,1 +1,2 @@
 {"name":"osaka-dns","vers":"0.1.1","deps":[{"name":"osaka","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6366147452e115c32df918fdcd79571a4a733e218a37b2a8c480e44a62adb3e5","features":{},"yanked":false,"links":null}
+{"name":"osaka-dns","vers":"0.1.2","deps":[{"name":"osaka","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a31a87d5e97aac49e8a8feb0492796456d1c6339dd96ffc06fefe36a5a159c0","features":{},"yanked":false,"links":null}
