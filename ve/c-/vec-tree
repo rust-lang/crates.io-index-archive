@@ -1,0 +1,1 @@
+{"name":"vec-tree","vers":"0.1.0","deps":[{"name":"generational-arena","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db203f7ca8317cb5b4b5533229959f7922929ae861a3e10079d44c8ee6c5376d","features":{},"yanked":false,"links":null}
