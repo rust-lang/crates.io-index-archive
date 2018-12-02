@@ -1,0 +1,1 @@
+{"name":"integrators","vers":"0.0.1","deps":[{"name":"bindgen","req":"0.43.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e0d93b735a786e559d9b304df94c0e2d80364dd805c191aa5fdf77d5f76fad3c","features":{"gsl":[],"default":["cuba","gsl"],"cuba":[]},"yanked":false,"links":null}
