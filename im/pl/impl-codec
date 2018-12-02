@@ -1,0 +1,1 @@
+{"name":"impl-codec","vers":"0.1.0","deps":[{"name":"parity-codec","req":"^2.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"39e84814eda723a9b6499f6abd3bc9fc9a4fa3ccb24995e50745a10b4c027d22","features":{"std":["parity-codec/std"],"default":["std"]},"yanked":false,"links":null}
