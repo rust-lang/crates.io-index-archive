@@ -1,0 +1,1 @@
+{"name":"impl-rlp","vers":"0.1.0","deps":[{"name":"rlp","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fadc957a9b8c31d0bce3147b9b24a7df94b8873820e618d6ccf0c92a80d6eb4","features":{},"yanked":false,"links":null}
