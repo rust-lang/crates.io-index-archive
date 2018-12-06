@@ -1,1 +1,2 @@
 {"name":"extsort","vers":"0.1.0","deps":[],"cksum":"5bfc765fadca8a28dd304c545e4cab07a78f79d31ac619f7d940dfe7ce3e7446","features":{},"yanked":false,"links":null}
+{"name":"extsort","vers":"0.1.1","deps":[{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"byteorder","req":"^1.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8bd99a6969da6ff34bbb817ac561044b4540d26c73954308b5aa58ec160123bf","features":{},"yanked":false,"links":null}
