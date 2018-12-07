@@ -1,0 +1,1 @@
+{"name":"stackvector","vers":"1.0.0","deps":[{"name":"unreachable","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"943a937b134524d88d2ca48089a2713084d664d0c06e2d8f5e2cce307b99c6a4","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
