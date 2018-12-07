@@ -1,0 +1,1 @@
+{"name":"mobi-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.44.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e5916ee39f4e3db2193e491ed4b5237078041d1482dd35e2b8cd6ab16864ff36","features":{},"yanked":false,"links":"libmobi"}
