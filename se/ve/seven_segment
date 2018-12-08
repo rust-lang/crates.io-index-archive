@@ -1,0 +1,1 @@
+{"name":"seven_segment","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"649e252d7294773e374c49e2002e3d1b9b275c8075d894608db2910bda76e810","features":{},"yanked":false,"links":null}
