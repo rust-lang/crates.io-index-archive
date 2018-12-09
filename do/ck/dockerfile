@@ -1,1 +1,2 @@
 {"name":"dockerfile","vers":"0.1.0","deps":[],"cksum":"7d5f79569ee9a300796c0bbc6eb5913a58d531f2d762213566efeba71947e869","features":{},"yanked":false,"links":null}
+{"name":"dockerfile","vers":"0.1.1","deps":[],"cksum":"0d89c61697f8970560f4aba74b9c2ac2400cc5cb7b13651cdd5ac5588ba2e756","features":{"docinclude":[]},"yanked":false,"links":null}
