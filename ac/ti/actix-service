@@ -1,0 +1,1 @@
+{"name":"actix-service","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01969c3fda7690157f270e64d2706beffad828c6baf907b22edaac9bf8119f81","features":{},"yanked":false,"links":null}
