@@ -7,3 +7,4 @@
 {"name":"atomic","vers":"0.3.4","deps":[],"cksum":"6945bb928733f277215e12824ca9e31ce2016b6231dfc4816ed877df189cc17e","features":{"nightly":[]},"yanked":false}
 {"name":"atomic","vers":"0.4.0","deps":[],"cksum":"777193fba18f25453de6987e78db3c4cdae10768010edfc89e7da23518953136","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"atomic","vers":"0.4.1","deps":[],"cksum":"11b0e64257e989df00417f33c92a674899bb184c572dd274a7f24d378e330ae0","features":{"nightly":[]},"yanked":false,"links":null}
+{"name":"atomic","vers":"0.4.2","deps":[],"cksum":"d189a13d112de4a912ff531148e3f36b35f7f24056be9ba4fb90d6a511570908","features":{"nightly":[]},"yanked":false,"links":null}
