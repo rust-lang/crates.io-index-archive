@@ -1,0 +1,1 @@
+{"name":"dmd_core","vers":"0.2.0","deps":[{"name":"lazy_static","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d3016c8df69696f0a75affa9477dc4334d46441e5acb95cd95691a54706a594","features":{},"yanked":false,"links":null}
