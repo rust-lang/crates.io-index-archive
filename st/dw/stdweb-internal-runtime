@@ -1,2 +1,3 @@
 {"name":"stdweb-internal-runtime","vers":"0.1.0","deps":[],"cksum":"0e93e3ace205c4c1926b882cf8d8209e86acd445fda5fcf850455c3d178651c7","features":{},"yanked":false,"links":null}
 {"name":"stdweb-internal-runtime","vers":"0.1.2","deps":[],"cksum":"b74fe9de4c0d07e91987f4d798b95f27f3cb7769fbc222fa951fa386908297b5","features":{"docs-rs":[],"default":[]},"yanked":false,"links":null}
+{"name":"stdweb-internal-runtime","vers":"0.1.3","deps":[],"cksum":"a2a2f4a2eb556337b2d1a302630bbddf989ae383c70393e89b48152b9896cbda","features":{"default":[],"docs-rs":[]},"yanked":false,"links":null}
