@@ -36,3 +36,4 @@
 {"name":"rustc-ap-graphviz","vers":"310.0.0","deps":[],"cksum":"9a00323d10a3feb8495ce015289b181e7c006ebd6d7939fcafd84c4083c5bdef","features":{},"yanked":false,"links":null}
 {"name":"rustc-ap-graphviz","vers":"311.0.0","deps":[],"cksum":"91239c75198973387566b23034fce31464940ef7cc68a7acf66c16b651b876a0","features":{},"yanked":false,"links":null}
 {"name":"rustc-ap-graphviz","vers":"312.0.0","deps":[],"cksum":"903cf9266f6898f2dea5f2f87812953f0c380455d425e997a4de18df898407de","features":{},"yanked":false,"links":null}
+{"name":"rustc-ap-graphviz","vers":"313.0.0","deps":[],"cksum":"03eb595e154ed43cfd8d83f2005fd855d147ba90af21bcf5a32d8508f78ba317","features":{},"yanked":false,"links":null}
