@@ -1,0 +1,1 @@
+{"name":"v4l2-sys","vers":"1.0.0","deps":[{"name":"bindgen","req":"^0.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"771d3c4ba33e8b9918b37f1afbef982f3f5254f56e397b3acdf0ad64b13cc771","features":{},"yanked":false,"links":null}
