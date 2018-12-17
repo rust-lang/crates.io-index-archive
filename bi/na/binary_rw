@@ -1,1 +1,2 @@
 {"name":"binary_rw","vers":"0.0.1","deps":[{"name":"bincode","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab6b746d04580d77c9abdeeaf119ce3fcf282876deb7f95d64eaf77f403e1d8b","features":{},"yanked":false,"links":null}
+{"name":"binary_rw","vers":"0.0.2","deps":[{"name":"bincode","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f33874406a6c4b102c27e4d5f9ad88f44ac243bf6c93a5a0d8c07edbda2a09b7","features":{},"yanked":false,"links":null}
