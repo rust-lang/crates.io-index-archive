@@ -12,3 +12,4 @@
 {"name":"bitstream-io","vers":"0.7.0","deps":[],"cksum":"975ad1489ee963f6371ac3e161673f05e1f5a286d8a060a3b7c88174652af654","features":{},"yanked":false,"links":null}
 {"name":"bitstream-io","vers":"0.8.0","deps":[],"cksum":"fc0b0459453a7e83a6331713234eb36ee90fd4b93a04be3850edf1bc6670efe4","features":{},"yanked":false,"links":null}
 {"name":"bitstream-io","vers":"0.8.1","deps":[],"cksum":"bc30f4e85d8d4101bb15d8aa9a464945f0522b60b8b742c4b9c585f9fb3fcfbd","features":{},"yanked":false,"links":null}
+{"name":"bitstream-io","vers":"0.8.2","deps":[],"cksum":"323985a3a863d4afdabd6fae576e28cd141abf1f9d47392a27b7cc561baa61a7","features":{},"yanked":false,"links":null}
