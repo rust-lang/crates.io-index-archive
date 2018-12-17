@@ -1,0 +1,1 @@
+{"name":"binary_rw","vers":"0.0.1","deps":[{"name":"bincode","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab6b746d04580d77c9abdeeaf119ce3fcf282876deb7f95d64eaf77f403e1d8b","features":{},"yanked":false,"links":null}
