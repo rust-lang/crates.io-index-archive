@@ -1,0 +1,1 @@
+{"name":"bus_queue","vers":"0.1.0","deps":[{"name":"arc-swap","req":"^0.3.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9bec67b19b139e824e96103b2411ac2430e546f29303b321103112cdca70cff4","features":{},"yanked":false,"links":null}
