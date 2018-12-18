@@ -1,0 +1,1 @@
+{"name":"cargo-x","vers":"0.1.0","deps":[{"name":"toml","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11ba8f5daad8765713d8aa27a724a0d4bc375b4e66b2bbb3d83bab1df582004c","features":{},"yanked":false,"links":null}
