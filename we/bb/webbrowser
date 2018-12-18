@@ -4,3 +4,4 @@
 {"name":"webbrowser","vers":"0.2.2","deps":[],"cksum":"5f3b4827040c5d2e4b868d20f94f1980e082ecfd40d4c86ec09c630ae77ac1ff","features":{},"yanked":false}
 {"name":"webbrowser","vers":"0.3.0","deps":[],"cksum":"f57c100893b96a6c9db2cf70f551ee841ff6804afe0cead96cdf0b9085052199","features":{},"yanked":false,"links":null}
 {"name":"webbrowser","vers":"0.3.1","deps":[],"cksum":"21c311234fd1392a0071c1476cb7a4338dd2479e03e80e2328fbbf2db117b028","features":{},"yanked":false,"links":null}
+{"name":"webbrowser","vers":"0.4.0","deps":[{"name":"widestring","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"},{"name":"winapi","req":"^0.3.6","features":["combaseapi","objbase","shellapi","winerror"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"f08b2530d0f0c96ae77672bd927d07cec2ea33b07d1a8f74cfcf35e61f98fd0e","features":{},"yanked":false,"links":null}
