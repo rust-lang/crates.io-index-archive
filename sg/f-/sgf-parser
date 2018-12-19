@@ -1,0 +1,1 @@
+{"name":"sgf-parser","vers":"0.1.0","deps":[{"name":"nom","req":"^4.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2bbb6a86b72f8ac88c1770dbd0e01991ac3163c2a702a945231c03afc0d83a95","features":{},"yanked":false,"links":null}
