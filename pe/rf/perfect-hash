@@ -1,1 +1,2 @@
 {"name":"perfect-hash","vers":"0.1.0","deps":[{"name":"nohash-hasher","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09050f03dde20a34b48919a1e94399d0ab2d9ea2021930a8abeecc7c9133234c","features":{},"yanked":false,"links":null}
+{"name":"perfect-hash","vers":"0.1.1","deps":[{"name":"nohash-hasher","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c528dc0198f5db798efb9b008bb4fa6067eaaaa4f3245bb6415c667d1a300000","features":{},"yanked":false,"links":null}
