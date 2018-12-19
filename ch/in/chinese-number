@@ -13,3 +13,4 @@
 {"name":"chinese-number","vers":"0.4.5","deps":[],"cksum":"2446acaf40ae4e5b9e3e839d37f1d75358fe057fee64720d5d698ba4f78354f4","features":{},"yanked":false,"links":null}
 {"name":"chinese-number","vers":"0.4.6","deps":[],"cksum":"6eb15468ed1d5a9c4969571b2f1f756fc404b9bcc582633237d11173a5e14244","features":{},"yanked":false,"links":null}
 {"name":"chinese-number","vers":"0.4.7","deps":[],"cksum":"793ac40d903c49f28b757bb893c83a62c1e45bc0460b19c66098ac28a97f780f","features":{},"yanked":false,"links":null}
+{"name":"chinese-number","vers":"0.4.8","deps":[{"name":"chinese-variant","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b031f95cba85a94f069dcbdaf1fa1696fc6f10b867a827fcbba688a11a70914","features":{},"yanked":false,"links":null}
