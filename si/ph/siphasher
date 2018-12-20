@@ -6,3 +6,4 @@
 {"name":"siphasher","vers":"0.2.1","deps":[{"name":"clippy","req":"~0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ffc669b726f2bc9a3bcff66e5e23b56ba6bf70e22a34c3d7b6d0b3450b65b84","features":{},"yanked":false}
 {"name":"siphasher","vers":"0.2.2","deps":[{"name":"clippy","req":"~0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0df90a788073e8d0235a67e50441d47db7c8ad9debd91cbf43736a2a92d36537","features":{},"yanked":false}
 {"name":"siphasher","vers":"0.2.3","deps":[],"cksum":"0b8de496cf83d4ed58b6be86c3a275b8602f6ffe98d3024a869e124147a9a3ac","features":{},"yanked":false,"links":null}
+{"name":"siphasher","vers":"0.3.0","deps":[],"cksum":"9913c75df657d84a03fa689c016b0bb2863ff0b497b26a8d6e9703f8d5df03a8","features":{},"yanked":false,"links":null}
