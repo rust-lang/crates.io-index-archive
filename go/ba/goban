@@ -1,1 +1,2 @@
 {"name":"goban","vers":"0.1.0","deps":[{"name":"rand","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ae3f5063cfa67b475725aee04fc820bb24c6fc1508f9d3387e2d84948e4e0e3","features":{},"yanked":false,"links":null}
+{"name":"goban","vers":"0.1.1","deps":[{"name":"rand","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bcd104ab357edd576663b43a719ac1fbc34aa0e540d322b87b1097784561dbee","features":{},"yanked":false,"links":null}
