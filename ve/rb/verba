@@ -1,1 +1,2 @@
 {"name":"verba","vers":"0.1.0","deps":[],"cksum":"76c5df4bfd18379e1fc032164410287b82ab26b5f90179b0ab87326497a05310","features":{},"yanked":false,"links":null}
+{"name":"verba","vers":"0.2.0","deps":[{"name":"unicode-segmentation","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"090e73e46069299ec24a59492ef597e7051e024f10280252ee3dcd43b69d1e2f","features":{},"yanked":false,"links":null}
