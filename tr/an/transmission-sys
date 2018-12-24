@@ -1,1 +1,2 @@
 {"name":"transmission-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.45","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2e4ae256cbf531c133e6698e803a66b681fc89d2d86a9cb900246481c9cdad0d","features":{},"yanked":false,"links":null}
+{"name":"transmission-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.45","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"69c4de78a6e3e6c9771423b80654b4b9812c791746481992cf88ec5c7ae76137","features":{},"yanked":false,"links":null}
