@@ -13,3 +13,4 @@
 {"name":"guard","vers":"0.3.3","deps":[],"cksum":"1ee02510d4fd33d09cc89f71b764cd4ecea7ca80de818c6f97dbc9a29350eaa2","features":{"debug":[],"nightly":[]},"yanked":false}
 {"name":"guard","vers":"0.3.4","deps":[],"cksum":"821b4a7f1c9879dc4a04a450a704ab09033ecdfd937b040dcf8137c9962cd14c","features":{"nightly":[],"debug":[]},"yanked":false,"links":null}
 {"name":"guard","vers":"0.4.0","deps":[],"cksum":"6d64289e479428075242549a454821cfa30fdea031a065411183b3bcd57aa97e","features":{"nightly":[],"debug":[]},"yanked":false,"links":null}
+{"name":"guard","vers":"0.5.0","deps":[],"cksum":"e1f3d64ec55b293a2ddfee276c6d7733616925b55dd337ddc0dc83aba96fbbb1","features":{"debug":[],"nightly":[]},"yanked":false,"links":null}
