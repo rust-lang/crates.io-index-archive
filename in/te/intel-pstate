@@ -1,1 +1,2 @@
 {"name":"intel-pstate","vers":"0.1.0","deps":[],"cksum":"788dbb63bc0846e6663f4d0c23059597c3878aa12e1d881685a55626b8d4ad13","features":{},"yanked":false,"links":null}
+{"name":"intel-pstate","vers":"0.1.1","deps":[{"name":"smart-default","req":"= 0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"179d04a6c94cb692259380225b58eca73e070034ebefce8930c0a02463e35eda","features":{},"yanked":false,"links":null}
