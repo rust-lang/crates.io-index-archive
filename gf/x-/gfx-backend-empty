@@ -1,0 +1,1 @@
+{"name":"gfx-backend-empty","vers":"0.1.0","deps":[{"name":"gfx-hal","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bb068297aed95a014abaa01738986c2ed5d08c5f9f152c992300c415e9b917c","features":{},"yanked":false,"links":null}
