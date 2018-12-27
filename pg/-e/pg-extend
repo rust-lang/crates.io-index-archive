@@ -1,0 +1,1 @@
+{"name":"pg-extend","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.45","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cd163dc94ef7c1930d839b990c15757a8a7a0117e81a7102d2af6a69a1dd6bb9","features":{},"yanked":false,"links":null}
