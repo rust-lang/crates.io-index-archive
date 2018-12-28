@@ -1,0 +1,1 @@
+{"name":"sandbox_guessing_game","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f5df76e187e0309301dc059580a6353b8f71b17d22719df25386c73a0517f53","features":{},"yanked":false,"links":null}
