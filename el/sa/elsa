@@ -1,2 +1,3 @@
 {"name":"elsa","vers":"0.1.0","deps":[],"cksum":"8d28590401cda6ef559171ad48e3affc892e2cfca78313608056e70c731f9b26","features":{},"yanked":false,"links":null}
 {"name":"elsa","vers":"0.1.1","deps":[{"name":"stable_deref_trait","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09e1b2dca66f47ad3b6c0bdfc3a5f172e49899dec695ea79a142a1b846bbd01c","features":{},"yanked":false,"links":null}
+{"name":"elsa","vers":"0.1.2","deps":[{"name":"stable_deref_trait","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"105e22f78e4d9a27c019d76d22ff17ac6c729116523e7b9b0f47e15384f6ccf0","features":{},"yanked":false,"links":null}
