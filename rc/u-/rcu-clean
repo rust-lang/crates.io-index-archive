@@ -1,0 +1,1 @@
+{"name":"rcu-clean","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1e88caf8daf6ded597ef207d4e063b2bc0e48fb27894f791e808a99790c7e8ff","features":{},"yanked":false,"links":null}
