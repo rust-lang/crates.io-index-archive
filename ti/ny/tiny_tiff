@@ -1,1 +1,2 @@
 {"name":"tiny_tiff","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.45","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e4dfc841448bacc6371a1579c74aa664765a7b7efe4085ef8133c36d916eddb","features":{},"yanked":false,"links":null}
+{"name":"tiny_tiff","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2.45","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"378ba16146673d03e8fbaa76289fa7ed0b92dae6e699d52350cb4e5fb446bea5","features":{},"yanked":false,"links":null}
