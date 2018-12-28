@@ -1,1 +1,2 @@
 {"name":"rcu-clean","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1e88caf8daf6ded597ef207d4e063b2bc0e48fb27894f791e808a99790c7e8ff","features":{},"yanked":false,"links":null}
+{"name":"rcu-clean","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0266fc3c65314289bf78813cfb42b556e3dfc02dc844af7381447074d0303b90","features":{},"yanked":false,"links":null}
