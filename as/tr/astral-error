@@ -1,1 +1,2 @@
 {"name":"astral-error","vers":"0.0.0","deps":[{"name":"rustc_version","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"54f1bd40f867686d24d04940b81544cbfe8c5cfa5d1b3ca98c215fd2500a2a77","features":{},"yanked":false,"links":null}
+{"name":"astral-error","vers":"0.0.1","deps":[],"cksum":"e7b72ab7f8a7ee5ab0c51615fe1469839d706a6717353981d2485652922a2eb0","features":{},"yanked":false,"links":null}
