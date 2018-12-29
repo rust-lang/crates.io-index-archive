@@ -2,3 +2,4 @@
 {"name":"astral-error","vers":"0.0.1","deps":[],"cksum":"e7b72ab7f8a7ee5ab0c51615fe1469839d706a6717353981d2485652922a2eb0","features":{},"yanked":false,"links":null}
 {"name":"astral-error","vers":"0.0.2","deps":[],"cksum":"28dfff1df5593480bb9e9b9e821e49e36ff2d5847833f94884fb8b85fd5962d3","features":{},"yanked":false,"links":null}
 {"name":"astral-error","vers":"0.0.3","deps":[{"name":"astral","req":"^0.0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev","package":"astral-engine"}],"cksum":"66f8375d1883f305dbfa337d9426b27630961fe9055085ef212ddd491adf2444","features":{},"yanked":false,"links":null}
+{"name":"astral-error","vers":"0.0.4","deps":[{"name":"astral","req":"^0.0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev","package":"astral-engine"}],"cksum":"5530e201d3f7071d1d9869097cd9fb774540bd027449c1b6d7e8a92f60c7cc0e","features":{},"yanked":false,"links":null}
