@@ -1,1 +1,2 @@
 {"name":"ssexp","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ffcecde1e7ba8e9fc895bec4e3926b9787d707bc2081f4722b2882cef75f7492","features":{},"yanked":false,"links":null}
+{"name":"ssexp","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"53e4b70b9bbf53ecfb88b81a885d9e6e0dee27280ea080ed82c978134dee25e7","features":{},"yanked":false,"links":null}
