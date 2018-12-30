@@ -1,1 +1,2 @@
 {"name":"sol","vers":"0.1.0","deps":[{"name":"cgmath","req":"^0.16.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c65e8a69b7b95873eb841bc4748e0eaecb65bd4662f168f3029faea810147f3e","features":{},"yanked":false,"links":null}
+{"name":"sol","vers":"0.1.1","deps":[{"name":"cgmath","req":"^0.16.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e3f0a0cc5b48da4e384d8e69a78c82db1972cabadd5c4a1ec7f866ebbd1aa81","features":{},"yanked":false,"links":null}
