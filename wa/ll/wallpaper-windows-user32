@@ -1,0 +1,1 @@
+{"name":"wallpaper-windows-user32","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3","features":["winuser"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a8beac3651235f43dc17247f3522d6f1f21006d9d629e0c6c9e503e8249587a","features":{},"yanked":false,"links":null}
