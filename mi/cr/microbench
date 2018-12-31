@@ -5,3 +5,4 @@
 {"name":"microbench","vers":"0.3.1","deps":[{"name":"clippy","req":"0.0.*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7006ca7b67de093eaeb1f39ed206f07e4d4a5ec1d0778a0f3d7e5d606da9cf42","features":{"nightly":[]},"yanked":false}
 {"name":"microbench","vers":"0.3.2","deps":[{"name":"clippy","req":"0.0.*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4161261be3b2e3ae45aedb2d450aa8d27f58c5ec9c22362a56f305bbf74e995f","features":{"nightly":[]},"yanked":false}
 {"name":"microbench","vers":"0.3.3","deps":[],"cksum":"a536e2e9ec44a63260cb4c60601c9821695319f98cdc553e5068a5b028451099","features":{"nightly":[]},"yanked":false,"links":null}
+{"name":"microbench","vers":"0.4.0","deps":[],"cksum":"266440644c2672070f6a01085ae5ed97b7aa4433194a7736c914a7170e3ef42e","features":{"nightly":[]},"yanked":false,"links":null}
