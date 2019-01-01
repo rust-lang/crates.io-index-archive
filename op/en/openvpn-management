@@ -1,1 +1,2 @@
 {"name":"openvpn-management","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0e8d1e5f58240e189f4b17e6be3e246b8c86a4bc0e195d382cf99d24867b7dd","features":{},"yanked":false,"links":null}
+{"name":"openvpn-management","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dfa999f3a8de8c3a3782a885943ac3fc4a4b9f754591d2277439c27bb08017e2","features":{},"yanked":false,"links":null}
