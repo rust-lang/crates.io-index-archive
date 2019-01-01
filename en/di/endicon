@@ -1,1 +1,2 @@
 {"name":"endicon","vers":"1.0.0","deps":[{"name":"codicon","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e368fdab25a00dcaff8cb9a4afcc6790d71f7f83f85e91d0ee4983914d529087","features":{},"yanked":false,"links":null}
+{"name":"endicon","vers":"1.1.0","deps":[{"name":"codicon","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"819896c7c05ea1dcd409e1e2280b488c6d8dcf70d4ebc428e57e67fb2247baa8","features":{},"yanked":false,"links":null}
