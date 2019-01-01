@@ -47,3 +47,4 @@
 {"name":"redox_syscall","vers":"0.1.47","deps":[],"cksum":"989cf3a20f941652e18c86e6487165ddde7d3041a43726773fba4e4654fa9860","features":{},"yanked":false,"links":null}
 {"name":"redox_syscall","vers":"0.1.48","deps":[],"cksum":"e347de1247b3921ffc5310d65b0bb4056753e18fe7e651c03fdfb682a3c1e466","features":{},"yanked":false,"links":null}
 {"name":"redox_syscall","vers":"0.1.49","deps":[],"cksum":"f22c50afdcf3f0a31ebb6b47697f6a7c5e5a24967e842858118bce0615f0afad","features":{},"yanked":false,"links":null}
+{"name":"redox_syscall","vers":"0.1.50","deps":[],"cksum":"52ee9a534dc1301776eff45b4fa92d2c39b1d8c3d3357e6eb593e0d795506fc2","features":{},"yanked":false,"links":null}
