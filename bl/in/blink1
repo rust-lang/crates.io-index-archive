@@ -1,1 +1,2 @@
 {"name":"blink1","vers":"0.1.0","deps":[{"name":"hidapi","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14dbc926b7e70fb77423eaa9df8824921b810c49fa044c6e45720d9fe9a58466","features":{},"yanked":false,"links":null}
+{"name":"blink1","vers":"0.1.1","deps":[{"name":"hidapi","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"482b657efb89864c412f7916573f503a3331d88d6873f6c7f3551957f60f3d8d","features":{},"yanked":false,"links":null}
