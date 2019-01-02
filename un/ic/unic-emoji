@@ -1,1 +1,2 @@
 {"name":"unic-emoji","vers":"0.7.0","deps":[{"name":"unic-emoji-char","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48fb249d12220068d0e2982460b1090936f03dfe65a675f83d081d01d34d143c","features":{},"yanked":false}
+{"name":"unic-emoji","vers":"0.8.0","deps":[{"name":"unic-emoji-char","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"570602a2aec6cadc55dc48e5224b75acdf9cfc60ac16a98e0c4c7101af0cbbf0","features":{},"yanked":false,"links":null}
