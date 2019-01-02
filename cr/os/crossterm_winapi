@@ -1,0 +1,1 @@
+{"name":"crossterm_winapi","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3.5","features":["winbase","consoleapi","processenv","handleapi"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b1bc85eec28aa07ce82ff8adab106a9d92f877667f7cf76518ba43da47a205d","features":{},"yanked":false,"links":null}
