@@ -16,3 +16,4 @@
 {"name":"rust_info","vers":"0.1.15","deps":[],"cksum":"5db782f66da02ba67fa49397da2b9647faeefb73a90aba3c5370cee596f4680f","features":{"default":[]},"yanked":false,"links":null}
 {"name":"rust_info","vers":"0.2.0","deps":[],"cksum":"e5d8650d3f6360640199ac1139e3925979efacffc1789a92c104dfce5723f8a9","features":{"default":[]},"yanked":false,"links":null}
 {"name":"rust_info","vers":"0.2.1","deps":[],"cksum":"be46439b7356d2df92f39ef8a323e5041518e6b27e8f34a6644b7f2943d70499","features":{},"yanked":false,"links":null}
+{"name":"rust_info","vers":"0.2.2","deps":[],"cksum":"6e4e04a5022c08c95c2285b0beb4cdd24c9b20bc018a263d6fdb0372f7a597db","features":{},"yanked":false,"links":null}
