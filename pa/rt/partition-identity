@@ -6,3 +6,4 @@
 {"name":"partition-identity","vers":"0.1.5","deps":[],"cksum":"2cccd1b0a517d820d7db921482d829a542f608a75c22e54bf60d579e1fe07257","features":{},"yanked":false,"links":null}
 {"name":"partition-identity","vers":"0.1.6","deps":[],"cksum":"b22e3d19ce7b0d4b9cbe180b8560d05af819ac3bd5b3c6a727e1fc709b70bada","features":{},"yanked":false,"links":null}
 {"name":"partition-identity","vers":"0.1.7","deps":[],"cksum":"63980992bd7ba72ae074d8e408af71aa5290cadccc5a80be1590dd9572c4f386","features":{},"yanked":false,"links":null}
+{"name":"partition-identity","vers":"0.2.0","deps":[{"name":"failure","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"failure_derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08bee0933f5f97475cfd0041fb511532b0f01b63bba547216c3d361240a5630a","features":{},"yanked":false,"links":null}
