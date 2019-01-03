@@ -1,1 +1,2 @@
 {"name":"bbqueue","vers":"0.0.1","deps":[],"cksum":"8b21fa3639aa4883a16dd5c738c9c536b27dc0a516161ec097b64da5a2034132","features":{},"yanked":false,"links":null}
+{"name":"bbqueue","vers":"0.0.2","deps":[{"name":"generic-array","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08de1cb529a063b02fbe557632b6f3751cf5f6d1a82ace469aad1fb87932609f","features":{},"yanked":false,"links":null}
