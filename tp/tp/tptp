@@ -10,3 +10,4 @@
 {"name":"tptp","vers":"0.5.0","deps":[],"cksum":"3738c6bc64be0c7055c3afaa7e6a0915eede847ea27f9e6821478caaf7a6b3a7","features":{},"yanked":false,"links":null}
 {"name":"tptp","vers":"0.5.1","deps":[],"cksum":"3fb15b8aee72f779004a35b21fed75af3bd46c406e2b2553a15e67d3e3c981c0","features":{},"yanked":false,"links":null}
 {"name":"tptp","vers":"0.6.0","deps":[],"cksum":"18c197053d6923304251603e61d8ce0fdf5f5c7aaa1a917ba7d02a53f8f423e3","features":{},"yanked":false,"links":null}
+{"name":"tptp","vers":"0.7.0","deps":[{"name":"nom","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afeb57d509b7b788be8d9c464db61f7ff97c208c1c64ba18a1e9b1acc33c7963","features":{},"yanked":false,"links":null}
