@@ -4,3 +4,4 @@
 {"name":"cargo_crates-io_docs-rs_test","vers":"0.1.0","deps":[],"cksum":"2d810ac8a3038fc255fcfdf2e449e0e35f850fb56439ae5f4c649b23744fe5ce","features":{},"yanked":true,"links":null}
 {"name":"cargo_crates-io_docs-rs_test","vers":"0.2.0","deps":[],"cksum":"23c01f6bb8ae06e333ec33bc220c9179ca73a9bb33709d7ba6200c1b33a4753c","features":{},"yanked":false,"links":null}
 {"name":"cargo_crates-io_docs-rs_test","vers":"0.2.0+1","deps":[],"cksum":"7c04810e419badecdf9d8935d0c154a358f23a736fc055b3aa6e52849bc1a940","features":{},"yanked":false,"links":null}
+{"name":"cargo_crates-io_docs-rs_test","vers":"0.2.0-1","deps":[],"cksum":"cfb59efab73730e359b747aba767c8048729f8bad19337f44f7b3bc229685ba5","features":{},"yanked":false,"links":null}
