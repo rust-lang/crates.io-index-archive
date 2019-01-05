@@ -1,0 +1,1 @@
+{"name":"zio-sendfile","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.46","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ed5941d36942f1bf0550ab4f36d1b59822a2bb852ad1169984b214e8db55f8e","features":{},"yanked":false,"links":null}
