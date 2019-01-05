@@ -1,4 +1,4 @@
 {"name":"cbor_event","vers":"1.0.0","deps":[],"cksum":"29a95a1de12d1f5a3ff0c34cd2578f625a5feddb5d5672546ebbbecdb6287a0f","features":{},"yanked":false,"links":null}
 {"name":"cbor_event","vers":"1.0.1","deps":[],"cksum":"fd1877f29511f8bbca55667b55e29e8d4ed80729155c9c9236d99bc340282a6f","features":{},"yanked":false,"links":null}
 {"name":"cbor_event","vers":"2.0.0","deps":[{"name":"quickcheck","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a3ab762523c692ace22ad270867eab9fdd96b12e447b87899255520a45579923","features":{},"yanked":true,"links":null}
-{"name":"cbor_event","vers":"2.0.1","deps":[{"name":"quickcheck","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"93636dc6f17217dff17e56ab1bc6fb3e65f7f857f6448315f938ef810c6e60e9","features":{},"yanked":false,"links":null}
+{"name":"cbor_event","vers":"2.0.1","deps":[{"name":"quickcheck","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"93636dc6f17217dff17e56ab1bc6fb3e65f7f857f6448315f938ef810c6e60e9","features":{},"yanked":true,"links":null}
