@@ -1,2 +1,3 @@
 {"name":"flarelog","vers":"0.1.0","deps":[],"cksum":"31a83da7ad4b396794303cc97632d189965f76ff1ae29802012b47e87779d019","features":{},"yanked":false,"links":null}
 {"name":"flarelog","vers":"0.2.0","deps":[{"name":"crossbeam-channel","req":"^0.3.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41b5659ce050885bbadffb3982e7896d9f4b613eb8c1f30ce72ea296e0af5003","features":{},"yanked":false,"links":null}
+{"name":"flarelog","vers":"0.3.0","deps":[{"name":"crossbeam-channel","req":"^0.3.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"847b7c0cc390ed8d7bb96712222dc7bb9678a423318f08a8374f3037ee919e30","features":{},"yanked":false,"links":null}
