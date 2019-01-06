@@ -1,1 +1,2 @@
 {"name":"matplotrust","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd893cf0e0a0600775a402db8c9d98ea9dfb288e9347723d2777a654fc9db864","features":{},"yanked":false,"links":null}
+{"name":"matplotrust","vers":"0.1.1","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe02a8543d6642083cbc19a08896ea2f9cdcbb304e74277f1c474d115abaf163","features":{},"yanked":false,"links":null}
