@@ -1,0 +1,1 @@
+{"name":"hostlist","vers":"0.1.0","deps":[{"name":"nom","req":"^4.1","features":["verbose-errors"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b8459caa43a3be87bbee62e060a41436834ecc080cb39537c58537ebfb5978d","features":{},"yanked":false,"links":null}
