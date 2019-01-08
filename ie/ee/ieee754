@@ -3,3 +3,4 @@
 {"name":"ieee754","vers":"0.2.0","deps":[],"cksum":"9a57cc26444c7e356779f6cc9f87a257275ee0d9935f6934bc6566f280d36fdf","features":{"unstable":[]},"yanked":false}
 {"name":"ieee754","vers":"0.2.1","deps":[],"cksum":"4b09e329f1c87586e560c9de4f2c737a39033f8d9579f3b9949fa14532234c93","features":{"unstable":[]},"yanked":false}
 {"name":"ieee754","vers":"0.2.2","deps":[],"cksum":"24477af62edd96fc8de28c9a9b719d9c0e1c9f84838f2a757642215d33664ead","features":{"unstable":[]},"yanked":false}
+{"name":"ieee754","vers":"0.2.3","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"df17f869823dad6f4b33cd8c523104d1de56a9960e0313078486b89fca204756","features":{"unstable":[]},"yanked":false,"links":null}
