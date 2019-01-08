@@ -1,1 +1,2 @@
 {"name":"kvm_wrapper","vers":"0.1.0","deps":[],"cksum":"ba7f605daa1f8eab2109db21d086d0055ce8399dfb974c6286f7f02ea78b8382","features":{"kvm-v4_14_0":[],"kvm-v4_20_0":[]},"yanked":false,"links":null}
+{"name":"kvm_wrapper","vers":"0.1.1","deps":[],"cksum":"9e7929bb1d03a07b15ef29201307ecd9c689ea6bf8ce4fdd78c3e8841f92fc3e","features":{"kvm-v4_14_0":[],"kvm-v4_20_0":[]},"yanked":false,"links":null}
