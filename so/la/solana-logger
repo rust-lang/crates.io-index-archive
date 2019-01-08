@@ -1,0 +1,1 @@
+{"name":"solana-logger","vers":"0.11.0","deps":[{"name":"env_logger","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32474a5c398d90fe1a025172559e73a316cde05b27edbc7c7cab7e48d637fca0","features":{},"yanked":false,"links":null}
