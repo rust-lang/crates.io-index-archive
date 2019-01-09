@@ -1,1 +1,2 @@
 {"name":"reorder","vers":"1.0.0","deps":[],"cksum":"3ca0dcdf03a2342934a25a064be2e4de890febc291f4503c3d65a6f5db59ff20","features":{},"yanked":false,"links":null}
+{"name":"reorder","vers":"1.0.1","deps":[{"name":"unchecked-index","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5565464c33048a9b83b8119be0bfe3369645c074ed7b88a4668194fcd93cd1f","features":{},"yanked":false,"links":null}
