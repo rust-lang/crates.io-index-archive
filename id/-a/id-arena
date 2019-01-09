@@ -2,3 +2,4 @@
 {"name":"id-arena","vers":"1.0.1","deps":[],"cksum":"62269eddd96bacdfa316ffbfb3624b3796b1b290f28bb9868c7817bd5acf6107","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"id-arena","vers":"1.0.2","deps":[],"cksum":"6829ee10b3b3d0d6dc58f9666a8f104b077bf46731be41a471d268554830eb4d","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"id-arena","vers":"2.0.0","deps":[],"cksum":"3a7250033feafee46a1cecd2c2616a64aec1d064f38c9ae2bdd297728542843e","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"id-arena","vers":"2.0.1","deps":[],"cksum":"f777730bcb37b1aaac064269dd4be7b868374cb47a86727c38a44797b84426c4","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
