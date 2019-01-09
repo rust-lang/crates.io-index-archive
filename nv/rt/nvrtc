@@ -1,0 +1,1 @@
+{"name":"nvrtc","vers":"0.1.0","deps":[{"name":"bindgen","req":"~0.43","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"04f6b3037d65689856fad2e8cdbd3c082d693dc5d4037690eb9f107ffa93dc68","features":{},"yanked":false,"links":null}
