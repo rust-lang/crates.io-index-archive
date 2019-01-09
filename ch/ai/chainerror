@@ -1,3 +1,4 @@
 {"name":"chainerror","vers":"0.1.0","deps":[],"cksum":"3825c8d8037671b1f262835272db765fae1e8dee83bfb92d57bce458ff3d4254","features":{"default":[],"no-debug-cause":[],"no-fileline":[],"display-cause":[]},"yanked":false,"links":null}
 {"name":"chainerror","vers":"0.2.0","deps":[],"cksum":"a7c750c89e25a1cfef0a4f1ec5ff4a636fd690a470534a66726622a6104cadb1","features":{"no-debug-cause":[],"display-cause":[],"default":[],"no-fileline":[]},"yanked":false,"links":null}
 {"name":"chainerror","vers":"0.3.0","deps":[],"cksum":"083a82b8b6abe85384e45695b527560e309e45bdf194363f5b72aa06fa42a1b0","features":{"no-debug-cause":[],"default":[],"no-fileline":[],"display-cause":[]},"yanked":false,"links":null}
+{"name":"chainerror","vers":"0.3.1","deps":[],"cksum":"5fcc0803176ccd000948f1ce38c71559900f0fb5ea39f3f086345c951942e463","features":{"no-debug-cause":[],"default":[],"no-fileline":[],"display-cause":[]},"yanked":false,"links":null}
