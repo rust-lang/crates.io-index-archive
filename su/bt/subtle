@@ -11,7 +11,7 @@
 {"name":"subtle","vers":"0.7.0","deps":[],"cksum":"8daf2e8fdde6bc5ae2d5f39716ec1f8b2c0435cda89211e3334071b5208e8515","features":{"std":[],"default":["std","generic-impls"],"bench":[],"nightly":[],"generic-impls":[]},"yanked":true,"links":null}
 {"name":"subtle","vers":"0.7.1","deps":[],"cksum":"5938f1b89f10d6356339f071eca74209deeae0b6891c2678d655feb78637e369","features":{"default":["std","generic-impls"],"bench":[],"generic-impls":[],"std":[],"nightly":[]},"yanked":true,"links":null}
 {"name":"subtle","vers":"0.8.0","deps":[],"cksum":"8ad35bf1078b52f4c118c8b6408fcb9a15b2a3e528229cd14cfb00875ae9d9b4","features":{"nightly":[],"bench":[],"std":[],"default":["std"]},"yanked":true,"links":null}
-{"name":"subtle","vers":"0.9.0","deps":[],"cksum":"df2bba5e4dc9be9baf78bee8d3564b5f88292778c91143fadcd7a0bbde0f7c48","features":{"bench":[],"default":["std"],"nightly":[],"std":[]},"yanked":false,"links":null}
+{"name":"subtle","vers":"0.9.0","deps":[],"cksum":"df2bba5e4dc9be9baf78bee8d3564b5f88292778c91143fadcd7a0bbde0f7c48","features":{"std":[],"bench":[],"nightly":[],"default":["std"]},"yanked":true,"links":null}
 {"name":"subtle","vers":"1.0.0","deps":[],"cksum":"2d67a5a62ba6e01cb2192ff309324cb4875d0c451d55fe2319433abe7a05a8ee","features":{"std":[],"i128":[],"nightly":[],"default":["std","i128"]},"yanked":false,"links":null}
 {"name":"subtle","vers":"2.0.0-pre.0","deps":[],"cksum":"9983aa133c8d2d36c0b2aa8d3e68b6ad2dd28e080593de76fa207744adc96ab4","features":{"nightly":[],"i128":[],"std":[],"default":["std","i128"]},"yanked":false,"links":null}
 {"name":"subtle","vers":"2.0.0","deps":[],"cksum":"702662512f3ddeb74a64ce2fbbf3707ee1b6bb663d28bb054e0779bbc720d926","features":{"i128":[],"nightly":[],"default":["std","i128"],"std":[]},"yanked":false,"links":null}
