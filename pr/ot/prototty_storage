@@ -1,0 +1,1 @@
+{"name":"prototty_storage","vers":"0.22.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4582bdd334a463b15f15f64a3d926b680cc5350c05a5eb3ab11b57c87603cd1b","features":{},"yanked":false,"links":null}
