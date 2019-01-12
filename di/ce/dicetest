@@ -1,0 +1,1 @@
+{"name":"dicetest","vers":"0.1.0","deps":[{"name":"rand","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"812c3613b6aa43c6af09f7702d4de1b8f28b6b33c5621263682aaa1ac9bec9f1","features":{"hints":[],"stats":[],"default":["hints","stats"]},"yanked":false,"links":null}
