@@ -1,0 +1,1 @@
+{"name":"jq-sys","vers":"0.1.0","deps":[{"name":"jq-src","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c84b02095d38399e5dcd13fba7cf77b3ab6cc93fa0f9de4ccb3d71b187c66a34","features":{},"yanked":false,"links":null}
