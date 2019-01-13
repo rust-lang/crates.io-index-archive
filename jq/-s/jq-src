@@ -1,0 +1,1 @@
+{"name":"jq-src","vers":"0.1.0","deps":[{"name":"autotools","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d96c317bb67aa9f1151153033ee169656b8655cf7ce7ee3d5accb5f77062f1df","features":{},"yanked":false,"links":"jq"}
