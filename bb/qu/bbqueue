@@ -6,3 +6,4 @@
 {"name":"bbqueue","vers":"0.2.1","deps":[],"cksum":"1bbe340e229d29b68f1413d017ee26f68b9d7c097eebd104836d8fd6b9866281","features":{"std":[],"default":[],"cortex-m":[]},"yanked":false,"links":null}
 {"name":"bbqueue","vers":"0.3.0","deps":[],"cksum":"9252c8b7f7d1ac1b02ec8e99e99af4d27ad5e7b815bf02d8b47da37be621461b","features":{"std":[],"default":[],"cortex-m":[]},"yanked":false,"links":null}
 {"name":"bbqueue","vers":"0.3.1","deps":[],"cksum":"b66dda111662413f11c1ab4e4f9f506d42447825344606f8fdcf86d694afbca8","features":{"std":[],"cortex-m":[],"default":[]},"yanked":false,"links":null}
+{"name":"bbqueue","vers":"0.3.2","deps":[],"cksum":"fd19d1f2d21e6f6de95a61ea33bcfda30f30ac90ac3636d6d83a14baef4310f4","features":{"default":[],"std":[],"cortex-m":[]},"yanked":false,"links":null}
