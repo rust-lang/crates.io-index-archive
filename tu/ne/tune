@@ -1,1 +1,2 @@
 {"name":"tune","vers":"0.1.0","deps":[{"name":"structopt","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15699c6c859763e420fd4351082e0c4264494fcb93faf403c6dfb104c98186c1","features":{},"yanked":false,"links":null}
+{"name":"tune","vers":"0.2.0","deps":[{"name":"structopt","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffcf2887c6d88ba62d1592ddf5362be33465694ea86a77391baada83340494e6","features":{},"yanked":false,"links":null}
