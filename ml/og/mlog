@@ -1,1 +1,2 @@
 {"name":"mlog","vers":"0.0.1","deps":[],"cksum":"d913eed13debc18650e3532238191c9a433ba705338409c1e5cb4f19495d44fb","features":{},"yanked":true,"links":null}
+{"name":"mlog","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.6","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef3e0df1fb79fc53d7e150b720e7e28dfa894b6ce1c94a46607daffc11f263e3","features":{},"yanked":false,"links":null}
