@@ -1,1 +1,2 @@
 {"name":"ei-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"72601ad5a93c03384227dece39122b441fdc5253622562a1efcf89c655b6a1b5","features":{},"yanked":false,"links":"ei"}
+{"name":"ei-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8fb346b3b1ef751a346e5bd7ca19461d512378d27fc1f4bbf15217c8453094b5","features":{},"yanked":false,"links":"ei"}
