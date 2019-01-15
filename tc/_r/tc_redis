@@ -1,0 +1,1 @@
+{"name":"tc_redis","vers":"0.1.0","deps":[{"name":"tc_core","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83769e9bb6537b5150ff617a71fafec2dc0e832dbc065e44f187c40dc9bf31c6","features":{},"yanked":false,"links":null}
