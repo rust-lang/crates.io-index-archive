@@ -1,0 +1,1 @@
+{"name":"ei-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"72601ad5a93c03384227dece39122b441fdc5253622562a1efcf89c655b6a1b5","features":{},"yanked":false,"links":"ei"}
