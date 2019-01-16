@@ -1,1 +1,2 @@
 {"name":"rbtag","vers":"0.1.0","deps":[{"name":"rbtag_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b6d83d9f6661c508c71b27b32344fa1b4ee2bc1708b2335647522a2aacff886","features":{},"yanked":false,"links":null}
+{"name":"rbtag","vers":"0.2.0","deps":[{"name":"rbtag_derive","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6836bc3370d93f68d033343381b141ff3e4731e3889d37632bcd4f33765f5dcb","features":{},"yanked":false,"links":null}
