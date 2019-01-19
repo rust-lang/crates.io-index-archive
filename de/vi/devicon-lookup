@@ -1,1 +1,2 @@
 {"name":"devicon-lookup","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2cd42f4e6cb12398606cfa1e27d424622135cbf618ab56092edc65a24d83154","features":{},"yanked":false,"links":null}
+{"name":"devicon-lookup","vers":"0.2.0","deps":[{"name":"lazy_static","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fed31229bc4945bf279a24fcfc67d782ad1f6868056dfe3556cde18312cb3e45","features":{},"yanked":false,"links":null}
