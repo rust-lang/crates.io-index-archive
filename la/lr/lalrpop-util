@@ -26,3 +26,4 @@
 {"name":"lalrpop-util","vers":"0.16.0","deps":[],"cksum":"2400aeebcd11259370d038c24821b93218dd2f33a53f53e9c8fcccca70be6696","features":{},"yanked":false,"links":null}
 {"name":"lalrpop-util","vers":"0.16.1","deps":[],"cksum":"7c4eb3e3b8cd41d58f0f5aff3b10c3d394c0d0f09bea59c571f1a8371cf2cf28","features":{},"yanked":false,"links":null}
 {"name":"lalrpop-util","vers":"0.16.2","deps":[],"cksum":"488da0d45c65af229321623c62660627d02b0e7fbc768a4c3fcd121815404ef1","features":{},"yanked":false,"links":null}
+{"name":"lalrpop-util","vers":"0.16.3","deps":[],"cksum":"33b27d8490dbe1f9704b0088d61e8d46edc10d5673a8829836c6ded26a9912c7","features":{},"yanked":false,"links":null}
