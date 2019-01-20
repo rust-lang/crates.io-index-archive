@@ -1,0 +1,1 @@
+{"name":"postgres-extension","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.47","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c7d0b9ca59937e9bb94858d11441a0c7a1ba1211fbc71f5f93510940e5dc866","features":{},"yanked":false,"links":null}
