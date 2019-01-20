@@ -8,3 +8,4 @@
 {"name":"hashmap_core","vers":"0.1.7","deps":[],"cksum":"af1eb51c09861f9aee39a763286aa8f3ea006c718d0ad6d337619d9662e3c5cc","features":{"disable":[]},"yanked":false,"links":null}
 {"name":"hashmap_core","vers":"0.1.8","deps":[],"cksum":"bb2ac7f695e1c3b1e72d9515512b3964a1f9289cd83376d00cce73d779d33498","features":{"disable":[]},"yanked":false,"links":null}
 {"name":"hashmap_core","vers":"0.1.9","deps":[],"cksum":"4a9548e1de55e2a7cbcedefa9b6528e63f0ecba750fa060a325769fcf6298d11","features":{"disable":[]},"yanked":false,"links":null}
+{"name":"hashmap_core","vers":"0.1.10","deps":[],"cksum":"8e04cb7a5051270ef3fa79f8c7604d581ecfa73d520e74f554e45541c4b5881a","features":{"disable":[]},"yanked":false,"links":null}
