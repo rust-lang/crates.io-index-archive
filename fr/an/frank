@@ -1,1 +1,2 @@
 {"name":"frank","vers":"0.1.0","deps":[],"cksum":"428d612e3ded16c89fb1d1a0da987203c99c2a48f98642a8510ec2ba6eb1e780","features":{},"yanked":false,"links":null}
+{"name":"frank","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1784d2112566708c86b045bee368065b702da6aedf1b494d6812cafbf20bf51c","features":{},"yanked":false,"links":null}
