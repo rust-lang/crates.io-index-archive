@@ -1,0 +1,1 @@
+{"name":"ma_proper","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1a5179d68fc83c6da858c1948e2dc4aaf69804a889de7f4c7182d1ca9c98731d","features":{"volatile_fallback":[],"trace":[],"default":[]},"yanked":false,"links":null}
