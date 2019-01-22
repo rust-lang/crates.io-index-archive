@@ -1,0 +1,1 @@
+{"name":"enocean","vers":"0.1.0","deps":[{"name":"serialport","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d26ef35c1154f1413e4bc10bc4e20d8b30409bfab26178412d6bc53953433a9","features":{},"yanked":false,"links":null}
