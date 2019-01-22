@@ -1,1 +1,2 @@
 {"name":"shapefile","vers":"0.0.1","deps":[],"cksum":"6ee356a10171cd482de78ff2450e8d3807b3df632ee1c4394f33095afd78a2bd","features":{},"yanked":false}
+{"name":"shapefile","vers":"0.0.2","deps":[{"name":"byteorder","req":"^1.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30c6c2e0add6a0ccbd5bb1f8ecdc5f143be9ecfe3327b75229526332ae4f4cfb","features":{},"yanked":false,"links":null}
