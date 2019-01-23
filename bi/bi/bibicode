@@ -1,0 +1,1 @@
+{"name":"bibicode","vers":"0.1.0","deps":[{"name":"clap","req":"^2.32.0","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"679d635fcd234e8b193acf70c22a29890aa0a1545d0a548a6b243ab14bc7cdb6","features":{},"yanked":false,"links":null}
