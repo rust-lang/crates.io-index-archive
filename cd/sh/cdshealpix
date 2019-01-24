@@ -1,1 +1,2 @@
 {"name":"cdshealpix","vers":"0.1.1","deps":[{"name":"structopt","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4637560b79e4b78872ac16c1fea3a932b0634163e726b3fe1b7691a6eda78bfd","features":{"nightly":[]},"yanked":false,"links":null}
+{"name":"cdshealpix","vers":"0.1.2","deps":[],"cksum":"d9b84f91945dce9bd9bdb9d843d53da3b643a4efc46c53f35f4a51120d659ecd","features":{},"yanked":false,"links":null}
