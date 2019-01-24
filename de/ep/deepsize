@@ -1,1 +1,2 @@
 {"name":"deepsize","vers":"0.1.0","deps":[{"name":"deepsize_derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9186fcfa0581c657199c10f120316bc42c6eb8406796cb38676c0732cc38b5d","features":{},"yanked":false,"links":null}
+{"name":"deepsize","vers":"0.1.1","deps":[{"name":"deepsize_derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2652724679769cce64914eec1821afecd7396c751386864152d9a8f922b696c0","features":{},"yanked":false,"links":null}
