@@ -1,1 +1,2 @@
 {"name":"alloc-facade","vers":"0.1.0","deps":[],"cksum":"4261ee7188fc1b01c249a12c99c94186d0bbfe0ec5818784a3d00face5d278d7","features":{"default":[],"std":[],"alloc":[],"futures":[]},"yanked":false,"links":null}
+{"name":"alloc-facade","vers":"0.2.0","deps":[],"cksum":"5f009a5648721654a8eecee04ca243e500cf35fc65dfdaa27bf2ff13e848081e","features":{"futures":[],"alloc":[],"default":[],"std":[]},"yanked":false,"links":null}
