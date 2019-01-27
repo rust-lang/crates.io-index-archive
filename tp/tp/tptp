@@ -12,3 +12,4 @@
 {"name":"tptp","vers":"0.6.0","deps":[],"cksum":"18c197053d6923304251603e61d8ce0fdf5f5c7aaa1a917ba7d02a53f8f423e3","features":{},"yanked":false,"links":null}
 {"name":"tptp","vers":"0.7.0","deps":[{"name":"nom","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afeb57d509b7b788be8d9c464db61f7ff97c208c1c64ba18a1e9b1acc33c7963","features":{},"yanked":false,"links":null}
 {"name":"tptp","vers":"0.7.1","deps":[{"name":"nom","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8617662ed43f5e53f5987e2e92f20e9abb3a79515b9f986e8ac793be4b4dccc","features":{},"yanked":false,"links":null}
+{"name":"tptp","vers":"0.7.2","deps":[{"name":"nom","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38ef53eeab9d7f56f1be212281e67f0e724fe7df466d833820e1167b54f23596","features":{},"yanked":false,"links":null}
