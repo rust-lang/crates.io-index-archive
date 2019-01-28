@@ -1,1 +1,2 @@
 {"name":"crossbeam-queue","vers":"0.0.0","deps":[],"cksum":"485534ca77ea1103053c2e9e54cf4d27a87e18e725430c2477f7b7138a8a2d83","features":{},"yanked":false,"links":null}
+{"name":"crossbeam-queue","vers":"0.1.0","deps":[{"name":"crossbeam-utils","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2a97502f3913979e72f0370260eb6e765168a082b01cd1494c765641457d583e","features":{},"yanked":false,"links":null}
