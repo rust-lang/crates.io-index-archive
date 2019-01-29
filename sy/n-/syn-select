@@ -1,0 +1,1 @@
+{"name":"syn-select","vers":"0.1.0","deps":[{"name":"syn","req":"^0.15.26","features":["full","visit","extra-traits"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20ac465903c9f2814aa11b5031297e11fb81aaabe18f1594f5ef2db71b34b52c","features":{},"yanked":false,"links":null}
