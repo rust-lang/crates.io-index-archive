@@ -3,3 +3,4 @@
 {"name":"sgx_types","vers":"1.0.0","deps":[],"cksum":"856c6648b731660db14bca279ffefeca4093de8ebb9e5eebc98406b9d97dcd41","features":{"default":[]},"yanked":false,"links":null}
 {"name":"sgx_types","vers":"1.0.1","deps":[],"cksum":"6d010e1d626e3bc171e50a337936df876c8d4f2ee6ea68ca4a17a7d45ed77ceb","features":{"default":[]},"yanked":false,"links":null}
 {"name":"sgx_types","vers":"1.0.4","deps":[],"cksum":"9b4ed1fdd89a436a87750dc2556deb414f18e19f7807d104f7e037969092ed3d","features":{"default":[]},"yanked":false,"links":null}
+{"name":"sgx_types","vers":"1.0.5","deps":[],"cksum":"4fbbd6ab078bf8020683bf750906ace93a0f2a9c5b1e3fc7ae0859f596db8dfd","features":{"default":[]},"yanked":false,"links":null}
