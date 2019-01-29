@@ -5,3 +5,4 @@
 {"name":"cookie-factory","vers":"0.2.3","deps":[],"cksum":"9179f80d506c86cf782c3cf98f306199fccc91eb1e06d649fbeb8c1e5e24e6ab","features":{},"yanked":false,"links":null}
 {"name":"cookie-factory","vers":"0.2.4","deps":[],"cksum":"98a479f8099cc5ac64915a3dd76c87be27f929ba406ad705aacb13f19b791207","features":{},"yanked":false,"links":null}
 {"name":"cookie-factory","vers":"0.3.0-alpha1","deps":[{"name":"maplit","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f6417a25d0893ea15be0b821e872288ce533f8e618c7aa92a6f7e15936f3c752","features":{},"yanked":false,"links":null}
+{"name":"cookie-factory","vers":"0.3.0-alpha2","deps":[{"name":"maplit","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"089ef996706859c664000fb0c6d79892c7f1983423a38bf2377ca5f008a7f8de","features":{},"yanked":false,"links":null}
