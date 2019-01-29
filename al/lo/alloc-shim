@@ -1,3 +1,4 @@
 {"name":"alloc-shim","vers":"0.1.0","deps":[],"cksum":"79ae4a6079bbc777f76ec38dd40543b56dd4f94f6054cafc82b3dd0ab8dd0faf","features":{"std":[]},"yanked":false,"links":null}
 {"name":"alloc-shim","vers":"0.2.0","deps":[],"cksum":"46801b4b4d51e97818c6327275ea93528f5411a63810c1b9df73fddac901cf1e","features":{"std":[],"alloc":[]},"yanked":true,"links":null}
 {"name":"alloc-shim","vers":"0.2.1","deps":[],"cksum":"1c57e1def0b727ab4af9802f35f91a868ccd75616106b1fb039957edc89ef96c","features":{"std":[],"alloc":[]},"yanked":false,"links":null}
+{"name":"alloc-shim","vers":"0.3.0","deps":[],"cksum":"9e64b5f93a8e376d1f3e9cc4ddc651b4435aa735f60595c14b50f52e049faea9","features":{"std":[],"alloc":[],"futures":[]},"yanked":false,"links":null}
