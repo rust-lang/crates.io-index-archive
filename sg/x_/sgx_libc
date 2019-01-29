@@ -1,1 +1,2 @@
 {"name":"sgx_libc","vers":"0.0.1","deps":[],"cksum":"55d8e44d7f27f3e6f8ed46cfcb869c13abdcce21338c341809574a7773a9e3e0","features":{},"yanked":false,"links":null}
+{"name":"sgx_libc","vers":"1.0.5","deps":[{"name":"sgx_types","req":"= 1.0.5","features":[],"optional":false,"default_features":true,"target":"cfg(all(target_os = \"linux\", target_arch = \"x86_64\"))","kind":"normal"}],"cksum":"d8c5c9ba30db56c3d066a9bfbc90600b981cf389689bf8dce53d9af5302d7eac","features":{"default":["align"],"align":[]},"yanked":false,"links":null}
