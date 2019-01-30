@@ -1,0 +1,1 @@
+{"name":"core_arch","vers":"0.1.0","deps":[{"name":"wasm-bindgen-test","req":"= 0.2.19","features":[],"optional":false,"default_features":true,"target":"wasm32-unknown-unknown","kind":"dev"}],"cksum":"9b79127bb1aa29e517f4fc2dd689c3aab682b0a6a68abc3b0fce779f19965085","features":{"strict":[]},"yanked":false,"links":null}
