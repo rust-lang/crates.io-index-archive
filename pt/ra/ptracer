@@ -1,0 +1,1 @@
+{"name":"ptracer","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.47","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2bbbb36afdd4ef9a61c0b21af7818fa20de5a6a63ae58a2a2ab4993d21d3610","features":{},"yanked":false,"links":null}
