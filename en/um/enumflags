@@ -7,3 +7,4 @@
 {"name":"enumflags","vers":"0.4.1","deps":[],"cksum":"e16a4b7d6c9546d80d55ab06c8e34d3278cd146ad086a2123783e46025cb6370","features":{"default":[],"nostd":[]},"yanked":false,"links":null}
 {"name":"enumflags","vers":"0.3.1","deps":[],"cksum":"a088cbd01278995bef81ee5fb74b59c004f8e8a3938258725180a38b178d3e47","features":{"default":[],"nostd":[]},"yanked":false,"links":null}
 {"name":"enumflags","vers":"0.3.2","deps":[],"cksum":"f5041f15d061818785e73050c909fc002db5d5df8a9442c8f00754bdd5d8506c","features":{"nostd":[],"default":[]},"yanked":false,"links":null}
+{"name":"enumflags","vers":"0.4.2","deps":[],"cksum":"417acd730e0226e2a41592090f5a556f93d07b08bf43a71a74e69b990f9ddc29","features":{"nostd":[],"default":[]},"yanked":false,"links":null}
