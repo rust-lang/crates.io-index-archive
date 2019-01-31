@@ -5,3 +5,4 @@
 {"name":"enumflags","vers":"0.2.1","deps":[{"name":"num","req":"^0.1.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08f8ef39da2c148eb04feff0aa193f65e41fe1bea7928e5c78c1e13bc8e556ba","features":{"nostd":[],"default":[]},"yanked":false}
 {"name":"enumflags","vers":"0.3.0","deps":[],"cksum":"ca286c9b67b29d0100a9dbe173e3d7053a54c21fa57a56542e38d09bb446d5ec","features":{"nostd":[],"default":[]},"yanked":false}
 {"name":"enumflags","vers":"0.4.1","deps":[],"cksum":"e16a4b7d6c9546d80d55ab06c8e34d3278cd146ad086a2123783e46025cb6370","features":{"default":[],"nostd":[]},"yanked":false,"links":null}
+{"name":"enumflags","vers":"0.3.1","deps":[],"cksum":"a088cbd01278995bef81ee5fb74b59c004f8e8a3938258725180a38b178d3e47","features":{"default":[],"nostd":[]},"yanked":false,"links":null}
