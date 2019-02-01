@@ -1,0 +1,1 @@
+{"name":"sentry-process","vers":"1.0.0","deps":[{"name":"sentry","req":"0.13.*","features":["with_client_implementation","with_device_info","with_rust_info"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bf33d8011bdef20d8665facf9fed5b7df4e02b2b22f9109eef6203ed0dae3f72","features":{},"yanked":false,"links":null}
