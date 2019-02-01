@@ -12,3 +12,4 @@
 {"name":"smallbox","vers":"0.7.0","deps":[],"cksum":"1ee551e0b08f5ef8b718d704cf06c0e8e81500c60f22e395e942b662330df36c","features":{"std":[],"default":["std"],"coerce":[]},"yanked":true,"links":null}
 {"name":"smallbox","vers":"0.7.1","deps":[],"cksum":"290facc3939ac42a49d0fd82380a17c6c947b294ff169542dda9c6bf851dfab0","features":{"default":["std"],"std":[],"coerce":[]},"yanked":true,"links":null}
 {"name":"smallbox","vers":"0.7.2","deps":[],"cksum":"f5f2d8bf927d660afd25938c03294c4a3601071be034d4949beb007dd467712a","features":{"default":["std"],"std":[],"coerce":[]},"yanked":false,"links":null}
+{"name":"smallbox","vers":"0.7.3","deps":[],"cksum":"03bcf521e02dc2a88ac42ae2843afb6223d2c68052e95d11650dffc35495b390","features":{"std":[],"default":["std"],"coerce":[]},"yanked":false,"links":null}
