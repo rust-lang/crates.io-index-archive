@@ -1,0 +1,1 @@
+{"name":"zg-co2","vers":"0.1.0-alpha.1","deps":[{"name":"assert_float_eq","req":"^1.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"02123da66d1db16a23aff56a3e2aa0d82f0ea3a31ef657ac12a28eb023b272b8","features":{"use_std":[],"default":["use_std"]},"yanked":false,"links":null}
