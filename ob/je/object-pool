@@ -3,3 +3,4 @@
 {"name":"object-pool","vers":"0.1.2","deps":[],"cksum":"a08265f4ef719e8a12bbf85160741ee3c7717a1c2e3cc67909485ac606fceb83","features":{},"yanked":false,"links":null}
 {"name":"object-pool","vers":"0.1.3","deps":[],"cksum":"e245412b3ab2c003d1c17926dcb1c98bb13228403a62333caa0d6ccdb3c79222","features":{},"yanked":false,"links":null}
 {"name":"object-pool","vers":"0.1.6","deps":[],"cksum":"e52a4748ee53b07fd535f6bbc5e1b02b7038fd296f82bbe8020884d88c4977b9","features":{},"yanked":false,"links":null}
+{"name":"object-pool","vers":"0.2.0","deps":[{"name":"replace_with","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"340eded9f23040311750be72a9aefe49bf9e1532f2e2111483479c7d4b0dd853","features":{},"yanked":false,"links":null}
