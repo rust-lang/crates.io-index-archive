@@ -1,0 +1,1 @@
+{"name":"io-enum","vers":"0.1.0","deps":[{"name":"derive_utils","req":"^0.6.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5e62ecb898cf95cd956e2dbcc49b2ccde7d772011f6622b10ca4ed4b306e4c7","features":{"default":[],"read_initializer":[]},"yanked":false,"links":null}
