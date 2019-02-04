@@ -1,0 +1,1 @@
+{"name":"led","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ea84a20c8cdd4e8e6e646eb8d7e5871a5825dd9898edfa319062fc20fa46f28","features":{},"yanked":false,"links":null}
