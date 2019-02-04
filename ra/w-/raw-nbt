@@ -1,0 +1,1 @@
+{"name":"raw-nbt","vers":"0.1.0","deps":[{"name":"flate2","req":"^1.0.5","features":["rust_backend"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"807f01e7f9975ccece8ddfe2cd0544df8951292d999cc399f734b1183612207e","features":{},"yanked":false,"links":null}
