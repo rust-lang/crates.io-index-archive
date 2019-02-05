@@ -1,0 +1,1 @@
+{"name":"syscoin-bech32","vers":"0.8.2","deps":[{"name":"bech32","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a419a5dde8897bb05e38690ae2ba4541eccb27acc161fce737e6ab151dc6bde","features":{},"yanked":false,"links":null}
