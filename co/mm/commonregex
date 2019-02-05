@@ -1,1 +1,2 @@
 {"name":"commonregex","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19203d8a1361cc79e5e66bc6645465b07cddb97241db3037e787e734756c0196","features":{},"yanked":false,"links":null}
+{"name":"commonregex","vers":"0.1.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac6297d21dfc62ac7aae940782a1ea90ba238fd0c8c1214b5a640b17fab81a98","features":{},"yanked":false,"links":null}
