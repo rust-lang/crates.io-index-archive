@@ -2,3 +2,4 @@
 {"name":"colol","vers":"0.2.0","deps":[],"cksum":"ff8b11acc50990dc9c71914ae7f326481805dfe7b40465d8c92d36a3e16e6af2","features":{},"yanked":false,"links":null}
 {"name":"colol","vers":"0.2.1","deps":[],"cksum":"70fcc26a0ebaa2fe807cf7e15c4128eb3e4755293b534daefa470ea380db2c6b","features":{},"yanked":false,"links":null}
 {"name":"colol","vers":"0.2.2","deps":[],"cksum":"2268735b160a184476b53812eeaba76a6a32a0236f4c57094d1f58f9d03e176d","features":{},"yanked":false,"links":null}
+{"name":"colol","vers":"0.3.0","deps":[],"cksum":"e1af51c56d0c30fe7e1da63fed481cabcbd6d0e932ff1b5a19fbfe2b00194704","features":{"colol":[],"default":["colol"]},"yanked":false,"links":null}
