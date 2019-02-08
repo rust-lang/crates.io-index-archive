@@ -1,1 +1,2 @@
 {"name":"differ","vers":"0.3.0","deps":[{"name":"fnv","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a9f3fadd16ffd018f842f9f60ec5d9c38fd0ab95005abcca03bb158b86401e7","features":{},"yanked":false,"links":null}
+{"name":"differ","vers":"0.3.1","deps":[{"name":"fnv","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe6593864a4ea690cc05e3d79ea1cf84dec1da6e20d5e13dbf08a11ecb46eb42","features":{},"yanked":false,"links":null}
