@@ -1,1 +1,2 @@
 {"name":"mdl_monkey","vers":"0.0.1","deps":[],"cksum":"a13f4b717a9e65415da262eb491043cfc891174871e4b3ba06178bf587b3772c","features":{},"yanked":false,"links":null}
+{"name":"mdl_monkey","vers":"0.0.2","deps":[{"name":"getopts","req":"^0.2.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2cc6594d07f2c70f027342685d0e2ddb1fb2708806b80a63665b101aa852d96","features":{},"yanked":false,"links":null}
