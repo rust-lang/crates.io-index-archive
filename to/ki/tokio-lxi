@@ -1,0 +1,1 @@
+{"name":"tokio-lxi","vers":"0.1.0","deps":[{"name":"tokio","req":"^0.1.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dd17d27f3079510f23f2bb6fd0838c98c316bb7ee653c389fdaa3d39570be1d","features":{},"yanked":false,"links":null}
