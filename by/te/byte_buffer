@@ -1,0 +1,1 @@
+{"name":"byte_buffer","vers":"0.1.0","deps":[{"name":"crossbeam-channel","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b238315a4ac3624fdf551664e1fc769a06283ad21ba33f2a67d7683d58d00c9","features":{},"yanked":false,"links":null}
