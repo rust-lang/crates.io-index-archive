@@ -5,3 +5,4 @@
 {"name":"dia-go","vers":"0.1.0","deps":[],"cksum":"2b75bf3b3dc089ff5a7b9446e37f95ef8c561cbab69b8514f8a0ac21e6a85d59","features":{},"yanked":false,"links":null}
 {"name":"dia-go","vers":"0.2.0","deps":[],"cksum":"d696a55ab2db76a72dd53bce9d7d8ab3d6ec05144183e3482e4d952af61f329b","features":{},"yanked":false,"links":null}
 {"name":"dia-go","vers":"0.2.1","deps":[],"cksum":"3396a397b92c214c0e236edb6fb95a2edda7ac64c48f4f2a8c0f3756a359b126","features":{},"yanked":false,"links":null}
+{"name":"dia-go","vers":"0.3.1+deprecated","deps":[],"cksum":"15e1d0a86e585b5ef27e73ced85aa9fc400e81b6a885c730cd559bb08237b25c","features":{},"yanked":false,"links":null}
