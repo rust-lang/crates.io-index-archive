@@ -1,0 +1,1 @@
+{"name":"artsy","vers":"0.1.0","deps":[{"name":"take_mut","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee8c8f7470d08598cf850e542037ec04babd4bedc3c2c25e4989088200c7e616","features":{"default":["node4","node16","node48"],"node4":[],"no-simd":[],"node16":[],"node48":[]},"yanked":false,"links":null}
