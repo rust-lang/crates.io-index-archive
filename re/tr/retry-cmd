@@ -1,0 +1,1 @@
+{"name":"retry-cmd","vers":"0.1.0","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff5efaf28d735627913de32c8c4bf396f57b854249710b01d4bb874823d66038","features":{},"yanked":false,"links":null}
