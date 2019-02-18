@@ -1,1 +1,2 @@
 {"name":"yarte_helpers","vers":"0.0.1","deps":[{"name":"v_htmlescape","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f483d3255b2f4a6882670e091b6f05fd861de6f787b321a40f7a5b0cea4e8d36","features":{},"yanked":false,"links":null}
+{"name":"yarte_helpers","vers":"0.0.2","deps":[{"name":"v_htmlescape","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8cdc415a4d70a66230227bb349e023f8cf546585122428cbc08df009de9608f9","features":{},"yanked":false,"links":null}
