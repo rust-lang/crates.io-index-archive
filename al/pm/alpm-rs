@@ -1,1 +1,1 @@
-{"name":"alpm-rs","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.48","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9642d729c617993aecfcbce10f6a11e46f11498608b2e584dfdfd905732c3b96","features":{},"yanked":false,"links":null}
+{"name":"alpm-rs","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.48","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9642d729c617993aecfcbce10f6a11e46f11498608b2e584dfdfd905732c3b96","features":{},"yanked":true,"links":null}
