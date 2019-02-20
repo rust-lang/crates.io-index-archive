@@ -1,0 +1,1 @@
+{"name":"archery","vers":"0.0.0","deps":[{"name":"pretty_assertions","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"81835c57fea89d3747ae7d786801551a056aa30490d7f9f87a70aef5adcc83e7","features":{"fatal-warnings":[]},"yanked":false,"links":null}
