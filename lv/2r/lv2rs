@@ -1,1 +1,2 @@
 {"name":"lv2rs","vers":"0.1.0","deps":[{"name":"lv2rs-core","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d9c9b6c20746112a91eb0e130316e9c24c1be6919c6ec3f0a1f5cf40df0be3f","features":{},"yanked":false,"links":null}
+{"name":"lv2rs","vers":"0.1.1","deps":[{"name":"lv2rs-core","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bdfb399e070b836a41ef37e8209254da9d0e9a19e143d9a85a8bce60f8fb4f6","features":{},"yanked":false,"links":null}
