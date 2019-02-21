@@ -1,0 +1,1 @@
+{"name":"pacman","vers":"0.1.0","deps":[{"name":"rust-ini","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f237a1b92386d8faa39c9bea78f1512da8cd31f8724bb78aa72480024d1b5137","features":{},"yanked":false,"links":null}
