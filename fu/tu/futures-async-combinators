@@ -1,0 +1,1 @@
+{"name":"futures-async-combinators","vers":"0.1.0","deps":[{"name":"futures","req":"= 0.3.0-alpha.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"futures-preview"}],"cksum":"d617d0f6c4e6e1c3b52388958836c35e1855cee85332e5953b2694745d07d603","features":{},"yanked":false,"links":null}
