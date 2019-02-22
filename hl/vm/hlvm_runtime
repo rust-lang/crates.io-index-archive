@@ -1,0 +1,1 @@
+{"name":"hlvm_runtime","vers":"0.1.1","deps":[{"name":"bigdecimal","req":"^0.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99a2afc4214e5d9b04ee2bf96799d94dd707285f40ddfb142f9bb9ca23293ca8","features":{},"yanked":false,"links":null}
