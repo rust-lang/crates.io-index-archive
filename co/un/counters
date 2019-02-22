@@ -1,1 +1,2 @@
 {"name":"counters","vers":"0.1.0","deps":[],"cksum":"711264d905fdfce06f26eef4fa0b43e1ecf964cfa71d53502e332fbc15412b84","features":{},"yanked":false,"links":null}
+{"name":"counters","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":["serde_derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c40828d1ae0c025bbd7be4c85e8d59d5f6a50794b27a11b0bb70c4726e0e3d35","features":{"noop":[],"serialization":["serde"]},"yanked":false,"links":null}
