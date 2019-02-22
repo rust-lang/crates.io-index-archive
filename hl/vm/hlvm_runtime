@@ -1,1 +1,2 @@
 {"name":"hlvm_runtime","vers":"0.1.1","deps":[{"name":"bigdecimal","req":"^0.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99a2afc4214e5d9b04ee2bf96799d94dd707285f40ddfb142f9bb9ca23293ca8","features":{},"yanked":false,"links":null}
+{"name":"hlvm_runtime","vers":"0.1.2","deps":[{"name":"bigdecimal","req":"^0.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"caca38b12985a2ae7be86a2258640310306672bf64e06eb440e93378c8c629cd","features":{},"yanked":false,"links":null}
