@@ -2,3 +2,4 @@
 {"name":"dockerfile-rs","vers":"0.1.1","deps":[],"cksum":"fd9b7ebe2520b05c67292c0543b2f66dadeb4e6c0a172de9f38066c3d8f1a28a","features":{},"yanked":false,"links":null}
 {"name":"dockerfile-rs","vers":"0.2.0","deps":[],"cksum":"f8e2cab491321e9000a89a3c5dc20091df066f038c9b1bb32b74eaaabe3e4b51","features":{},"yanked":false,"links":null}
 {"name":"dockerfile-rs","vers":"0.2.1","deps":[],"cksum":"30c4555a797e5e9d2415cebfa14fbfa8cb16a5545f96bb72c002e90443f6c167","features":{},"yanked":false,"links":null}
+{"name":"dockerfile-rs","vers":"0.2.2","deps":[],"cksum":"042e709ef7fb1c3f88b3e548013f22c38901692995ab16dd6a3fa839dd82a04d","features":{},"yanked":false,"links":null}
