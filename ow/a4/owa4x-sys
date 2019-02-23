@@ -1,1 +1,2 @@
 {"name":"owa4x-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.47.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ba0dc42b5cb76cb8ff5170605356df621850d6a8e65826cc64ba080b76adf3a0","features":{},"yanked":false,"links":null}
+{"name":"owa4x-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.47.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3dbd5155c3d31ce1d4c0bff9d30978d9ed81c30f2ea75b117ce401ce8de99e5e","features":{},"yanked":false,"links":null}
