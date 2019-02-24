@@ -1,0 +1,1 @@
+{"name":"csi","vers":"1.0.0","deps":[{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1064b18811ddbf2d637db89df80263478cff6ef510d4a6b0655b27b6e7c0fa02","features":{},"yanked":false,"links":null}
