@@ -1,1 +1,2 @@
 {"name":"env-next-door","vers":"0.0.3","deps":[{"name":"dia-args","req":"^0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b7793d1551df0560ceffb0aed5f9570309d3f02839d4873a20ecc53d579cb928","features":{},"yanked":false,"links":null}
+{"name":"env-next-door","vers":"0.1.0","deps":[{"name":"dia-args","req":"^0.19.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea4971c9a18e67124f4552fcc1328f7d1d49c8db168155bae503a1087b7cc914","features":{},"yanked":false,"links":null}
