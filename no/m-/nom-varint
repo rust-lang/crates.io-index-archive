@@ -1,1 +1,2 @@
 {"name":"nom-varint","vers":"0.0.2","deps":[{"name":"nom","req":"^4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3cc09c7c30d17a22d1c1d1c128c52cba87cb85a05c240c4c4aebf92a117d9f1f","features":{},"yanked":false,"links":null}
+{"name":"nom-varint","vers":"0.1.0","deps":[{"name":"nom","req":"^4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68365475b828fda173ef7107df70548ae572ff384cce32e11789132696c8e505","features":{},"yanked":false,"links":null}
