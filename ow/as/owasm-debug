@@ -1,0 +1,1 @@
+{"name":"owasm-debug","vers":"0.1.0","deps":[{"name":"owasm-std","req":"^0.20.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4eda140f18844b1bb81d06c343a41c482111548b5bd36a219b33779cf38033d9","features":{},"yanked":false,"links":null}
