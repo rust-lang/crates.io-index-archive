@@ -7,3 +7,4 @@
 {"name":"botan-sys","vers":"0.2.0","deps":[],"cksum":"2af4223bcb0364b6317e77654d970f7551d66e9a871c14bfc8581de3611301ba","features":{},"yanked":false,"links":"botan-2"}
 {"name":"botan-sys","vers":"0.3.0","deps":[],"cksum":"82e639ff17428acc87dbd0fe2005f6602f04b85297d07f7ec71ae4b12a84a8a6","features":{},"yanked":false,"links":"botan-2"}
 {"name":"botan-sys","vers":"0.4.0","deps":[],"cksum":"5706b8a8293285157256f7a2a0ca43e908589172609cb45c81e5288f10fc47d0","features":{},"yanked":false,"links":"botan-2"}
+{"name":"botan-sys","vers":"0.5.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e0f1d4fb8e823786e8404b957789a7acc95dd881b8a6a59f15744c0b80cbab5b","features":{},"yanked":false,"links":"botan-2"}
