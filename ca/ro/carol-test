@@ -4,3 +4,4 @@
 {"name":"carol-test","vers":"0.6.8","deps":[],"cksum":"8a3051f129834c06145c8958ed1a2ab38ce85535906b0e1607c03f3c0cc2b5d4","features":{"32-column-tables":[]},"yanked":false,"links":null}
 {"name":"carol-test","vers":"0.8.0","deps":[],"cksum":"5fd79f443dd79ddfaac991a76a573593978a5b08824c7f3b795008737e439ba1","features":{"32-column-tables":[]},"yanked":false,"links":"a"}
 {"name":"carol-test","vers":"0.1.4","deps":[],"cksum":"2f01db0e2be18948705c3a96ea406f6f84084e5ab5ab635fb9355afeba26bc38","features":{},"yanked":false,"links":null}
+{"name":"carol-test","vers":"1.0.1","deps":[],"cksum":"88bf4e9b1cd97bc35501e8778b8f96df18bdc4773b41c98a18587869d83f9a29","features":{},"yanked":false,"links":null}
