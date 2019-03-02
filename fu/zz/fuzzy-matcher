@@ -1,0 +1,1 @@
+{"name":"fuzzy-matcher","vers":"0.1.0","deps":[{"name":"termion","req":"^1.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a59cd3513e2f1be61b5e5c44d5aa599c7cca5028bf225c363458c16a4f1c8668","features":{},"yanked":false,"links":null}
