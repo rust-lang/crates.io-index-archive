@@ -1,1 +1,2 @@
 {"name":"path-tree","vers":"0.0.1","deps":[{"name":"radix-tree","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d6e858e66f5dc38e084fd76f267546df70ebc532d4cc8f56994dfa3b1463f82","features":{},"yanked":false,"links":null}
+{"name":"path-tree","vers":"0.0.2","deps":[{"name":"radix-tree","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6debd7016e8eb00e400d587642d35947435cbf43cb34b0abb9ec6a7c98b8646c","features":{},"yanked":false,"links":null}
