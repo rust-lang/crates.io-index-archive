@@ -1,0 +1,1 @@
+{"name":"byte_struct","vers":"0.1.0","deps":[{"name":"byte_struct_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d71c2e14830d6a64e30e15f23c3bde5ffaaf21887f8dfcd83fb5ca623b4f984","features":{},"yanked":false,"links":null}
