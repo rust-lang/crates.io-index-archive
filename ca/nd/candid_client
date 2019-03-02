@@ -1,1 +1,2 @@
 {"name":"candid_client","vers":"0.1.0","deps":[{"name":"clap","req":"^2.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"27d7edac917b5bf08be20866983d21f98a9a9f4d6c855a5749dd63618570ed9d","features":{},"yanked":false,"links":null}
+{"name":"candid_client","vers":"0.1.1","deps":[{"name":"clap","req":"^2.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"be1f13342878ebd476100a427180dce5b385709940a3093639ea219fbbc2da71","features":{},"yanked":false,"links":null}
