@@ -1,0 +1,1 @@
+{"name":"liblife","vers":"0.1.0","deps":[{"name":"itertools","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed96b0f23f91d30a790a3f69d80f61aa1b1c60f5cad0cc308e8434034cf35cd5","features":{},"yanked":false,"links":null}
