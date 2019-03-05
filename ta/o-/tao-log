@@ -1,0 +1,1 @@
+{"name":"tao-log","vers":"0.1.0","deps":[{"name":"log","req":">= 0.4.6, < 0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aec06bfeece9436521b08c1727c17caeb9afa111a461740289d901d53e8ba651","features":{},"yanked":false,"links":null}
