@@ -5,3 +5,4 @@
 {"name":"backtracking_iterator","vers":"0.3.1","deps":[],"cksum":"6d145bd9bee40cee6f90a7b027b4f28b2b150995eb10b5a127160a222c0eaed7","features":{},"yanked":false,"links":null}
 {"name":"backtracking_iterator","vers":"0.4.0","deps":[],"cksum":"3b9fe9015168fc732baf345b26fac24480634ad998a9482b85093f3a0d4dca74","features":{},"yanked":false,"links":null}
 {"name":"backtracking_iterator","vers":"0.4.1","deps":[],"cksum":"94f2b34595464104fa985eb0b91b23094c4a25f4ffe4211404aea56000ad1746","features":{},"yanked":false,"links":null}
+{"name":"backtracking_iterator","vers":"0.4.2","deps":[{"name":"matches","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"29ebff9f6df6f2ccf4d3cdedc0ebf8ff83ddfdc8617eea4482e9ce5c1a247e68","features":{"slice":[]},"yanked":false,"links":null}
