@@ -1,0 +1,1 @@
+{"name":"async-ready","vers":"1.0.0","deps":[{"name":"futures-preview","req":"^0.3.0-alpha.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0c1807cdce6a528d96fda3dc441c8a6d73f9c72d13d1656a0a38bbee4e4e0ca1","features":{},"yanked":false,"links":null}
