@@ -1,1 +1,2 @@
 {"name":"cmdtree","vers":"0.0.1","deps":[],"cksum":"ed24201e50ecada6b20fd93e47831d3121b91f8538239bbde0505c1454023909","features":{},"yanked":false,"links":null}
+{"name":"cmdtree","vers":"0.1.0","deps":[{"name":"colored","req":"^1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"linefeed","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77fab7c865c62c185cb963161c610efde43ce069988382684f82de49651e59a0","features":{},"yanked":false,"links":null}
