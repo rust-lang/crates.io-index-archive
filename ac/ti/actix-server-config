@@ -1,0 +1,1 @@
+{"name":"actix-server-config","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"871545e33cd2b04cfa7fec5678dea77766ca7ee4a6bf8c3127ce770f628f45c6","features":{},"yanked":false,"links":null}
