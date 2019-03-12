@@ -1,0 +1,1 @@
+{"name":"crypto_api_chachapoly","vers":"0.1.6","deps":[{"name":"crypto_api","req":"^0.1.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf19caf5efb35cedcc1772f1a4229197b555611f1c2bc999c91c8e7a7fa1bd40","features":{},"yanked":false,"links":null}
