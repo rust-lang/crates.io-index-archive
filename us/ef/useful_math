@@ -5,3 +5,4 @@
 {"name":"Useful_Math","vers":"0.0.5","deps":[],"cksum":"5b4e4af647cce7fae53972f1f885828f9c89b4313e7b8b1c8eb83d80e94d8b57","features":{},"yanked":false,"links":null}
 {"name":"Useful_Math","vers":"0.0.6","deps":[],"cksum":"e6777f7e9e9dbb58b41d1b18c69c05976e9d621e69d14762a8248369bfeb9a15","features":{},"yanked":false,"links":null}
 {"name":"Useful_Math","vers":"0.0.7","deps":[{"name":"num","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ac808adfbc69a251ea6a3d1f228ac823fc0be8e5c2604f155285bd280c9ab2d","features":{},"yanked":false,"links":null}
+{"name":"Useful_Math","vers":"0.0.8","deps":[{"name":"num","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"360405ee0469c40639542a9d704d86340ac31fef50d45ee9788160ebef8e2bb2","features":{},"yanked":false,"links":null}
