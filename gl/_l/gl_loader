@@ -1,0 +1,1 @@
+{"name":"gl_loader","vers":"0.0.1","deps":[{"name":"core-foundation","req":"^0.6","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"macos\")","kind":"normal"}],"cksum":"4f58a874804708f6b8209cf181eeadb2ea7d256a58203f58e36daad1220cea28","features":{},"yanked":false,"links":null}
