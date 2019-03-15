@@ -1,0 +1,1 @@
+{"name":"kalman_rs","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.17.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"014920646df9176849f586ab31d42703af36e9fc8a79cb18052a8215df0ea04f","features":{},"yanked":false,"links":null}
