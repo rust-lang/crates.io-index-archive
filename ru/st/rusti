@@ -1,1 +1,2 @@
 {"name":"rusti","vers":"0.1.0","deps":[{"name":"dirs","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85e18af2b175faf68bccd1aa9822ab3b3e904907058fe5f2e0813e89bea938b5","features":{},"yanked":false,"links":null}
+{"name":"rusti","vers":"0.1.1","deps":[{"name":"dirs","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba6329018b1a9d92a9bdc42169b76a114685d5bb331ca44940ad7c9ded92a64b","features":{},"yanked":false,"links":null}
