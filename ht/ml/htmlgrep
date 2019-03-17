@@ -1,1 +1,2 @@
 {"name":"htmlgrep","vers":"0.1.0","deps":[{"name":"kuchiki","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8ba0ca61fe3087842afe281436ba9c859e17d9097a56877065585947e3f63eb","features":{},"yanked":false,"links":null}
+{"name":"htmlgrep","vers":"0.2.0","deps":[{"name":"kuchiki","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3aca566fc5e56d1a5a120bf8d20ad3f4bc8cec8de0d29df4b0203cea2ba2cf5","features":{},"yanked":false,"links":null}
