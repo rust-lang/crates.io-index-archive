@@ -1,0 +1,1 @@
+{"name":"buddy_system_allocator","vers":"0.1.0","deps":[{"name":"spin","req":"^0.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae236e94915462a1a31b491a182411049be738148cc5a3b8b855de3c4afcf455","features":{"use_spin":["spin"],"default":["use_spin"]},"yanked":false,"links":null}
