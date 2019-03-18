@@ -1,1 +1,2 @@
 {"name":"identity-server","vers":"0.0.1","deps":[{"name":"log","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ebf545ae068c3afe96ea4352416cc9c8fa933cd75a9a9653a8eeebb0bd81d05d","features":{},"yanked":false,"links":null}
+{"name":"identity-server","vers":"0.0.2","deps":[{"name":"log","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2be8a20c111f41430e4bf7427f438ad480abe38d2be09d8196018841fa428d6","features":{},"yanked":false,"links":null}
