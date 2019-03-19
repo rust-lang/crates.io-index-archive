@@ -1,0 +1,1 @@
+{"name":"sorted-vec","vers":"0.3.1","deps":[{"name":"serde","req":"1.*","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"560b8f4b034dd0bd37682de3036a60fa82566c2193de08b2daa065b1789a9544","features":{},"yanked":false,"links":null}
