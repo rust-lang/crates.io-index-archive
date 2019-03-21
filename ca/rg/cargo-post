@@ -1,0 +1,1 @@
+{"name":"cargo-post","vers":"0.1.0","deps":[{"name":"cargo_metadata","req":"^0.7.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4b28d5ead3d5c21d922db089088512c5d42351e8fbb5e108bd04ed288ae685fa","features":{},"yanked":false,"links":null}
