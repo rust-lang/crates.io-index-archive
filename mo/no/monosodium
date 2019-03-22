@@ -1,0 +1,1 @@
+{"name":"monosodium","vers":"0.1.0-pre.0","deps":[{"name":"bindgen","req":"^0.47","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"eb9e166ef0537d98c8dcf980048cd681edb9d37dec0758c2edb8a8620a2e07f4","features":{"fresh":["bindgen"],"default":[]},"yanked":false,"links":null}
