@@ -1,1 +1,2 @@
 {"name":"smart-leds-trait","vers":"0.1.0","deps":[],"cksum":"454794882de9e53f54ba5981e158f242a0359b13801a4a24b5a927c83c31a427","features":{},"yanked":false,"links":null}
+{"name":"smart-leds-trait","vers":"0.1.1","deps":[{"name":"rgb","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d152d8207f5dc9d757b919d310cd1b2ceb158beccb6139db4b005a2d909d1ea","features":{},"yanked":false,"links":null}
