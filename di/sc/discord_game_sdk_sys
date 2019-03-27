@@ -1,0 +1,1 @@
+{"name":"discord_game_sdk_sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.48.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"dd4bf8901ed1f27dffc3a67d59a271f3b7775a768a5f1613ec10e14ba147cb65","features":{"no_linking":[]},"yanked":false,"links":null}
