@@ -1,1 +1,2 @@
 {"name":"flint","vers":"0.1.0","deps":[],"cksum":"243b3c65179849c7157c37130be3317f8eb7708909b0a4d75b3c9a75e19e712e","features":{},"yanked":false,"links":null}
+{"name":"flint","vers":"0.1.1","deps":[{"name":"clap","req":"^2.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ignore","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"261b2f0b0794563cd5ffdba2f76f6b28e5651cec90ad9d586d6e039c71281667","features":{},"yanked":false,"links":null}
