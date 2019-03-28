@@ -1,0 +1,1 @@
+{"name":"librealsense2","vers":"0.2.0","deps":[{"name":"librealsense2-sys","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"deb5312869ee977677339a9ee787292dedb3c0abe3bb8cdba77d507812290c1c","features":{},"yanked":false,"links":null}
