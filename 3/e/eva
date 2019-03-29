@@ -1,1 +1,2 @@
 {"name":"eva","vers":"0.2.0","deps":[{"name":"rustyline","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a78f518878df9e6e7aa2e4e24d5d28d39a5957e2d041f1092fcead1b6473ad1","features":{},"yanked":false,"links":null}
+{"name":"eva","vers":"0.2.1","deps":[{"name":"rustyline","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0fcf866fc23d53c76218a110e9f9a30705387fb3a0750e82aefe80cedd360224","features":{},"yanked":false,"links":null}
