@@ -1,1 +1,2 @@
 {"name":"c3p0","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91743677c43e0c6f0b5f706de5642e71b86570f2a201bb6256dae3774dd20864","features":{},"yanked":false,"links":null}
+{"name":"c3p0","vers":"0.2.0","deps":[],"cksum":"e89bbe90499a1a8d2ed81443eef8e318bbbec245f267d7120fc4c06efc1fc721","features":{},"yanked":false,"links":null}
