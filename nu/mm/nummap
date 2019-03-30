@@ -2,3 +2,4 @@
 {"name":"nummap","vers":"0.1.1","deps":[],"cksum":"50ca4ca33c992c015cc57bcb91f776fb8477ba73834aa336b49a0eda8d35a75c","features":{"map_get_key_value":[]},"yanked":false,"links":null}
 {"name":"nummap","vers":"0.2.0","deps":[],"cksum":"a780c52101216e4e4cdcdb90afcdb057f226472f55d911427f34dafbcf4fa424","features":{"map_get_key_value":[]},"yanked":false,"links":null}
 {"name":"nummap","vers":"0.2.1","deps":[],"cksum":"39a37587eb32c1ddc3f7e1d108551db8a07fc74f219b888071b04e0129b34bff","features":{"map_get_key_value":[]},"yanked":false,"links":null}
+{"name":"nummap","vers":"0.2.2","deps":[],"cksum":"2a752dae70d7dd4774cc0fdc14564a57fd5877abc8b7ff5e8158138038631aec","features":{"map_get_key_value":[]},"yanked":false,"links":null}
