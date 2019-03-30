@@ -2,3 +2,4 @@
 {"name":"scanner-rust","vers":"1.0.1","deps":[],"cksum":"41df06b3bba1184bf94aa3ddc2c3ff59667ab72532701e6ab2ba74183ab62dcc","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"scanner-rust","vers":"1.0.2","deps":[],"cksum":"7b88dab25892a2fe25b83984bdfc12d9b07301f567440f83777fdb9a70395dc4","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"scanner-rust","vers":"1.0.3","deps":[],"cksum":"069381ee0d4e6f7477dabe2f3b55643a7a07534a2fb10cade1ad43149eae8fda","features":{"nightly":[]},"yanked":false,"links":null}
+{"name":"scanner-rust","vers":"1.0.4","deps":[],"cksum":"eeb20d50ea825bb2214c0868599a241a8da8aadacf815db5e9c3cea61691af60","features":{"nightly":[]},"yanked":false,"links":null}
