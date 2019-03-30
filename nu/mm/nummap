@@ -1,1 +1,2 @@
 {"name":"nummap","vers":"0.1.0","deps":[],"cksum":"a9910204a33cdcd3ed4b1997169eda3a678d5cd1239c5f4805a0a6ecc862a35c","features":{"map_get_key_value":[]},"yanked":false,"links":null}
+{"name":"nummap","vers":"0.1.1","deps":[],"cksum":"50ca4ca33c992c015cc57bcb91f776fb8477ba73834aa336b49a0eda8d35a75c","features":{"map_get_key_value":[]},"yanked":false,"links":null}
