@@ -1,1 +1,2 @@
 {"name":"numas","vers":"0.1.0","deps":[],"cksum":"fe47ce6299071b05b60311cbf03c62b1512ac4fa67280c42bfeb5bf140ba659e","features":{},"yanked":false,"links":null}
+{"name":"numas","vers":"0.1.1","deps":[{"name":"rand","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d19dfd44e1a86c3b86702af74a4ca90cbaf2a4d60130b9285069c998cc71419","features":{},"yanked":false,"links":null}
