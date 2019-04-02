@@ -5,3 +5,4 @@
 {"name":"rcu_cell","vers":"0.1.4","deps":[],"cksum":"e3d880ad99836f67fc993703819e17377b502db7e77b64e765d5190d1d139820","features":{},"yanked":false,"links":null}
 {"name":"rcu_cell","vers":"0.1.5","deps":[],"cksum":"275c551f4185844dbb819ada3be3ee805e4c7745190f236013b34b6f31e135bd","features":{},"yanked":false,"links":null}
 {"name":"rcu_cell","vers":"0.1.6","deps":[],"cksum":"af460c5c83be03d25de8ed8c55fbfcde57dcad50b517e62838cd75104f7f6934","features":{},"yanked":false,"links":null}
+{"name":"rcu_cell","vers":"0.1.7","deps":[],"cksum":"09a6b96203f367f70093176695a541c4cef42174a00bb230262fa4bfc0f362c2","features":{},"yanked":false,"links":null}
