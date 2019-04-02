@@ -3,3 +3,4 @@
 {"name":"ticklock","vers":"0.0.3","deps":[],"cksum":"103077242f21c0fd818ecf09d92cb9ac3875f198fcf74b96f9803733a98599d8","features":{},"yanked":false,"links":null}
 {"name":"ticklock","vers":"0.0.4","deps":[],"cksum":"d4d42efa6afd94071adfeba0299e0f6af0d1062ac924d46c3c37d9f6ce0d8aaa","features":{},"yanked":false,"links":null}
 {"name":"ticklock","vers":"0.0.5","deps":[{"name":"cast","req":"^0.2.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6edbb1e459cbae02be5389362528fd8a735fcd64f2493b6a9a13449f0e811fdf","features":{},"yanked":false,"links":null}
+{"name":"ticklock","vers":"0.0.6","deps":[{"name":"cast","req":"^0.2.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2b63c8af4caf83e611f365361fe3d396e40b7c7cf24cc6712c806ec0050480fb","features":{},"yanked":false,"links":null}
