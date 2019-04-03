@@ -2,3 +2,4 @@
 {"name":"zeros","vers":"0.1.0","deps":[],"cksum":"e2306aa822040804bcad2e57c246a67d9ca980e96d0bda3d2cdb2774afabc953","features":{},"yanked":false,"links":null}
 {"name":"zeros","vers":"0.2.0","deps":[],"cksum":"b0d71d6b2b351411dc0ba6f51d746e204a3432892f16ebd518b04885c3da8fab","features":{},"yanked":false,"links":null}
 {"name":"zeros","vers":"0.3.0","deps":[],"cksum":"13c87c7d1d63c1ef780bea2251c00537e44cdcdd5e1c9953a0fd2b691129cb0d","features":{},"yanked":false,"links":null}
+{"name":"zeros","vers":"0.4.0","deps":[{"name":"tiny-keccak","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e4f3db29122035d94da608465bed8227b78ce43f1798f1d9f2a934759d014eda","features":{},"yanked":false,"links":null}
