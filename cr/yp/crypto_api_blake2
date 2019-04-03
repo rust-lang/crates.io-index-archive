@@ -1,0 +1,1 @@
+{"name":"crypto_api_blake2","vers":"0.1.2","deps":[{"name":"crypto_api","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63ca10802f100abe34114219407dca2b1a6dfe5e802f42aa449fc14eebbb7b0e","features":{},"yanked":false,"links":null}
