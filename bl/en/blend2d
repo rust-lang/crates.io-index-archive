@@ -1,0 +1,1 @@
+{"name":"blend2d","vers":"0.1.0-alpha","deps":[{"name":"ffi","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"blend2d-sys"}],"cksum":"09c0f047f1262e2782fcdc8d22ca02b7faee86d42a2d16de7559d78fbc86521c","features":{},"yanked":false,"links":null}
