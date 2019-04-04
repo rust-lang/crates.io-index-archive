@@ -1,0 +1,1 @@
+{"name":"flutter-engine-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.42.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f65f2c40ca0f7658518bc3b3e88822923946124d481e6e6b89ee39a0a6627134","features":{},"yanked":false,"links":null}
