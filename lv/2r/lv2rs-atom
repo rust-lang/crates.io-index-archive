@@ -1,1 +1,2 @@
 {"name":"lv2rs-atom","vers":"0.0.0","deps":[],"cksum":"2b7b4c7c4df0cde8d13c1d847f8e4894a25aadb52bc9a82a6ac9d86028b3cbdd","features":{},"yanked":false,"links":null}
+{"name":"lv2rs-atom","vers":"0.1.0","deps":[{"name":"lv2rs-urid","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"389f65a79ffc393285f5bce7462088a6c94fcdd7470220bd6583f3d452554eee","features":{},"yanked":false,"links":null}
