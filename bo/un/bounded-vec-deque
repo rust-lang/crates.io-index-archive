@@ -1,0 +1,1 @@
+{"name":"bounded-vec-deque","vers":"0.1.0","deps":[],"cksum":"7c425caac5a8aaf808c1981ed27819ebfb1e4a5a54caf45e5af667440676280e","features":{"resize_with":[],"fused":[],"default":["fused"]},"yanked":false,"links":null}
