@@ -1,1 +1,2 @@
 {"name":"nested_intervals","vers":"0.1.0","deps":[{"name":"superslice","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4af93eeb1b319963a111b81d3d9de9c1f4af1cadb64662f6575aba4fdb90bef","features":{},"yanked":false,"links":null}
+{"name":"nested_intervals","vers":"0.1.1","deps":[{"name":"superslice","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d5d21a2a53ff87a8f893ad557475be4438724bf467baeb94de092a770fb0ec6","features":{},"yanked":false,"links":null}
