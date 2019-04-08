@@ -1,1 +1,2 @@
 {"name":"sendfd","vers":"0.1.0","deps":[{"name":"gcc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c8d1fb006ce0e87b25beb145f6cab71b4d1694e82ff455109eb6bdfde501c83a","features":{},"yanked":false}
+{"name":"sendfd","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf39ded6fd137ecf58a8af0d578f0de464d9804755951e43293c31b74b5c33aa","features":{},"yanked":false,"links":null}
