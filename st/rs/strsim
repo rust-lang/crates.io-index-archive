@@ -16,3 +16,4 @@
 {"name":"strsim","vers":"0.7.0","deps":[],"cksum":"bb4f380125926a99e52bc279241539c018323fab05ad6368b56f93d9369ff550","features":{},"yanked":false}
 {"name":"strsim","vers":"0.8.0","deps":[],"cksum":"8ea5119cdb4c55b55d432abb513a0429384878c15dde60cc77b1c99de1a95a6a","features":{},"yanked":false,"links":null}
 {"name":"strsim","vers":"0.9.0","deps":[],"cksum":"a7be23478587f30ca7b4b423b6bee7baf5b6986c1e511bf1904a984cb6105621","features":{},"yanked":false,"links":null}
+{"name":"strsim","vers":"0.9.1","deps":[{"name":"hashbrown","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ndarray","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34ac666ab1423aa93bbd4cd47b6e62db5a846df4e28b959d823776eed5b57643","features":{},"yanked":false,"links":null}
