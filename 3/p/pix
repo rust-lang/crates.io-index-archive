@@ -1,0 +1,1 @@
+{"name":"pix","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"48cc4e2de71fc12c6c263bfec350377b9d785b92f3e5ff484fd23b0500944d99","features":{"default":["use-simd"],"use-simd":[]},"yanked":false,"links":null}
