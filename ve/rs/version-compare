@@ -5,3 +5,4 @@
 {"name":"version-compare","vers":"0.0.5","deps":[],"cksum":"ca32991292012c80a796702c92be9cfc5ee17e7d91029e531dbc4af72933e378","features":{"default":[],"dev":[]},"yanked":false}
 {"name":"version-compare","vers":"0.0.6","deps":[],"cksum":"78068add8bf1e4d37d13fa5867182fe4c03f8e525c831053733f83aaba942d37","features":{"default":[],"dev":[]},"yanked":false}
 {"name":"version-compare","vers":"0.0.7","deps":[],"cksum":"6300a82eb21d67485944b1b1b163e5109026394dde12912edbc8eca6b44b1137","features":{"default":[],"dev":[]},"yanked":false,"links":null}
+{"name":"version-compare","vers":"0.0.8","deps":[],"cksum":"16dc2b8f2d402e72b9074db40ceee7c020042561e6ea0e2d4bc0354b60457603","features":{"default":[],"dev":[]},"yanked":false,"links":null}
