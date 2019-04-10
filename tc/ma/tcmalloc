@@ -5,3 +5,4 @@
 {"name":"tcmalloc","vers":"0.1.4","deps":[],"cksum":"8385bd1ec65d1e91564b622190426c2ed5b6fbf20111df40abb23b464dc5fb4c","features":{},"yanked":false,"links":null}
 {"name":"tcmalloc","vers":"0.1.5","deps":[],"cksum":"ff6ab4af3f8f1a78a7e47c748136b8c0a712fc86acf45bd02f981e9e8584c6c4","features":{},"yanked":false,"links":null}
 {"name":"tcmalloc","vers":"0.2.0","deps":[],"cksum":"0791eb5714bc816defdffa4c3b180c90f51b7a796559b49610b988f318570232","features":{},"yanked":false,"links":null}
+{"name":"tcmalloc","vers":"0.3.0","deps":[{"name":"tcmalloc-sys","req":"^0.3.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"375205113d84a1c5eeed67beaa0ce08e41be1a9d5acc3425ad2381fddd9d819b","features":{"default":[],"bundled":["tcmalloc-sys"]},"yanked":false,"links":null}
