@@ -1,0 +1,1 @@
+{"name":"futures-rustls","vers":"0.0.0","deps":[{"name":"tokio-rustls","req":"^0.10.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7abdc51333dc4e23777b23544ecef2f52b75eef33ff0f2a9fd193c9ca294e103","features":{"early-data":["tokio-rustls/early-data"]},"yanked":false,"links":null}
