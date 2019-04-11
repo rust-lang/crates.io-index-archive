@@ -1,0 +1,1 @@
+{"name":"cargo-build-docker","vers":"0.0.5","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f577f9b5cf585712211a572dd330653e930c403800d00862474446383a9292ae","features":{},"yanked":false,"links":null}
