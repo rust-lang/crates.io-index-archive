@@ -1,0 +1,1 @@
+{"name":"fancy_slice","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"483c73d925300db48448f72d885585677fb04981baddffdd7d88186a9ae46cfd","features":{"debug":[]},"yanked":false,"links":null}
