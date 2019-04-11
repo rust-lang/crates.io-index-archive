@@ -1,1 +1,2 @@
 {"name":"mapinto","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"875747f35e27c40f952b4130150ec2b40aa695bfd72722ddcd9d32fbee359580","features":{},"yanked":false,"links":null}
+{"name":"mapinto","vers":"0.2.0","deps":[{"name":"futures","req":"^0.1.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa4326c5a79f25de79d650e3d76288755ad35494280c0ea0e53f4b780fda18c3","features":{},"yanked":false,"links":null}
