@@ -1,2 +1,3 @@
 {"name":"cichlid","vers":"0.1.0","deps":[],"cksum":"d42ccdf3cdb989e6dba11c4c00dc8c842a675cd18fd72a4da1d9b46765c5fcf4","features":{"no-std":[],"default":[]},"yanked":false,"links":null}
 {"name":"cichlid","vers":"0.1.1","deps":[],"cksum":"8e54674c609d31f9f6103a241cf7ff7aa4a4fb810afa1697596dfe01cf56384a","features":{"default":[],"no-std":[]},"yanked":false,"links":null}
+{"name":"cichlid","vers":"0.1.2","deps":[],"cksum":"39d5db49c7dd935e9e302d33b729fd8707f2dbb765085f75190bd66bffdf93c6","features":{"low-mem":[],"default":[],"no-std":[]},"yanked":false,"links":null}
