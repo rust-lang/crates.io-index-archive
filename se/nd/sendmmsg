@@ -1,0 +1,1 @@
+{"name":"sendmmsg","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.51","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"755a5049cd47c53120ae0b39e6a700e9bd99b30af75d1c153882bc7deaf1a143","features":{},"yanked":false,"links":null}
