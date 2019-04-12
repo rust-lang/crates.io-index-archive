@@ -10,3 +10,4 @@
 {"name":"bitvec","vers":"0.9.0","deps":[],"cksum":"cfadef5c4e2c2e64067b9ecc061179f12ac7ec65ba613b1f60f3972bbada1f5b","features":{"default":["std"],"std":["alloc"],"alloc":[],"testing":["std"]},"yanked":false,"links":null}
 {"name":"bitvec","vers":"0.9.0-e2018","deps":[],"cksum":"f2bc5db328e3186528f90bee590f6b86a18ad697206288d24a01cca26ceb8a13","features":{"default":["std"],"std":["alloc"],"alloc":[],"testing":["std"]},"yanked":false,"links":null}
 {"name":"bitvec","vers":"0.10.0","deps":[],"cksum":"81be2dda00e233388a4605ceb6ce977503cf16e2859d8ef8899e6780b988f4b1","features":{"std":["alloc"],"alloc":[],"testing":["std"],"default":["std"]},"yanked":false,"links":null}
+{"name":"bitvec","vers":"0.10.1","deps":[],"cksum":"1a75bc479a30a91415adcfbd39f17cb2255495b39f7b1e25e998e48b0363c7a6","features":{"alloc":[],"testing":["std"],"default":["std"],"std":["alloc"]},"yanked":false,"links":null}
