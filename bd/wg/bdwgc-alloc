@@ -1,1 +1,2 @@
 {"name":"bdwgc-alloc","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ae3dd28ac95e9285a93c6a024d68c7bcb4bdedc7d8ff4511d2fae961b5c7cb3","features":{},"yanked":false,"links":null}
+{"name":"bdwgc-alloc","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f9b84f7d36b5e77133c3ff812837091790fc659201e8080cd880f67d095fc9c","features":{},"yanked":false,"links":null}
