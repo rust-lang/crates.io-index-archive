@@ -1,1 +1,2 @@
 {"name":"msc","vers":"0.1.0","deps":[],"cksum":"548d80dbc3b2cc0be44e1bb713065679445237721f3d7ad6697eac97a1074389","features":{},"yanked":false,"links":null}
+{"name":"msc","vers":"0.5.0","deps":[{"name":"nom","req":"^4.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecc20cc8438f8db202c131a972dcbd3bb11973b273783702d5469239c9ddeba4","features":{},"yanked":false,"links":null}
