@@ -4,3 +4,4 @@
 {"name":"ewasm_api","vers":"0.5.2","deps":[],"cksum":"e542d0c75a2b17947b378a84426bef9ea004b35ff600d18464766c35fde9437c","features":{},"yanked":false,"links":null}
 {"name":"ewasm_api","vers":"0.6.0","deps":[],"cksum":"48f16ff4d369baae97304e7ec9b92c623114d9a9f546a887f1ccb68a3d410552","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"ewasm_api","vers":"0.7.0","deps":[],"cksum":"adc0b165c96e3e34f7b8b77345e8402c5c862cb7c9172f5b5145b7c2395260bd","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"ewasm_api","vers":"0.8.0","deps":[],"cksum":"de98860b838e2298826d3e8411dfd94c14012bb3e612d671aceb4b16f85e7202","features":{"std":[],"default":["std"],"debug":[]},"yanked":false,"links":null}
