@@ -1,1 +1,2 @@
 {"name":"abnf","vers":"0.1.1","deps":[{"name":"nom","req":"^4.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8154d67a9351348da8533bd7bcd7629348f515236badea783949869a3ac55208","features":{},"yanked":false,"links":null}
+{"name":"abnf","vers":"0.1.2","deps":[{"name":"nom","req":"^4.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3cd52ccec58f8b39e3b25620953fd8dfbdcf932b50907b29d577cf1dd12477b6","features":{},"yanked":false,"links":null}
