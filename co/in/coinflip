@@ -1,0 +1,1 @@
+{"name":"coinflip","vers":"0.0.1","deps":[{"name":"rand","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8db16aed4049d8d6005b37f0823a0c84d8f275cc5fc13c4d6f316b7be8e1ee02","features":{},"yanked":false,"links":null}
