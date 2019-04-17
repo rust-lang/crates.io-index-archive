@@ -1,1 +1,2 @@
 {"name":"tecio","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.51","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1171809f0766622e5fc2d5ece53e9507246503c725425c00141cc741887f2dd4","features":{},"yanked":false,"links":null}
+{"name":"tecio","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.51","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6afa07c17d19941578a0b50cc7df8985d3523b90ff7dc0e0dfe1908b5427b135","features":{},"yanked":false,"links":null}
