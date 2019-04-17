@@ -1,0 +1,1 @@
+{"name":"lep","vers":"0.1.0","deps":[{"name":"rustyline","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a2ddbddf3e5d8bf7503e86df004c6fc9492d58e28da8231f4521680973327f9f","features":{},"yanked":false,"links":null}
