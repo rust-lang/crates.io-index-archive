@@ -1,1 +1,2 @@
 {"name":"starts-ends-with-caseless","vers":"0.1.0","deps":[],"cksum":"87a2d042d7d7b60d22ef8806ca8fb21d2a4d50e992e3f89957f9c7d0406577de","features":{},"yanked":false,"links":null}
+{"name":"starts-ends-with-caseless","vers":"0.2.0","deps":[],"cksum":"22763242a8d8ba286e0aff0c1888dd923073b8a14def3ea3cd7452d13d649aa5","features":{"no_std":[]},"yanked":false,"links":null}
