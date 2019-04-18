@@ -1,3 +1,4 @@
 {"name":"starts-ends-with-caseless","vers":"0.1.0","deps":[],"cksum":"87a2d042d7d7b60d22ef8806ca8fb21d2a4d50e992e3f89957f9c7d0406577de","features":{},"yanked":false,"links":null}
 {"name":"starts-ends-with-caseless","vers":"0.2.0","deps":[],"cksum":"22763242a8d8ba286e0aff0c1888dd923073b8a14def3ea3cd7452d13d649aa5","features":{"no_std":[]},"yanked":false,"links":null}
 {"name":"starts-ends-with-caseless","vers":"0.2.1","deps":[],"cksum":"f6f867ba6077f15c15c752566af89a424129ea3c6d845041db827abd02c613c7","features":{"no_std":[]},"yanked":false,"links":null}
+{"name":"starts-ends-with-caseless","vers":"0.3.0","deps":[],"cksum":"b8be31f60b76fb6c96f7d759e70e747dc4d44e28261155460b71c0e49ca049e5","features":{"no_std":[]},"yanked":false,"links":null}
