@@ -2,3 +2,4 @@
 {"name":"swar","vers":"0.1.1","deps":[],"cksum":"caf5bb91b7158f6a3466d8f4f7baa0e6e0151fdb64fcb49e1cf6cab26e1f92db","features":{},"yanked":false,"links":null}
 {"name":"swar","vers":"0.2.0","deps":[],"cksum":"fcfe38e667d7bd1573e4eeb5f2d1e62e9b8b75b8c44722dfeceea3981b8dab3b","features":{},"yanked":false,"links":null}
 {"name":"swar","vers":"0.2.1","deps":[],"cksum":"270483f6f147cd9488c3373316d41561308ce99643af93ac5cb16abf0fabd68e","features":{},"yanked":false,"links":null}
+{"name":"swar","vers":"0.2.2","deps":[{"name":"rand","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cb82ce0d8901a4813cd9c5ea9fbfc8f149e643426234800f3b3b064361cbfa41","features":{},"yanked":false,"links":null}
