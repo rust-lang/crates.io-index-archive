@@ -1,0 +1,1 @@
+{"name":"no-std-compat","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.51","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"76be44514a04c35faca7555a755bb2abda4178ad5ac5464fc199fec4de0b930c","features":{"std":[],"alloc":[],"compat_hash":[],"compat_macros":[]},"yanked":false,"links":null}
