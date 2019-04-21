@@ -1,1 +1,1 @@
-{"name":"maths-traits","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b8120db5baa2b3a783cb533d1d96e87434e4c5046406bc8dbc4ce6d2a6c14af","features":{},"yanked":false,"links":null}
+{"name":"maths-traits","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b8120db5baa2b3a783cb533d1d96e87434e4c5046406bc8dbc4ce6d2a6c14af","features":{},"yanked":true,"links":null}
