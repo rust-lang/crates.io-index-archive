@@ -4,3 +4,4 @@
 {"name":"swar","vers":"0.2.1","deps":[],"cksum":"270483f6f147cd9488c3373316d41561308ce99643af93ac5cb16abf0fabd68e","features":{},"yanked":false,"links":null}
 {"name":"swar","vers":"0.2.2","deps":[{"name":"rand","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cb82ce0d8901a4813cd9c5ea9fbfc8f149e643426234800f3b3b064361cbfa41","features":{},"yanked":false,"links":null}
 {"name":"swar","vers":"0.3.0","deps":[{"name":"rand","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"923d19d45e40040d19f69d70f5d1e519cb62fa3ce9d926b5dd1c110da41ead60","features":{},"yanked":false,"links":null}
+{"name":"swar","vers":"0.3.1","deps":[{"name":"rand","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f758e07bb87c16807a22f9bebcf70b0f55a08498c9c0d8e21450c0c4a8c08b67","features":{},"yanked":false,"links":null}
