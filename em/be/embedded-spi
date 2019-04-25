@@ -1,0 +1,1 @@
+{"name":"embedded-spi","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.3-rc.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6a8e8a33d0b96a4372db3476b10a66d908ddc5e3d72411cb53e05b7a088fa8f","features":{},"yanked":false,"links":null}
