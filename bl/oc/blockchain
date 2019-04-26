@@ -11,3 +11,4 @@
 {"name":"blockchain","vers":"0.2.0","deps":[],"cksum":"b25c0f727a410bef0ea87d7437aa403f669ec4d7de1b302f4d819f83d3b4c561","features":{},"yanked":false}
 {"name":"blockchain","vers":"0.3.0","deps":[],"cksum":"41f374af8c3f349c720107960a5da758f083121bcbdc9faa042ade27e9550e19","features":{},"yanked":false,"links":null}
 {"name":"blockchain","vers":"0.3.1","deps":[],"cksum":"fde30c3c6bc4b629a4c4d6666e875f4aded10f2dd2bcf915d72bcd3d3b4e0b89","features":{},"yanked":false,"links":null}
+{"name":"blockchain","vers":"0.4.0","deps":[],"cksum":"07f4fe30b13f772fb4b813c94101e6de3203f15ffa9595bc52655889488c5df4","features":{},"yanked":false,"links":null}
