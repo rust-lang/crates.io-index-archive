@@ -2,3 +2,4 @@
 {"name":"cichlid","vers":"0.1.1","deps":[],"cksum":"8e54674c609d31f9f6103a241cf7ff7aa4a4fb810afa1697596dfe01cf56384a","features":{"default":[],"no-std":[]},"yanked":false,"links":null}
 {"name":"cichlid","vers":"0.1.2","deps":[],"cksum":"39d5db49c7dd935e9e302d33b729fd8707f2dbb765085f75190bd66bffdf93c6","features":{"low-mem":[],"default":[],"no-std":[]},"yanked":false,"links":null}
 {"name":"cichlid","vers":"0.1.3","deps":[],"cksum":"9597f6625f75569c1f9d2b00a8ffa9f5bad8955d6208821337657725b2fbaa77","features":{"default":[],"no-std":[],"low-mem":[]},"yanked":false,"links":null}
+{"name":"cichlid","vers":"0.2.0","deps":[],"cksum":"bdceac66320364b1d1d98e3510a4ee52cff4d6e71ffebcdb8f29bc2582f78925","features":{"low-mem":[],"default":[],"nightly":[],"no-std":[]},"yanked":false,"links":null}
