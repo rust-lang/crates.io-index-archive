@@ -1,1 +1,2 @@
 {"name":"tower-discover","vers":"0.0.0","deps":[],"cksum":"cd5564f686be125290a1cd70d0aea05d41db67984b983ad382aedc09ca3ca5e1","features":{},"yanked":false}
+{"name":"tower-discover","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tower-service","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73a7632286f78164d65d18fd0e570307acde9362489aa5c8c53e6315cc2bde47","features":{},"yanked":false,"links":null}
