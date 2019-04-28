@@ -1,0 +1,1 @@
+{"name":"micromath","vers":"0.0.1","deps":[{"name":"generic-array","req":"^0.12","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7926138c92591d2baebc8e48a08a97a4be6ba0e1e35c2738dc1babd62dddc668","features":{"default":["statistics","vector"],"statistics":[],"vector":[]},"yanked":false,"links":null}
