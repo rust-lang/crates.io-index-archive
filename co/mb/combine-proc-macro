@@ -1,1 +1,2 @@
 {"name":"combine-proc-macro","vers":"0.2.0","deps":[{"name":"combine","req":"^3.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e16e3103be4bcf9f4d0464419e79957f995bd80a4039a396d4c2be28a52e9771","features":{},"yanked":false,"links":null}
+{"name":"combine-proc-macro","vers":"0.2.1","deps":[{"name":"combine","req":"^3.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd06232efdb6b145cc345fbbd2f56fadd316eddea328f6989280b3dddcc98a4f","features":{},"yanked":false,"links":null}
