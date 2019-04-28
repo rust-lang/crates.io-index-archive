@@ -6,3 +6,4 @@
 {"name":"print_perf","vers":"0.1.5","deps":[{"name":"colored","req":"^1.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a066162d9d46786f74a65c60f768a80889084247f29a76ccad5c9d23ec49b99d","features":{},"yanked":false,"links":null}
 {"name":"print_perf","vers":"0.1.6","deps":[],"cksum":"d55212120a08bf3461e2848eb73b332b2daffb7dcbd09569b539547d1927637d","features":{},"yanked":false,"links":null}
 {"name":"print_perf","vers":"0.1.7","deps":[],"cksum":"1e36f6549b5a118a622364c8bb46fa69f507766c12222b2eb930e893cc22c2ff","features":{},"yanked":false,"links":null}
+{"name":"print_perf","vers":"0.1.8","deps":[],"cksum":"e3b3bbeda0241ea3c2526fe60a4d61e6122cc6f01725a7a0b08565e4fa4736eb","features":{},"yanked":false,"links":null}
