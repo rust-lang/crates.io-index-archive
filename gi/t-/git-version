@@ -3,3 +3,4 @@
 {"name":"git-version","vers":"0.1.2","deps":[],"cksum":"1348d169ef654d931413e71949b6f72c1195b59e6c73aaa332aee5b45854e589","features":{},"yanked":false}
 {"name":"git-version","vers":"0.2.0","deps":[],"cksum":"d02f8926bb77111241ffb545b1af2669e629d66f7a5ff94547d97341a04ba41d","features":{},"yanked":false,"links":null}
 {"name":"git-version","vers":"0.2.1","deps":[],"cksum":"a1bc37021f50d852a4b134b05722b1c8e0ec7cd14262471e89a14a3df12c44a6","features":{},"yanked":false,"links":null}
+{"name":"git-version","vers":"0.3.0","deps":[{"name":"git-version-macro","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"proc-macro-hack","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21c9c24031b3d52e9514ed9b31f06ba431500e6fd05ba3ca3b19102679d512a6","features":{},"yanked":false,"links":null}
