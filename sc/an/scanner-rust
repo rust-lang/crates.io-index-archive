@@ -5,3 +5,4 @@
 {"name":"scanner-rust","vers":"1.0.4","deps":[],"cksum":"eeb20d50ea825bb2214c0868599a241a8da8aadacf815db5e9c3cea61691af60","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"scanner-rust","vers":"1.0.5","deps":[],"cksum":"3453d2b79f21427e30410e24a8549828d52f56947c939731eb3b059621598a4a","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"scanner-rust","vers":"1.0.6","deps":[],"cksum":"52cf12fe276a64200e0c76788a77e9ed1887cf4c576dedf19189a097fba7a0ea","features":{"nightly":[]},"yanked":false,"links":null}
+{"name":"scanner-rust","vers":"1.1.0","deps":[],"cksum":"a138201fef0db5624b3d1008e21e7e93ec9c88abd247ad40d650314c12b37bcc","features":{"nightly":[]},"yanked":false,"links":null}
