@@ -1,1 +1,2 @@
 {"name":"sidefuzz","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d180d1d66d4554faa01aa4a87be2bc8b6ece4ca0127ff6b5bdbdd8f9be381fc4","features":{},"yanked":false,"links":null}
+{"name":"sidefuzz","vers":"0.1.1","deps":[{"name":"lazy_static","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7fe45c67c6a4f40c7a9d7b9989a3c254b10b342aa0cd756375238d142aa3f300","features":{},"yanked":false,"links":null}
