@@ -1,1 +1,2 @@
 {"name":"csv-guillotine","vers":"0.1.0","deps":[{"name":"csv","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f40bfd14fbac65f75d64aa4dee2735be1dbf0b4cdd98fd707de3562c300da980","features":{},"yanked":false,"links":null}
+{"name":"csv-guillotine","vers":"0.1.1","deps":[{"name":"csv","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f989d1f9b63c8567e7bd13d7589db7835c62ecc4d615c61004875678a0fa3c1e","features":{},"yanked":false,"links":null}
