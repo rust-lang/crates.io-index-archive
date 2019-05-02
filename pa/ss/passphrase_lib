@@ -1,0 +1,1 @@
+{"name":"passphrase_lib","vers":"1.0.2","deps":[{"name":"rand","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae3253fc3787c9703c989d64e9119bb5f3680a0bcbcab41b2413c99d429628c7","features":{},"yanked":false,"links":null}
