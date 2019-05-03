@@ -1,0 +1,1 @@
+{"name":"mangadex-scraper","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b52381029f1e07a456126de12be4c95d4ca234f107919f9fc19e5e2ab534e2b9","features":{},"yanked":false,"links":null}
