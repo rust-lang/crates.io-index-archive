@@ -1,0 +1,1 @@
+{"name":"pkg-version-impl","vers":"0.1.0","deps":[{"name":"proc-macro-hack","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f319c9889bc7c46e9f8795ea50df531258026597b75e6ebfd6236a0d80766ed7","features":{},"yanked":false,"links":null}
