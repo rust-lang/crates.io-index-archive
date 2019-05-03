@@ -1,0 +1,1 @@
+{"name":"discid-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.49.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e481b729b30600feada6c8036513600ea8e77cb7b56fc612041a8eff19927eb9","features":{},"yanked":false,"links":null}
