@@ -12,3 +12,4 @@
 {"name":"enum-ordinalize","vers":"2.2.1","deps":[],"cksum":"c45831af3fb02e12b235e457eb1f4d7cc5fd55e2d1a80546d42b2e06a4ee04b1","features":{},"yanked":false,"links":null}
 {"name":"enum-ordinalize","vers":"2.3.0","deps":[],"cksum":"266b60fb6c5965b8043cf3d88ef92e521c36cbbfdcb75074aa6c38c53e1a2496","features":{},"yanked":false,"links":null}
 {"name":"enum-ordinalize","vers":"2.4.0","deps":[],"cksum":"c9bc025e36766db3b8d6023706fef8ca3e0660ae3a3c9c1ceb1730282fc37688","features":{},"yanked":false,"links":null}
+{"name":"enum-ordinalize","vers":"2.5.0","deps":[],"cksum":"65d757b793b973dea57d5c10341da28db24eeeee291c463dedb3d5156c56843f","features":{"nightly-test":[]},"yanked":false,"links":null}
