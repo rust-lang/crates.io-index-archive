@@ -6,3 +6,4 @@
 {"name":"imghdr","vers":"0.2.0","deps":[{"name":"clippy","req":"^0.0.79","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18cc3948a94da0eed3ddd03132b8e310f4f9ac2f68b2155f1872d778ea452e71","features":{},"yanked":false}
 {"name":"imghdr","vers":"0.3.0","deps":[{"name":"clippy","req":"^0.0.79","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18be0cf01ee9dbcd63f3dcdab8a6666877fcc786331673f43b522008528e1ab8","features":{},"yanked":false}
 {"name":"imghdr","vers":"0.4.0","deps":[{"name":"clippy","req":"^0.0.79","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a8e020729c96e895899bb1a5d0ab53b779e3ed031c8f4e36b5d2c8f0c3a3854","features":{},"yanked":false}
+{"name":"imghdr","vers":"0.5.0","deps":[],"cksum":"9844d984e92bb9cabe205937ee31701950ebdecfc83771a339bc49c7ef3a8b41","features":{},"yanked":false,"links":null}
