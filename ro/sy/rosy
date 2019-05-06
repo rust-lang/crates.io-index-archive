@@ -1,0 +1,1 @@
+{"name":"rosy","vers":"0.0.0","deps":[{"name":"aloxide","req":"^0.0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"995da5eff5f50fb7a63a809d7805b213b5bfcc5b95b5e0431dc060c9a4125c9f","features":{"download":["aloxide/download"]},"yanked":false,"links":"ruby"}
