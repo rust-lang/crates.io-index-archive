@@ -1,1 +1,2 @@
 {"name":"wonderbox","vers":"0.1.0","deps":[{"name":"wonderbox-codegen","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8fe0761793df29052c89ec691bdc1190ffdd52a6dcc8c673ac0d2aaa1c865bf5","features":{},"yanked":false,"links":null}
+{"name":"wonderbox","vers":"0.2.0","deps":[{"name":"wonderbox-codegen","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44755c31069214e1e8b7f477c8e3148d91c84e31ec178555aad63c0c258b298a","features":{},"yanked":false,"links":null}
