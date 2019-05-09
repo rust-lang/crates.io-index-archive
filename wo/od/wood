@@ -1,1 +1,2 @@
 {"name":"wood","vers":"0.2.1","deps":[{"name":"ref_slice","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab9522d6e4caa803cc98c89dbea0c966b957844da4f2b17ce455e6090c51c036","features":{},"yanked":false,"links":null}
+{"name":"wood","vers":"0.3.0","deps":[{"name":"ref_slice","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d2945612519dfba0d3410e6f6fcf0702ca53180163f5565c23699e3d9d2b01b","features":{},"yanked":false,"links":null}
