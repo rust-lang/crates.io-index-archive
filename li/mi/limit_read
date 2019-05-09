@@ -1,0 +1,1 @@
+{"name":"limit_read","vers":"0.1.0","deps":[{"name":"memchr","req":"^2.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"379bedb6235d2d12914a50d0d3414b861ecac63753bddf77aacc1336c92d10e2","features":{},"yanked":false,"links":null}
