@@ -1,2 +1,3 @@
 {"name":"heaparray","vers":"0.1.0","deps":[],"cksum":"4daee7f4f6167b0c5d34632b34b3c222ce8a92ab001ac777be348dfcc2cbb554","features":{},"yanked":false,"links":null}
 {"name":"heaparray","vers":"0.1.1","deps":[],"cksum":"1fa251c7e5365a8ee306e35ea482ce1d54b7faebbdf56ae107ddfb3b82959aea","features":{},"yanked":false,"links":null}
+{"name":"heaparray","vers":"0.1.2","deps":[{"name":"containers-rs","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8aaebdfb856ce3ba1d016d6a6bd2a093e77b543bf1bfb95ff3ea1e474dfd3145","features":{},"yanked":false,"links":null}
