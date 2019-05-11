@@ -1,1 +1,2 @@
 {"name":"liburing-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.49","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d9a007d34fd0b226599759df6d0bff3eb6dc03e725c5c039d871d7bb95e1a15f","features":{},"yanked":false,"links":null}
+{"name":"liburing-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.49","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d6bcc5e4315ab0eb006360d9a8592f03b5e61de87a2ce530710f4d1328cca78b","features":{},"yanked":false,"links":null}
