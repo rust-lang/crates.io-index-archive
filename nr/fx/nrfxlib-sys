@@ -1,1 +1,2 @@
 {"name":"nrfxlib-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.49","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5a6e23de6144e18d55338fd1fdfdb37b24b80092a0bb2074e078b2f349929bbd","features":{},"yanked":false,"links":null}
+{"name":"nrfxlib-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.49","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8174156101685b013e8133016428f4be4de1a8d9ad75cf2d2d9a63c5d9506532","features":{},"yanked":false,"links":null}
