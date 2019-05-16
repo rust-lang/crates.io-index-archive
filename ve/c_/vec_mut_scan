@@ -1,0 +1,1 @@
+{"name":"vec_mut_scan","vers":"0.1.0","deps":[{"name":"proptest","req":"^0.9.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b4d5668931075a8dfe6eb3e9e585d06f0ab4d9b377663e94d135ef51933ff9f6","features":{},"yanked":false,"links":null}
