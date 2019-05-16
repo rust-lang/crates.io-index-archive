@@ -3,3 +3,4 @@
 {"name":"nummap","vers":"0.2.0","deps":[],"cksum":"a780c52101216e4e4cdcdb90afcdb057f226472f55d911427f34dafbcf4fa424","features":{"map_get_key_value":[]},"yanked":false,"links":null}
 {"name":"nummap","vers":"0.2.1","deps":[],"cksum":"39a37587eb32c1ddc3f7e1d108551db8a07fc74f219b888071b04e0129b34bff","features":{"map_get_key_value":[]},"yanked":false,"links":null}
 {"name":"nummap","vers":"0.2.2","deps":[],"cksum":"2a752dae70d7dd4774cc0fdc14564a57fd5877abc8b7ff5e8158138038631aec","features":{"map_get_key_value":[]},"yanked":false,"links":null}
+{"name":"nummap","vers":"0.2.3","deps":[],"cksum":"2bf0ee1b68459253b06723358ef80e89262e9f67e044a6d01ceeb0f86e1ae058","features":{"map_get_key_value":[]},"yanked":false,"links":null}
