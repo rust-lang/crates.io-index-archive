@@ -9,3 +9,4 @@
 {"name":"nummap","vers":"0.3.1","deps":[],"cksum":"08a1c04b2a1546bb0d2c02caa3e5b92f93f1258d215eafdc999bd593351aa927","features":{"map_get_key_value":[]},"yanked":false,"links":null}
 {"name":"nummap","vers":"0.3.2","deps":[],"cksum":"264785fb7b5985bfe51ee9a7a88e93508b5fca84d5af3e0e3b2fb540303a78a5","features":{"map_get_key_value":[]},"yanked":false,"links":null}
 {"name":"nummap","vers":"0.3.3","deps":[],"cksum":"f9246761f5f90bfa861b84f87ce88339ba848815b33ef26e2736df24a4d0b9a7","features":{"map_get_key_value":[]},"yanked":false,"links":null}
+{"name":"nummap","vers":"0.3.4","deps":[],"cksum":"a54edf1814fb8ff786ee44ebf032bec26e463ab4c01914b5268cb68fbe9ffff2","features":{"map_get_key_value":[]},"yanked":false,"links":null}
