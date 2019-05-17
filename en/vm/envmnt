@@ -2,3 +2,4 @@
 {"name":"envmnt","vers":"0.1.1","deps":[],"cksum":"040f6dbcf91adee066cbfc5691e9359e5021a51db15df1a848435eac0e30460b","features":{},"yanked":false,"links":null}
 {"name":"envmnt","vers":"0.2.0","deps":[],"cksum":"fcce1b3f1ea3488df850ad80f60f4af8b6a986dbe58b2441df43a281ad832d1a","features":{},"yanked":false,"links":null}
 {"name":"envmnt","vers":"0.3.0","deps":[],"cksum":"81bc9e4850a81d1f07748f96873aafc9c3b01fa6f62f997b2c25ab8ccc41be58","features":{},"yanked":false,"links":null}
+{"name":"envmnt","vers":"0.3.1","deps":[{"name":"indexmap","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"565aadbbd742d4ee9c4fb0cea1d7ead0aced4a3987c317197fcf083ca8a44c5e","features":{},"yanked":false,"links":null}
