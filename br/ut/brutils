@@ -1,1 +1,2 @@
 {"name":"brutils","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a28952c8096dab6188c70fdbecdf6f20f388a1f80a80995a349654650be99b02","features":{},"yanked":false,"links":null}
+{"name":"brutils","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4c28ac45a34c7c239691cbc3ce7b82783eca54f0f7d42b267d547bd93bd8d38a","features":{},"yanked":false,"links":null}
