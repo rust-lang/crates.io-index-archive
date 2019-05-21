@@ -1,0 +1,1 @@
+{"name":"compu","vers":"0.1.0","deps":[{"name":"compu-brotli-sys","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f5d472c21325dd1b7a85a56749a30a1347f7173fcaa7ed45a630fda08ccf8c2","features":{"default":["brotli-c"],"brotli-c":["compu-brotli-sys"]},"yanked":false,"links":null}
