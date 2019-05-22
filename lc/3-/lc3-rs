@@ -4,3 +4,4 @@
 {"name":"lc3-rs","vers":"0.1.3","deps":[],"cksum":"63597aaa43d09cfc4fef831dc961de4cca7ec3bb8dc99cea38b79c7fd8f94c67","features":{"disable-crlf-compat-windows":[],"register-trace":[],"instruction-trace":[]},"yanked":false,"links":null}
 {"name":"lc3-rs","vers":"0.2.0","deps":[],"cksum":"b9df24f5b3914c10b1caf031ad03f19ad4bd8fff30871da623b1d05bac041cd8","features":{"disable-crlf-compat-windows":[],"register-trace":[],"instruction-trace":[]},"yanked":false,"links":null}
 {"name":"lc3-rs","vers":"0.3.0","deps":[],"cksum":"3ed820b08931da9786921fb95444c94f6bfd48108d81e979db0403d8edabecbf","features":{"register-trace":[],"disable-crlf-compat-windows":[],"instruction-trace":[]},"yanked":false,"links":null}
+{"name":"lc3-rs","vers":"0.3.1","deps":[],"cksum":"87a55649e06762630c734be666d80b99cefd9d7f677e794032da7e00faa47601","features":{"instruction-trace":[],"register-trace":[],"disable-crlf-compat-windows":[]},"yanked":false,"links":null}
