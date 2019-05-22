@@ -6,3 +6,4 @@
 {"name":"treebitmap","vers":"0.2.3","deps":[],"cksum":"072be5d2cd78fe632f5c851e1243aeba1ecdd6b10594521c2b824d9e9f4fe649","features":{},"yanked":false,"links":null}
 {"name":"treebitmap","vers":"0.3.0","deps":[],"cksum":"5a0ac2420bb51dcc36d2be947cc6e035e3bc4e758f46432c23b7903a8b018747","features":{},"yanked":false,"links":null}
 {"name":"treebitmap","vers":"0.3.1","deps":[],"cksum":"8fa8e0efd5266e8a25b38d91a4d4db019934a131e735147c772979501546f56b","features":{},"yanked":false,"links":null}
+{"name":"treebitmap","vers":"0.4.0","deps":[],"cksum":"6bf423939ac9ccf4083788879b883a7149176586f9cf8b0fb1fd88b66ad692b5","features":{"alloc":[]},"yanked":false,"links":null}
