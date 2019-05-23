@@ -1,1 +1,2 @@
 {"name":"secrecy","vers":"0.0.0","deps":[],"cksum":"d37df12cfedfe290a33662ae10ee3bb654ca04734b08008b636be0f39750160d","features":{},"yanked":false,"links":null}
+{"name":"secrecy","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"zeroize","req":"^0.8","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"436ac345bb6905d8e084df61db85658a263e72f960c1216f2b50d2f3f4cee59e","features":{},"yanked":false,"links":null}
