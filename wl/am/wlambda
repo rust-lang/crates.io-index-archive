@@ -1,1 +1,2 @@
 {"name":"wlambda","vers":"0.1.0","deps":[],"cksum":"b87b47c05fe47f4fa731eab22ceb02c5c80112f23d6b17e13684503f5f25a022","features":{},"yanked":false,"links":null}
+{"name":"wlambda","vers":"0.1.1","deps":[{"name":"rustyline","req":"^4.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a02e86ce91b56e8532fa9bc16935e076bdc6de4f11a3205b627b1b422168f0c","features":{},"yanked":false,"links":null}
