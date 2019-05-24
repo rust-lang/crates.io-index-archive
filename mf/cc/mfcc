@@ -1,0 +1,1 @@
+{"name":"mfcc","vers":"0.0.1","deps":[{"name":"rustfft","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42d7c21ad4cb2757311eabb37bd8d3559c34dd8c897c8ca199547c2c2c46faa9","features":{},"yanked":false,"links":null}
