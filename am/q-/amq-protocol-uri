@@ -1,0 +1,1 @@
+{"name":"amq-protocol-uri","vers":"2.0.0-rc9","deps":[{"name":"url","req":"^1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ebb566554d7ac460265e24d339c18411978500a016764464e1e6878f30ba2b54","features":{},"yanked":false,"links":null}
