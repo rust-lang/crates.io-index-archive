@@ -2,3 +2,4 @@
 {"name":"drumatech","vers":"0.1.1","deps":[],"cksum":"2a19fcba781df72c16bfdd165b66bc526b35ec6b1bf9ecbcc98d728433da487b","features":{},"yanked":false,"links":null}
 {"name":"drumatech","vers":"0.1.2","deps":[],"cksum":"790eff4fb7172dfaaac3b046510748d8d551683bbd4a3f7a5a7655d87c512282","features":{},"yanked":false,"links":null}
 {"name":"drumatech","vers":"0.1.3","deps":[{"name":"failure","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f1796de8d7ddfcc590bbd85045e6680d4411df156446de5dfe02db3cbce78d1","features":{},"yanked":false,"links":null}
+{"name":"drumatech","vers":"0.1.4","deps":[{"name":"failure","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c74f6625dc0afda76b48892c08bf7d3cf6fdee49af2697d03dbf28200bfcba8f","features":{},"yanked":false,"links":null}
