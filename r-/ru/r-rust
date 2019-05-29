@@ -1,1 +1,2 @@
 {"name":"r-rust","vers":"0.0.1","deps":[],"cksum":"704932f8ce7370b223fc0d00b9d9116f88d03fb683f67cbef2f67f938e546b0b","features":{"precise_microbench":[],"default":[]},"yanked":false,"links":null}
+{"name":"r-rust","vers":"0.0.2","deps":[],"cksum":"0ac167fc0c9b367cb414382613d933d2bd0a5b699b9917aad68c3927a00ef392","features":{"default":[],"precise_microbench":[]},"yanked":false,"links":null}
