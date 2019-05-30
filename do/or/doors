@@ -1,0 +1,1 @@
+{"name":"doors","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.51","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98f0e11bf587d40fe1c5245436ac0c0044485b094970fd5f123a21b62bb3a56a","features":{},"yanked":false,"links":null}
