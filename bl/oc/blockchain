@@ -32,3 +32,4 @@
 {"name":"blockchain","vers":"0.7.3","deps":[],"cksum":"804d42f492e136c13fee6273ba20a4d4871e5538b93658ff9ba275a7de2a8b55","features":{},"yanked":false,"links":null}
 {"name":"blockchain","vers":"0.7.4","deps":[],"cksum":"56ceac13dde1806663ead24eef44c13c209335050dc8c6218aee7fa203d75b1b","features":{},"yanked":false,"links":null}
 {"name":"blockchain","vers":"0.8.0","deps":[],"cksum":"bcdc104c69f558c4701f2fc2bb1fcd2d87aaefab3a9cb6b3701cf28a4d410637","features":{},"yanked":false,"links":null}
+{"name":"blockchain","vers":"0.8.1","deps":[],"cksum":"beacfb01421b763e29d6fc003cb07f3d7a7a853ee2d1e7d74cbe6c0ac9c896f6","features":{},"yanked":false,"links":null}
