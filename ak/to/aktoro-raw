@@ -1,1 +1,2 @@
 {"name":"aktoro-raw","vers":"0.0.0","deps":[],"cksum":"17814f166995c7060d75d1f92f7a700e059ba168db2ad75ed78a399a6e75d590","features":{},"yanked":false,"links":null}
+{"name":"aktoro-raw","vers":"0.1.0-alpha.1","deps":[{"name":"futures-core-preview","req":"^0.3.0-alpha.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63804df5c14f73a26b36a7075316a85cb0bb458949a1ac14228424084d016696","features":{},"yanked":false,"links":null}
