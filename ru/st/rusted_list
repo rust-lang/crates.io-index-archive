@@ -1,2 +1,2 @@
 {"name":"rusted_list","vers":"0.1.0","deps":[],"cksum":"84500c11c05804de93b2afef4b0daa868a291160a9d9d7c00fa849d73cbbd4ff","features":{},"yanked":false,"links":null}
-{"name":"rusted_list","vers":"0.1.1","deps":[{"name":"num","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3cc209ff787f059f738ad6a1cc1e6fc797eb7c730ef828bcb7ca77d8c0a78d2","features":{},"yanked":false,"links":null}
+{"name":"rusted_list","vers":"0.1.1","deps":[{"name":"num","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3cc209ff787f059f738ad6a1cc1e6fc797eb7c730ef828bcb7ca77d8c0a78d2","features":{},"yanked":true,"links":null}
