@@ -1,1 +1,2 @@
 {"name":"project-cleanup","vers":"0.4.0","deps":[{"name":"humansize","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7967aaacf9cf8b6e6f0cbaa09d6f0b87d9531eac0d973abda5c599ee2bc880fd","features":{},"yanked":false,"links":null}
+{"name":"project-cleanup","vers":"0.4.1","deps":[{"name":"humansize","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1cee5530883b0d259c23123356aa6b99665315949bde2e9db78bb0ad3411e52","features":{},"yanked":false,"links":null}
