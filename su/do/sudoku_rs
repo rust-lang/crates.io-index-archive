@@ -1,0 +1,1 @@
+{"name":"sudoku_rs","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f92988a6a2061ff378192a85d617db1c9a274d307f7e97df76b2768f3bc78a02","features":{},"yanked":false,"links":null}
