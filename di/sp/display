@@ -1,1 +1,2 @@
 {"name":"display","vers":"0.1.0","deps":[{"name":"pancurses","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d0f67c0df89a747b118a5249eb287cab39b962b9291c05dd02f7b3d59be854c","features":{},"yanked":false,"links":null}
+{"name":"display","vers":"0.1.1","deps":[{"name":"pancurses","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca9aa265b4f0ba17387312d196098be8fb9990ae1ec3e48ae8a181c74fd37b03","features":{},"yanked":false,"links":null}
