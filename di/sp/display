@@ -1,0 +1,1 @@
+{"name":"display","vers":"0.1.0","deps":[{"name":"pancurses","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d0f67c0df89a747b118a5249eb287cab39b962b9291c05dd02f7b3d59be854c","features":{},"yanked":false,"links":null}
