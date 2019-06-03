@@ -1,0 +1,1 @@
+{"name":"fedora","vers":"0.0.1","deps":[{"name":"reqwest","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15cd5db7f1e4e08c32930ea1a35a62a4feaa97e4d06f4b9e93f8c452b8a8dbfc","features":{},"yanked":false,"links":null}
