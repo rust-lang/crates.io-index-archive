@@ -1,1 +1,2 @@
 {"name":"pmdk-sys","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59db66d6cd433b3520fa1172fe0857e4fbb7a299346d33538ae140c06a29316b","features":{},"yanked":false,"links":null}
+{"name":"pmdk-sys","vers":"0.0.3","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b07c73dc68f64d317b43662526cd157d8f334500cc1221d1779eb5dc78d943a8","features":{},"yanked":false,"links":null}
