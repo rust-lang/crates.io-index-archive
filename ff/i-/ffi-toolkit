@@ -1,0 +1,1 @@
+{"name":"ffi-toolkit","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"327200c78d5ab638fab00979dcba4fd6e8fb7989b025094c6061bfae04cfffc1","features":{},"yanked":false,"links":null}
