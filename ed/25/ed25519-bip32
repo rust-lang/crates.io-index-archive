@@ -1,0 +1,1 @@
+{"name":"ed25519-bip32","vers":"0.1.0","deps":[{"name":"cryptoxide","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49af48e0c78c1e38baa407249a0468aee310f43d44b0f8df4ef8284b24bc0396","features":{"default":[],"with-bench":[]},"yanked":false,"links":null}
