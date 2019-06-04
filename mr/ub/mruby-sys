@@ -1,0 +1,1 @@
+{"name":"mruby-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.49.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3e63a01cd3bb34daf201f87713f40363fcbefb88c1fa01d3454e8593d2b6e60b","features":{},"yanked":false,"links":"mruby"}
