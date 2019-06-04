@@ -1,1 +1,2 @@
 {"name":"extra-utils","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e9928e943a59eb909aabf39ab37cd1a3c102bc0c6c99ce8368250c77e1deb82","features":{},"yanked":false,"links":null}
+{"name":"extra-utils","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7aa851fae19cbfab4094152b0fa4dc8d9feb8e34f6f2469a2e9cb8141405a58b","features":{},"yanked":false,"links":null}
