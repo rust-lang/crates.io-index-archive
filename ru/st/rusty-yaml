@@ -1,0 +1,1 @@
+{"name":"rusty-yaml","vers":"0.1.0","deps":[{"name":"yaml-rust","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8513ae4b80ebe18ee5822b64add7e24c053c678a1945097abe9028ec1924851f","features":{},"yanked":false,"links":null}
