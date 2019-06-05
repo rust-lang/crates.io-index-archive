@@ -1,1 +1,2 @@
 {"name":"m4ri-sys","vers":"0.3.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcd35a917ece5edac2ab09f3e1af30375ed1af58feb89b8c4cf008e70d03fc43","features":{},"yanked":false,"links":null}
+{"name":"m4ri-sys","vers":"0.3.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bef90e61f6c0ab78300685c5b2d71ca5c2373f15d82d19499a545367d9dba2de","features":{},"yanked":false,"links":null}
