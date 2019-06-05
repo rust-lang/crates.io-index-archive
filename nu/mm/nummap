@@ -10,3 +10,4 @@
 {"name":"nummap","vers":"0.3.2","deps":[],"cksum":"264785fb7b5985bfe51ee9a7a88e93508b5fca84d5af3e0e3b2fb540303a78a5","features":{"map_get_key_value":[]},"yanked":false,"links":null}
 {"name":"nummap","vers":"0.3.3","deps":[],"cksum":"f9246761f5f90bfa861b84f87ce88339ba848815b33ef26e2736df24a4d0b9a7","features":{"map_get_key_value":[]},"yanked":false,"links":null}
 {"name":"nummap","vers":"0.3.4","deps":[],"cksum":"a54edf1814fb8ff786ee44ebf032bec26e463ab4c01914b5268cb68fbe9ffff2","features":{"map_get_key_value":[]},"yanked":false,"links":null}
+{"name":"nummap","vers":"0.4.0","deps":[{"name":"hashbrown","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99ced53435b3bf3b194ccfba4b21d95559206ba4c715b3b4399a1fbde3ef6daf","features":{"default":["hashbrown"],"map_get_key_value":[]},"yanked":false,"links":null}
