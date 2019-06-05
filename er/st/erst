@@ -1,1 +1,2 @@
 {"name":"erst","vers":"0.1.0","deps":[],"cksum":"46068c29f28fdab63233e629cacbd4539f3244d6905fbddbdea71c44f65a413f","features":{},"yanked":false,"links":null}
+{"name":"erst","vers":"0.2.0","deps":[{"name":"erst-derive","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"erst-shared","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53c54415b093b3050d6a922a7d568b0badb9c81b9ddee2f9edab6b3a3de425f8","features":{},"yanked":false,"links":null}
