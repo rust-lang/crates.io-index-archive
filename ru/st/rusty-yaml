@@ -1,1 +1,2 @@
 {"name":"rusty-yaml","vers":"0.1.0","deps":[{"name":"yaml-rust","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8513ae4b80ebe18ee5822b64add7e24c053c678a1945097abe9028ec1924851f","features":{},"yanked":false,"links":null}
+{"name":"rusty-yaml","vers":"0.1.1","deps":[{"name":"yaml-rust","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1d890788645e8892f97dc6b8e3da8d0729d518988303e797fb9f0389bb33a25","features":{},"yanked":false,"links":null}
