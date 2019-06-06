@@ -1,0 +1,1 @@
+{"name":"rust-curve25519-fiat","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fc4a449b9c35ac047b155ce9a9063d0fa5a2bd462e29142ebfc128428f4b257a","features":{},"yanked":false,"links":null}
