@@ -1,1 +1,2 @@
 {"name":"aliasmethod","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65565f8b071a3cc15be952ea7791e04f6415943fb5384a1c6e0ede93ea8a25df","features":{},"yanked":false}
+{"name":"aliasmethod","vers":"0.2.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec4f7478c6882054238a1d0c2589259047531502a1091d590314d8e82f93be6a","features":{},"yanked":false,"links":null}
