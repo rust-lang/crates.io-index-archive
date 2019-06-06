@@ -1,0 +1,1 @@
+{"name":"ganache","vers":"0.1.0","deps":[{"name":"downcast-rs","req":"^1.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf0b2b0b3ab4fe60a5cda7ddc222453672983d200240111d4b8baaf49b3c065f","features":{"scalar_i32":[]},"yanked":false,"links":null}
