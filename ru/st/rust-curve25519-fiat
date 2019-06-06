@@ -1,1 +1,2 @@
 {"name":"rust-curve25519-fiat","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fc4a449b9c35ac047b155ce9a9063d0fa5a2bd462e29142ebfc128428f4b257a","features":{},"yanked":false,"links":null}
+{"name":"rust-curve25519-fiat","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"876fbc7d9f32658fc8cc5d4a7f48ee12d197a6d2019d725e8bde95fc4be0a9d5","features":{},"yanked":false,"links":null}
