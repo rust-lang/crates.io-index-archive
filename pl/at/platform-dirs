@@ -1,1 +1,2 @@
 {"name":"platform-dirs","vers":"0.1.0","deps":[{"name":"dirs","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91e0d52ccd018655c2eec0d1c2b3df306e4198ee78b430a75f9b37c8dbc04b42","features":{},"yanked":false,"links":null}
+{"name":"platform-dirs","vers":"0.1.1","deps":[{"name":"dirs","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"487c3cbd0feed1d39563ef2078a1ce07217082c9d0874c636a98a8a080836744","features":{},"yanked":false,"links":null}
