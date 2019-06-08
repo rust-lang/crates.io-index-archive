@@ -1,1 +1,2 @@
 {"name":"giffy","vers":"0.1.0","deps":[{"name":"image","req":"^0.21.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a2544ac6bfa429aaa1f278beebcb3b565f0565b403a3ad5956a08926cc220a8d","features":{},"yanked":false,"links":null}
+{"name":"giffy","vers":"0.1.1","deps":[{"name":"image","req":"^0.21.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"536ddfafa39ce84cc4176f8c85af3ac42ebc301069ad718e344754adf4b1be15","features":{},"yanked":false,"links":null}
