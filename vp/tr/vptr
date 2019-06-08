@@ -1,0 +1,1 @@
+{"name":"vptr","vers":"0.1.0","deps":[{"name":"vptr-macros","req":"= 0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c047a82a2e1ce943a33e0a84252bd5c360ee8655f41bfb7cab8bbac4eae8a94c","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
