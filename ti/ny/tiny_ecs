@@ -10,3 +10,4 @@
 {"name":"tiny_ecs","vers":"0.13.3","deps":[],"cksum":"4ecba809f8ada7fc500aec26bd9e36797640becd38417522316bb20a3b3e2746","features":{},"yanked":false,"links":null}
 {"name":"tiny_ecs","vers":"0.13.4","deps":[],"cksum":"28341c0918db26c3193dea97f28a56039fe8d71f347925403726c45904f207ef","features":{},"yanked":false,"links":null}
 {"name":"tiny_ecs","vers":"0.15.2","deps":[{"name":"vec_map","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f4b225807eb1e1b6a6a21a1206f69af9bb41f10f72b26b67777c09765bd53f6","features":{"default":[],"bitmask_max_32":[]},"yanked":false,"links":null}
+{"name":"tiny_ecs","vers":"0.15.3","deps":[{"name":"vec_map","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d00fcc5ced5eae2479b8c66449d703b2f7898d12010fae6c6d93cf55a50a9a6","features":{"default":[],"bitmask_max_32":[]},"yanked":false,"links":null}
