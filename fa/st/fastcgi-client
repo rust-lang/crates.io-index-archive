@@ -1,0 +1,1 @@
+{"name":"fastcgi-client","vers":"0.0.0","deps":[{"name":"byteorder","req":"^1.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2abf440292a48065f0a58df2cf35358728d9f7f8d171a5e9b7200c04ed6dfeee","features":{},"yanked":false,"links":null}
