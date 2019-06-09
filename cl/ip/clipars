@@ -1,7 +1,7 @@
 {"name":"clipars","vers":"0.1.0","deps":[],"cksum":"c3c77e851247f31bba8f8cfbe95ee29a9db3903b0ef39cd6ea8fac3efc4941df","features":{},"yanked":true,"links":null}
 {"name":"clipars","vers":"0.2.0","deps":[],"cksum":"188c82dbeb4d341adf52d564e1fcee13c91ae946901dc16dd61e94c10958fd85","features":{},"yanked":true,"links":null}
 {"name":"clipars","vers":"0.2.1","deps":[],"cksum":"77e2cbb9cda2419fbb3d16c6ed4c7c6211cbb7d17561a52fd51c958d17e3ff55","features":{},"yanked":true,"links":null}
-{"name":"clipars","vers":"0.2.2","deps":[],"cksum":"e54df3b43d0f7fe0382e9caa73e6411c1c00c67a30a4bff3eb43f2bf70e62584","features":{},"yanked":false,"links":null}
+{"name":"clipars","vers":"0.2.2","deps":[],"cksum":"e54df3b43d0f7fe0382e9caa73e6411c1c00c67a30a4bff3eb43f2bf70e62584","features":{},"yanked":true,"links":null}
 {"name":"clipars","vers":"1.0.0","deps":[],"cksum":"87aba2c43b1f5bb256c04bbd7922dff3183515ef79ba26a0d34331ad33043b74","features":{},"yanked":false,"links":null}
 {"name":"clipars","vers":"1.0.1","deps":[],"cksum":"ad4694ccc1ac5a6ebaa1f52624e4f46fd04c6a1534c74b6daa220960f6cad555","features":{},"yanked":false,"links":null}
 {"name":"clipars","vers":"1.1.0","deps":[],"cksum":"2de42f67a7b617069f311cd1755764a3b496e1ea37705a2c46d2c3357e8159d5","features":{},"yanked":false,"links":null}
