@@ -9,3 +9,4 @@
 {"name":"static_assertions","vers":"0.3.0","deps":[],"cksum":"ab836ee18887baf9c5312314b25a4219a37c04a59ae1b5cbc199cea093e7e433","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"static_assertions","vers":"0.3.1","deps":[],"cksum":"389ce475f424f267dbed6479cbd8f126c5e1afb053b0acdaa019c74305fc65d1","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"static_assertions","vers":"0.3.2","deps":[],"cksum":"ec3c2cbd19f2033005f463529553273cdcb3e91b3281346007adc7967b6789af","features":{"nightly":[]},"yanked":false,"links":null}
+{"name":"static_assertions","vers":"0.3.3","deps":[],"cksum":"b4f8de36da215253eb5f24020bfaa0646613b48bf7ebe36cdfa37c3b3b33b241","features":{"nightly":[]},"yanked":false,"links":null}
