@@ -1,0 +1,1 @@
+{"name":"abi_stable_shared","vers":"0.5.0","deps":[{"name":"core_extensions","req":"^0.1","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4b6f3a7b6c1840f436e3a6ed6082b6080fe65d0a7fa63b1e491c95eb22c15b4f","features":{},"yanked":false,"links":null}
