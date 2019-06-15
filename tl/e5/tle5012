@@ -1,0 +1,1 @@
+{"name":"tle5012","vers":"0.0.1","deps":[{"name":"embedded-hal","req":"^0.2.2","features":["unproven"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f86c1504381c294a74e4d099f87941cd9dfc26f2ac76c016a357e282f4e2644","features":{},"yanked":false,"links":null}
