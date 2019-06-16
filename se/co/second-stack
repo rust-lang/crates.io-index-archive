@@ -1,0 +1,1 @@
+{"name":"second-stack","vers":"0.2.0","deps":[{"name":"testdrop","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6609fd064e5bc9822c4ad846fc1a57824223074f38f9dff89768c9f373f52f35","features":{"experimental":[]},"yanked":false,"links":null}
