@@ -9,3 +9,4 @@
 {"name":"rsc","vers":"1.1.1","deps":[],"cksum":"624176ace74446f43244490a7d9384614eb964e89704c27687d7464d8b0c1c01","features":{},"yanked":true,"links":null}
 {"name":"rsc","vers":"1.2.0","deps":[],"cksum":"fc1f08685caa8350eec9252daab6f9ddfcba10e7955216bd8d9e6c042b821cc0","features":{},"yanked":false,"links":null}
 {"name":"rsc","vers":"1.2.1","deps":[],"cksum":"75f77260fc0f977a858f0c064cec6d9cefb4218a4a1bb481fe6cea09a46474d9","features":{},"yanked":false,"links":null}
+{"name":"rsc","vers":"2.0.0","deps":[{"name":"colored","req":"^1.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"structopt","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d6345277feccd67184367ab35412f067133c3daeb8149304125b0696164eb4f","features":{"build-binary":["structopt","colored"]},"yanked":false,"links":null}
