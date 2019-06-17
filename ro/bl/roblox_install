@@ -1,0 +1,1 @@
+{"name":"roblox_install","vers":"0.1.0","deps":[{"name":"winreg","req":"^0.6","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"166a8294ecf75bd0eeb351ff738ab6dd4ade8c9bd39939074014abf2290e4f6b","features":{},"yanked":false,"links":null}
