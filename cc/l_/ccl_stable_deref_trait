@@ -1,0 +1,1 @@
+{"name":"ccl_stable_deref_trait","vers":"1.0.0","deps":[{"name":"parking_lot","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"020722716b4f509ae84fbf1e18543b7fbb5e301ab50799dab60a6cec9df29985","features":{"std":[],"alloc":[],"default":["std"]},"yanked":false,"links":null}
