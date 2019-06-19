@@ -1,0 +1,1 @@
+{"name":"function_name","vers":"0.1.0","deps":[{"name":"function_name-proc-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"296b5a53f0c4c3fe1e7abc717480a4f85b611c022c0786031bdf824e38273167","features":{"nightly":[],"default":[]},"yanked":false,"links":null}
