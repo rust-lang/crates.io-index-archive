@@ -7,3 +7,4 @@
 {"name":"psyche-utils","vers":"0.2.16","deps":[],"cksum":"a4576d83769d10a15045864bcdc02d26b641b91cb40e1abd9ea5d65b2fe30570","features":{},"yanked":false,"links":null}
 {"name":"psyche-utils","vers":"0.2.17","deps":[],"cksum":"c0444fc4a9558f8ab3408907a1b9b320f60859c65d55f3ecfd15f7383a104c11","features":{},"yanked":false,"links":null}
 {"name":"psyche-utils","vers":"0.2.18","deps":[],"cksum":"cf6bdf7b055b645a830c206d8e0f0249b6d76c1b4ee4ea8302d94ea5c7196a84","features":{},"yanked":false,"links":null}
+{"name":"psyche-utils","vers":"0.2.19","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9900469fe39e02d8791541df6e9b52131da46db96b613acf690ed7ad0ef962b","features":{},"yanked":false,"links":null}
