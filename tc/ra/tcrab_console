@@ -1,0 +1,1 @@
+{"name":"tcrab_console","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.92","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"add94a1833c6eca3b30ba2aa50d191e5b319c8c04f39d45a2bb40c40c12948e5","features":{"serialize":["serde"]},"yanked":false,"links":null}
