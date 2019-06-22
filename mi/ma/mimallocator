@@ -1,0 +1,1 @@
+{"name":"mimallocator","vers":"0.1.0","deps":[{"name":"mimalloc-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04cf3838b419c4b3591f415a7827d874ad1a13fac4946bb6021be179a772e00a","features":{},"yanked":false,"links":null}
