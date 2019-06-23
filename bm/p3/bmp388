@@ -1,0 +1,1 @@
+{"name":"bmp388","vers":"0.0.1","deps":[{"name":"embedded-hal","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c08fe7cc2d695ca77451c6c29eb87d6391e3a5e9e0a15376a71d62d781c4a77f","features":{},"yanked":false,"links":null}
