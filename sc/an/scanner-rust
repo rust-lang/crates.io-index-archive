@@ -7,3 +7,4 @@
 {"name":"scanner-rust","vers":"1.0.6","deps":[],"cksum":"52cf12fe276a64200e0c76788a77e9ed1887cf4c576dedf19189a097fba7a0ea","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"scanner-rust","vers":"1.1.0","deps":[],"cksum":"a138201fef0db5624b3d1008e21e7e93ec9c88abd247ad40d650314c12b37bcc","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"scanner-rust","vers":"1.2.0","deps":[],"cksum":"ca89df697f69f8d5445ec57bc02405db065cde32576d44c051df84cedb52f589","features":{"nightly":[]},"yanked":false,"links":null}
+{"name":"scanner-rust","vers":"1.2.1","deps":[{"name":"derivative","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f644c8fc7411e3a5896e7cb0b9375743db9dd5b78b2cde2e2450a7fd34c85a52","features":{"nightly":[]},"yanked":false,"links":null}
