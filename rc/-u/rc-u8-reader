@@ -2,4 +2,4 @@
 {"name":"rc-u8-reader","vers":"1.0.1","deps":[],"cksum":"f32728faeb8f3a4b058ea01216a584bc4e9514ee6f94f5f744ba59feb813edd7","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"rc-u8-reader","vers":"2.0.0","deps":[],"cksum":"f8abe694a5719751fbedad90ae3f2fe716e19ed39deaf0c243d0608d65f6df61","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"rc-u8-reader","vers":"2.0.1","deps":[],"cksum":"8449cfc86b24ed6e7a47666ab925dc3ec02757a22b7753c68e475bf4bc66c62f","features":{"nightly":[]},"yanked":false,"links":null}
-{"name":"rc-u8-reader","vers":"2.0.2","deps":[],"cksum":"ff15a207676ed8239551ea4c6c6837673c4e03b1d899bb4dc0a6e0719cddbf79","features":{"nightly":[]},"yanked":false,"links":null}
+{"name":"rc-u8-reader","vers":"2.0.2","deps":[],"cksum":"ff15a207676ed8239551ea4c6c6837673c4e03b1d899bb4dc0a6e0719cddbf79","features":{"nightly":[]},"yanked":true,"links":null}
