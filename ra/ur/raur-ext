@@ -1,1 +1,2 @@
 {"name":"raur-ext","vers":"0.1.0","deps":[{"name":"raur","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e258e49e7193f73b4e5025a2d0d15c0f663b2bd4d91c46b4950237a696405b67","features":{},"yanked":false,"links":null}
+{"name":"raur-ext","vers":"0.2.0","deps":[{"name":"raur","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aefd6fafbc12e196f95bd4d98b3db74512d6eb632d094377ca72642307e60ffb","features":{},"yanked":false,"links":null}
