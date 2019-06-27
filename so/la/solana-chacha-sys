@@ -1,1 +1,2 @@
 {"name":"solana-chacha-sys","vers":"0.16.0","deps":[{"name":"cc","req":"^1.0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"98f5955396082117751b50dc0c83baf188ebb77ffc95bb0b7a5ed5099fd6f7d8","features":{},"yanked":false,"links":null}
+{"name":"solana-chacha-sys","vers":"0.16.1","deps":[{"name":"cc","req":"^1.0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fc3b43908fe3041ce29441e9f588e4919065e77b50ca3077ebd6b58f006e404d","features":{},"yanked":false,"links":null}
