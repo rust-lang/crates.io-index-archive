@@ -1,1 +1,2 @@
 {"name":"tracing-core","vers":"0.0.0","deps":[],"cksum":"be633f20751edcc9056f09e5442270581a716a0b9cd53523c2c591143f1f7d9b","features":{},"yanked":false,"links":null}
+{"name":"tracing-core","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d5f34cae5ddd9e2dab25f17ff18acec0832b35c8d0ef9a9528737da74370b4b","features":{},"yanked":false,"links":null}
