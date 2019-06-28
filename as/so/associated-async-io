@@ -1,0 +1,1 @@
+{"name":"associated-async-io","vers":"1.0.0","deps":[{"name":"futures-preview","req":"^0.3.0-alpha.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"662d97fbc4340c7214305fdc22256b5e59d137695ecd4de510632e67c789eaba","features":{},"yanked":false,"links":null}
