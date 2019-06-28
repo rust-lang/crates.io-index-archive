@@ -1,0 +1,1 @@
+{"name":"consistent_hash_ring","vers":"0.1.0","deps":[{"name":"crc","req":"^1.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f0d43e16572338977a660ed5da841bf3574fe581e0ac849d352eef4150bad49","features":{},"yanked":false,"links":null}
