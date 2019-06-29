@@ -1,0 +1,1 @@
+{"name":"rustie","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.9.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f00fc87c49560b6a742ca4cf2ff53a779a0c13cdbc3ff08e0cac3392833e9cc","features":{},"yanked":false,"links":null}
