@@ -1,1 +1,2 @@
 {"name":"lll","vers":"0.0.1","deps":[],"cksum":"4e3cf0db9a7b3bf286e5efa39aba18c82d9e743f6ad20a49745a123b49afe9c5","features":{},"yanked":false,"links":null}
+{"name":"lll","vers":"0.0.2","deps":[{"name":"cursive","req":"^0.7.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9b119c3b2da01a03f881c0be0c9d5cd8d1eebdeb0e7f21d68a2f80ec3638bde","features":{},"yanked":false,"links":null}
