@@ -1,0 +1,1 @@
+{"name":"nudge","vers":"0.1.0","deps":[{"name":"cfg-if","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15858ad9697b744f4f37bb1b9a7cf1c2e5e40f690299dc456360bec624460581","features":{"default":["std"],"nightly":[],"std":[]},"yanked":false,"links":null}
