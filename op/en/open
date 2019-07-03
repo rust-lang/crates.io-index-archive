@@ -7,3 +7,4 @@
 {"name":"open","vers":"1.2.0","deps":[],"cksum":"3478ed1686bd1300c8a981a940abc92b06fac9cbef747f4c668d4e032ff7b842","features":{},"yanked":false}
 {"name":"open","vers":"1.2.1","deps":[],"cksum":"c281318d992e4432cfa799969467003d05921582a7489a8325e37f8a450d5113","features":{},"yanked":false}
 {"name":"open","vers":"1.2.2","deps":[{"name":"winapi","req":"^0.3","features":["shellapi"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"eedfa0ca7b54d84d948bfd058b8f82e767d11f362dd78c36866fd1f69c175867","features":{},"yanked":false,"links":null}
+{"name":"open","vers":"1.2.3","deps":[{"name":"winapi","req":"^0.3","features":["shellapi"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"02bbc4c56e3254b7717562db189ef6a327e29842d79402123a018c1fde065dfc","features":{},"yanked":false,"links":null}
