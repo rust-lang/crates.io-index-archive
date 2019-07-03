@@ -1,1 +1,2 @@
 {"name":"clokwerk","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd2fe54483927158665a9a6f1f4a064c0bc4dc5b4a9cfd8ffcb8dd3b2f3b315e","features":{},"yanked":false,"links":null}
+{"name":"clokwerk","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"815cff4bac64decb9cb1ea3a178969decfe4cfd0a55f049152559cdab62ba956","features":{},"yanked":false,"links":null}
