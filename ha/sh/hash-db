@@ -4,3 +4,4 @@
 {"name":"hash-db","vers":"0.12.2","deps":[],"cksum":"ba7fb417e5c470acdd61068c79767d0e65962e70836cf6c9dfd2409f06345ce0","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"hash-db","vers":"0.12.3","deps":[],"cksum":"587e81efd5dd9596084ff9a1bca98d710da46a10f247a0dfdf1b70b59ba3635e","features":{"default":["std"],"std":[]},"yanked":true,"links":null}
 {"name":"hash-db","vers":"0.12.4","deps":[],"cksum":"0b3c95a428c86ed4633d83e07ef9e0a147a906da01e931f07e74a85bedce5a43","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"hash-db","vers":"0.14.0","deps":[],"cksum":"c4a2710506bcc28e53b6d48d9686b233a31ad831597da7de91e6112a2fc8f260","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
