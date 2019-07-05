@@ -1,1 +1,1 @@
-{"name":"darkside","vers":"1.0.0","deps":[{"name":"ncurses","req":"^5.99.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b0b2d5f881c8432cd529bce2236ce98a6841218988681686b2532f5bbbf7a20","features":{},"yanked":true,"links":null}
+{"name":"darkside","vers":"1.0.0","deps":[{"name":"ncurses","req":"^5.99.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b0b2d5f881c8432cd529bce2236ce98a6841218988681686b2532f5bbbf7a20","features":{},"yanked":false,"links":null}
