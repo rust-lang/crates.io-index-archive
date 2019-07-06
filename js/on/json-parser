@@ -1,1 +1,2 @@
 {"name":"json-parser","vers":"1.0.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e4e74bad75ea4d45b7228844d69daf5d5b70c183542954b641ae1bab80f4f90b","features":{},"yanked":false,"links":null}
+{"name":"json-parser","vers":"1.0.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccf6e227822e6e796360b5b7f32973e8a77c7229177070ec2498e1a6498f4642","features":{},"yanked":false,"links":null}
