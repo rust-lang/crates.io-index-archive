@@ -4,3 +4,4 @@
 {"name":"generalized_suffix_tree","vers":"0.2.0","deps":[],"cksum":"4bbfc183e26cd09942f8206bcb1920460feb09092b7c95a7a3d320bd862b8a11","features":{},"yanked":false,"links":null}
 {"name":"generalized_suffix_tree","vers":"0.2.1","deps":[],"cksum":"1c4fd7b79ba9aeae2cb3ef0f8b273819a029a256ec0db5972f6ec5b3b7f4076a","features":{},"yanked":false,"links":null}
 {"name":"generalized_suffix_tree","vers":"1.0.0","deps":[],"cksum":"38b496b3883103ed09218476326e91c2cb385eb575b5aa0b6e9b113e6472babf","features":{},"yanked":false,"links":null}
+{"name":"generalized_suffix_tree","vers":"1.1.0","deps":[{"name":"rand","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dd8e6dc3ca2376d0e570a1fb30aa52991b60d7b010cb597a440f5815ba22bd58","features":{},"yanked":false,"links":null}
