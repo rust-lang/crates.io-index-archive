@@ -6,3 +6,4 @@
 {"name":"aljabar","vers":"0.2.4","deps":[],"cksum":"584a4ebb9b8db1703811f58593e871060391e0bc1dc41ef43816cd0ca9b27e03","features":{},"yanked":false,"links":null}
 {"name":"aljabar","vers":"0.2.5","deps":[],"cksum":"45fc39d62ecb08c889e9ef485c422c55e62b5dc917b8a73acbc2caf7199ebcd9","features":{},"yanked":false,"links":null}
 {"name":"aljabar","vers":"0.2.6","deps":[{"name":"paste","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afff2fee3ec4377711abde96738c31c3cfa49be5c5fe33305cecc8ac04bbb996","features":{},"yanked":false,"links":null}
+{"name":"aljabar","vers":"0.2.7","deps":[{"name":"paste","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c6467e5fc29b71db7a256a18527d5390f5d6a94a35474cd39ecc27e224e8814","features":{},"yanked":false,"links":null}
