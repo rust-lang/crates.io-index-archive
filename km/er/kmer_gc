@@ -1,0 +1,1 @@
+{"name":"kmer_gc","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.0","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2be6b3c8c81937e1f2d123d7f09bdd67008927eddd3c8dc786f96a64759d1c5","features":{},"yanked":false,"links":null}
