@@ -1,1 +1,2 @@
 {"name":"cedarwood","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4996af269fe365eb1525af406be7a8b4a7e35f4eed910c54713fb26326a350b7","features":{"default":[]},"yanked":false,"links":null}
+{"name":"cedarwood","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"638118126f6f03a0229cb2b3ca9a733be73cf6642f62c0ceee3452bb973b97f1","features":{"default":[]},"yanked":false,"links":null}
