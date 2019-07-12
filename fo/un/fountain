@@ -1,1 +1,2 @@
 {"name":"fountain","vers":"0.1.0","deps":[{"name":"nom","req":"^5.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee94e8af63c7e50d313776fc3d3a118b7b49acbd1c7201677c89817bc8f642e7","features":{},"yanked":false,"links":null}
+{"name":"fountain","vers":"0.1.1","deps":[{"name":"nom","req":"^5.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4784206a19eb98e678c8a6c4b17a323ec3b5a29aa8257707a0292c7c9795eeff","features":{},"yanked":false,"links":null}
