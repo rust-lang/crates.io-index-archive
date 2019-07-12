@@ -1,0 +1,1 @@
+{"name":"picorv32","vers":"0.1.0","deps":[{"name":"bare-metal","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45d02d930774271f5ebe3e19f9b8d236f515b5ebca09883831222e04cc3e9f15","features":{"inline-asm":[]},"yanked":false,"links":null}
