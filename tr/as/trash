@@ -1,0 +1,1 @@
+{"name":"trash","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3.0","features":["shellapi","winerror"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"1c74f53fd3bb16eb66f5175aa8440952ffa033a5d6f3de90037bbb751ff5ec26","features":{},"yanked":false,"links":null}
