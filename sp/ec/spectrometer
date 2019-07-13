@@ -1,0 +1,1 @@
+{"name":"spectrometer","vers":"0.0.1","deps":[{"name":"winapi","req":"^0.3.7","features":["processthreadsapi","sysinfoapi","impl-debug","fileapi","winbase","lmcons","std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2b34e1a8d66696eb9d7687e4731c109168c588330c568f2c651ed2856d9bc6c","features":{},"yanked":false,"links":null}
