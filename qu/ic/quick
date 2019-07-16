@@ -1,1 +1,2 @@
 {"name":"quick","vers":"0.1.0-alpha.1","deps":[],"cksum":"0581d3c84cc6338168249b5f7bad97866939680f48a9c1ce2192fcd4c76d98c1","features":{},"yanked":false,"links":null}
+{"name":"quick","vers":"0.1.0-alpha.2","deps":[{"name":"libquickjs-sys","req":"^0.1.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e8798dadd9747e84745894bd0df132e56ebad9a3fac25010afc2841c87dcda2","features":{},"yanked":false,"links":null}
