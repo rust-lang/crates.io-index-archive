@@ -1,0 +1,1 @@
+{"name":"moleculec","vers":"0.0.1","deps":[{"name":"codegen","req":"= 0.0.1","features":["lang-all"],"optional":false,"default_features":false,"target":null,"kind":"normal","package":"molecule-codegen"}],"cksum":"4d53d3ee3690f0498c541e19e8315bc2c95dcfdac5346f48b53c0175b7176672","features":{},"yanked":false,"links":null}
