@@ -4,3 +4,4 @@
 {"name":"cargo_gn","vers":"0.0.4","deps":[],"cksum":"33842a53a6550517d2ea616d2567f2a268a20024826c785a2919204d9a9c64ad","features":{},"yanked":false,"links":null}
 {"name":"cargo_gn","vers":"0.0.5","deps":[],"cksum":"bd5a5620bbf1d05b48ba78876cc6e9ced492d2d3de20c3ce1c83642042e34158","features":{},"yanked":false,"links":null}
 {"name":"cargo_gn","vers":"0.0.6","deps":[{"name":"which","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efff3649c0f6439f0c1f0f17f661f0f5770b4451835ed8f4a149941604af744b","features":{},"yanked":false,"links":null}
+{"name":"cargo_gn","vers":"0.0.7","deps":[{"name":"which","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42ce8dfc85575fcceab2b5dad023dff6faa8a9705ff0d13b4a4a2c82a17f0a1d","features":{},"yanked":false,"links":null}
