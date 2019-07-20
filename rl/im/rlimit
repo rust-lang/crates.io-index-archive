@@ -1,1 +1,2 @@
 {"name":"rlimit","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5db36a57c0d0f201a7d3506cf982eed0d70c82d81e54bd65222662950aa0d86","features":{},"yanked":false,"links":null}
+{"name":"rlimit","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a91f7a3c2330995c17dd53b970b015fea0797f1022362b6ccf0529704ba53b16","features":{},"yanked":false,"links":null}
