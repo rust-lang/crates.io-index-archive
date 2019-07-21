@@ -1,0 +1,1 @@
+{"name":"thermocouple","vers":"0.1.0","deps":[{"name":"libm","req":"^0.1.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e674c53217102ee6991149d90a253df17d2ced208dd8ddae0122ab669772d63c","features":{"default":["f64","k-type"],"f32":[],"k-type":["libm"],"extrapolate":[],"use_serde":[],"f64":[]},"yanked":false,"links":null}
