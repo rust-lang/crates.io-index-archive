@@ -2,3 +2,4 @@
 {"name":"inkling","vers":"0.9.1","deps":[],"cksum":"6a6eaee0ff6500ce44ec12baa1ec34df6ac8cabeaac8d459f6fbcdb8f7cb6fad","features":{},"yanked":false,"links":null}
 {"name":"inkling","vers":"0.9.2","deps":[],"cksum":"12931c858b92b110ca9aded3c204d5b7a5d3a0c93ec7f7c46385b04f4fdd78a9","features":{},"yanked":false,"links":null}
 {"name":"inkling","vers":"0.9.3","deps":[],"cksum":"cba89df4de8285f57bf2e61951cc2aa3059656fa4533b80a884cf30b490ab218","features":{},"yanked":false,"links":null}
+{"name":"inkling","vers":"0.10.0","deps":[{"name":"serde","req":"1.*","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"70907eb124d705e674aa101d14ffc2935db85853dfd9acc706c8692de48acf54","features":{"serde_support":["serde/derive"]},"yanked":false,"links":null}
