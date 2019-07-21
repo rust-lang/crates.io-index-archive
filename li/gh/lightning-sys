@@ -1,0 +1,1 @@
+{"name":"lightning-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.50","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fcd2d00e4066eb3efad0a795348b333e14bb31cbcc30bee84933ed92b3c3e328","features":{},"yanked":false,"links":null}
