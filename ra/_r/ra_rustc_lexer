@@ -1,0 +1,1 @@
+{"name":"ra_rustc_lexer","vers":"0.1.0-pre.1","deps":[{"name":"unicode-xid","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8d92772f822978a6c9c4657aa61af439e4e635180628b3354049b283b749f1e","features":{},"yanked":false,"links":null}
