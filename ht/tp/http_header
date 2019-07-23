@@ -2,4 +2,4 @@
 {"name":"http_header","vers":"0.3.1","deps":[],"cksum":"9724dded011ac6da38be06fc3199b28dc5d44659358609e2b54db4659a9ede4d","features":{},"yanked":false,"links":null}
 {"name":"http_header","vers":"0.3.2","deps":[],"cksum":"b8825cdcd8c785181d697828110a30c7fa507da52592b283198aacc49dad2340","features":{},"yanked":false,"links":null}
 {"name":"http_header","vers":"0.4.0","deps":[],"cksum":"0cd306c8a40ab729d26658d452df8698d3b7c7b2125b8ea35833afcba83c8069","features":{},"yanked":false,"links":null}
-{"name":"http_header","vers":"0.5.0","deps":[],"cksum":"b6102187899767f81a7fee40bbc04fa547c0342aa93af1264f6f02696bf3a7c7","features":{},"yanked":false,"links":null}
+{"name":"http_header","vers":"0.5.0","deps":[],"cksum":"b6102187899767f81a7fee40bbc04fa547c0342aa93af1264f6f02696bf3a7c7","features":{},"yanked":true,"links":null}
