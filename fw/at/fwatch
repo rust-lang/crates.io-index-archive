@@ -1,0 +1,1 @@
+{"name":"fwatch","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"39aec1da5f16af19998688d201db243eb5410f3591f729229ce809f165d1058d","features":{},"yanked":false,"links":null}
