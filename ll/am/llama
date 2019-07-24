@@ -1,0 +1,1 @@
+{"name":"llama","vers":"0.0.0","deps":[{"name":"llvm-sys","req":"^80","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e4eddc83b0ce6e45fb581c1a9941a165cc790f5c61e72cc47b14de230cd785e","features":{},"yanked":false,"links":null}
