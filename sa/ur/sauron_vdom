@@ -7,3 +7,4 @@
 {"name":"sauron_vdom","vers":"0.7.0","deps":[],"cksum":"54617b191bb53a570786d8db049c86ebbcac57f9f30660e4a890ed6bfc13566f","features":{},"yanked":false,"links":null}
 {"name":"sauron_vdom","vers":"0.7.1","deps":[],"cksum":"5dab68fa23ec50a605eeb64a1e4b7ebe5899c7c19a1033d817f5eb3fa84ed4c3","features":{},"yanked":false,"links":null}
 {"name":"sauron_vdom","vers":"0.10.0","deps":[],"cksum":"b47ef7e641ca453b439535cc836cc62e3df2c33f7ea4f753050c58ff4c4266a6","features":{},"yanked":false,"links":null}
+{"name":"sauron_vdom","vers":"0.10.1-alpha.0","deps":[],"cksum":"85a28f8936816eeb217c4c8a4bd279f6458379c6cc13c805266674f0c49d19c7","features":{},"yanked":false,"links":null}
