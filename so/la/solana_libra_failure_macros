@@ -2,4 +2,4 @@
 {"name":"solana_libra_failure_macros","vers":"0.0.0-sol8","deps":[],"cksum":"4d47fc673138e27731a7cf6e663820b2de7b71272cbf9fd513e6446b86093dbf","features":{},"yanked":true,"links":null}
 {"name":"solana_libra_failure_macros","vers":"0.0.0-sol9","deps":[],"cksum":"095970ec3bf61b72d1be7a0d6789e5699fb0c26c72a66eb47bf860f75a95f00d","features":{},"yanked":true,"links":null}
 {"name":"solana_libra_failure_macros","vers":"0.0.0-sol10","deps":[],"cksum":"664229365876874df9d6383b8c88c4b657084d87dafba4035ea235c08dff595e","features":{},"yanked":true,"links":null}
-{"name":"solana_libra_failure_macros","vers":"0.0.0-sol11","deps":[],"cksum":"15637d2b1e88945f8bfe6d33c650c6853e087cdfad15c148b1a585fffb1a86ff","features":{},"yanked":false,"links":null}
+{"name":"solana_libra_failure_macros","vers":"0.0.0-sol11","deps":[],"cksum":"15637d2b1e88945f8bfe6d33c650c6853e087cdfad15c148b1a585fffb1a86ff","features":{},"yanked":true,"links":null}
