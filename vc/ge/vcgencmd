@@ -1,1 +1,2 @@
 {"name":"vcgencmd","vers":"0.1.0","deps":[{"name":"subprocess","req":"^0.1.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48fa886d3e4e1dbec6b525d570c2e4ff976d7525403a99fe0d9b25493d52b2cd","features":{},"yanked":false,"links":null}
+{"name":"vcgencmd","vers":"0.1.1","deps":[{"name":"subprocess","req":"^0.1.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5dac04feae2ce8fd2bf1a9ac8003ad6b6a87263a2465d46d0655a743f3d6af5e","features":{},"yanked":false,"links":null}
