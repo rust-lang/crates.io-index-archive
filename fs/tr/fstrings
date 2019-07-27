@@ -1,0 +1,1 @@
+{"name":"fstrings","vers":"0.0.1","deps":[{"name":"proc-macro","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"fstrings-proc-macro"}],"cksum":"3259dea8875f9d8ea6fe17201e134251cb03cf10231f45f54544db8ace35496f","features":{"verbose-expansions":["proc-macro/verbose-expansions"]},"yanked":false,"links":null}
