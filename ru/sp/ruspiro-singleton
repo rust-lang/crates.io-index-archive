@@ -1,0 +1,1 @@
+{"name":"ruspiro-singleton","vers":"0.0.2","deps":[{"name":"ruspiro-lock","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4334df6bb425fc777b98ad4b8072d992a600995dfb26c1f40f3cf51f463c7c03","features":{},"yanked":false,"links":null}
