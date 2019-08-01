@@ -1,2 +1,3 @@
 {"name":"android-ndk-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.51","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9dee4bc886afa40169926682a9a33854321f82b8cc01bdbd7ddd046264093f64","features":{},"yanked":false,"links":null}
 {"name":"android-ndk-sys","vers":"0.1.1","deps":[],"cksum":"fb4ce87e618857af78c2ca7ecaee497ba7e96cfea291cf5a40a4005109f2d6ba","features":{},"yanked":false,"links":null}
+{"name":"android-ndk-sys","vers":"0.1.2","deps":[],"cksum":"6dfe26e0f223c22b5a9d36ff9678c19968815928a812480bcff636cc013fff77","features":{"rustdoc":[],"default":[]},"yanked":false,"links":null}
