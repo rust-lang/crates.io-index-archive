@@ -1,1 +1,2 @@
 {"name":"solana-measure","vers":"0.17.0","deps":[{"name":"solana-sdk","req":"^0.17.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a5c972444e9a6696eac32c524b3f16359d18fc284ffc988b24c2321b6a63128","features":{},"yanked":false,"links":null}
+{"name":"solana-measure","vers":"0.17.1","deps":[{"name":"solana-sdk","req":"^0.17.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0af3b93cd5888d5ce0291d33991ca9c082be42dc9c75292ffaee7d8b7867e96","features":{},"yanked":false,"links":null}
