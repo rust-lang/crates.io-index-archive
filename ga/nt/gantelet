@@ -1,1 +1,2 @@
 {"name":"gantelet","vers":"0.1.0","deps":[],"cksum":"e936590ffbe09181eaec26ec30abc6b121a1636caa385321de614ac345d62a14","features":{},"yanked":false,"links":null}
+{"name":"gantelet","vers":"0.1.1","deps":[{"name":"clap","req":"~2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"fasthash","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"feda35d5228da292f5cd4e1ae77574eb7acffbb965d05a3a9877371e29f9eb54","features":{},"yanked":false,"links":null}
