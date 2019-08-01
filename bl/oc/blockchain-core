@@ -1,1 +1,2 @@
 {"name":"blockchain-core","vers":"0.1.0","deps":[],"cksum":"eca53522d6b2ced01eebaa6c4056301960814e716aaa6fd1f6adab82ca9b3876","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"blockchain-core","vers":"0.1.1","deps":[],"cksum":"7f2e4c762a0f9dc50dca67110b64559afbeef5237df3b45cf4a0706eeb660e5d","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
