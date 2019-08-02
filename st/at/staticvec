@@ -6,5 +6,5 @@
 {"name":"staticvec","vers":"0.1.5","deps":[],"cksum":"a7ca41a8f481e2cf6ccfc67066696299552a60bfe48ef53a04889b71034bac0e","features":{},"yanked":false,"links":null}
 {"name":"staticvec","vers":"0.1.6","deps":[],"cksum":"0cd34736ab57ad1faaee2e29d8db7a46d26d30654ae756960da139896d20696b","features":{},"yanked":true,"links":null}
 {"name":"staticvec","vers":"0.1.7","deps":[],"cksum":"efb355a93c5235fb7bb90f7326e31bcfe8236d3ec5b7ab70b3806616a09904ce","features":{},"yanked":true,"links":null}
-{"name":"staticvec","vers":"0.1.8","deps":[],"cksum":"7d38aee3589b1fa022d4940501479845e1640c36607da3a31b4ca3cb0e2c00e8","features":{},"yanked":false,"links":null}
+{"name":"staticvec","vers":"0.1.8","deps":[],"cksum":"7d38aee3589b1fa022d4940501479845e1640c36607da3a31b4ca3cb0e2c00e8","features":{},"yanked":true,"links":null}
 {"name":"staticvec","vers":"0.1.9","deps":[],"cksum":"26c3ad97d3672f7d7bab8c5ff3742346630da92c80fb1c602ac4ad0d6556fcb8","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
