@@ -1,1 +1,2 @@
 {"name":"hashed","vers":"0.1.0","deps":[],"cksum":"675e9e638aa32d8308a587c04e30ac6eed18e4e8433a70c815b91b1260d97eda","features":{"default":["std"],"std":[],"nightly":[]},"yanked":false,"links":null}
+{"name":"hashed","vers":"0.1.1","deps":[],"cksum":"2acb606ae3ca121649f75c1d53a2af081056c0aef20ef41c32c7ef10d417228e","features":{"default":["std"],"nightly":[],"std":[]},"yanked":false,"links":null}
