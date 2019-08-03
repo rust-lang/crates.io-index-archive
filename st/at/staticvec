@@ -7,7 +7,7 @@
 {"name":"staticvec","vers":"0.1.6","deps":[],"cksum":"0cd34736ab57ad1faaee2e29d8db7a46d26d30654ae756960da139896d20696b","features":{},"yanked":true,"links":null}
 {"name":"staticvec","vers":"0.1.7","deps":[],"cksum":"efb355a93c5235fb7bb90f7326e31bcfe8236d3ec5b7ab70b3806616a09904ce","features":{},"yanked":true,"links":null}
 {"name":"staticvec","vers":"0.1.8","deps":[],"cksum":"7d38aee3589b1fa022d4940501479845e1640c36607da3a31b4ca3cb0e2c00e8","features":{},"yanked":true,"links":null}
-{"name":"staticvec","vers":"0.1.9","deps":[],"cksum":"26c3ad97d3672f7d7bab8c5ff3742346630da92c80fb1c602ac4ad0d6556fcb8","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"staticvec","vers":"0.1.9","deps":[],"cksum":"26c3ad97d3672f7d7bab8c5ff3742346630da92c80fb1c602ac4ad0d6556fcb8","features":{"std":[],"default":["std"]},"yanked":true,"links":null}
 {"name":"staticvec","vers":"0.1.10","deps":[],"cksum":"319931d7a1557bc7c1d75957d35f35fc2438ad80e23b7d8bb966dff3360ddbed","features":{"default":["std"],"std":[]},"yanked":true,"links":null}
 {"name":"staticvec","vers":"0.1.11","deps":[],"cksum":"8f49bf9664942c33dd03304765919a91366d499e2c449164bd7e72b8331e2e42","features":{"default":["std"],"std":[]},"yanked":true,"links":null}
 {"name":"staticvec","vers":"0.2.0","deps":[],"cksum":"8ce5a63f47bb94cd49ce3c25baf2e8d975bc9361eec0e80ebd4ac5dbb473818f","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
