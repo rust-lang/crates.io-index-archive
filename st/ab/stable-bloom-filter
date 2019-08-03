@@ -1,1 +1,2 @@
 {"name":"stable-bloom-filter","vers":"0.1.0","deps":[],"cksum":"0f01c7cd66eb7ebebbb28326df2d70210cf902f08985ed6a92b8e6f5f1233777","features":{},"yanked":false,"links":null}
+{"name":"stable-bloom-filter","vers":"0.2.0","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c539435bd638e4ff1ca996638631bd6831215562c812826800395eaf539cc5b","features":{},"yanked":false,"links":null}
