@@ -1,1 +1,2 @@
 {"name":"ruspiro-boot","vers":"0.0.3","deps":[],"cksum":"63c546003c223a35efc9e5a3b563524b0bc4886f42b5c1b5036e69b037ec562c","features":{"with_exception":[],"with_panic":[]},"yanked":false,"links":null}
+{"name":"ruspiro-boot","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7590b52cf957f60db4a39a39adb8a7d3a539d8121cd6d04da720738ab50bd9f7","features":{"with_panic":[],"ruspiro_pi3":[],"with_exception":[],"default":["ruspiro_pi3"]},"yanked":false,"links":null}
