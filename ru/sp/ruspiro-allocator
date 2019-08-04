@@ -1,1 +1,2 @@
 {"name":"ruspiro-allocator","vers":"0.0.2","deps":[{"name":"cc","req":"^1.0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"51d6175f294fb586dbd94e496796fd6181f7944a3dc99da9b56c75cdae32f2ce","features":{},"yanked":false,"links":null}
+{"name":"ruspiro-allocator","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c230d044ae57bcd10aaf6d3f1f27c44990b7900cd229463f1990a5c826f10e8a","features":{},"yanked":false,"links":null}
