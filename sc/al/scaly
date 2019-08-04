@@ -9,3 +9,4 @@
 {"name":"scaly","vers":"0.0.9","deps":[],"cksum":"ece4df176b297c44e3d96b6a1788d9ca98484a7aae097e01d9cd5f12935ec4d2","features":{},"yanked":false,"links":null}
 {"name":"scaly","vers":"0.0.10","deps":[],"cksum":"2b259ce8cfceca6981658b5ec9053680f3bb1ff44764882759d92c805d8aa911","features":{},"yanked":false,"links":null}
 {"name":"scaly","vers":"0.0.11","deps":[],"cksum":"16a5fed4e896b48b735f77b849a14e3ebd544f5c13992da0550519029f52621c","features":{},"yanked":false,"links":null}
+{"name":"scaly","vers":"0.0.12","deps":[{"name":"libc","req":"^0.2.60","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f4b684ad08dd74c978c92048b629ee3199de578cd00ae380c345c832831ffad","features":{},"yanked":false,"links":null}
