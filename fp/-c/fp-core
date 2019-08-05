@@ -1,2 +1,3 @@
 {"name":"fp-core","vers":"0.1.0","deps":[],"cksum":"65369cd1bdd658181ef909fc95e15d54b512ea8d4c68369f114f66afd5c357f4","features":{},"yanked":false,"links":null}
 {"name":"fp-core","vers":"0.1.1","deps":[],"cksum":"c79eb35cb286452cb223b11c0d8569dbe6e08ae95a9a2359aa6c0e0bc9752b86","features":{},"yanked":false,"links":null}
+{"name":"fp-core","vers":"0.1.2","deps":[{"name":"itertools","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1addf2c9aa44665b216686fa1193dc4430db8f8fe5f3aaa6ba600e35e1b43e3f","features":{},"yanked":false,"links":null}
