@@ -7,3 +7,4 @@
 {"name":"solana_libra_failure_macros","vers":"0.0.0-sol13","deps":[],"cksum":"4c0feea29dfe533bfa4cd7a8460ea947a037d7d66c7db315ce320f7b7c908963","features":{},"yanked":true,"links":null}
 {"name":"solana_libra_failure_macros","vers":"0.0.0-sol14","deps":[],"cksum":"e12f7af3267819813c2454aae179e1d71827efef9ff9bb18bfccd4bd7384261f","features":{},"yanked":true,"links":null}
 {"name":"solana_libra_failure_macros","vers":"0.0.0-sol15","deps":[],"cksum":"3080ec410a120187c5184e85713ec6796bdff9297d23317d84d7d75b068d7d8d","features":{},"yanked":false,"links":null}
+{"name":"solana_libra_failure_macros","vers":"0.0.0","deps":[],"cksum":"061aeeee7558e8bbede14617000982b297b4fad41bf75e5c8e17a9bb39e39983","features":{},"yanked":false,"links":null}
