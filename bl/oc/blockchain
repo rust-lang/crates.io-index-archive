@@ -34,3 +34,4 @@
 {"name":"blockchain","vers":"0.8.0","deps":[],"cksum":"bcdc104c69f558c4701f2fc2bb1fcd2d87aaefab3a9cb6b3701cf28a4d410637","features":{},"yanked":false,"links":null}
 {"name":"blockchain","vers":"0.8.1","deps":[],"cksum":"beacfb01421b763e29d6fc003cb07f3d7a7a853ee2d1e7d74cbe6c0ac9c896f6","features":{},"yanked":false,"links":null}
 {"name":"blockchain","vers":"0.9.0","deps":[{"name":"blockchain-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1233e9f14b0ea7be668e2991a26eb013ff1bddd85007c0404066cf5fa134b2d","features":{},"yanked":false,"links":null}
+{"name":"blockchain","vers":"0.9.1","deps":[{"name":"blockchain-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b3f2268e7c3491445e5870b065c5b0eff2a5b58ab356b88d8435a44b1a27147","features":{},"yanked":false,"links":null}
