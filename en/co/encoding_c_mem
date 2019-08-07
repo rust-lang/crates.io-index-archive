@@ -1,1 +1,2 @@
 {"name":"encoding_c_mem","vers":"0.1.0","deps":[{"name":"encoding_rs","req":"^0.8.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cec389fabe389d812c1bed94246660dac380189c918a7604b86273f3687ec962","features":{},"yanked":false,"links":null}
+{"name":"encoding_c_mem","vers":"0.1.1","deps":[{"name":"encoding_rs","req":"^0.8.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94fa3e3efb577e5d978661e92fd444c30fdb5e71f127727db298ecf4048d5d2b","features":{},"yanked":false,"links":null}
