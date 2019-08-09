@@ -19,3 +19,4 @@
 {"name":"staticvec","vers":"0.2.6","deps":[],"cksum":"086aa78ff0c1dc4adce080cead5fb73df09ae8c57a0610354c3ebdf61701da98","features":{"std":[],"default":["std"]},"yanked":true,"links":null}
 {"name":"staticvec","vers":"0.2.61","deps":[],"cksum":"2e01fbed66aaf9d3c7e9865b449ddc87448cb2f06014d6ea9a7a0b1418881622","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"staticvec","vers":"0.2.75","deps":[],"cksum":"8046aa627b7bec1df29592ecf2fb01e6510a0d2882aef9e2c69cf6c37d6a9155","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"staticvec","vers":"0.2.76","deps":[],"cksum":"0f4aa22a9bfa2dd818ace3d646f6ef25a5649d6f369e259eef1ac8a7a17a0bf3","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
