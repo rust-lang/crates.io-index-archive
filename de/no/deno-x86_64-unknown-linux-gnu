@@ -19,3 +19,4 @@
 {"name":"deno-x86_64-unknown-linux-gnu","vers":"0.10.0","deps":[],"cksum":"f5c27e9b9178121bc967cfdf5f24f871337a82b8fd7616c3b54d16cee9b2a8d0","features":{},"yanked":false,"links":null}
 {"name":"deno-x86_64-unknown-linux-gnu","vers":"0.11.0","deps":[],"cksum":"19f0ebc3078912d08e36d878e5d183273d7b0710ca2839e404c86c6e4821af51","features":{},"yanked":false,"links":null}
 {"name":"deno-x86_64-unknown-linux-gnu","vers":"0.12.0","deps":[],"cksum":"e55747fe9d1bfd866c14f2824e06e2d7d42826e8e684814f48c9c11c18a97ed9","features":{},"yanked":false,"links":null}
+{"name":"deno-x86_64-unknown-linux-gnu","vers":"0.13.0","deps":[],"cksum":"0833473267c2ce73f195bcab773297763b9299b0c683bc69c78cf3bb3f0d6b6a","features":{},"yanked":false,"links":null}
