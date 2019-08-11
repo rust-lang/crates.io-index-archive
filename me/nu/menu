@@ -3,3 +3,4 @@
 {"name":"menu","vers":"0.2.1","deps":[],"cksum":"8e8094ba01a474ae932700d30b88eedfc9f5772d8b7ff4c254ebbe8c08329db8","features":{},"yanked":false,"links":null}
 {"name":"menu","vers":"0.2.0","deps":[{"name":"pancurses","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8c46ac71caa4741dd933c91c75085129b888cab004a41709862e6ab38db576ad","features":{},"yanked":true,"links":null}
 {"name":"menu","vers":"0.3.0","deps":[{"name":"pancurses","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f087e77db56bbb14b791d6d52be8389898ad14093b3fcb00e45eec242f4f2b02","features":{},"yanked":false,"links":null}
+{"name":"menu","vers":"0.3.1","deps":[{"name":"pancurses","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"078dd63ece2a7eaa917cb7b2a382b316d4a8efe9887f083f8c59c569ccdaa97c","features":{},"yanked":false,"links":null}
