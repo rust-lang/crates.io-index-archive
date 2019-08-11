@@ -1,0 +1,1 @@
+{"name":"ttyecho","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.60","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7da5ef01fa6154b1ef745593dec9e520fbf777bdfd942f10062c79c9a6dbe51c","features":{},"yanked":false,"links":null}
