@@ -16,3 +16,4 @@
 {"name":"tobj","vers":"0.1.6","deps":[{"name":"clippy","req":"^0.0.140","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5eb0cdeabef6fcefb92c6dcb8571ba1880d36eb608da4f9cf62673765eadc31","features":{"unstable":["clippy"]},"yanked":false}
 {"name":"tobj","vers":"0.1.7","deps":[{"name":"clippy","req":"^0.0.302","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81b6e0199032d341b8491817f2da249c9aa150d18534b58865c2ebe787b29db1","features":{"unstable":["clippy"]},"yanked":false,"links":null}
 {"name":"tobj","vers":"0.1.8","deps":[],"cksum":"504158281d725d0c99e4c4a4cebbe28619be9fad6bd6d1a3483a62a4de400459","features":{},"yanked":false,"links":null}
+{"name":"tobj","vers":"0.1.9","deps":[],"cksum":"f1e0525336d70e7b3d7ccbc8dec870a147b97fe970bc1914d91d72ea92399d49","features":{},"yanked":false,"links":null}
