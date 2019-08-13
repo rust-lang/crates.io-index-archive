@@ -1,2 +1,3 @@
 {"name":"raw-window-handle","vers":"0.0.0","deps":[],"cksum":"32113ae42b43cacd1ca1141fd144706963625c8a4880a05b13652bfba6e58fe5","features":{},"yanked":true,"links":null}
 {"name":"raw-window-handle","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20e7c7f0615f607a9f7821cd71ca70c89379fe72b721d975222baa3325a5d6ac","features":{"nightly-docs":[]},"yanked":false,"links":null}
+{"name":"raw-window-handle","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1314ed6569386b93b929e209ca798c3155fcfb2a572d197d70bbccd278ce9e29","features":{"nightly-docs":[]},"yanked":false,"links":null}
