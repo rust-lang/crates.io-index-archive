@@ -5,3 +5,4 @@
 {"name":"debt64","vers":"1.1.1","deps":[],"cksum":"1bd851b126bf61d29b869fc0676350f29c2b6e6e581342ea54151fa5452335c6","features":{},"yanked":false,"links":null}
 {"name":"debt64","vers":"1.2.0","deps":[],"cksum":"24a338d5ad649265b2014ecb1aac4ac8bd33adeb714c6e0c9073801e5c205357","features":{},"yanked":false,"links":null}
 {"name":"debt64","vers":"2.0.0","deps":[],"cksum":"bcbb7729858e75fea8608f45f00ede9bcac3cca84f2772076a488a19561268ac","features":{},"yanked":false,"links":null}
+{"name":"debt64","vers":"3.0.1","deps":[],"cksum":"2c1809761fe17c7636e73e29ca647b3e7ff89012cf0e340fe5d06d52b040d849","features":{"std":[]},"yanked":false,"links":null}
