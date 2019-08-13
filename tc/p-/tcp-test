@@ -1,0 +1,1 @@
+{"name":"tcp-test","vers":"0.0.1","deps":[{"name":"lazy_static","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e16375ef8104159a7e12392a490f5eb0594dfe924d02b79ffafa8313de0da76","features":{"only_panic":[]},"yanked":false,"links":null}
