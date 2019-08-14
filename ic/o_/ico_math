@@ -3,3 +3,4 @@
 {"name":"ico_math","vers":"0.1.2","deps":[],"cksum":"888b55522117008238c8601396f964a0d6c438630c2abe7283986e5bd18f19b7","features":{"use-std":[]},"yanked":false,"links":null}
 {"name":"ico_math","vers":"0.1.3","deps":[],"cksum":"5f88ec46dbf22d26c1dcf8fa82a49a15e631fa1904e5bedb66f43cdff639a922","features":{"use-std":[]},"yanked":false,"links":null}
 {"name":"ico_math","vers":"0.1.4","deps":[],"cksum":"64d2e34c9f0672d78bb0bb3ed8c9db69c61807d741af52844982538ba5fade82","features":{"default":["use-std"],"use-std":[]},"yanked":false,"links":null}
+{"name":"ico_math","vers":"0.1.5","deps":[],"cksum":"e9ecd19e0ffa5e5ea52fe9ad4c3c2ee631ac46e3226c7bf80d7e1e63d04f6a20","features":{"use-std":[],"default":["use-std"]},"yanked":false,"links":null}
