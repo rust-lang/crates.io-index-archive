@@ -25,3 +25,4 @@
 {"name":"staticvec","vers":"0.3.0-docfix","deps":[],"cksum":"3292b259b6a4edf7df197d193113e9d616ea4bbe52022da51b0baccaec0c51a5","features":{"default":["std"],"std":[]},"yanked":true,"links":null}
 {"name":"staticvec","vers":"0.3.1","deps":[],"cksum":"f65c1b2dcbca2492d25c50d1e7ff0c4adab13eccb754beb9bed4520fc35a67d8","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"staticvec","vers":"0.3.2","deps":[],"cksum":"1a3fc0af812bb0ee3060ac0d8a57cab3bbd424a2dcbdb9078403c50fa1099c5a","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"staticvec","vers":"0.3.3","deps":[],"cksum":"2b37bf63cfd8641f2755c04c40ecf34c3c700236f33ec331814a26c55413d9c2","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
