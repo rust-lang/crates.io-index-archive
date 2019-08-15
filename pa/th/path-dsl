@@ -3,3 +3,4 @@
 {"name":"path-dsl","vers":"0.2.0","deps":[],"cksum":"dff87b67776e1f9518cf8e4c2e640505f6335d6d93b2a260cf74159dfa690bd2","features":{},"yanked":false,"links":null}
 {"name":"path-dsl","vers":"0.3.0","deps":[],"cksum":"b92d9474dbf13f562ad85a0cd0bdfae8166d68fcee9dee9910095e79b2cda3c9","features":{},"yanked":false,"links":null}
 {"name":"path-dsl","vers":"0.4.0","deps":[],"cksum":"73a1b9e86a9d5b17d3d86ea66696f6432930ffc42887c2b05ddb1b9e7b88aec2","features":{},"yanked":false,"links":null}
+{"name":"path-dsl","vers":"0.5.0","deps":[{"name":"more-asserts","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"paste","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0b37c39be2cdc893cb4a64d312bee30cf21679edeb9ee7cb67058302a1581f14","features":{},"yanked":false,"links":null}
