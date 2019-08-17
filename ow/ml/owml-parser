@@ -1,1 +1,2 @@
 {"name":"owml-parser","vers":"0.1.0","deps":[{"name":"nom","req":"^5.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63f29bef8bcfb35c54b9b51987593be61636de109f716f3f316f5969757908f7","features":{},"yanked":false,"links":null}
+{"name":"owml-parser","vers":"0.1.1","deps":[{"name":"nom","req":"^5.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f11ef35f2b31478d8da7dd47009fd2e01f91f7b975e3c60f35436e74f3d26c90","features":{},"yanked":false,"links":null}
