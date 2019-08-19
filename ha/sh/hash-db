@@ -7,3 +7,4 @@
 {"name":"hash-db","vers":"0.14.0","deps":[],"cksum":"c4a2710506bcc28e53b6d48d9686b233a31ad831597da7de91e6112a2fc8f260","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"hash-db","vers":"0.15.0","deps":[],"cksum":"32c87fec93c4a2d264483ef843ac1930ae7c7999d97d73721305a5188b4c23a4","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"hash-db","vers":"0.15.1","deps":[],"cksum":"f1c58b6c17c21f7b9611bc119630ebc124df48257c9f1dce28b306bbe29e913a","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"hash-db","vers":"0.15.2","deps":[],"cksum":"d23bd4e7b5eda0d0f3a307e8b381fdc8ba9000f26fbe912250c0a4cc3956364a","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
