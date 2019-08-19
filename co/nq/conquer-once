@@ -1,0 +1,1 @@
+{"name":"conquer-once","vers":"0.1.0","deps":[{"name":"conquer-util","req":"^0.1.0","features":["back-off"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae3e56964ee1bfac843939b6b2af667a4f271775b0ceb28558617a63f9553a87","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
