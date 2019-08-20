@@ -1,1 +1,2 @@
 {"name":"flap","vers":"0.0.1","deps":[{"name":"im","req":"^13.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fc9f419542b83e15c9a4b58d3d2baa8522a0b6e3cf39c7129a649529ba1a32e","features":{},"yanked":false,"links":null}
+{"name":"flap","vers":"0.0.11","deps":[{"name":"im","req":"^13.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd1afce8155aed785b60e9b3515074c60a18ea53d3160a5ea7984d342be9733d","features":{},"yanked":false,"links":null}
