@@ -1,0 +1,1 @@
+{"name":"near-runtime-fees","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c103bc75c935b74b2be76f168ed4f9e4556a65052e4375a666b0af8628ca38d","features":{},"yanked":false,"links":null}
