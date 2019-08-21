@@ -1,1 +1,2 @@
 {"name":"sbitty","vers":"0.5.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"920fecb55158bdd75f060831c482c42ffb36dd342100bfdc6bcf5dd3d379a852","features":{},"yanked":false,"links":null}
+{"name":"sbitty","vers":"0.5.1","deps":[],"cksum":"cfd9c3eb7ffbf4e2180e7beaa940c74e6510b8d221d3a06bd1405e29bda642ff","features":{},"yanked":false,"links":null}
