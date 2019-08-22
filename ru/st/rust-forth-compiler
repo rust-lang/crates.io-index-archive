@@ -1,0 +1,1 @@
+{"name":"rust-forth-compiler","vers":"0.3.1","deps":[{"name":"rust-simple-stack-processor","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33b8a8e07742eb9f49f740323fe65382a9104036a0d1955b5f5e207264b3ecea","features":{},"yanked":false,"links":null}
