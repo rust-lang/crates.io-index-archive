@@ -1,1 +1,2 @@
 {"name":"rust-salsa20","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9d8c51db89a70c233c29df24396eddb7c639642ef2b95aaac4f3178550b64cb4","features":{},"yanked":false,"links":null}
+{"name":"rust-salsa20","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ae27da911bf8a27b2e85aef4cb53ace4a357db2d1aa3de95e89861d86bdf477d","features":{},"yanked":false,"links":null}
