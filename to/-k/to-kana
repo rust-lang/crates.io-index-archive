@@ -1,3 +1,4 @@
 {"name":"to-kana","vers":"0.1.0","deps":[],"cksum":"aa158d061d6e038488e4ebcd0560e56eda38f0e685ce12d577b69a1c1fe31d6a","features":{},"yanked":false,"links":null}
 {"name":"to-kana","vers":"0.2.0","deps":[],"cksum":"9253e9531a089b47a7e4d8867afe2afc1f491b4117321c5f83be27c8b753864b","features":{},"yanked":false,"links":null}
 {"name":"to-kana","vers":"0.3.0","deps":[{"name":"clap","req":"^2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7331344d29b0903919b7a83f630821dc6bb7a25f4faacd4abbe3f5ea5dc8b6b1","features":{},"yanked":false,"links":null}
+{"name":"to-kana","vers":"0.4.0","deps":[{"name":"clap","req":"^2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23cdd65e6f007cff8e3e455aa464f9a90773e045224acc09014ead5a3cc383c2","features":{},"yanked":false,"links":null}
