@@ -1,1 +1,2 @@
 {"name":"fn-cache","vers":"0.1.0","deps":[{"name":"num-bigint","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fd98bdf9ee05483f30494030e5197ea0c457bbe795b1266435b7e488775240f6","features":{},"yanked":false,"links":null}
+{"name":"fn-cache","vers":"0.1.1","deps":[{"name":"num-bigint","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a1587151a15eb0cbeb9466f0e9f5ab353495c7be2da45fd587bff637faf35d03","features":{},"yanked":false,"links":null}
