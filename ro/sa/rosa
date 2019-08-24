@@ -3,4 +3,4 @@
 {"name":"rosa","vers":"0.0.7","deps":[],"cksum":"1415d2609ced881753671af93a1ea01377194fbe207400bddad52b33fc27c206","features":{},"yanked":true,"links":null}
 {"name":"rosa","vers":"0.1.1","deps":[],"cksum":"aa10ce74d672469bf39ebeacb2f0dd99f95411b0f708ae04c0156ebd991b168e","features":{},"yanked":true,"links":null}
 {"name":"rosa","vers":"0.1.3","deps":[],"cksum":"4fdd046952d2d35c05b2ae6855b662882593c4b33dd24d6831cdab87b112dd70","features":{},"yanked":true,"links":null}
-{"name":"rosa","vers":"0.1.4","deps":[],"cksum":"9b83f0ef225c87b21514e79d8fa432917a020fbbb0e4c81cac8e98bd63e1cfaa","features":{},"yanked":false,"links":null}
+{"name":"rosa","vers":"0.1.4","deps":[],"cksum":"9b83f0ef225c87b21514e79d8fa432917a020fbbb0e4c81cac8e98bd63e1cfaa","features":{},"yanked":true,"links":null}
