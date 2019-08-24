@@ -1,0 +1,1 @@
+{"name":"domain_patterns","vers":"0.1.0","deps":[{"name":"regex","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c1f5c3f65495e7487c65ba8af6c99c9f58fd7206e7f07611eefef6c15d671c5f","features":{},"yanked":false,"links":null}
