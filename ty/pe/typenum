@@ -20,3 +20,4 @@
 {"name":"typenum","vers":"1.9.0","deps":[{"name":"clippy","req":"^0.0.133","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13a99dc6780ef33c78780b826cf9d2a78840b72cae9474de4bcaf9051e60ebbd","features":{"no_std":[],"i128":[]},"yanked":false}
 {"name":"typenum","vers":"1.10.0","deps":[],"cksum":"612d636f949607bdf9b123b4a6f6d966dedf3ff669f7f045890d3a4a73948169","features":{"strict":[],"i128":[],"no_std":[]},"yanked":false,"links":null}
 {"name":"typenum","vers":"1.11.0","deps":[],"cksum":"9af116643fb2603767cc7850b2f70b571ae451a2abe795acbf01747dfd33aa70","features":{"i128":[],"strict":[],"no_std":[]},"yanked":false,"links":null}
+{"name":"typenum","vers":"1.11.1","deps":[],"cksum":"1634a717eaf8fa441d0e7d6f8b20c305987689d97ca1fb2f8b122172970cfaa3","features":{"strict":[],"i128":[],"no_std":[]},"yanked":false,"links":null}
