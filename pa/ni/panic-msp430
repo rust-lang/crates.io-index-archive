@@ -1,0 +1,1 @@
+{"name":"panic-msp430","vers":"0.1.0","deps":[{"name":"msp430","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6efdf5036d94657c14e9d6f074abc6a9522795a71c78b012aa4b2b72dd068273","features":{},"yanked":false,"links":null}
