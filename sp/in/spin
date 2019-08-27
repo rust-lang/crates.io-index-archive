@@ -22,3 +22,4 @@
 {"name":"spin","vers":"0.4.10","deps":[],"cksum":"ceac490aa12c567115b40b7b7fceca03a6c9d53d5defea066123debc83c5dc1f","features":{"default":["unstable"],"once":[],"const_fn":[],"unstable":["const_fn","once"]},"yanked":false,"links":null}
 {"name":"spin","vers":"0.5.0","deps":[],"cksum":"44363f6f51401c34e7be73db0db371c04705d35efbe9f7d6082e03a921a32c55","features":{},"yanked":false,"links":null}
 {"name":"spin","vers":"0.5.1","deps":[],"cksum":"cbdb51a221842709c2dd65b62ad4b78289fc3e706a02c17a26104528b6aa7837","features":{},"yanked":false,"links":null}
+{"name":"spin","vers":"0.5.2","deps":[],"cksum":"6e63cff320ae2c57904679ba7cb63280a3dc4613885beafb148ee7bf9aa9042d","features":{},"yanked":false,"links":null}
