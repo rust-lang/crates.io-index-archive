@@ -1,0 +1,1 @@
+{"name":"format-sql-query","vers":"0.1.0","deps":[{"name":"itertools","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8375d0fa72f1852078595a03bd65af096240c01a35ad1f93a51449547a34366e","features":{},"yanked":false,"links":null}
