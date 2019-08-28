@@ -21,3 +21,4 @@
 {"name":"horrorshow","vers":"0.6.4","deps":[],"cksum":"99f5260b3afa2089a0c185c1948dfea63075ca0c2e37d3b151fa1968aa5f6faf","features":{"ops":[],"default":["ops"]},"yanked":false,"links":null}
 {"name":"horrorshow","vers":"0.6.5","deps":[],"cksum":"2597ee61238cfe666fe1d1b0fd80eb2bdf9c7999adb8e67cc395d63f17902143","features":{"default":["ops"],"ops":[]},"yanked":false,"links":null}
 {"name":"horrorshow","vers":"0.6.6","deps":[],"cksum":"597674f6c0cc85b1ad05a5383aad6809d4f85e935cdd96961faaa69d8896b624","features":{"default":["ops"],"ops":[]},"yanked":false,"links":null}
+{"name":"horrorshow","vers":"0.7.0","deps":[],"cksum":"73b84f6f364b9c35c9941a5199de16a0e8725da352eb4d4b1eb0d7179bee697a","features":{"default":["ops"],"ops":[]},"yanked":false,"links":null}
