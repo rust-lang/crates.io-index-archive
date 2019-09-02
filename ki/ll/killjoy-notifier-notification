@@ -1,0 +1,1 @@
+{"name":"killjoy-notifier-notification","vers":"0.1.0","deps":[{"name":"dbus","req":"^0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"269b39585812b9b58e44f993a81f05062e57ab34d22dea5b4411688a78db2aec","features":{},"yanked":false,"links":null}
