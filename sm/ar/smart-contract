@@ -4,3 +4,4 @@
 {"name":"smart-contract","vers":"0.1.1","deps":[],"cksum":"717eba2b2feb6afba3b755113725ba111e0269f1120f5444d2f5b7790cd517b5","features":{},"yanked":false,"links":null}
 {"name":"smart-contract","vers":"0.1.2","deps":[],"cksum":"6be99fc3a656e75129e0c5bec215b083a8886699475899e0ca78e35f5cd583ea","features":{},"yanked":false,"links":null}
 {"name":"smart-contract","vers":"0.2.0","deps":[{"name":"wee_alloc","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"252d90de5b2f2ae720df88269fbf28bfa0446de4ad9e95830e7a5ab88d81c7b6","features":{"no_std":[]},"yanked":false,"links":null}
+{"name":"smart-contract","vers":"0.2.1","deps":[{"name":"wee_alloc","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b7c8e40a67a336040b6d7c56b0d2a05c3faa6e209d91e698a206ab8258856c28","features":{"no_std":[]},"yanked":false,"links":null}
