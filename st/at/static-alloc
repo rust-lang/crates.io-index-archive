@@ -6,3 +6,4 @@
 {"name":"static-alloc","vers":"0.0.6","deps":[],"cksum":"327779fdcf4f52fd4b525bf7aa9f7ba501450e845a99d4dce53ed7328b8d8bbc","features":{"nightly_try_reserve":[]},"yanked":false,"links":null}
 {"name":"static-alloc","vers":"0.0.7","deps":[],"cksum":"e13aa86b659a60a080839b07bc7b3e0818184b3a93fdafa55b37dbd9797dd141","features":{"nightly_try_reserve":[]},"yanked":false,"links":null}
 {"name":"static-alloc","vers":"0.1.0","deps":[],"cksum":"aabaa960a62ab8e50f93c3716ccce92a86b90e77d4068912e3dca8e3e84d3744","features":{"nightly_try_reserve":[]},"yanked":false,"links":null}
+{"name":"static-alloc","vers":"0.1.1","deps":[],"cksum":"6a8de1c902b4153b1b8a3d2476111ada8fd6ea69bf656bae44788ea9fcb58a66","features":{"nightly_try_reserve":[]},"yanked":false,"links":null}
