@@ -16,7 +16,7 @@
 {"name":"ascii","vers":"0.5.4","deps":[],"cksum":"cf6321593ca5d3390f05c13336052256d1e82a8f981344384fb746ba10b8cb3e","features":{"unstable":[]},"yanked":false}
 {"name":"ascii","vers":"0.6.0","deps":[],"cksum":"8322065af5156f9929edb627296c6d8697f95c74d7d4f1cea23333c32775de65","features":{"unstable":[]},"yanked":false}
 {"name":"ascii","vers":"0.7.0","deps":[],"cksum":"df73fa4497e77719e23ee7e36e548486bb6559343f6ea56cc96a835fbece5ca0","features":{"no_std":[]},"yanked":true,"links":null}
-{"name":"ascii","vers":"0.7.1","deps":[],"cksum":"3ae7d751998c189c1d4468cf0a39bb2eae052a9c58d50ebb3b9591ee3813ad50","features":{"no_std":[]},"yanked":true,"links":null}
+{"name":"ascii","vers":"0.7.1","deps":[],"cksum":"3ae7d751998c189c1d4468cf0a39bb2eae052a9c58d50ebb3b9591ee3813ad50","features":{"no_std":[]},"yanked":false,"links":null}
 {"name":"ascii","vers":"0.8.0","deps":[],"cksum":"4ba7abd037a4a5f8eb09b47994fd3522eff469bf03a9ba2e0d8787742a85f8fc","features":{"std":[],"default":["std"]},"yanked":true,"links":null}
 {"name":"ascii","vers":"0.8.1","deps":[],"cksum":"d32a2e45b9249ab218d09bfed614d244261dc71f4f00f8d0b36d1b4c54c009b8","features":{"std":[],"default":["std"]},"yanked":true,"links":null}
 {"name":"ascii","vers":"0.8.2","deps":[{"name":"quickcheck","req":"^0.4.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40a424fcb24a7ba40d1d21e3f7cbab26f517cccb965a8bd4b20437e991cd4ce6","features":{"std":[],"default":["std"]},"yanked":true,"links":null}
