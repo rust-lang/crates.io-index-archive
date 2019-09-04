@@ -22,3 +22,4 @@
 {"name":"deno-x86_64-pc-windows-msvc","vers":"0.14.0","deps":[],"cksum":"12f70b3f9709adcbbe8398cb4868568784725532a413be51065ac121f8194b33","features":{},"yanked":false,"links":null}
 {"name":"deno-x86_64-pc-windows-msvc","vers":"0.15.0","deps":[],"cksum":"a3207176cb4d5095216d4378965ac4ee299415c1ea5037910fb5002c99b8b7d9","features":{},"yanked":false,"links":null}
 {"name":"deno-x86_64-pc-windows-msvc","vers":"0.16.0","deps":[],"cksum":"4778f4996cc3c14bc273fecce09423c70fd765790dfec11f6b7a10684f0033e0","features":{},"yanked":false,"links":null}
+{"name":"deno-x86_64-pc-windows-msvc","vers":"0.17.0","deps":[],"cksum":"ad0e68f402298cb61f2eb46b448234dc9f9b18d116a384601b585c1a115d416e","features":{},"yanked":false,"links":null}
