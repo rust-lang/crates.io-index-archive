@@ -1,1 +1,2 @@
 {"name":"susu","vers":"0.1.0","deps":[{"name":"clap","req":"~2.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5967da7964aa2ebcb99aa9239ccb33dc5cd8d135f84add915d0c50d490e1cf1","features":{},"yanked":false,"links":null}
+{"name":"susu","vers":"0.1.20190409163015","deps":[{"name":"clap","req":"~2.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6ab4386e5ba91eb46696b6ccfc4a1fc7b51d64927af3d5060246fd77a73d6f8","features":{},"yanked":false,"links":null}
