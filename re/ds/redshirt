@@ -1,0 +1,1 @@
+{"name":"redshirt","vers":"0.1.0","deps":[{"name":"ring","req":"^0.16.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09299da5054326bbf1a06358157ba70284f3026cb42832070990435d8d1ff570","features":{"redshirt2":["ring"],"default":["redshirt1","redshirt2"],"redshirt1":[]},"yanked":false,"links":null}
