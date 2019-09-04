@@ -1,1 +1,2 @@
 {"name":"linux-nvme-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.51","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a36a3f958cb745559992dfefcef21932f04a242b479ef1a470584e20dff91510","features":{},"yanked":false,"links":null}
+{"name":"linux-nvme-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.51","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ac38ae202bc1092b2fdbdcdd544518dfb9f13dd38fe50268e9496ef250e60883","features":{},"yanked":false,"links":null}
