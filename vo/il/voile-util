@@ -1,0 +1,1 @@
+{"name":"voile-util","vers":"0.1.0","deps":[{"name":"pest","req":"^2.1.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"405b3b6818d533e194659506e95553f61848d257427fdb446ca1f50e8fd28a7c","features":{"parser":["pest"]},"yanked":false,"links":null}
