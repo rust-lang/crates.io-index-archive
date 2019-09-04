@@ -1,1 +1,2 @@
 {"name":"mber","vers":"0.1.0","deps":[{"name":"yansi","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36b0deca6226f227de57fddbd2496409f91ddd84e90907ae348cd64939cac8fd","features":{},"yanked":false,"links":null}
+{"name":"mber","vers":"0.1.1","deps":[{"name":"yansi","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2785f42414888cf24e0b1da91c20b76e27a6073c8640dc4b567903e3051003e","features":{},"yanked":false,"links":null}
