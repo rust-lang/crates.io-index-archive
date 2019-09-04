@@ -1,0 +1,1 @@
+{"name":"cumulus","vers":"0.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca942c421aebaab8d2f5d1a149bf93b123bbf9e12faf972ebbf12373a336c245","features":{},"yanked":false,"links":null}
