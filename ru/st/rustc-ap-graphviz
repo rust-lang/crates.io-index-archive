@@ -305,3 +305,4 @@
 {"name":"rustc-ap-graphviz","vers":"579.0.0","deps":[],"cksum":"848a8f9e2083f4072b5c27d56e2e238c30a8cc6ef1dec9b782b8d32f60761de5","features":{},"yanked":false,"links":null}
 {"name":"rustc-ap-graphviz","vers":"580.0.0","deps":[],"cksum":"cc3bca6866e745aae8302f8846be21a41a71133d35808931f588d2af61a0143a","features":{},"yanked":false,"links":null}
 {"name":"rustc-ap-graphviz","vers":"581.0.0","deps":[],"cksum":"b01d685fc49fb05676a8829c7a9fa1759c441f1430384c32c8b42462409535f3","features":{},"yanked":false,"links":null}
+{"name":"rustc-ap-graphviz","vers":"582.0.0","deps":[],"cksum":"a15d423b4a85cd9e8eda812b478b65e8a4b038ce96bec50381d4eacad483d325","features":{},"yanked":false,"links":null}
