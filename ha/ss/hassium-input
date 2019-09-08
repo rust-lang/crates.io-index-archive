@@ -1,0 +1,1 @@
+{"name":"hassium-input","vers":"0.1.0","deps":[{"name":"hassium-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8a62028251e2f6d7de363eab0a3e28695be296245e841bf52969e7db51ccbcf","features":{"parallel":["hassium-core/parallel"]},"yanked":false,"links":null}
