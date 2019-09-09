@@ -1,1 +1,2 @@
 {"name":"syscalls","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b2f257ae305eac77cb1ebe7aed9a88bf7afb8cdb106154cd65be937423f7e50e","features":{},"yanked":false,"links":null}
+{"name":"syscalls","vers":"0.1.1","deps":[{"name":"tempfile","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7540acb084b1ce8d7625dc6a4d68e1bbe5ab14c5f33e15e5ed69df8f902069c8","features":{},"yanked":false,"links":null}
