@@ -1,1 +1,2 @@
 {"name":"cargo-print","vers":"0.1.0","deps":[{"name":"cargo_metadata","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be2d9a05dcf3161f6d147e730ce4e0f4906096f377ec399e38a45608ad22cd29","features":{},"yanked":false,"links":null}
+{"name":"cargo-print","vers":"0.1.1","deps":[{"name":"cargo_metadata","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ddf61050b83033320f64ef67ee044080b85ba08d62fb305cfe4602f0ea2d163","features":{},"yanked":false,"links":null}
