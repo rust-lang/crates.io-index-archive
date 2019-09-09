@@ -1,1 +1,2 @@
 {"name":"slp","vers":"0.1.0","deps":[],"cksum":"22f6cc8764bb697d79bd14b37533980f77f82d87e1ab9c736b59c03542e972f1","features":{},"yanked":false,"links":null}
+{"name":"slp","vers":"0.1.1","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17d555bb6066c8f2ea0dc8ba30df38a0e841b7b6aa914d8636be09f09dbaf30c","features":{},"yanked":false,"links":null}
