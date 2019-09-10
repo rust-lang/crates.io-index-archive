@@ -1,1 +1,2 @@
 {"name":"sparkle","vers":"0.1.0","deps":[{"name":"gl_generator","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8c86734449716b3649c113e7b1e947905dff702f6069c68f52938f637460de4f","features":{},"yanked":false,"links":null}
+{"name":"sparkle","vers":"0.1.1","deps":[{"name":"gl_generator","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1552e255a7e664b44522ca626862cc7af0f0ae43c948576c852d7e7cdc65243f","features":{},"yanked":false,"links":null}
