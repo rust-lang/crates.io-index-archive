@@ -1,0 +1,1 @@
+{"name":"flow_impl","vers":"0.8.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dd895207a742e13b50512d517f8d67644db6d4aa4142d29b5ee5580c23ecc40","features":{},"yanked":false,"links":null}
