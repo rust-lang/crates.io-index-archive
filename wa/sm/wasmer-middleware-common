@@ -1,0 +1,1 @@
+{"name":"wasmer-middleware-common","vers":"0.7.0","deps":[{"name":"wasmer-runtime-core","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39a542df99aff5e7ac66aa5d69c5869f92688ea0b430957590e34142faef7ba6","features":{},"yanked":false,"links":null}
