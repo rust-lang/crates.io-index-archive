@@ -1,1 +1,2 @@
 {"name":"clap-nested","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa1e3469349165392225cae50d5a4976e186691edae83b99d43ee65e4f14e942","features":{},"yanked":true,"links":null}
+{"name":"clap-nested","vers":"0.1.1","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"067e85a02e7328d09c41b5aa458ed671a336c457450d2876b5ca3704734cb550","features":{},"yanked":false,"links":null}
