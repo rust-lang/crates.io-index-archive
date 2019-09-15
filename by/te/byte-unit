@@ -13,3 +13,4 @@
 {"name":"byte-unit","vers":"2.1.0","deps":[{"name":"lazy_static","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6754bb4703aa167bed5381f0c6842f1cc31a9ecde3b9443f726dde3ad3afb841","features":{},"yanked":false,"links":null}
 {"name":"byte-unit","vers":"3.0.0","deps":[],"cksum":"c1a6a9be4567dd889e806b3a1b9c0eb3971e16b343f5ed737777fd35a8d07179","features":{},"yanked":false,"links":null}
 {"name":"byte-unit","vers":"3.0.1","deps":[],"cksum":"90139954ec9776c4832d44f212e558ccdacbe915a881bf3de3a1a487fa8d1e87","features":{},"yanked":false,"links":null}
+{"name":"byte-unit","vers":"3.0.2","deps":[],"cksum":"82aca95e8d301564d22bede7d668cf1f4c93335b430726ef5215a0d4071e923e","features":{},"yanked":false,"links":null}
