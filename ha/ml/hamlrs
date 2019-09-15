@@ -8,3 +8,4 @@
 {"name":"hamlrs","vers":"0.4.0","deps":[],"cksum":"225c0faffd208c32010d0146e6641ac8d830d6c023a73b168c8ca3f44bec64c3","features":{},"yanked":false,"links":null}
 {"name":"hamlrs","vers":"0.4.1","deps":[],"cksum":"574d3b4fffe925af45b02360e1397f68c2fb713016e126fcf2a89a2f6d10735b","features":{},"yanked":false,"links":null}
 {"name":"hamlrs","vers":"0.4.2","deps":[{"name":"criterion","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bc01733b246779a4692f9010cc8c354accb381875f61c48108752ae3a73edc8f","features":{},"yanked":false,"links":null}
+{"name":"hamlrs","vers":"0.4.3","deps":[{"name":"criterion","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5c0640ccab54845ae81f917a2948fe3ed472df885712799f25254e046990178d","features":{},"yanked":false,"links":null}
