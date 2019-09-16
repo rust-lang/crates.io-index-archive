@@ -14,3 +14,4 @@
 {"name":"enum-ordinalize","vers":"2.4.0","deps":[],"cksum":"c9bc025e36766db3b8d6023706fef8ca3e0660ae3a3c9c1ceb1730282fc37688","features":{},"yanked":false,"links":null}
 {"name":"enum-ordinalize","vers":"2.5.0","deps":[],"cksum":"65d757b793b973dea57d5c10341da28db24eeeee291c463dedb3d5156c56843f","features":{"nightly-test":[]},"yanked":false,"links":null}
 {"name":"enum-ordinalize","vers":"2.5.1","deps":[],"cksum":"b06e9907dbb3d844a3e178d0c99d5a215d5387d3f04c46cd8938d048478382b4","features":{"nightly-test":[]},"yanked":false,"links":null}
+{"name":"enum-ordinalize","vers":"2.5.2","deps":[],"cksum":"0ef0c403035feba6de46cfe7c61736548b7064509aceb3ff75ec40cd88d39fc2","features":{"nightly-test":[]},"yanked":false,"links":null}
