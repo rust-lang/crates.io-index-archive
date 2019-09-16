@@ -1,1 +1,2 @@
 {"name":"pixel-canvas","vers":"0.1.0","deps":[{"name":"glium","req":"^0.26.0-alpha3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1310d4e3572cebb0938f679fbc214b50c1c3ec7c726b91ee4079af6805b26fe","features":{},"yanked":false,"links":null}
+{"name":"pixel-canvas","vers":"0.2.0","deps":[{"name":"glium","req":"^0.26.0-alpha3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5105d9518d9e4c45b491df4ac4d3896d100c3c719bb2745b303b686bd4095dee","features":{},"yanked":false,"links":null}
