@@ -1,1 +1,2 @@
 {"name":"penlib","vers":"0.0.1","deps":[{"name":"palette","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2724a1b15b1a2e029dde15e1847213458cdb41d76d5470c84eda00cb2e4b9be0","features":{},"yanked":false,"links":null}
+{"name":"penlib","vers":"0.0.2","deps":[{"name":"palette","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87e645645a15b92a7b5836bc194e715358475f4c0c2e60d31657078be1ff8b27","features":{},"yanked":false,"links":null}
