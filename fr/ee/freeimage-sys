@@ -1,1 +1,2 @@
 {"name":"freeimage-sys","vers":"0.0.1","deps":[],"cksum":"c3fa9d5095cde9cf3eab53878e03e05cec062bdf38696fce22d8b02f5a6e1d34","features":{},"yanked":false}
+{"name":"freeimage-sys","vers":"3.18.0","deps":[{"name":"fs_extra","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"build"}],"cksum":"463774cc1f8fbc57342e327e98f4b3d43a12ea1260c5c1b91459b5a4f1b55c7f","features":{},"yanked":false,"links":"freeimage"}
