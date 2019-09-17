@@ -3,3 +3,4 @@
 {"name":"hex","vers":"0.3.0","deps":[],"cksum":"b66c2649564633dd569707d91459ac1d2deefd9fa2a1def6fffc55b4bfee0b1f","features":{},"yanked":false}
 {"name":"hex","vers":"0.3.1","deps":[],"cksum":"459d3cf58137bb02ad4adeef5036377ff59f066dbb82517b7192e3a5462a2abc","features":{},"yanked":false}
 {"name":"hex","vers":"0.3.2","deps":[],"cksum":"805026a5d0141ffc30abb3be3173848ad46a1b1664fe632428479619a3644d77","features":{"benchmarks":[]},"yanked":false,"links":null}
+{"name":"hex","vers":"0.4.0","deps":[],"cksum":"023b39be39e3a2da62a94feb433e91e8bcd37676fbc8bea371daf52b7a769a3e","features":{"default":["std"],"benchmarks":[],"std":[]},"yanked":false,"links":null}
