@@ -1,0 +1,1 @@
+{"name":"associative-cache","vers":"1.0.0","deps":[{"name":"rand","req":"^0.7.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcf8de4d87146354180256c37a9860e24fc6611383e1debfafeee82fcaf837a2","features":{},"yanked":false,"links":null}
