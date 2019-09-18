@@ -1,0 +1,1 @@
+{"name":"pkgman","vers":"0.2.0","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04127b1d19518414f9df246b1390d59eb3077dd298ef67b39f3ee8449b8ef71f","features":{},"yanked":false,"links":null}
