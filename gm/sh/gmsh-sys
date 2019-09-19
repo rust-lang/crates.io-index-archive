@@ -1,1 +1,2 @@
 {"name":"gmsh-sys","vers":"0.1.0","deps":[{"name":"pkg-config","req":"^0.3.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ddb083e320162d73e2cfe36c4dc04fa2ad568df3b6688c66f2bd5dcae8b761a4","features":{},"yanked":false,"links":"gmsh"}
+{"name":"gmsh-sys","vers":"0.1.1","deps":[{"name":"pkg-config","req":"^0.3.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"79b771f34d9dec5991efeb8b2d75a4c7e73c7ec9fd68666a1e7fdec90866b38e","features":{},"yanked":false,"links":"gmsh"}
