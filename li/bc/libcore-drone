@@ -1,0 +1,1 @@
+{"name":"libcore-drone","vers":"0.10.0","deps":[{"name":"drone-core","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfc2c070e7c8d45a42e680671f958a23d8c5bab97df553e66443da745148f3c5","features":{},"yanked":false,"links":null}
