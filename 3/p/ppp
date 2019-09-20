@@ -1,1 +1,2 @@
 {"name":"ppp","vers":"1.0.0","deps":[{"name":"nom","req":"^5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d378cb2ec1845e63a41b9670be079e60c1198fba5c34babc2306f61ac1e63dee","features":{},"yanked":false,"links":null}
+{"name":"ppp","vers":"1.0.1","deps":[{"name":"nom","req":"^5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e859c505d51988ac6f6392c7e66f8c5fe6492c7e1dace03312423d0cf6795af3","features":{},"yanked":false,"links":null}
