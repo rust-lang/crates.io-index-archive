@@ -5,3 +5,4 @@
 {"name":"alloc-shim","vers":"0.3.1","deps":[],"cksum":"cf914626c6b0e8fa1c8e41f3d2e6d9e7864c9cad51edf45745aa4325f2990352","features":{"std":[],"alloc":[]},"yanked":false,"links":null}
 {"name":"alloc-shim","vers":"0.3.2","deps":[],"cksum":"57f674aa86d1ef6f7fe11eeedbedd75b9e48029e3ff656f299d784f1a5cd0d6b","features":{"alloc":[],"std":[]},"yanked":false,"links":null}
 {"name":"alloc-shim","vers":"0.3.3","deps":[],"cksum":"92381297eb6980bcfc0304c65770701b9ecc5b3d40a14e4ef2be1267bbf862d3","features":{"alloc":[],"std":[]},"yanked":false,"links":null}
+{"name":"alloc-shim","vers":"0.3.4","deps":[],"cksum":"cc62b23d29dd7105f973784afc4f2481aa5aa15fe9f413ba5d1a8d8fc7c31f93","features":{"alloc":[],"std":[]},"yanked":false,"links":null}
