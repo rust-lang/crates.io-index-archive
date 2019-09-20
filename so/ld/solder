@@ -1,1 +1,2 @@
 {"name":"solder","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb93d5ad9858f1f6a9fa44ba2c49495b15823a230ff00f855d99f9a05f29325c","features":{},"yanked":false,"links":null}
+{"name":"solder","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"817fba3aa055f1c5bcaa3402867250d1000ee92728cd73dfb4390af0e96c44ff","features":{},"yanked":false,"links":null}
