@@ -1,1 +1,2 @@
 {"name":"extern-existential","vers":"0.1.0","deps":[],"cksum":"a210658e7a84e31cefe8e1ec798dcc77bbf1c7815df7957d76fe680e3c8a9cca","features":{},"yanked":false,"links":null}
+{"name":"extern-existential","vers":"0.1.1","deps":[{"name":"core","req":"^1.0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal","package":"rustc-std-workspace-core"}],"cksum":"0a00154725fe41b024273dc2bb18df11bbb448825148178f01302bdc72af8c87","features":{"rustc-dep-of-std":["core"]},"yanked":false,"links":null}
