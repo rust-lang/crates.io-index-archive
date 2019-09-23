@@ -1,0 +1,1 @@
+{"name":"rsmt","vers":"0.1.0","deps":[{"name":"ring","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d282c7dea3c617fb404ee888d3dedec75899b6e26c28ed3f9b49d4e032f4f229","features":{},"yanked":false,"links":null}
