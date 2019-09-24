@@ -1,0 +1,1 @@
+{"name":"emulator_6502","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4668db6117c72bd37ee2e067125f85e61e740acb899723b834f5773bc1809c3e","features":{"binary_coded_decimal":[],"default":[]},"yanked":false,"links":null}
