@@ -4,3 +4,4 @@
 {"name":"openni2-sys","vers":"1.0.0","deps":[],"cksum":"45e04f6293575e38fa955ee46b08af234cacd5e206cbaceb381730e783e80878","features":{},"yanked":false,"links":"openni2"}
 {"name":"openni2-sys","vers":"1.0.1","deps":[],"cksum":"34b0fcba7f4e17ba25d8bf02fdae08857c538158320dce1e0c92745f6fa50fd7","features":{},"yanked":false,"links":"openni2"}
 {"name":"openni2-sys","vers":"1.0.2","deps":[],"cksum":"71094571867ab218d59f10b7e8fef41c88325d9ee492241563eec31bdfaa27de","features":{},"yanked":false,"links":"openni2"}
+{"name":"openni2-sys","vers":"1.1.0","deps":[],"cksum":"f8217446cc724399fba5d9afe86c4c4fe2def761f1b41bff07a76d7659f34112","features":{},"yanked":false,"links":"openni2"}
