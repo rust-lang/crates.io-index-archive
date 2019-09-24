@@ -2,3 +2,4 @@
 {"name":"gridly","vers":"0.2.0","deps":[],"cksum":"ae68af9babf9fab41664854b1032129dcfc6d899d0bb165649d016a15301233d","features":{},"yanked":false,"links":null}
 {"name":"gridly","vers":"0.2.1","deps":[],"cksum":"5b8795319de3b39ba5d1d79b11ab5fa1bef21f798ffc6dd425637429b71b7d80","features":{},"yanked":false,"links":null}
 {"name":"gridly","vers":"0.5.0","deps":[],"cksum":"1fe8dd60977209e79fb11904e0b28a106d525b68a674024ae904621e798796c3","features":{},"yanked":false,"links":null}
+{"name":"gridly","vers":"0.5.1","deps":[{"name":"gridly_grids","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"42ff19cd8bb5b2d353a4978c5e2d7fd4ce42d33dfd59b9730e8dfb1dcab18af8","features":{},"yanked":false,"links":null}
