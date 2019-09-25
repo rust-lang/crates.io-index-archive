@@ -21,3 +21,4 @@
 {"name":"hello_exercism","vers":"0.3.1","deps":[],"cksum":"47265033326b0c7dc44d55d5f8d26349f8934cb249c31ae945e4d7f4090512f5","features":{},"yanked":false,"links":null}
 {"name":"hello_exercism","vers":"0.3.2","deps":[],"cksum":"b1e05b58b8e6720ec955c9998276ab79a84bebfbdb06e1c709fcbba020e4bbb0","features":{},"yanked":false,"links":null}
 {"name":"hello_exercism","vers":"0.3.3","deps":[],"cksum":"b756dec6be1cc5e8e94997ef98c8744bacb4d2493725ceff7ff4434f61b7655b","features":{},"yanked":false,"links":null}
+{"name":"hello_exercism","vers":"0.3.4","deps":[{"name":"i_crate","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"hello_exercism"}],"cksum":"64a17ee38ade4441e75752bb080044a4daf23a90dd37069ffd398ec0759e2f18","features":{},"yanked":false,"links":null}
