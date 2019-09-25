@@ -24,3 +24,4 @@
 {"name":"deno-x86_64-apple-darwin","vers":"0.16.0","deps":[],"cksum":"9102623a2fa68189e86b959e53ed0cf3115097a931d82bc287304d3ab0c4035d","features":{},"yanked":false,"links":null}
 {"name":"deno-x86_64-apple-darwin","vers":"0.17.0","deps":[],"cksum":"2b7894510edd8189d87ca54910edaa52551387b99a00b963c9ec09ca7425a851","features":{},"yanked":false,"links":null}
 {"name":"deno-x86_64-apple-darwin","vers":"0.18.0","deps":[],"cksum":"5b4f8aeac43b60b828262a82b8073bc318516675493164ce3f52d0636566e0a2","features":{},"yanked":false,"links":null}
+{"name":"deno-x86_64-apple-darwin","vers":"0.19.0","deps":[],"cksum":"39a5b5315671e4a3ad5fa0e899d75b4f22d18cf8030f2dc95433bdc1e58f157c","features":{},"yanked":false,"links":null}
