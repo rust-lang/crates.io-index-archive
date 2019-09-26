@@ -1,1 +1,2 @@
 {"name":"iso7816-tlv","vers":"0.1.0","deps":[{"name":"untrusted","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd6a29e26bc700a75acb6c86861892d5ee7fc3318e9179916ef88665c0dfec56","features":{},"yanked":false,"links":null}
+{"name":"iso7816-tlv","vers":"0.1.1","deps":[{"name":"untrusted","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d15838d9a8c20495bffbcdeda4c06193f8511052a23c9cafa2a90b7c9a664b6f","features":{},"yanked":false,"links":null}
