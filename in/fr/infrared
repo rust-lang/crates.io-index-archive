@@ -3,3 +3,4 @@
 {"name":"infrared","vers":"0.3.0","deps":[],"cksum":"2d71cb534a42b72b647ab484d58a84239de9d7420f1729cc364e39a9592373bf","features":{},"yanked":false,"links":null}
 {"name":"infrared","vers":"0.3.1","deps":[],"cksum":"c84ef2f55ad0fee5c1c30ee3818a66b7378126f76b4be7723e6b74b79f569e5e","features":{},"yanked":false,"links":null}
 {"name":"infrared","vers":"0.3.2","deps":[],"cksum":"e9faa881b2e6f1d23e13bbc0b22f3f88be7c0a5546ca53bc561794c78b87306a","features":{},"yanked":false,"links":null}
+{"name":"infrared","vers":"0.4.0","deps":[],"cksum":"872a0a70ee2a35df1d983ff3ea45b8fa5d6c50986f1fb32059ee81648837e19e","features":{"nec":[],"protocol-dev":[],"rc5":[],"rc6":[],"default":["nec","rc5","rc6"]},"yanked":false,"links":null}
