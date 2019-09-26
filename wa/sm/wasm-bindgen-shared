@@ -51,3 +51,4 @@
 {"name":"wasm-bindgen-shared","vers":"0.2.48","deps":[],"cksum":"d9c2d4d4756b2e46d3a5422e06277d02e4d3e1d62d138b76a4c681e925743623","features":{},"yanked":false,"links":"wasm_bindgen"}
 {"name":"wasm-bindgen-shared","vers":"0.2.49","deps":[],"cksum":"9142625bbb0d70710b3f2a6b20924c80fa182b05888b6bd21600ab9075673563","features":{},"yanked":false,"links":"wasm_bindgen"}
 {"name":"wasm-bindgen-shared","vers":"0.2.50","deps":[],"cksum":"d41fc1bc3570cdf8d108c15e014045fd45a95bb5eb36605f96a90461fc34027d","features":{},"yanked":false,"links":"wasm_bindgen"}
+{"name":"wasm-bindgen-shared","vers":"0.2.51","deps":[],"cksum":"83d61fe986a7af038dd8b5ec660e5849cbd9f38e7492b9404cc48b2b4df731d1","features":{},"yanked":false,"links":"wasm_bindgen"}
