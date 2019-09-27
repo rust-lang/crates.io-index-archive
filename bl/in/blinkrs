@@ -1,0 +1,1 @@
+{"name":"blinkrs","vers":"0.1.0","deps":[{"name":"libusb","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd639d9ad15ac3766fa94aa28f5a3f9ee09ef5896cc7a334367052ec2832d13f","features":{},"yanked":false,"links":null}
