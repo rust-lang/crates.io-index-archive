@@ -1,0 +1,1 @@
+{"name":"rust-pushrod-render","vers":"0.1.0","deps":[{"name":"sdl2","req":"^0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df28d012c35f5dabfeaabbd608dfd9157e1c5b2aa654c9daed1dea2f33233dd2","features":{},"yanked":false,"links":null}
