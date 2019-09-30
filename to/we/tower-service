@@ -2,3 +2,4 @@
 {"name":"tower-service","vers":"0.1.0","deps":[{"name":"futures","req":"^0.1.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b32f72af77f1bfe3d3d4da8516a238ebe7039b51dd8637a09841ac7f16d2c987","features":{},"yanked":false,"links":null}
 {"name":"tower-service","vers":"0.2.0","deps":[{"name":"futures","req":"^0.1.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cc0c98637d23732f8de6dfd16494c9f1559c3b9e20b4a46462c8f9b9e827bfa","features":{},"yanked":false,"links":null}
 {"name":"tower-service","vers":"0.3.0-alpha.1","deps":[],"cksum":"7bb202f83c619c74a3f9b5d6d508e9b703be59e86ab49a89adc7eafb1e822b83","features":{},"yanked":false,"links":null}
+{"name":"tower-service","vers":"0.3.0-alpha.2","deps":[],"cksum":"63ff37396cd966ce43bea418bfa339f802857495f797dafa00bea5b7221ebdfa","features":{},"yanked":false,"links":null}
