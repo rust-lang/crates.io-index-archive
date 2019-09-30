@@ -1,1 +1,2 @@
 {"name":"ewasm","vers":"0.1.0","deps":[{"name":"wasmi","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3fe9d3d6dd2b84b709d3e944742d6cc100f8ce7910acba8c83ca05347da57b3a","features":{},"yanked":false,"links":null}
+{"name":"ewasm","vers":"0.1.1","deps":[{"name":"wasmi","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b22d3711d9a854d52f0f67cca5b5f31c5b7fdd432ffa22a097014c6eb5614456","features":{},"yanked":false,"links":null}
