@@ -8,3 +8,4 @@
 {"name":"wifiscanner","vers":"0.3.4","deps":[{"name":"regex","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cb55ddb9010a1711978134313182036cd5439c4668b22605cd04661626cb987","features":{},"yanked":false}
 {"name":"wifiscanner","vers":"0.3.5","deps":[{"name":"regex","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"402c448617a58f4bd0f9b42a62d638c1a48ceffdbd3776a10e2cd7c7c8364ba2","features":{},"yanked":false}
 {"name":"wifiscanner","vers":"0.3.6","deps":[{"name":"regex","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43835bdc40990a7cddc6c3bf4a40caa726256e435c5b535f1d33c7d393a475d9","features":{},"yanked":false}
+{"name":"wifiscanner","vers":"0.4.0","deps":[],"cksum":"b7ae92c1ed153a0d05df9c227d9583fd5edc826a89a781247fa7823f35439fe7","features":{},"yanked":false,"links":null}
