@@ -1,0 +1,1 @@
+{"name":"radixal","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"665cec15c3a63676b0792cd60f1b517e217ea6c17a7870ed3a959014e3eeaa91","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
