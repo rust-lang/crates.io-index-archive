@@ -11,3 +11,4 @@
 {"name":"static_assertions","vers":"0.3.2","deps":[],"cksum":"ec3c2cbd19f2033005f463529553273cdcb3e91b3281346007adc7967b6789af","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"static_assertions","vers":"0.3.3","deps":[],"cksum":"b4f8de36da215253eb5f24020bfaa0646613b48bf7ebe36cdfa37c3b3b33b241","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"static_assertions","vers":"0.3.4","deps":[],"cksum":"7f3eb36b47e512f8f1c9e3d10c2c1965bc992bd9cdb024fa581e2194501c83d3","features":{"nightly":[]},"yanked":false,"links":null}
+{"name":"static_assertions","vers":"1.0.0","deps":[],"cksum":"0fa13613355688665b68639b1c378a62dbedea78aff0fc59a4fa656cbbdec657","features":{"nightly":[]},"yanked":false,"links":null}
