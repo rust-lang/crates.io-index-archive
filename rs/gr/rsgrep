@@ -1,1 +1,2 @@
 {"name":"rsgrep","vers":"0.1.0","deps":[],"cksum":"05f40c9857d57878be45ba896b23a8f6a891c4b8daa6dc4f7e4889ac27673d03","features":{},"yanked":false,"links":null}
+{"name":"rsgrep","vers":"0.2.0","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34d585b283dc3dd2589e6b693e8a6e41c5b8c67289898402b62700bf49358660","features":{},"yanked":false,"links":null}
