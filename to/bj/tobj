@@ -18,3 +18,4 @@
 {"name":"tobj","vers":"0.1.8","deps":[],"cksum":"504158281d725d0c99e4c4a4cebbe28619be9fad6bd6d1a3483a62a4de400459","features":{},"yanked":false,"links":null}
 {"name":"tobj","vers":"0.1.9","deps":[],"cksum":"f1e0525336d70e7b3d7ccbc8dec870a147b97fe970bc1914d91d72ea92399d49","features":{},"yanked":false,"links":null}
 {"name":"tobj","vers":"0.1.10","deps":[{"name":"log","req":"^0.4.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3608198b5c2a119a5f05ae5d58a4b0f77ec5687a698efe574d95939605993cd","features":{},"yanked":false,"links":null}
+{"name":"tobj","vers":"0.1.11","deps":[{"name":"log","req":"^0.4.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ed6f4ec3b7c466b7a72471179e55e2b6a7452b53691b6115185132fc2e06b1c","features":{},"yanked":false,"links":null}
