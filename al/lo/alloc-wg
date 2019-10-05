@@ -3,3 +3,4 @@
 {"name":"alloc-wg","vers":"0.1.2","deps":[],"cksum":"51ca2c6d92057639b5924d421813f1e1b80360cd7ff86bde710d500960370a4c","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"alloc-wg","vers":"0.1.3","deps":[],"cksum":"b12f2bd720c4cb775ca5d54bcdf02f3dac2337578d0c57657db9738d889aee2a","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"alloc-wg","vers":"0.1.4","deps":[],"cksum":"b995f65da12ae1346750b4c57ff2bf2ff456bbc24be1d595687781abfaff93e2","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"alloc-wg","vers":"0.1.5","deps":[],"cksum":"17487389ce35fba85b4243f47f1c2a2df3a40e0adeee1bcf42ecf6d29ba2d6b2","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
