@@ -9,3 +9,4 @@
 {"name":"ethabi-contract","vers":"7.0.0","deps":[],"cksum":"b51f33d0b3998b4330d6b5a4b1b02a03d3c96b5de44d563929e232f4a30ba7e2","features":{},"yanked":false,"links":null}
 {"name":"ethabi-contract","vers":"8.0.0","deps":[],"cksum":"272b7fcfada8d9b2631d75693385b505efc826752dbc7ae1815e56b35d5a3f9f","features":{},"yanked":false,"links":null}
 {"name":"ethabi-contract","vers":"8.0.1","deps":[],"cksum":"e0d6314f57a5451692753696f40903bacf870adf65d452911ab6b15bf6be41f8","features":{},"yanked":false,"links":null}
+{"name":"ethabi-contract","vers":"9.0.0","deps":[],"cksum":"cf407dce0290374bfbb1528493bc14320e663f75856b73a5b76262d8e2cec3c9","features":{},"yanked":false,"links":null}
