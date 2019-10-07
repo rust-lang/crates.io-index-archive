@@ -1,0 +1,1 @@
+{"name":"mcl","vers":"0.1.0-alpha","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0f81266c49a32eb4f9bd5e1877012b9addaa79b9a6198740c18df5a7a761baf","features":{},"yanked":false,"links":null}
