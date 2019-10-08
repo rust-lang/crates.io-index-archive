@@ -1,1 +1,2 @@
 {"name":"vmm-sys-util","vers":"0.1.0","deps":[{"name":"libc","req":">= 0.2.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"145c396b1ea2b9dc5b188fab08b09a0f8db73390343347eab0871a4f85957ad1","features":{},"yanked":false,"links":null}
+{"name":"vmm-sys-util","vers":"0.1.1","deps":[{"name":"libc","req":">= 0.2.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46996f56aeae31fbc0532ae57a944e00089302f03b18c10c76eebfd9249f4a6c","features":{},"yanked":false,"links":null}
