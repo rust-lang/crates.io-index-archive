@@ -6,3 +6,4 @@
 {"name":"anyhow","vers":"1.0.4","deps":[],"cksum":"c742ec66f835f0febbc7705a1ec08155e23987b55ff2f3ca1043c7b44dc06e02","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"anyhow","vers":"1.0.5","deps":[],"cksum":"dedc6bcdf002071425b21cdc0579f2073a974c1835bc863d870fb5d579224754","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"anyhow","vers":"1.0.6","deps":[],"cksum":"fb0bfa8ff9f025b838b3ee5f1ea43cfc3598c4d65ef4c5980ef56d48fddc1986","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"anyhow","vers":"1.0.7","deps":[],"cksum":"ba037bb1f08960d480be3afc24be40f9d4bdc9041b388e45ec6d39900d6374d4","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
