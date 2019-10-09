@@ -1,0 +1,1 @@
+{"name":"bufsize","vers":"0.4.0","deps":[{"name":"bytes","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc32a16afc808a9f7752cda0a39074f996860b8fd571c34ffa021bef9c1478ef","features":{"i128":["bytes/i128"]},"yanked":false,"links":null}
