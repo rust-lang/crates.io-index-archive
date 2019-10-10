@@ -10,3 +10,4 @@
 {"name":"anyhow","vers":"1.0.8","deps":[],"cksum":"121f3a4dde6bef69e62b5ee2f8e6d3d7f9d0d74cbc976f41e88d9de15804e546","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"anyhow","vers":"1.0.9","deps":[],"cksum":"84d0bf2da3cb0198f79b9c31a546ab261367501bab418c9a2a9d15b579c93879","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"anyhow","vers":"1.0.10","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b8fd9004422531a995f6a5733b5ca59fc8b8dea9e342f08f3f266257014346c4","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"anyhow","vers":"1.0.11","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6537f9d7ffaa7d23fca9c531d8451679ccd097304ce6e41f9a4b266b736fe52f","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
