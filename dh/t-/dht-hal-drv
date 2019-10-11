@@ -1,0 +1,1 @@
+{"name":"dht-hal-drv","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.3","features":["unproven"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9bdb36c18d4b51f90f3bc1b9fe01df9d1d717c2a47e01bafad8f14c72b568a15","features":{},"yanked":false,"links":null}
