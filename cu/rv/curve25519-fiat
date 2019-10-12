@@ -1,0 +1,1 @@
+{"name":"curve25519-fiat","vers":"0.1.0","deps":[{"name":"sha2","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ded2d809536111f70c39e139ef73756f229f798139cede795332fd8405098f5f","features":{},"yanked":false,"links":null}
