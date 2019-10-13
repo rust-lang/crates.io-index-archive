@@ -1,1 +1,2 @@
 {"name":"plr","vers":"0.1.0","deps":[{"name":"approx","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acbf6e399eea0c83807952327d1e8088e1157b014c85f606c03d1cec0d2ee6de","features":{},"yanked":false,"links":null}
+{"name":"plr","vers":"0.1.1","deps":[{"name":"approx","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a3de529196c783dcd58928d098aebc6f70f293244b4e9f40fc7db50918d1995","features":{},"yanked":false,"links":null}
