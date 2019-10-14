@@ -1,0 +1,1 @@
+{"name":"orasis-plugin","vers":"0.1.0","deps":[{"name":"termion","req":"~1.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c99d6d885b776c4e3354a28b33e55ea4c4d1c37dba5fb136243f38f8c4eae0fb","features":{},"yanked":false,"links":null}
