@@ -5,3 +5,4 @@
 {"name":"dhcpd_parser","vers":"0.3.1","deps":[],"cksum":"dca46de6a87d3aac092e9046a2c1c41f23cc17e613264a5489f7c13c2acc3643","features":{},"yanked":false,"links":null}
 {"name":"dhcpd_parser","vers":"0.4.0","deps":[],"cksum":"dda991b1bc7b1ef0872e62edd960cd93f13ac89de0576689876d8e6b35afece0","features":{},"yanked":false,"links":null}
 {"name":"dhcpd_parser","vers":"0.4.1","deps":[],"cksum":"554ba625f0db80b571f7263aa25e063cceaf3ba777eed4230ffb76e5804b4866","features":{},"yanked":false,"links":null}
+{"name":"dhcpd_parser","vers":"0.4.2","deps":[],"cksum":"e24565df2c5bd51d42889374bc76d52443d16808ac50dc42d4db88745761024d","features":{},"yanked":false,"links":null}
