@@ -1,0 +1,1 @@
+{"name":"smart-path","vers":"0.3.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"596b03aff923e2a1fb94e72073c9f7b4a58b75dc5f4744689d7c9bd688e565a1","features":{"default":[],"unstable":[]},"yanked":false,"links":null}
