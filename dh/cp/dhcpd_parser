@@ -6,3 +6,4 @@
 {"name":"dhcpd_parser","vers":"0.4.0","deps":[],"cksum":"dda991b1bc7b1ef0872e62edd960cd93f13ac89de0576689876d8e6b35afece0","features":{},"yanked":false,"links":null}
 {"name":"dhcpd_parser","vers":"0.4.1","deps":[],"cksum":"554ba625f0db80b571f7263aa25e063cceaf3ba777eed4230ffb76e5804b4866","features":{},"yanked":false,"links":null}
 {"name":"dhcpd_parser","vers":"0.4.2","deps":[],"cksum":"e24565df2c5bd51d42889374bc76d52443d16808ac50dc42d4db88745761024d","features":{},"yanked":false,"links":null}
+{"name":"dhcpd_parser","vers":"0.4.3","deps":[],"cksum":"53b741f53d695de26f8b424e6f3c1b6bdb4ebebf3b6cff5ccf3b531502eeb192","features":{},"yanked":false,"links":null}
