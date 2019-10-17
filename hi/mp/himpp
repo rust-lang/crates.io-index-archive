@@ -1,0 +1,2 @@
+{"name":"himpp","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.49.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"539d09eaaac5976b1cf7a014db66e8548d6d69fde04f60f98fe57d5ccecd0b94","features":{},"yanked":true,"links":null}
+{"name":"himpp","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.49.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"181691b38204efd053b8b5311aeb6a105cd67a9fe97d320e5e7f36e0fe5f0d14","features":{},"yanked":false,"links":null}

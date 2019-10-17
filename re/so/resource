@@ -1,0 +1,2 @@
+{"name":"resource","vers":"0.2.0","deps":[],"cksum":"93169a7d38391b2a12edda21b8ec042945e2eddaaebd4fe3687a39b2eb06c67e","features":{"force-static":[],"default":[],"force-dynamic":[]},"yanked":false,"links":null}
+{"name":"resource","vers":"0.2.1","deps":[],"cksum":"c93643547cb9d8a0f47c7c398ca64400fcf31d71b49ea298af3d41eaefad4bb2","features":{"force-dynamic":[],"force-static":[],"default":[]},"yanked":false,"links":null}

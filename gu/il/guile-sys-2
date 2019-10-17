@@ -1,0 +1,1 @@
+{"name":"guile-sys-2","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.42.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c375b681f43561ed1d9c490658372e96ace4b33a0522c60b2674f33b535231c2","features":{},"yanked":false,"links":null}

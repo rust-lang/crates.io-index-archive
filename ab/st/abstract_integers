@@ -1,0 +1,2 @@
+{"name":"abstract_integers","vers":"0.1.0","deps":[{"name":"num","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e11b62e25776e670617d9b8e60f4320190c71e5de7bbc00100400fdd540b340","features":{},"yanked":false,"links":null}
+{"name":"abstract_integers","vers":"0.1.1","deps":[{"name":"num","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be306d984ccb2f61e998884e5f9ef8d02ca54ee49c61931719c6938240a9c3dd","features":{},"yanked":false,"links":null}

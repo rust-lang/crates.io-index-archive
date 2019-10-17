@@ -1,0 +1,4 @@
+{"name":"numid","vers":"0.1.0","deps":[],"cksum":"a5dfaa76d09ec7d687c8ab27b7003e50ae1f85b3562c3ff0061c8d223c990fa1","features":{},"yanked":false,"links":null}
+{"name":"numid","vers":"0.1.1","deps":[],"cksum":"14d4fbed66280549b943b270d30e5b5f9950e50ca2c96563a70f47a7febf4eac","features":{"default":[],"example":[]},"yanked":false,"links":null}
+{"name":"numid","vers":"0.1.2","deps":[],"cksum":"ad58e7627e913a5fb7d404bedfa9a8f371464717002a28c676e338b10319ee66","features":{"example":[],"default":["std"],"std":[]},"yanked":true,"links":null}
+{"name":"numid","vers":"0.2.0","deps":[],"cksum":"55ee8975376fee45bf2b267bf432a8264039c6bf9cb280d48e1fe2ef30966bee","features":{"example":[],"default":[]},"yanked":false,"links":null}

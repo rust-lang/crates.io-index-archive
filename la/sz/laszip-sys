@@ -1,0 +1,1 @@
+{"name":"laszip-sys","vers":"0.1.0","deps":[{"name":"tempfile","req":"^2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"bindgen","req":"^0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c393f7741779957d0461f5cea98ffb43c0ac0a421c4ad425489e5362eb61a489","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"doubled","vers":"0.1.0","deps":[{"name":"packed_simd","req":"^0.3.2","features":["into_bits"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"481dbfb91501e97076061897b9a1a54d5904a9bdb3cf34d7036c7105c28eccaf","features":{"default":[]},"yanked":false,"links":null}

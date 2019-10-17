@@ -1,0 +1,2 @@
+{"name":"gibbon","vers":"0.1.0","deps":[],"cksum":"d0d96028d886f930fa2d0df75c364a1fddcbabe0098969d22ef312b4eceb527f","features":{},"yanked":false}
+{"name":"gibbon","vers":"0.1.1","deps":[{"name":"csv","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"019e7c9bf402d51df80a4637966808a1e0de8584791f1057abd5922fdcffd5b8","features":{},"yanked":false}

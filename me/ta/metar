@@ -1,0 +1,4 @@
+{"name":"metar","vers":"0.1.0","deps":[],"cksum":"5c6c20741766f2505274cf56f1cb3575b49e05909924bf5df7238983f6c43ebb","features":{},"yanked":false,"links":null}
+{"name":"metar","vers":"0.1.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"071bb0e24854478120b4a372bdb43923beffa2b254b5e49dff316fb7b4c011f3","features":{},"yanked":false,"links":null}
+{"name":"metar","vers":"0.1.2","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"660874841190a32e7f61f0f0839ea10d319789b4dc5ab62171a867c6fb90cc4d","features":{},"yanked":false,"links":null}
+{"name":"metar","vers":"0.1.3","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0c9aec255b6a304f65177fb1661d250d5b2a389852e3c7174ac4bf9eac72a5b","features":{},"yanked":false,"links":null}

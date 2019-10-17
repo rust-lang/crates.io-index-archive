@@ -1,0 +1,2 @@
+{"name":"libslirp-sys","vers":"4.0.0","deps":[{"name":"pkg-config","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f2f1ec1681f03ca03ad2e4784a48e3c8e2f81a8e1048448e6d5a7f829d5ef710","features":{},"yanked":false,"links":"slirp"}
+{"name":"libslirp-sys","vers":"4.0.1","deps":[{"name":"pkg-config","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1f557486b293d0a0706adef990752ef1e9db93178eb6e47d30947cfca57b2481","features":{},"yanked":false,"links":"slirp"}

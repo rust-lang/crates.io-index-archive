@@ -1,0 +1,2 @@
+{"name":"c-ffi","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7813f397a7119e8625a14108a317d0170207c86082d019935030d3c82eea022a","features":{"default":["libc"]},"yanked":false,"links":null}
+{"name":"c-ffi","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6f71a9ac88061a50698dee9bb6b9c387bd7f6279acc378cb8685b598c7919d92","features":{"default":["libc"]},"yanked":false,"links":null}

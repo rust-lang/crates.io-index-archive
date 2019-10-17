@@ -1,0 +1,2 @@
+{"name":"milter-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.62","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8eb9c5e0fc44c82a9cf6933102371592573e429ee19d67a8af84b67e3d7f44f4","features":{},"yanked":false,"links":"milter"}
+{"name":"milter-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.62","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3aaa1a3637f48471f46c07fd201570e36734a560ff52a098eac081fe0a3e5bf","features":{},"yanked":false,"links":"milter"}

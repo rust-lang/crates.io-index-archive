@@ -1,0 +1,2 @@
+{"name":"teleinfo-parser","vers":"0.1.0","deps":[],"cksum":"8b50494a9fbc649a1a38d134b045b9d5e768cd5fb8bc9b6f80448b00e8e6248b","features":{},"yanked":false}
+{"name":"teleinfo-parser","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77fe32dbd3d9b0b551808932fc410a8edf748dffbcb3663a349601f303bc1a99","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"udev","vers":"0.1.0","deps":[],"cksum":"d51e67c7672679a798dfe6e1f6b413b543b3566edcadf54dd251a80cf4a32b04","features":{},"yanked":false}
+{"name":"udev","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libudev-sys","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47504d1a49b2ea1b133e7ddd1d9f0a83cf03feb9b440c2c470d06db4589cf301","features":{},"yanked":false}

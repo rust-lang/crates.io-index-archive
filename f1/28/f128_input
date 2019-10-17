@@ -1,0 +1,2 @@
+{"name":"f128_input","vers":"0.1.0","deps":[{"name":"f128_internal","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55a4ec82150ca9086a86f0f4ce1657e1baadf2dad9e6ab1885e153ac52dbb50d","features":{},"yanked":false,"links":null}
+{"name":"f128_input","vers":"0.2.0","deps":[{"name":"f128_internal","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd82ed7d5ed555983dd37bade3cab86489c9e0fe4b1ce4afb3ae771efad43781","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"atomig","vers":"0.1.0","deps":[{"name":"atomig-macro","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"803b362be61e51c9515580161fa6fe75abac0e4987590050fa20c1840f171e3e","features":{"derive":["atomig-macro"],"nightly":[]},"yanked":false,"links":null}

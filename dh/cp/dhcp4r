@@ -1,0 +1,1 @@
+{"name":"dhcp4r","vers":"0.1.0","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8a7346fd95529c7250e49e0a4c91825a3c3b084f08a73742c3c40fde25303a4","features":{},"yanked":false}

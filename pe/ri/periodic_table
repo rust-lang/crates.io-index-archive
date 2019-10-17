@@ -1,0 +1,2 @@
+{"name":"periodic_table","vers":"0.1.0","deps":[{"name":"csv","req":"^0.15.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"089c839525108e633784fe57df4a0bb444502a1151fb5a38596c10ed19d2eb73","features":{},"yanked":false,"links":null}
+{"name":"periodic_table","vers":"0.1.1","deps":[{"name":"csv","req":"^0.15.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9aa0f9086e3d6e0b3f7ee7f7c2cd645690d731db98494d29985ebdc4364012dc","features":{},"yanked":false,"links":null}

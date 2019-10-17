@@ -1,0 +1,2 @@
+{"name":"uds_seq","vers":"0.1.0","deps":[{"name":"nix","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09de8615fc2d2c65a9383d27723758e20206dd4ef594bd382b3a94e7d81c6945","features":{},"yanked":false,"links":null}
+{"name":"uds_seq","vers":"0.1.2","deps":[{"name":"nix","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6b93a50436fe08dd29e46f4e470af9643aa8d731ae26e96c7d736f9e5019af9","features":{},"yanked":false,"links":null}

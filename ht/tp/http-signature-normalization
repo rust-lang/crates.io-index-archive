@@ -1,0 +1,1 @@
+{"name":"http-signature-normalization","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"008031518b97f0673412a89869a4e1d5f19ea46bae5ec2e4977aabebb5929ef9","features":{},"yanked":false,"links":null}

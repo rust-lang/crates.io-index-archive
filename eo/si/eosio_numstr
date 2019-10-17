@@ -1,0 +1,2 @@
+{"name":"eosio_numstr","vers":"0.2.1","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"79bf20e5b6414bf4fbda894d9a8677e5312e8bc1d53eb4630d129d532d0c1184","features":{},"yanked":false,"links":null}
+{"name":"eosio_numstr","vers":"0.2.2","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9682d8802ac9c533e2310aac214e3904619763b8c27d1a1215c622127c8fce87","features":{},"yanked":false,"links":null}

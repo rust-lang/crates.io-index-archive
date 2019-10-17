@@ -1,0 +1,2 @@
+{"name":"into-result","vers":"0.1.0","deps":[],"cksum":"252eb574c4a1866f2f3553eeb974ff8c172c685eceddfc1d8b676e70d0d94b5f","features":{"std":[],"command":[],"default":["command","std"]},"yanked":false,"links":null}
+{"name":"into-result","vers":"0.1.1","deps":[],"cksum":"7a5a1d7c066f01a1d33c26c0cbdf7e8b8d85062940f4cb41eb9333a058397bb2","features":{"command":[],"std":[],"default":["command","std"]},"yanked":false,"links":null}

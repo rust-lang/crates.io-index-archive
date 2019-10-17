@@ -1,0 +1,1 @@
+{"name":"uniparc_xml_parser","vers":"0.1.0","deps":[{"name":"xml-rs","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07b5a9691742086b870ee1a06b1568ca27df27223e542d2713d555848c15b7c8","features":{},"yanked":true}

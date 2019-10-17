@@ -1,0 +1,1 @@
+{"name":"wasm-gen","vers":"0.1.0","deps":[{"name":"leb128","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"662c7ef5f1b3adf3b3d8ed75f8f6ea555e6f99640a6f9761c8fb9e3157699200","features":{},"yanked":false,"links":null}

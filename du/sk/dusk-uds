@@ -1,0 +1,2 @@
+{"name":"dusk-uds","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b4df09b85aa7fc36fdb0b85c28535b04b24790f9767bda72f9f091f456ae19f3","features":{},"yanked":false,"links":null}
+{"name":"dusk-uds","vers":"0.1.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c52c80435fbaeadd110ff6ea32cf47659e3ab0b4dc225dbaf90e56777887447e","features":{},"yanked":false,"links":null}

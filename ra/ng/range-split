@@ -1,0 +1,1 @@
+{"name":"range-split","vers":"0.1.0-beta.1","deps":[{"name":"bytes","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a812a4c3037c9ca7880bcdea177e707d08d510478cb0b91ef205b6906a3fe835","features":{"default":["bytes"]},"yanked":false,"links":null}

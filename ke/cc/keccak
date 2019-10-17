@@ -1,0 +1,2 @@
+{"name":"keccak","vers":"0.0.0","deps":[],"cksum":"0dc6b240d63a10bbf24e03fbef80fd0a6c667ff4d818231823530b9d636ba5da","features":{},"yanked":false,"links":null}
+{"name":"keccak","vers":"0.1.0","deps":[],"cksum":"67c21572b4949434e4fc1e1978b99c5f77064153c59d998bf13ecd96fb5ecba7","features":{"no_unroll":[]},"yanked":false,"links":null}

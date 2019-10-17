@@ -1,0 +1,2 @@
+{"name":"cvar","vers":"0.1.0","deps":[{"name":"matches","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"537df21dfd12c13c56902add16c1ad7f1e533a343ea68414fa277e1038f520c7","features":{},"yanked":false}
+{"name":"cvar","vers":"0.2.0","deps":[],"cksum":"f1fc36af1b2103a82cddd2772f81960bb71d67559ec0b7310936c2b2d6f3b13e","features":{},"yanked":false,"links":null}

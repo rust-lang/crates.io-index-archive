@@ -1,0 +1,1 @@
+{"name":"os_socketaddr","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a74b7444c9c86b2b105f8f66bcfd91bccb086b4330b652f2eb791d6b1404397","features":{},"yanked":false,"links":null}
