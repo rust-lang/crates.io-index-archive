@@ -1,1 +1,2 @@
 {"name":"pone","vers":"0.1.0","deps":[],"cksum":"5bbcb39763bd43c58615f2e9de8003ec97e01f9d4e8f7165539446b953ff7162","features":{},"yanked":false,"links":null}
+{"name":"pone","vers":"0.1.1","deps":[{"name":"pone","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b60fc67d1727364e15d306c40ad6579511209e003030da5907c139749cb68661","features":{},"yanked":false,"links":null}
