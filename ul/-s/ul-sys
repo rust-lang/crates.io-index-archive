@@ -4,3 +4,4 @@
 {"name":"ul-sys","vers":"0.1.0-rc2","deps":[],"cksum":"b8a177d2e9ce85807d7bcb0f725543f04de99894d5fc1b19fc09050357f13f6b","features":{},"yanked":false,"links":null}
 {"name":"ul-sys","vers":"1.0.0","deps":[],"cksum":"31bc9eaadd519df55224950007d8969bde1fd976028ba4d532059ef192821167","features":{},"yanked":false,"links":null}
 {"name":"ul-sys","vers":"1.0.1","deps":[],"cksum":"536f3d1b765b37899b813a0058ffb0b2c924ca87a0e734ccfa382c984cb50749","features":{},"yanked":false,"links":null}
+{"name":"ul-sys","vers":"1.1.0","deps":[{"name":"bindgen","req":"^0.51.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"53b02873a3258711aaa9f256a0d6de22ee64c26110a042e33fa23671715e9787","features":{},"yanked":false,"links":null}
