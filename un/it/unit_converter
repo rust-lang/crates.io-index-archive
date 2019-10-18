@@ -1,1 +1,2 @@
 {"name":"unit_converter","vers":"0.1.0","deps":[{"name":"read_input","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66558c6fa50d40bdee0c38da179d63ffdc009ed8fdcf7de4da9f95eed37eda42","features":{},"yanked":false,"links":null}
+{"name":"unit_converter","vers":"0.1.1","deps":[{"name":"read_input","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d893b92b732229eb3c77daebb3d143673033e3b39a88a9b6e5624c7daaead93","features":{},"yanked":false,"links":null}
