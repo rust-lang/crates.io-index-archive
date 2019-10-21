@@ -1,0 +1,1 @@
+{"name":"nova-math","vers":"0.4.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2714d16232136230c473bf9f2a373f8e8fb0ec26e484b67790bfa3a0c51f892","features":{},"yanked":false,"links":null}
