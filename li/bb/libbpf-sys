@@ -1,2 +1,2 @@
-{"name":"libbpf-sys","vers":"0.0.0","deps":[],"cksum":"14a4757f2f5d0de6a4cb4ca49642dfb7c8dc66f6ef4de92c6b291c205074aa61","features":{},"yanked":false}
+{"name":"libbpf-sys","vers":"0.0.0","deps":[],"cksum":"14a4757f2f5d0de6a4cb4ca49642dfb7c8dc66f6ef4de92c6b291c205074aa61","features":{},"yanked":true,"links":null}
 {"name":"libbpf-sys","vers":"0.0.6-1","deps":[{"name":"bindgen","req":"^0.51","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"aa8d7f3c2392bda84c45c73855bfc1eed9c46737a2e4b7502df148eff13f20f2","features":{},"yanked":false,"links":"bpf"}
