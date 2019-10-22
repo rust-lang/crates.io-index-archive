@@ -4,3 +4,4 @@
 {"name":"safemem","vers":"0.3.0","deps":[],"cksum":"8dca453248a96cb0749e36ccdfe2b0b4e54a61bfef89fb97ec621eb8e0a93dd9","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"safemem","vers":"0.3.1","deps":[],"cksum":"e133ccc4f4d1cd4f89cc8a7ff618287d56dc7f638b8e38fc32c5fdcadc339dd5","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"safemem","vers":"0.3.2","deps":[],"cksum":"d2b08423011dae9a5ca23f07cf57dac3857f5c885d352b76f6d95f4aea9434d0","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"safemem","vers":"0.3.3","deps":[],"cksum":"ef703b7cb59335eae2eb93ceb664c0eb7ea6bf567079d843e09420219668e072","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
