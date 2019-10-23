@@ -1,0 +1,1 @@
+{"name":"fork","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.65","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c205e4d2a0835919c9ce67d4bda179f194e4c9b50ce70b751183cd333d4b182","features":{},"yanked":false,"links":null}
