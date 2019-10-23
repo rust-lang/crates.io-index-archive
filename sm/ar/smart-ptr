@@ -1,1 +1,2 @@
 {"name":"smart-ptr","vers":"0.1.0","deps":[],"cksum":"352712604a3fb297b49c187f48b4ff56e5f487edae17d5db46696a42b09aaf19","features":{"alloc":[]},"yanked":false,"links":null}
+{"name":"smart-ptr","vers":"0.2.0","deps":[],"cksum":"a22012d50e60c1866f75cf30a36f58758742a42a21701a581b31a0bdd43a7946","features":{"alloc":[]},"yanked":false,"links":null}
