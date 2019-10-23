@@ -1,0 +1,1 @@
+{"name":"holochain_common","vers":"0.0.33-alpha5","deps":[{"name":"directories","req":"= 1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5a47fafab9a14f5933a4544f23edafd9022a87404dec1764359e390143538fc","features":{},"yanked":false,"links":null}
