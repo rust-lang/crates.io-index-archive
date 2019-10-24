@@ -1,1 +1,2 @@
 {"name":"text-to-json","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52642764c566f454edba6026edb95e9f198da4607582f6ad283040a29be91d70","features":{},"yanked":false,"links":null}
+{"name":"text-to-json","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1.0.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"976f43966a04070fcc78b976e4ae9f79cb25d8149a286b28d2e46238ebb141c3","features":{},"yanked":false,"links":null}
