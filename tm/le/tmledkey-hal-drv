@@ -1,0 +1,1 @@
+{"name":"tmledkey-hal-drv","vers":"0.0.1","deps":[{"name":"embedded-hal","req":"^0.2.3","features":["unproven"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"118acbb53418926efd9375ed042c1a35b7317fb1c429a92f1a984ef7a98e659b","features":{},"yanked":false,"links":null}
