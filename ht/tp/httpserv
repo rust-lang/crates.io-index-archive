@@ -3,3 +3,4 @@
 {"name":"httpserv","vers":"0.5.2","deps":[],"cksum":"d5131f8cf8bc62a3e0f49ea62457aa76ed48e9434bc26793f4673854e5422779","features":{},"yanked":false,"links":null}
 {"name":"httpserv","vers":"0.5.3","deps":[],"cksum":"de9779d150449d59cfde3f012c1087c4462295fceb3ad4c242b2bb6875bd7bcb","features":{},"yanked":false,"links":null}
 {"name":"httpserv","vers":"0.5.4","deps":[],"cksum":"b05440f56ff1297a1fa247d62093458bed8d8e8025960df529673ed6cfd23cd2","features":{},"yanked":false,"links":null}
+{"name":"httpserv","vers":"0.6.0","deps":[],"cksum":"a79b8fb41ba6fec3809ae44efcc94433330a60948fb561d371ed8b09ea82d715","features":{},"yanked":false,"links":null}
