@@ -7,3 +7,4 @@
 {"name":"cargo-wasi-exe-x86_64-unknown-linux-musl","vers":"0.1.8","deps":[],"cksum":"07a064ecf2ff7c013bc3dc4eebd65deffb65f63770a6bffa5f8f2005e5d96081","features":{},"yanked":false,"links":null}
 {"name":"cargo-wasi-exe-x86_64-unknown-linux-musl","vers":"0.1.9","deps":[],"cksum":"ef2cc196b17eff9d239322c5a08486993381cc590de25158b8ea6fd9eee19155","features":{},"yanked":false,"links":null}
 {"name":"cargo-wasi-exe-x86_64-unknown-linux-musl","vers":"0.1.10","deps":[],"cksum":"79242397e1ee00d7006b5a82cd9b6132508098074ee3510d2352014956485607","features":{},"yanked":false,"links":null}
+{"name":"cargo-wasi-exe-x86_64-unknown-linux-musl","vers":"0.1.11","deps":[],"cksum":"ad9556c24c8fec36ea78ea9fab9277823ee060b6e70097eaab990905fd7d4e48","features":{},"yanked":false,"links":null}
