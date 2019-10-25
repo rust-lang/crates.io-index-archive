@@ -1,1 +1,2 @@
 {"name":"definitive","vers":"0.0.0-alpha.0","deps":[],"cksum":"bc3b493d038290d20c45001e6fc196c1d62078d6501fe2adb9f2de5246978959","features":{"simd":[],"default":["simd"]},"yanked":false,"links":null}
+{"name":"definitive","vers":"0.0.0-alpha.1","deps":[],"cksum":"ea601acd247c135a9b2f6e8c0353f7983eb86cb55a000992257ec58f690aff2b","features":{"default":["simd"],"simd":[]},"yanked":false,"links":null}
