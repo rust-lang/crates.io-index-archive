@@ -1,1 +1,2 @@
 {"name":"favy","vers":"0.1.0-beta.0","deps":[{"name":"ikon","req":"^0.1.0-beta.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c449e3466af0c6091dec50f34a4cf4bad80232975920ca9715e9a7c0f533fbe0","features":{},"yanked":false,"links":null}
+{"name":"favy","vers":"0.1.0-beta.1","deps":[{"name":"ikon","req":"^0.1.0-beta.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86a37e967225b738b07da1510058247a133816e9b694e37df51c2483c21fae51","features":{},"yanked":false,"links":null}
