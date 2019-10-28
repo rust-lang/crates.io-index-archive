@@ -8,3 +8,4 @@
 {"name":"sauron_vdom","vers":"0.7.1","deps":[],"cksum":"5dab68fa23ec50a605eeb64a1e4b7ebe5899c7c19a1033d817f5eb3fa84ed4c3","features":{},"yanked":false,"links":null}
 {"name":"sauron_vdom","vers":"0.10.0","deps":[],"cksum":"b47ef7e641ca453b439535cc836cc62e3df2c33f7ea4f753050c58ff4c4266a6","features":{},"yanked":false,"links":null}
 {"name":"sauron_vdom","vers":"0.10.1-alpha.0","deps":[],"cksum":"85a28f8936816eeb217c4c8a4bd279f6458379c6cc13c805266674f0c49d19c7","features":{},"yanked":false,"links":null}
+{"name":"sauron_vdom","vers":"0.10.1","deps":[{"name":"serde","req":"^1.0.102","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"673a5a4639d47b83d049245b3b8e8d7895b06d5176432a0d91fa446c0b6d37d2","features":{"default":["serde"]},"yanked":false,"links":null}
