@@ -1,0 +1,1 @@
+{"name":"unwrap-infallible","vers":"0.1.0","deps":[],"cksum":"4674aa3df5a9176551c86ccc3010393fdb16a6574e2d29eab75e94292f4c45c9","features":{"never_type":[],"default":[],"blanket_impl":["never_type"],"unstable":["never_type","blanket_impl"]},"yanked":false,"links":null}
