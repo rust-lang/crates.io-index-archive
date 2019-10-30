@@ -1,1 +1,2 @@
 {"name":"unwrap-infallible","vers":"0.1.0","deps":[],"cksum":"4674aa3df5a9176551c86ccc3010393fdb16a6574e2d29eab75e94292f4c45c9","features":{"never_type":[],"default":[],"blanket_impl":["never_type"],"unstable":["never_type","blanket_impl"]},"yanked":false,"links":null}
+{"name":"unwrap-infallible","vers":"0.1.1","deps":[],"cksum":"8cd1832b9a22b2ad467ab0d2599489a59da140c9eedd3fcb15248d32e20104aa","features":{"never_type":[],"default":[],"unstable":["never_type","blanket_impl"],"blanket_impl":["never_type"]},"yanked":false,"links":null}
