@@ -1,0 +1,1 @@
+{"name":"kramer","vers":"0.1.0","deps":[{"name":"async-std","req":"^0.99","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf72ed442b8280c60fae5e9bf1cd3e588c21b3b6d956abb10bca93c85ae347ef","features":{"kramer-io":["async-std"]},"yanked":false,"links":null}
