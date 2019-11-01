@@ -1,0 +1,1 @@
+{"name":"rustydav","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.9.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d63a5e6be9fa474369e052b92ac6b4788025fa2f5e3b916e052b51d291f8bf84","features":{},"yanked":false,"links":null}
