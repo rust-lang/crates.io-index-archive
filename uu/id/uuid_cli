@@ -1,0 +1,1 @@
+{"name":"uuid_cli","vers":"0.1.0","deps":[{"name":"uuid","req":"^0.8","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67639efe05fe3f9c4ddd088c99822ccb12e2c37ff6b8d85791549efe9879f8c9","features":{},"yanked":false,"links":null}
