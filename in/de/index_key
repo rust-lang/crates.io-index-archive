@@ -1,1 +1,2 @@
 {"name":"index_key","vers":"0.1.0","deps":[{"name":"failure","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07f9e69d68d4808db6002511e645532b3851aa41f807d794695a67cecaa1cd87","features":{},"yanked":false,"links":null}
+{"name":"index_key","vers":"0.1.1","deps":[{"name":"failure","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5b5074cc4c7bce69e313bf930eb1447e19807d0e023a93e12c0fd0afe386ae5","features":{},"yanked":false,"links":null}
