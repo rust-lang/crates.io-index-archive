@@ -1,3 +1,4 @@
 {"name":"cargx","vers":"0.1.0","deps":[],"cksum":"c7fbbda2ec4831b4c65d2a43dd657d8d0910799f41a05d3b9337378b1d526b1b","features":{},"yanked":false,"links":null}
 {"name":"cargx","vers":"0.1.1","deps":[],"cksum":"cbac749bb5298744316ce69ef5f3525c2422e4dd84ed8748adc1bacf258ae54c","features":{},"yanked":false,"links":null}
 {"name":"cargx","vers":"0.1.2","deps":[],"cksum":"89f46bea3517f25b9644009b69030450db310e12b9105b9bbddbfa1800d6cc83","features":{},"yanked":false,"links":null}
+{"name":"cargx","vers":"0.1.6","deps":[{"name":"yamlette","req":"^0.0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8898c4422d4c17d7b9ecdfc96c9e5888e027d5773a95946aa8aa0c8a3204f53","features":{},"yanked":false,"links":null}
