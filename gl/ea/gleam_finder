@@ -1,0 +1,1 @@
+{"name":"gleam_finder","vers":"0.1.0","deps":[{"name":"minreq","req":"^1.4.1","features":["https"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e37bc852c2947251d8e892e67811831c799e1ffad1f51c1ee4a3117999f7e7e","features":{},"yanked":false,"links":null}
