@@ -8,3 +8,4 @@
 {"name":"numid","vers":"0.2.4","deps":[],"cksum":"5a60b75da516af5410326067b7156cca7a7d96eb1189d5a9c6aca08b5cd270d1","features":{"default":["display"],"display":[],"example":[]},"yanked":true,"links":null}
 {"name":"numid","vers":"0.2.5","deps":[],"cksum":"acf3d35dab828e7ea33258587cb8944b93db1a5e02fc071dd1aeb2525879b50f","features":{"example":[],"display":[],"default":["display"]},"yanked":false,"links":null}
 {"name":"numid","vers":"0.2.6","deps":[],"cksum":"5558ac117316b30174f72764ef1afcfa449f36998e8870dbf82b31e96dba4feb","features":{"display":[],"example":[],"default":["display"]},"yanked":false,"links":null}
+{"name":"numid","vers":"0.2.7","deps":[],"cksum":"b6ebf1922fc7ee23878ce9de6801505757778219aa803562fa1de95476225e0d","features":{"example":[],"display":[],"default":["display"]},"yanked":false,"links":null}
