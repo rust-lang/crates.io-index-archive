@@ -1,0 +1,1 @@
+{"name":"git-mander","vers":"0.1.0","deps":[{"name":"clap","req":"^2.31.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d57ca84aa701a0b2b87168fc3d2d6b49ed0c4ea1d867238147c70ab59d354e66","features":{},"yanked":false,"links":null}
