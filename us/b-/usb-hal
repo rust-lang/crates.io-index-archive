@@ -1,0 +1,1 @@
+{"name":"usb-hal","vers":"0.0.0-zero.0","deps":[{"name":"libusb","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4e280bea70a97bb6072bc85065f0c5faf00a251285531e862347fb0b75218766","features":{},"yanked":false,"links":null}
