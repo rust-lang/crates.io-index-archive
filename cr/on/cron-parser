@@ -1,1 +1,2 @@
 {"name":"cron-parser","vers":"0.1.0","deps":[],"cksum":"08d6ff027a64a5073c59952bc16b8cac750038009fc2a841f99d68331bc06d2c","features":{},"yanked":false,"links":null}
+{"name":"cron-parser","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ef3977a569e4fc80fe024c374714c6d0c357ad388fba955e6b0b237882459a1","features":{},"yanked":false,"links":null}
