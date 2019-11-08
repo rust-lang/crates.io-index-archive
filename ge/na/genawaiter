@@ -1,2 +1,3 @@
 {"name":"genawaiter","vers":"0.1.0","deps":[],"cksum":"d670d72bf90880bc114e265a1dfee1a828ddded849436fe2a479dc82ae02ce9b","features":{"strict":[],"nightly":[]},"yanked":false,"links":null}
 {"name":"genawaiter","vers":"0.1.1","deps":[],"cksum":"341da420a08806ffeff72b384e692181024cf5358dd1fd46c43f1166aeb7b5b0","features":{"nightly":[],"strict":[]},"yanked":false,"links":null}
+{"name":"genawaiter","vers":"0.2.0","deps":[],"cksum":"90427ecd02b760770822e9688208b8fa820d1eedae2ccf906607bcb0a2fd95ee","features":{"nightly":[],"strict":[]},"yanked":false,"links":null}
