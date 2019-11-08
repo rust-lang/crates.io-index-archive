@@ -5,3 +5,4 @@
 {"name":"metar","vers":"0.1.4","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41058715c7df2283fc63163c2b4c25758d4c7430878667a9befea9a9ac827669","features":{},"yanked":false,"links":null}
 {"name":"metar","vers":"0.1.5","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae53699fa811472aa63c1ac29854b300f914319fe91e6f04174c4ba53dd5bbf4","features":{},"yanked":false,"links":null}
 {"name":"metar","vers":"0.2.0","deps":[],"cksum":"956e23d17e31dcf7204a439dd214d514f8362fe5b012f06367e23d145fef6581","features":{},"yanked":false,"links":null}
+{"name":"metar","vers":"0.2.1","deps":[],"cksum":"48dfed3ad1a028b2282efd42e4f35bbc000a756d5ef5ad0a4d1fc05698bb0f52","features":{},"yanked":false,"links":null}
