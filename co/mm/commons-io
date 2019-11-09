@@ -1,1 +1,2 @@
 {"name":"commons-io","vers":"0.1.0","deps":[{"name":"commons-lang","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3d7b6c48f62b51b1ea2111636a231f5c75b38e4c1cbbd7b309747558e9647fb","features":{},"yanked":false,"links":null}
+{"name":"commons-io","vers":"0.1.1","deps":[{"name":"commons-lang","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2def499927ee841af82cfc15f2174072f5da4bc84d6324c1f1798b811b0f02a9","features":{},"yanked":false,"links":null}
