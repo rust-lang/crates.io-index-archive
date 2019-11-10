@@ -1,0 +1,1 @@
+{"name":"kippschalter","vers":"0.1.0","deps":[{"name":"i3ipc","req":"^0.10.1","features":["i3-4-14"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"506605185c16fab8a3e3f798be11882c943cda44310dbaa3c95324f2fc268da7","features":{},"yanked":false,"links":null}
