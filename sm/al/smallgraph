@@ -1,1 +1,2 @@
 {"name":"smallgraph","vers":"0.0.0","deps":[{"name":"smallvec","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d677c6dab98aa481d17cf983cd76715c1b686407edf8d0dd89bf4efbbcc41d1b","features":{},"yanked":false,"links":null}
+{"name":"smallgraph","vers":"0.0.1","deps":[{"name":"smallvec","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30dabb5d98c59881067f8b1cad3ea0cc3bb1e2abc21d5d6ee7a032ed24fd5120","features":{},"yanked":false,"links":null}
