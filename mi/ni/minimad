@@ -9,3 +9,4 @@
 {"name":"minimad","vers":"0.3.4","deps":[],"cksum":"fd17a44f57a2290f7125cfe1b14af82604d02e39ad7cc30d61d977d71f20c3f2","features":{},"yanked":false,"links":null}
 {"name":"minimad","vers":"0.4.0","deps":[],"cksum":"013028ada0e5205727f244c118f3b30f1ca78e29caf416896ceac52abe30e2da","features":{},"yanked":false,"links":null}
 {"name":"minimad","vers":"0.4.1","deps":[],"cksum":"4da5ff0a9879ad10f42d176deaf82f43e4102d04d9658faf19854d933f236f7c","features":{},"yanked":false,"links":null}
+{"name":"minimad","vers":"0.4.2","deps":[{"name":"lazy_static","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"377bb862b8ae0a31fbd685815839c6450b11ce5f2def7b8444318d607e685325","features":{},"yanked":false,"links":null}
