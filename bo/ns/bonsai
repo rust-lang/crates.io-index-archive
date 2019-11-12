@@ -1,1 +1,2 @@
 {"name":"bonsai","vers":"0.1.0","deps":[],"cksum":"1d7079df1c8f6c26551bd6f70dba08626f7fc1f2fbfa0598e98c150017f3852d","features":{},"yanked":false,"links":null}
+{"name":"bonsai","vers":"0.2.0","deps":[],"cksum":"e9314afa6699b57bd8d24f4dd4af78f92fde3acd7f9c59f3153299ce9dd154d6","features":{"u64":[],"default":["u64"],"u128":[]},"yanked":false,"links":null}
