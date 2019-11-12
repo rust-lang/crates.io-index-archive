@@ -1,2 +1,3 @@
 {"name":"spdcp","vers":"0.1.0","deps":[],"cksum":"076c891077a72edaf5223db7f6e3df0a34bbb37012c679e4eab4a5da79f307fd","features":{},"yanked":false,"links":null}
 {"name":"spdcp","vers":"0.2.0","deps":[],"cksum":"c7be58cc07fe26fc7e82d09514f2feb0195a68175990670d31ab5766e0ee71bd","features":{},"yanked":false,"links":null}
+{"name":"spdcp","vers":"0.3.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2784f366a9a404360fcb93625e7d4474b5e50b7b558206002d744d7fec1918a5","features":{},"yanked":false,"links":null}
