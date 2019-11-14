@@ -1,1 +1,2 @@
 {"name":"curl-p","vers":"0.1.0","deps":[{"name":"sponge-preview","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4854743ea8b7fd4769884bbeb8a843cd8d63fdab20abc84706902acd1cbf3bf1","features":{},"yanked":false,"links":null}
+{"name":"curl-p","vers":"0.2.0","deps":[{"name":"sponge-preview","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a41479f05e5718dbe5d5c4a6ca39a5c3f8da33a7d27a4c84fad3faa25fe64983","features":{},"yanked":false,"links":null}
