@@ -1,0 +1,1 @@
+{"name":"rust-pulsectl","vers":"0.2.0","deps":[{"name":"libpulse-binding","req":"^2.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b16ab34a61c2d7ee0462955ada09c9056d3fb43da179bf22fc5394e9a58faa2a","features":{},"yanked":false,"links":null}
