@@ -1,0 +1,1 @@
+{"name":"chvt","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.65","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61f9dfbba44e9d49df83a6395b5b2db996620cae8ab8a7a65a56ab2cc3a7fddf","features":{},"yanked":false,"links":null}
