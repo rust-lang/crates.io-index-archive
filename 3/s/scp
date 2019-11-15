@@ -12,3 +12,4 @@
 {"name":"scp","vers":"0.4.0","deps":[],"cksum":"6741e937645dc1b8bfe98f930a8fe312e8db217922549df68bf374bd60197d4e","features":{},"yanked":true,"links":null}
 {"name":"scp","vers":"0.5.0","deps":[],"cksum":"c946bade3b5d80d5497e10089bb2cf3727d8fa48302ca3632d5e37b9205f5aa9","features":{},"yanked":true,"links":null}
 {"name":"scp","vers":"0.6.0","deps":[],"cksum":"73c6018de160e569f7d85a635d7041746f84efdea23d190d6e0e20b8880dbb97","features":{},"yanked":true,"links":null}
+{"name":"scp","vers":"0.6.1","deps":[],"cksum":"7ee8b47e91eed11ccbe4eb20e77c7f570bb977c740d1246d7c40c3fb8164c5a5","features":{},"yanked":false,"links":null}
