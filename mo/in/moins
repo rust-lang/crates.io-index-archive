@@ -1,1 +1,2 @@
 {"name":"moins","vers":"0.1.0","deps":[{"name":"termion","req":"^1.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41a63ad314856786aa82ea3da72ceeb3e2d97b2d6f8e93473c9491ad233b134f","features":{},"yanked":false,"links":null}
+{"name":"moins","vers":"0.1.1","deps":[{"name":"termion","req":"^1.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0435b0c68976c4d00e796028a8cc7e58ffa0b4238b1458813edd6b217ce36025","features":{},"yanked":false,"links":null}
