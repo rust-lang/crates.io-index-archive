@@ -1,0 +1,1 @@
+{"name":"xlsxwriter","vers":"0.1.0","deps":[{"name":"libxlsxwriter-sys","req":"^0.8.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a2c379837b497ba0a9ba0186b98c8799d79e35054a8aa08d66c4714c0613721","features":{},"yanked":false,"links":null}
