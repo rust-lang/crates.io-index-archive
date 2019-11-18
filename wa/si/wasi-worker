@@ -5,3 +5,4 @@
 {"name":"wasi-worker","vers":"0.3.4","deps":[],"cksum":"fcfd128b6dd28baa74c49ae0002886a44a43ef24a9bd0710afdd6d169c357d7e","features":{},"yanked":false,"links":null}
 {"name":"wasi-worker","vers":"0.3.5","deps":[],"cksum":"b93f9db21901aef8703e847719db6cb53040f038a5e4b271db473f2a307ed0a0","features":{},"yanked":false,"links":null}
 {"name":"wasi-worker","vers":"0.3.6","deps":[],"cksum":"e3ce98c88e2bfa1da2d44e401c0fc8378ac4c82461d9a4cc2c7be262a888b3ab","features":{},"yanked":false,"links":null}
+{"name":"wasi-worker","vers":"0.4.0","deps":[],"cksum":"da7127b7fa0787a553d008695b74d36c23a433e75841884611a66914a7e074d6","features":{},"yanked":false,"links":null}
