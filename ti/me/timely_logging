@@ -2,3 +2,4 @@
 {"name":"timely_logging","vers":"0.7.1","deps":[],"cksum":"6e54d94f50874be7fa7bcc06cfd9dca203276d1cc83cdb7c8fd6ac477ed018b8","features":{},"yanked":false,"links":null}
 {"name":"timely_logging","vers":"0.9.0","deps":[],"cksum":"62fb76858ce18502576abe0dd132a2d24036e9a6f7ef80bd846a31068c66e04d","features":{},"yanked":false,"links":null}
 {"name":"timely_logging","vers":"0.10.0","deps":[],"cksum":"60772b61645533e11217d7aa94ab77d22ccf481baa6d7ffb2a2c1485acf7f7e2","features":{},"yanked":false,"links":null}
+{"name":"timely_logging","vers":"0.11.0","deps":[],"cksum":"ca27d493120dfe57bfb1b7ee9232eee9bf75556d544d7fc475533ac72082dba8","features":{},"yanked":false,"links":null}
