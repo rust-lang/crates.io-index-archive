@@ -13,3 +13,4 @@
 {"name":"xmlparser","vers":"0.8.1","deps":[],"cksum":"d78a7f29bb57edf63321d545d84f99360df71df36929a090bc067e1bcb65e34d","features":{},"yanked":false,"links":null}
 {"name":"xmlparser","vers":"0.9.0","deps":[],"cksum":"ecec95f00fb0ff019153e64ea520f87d1409769db3e8f4db3ea588638a3e1cee","features":{},"yanked":false,"links":null}
 {"name":"xmlparser","vers":"0.10.0","deps":[],"cksum":"8110496c5bcc0d966b0b2da38d5a791aa139eeb0b80e7840a7463c2b806921eb","features":{},"yanked":false,"links":null}
+{"name":"xmlparser","vers":"0.11.0","deps":[],"cksum":"475eb07a341b5e8a2ca7454ebfeb81c79ff0e25be46dfb16b3c51318586beb6a","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
