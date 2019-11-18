@@ -23,3 +23,4 @@
 {"name":"ocaml","vers":"0.7.0-beta.0","deps":[],"cksum":"a01babdd53a81373a527cb9cedd4b66e8fe0a7c32de1dcf282de9df6f3c606c6","features":{},"yanked":false,"links":null}
 {"name":"ocaml","vers":"0.7.0","deps":[],"cksum":"b35420d9f5a62a47de8a3fad5b2177b8775e6fa5f1dc5c567089e411a8041c08","features":{},"yanked":false,"links":null}
 {"name":"ocaml","vers":"0.8.0","deps":[],"cksum":"b4eb1ccba7e3553c5d0c69602781a839c595c570899eaf7b25947119422c9466","features":{},"yanked":false,"links":null}
+{"name":"ocaml","vers":"0.8.1","deps":[],"cksum":"b497481786e5fa6606783d684f5eb0671721fac38efae1930e8a58f4335b9d2a","features":{},"yanked":false,"links":null}
