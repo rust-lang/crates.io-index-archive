@@ -3,3 +3,4 @@
 {"name":"netaddr2","vers":"0.4.0","deps":[],"cksum":"2e97259dd950d50b40157ed5942ffb8bf06b16339ad9861a839bc57f1c7c97be","features":{},"yanked":false,"links":null}
 {"name":"netaddr2","vers":"0.4.1","deps":[],"cksum":"027a5975518ee46cae237c40fa4e55b5ceb12741d97c9ee56df4faf4ed36ef32","features":{},"yanked":false,"links":null}
 {"name":"netaddr2","vers":"0.5.0","deps":[],"cksum":"2595db3e511b2564a0c1361c2dd90144da944a992179299f95b5f172157f2ea2","features":{},"yanked":false,"links":null}
+{"name":"netaddr2","vers":"0.6.0","deps":[{"name":"serde","req":"~1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_test","req":"~1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f1da3bf8405d35555bf1434b09a77fe0c53c6c87c1094af24a76527ef49f9311","features":{"default":[]},"yanked":false,"links":null}
