@@ -14,3 +14,4 @@
 {"name":"cargo-wasi-exe-x86_64-apple-darwin","vers":"0.1.15","deps":[],"cksum":"36db260d2b7308d40146c77f91dd0e149f76996fa05a95c55372d43543c67090","features":{},"yanked":false,"links":null}
 {"name":"cargo-wasi-exe-x86_64-apple-darwin","vers":"0.1.16","deps":[],"cksum":"4fb9e1ec1f61882fd62a1f573c4110fabfe9218303f7c42ccfe556b33ee881c0","features":{},"yanked":false,"links":null}
 {"name":"cargo-wasi-exe-x86_64-apple-darwin","vers":"0.1.17","deps":[],"cksum":"05f7af26e3e372ff3480154c9dc7ef49137984270dcf53e610efb97e6f1d4e3f","features":{},"yanked":false,"links":null}
+{"name":"cargo-wasi-exe-x86_64-apple-darwin","vers":"0.1.18","deps":[],"cksum":"e7c632cb17713a8969fee371d761c8a2599015ba4368e41b17c0608c55c5daf8","features":{},"yanked":false,"links":null}
