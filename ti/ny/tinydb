@@ -1,1 +1,2 @@
 {"name":"tinydb","vers":"0.0.0","deps":[],"cksum":"5bfd9e99e872387e0a883144148140cfd8c111c59507ea46f14bb39b667f46fc","features":{},"yanked":false,"links":null}
+{"name":"tinydb","vers":"0.0.1","deps":[{"name":"bincode","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3eab4d55a5da556ff4ea6787509bee0f12424f65fe879d297963935238a471fb","features":{},"yanked":false,"links":null}
