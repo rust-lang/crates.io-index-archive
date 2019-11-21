@@ -7,3 +7,4 @@
 {"name":"metrics-core","vers":"0.4.0","deps":[{"name":"futures","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43b6d81e563866506c0a288a801bcd6f57441f69e18ce147729f39359bc4f6dd","features":{},"yanked":false,"links":null}
 {"name":"metrics-core","vers":"0.5.0","deps":[],"cksum":"733615511a57e8b1594d0e9b2e16b6f4540638a9ce05687541c096aa0a58587b","features":{},"yanked":false,"links":null}
 {"name":"metrics-core","vers":"0.5.1","deps":[],"cksum":"ead6e166cdc95b0bb5333202025a0cc76d34f3a2b070e5d513162545988df554","features":{},"yanked":false,"links":null}
+{"name":"metrics-core","vers":"0.5.2","deps":[],"cksum":"7c064b3a1ff41f4bf6c91185c8a0caeccf8a8a27e9d0f92cc54cf3dbec812f48","features":{},"yanked":false,"links":null}
