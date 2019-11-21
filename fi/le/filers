@@ -5,3 +5,4 @@
 {"name":"filers","vers":"0.1.4","deps":[{"name":"kern","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9432817405080382b48a4279a510ff7e8a74275d2682c3e4f3516e116a6c5011","features":{},"yanked":false,"links":null}
 {"name":"filers","vers":"0.1.5","deps":[],"cksum":"37f8a2891fe7e173a11bbf48ee75f37472da5c837637a247288ce1014767d223","features":{},"yanked":false,"links":null}
 {"name":"filers","vers":"0.1.6","deps":[],"cksum":"5bc5c776a8ad55bba384e9ce148ceb2b7b433f44bfee69db6af4ce48491069bc","features":{},"yanked":false,"links":null}
+{"name":"filers","vers":"0.1.7","deps":[{"name":"kern","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25d6467e9877413f1335d2376cad925d2570c0b5751df1c469df13f576e449ff","features":{},"yanked":false,"links":null}
