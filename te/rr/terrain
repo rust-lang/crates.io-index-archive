@@ -6,4 +6,4 @@
 {"name":"terrain","vers":"0.1.4","deps":[],"cksum":"5cc0e15bf414982bb1ec6d4456276c96a74843ccc60a8af5e0d1df9b57cd39ab","features":{},"yanked":true,"links":null}
 {"name":"terrain","vers":"0.1.77","deps":[],"cksum":"84886938feedc54a2e56583897b9bd9fed8fd84b7669858b6ba5426a9ee37e6f","features":{},"yanked":true,"links":null}
 {"name":"terrain","vers":"0.77.0","deps":[],"cksum":"afc2823e59132d0d3b9f6ef93ce16c122858682128482ec062acb33cc6264eeb","features":{},"yanked":true,"links":null}
-{"name":"terrain","vers":"7.7.18","deps":[],"cksum":"d40c531e9508d3e4544d70b11e2874f60407e8c1160814d371f81bf2fc77bb51","features":{},"yanked":false,"links":null}
+{"name":"terrain","vers":"7.7.18","deps":[],"cksum":"d40c531e9508d3e4544d70b11e2874f60407e8c1160814d371f81bf2fc77bb51","features":{},"yanked":true,"links":null}
