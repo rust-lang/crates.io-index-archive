@@ -1,0 +1,1 @@
+{"name":"linfo","vers":"0.1.0","deps":[{"name":"phf","req":"^0.8","features":["macros"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cb6a9fa77eb1ca1b32d4a7913369a00d2a9363b308032a9506eb4d83ffb22ea","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
