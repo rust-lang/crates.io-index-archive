@@ -1,1 +1,2 @@
 {"name":"AT42QT2120","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1bfec7beff306379e67da9dfe638ccbc17ea2fb916332d0e911f375046d8e6b","features":{},"yanked":false,"links":null}
+{"name":"AT42QT2120","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c313e33fdee64995cadf8ebc8067fe379604f37df37883959b8b2642aadc4444","features":{},"yanked":false,"links":null}
