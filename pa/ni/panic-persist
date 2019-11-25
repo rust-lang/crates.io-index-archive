@@ -1,0 +1,1 @@
+{"name":"panic-persist","vers":"0.2.0","deps":[{"name":"cortex-m","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54c69ffa0f6863ab6551190accc0499034cb7b8904fb1c1c06d07e0120211973","features":{"default":[],"utf8":[]},"yanked":false,"links":null}
