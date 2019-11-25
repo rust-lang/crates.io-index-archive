@@ -1,0 +1,1 @@
+{"name":"simple-ssdp-client","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2945b90b71c5122a1ad8f8b0b86c2ad3b95939967eb279ed243f77b72218e11e","features":{},"yanked":false,"links":null}
