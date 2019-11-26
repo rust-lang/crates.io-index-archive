@@ -1,1 +1,2 @@
 {"name":"fluent-pseudo","vers":"0.0.1","deps":[{"name":"regex","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"877958ea0e252099499c1e0403e935e3af9afe83e93944501867c26e2679c40d","features":{},"yanked":false,"links":null}
+{"name":"fluent-pseudo","vers":"0.1.0","deps":[{"name":"regex","req":"^1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"324200e9ab0ddaeab3317f9c4f6ede583ecb903bcae61512cc39d5b51863be27","features":{},"yanked":false,"links":null}
