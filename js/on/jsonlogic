@@ -1,0 +1,1 @@
+{"name":"jsonlogic","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ea9e2720563b9feca88f76c4d8b4f805e35b60c303767d782cf0804dbfaffb5","features":{},"yanked":false,"links":null}
