@@ -5,3 +5,4 @@
 {"name":"parze","vers":"0.4.1","deps":[],"cksum":"458b37e09fcce834ff8e696c4112fdbdfa6bc053bce62961116f3a4e1c17f7b0","features":{},"yanked":false,"links":null}
 {"name":"parze","vers":"0.4.2","deps":[],"cksum":"daeef2842989324425af3dfe71a6a909d2b55e6757d446fa76754f39f0cd9658","features":{},"yanked":false,"links":null}
 {"name":"parze","vers":"0.5.0","deps":[{"name":"pom","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"52d3e57ace93475b9ba61df6d4f7f6bf416a9553c027c25a66140dfdf600dd78","features":{},"yanked":false,"links":null}
+{"name":"parze","vers":"0.5.1","deps":[{"name":"nom","req":"^5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"pom","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f81ba74b1fb827219aa4f62aa556574ed2acc66d5a8504edb495fe49a398a843","features":{},"yanked":false,"links":null}
