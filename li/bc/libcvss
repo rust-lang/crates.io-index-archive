@@ -1,0 +1,1 @@
+{"name":"libcvss","vers":"1.0.0-rc.2","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa2cd8fee950c6448353f0b51af80106492b5c1eaa0a16264b9eefcd4bb9b77e","features":{"fail-on-warnings":[]},"yanked":false,"links":null}
