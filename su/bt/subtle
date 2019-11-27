@@ -19,3 +19,4 @@
 {"name":"subtle","vers":"2.1.1","deps":[],"cksum":"01f40907d9ffc762709e4ff3eb4a6f6b41b650375a3f09ac92b641942b7fb082","features":{"std":[],"i128":[],"default":["std","i128"],"nightly":[]},"yanked":false,"links":null}
 {"name":"subtle","vers":"2.2.0","deps":[],"cksum":"419cba80d0a89b7ca7a8c1c4f0011cdeb6161876f718ebabf3bc9aaecad6074c","features":{"std":[],"nightly":[],"i128":[],"default":["std","i128"]},"yanked":true,"links":null}
 {"name":"subtle","vers":"2.2.1","deps":[],"cksum":"ab3af2eb31c42e8f0ccf43548232556c42737e01a96db6e1777b0be108e79799","features":{"std":[],"default":["std","i128"],"i128":[],"nightly":[]},"yanked":false,"links":null}
+{"name":"subtle","vers":"2.2.2","deps":[],"cksum":"7c65d530b10ccaeac294f349038a597e435b18fb456aadd0840a623f83b9e941","features":{"nightly":[],"std":[],"default":["std","i128"],"i128":[]},"yanked":false,"links":null}
