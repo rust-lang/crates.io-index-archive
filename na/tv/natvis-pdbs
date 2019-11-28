@@ -1,0 +1,1 @@
+{"name":"natvis-pdbs","vers":"0.0.0","deps":[{"name":"cargo_metadata","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b25df16441ca32bdabaf1abe387dc2e7273c87a89474cae3fc7f97806f0c4dc","features":{},"yanked":false,"links":null}
