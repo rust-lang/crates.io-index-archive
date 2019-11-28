@@ -1,0 +1,1 @@
+{"name":"gles30","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(not(windows))","kind":"normal"}],"cksum":"e4b76cce31296048831725bc46b9fe0e22341cac4f55773be90a44c43a8c10f4","features":{"debug_error_checks":[],"debug_trace_messages":[]},"yanked":false,"links":null}
