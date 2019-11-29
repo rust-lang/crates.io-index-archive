@@ -1,1 +1,2 @@
 {"name":"refpool","vers":"0.1.0","deps":[],"cksum":"9573e7c0ec51f20358d1eeff6e94e76a4a9bf8d1401fc2a8087e3189287183e3","features":{},"yanked":false,"links":null}
+{"name":"refpool","vers":"0.2.0","deps":[{"name":"crossbeam-queue","req":"^0.2.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"037612d4fce1e08bd82837b3c3e20fed097f9a975e1047f965409d5e1a62356f","features":{"sync":["crossbeam-queue"]},"yanked":false,"links":null}
