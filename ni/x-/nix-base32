@@ -1,0 +1,1 @@
+{"name":"nix-base32","vers":"0.1.0","deps":[{"name":"hex","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"943c41a5bc7484d99e1d302b2a472c8967f25c3130509251de8850cefcbe7818","features":{},"yanked":false,"links":null}
