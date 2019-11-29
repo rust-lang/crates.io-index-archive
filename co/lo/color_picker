@@ -1,1 +1,2 @@
 {"name":"color_picker","vers":"1.0.0","deps":[{"name":"ansi_term","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95dd3ebc9247c094e3f8a6c9f7df9c5703474428341b326c81612f84396814f5","features":{},"yanked":false,"links":null}
+{"name":"color_picker","vers":"1.0.1","deps":[{"name":"ansi_term","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67c061f29c85614291c81ef2462b4419f529c0aa3c3d71baf0ddd4d7ca1182c5","features":{},"yanked":false,"links":null}
