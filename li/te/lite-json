@@ -1,0 +1,1 @@
+{"name":"lite-json","vers":"0.1.0","deps":[{"name":"paste","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"faa835713bb12ba5204013497da16caf2dd2eee25ca829d0efaa054fb38c4ddd","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
