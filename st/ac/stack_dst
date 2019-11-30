@@ -9,3 +9,4 @@
 {"name":"stack_dst","vers":"0.4.1","deps":[],"cksum":"21ac917597b1b5bd1d2cfee614634b8ef1b7ffa527a5d5247c0f5958f11e1d71","features":{},"yanked":false,"links":null}
 {"name":"stack_dst","vers":"0.4.2","deps":[],"cksum":"781b0663d645b2b0994a9ba7c3e0d1e5d667d821eb9df154fb5f7b5363067f19","features":{},"yanked":false,"links":null}
 {"name":"stack_dst","vers":"0.4.3","deps":[],"cksum":"6a0292f1aa2f38a859de19a97b8d7cdd70513abd6815e9f17156d0e7905164db","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"stack_dst","vers":"0.5.0","deps":[],"cksum":"0c325df98b2220c1733644db697921328456d5b253896ba9e42e161df6b81ca8","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
