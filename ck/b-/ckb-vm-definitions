@@ -3,3 +3,4 @@
 {"name":"ckb-vm-definitions","vers":"0.16.0","deps":[],"cksum":"cdef12b0d1abb7ccc395d90b1e42cbf809dd62f0c229bf47bccb1ea458ea60ab","features":{},"yanked":false,"links":null}
 {"name":"ckb-vm-definitions","vers":"0.17.0","deps":[],"cksum":"55c0c2211e4174e54d5e73a353cd8834c5cd2395dfaeb6b88f05ab435b5a761b","features":{},"yanked":false,"links":null}
 {"name":"ckb-vm-definitions","vers":"0.18.0","deps":[],"cksum":"201ab0ce4cf5644b3f0cacc9d772011f66c132d5e62ab35918413d9a6c29e6a7","features":{},"yanked":false,"links":null}
+{"name":"ckb-vm-definitions","vers":"0.18.1","deps":[],"cksum":"bd01bf493cff1315fd73a3be4a3ec135afe04503b81ebc1b531fcb061b42de6c","features":{},"yanked":false,"links":null}
