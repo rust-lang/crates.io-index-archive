@@ -1,0 +1,1 @@
+{"name":"yubikey-cli","vers":"0.0.0","deps":[{"name":"yubikey-piv","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7af5c7a09722352b2038539f776c65a08698e51bce9d986f83ab45fe35dc4b1","features":{},"yanked":false,"links":null}
