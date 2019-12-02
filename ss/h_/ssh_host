@@ -1,1 +1,2 @@
 {"name":"ssh_host","vers":"0.1.0","deps":[{"name":"whoami","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"yaml-rust","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62b462f887f2b501b53a09cea39822b026bfb27e809f21e39b9b749a70515943","features":{},"yanked":false,"links":null}
+{"name":"ssh_host","vers":"0.1.1","deps":[],"cksum":"b5bcb8a6f0908c23b105ab6891cbe7421187cdfde6372a1aa5a8f90b06a0ebe9","features":{},"yanked":false,"links":null}
