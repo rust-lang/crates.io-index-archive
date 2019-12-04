@@ -1,0 +1,1 @@
+{"name":"halide-build","vers":"0.1.0","deps":[{"name":"clap","req":"^2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c589f240cf8c87f91eea3692cc7bdb617212d012a00ad9c0d35442392502954a","features":{"bin":["clap"],"default":[]},"yanked":false,"links":null}
