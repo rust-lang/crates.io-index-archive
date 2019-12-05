@@ -1,1 +1,2 @@
 {"name":"bolero-honggfuzz","vers":"0.2.0","deps":[],"cksum":"577a8ecb013870bcf8aa18f805ed6f98a0e3ca46f96e025142d0c24a19883e9c","features":{"bin":[]},"yanked":false,"links":null}
+{"name":"bolero-honggfuzz","vers":"0.3.0","deps":[{"name":"bolero-generator","req":"^0.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1c9aa99ed32612e1e9d8444cafb29722d8f1fc56f0f00d0ae331341df16c61f1","features":{"bin":[]},"yanked":false,"links":null}
