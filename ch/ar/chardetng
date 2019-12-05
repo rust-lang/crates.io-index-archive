@@ -1,1 +1,2 @@
 {"name":"chardetng","vers":"0.0.1","deps":[],"cksum":"351cf2dee69ccd61769ee981b76c463f51b9ca98f02d0a13326784a54afd5f23","features":{},"yanked":false,"links":null}
+{"name":"chardetng","vers":"0.1.0","deps":[{"name":"encoding_rs","req":"^0.8.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"memchr","req":"^2.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"265e8bd907de8433b82468baa29a0212ddaae888c286e3262e50bb027aeb189d","features":{},"yanked":false,"links":null}
