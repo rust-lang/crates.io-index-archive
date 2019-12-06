@@ -3,3 +3,4 @@
 {"name":"bytemuck","vers":"0.1.2","deps":[],"cksum":"3b5389e57ef2cb21b174a28fddb1f83d53453342f7655a0a6d382bf6c2460b33","features":{"extern_crate_alloc":[]},"yanked":false,"links":null}
 {"name":"bytemuck","vers":"1.0.0","deps":[],"cksum":"372a58a0010bd183faff83ba294b4a9ff875ccca37b0ca4eb19a7a5457ac9b7c","features":{"extern_crate_alloc":[]},"yanked":false,"links":null}
 {"name":"bytemuck","vers":"1.0.1","deps":[],"cksum":"24f99434c5af25c3002973d0e93d24ca72a09a7c890068d7e4ccdd2ba2d53f9b","features":{"extern_crate_alloc":[]},"yanked":false,"links":null}
+{"name":"bytemuck","vers":"1.1.0","deps":[],"cksum":"fe8d506cf580b813b52e2ff73ea8e96df94c3842ec3ab5278be2cbdd196d91f7","features":{"extern_crate_alloc":[]},"yanked":false,"links":null}
