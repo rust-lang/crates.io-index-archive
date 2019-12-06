@@ -6,3 +6,4 @@
 {"name":"sj","vers":"0.5.0","deps":[],"cksum":"7db89a1615f7f86d8dd94b6b8aa3ac76b4d68a6c3737f408cc7bb434f0a3ca32","features":{"std":[]},"yanked":false,"links":null}
 {"name":"sj","vers":"0.6.0","deps":[],"cksum":"6939d9fa87133f5b0d317c9c693c83a0baf59703e9d42bc7d0b989722f9d4fd3","features":{"std":[]},"yanked":false,"links":null}
 {"name":"sj","vers":"0.7.0","deps":[],"cksum":"ec075ea1a703bf663588af30f80aa51fbf6b42b8e4a7d6143059d2cac66a3fbf","features":{"std":[]},"yanked":false,"links":null}
+{"name":"sj","vers":"0.8.0","deps":[],"cksum":"53852e7cfd96ea1130f7cc2cbec65b71aa497781224e6972b8522ac8b5051e92","features":{"std":[]},"yanked":false,"links":null}
