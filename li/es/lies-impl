@@ -1,0 +1,1 @@
+{"name":"lies-impl","vers":"0.0.0-rc1","deps":[{"name":"proc-macro-hack","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d3b98392f4d518437b743a3db919d05e893e48f37bbaaa7be674dc565dc4231","features":{},"yanked":false,"links":null}
