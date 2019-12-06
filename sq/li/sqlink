@@ -1,0 +1,1 @@
+{"name":"sqlink","vers":"0.1.0","deps":[{"name":"postgres","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7a1725892aa7b44c838d94a7bff2181c8e7296a2b1aaab069ebd23db66785d6","features":{"default":[]},"yanked":false,"links":null}
