@@ -1,1 +1,2 @@
 {"name":"pycall","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e24ddefb479e24dc4959b8536bbc95157532b603d1f5db506915ad1e6953dda2","features":{},"yanked":false,"links":null}
+{"name":"pycall","vers":"0.2.0","deps":[{"name":"tempfile","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"230483d237017b58757c4e6e67529623767eae196f53147229737983ee51e702","features":{},"yanked":false,"links":null}
