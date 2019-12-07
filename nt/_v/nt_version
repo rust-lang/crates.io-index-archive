@@ -1,0 +1,1 @@
+{"name":"nt_version","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3","features":["libloaderapi"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95f35e99f4aecc51d9733975c68d6223a8cbd69c5333a6230e219574e0f0d27d","features":{"fallback":["winapi"],"default":[]},"yanked":false,"links":null}
