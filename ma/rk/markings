@@ -1,3 +1,4 @@
 {"name":"markings","vers":"0.1.0","deps":[{"name":"hashbrown","req":"^0.1.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6224fc24e6fd80d2e57005ecdccfa49509e3598f599733a4c61829013461bd9","features":{},"yanked":false,"links":null}
 {"name":"markings","vers":"0.1.1","deps":[{"name":"hashbrown","req":"^0.1.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03057f597c560c5d50abdc0b08935132f029084f203751d110534d46a502f262","features":{},"yanked":false,"links":null}
 {"name":"markings","vers":"0.1.2","deps":[],"cksum":"510acb3ad54690f3bb7584d09ec55e8ded5bf35df99299c6f23a7b91c1e8f533","features":{},"yanked":false,"links":null}
+{"name":"markings","vers":"0.2.0","deps":[],"cksum":"733733415093e93bdaccf7da69d44bab043a562bb7adf5b486136f8de8ea2546","features":{},"yanked":false,"links":null}
