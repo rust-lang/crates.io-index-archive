@@ -1,0 +1,1 @@
+{"name":"terminal-menu","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.13.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cca9ecfbe95068206aa919b53c80e50afcca757ce7a00f473f8d5dabe870b3d5","features":{},"yanked":false,"links":null}
