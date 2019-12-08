@@ -1,3 +1,4 @@
 {"name":"colonnade","vers":"0.1.0","deps":[],"cksum":"d29aa32e455816a0ed1b6c3b60ed0daba8c073c662d649d115df23e5c96f8d55","features":{},"yanked":false,"links":null}
 {"name":"colonnade","vers":"0.1.1","deps":[],"cksum":"5de0b71695c8a4aa0209da6769ed347c4eb879fe23eefe525bb6c10d547f9556","features":{},"yanked":false,"links":null}
 {"name":"colonnade","vers":"0.2.0","deps":[{"name":"term","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5922b357afa07e7f29de4b35289e8062825c0618a7e4bbafdc3d885b5b444c98","features":{},"yanked":false,"links":null}
+{"name":"colonnade","vers":"1.0.0","deps":[{"name":"term","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6b4794b1bd5e422c5d93f9d4be91920c80a18d6b4d17bf4055e3ede03fc3cac1","features":{},"yanked":false,"links":null}
