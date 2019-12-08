@@ -3,3 +3,4 @@
 {"name":"ev3dev-lang-rust","vers":"0.3.0","deps":[],"cksum":"a352b6888a2f734f06777f841a831a555545b5ac1adb90c28cdf29c92ba9a794","features":{},"yanked":false,"links":null}
 {"name":"ev3dev-lang-rust","vers":"0.4.0","deps":[],"cksum":"ac6e79ff0a64c0f11e3c24804ff05f50c26c1edf55714ebce4f00cecabb35d6c","features":{},"yanked":false,"links":null}
 {"name":"ev3dev-lang-rust","vers":"0.4.1","deps":[],"cksum":"9f8064b7bdde3b6ca777faa09e398f331db1736983da1ee9ca61a47b6190face","features":{},"yanked":false,"links":null}
+{"name":"ev3dev-lang-rust","vers":"0.5.0","deps":[{"name":"ev3dev-lang-rust-derive","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6fe81a6c30ee7a7750a478f08ac7a3d3d3acdffc14d3c08d64a89d0326d4bfb","features":{},"yanked":false,"links":null}
