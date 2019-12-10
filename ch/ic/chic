@@ -1,1 +1,2 @@
 {"name":"chic","vers":"0.0.0","deps":[],"cksum":"4ab4e1a6e1e3bcc0d2e2c2121be7d283e395f7585c2cdd0e7bc4076e8f26d3a4","features":{},"yanked":false,"links":null}
+{"name":"chic","vers":"1.0.0","deps":[{"name":"annotate-snippets","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea4e591d92df617440561cefae48db6e6eea984b37e9b3e8415b2e109148e430","features":{},"yanked":false,"links":null}
