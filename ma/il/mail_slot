@@ -1,0 +1,1 @@
+{"name":"mail_slot","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3.8","features":["everything"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec4c1fe0589d539fd95d655e61f56c79aa0a603d574afd2ddc9661c9ec0ed99a","features":{},"yanked":false,"links":null}
