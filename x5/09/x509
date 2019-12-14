@@ -1,1 +1,2 @@
 {"name":"x509","vers":"0.0.0","deps":[],"cksum":"51110ed9d3ecedb7f0ef1239122814c599defbbb7b54966499836131490688f8","features":{},"yanked":false,"links":null}
+{"name":"x509","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cookie-factory","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea9d91eac9f9a39e79cbe4eb4f899a15aec4886cc069dc665fd086362e9fa908","features":{},"yanked":false,"links":null}
