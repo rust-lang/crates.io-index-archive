@@ -8,4 +8,4 @@
 {"name":"grunt","vers":"0.77.0","deps":[],"cksum":"64d703454aa384bf29dd3abd9a583c1f7a6dba80dfef75f49d80af136fe4212b","features":{},"yanked":true,"links":null}
 {"name":"grunt","vers":"7.7.18","deps":[],"cksum":"019ad8469dd48a8f4087a0ac971449e47ac0ffdb7176b42dd35dc962bdd698e9","features":{},"yanked":true,"links":null}
 {"name":"grunt","vers":"2018.7.7","deps":[],"cksum":"4a9cb4bd880b2fb3872eaee2815460af95ac6c070819e0608e1361378bf9e071","features":{},"yanked":true,"links":null}
-{"name":"grunt","vers":"2019.12.13","deps":[],"cksum":"520c38d2a0ca29076742a9ae624caca6a65750d3b774af8cab4404c35beeb976","features":{},"yanked":false,"links":null}
+{"name":"grunt","vers":"2019.12.13","deps":[],"cksum":"520c38d2a0ca29076742a9ae624caca6a65750d3b774af8cab4404c35beeb976","features":{},"yanked":true,"links":null}
