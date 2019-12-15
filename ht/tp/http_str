@@ -1,1 +1,2 @@
 {"name":"http_str","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b4731b80dd409163d9b61f16750858f33913dd74a63b9310e4e31d4c40d48ab2","features":{},"yanked":false,"links":null}
+{"name":"http_str","vers":"0.1.1","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa4f8cddeaced5277354adfa5b298579daec99afc2439c226c8a0750d3922da6","features":{},"yanked":false,"links":null}
