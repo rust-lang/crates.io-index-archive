@@ -1,0 +1,1 @@
+{"name":"scpi","vers":"0.1.0","deps":[{"name":"scpi_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"083ce9af1aef02f7710ae34e3f029b7c808728e60400d5a7faeae32a5715d122","features":{},"yanked":false,"links":null}
