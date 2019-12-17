@@ -1,0 +1,1 @@
+{"name":"nu-macros","vers":"0.7.0","deps":[{"name":"nu-protocol","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b2f5c6f1cdf8fc2476a638d22fe8c9735071edeb37eb9e9dcc01cb0bd225bea","features":{},"yanked":false,"links":null}
