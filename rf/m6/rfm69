@@ -1,1 +1,2 @@
 {"name":"rfm69","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85a6d1957f6c3ebc8c54892f57a5c68cf8d3a590be3835bfd5686167227ab6eb","features":{},"yanked":true,"links":null}
+{"name":"rfm69","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d91e042fc5ca0505f51334beab3bb80981b0a7bba2dc4892794f3fe9248c3509","features":{},"yanked":false,"links":null}
