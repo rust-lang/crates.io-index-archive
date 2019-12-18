@@ -15,3 +15,4 @@
 {"name":"glue","vers":"0.1.1","deps":[],"cksum":"cbd953f865ba4ee402a5b9b54aaa4a371fee1549b1fb672aead0938fa994a643","features":{},"yanked":true,"links":null}
 {"name":"glue","vers":"0.1.2","deps":[],"cksum":"0e9374f0405fa1975f461618e5e95c8f7114233ee8680bf5a73c9b4a30df4cde","features":{},"yanked":false,"links":null}
 {"name":"glue","vers":"0.2.2","deps":[{"name":"paste","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"847c022848e081adb36f7659cbd8aa1703d340ddab5ecd1fb39ebec0fe97008e","features":{},"yanked":false,"links":null}
+{"name":"glue","vers":"0.3.1","deps":[{"name":"paste","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c85fe5881fa989d2dc5af08d3f0897d2b3e1fc5accc2b0dc9b6e9a4dfd57de3f","features":{},"yanked":false,"links":null}
