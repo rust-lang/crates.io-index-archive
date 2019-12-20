@@ -1,1 +1,2 @@
 {"name":"col_macros","vers":"0.1.0","deps":[],"cksum":"d4b35ff092d39615c69f1d111f625d617b73a4f0a46135a64118ade5adc90d59","features":{},"yanked":false,"links":null}
+{"name":"col_macros","vers":"0.1.1","deps":[{"name":"high_mem_utils","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb0c815f1074f10be49dd4393a14ff8a5751caeed59a534abcc277e2a63f1b59","features":{},"yanked":false,"links":null}
