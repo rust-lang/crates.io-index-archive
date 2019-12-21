@@ -1,1 +1,2 @@
 {"name":"edn-rs","vers":"0.1.0","deps":[],"cksum":"d1e624d628bd89227bf71b1c47145135d6416388f8a04d340400cc2a7c653fff","features":{},"yanked":false,"links":null}
+{"name":"edn-rs","vers":"0.1.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66e7109b4923bdf233242e82589051e7c94ca3614b751868978f86856034d5ad","features":{},"yanked":false,"links":null}
