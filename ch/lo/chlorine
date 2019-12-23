@@ -1,0 +1,1 @@
+{"name":"chlorine","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":"cfg(not(windows))","kind":"normal"}],"cksum":"eb01ad854bb4d4024e2f36881a11479038412301827096fe6d6780a1a8600e5d","features":{},"yanked":false,"links":null}
