@@ -1,0 +1,1 @@
+{"name":"phetch","vers":"0.1.1","deps":[{"name":"termion","req":"^1.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf6689c79fa0d34ea66ce596ff2546b60970eec5f5afad825922f6d942bb4c26","features":{},"yanked":false,"links":null}
