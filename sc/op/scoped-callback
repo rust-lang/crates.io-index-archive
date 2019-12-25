@@ -1,0 +1,1 @@
+{"name":"scoped-callback","vers":"0.1.0","deps":[{"name":"futures-util","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6ed0348ab66d204f74dd9380b19cba2232ba003b305224943f9c16cd1120f63","features":{},"yanked":false,"links":null}
