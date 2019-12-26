@@ -14,3 +14,4 @@
 {"name":"binn-ir","vers":"0.12.0","deps":[],"cksum":"852bde9ed1bc96349eb7c1d0846352467b2f4e7dd9e7bf8676fd01762b32a0e4","features":{},"yanked":false,"links":null}
 {"name":"binn-ir","vers":"0.13.0","deps":[],"cksum":"d8c02f01bfb8a7e4afb0365dfca7ee4b90a15536345fec1f07ff6c53cb9d6c05","features":{},"yanked":false,"links":null}
 {"name":"binn-ir","vers":"0.13.1","deps":[],"cksum":"5809687fb4b725614d9b126391180f0c5b6b043b4a49ff43e86e629aa97c3cd8","features":{},"yanked":false,"links":null}
+{"name":"binn-ir","vers":"0.14.0","deps":[],"cksum":"5bce18e64a3c6b025ecb85179194e15e4f04de15c174bfd684f77956cb90cdb6","features":{"std":[]},"yanked":false,"links":null}
