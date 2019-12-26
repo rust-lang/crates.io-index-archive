@@ -1,1 +1,1 @@
-{"name":"labeledgraph","vers":"0.1.0","deps":[{"name":"slab","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c22176702773c065fe7410f7f575debf28232a800f0c8cdf76847b75d2a76f8b","features":{},"yanked":false,"links":null}
+{"name":"labeledgraph","vers":"0.1.0","deps":[{"name":"slab","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c22176702773c065fe7410f7f575debf28232a800f0c8cdf76847b75d2a76f8b","features":{},"yanked":true,"links":null}
