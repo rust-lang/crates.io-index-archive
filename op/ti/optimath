@@ -1,0 +1,1 @@
+{"name":"optimath","vers":"0.0.0","deps":[{"name":"packed_simd","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b42f0c71bb254f65ab436c2d370fa700451af0accd6f3a8be9d32b13be93b81","features":{},"yanked":false,"links":null}
