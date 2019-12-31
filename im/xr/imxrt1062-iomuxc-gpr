@@ -1,0 +1,1 @@
+{"name":"imxrt1062-iomuxc-gpr","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f33b5c0e870cae69c176c90daa27740824f62d8c7a3abad3e2328a6047de5bb6","features":{},"yanked":false,"links":null}
