@@ -1,0 +1,1 @@
+{"name":"imxrt1062-ccm-analog","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3677d89eff336c3d40dff192343b179640ad4008ef2a2cd9cdfb6f4e24437e0f","features":{},"yanked":false,"links":null}
