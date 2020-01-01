@@ -1,0 +1,1 @@
+{"name":"reindexer-rs","vers":"0.1.0","deps":[{"name":"reindexer-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2db529e262bc768b3ccd019e6612e8c17e04a64acf6761c7179ee5d255a82d3","features":{},"yanked":false,"links":null}
