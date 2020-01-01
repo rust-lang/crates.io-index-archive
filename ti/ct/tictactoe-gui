@@ -1,0 +1,1 @@
+{"name":"tictactoe-gui","vers":"0.1.0","deps":[{"name":"ggez","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c44970f26f67f55b6c6098d3fdfd6d3294679c2b194b587d2043cb3580239bd","features":{},"yanked":false,"links":null}
