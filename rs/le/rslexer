@@ -1,1 +1,1 @@
-{"name":"rslexer","vers":"1.0.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b6156d77fb267ac0dbbdd7de73895c3e7be33c9e7114281558c8ebf9087875c","features":{},"yanked":false,"links":null}
+{"name":"rslexer","vers":"1.0.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b6156d77fb267ac0dbbdd7de73895c3e7be33c9e7114281558c8ebf9087875c","features":{},"yanked":true,"links":null}
