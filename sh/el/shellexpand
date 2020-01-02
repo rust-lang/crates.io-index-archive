@@ -1,3 +1,4 @@
 {"name":"shellexpand","vers":"0.1.0","deps":[],"cksum":"4f4ab5310e5f45aedf6aceacffd28f64da9e12925652f42189363284f1716ad9","features":{},"yanked":false}
 {"name":"shellexpand","vers":"1.0.0","deps":[],"cksum":"de7a5b5a9142fd278a10e0209b021a1b85849352e6951f4f914735c976737564","features":{},"yanked":false}
 {"name":"shellexpand","vers":"1.1.0","deps":[{"name":"dirs","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a23aed0018ea07316c7826ade41e551772031cf652805f93ebc922215a44d4a","features":{},"yanked":false,"links":null}
+{"name":"shellexpand","vers":"1.1.1","deps":[{"name":"dirs","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c7e79eddc7b411f9beeaaf2d421de7e7cb3b1ab9eaf1b79704c0e4130cba6b5","features":{},"yanked":false,"links":null}
