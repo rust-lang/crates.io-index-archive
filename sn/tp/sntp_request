@@ -1,0 +1,1 @@
+{"name":"sntp_request","vers":"1.0.0","deps":[{"name":"chrono","req":"^0.4.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1bd0dab13dd96ee3af85e6212fd470570c45f6a596b85a7c51287ff3836e661a","features":{},"yanked":false,"links":null}
