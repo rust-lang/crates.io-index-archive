@@ -1,1 +1,2 @@
 {"name":"wildmatch","vers":"1.0.0","deps":[{"name":"ntest","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2a1f68cdedcb9258397dcdff5b47d47918ebd5069119fb483ce81106e0d11a7f","features":{},"yanked":false,"links":null}
+{"name":"wildmatch","vers":"1.0.1","deps":[{"name":"ntest","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5ffd76e3618a34f7bf4cb1548d39a4943e0192c2545c46067fff26d3e98b594f","features":{},"yanked":false,"links":null}
