@@ -1,0 +1,1 @@
+{"name":"windows_utils","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3","features":["winuser","shellapi"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bfff18f3fbf3d9eb9e568c894256342afe78714f635c191bcd2f61ca3a2e3559","features":{},"yanked":false,"links":null}
