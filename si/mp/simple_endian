@@ -4,3 +4,4 @@
 {"name":"simple_endian","vers":"0.1.4","deps":[],"cksum":"3a3575ea4c63e4f3019868c97d702c24af3c16c93348d2b269675a1fa9f0a7a9","features":{},"yanked":false,"links":null}
 {"name":"simple_endian","vers":"0.1.5","deps":[],"cksum":"f277a6bfc0083b1e2cd9dd1c25c4b4cbf92add68c4ce468a3f442d7b900159df","features":{},"yanked":false,"links":null}
 {"name":"simple_endian","vers":"0.1.6","deps":[],"cksum":"aa97803ed2cc9023bdb358130272c08f4ce9735633eeba31197a148f23e12f19","features":{},"yanked":false,"links":null}
+{"name":"simple_endian","vers":"0.1.7","deps":[{"name":"memmap","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"25fd389e89e9d4b29fc78893b97dc18b6262260016e7dfa906dded8aef5b829e","features":{},"yanked":false,"links":null}
