@@ -30,3 +30,4 @@
 {"name":"rust-ini","vers":"0.12.2","deps":[],"cksum":"ac66e816614e124a692b6ac1b8437237a518c9155a3aacab83a373982630c715","features":{},"yanked":false,"links":null}
 {"name":"rust-ini","vers":"0.12.3","deps":[],"cksum":"d9dbc60285878f1f1c0c8e0eef214a36bd206e4952e27ff4163cc56cd51b0b28","features":{},"yanked":true,"links":null}
 {"name":"rust-ini","vers":"0.13.0","deps":[],"cksum":"3e52c148ef37f8c375d49d5a73aa70713125b7f19095948a923f80afdeb22ec2","features":{},"yanked":false,"links":null}
+{"name":"rust-ini","vers":"0.14.0","deps":[{"name":"indexmap","req":"^1.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"multimap","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c96a7d6722944454c68ff2ba2a252a4e9b0635c03dd510fdf482a2c8981cbf2","features":{"default":[],"inline_comment":[],"preserve_order":["indexmap"]},"yanked":false,"links":null}
