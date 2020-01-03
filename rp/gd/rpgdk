@@ -1,1 +1,2 @@
 {"name":"rpgdk","vers":"1.0.1","deps":[{"name":"rand","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d87adfbfda7eb0ed5353748cc90996286800e0afb94d0c49f15e3b27e686e393","features":{},"yanked":false,"links":null}
+{"name":"rpgdk","vers":"1.0.2","deps":[{"name":"rand","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"becef19d45fbe65d1a7f893daedcc05c4a104edae271c97cf2e301d76a80aef1","features":{},"yanked":false,"links":null}
