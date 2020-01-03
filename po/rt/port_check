@@ -2,3 +2,4 @@
 {"name":"port_check","vers":"0.1.1","deps":[],"cksum":"4ccc6916e8946fafa1adc22feaff3461ef1a81f4d5a9b19d5a701d887ce699ea","features":{},"yanked":false,"links":null}
 {"name":"port_check","vers":"0.1.2","deps":[],"cksum":"4eea6831323e5f958c4296bb21d76c788eabc209fd5f53964084ecc4bc3a9960","features":{},"yanked":false,"links":null}
 {"name":"port_check","vers":"0.1.3","deps":[],"cksum":"a7b2cdda9a48b80e8d5e125544d2bb7b4a96503de41bd73071bdb6e50b0263db","features":{},"yanked":false,"links":null}
+{"name":"port_check","vers":"0.1.4","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44a73aef855729bfdbef8519a7eb1b89fbf5e584f2259eec349d1d366fb10936","features":{},"yanked":false,"links":null}
