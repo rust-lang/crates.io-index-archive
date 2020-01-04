@@ -1,1 +1,2 @@
 {"name":"cargo-strip","vers":"0.2.0","deps":[{"name":"cargo_metadata","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8881260412c39ad277c519f87487be8990cd708062937d4f5054f6fca44c8655","features":{},"yanked":false,"links":null}
+{"name":"cargo-strip","vers":"0.2.1","deps":[{"name":"cargo_metadata","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da256fad11303256b0d9e39983fec88904416c4737c66242c07cd09cca3ed941","features":{},"yanked":false,"links":null}
