@@ -1,0 +1,1 @@
+{"name":"kvdb-shared-tests","vers":"0.1.0","deps":[{"name":"kvdb","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b85d620ddd602ff546a17f60f9058b874ffa7eeeb39c33d35fe2d2bd021aef0","features":{},"yanked":false,"links":null}
