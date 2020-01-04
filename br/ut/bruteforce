@@ -1,0 +1,1 @@
+{"name":"bruteforce","vers":"0.1.0","deps":[{"name":"no-std-compat","req":"^0.2.0","features":["alloc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c73bf14ac14f992ae6bdbe8abf57fc69e3534d6cf238b6a8756f14cdfc32e20c","features":{"std":["no-std-compat/std"],"default":["std","constants"],"constants":[]},"yanked":false,"links":null}
