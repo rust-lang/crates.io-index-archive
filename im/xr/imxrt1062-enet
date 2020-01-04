@@ -1,0 +1,1 @@
+{"name":"imxrt1062-enet","vers":"0.1.0","deps":[{"name":"vcell","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcf729d46cb934caba36aed886eb85c6f73d47a5bfa88b8ccfc41dbf636ad57d","features":{},"yanked":false,"links":null}
