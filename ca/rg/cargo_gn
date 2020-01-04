@@ -10,3 +10,4 @@
 {"name":"cargo_gn","vers":"0.0.10","deps":[{"name":"which","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed53ba791b881077fad3b62f0adb830fe363cf0c64c5a1075ca5c432a1bfc495","features":{},"yanked":false,"links":null}
 {"name":"cargo_gn","vers":"0.0.12","deps":[],"cksum":"a34c50fb2ca26fb832617113c1123284ff4641be3407f60c4619876024606c5a","features":{},"yanked":false,"links":null}
 {"name":"cargo_gn","vers":"0.0.13","deps":[],"cksum":"0a679c108cad6ee19a25f4dbaf1b4e1fadf303e707fa1e2d060b4c169faeb836","features":{},"yanked":false,"links":null}
+{"name":"cargo_gn","vers":"0.0.14","deps":[],"cksum":"0975a2f4793a949f1096e0ce92a37de6cb80f1e430f404e25c535e80c9066616","features":{},"yanked":false,"links":null}
