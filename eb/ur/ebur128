@@ -1,1 +1,2 @@
 {"name":"ebur128","vers":"0.0.0","deps":[],"cksum":"05619229a69452ee1670909a13c4b2261d8104e3e655c635288ccb8dc9193d70","features":{},"yanked":false,"links":null}
+{"name":"ebur128","vers":"0.1.0","deps":[{"name":"bitflags","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9efbbd3d04aa52b1bc31e5764310a9b73ff11c9ae3e20026a7031c2aafbce9dd","features":{},"yanked":false,"links":null}
