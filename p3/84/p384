@@ -1,2 +1,2 @@
-{"name":"p384","vers":"0.0.0","deps":[],"cksum":"1bd037ad8ea9f6e681e159f0549751750f4080718e83f99ff56931cf14e12123","features":{},"yanked":false,"links":null}
+{"name":"p384","vers":"0.0.0","deps":[],"cksum":"1bd037ad8ea9f6e681e159f0549751750f4080718e83f99ff56931cf14e12123","features":{},"yanked":true,"links":null}
 {"name":"p384","vers":"0.1.0","deps":[{"name":"elliptic-curve","req":"^0.3","features":["weierstrass"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3aee0d9bdeedaea6cdd47f9281a9f8e1037d3037088b70e2af13c64ce65608ec","features":{"std":["elliptic-curve/std"]},"yanked":false,"links":null}
