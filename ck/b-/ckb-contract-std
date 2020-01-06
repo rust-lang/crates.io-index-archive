@@ -1,1 +1,2 @@
 {"name":"ckb-contract-std","vers":"0.1.0-pre","deps":[],"cksum":"cc0ad500d5ad5f2ad019831ed474fc114f3a6836dd5a26447d0960a8d0a09b40","features":{},"yanked":false,"links":null}
+{"name":"ckb-contract-std","vers":"0.1.1-pre","deps":[{"name":"buddy-alloc","req":"^0.1.0-pre.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"378fab833982ff435004a43f9da227e6e8051f89d60493997a17fac617bac934","features":{},"yanked":false,"links":null}
