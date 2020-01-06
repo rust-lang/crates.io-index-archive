@@ -1,0 +1,1 @@
+{"name":"snowflake-rust","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d82d4fd91705d9c8f2b9982cc426d9713e9436d09f6446e07fa35ead274bac9","features":{},"yanked":false,"links":null}
