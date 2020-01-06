@@ -1,1 +1,2 @@
 {"name":"k256","vers":"0.0.0","deps":[],"cksum":"460a3a84dcd35f36b1a2406919726cdb160497e7c8c1669cc169b0dd9d6705f9","features":{},"yanked":false,"links":null}
+{"name":"k256","vers":"0.1.0","deps":[{"name":"elliptic-curve","req":"^0.3","features":["weierstrass"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4407bc616f76afb6bccd8a813b86fe622752b15b43c5e60fec94d21af2393a72","features":{"std":["elliptic-curve/std"]},"yanked":false,"links":null}
