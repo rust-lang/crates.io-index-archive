@@ -1,0 +1,1 @@
+{"name":"embedded-platform","vers":"0.1.0","deps":[{"name":"futures","req":"^0.3.1","features":["async-await"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"747d9e5d2a541647eafcde9998ffc3cdfa60b06388daba43a793f39a9b715123","features":{},"yanked":false,"links":null}
