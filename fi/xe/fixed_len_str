@@ -1,2 +1,3 @@
 {"name":"fixed_len_str","vers":"0.1.0","deps":[],"cksum":"5165f192c34933dcc97fc24934be9c06201685bf8cd2127a0763fb9aa9fa0048","features":{},"yanked":false,"links":null}
 {"name":"fixed_len_str","vers":"0.1.2","deps":[],"cksum":"f7357dab03e28dbbec49e2136f0a919842f8bd1334044cd7eea05e0df900ce5c","features":{},"yanked":false,"links":null}
+{"name":"fixed_len_str","vers":"0.1.3","deps":[{"name":"serde","req":"^1.0.104","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49802d9492269d4745e973e53ce60b91ad16d1ea4a0e30e00eb6ec461852d42b","features":{"serde_support":["serde"]},"yanked":false,"links":null}
