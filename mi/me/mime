@@ -37,3 +37,4 @@
 {"name":"mime","vers":"0.3.13","deps":[{"name":"unicase","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e27ca21f40a310bd06d9031785f4801710d566c184a6e15bad4f1d9b65f9425","features":{},"yanked":false,"links":null}
 {"name":"mime","vers":"0.3.14","deps":[],"cksum":"dd1d63acd1b78403cc0c325605908475dd9b9a3acbf65ed8bcab97e27014afcf","features":{},"yanked":false,"links":null}
 {"name":"mime","vers":"0.3.15","deps":[],"cksum":"61ab7b690f26f7b22cc1e6a5306da408904b75a0c833b9b0f7b3dfab3c8405d1","features":{},"yanked":false,"links":null}
+{"name":"mime","vers":"0.3.16","deps":[],"cksum":"2a60c7ce501c71e03a9c9c0d35b861413ae925bd979cc7a4e30d060069aaac8d","features":{},"yanked":false,"links":null}
