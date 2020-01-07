@@ -1,0 +1,1 @@
+{"name":"glfw-native","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.51.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5bac7692e0eafd2e453cf988eddcadbefb9bdac72f7453d84b53834c8d2941b4","features":{},"yanked":false,"links":null}
