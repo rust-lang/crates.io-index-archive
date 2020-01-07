@@ -1,1 +1,2 @@
 {"name":"nu-macros","vers":"0.7.0","deps":[{"name":"nu-protocol","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b2f5c6f1cdf8fc2476a638d22fe8c9735071edeb37eb9e9dcc01cb0bd225bea","features":{},"yanked":false,"links":null}
+{"name":"nu-macros","vers":"0.8.0","deps":[{"name":"nu-protocol","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4dca43c834102b56b3524d58b02fcfa2516c11ae4c71357edcab38d2d7a2598e","features":{},"yanked":false,"links":null}
