@@ -4,3 +4,4 @@
 {"name":"daab","vers":"0.2.2","deps":[],"cksum":"571116c5362261ae504f3fe20d8e6754a5110dd6c2816fb14f92fbb49c1cb42c","features":{},"yanked":false,"links":null}
 {"name":"daab","vers":"0.2.3","deps":[],"cksum":"57d629e112023e59746f1ec5844e86617ba7a7da0cd29c78baf3f81849fad6e2","features":{},"yanked":false,"links":null}
 {"name":"daab","vers":"0.2.4","deps":[],"cksum":"90caceb30362d80612c3e6ee3640d30c8f2ee3b58f8cbe501044e228dd8d4459","features":{},"yanked":false,"links":null}
+{"name":"daab","vers":"0.3.0","deps":[{"name":"tynm","req":"^0.1.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1749068b6916aede9a6dd1ac47116f7bd8a018dc1a5583c5db526f6b45a38791","features":{"diagnostics":[],"default":[]},"yanked":false,"links":null}
