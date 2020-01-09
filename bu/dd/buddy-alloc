@@ -1,2 +1,3 @@
 {"name":"buddy-alloc","vers":"0.1.0-pre.1","deps":[],"cksum":"f1f620d331010114447ae3ac41294f3c9e45118a45b20d6b9eab32803f4c1fae","features":{},"yanked":false,"links":null}
 {"name":"buddy-alloc","vers":"0.1.0-pre.2","deps":[],"cksum":"df8c39fcceb36ee408537ce8111632212b15cd6a0a0549b64c9d836b3a9cac1d","features":{},"yanked":false,"links":null}
+{"name":"buddy-alloc","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5cae9ba6f8b8b85af512979d24005d64c06916097aeeb8172f53246da4c85fad","features":{},"yanked":false,"links":null}
