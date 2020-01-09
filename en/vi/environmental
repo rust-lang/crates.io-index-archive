@@ -1,3 +1,4 @@
 {"name":"environmental","vers":"1.0.0","deps":[],"cksum":"db746025e3ea695bfa0ae744dbacd5fcfc8db51b9760cf8bd0ab69708bb93c49","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"environmental","vers":"1.0.1","deps":[],"cksum":"5c7464757b80de8930c91c9afe77ddce501826bf9d134a87db2c67d9dc177e2c","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"environmental","vers":"1.0.2","deps":[],"cksum":"34f8467a0284de039e6bd0e25c14519538462ba5beb548bb1f03e645097837a8","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"environmental","vers":"1.1.0","deps":[],"cksum":"c842764d14a89ca7a1357c4d7d2befcacdb8d95207f92b33ef155a2aac0114ac","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
