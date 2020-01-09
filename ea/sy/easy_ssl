@@ -1,0 +1,1 @@
+{"name":"easy_ssl","vers":"0.0.1","deps":[{"name":"openssl","req":"^0.10.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ac9769a39916ed0f418d073dedef0aef50a14e0dac70517aca7156516389d1b","features":{},"yanked":false,"links":null}
