@@ -7,7 +7,7 @@
 {"name":"fox-and-hounds","vers":"0.2.0","deps":[{"name":"fox-and-hounds-model","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d498f775d8169683ee000750d586e555e2dc9627b2efc2c01c375b6a3141cb7","features":{},"yanked":true,"links":null}
 {"name":"fox-and-hounds","vers":"0.2.1","deps":[{"name":"fox-and-hounds-model","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e538abadc26ceebd932859002dda7c84ba7767a079227f3484329cf332510be1","features":{},"yanked":true,"links":null}
 {"name":"fox-and-hounds","vers":"0.2.2","deps":[{"name":"fox-and-hounds-model","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"604650ff7196cb8cc4fd96951c6060b738ec59832ddce506277154f32662314f","features":{},"yanked":true,"links":null}
-{"name":"fox-and-hounds","vers":"0.3.0","deps":[],"cksum":"9bf01ae521569c7e811edb6b319f26637982dd087f3f6b67df0e7773aa0b7961","features":{},"yanked":false,"links":null}
+{"name":"fox-and-hounds","vers":"0.3.0","deps":[],"cksum":"9bf01ae521569c7e811edb6b319f26637982dd087f3f6b67df0e7773aa0b7961","features":{},"yanked":true,"links":null}
 {"name":"fox-and-hounds","vers":"0.3.1","deps":[],"cksum":"67dfecbb262d03d60b9f630218767d77a925c3ef5818c783862db1bb703af355","features":{},"yanked":false,"links":null}
 {"name":"fox-and-hounds","vers":"0.4.0","deps":[],"cksum":"8b1fe295ef56fded69cf6c65e2b41666e7e3112b3a6101fc14e8d6dfe9e88fd4","features":{},"yanked":false,"links":null}
 {"name":"fox-and-hounds","vers":"0.4.1","deps":[],"cksum":"fa7196bdd86d460293ddeb68319897fb74cfbef84cb004ee6e0678cc839f37e2","features":{},"yanked":false,"links":null}
