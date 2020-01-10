@@ -8,3 +8,4 @@
 {"name":"cranelift-codegen-shared","vers":"0.50.0","deps":[],"cksum":"758f9426b2e22bf83fc1a6b231a9d53cd4830751883c7f0e196ebb3c210467b3","features":{},"yanked":false,"links":null}
 {"name":"cranelift-codegen-shared","vers":"0.51.0","deps":[{"name":"packed_struct","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"packed_struct_codegen","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f298c80f5acaa25f46bc8e3ba95524ad2f793f9e2feb4ef146b58df42d2e3c64","features":{},"yanked":false,"links":null}
 {"name":"cranelift-codegen-shared","vers":"0.52.0","deps":[],"cksum":"3992000be4d18df0fe332b7c42c120de896e8ec54cd7b6cfa050910a8c9f6e2f","features":{},"yanked":false,"links":null}
+{"name":"cranelift-codegen-shared","vers":"0.53.0","deps":[],"cksum":"a3467bb48aa1b6a4c0da0fa0b5fea7f78f96bbf4bbf054eeb053b5e2e8794387","features":{},"yanked":false,"links":null}
