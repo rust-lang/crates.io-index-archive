@@ -1,1 +1,2 @@
 {"name":"tinyvec","vers":"0.0.0","deps":[],"cksum":"832cc225db7b02bee01cb3d6dc27d38f05a372cca691311396ddc8475bad4b9b","features":{},"yanked":false,"links":null}
+{"name":"tinyvec","vers":"0.1.0","deps":[],"cksum":"777463dadfe59d9bc2c5b6269323101d18e310cbc58989da64c28c7788e4d31b","features":{"nightly_slice_partition_dedup":[],"default":["extern_crate_alloc"],"extern_crate_alloc":[]},"yanked":false,"links":null}
