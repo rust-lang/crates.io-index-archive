@@ -1,1 +1,2 @@
 {"name":"sapp-linux","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f09a5dae8705021ca9eb572be257e92b3169289992d440fba0c40ef887b878ce","features":{},"yanked":false,"links":null}
+{"name":"sapp-linux","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"620bf126146e58d26b82b0736611f6e0705ccdf114f0394247318dbc7228c13d","features":{},"yanked":false,"links":null}
