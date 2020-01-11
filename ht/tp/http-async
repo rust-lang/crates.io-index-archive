@@ -1,0 +1,1 @@
+{"name":"http-async","vers":"0.1.0","deps":[{"name":"async-std","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb7c7c628e6ec2d9ddb4c9369f722063418432704169c0d6fa78cebd872b3541","features":{},"yanked":false,"links":null}
