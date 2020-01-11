@@ -10,4 +10,4 @@
 {"name":"recur-fn","vers":"1.2.0","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d9ace26ff30de44a414593a6069a67f7fd1c802007e9499dd0329b7210b78368","features":{},"yanked":false,"links":null}
 {"name":"recur-fn","vers":"1.2.1","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"54806723045766f04e1b497cf2d6424c5f6d12591361104b5fec3fa92b00f5ed","features":{},"yanked":false,"links":null}
 {"name":"recur-fn","vers":"2.0.0","deps":[],"cksum":"e329b5b2af4510ea1f931c3e26f962a89318d538a390c1baa853b759a9e086bf","features":{},"yanked":false,"links":null}
-{"name":"recur-fn","vers":"2.1.0","deps":[],"cksum":"656bc506f86c2665ead3e4e8a6ea300c6ff758ea91b2ece8929234e5e11a8b84","features":{},"yanked":false,"links":null}
+{"name":"recur-fn","vers":"2.1.0","deps":[],"cksum":"656bc506f86c2665ead3e4e8a6ea300c6ff758ea91b2ece8929234e5e11a8b84","features":{},"yanked":true,"links":null}
