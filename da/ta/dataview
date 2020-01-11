@@ -1,0 +1,1 @@
+{"name":"dataview","vers":"0.1.0","deps":[{"name":"derive_pod","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1b06053e1c4297255a9a4dc37ae0def77f3a2c1db92d1b3951f14d0abc62291","features":{"nightly":[],"default":["derive_pod"]},"yanked":false,"links":null}
