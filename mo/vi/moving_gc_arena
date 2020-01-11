@@ -1,2 +1,3 @@
 {"name":"moving_gc_arena","vers":"0.1.0","deps":[],"cksum":"de943bdf4f2a400b3cbdd21f5ca28b9e50374ded61c2218e0d4e7bd4a3c91374","features":{},"yanked":false,"links":null}
 {"name":"moving_gc_arena","vers":"0.1.1","deps":[],"cksum":"848eaa475b68a6ddd04d1cd766a126bb568cda49cab843049e5c50ffb17df76e","features":{},"yanked":false,"links":null}
+{"name":"moving_gc_arena","vers":"0.2.0","deps":[],"cksum":"4b9cf19df967786756ed6c626a82b844de9fad7c6d303d5aa258195b0d5b68c4","features":{"debug-arena":[]},"yanked":false,"links":null}
