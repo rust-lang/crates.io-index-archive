@@ -1,0 +1,1 @@
+{"name":"sapp-linux","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f09a5dae8705021ca9eb572be257e92b3169289992d440fba0c40ef887b878ce","features":{},"yanked":false,"links":null}
