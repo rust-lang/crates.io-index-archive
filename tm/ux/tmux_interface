@@ -3,3 +3,4 @@
 {"name":"tmux_interface","vers":"0.0.3","deps":[{"name":"regex","req":"^1.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"781e4dcbf1fac4237ba8ef7e0788104a5b097e3d65328501977966af25bd0568","features":{},"yanked":false,"links":null}
 {"name":"tmux_interface","vers":"0.0.4","deps":[{"name":"regex","req":"^1.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e3f00191657eee17de9381d68b10c813fed5f64d31813ebcfc34c2cd33b530a","features":{},"yanked":false,"links":null}
 {"name":"tmux_interface","vers":"0.0.5","deps":[],"cksum":"a61a3d7044681ea6fc7275c8166dd795aa5bd61a73bc475676a63c07e389309b","features":{},"yanked":false,"links":null}
+{"name":"tmux_interface","vers":"0.0.6","deps":[],"cksum":"da8c7dd072ba7aee9fda883fc0a313ed1f2e65e30815667cbc9c7dafe1d63387","features":{},"yanked":false,"links":null}
