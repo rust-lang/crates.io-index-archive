@@ -18,3 +18,4 @@
 {"name":"alone_ee","vers":"1.6.1","deps":[],"cksum":"9702f69f8d226b1ac5a739cbd1fa553cf71c4a4e8c33a5b7406dfc24138801ac","features":{},"yanked":false,"links":null}
 {"name":"alone_ee","vers":"1.6.2","deps":[],"cksum":"9adc210c3dced834d680ff1282f8f2172d981d7c0249d581333d2481bf054969","features":{},"yanked":false,"links":null}
 {"name":"alone_ee","vers":"1.6.3","deps":[],"cksum":"7a03a34ad92a88acaff434647ff945746fe6b49e04e3988172ff59a81310cf80","features":{},"yanked":false,"links":null}
+{"name":"alone_ee","vers":"1.6.4","deps":[{"name":"criterion","req":"= 0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c7325ec0eeb052993b1d23c0db982a1fde29df2dde44c4c581b6bb7487f80f3c","features":{},"yanked":false,"links":null}
