@@ -2,3 +2,4 @@
 {"name":"tinyvec","vers":"0.1.0","deps":[],"cksum":"777463dadfe59d9bc2c5b6269323101d18e310cbc58989da64c28c7788e4d31b","features":{"nightly_slice_partition_dedup":[],"default":["extern_crate_alloc"],"extern_crate_alloc":[]},"yanked":false,"links":null}
 {"name":"tinyvec","vers":"0.1.1","deps":[],"cksum":"ed72f00009c1b093e9b0c37efa1c5bf7ced7c7b9bc2c74213fd86beea589be50","features":{"nightly_slice_partition_dedup":[],"default":["extern_crate_alloc"],"extern_crate_alloc":[]},"yanked":false,"links":null}
 {"name":"tinyvec","vers":"0.1.2","deps":[],"cksum":"02ff5a38158e1f22a6bb7201f5ae6da662527d9d03b66b87d765a81a8b7ba29b","features":{"nightly_slice_partition_dedup":[],"extern_crate_alloc":[],"default":["extern_crate_alloc"]},"yanked":false,"links":null}
+{"name":"tinyvec","vers":"0.2.0","deps":[],"cksum":"b9089682241673eb9163a093590426980e1741bc9496a5c69e2194567e7c86e8","features":{"nightly_slice_partition_dedup":[],"default":[],"alloc":[]},"yanked":false,"links":null}
