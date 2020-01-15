@@ -1,1 +1,2 @@
 {"name":"tinybmp","vers":"0.1.0","deps":[{"name":"nom","req":"^4.2.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"503e3fde7e36b1aa2345af8a3af0086c9b01d9db07b24f3fb0aab07316b9fa10","features":{},"yanked":false,"links":null}
+{"name":"tinybmp","vers":"0.1.1","deps":[{"name":"nom","req":"^5.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"30d12b7f8b271567d6d072c49dee16b22271aabfc473e2066e3353e5af0f5230","features":{},"yanked":false,"links":null}
