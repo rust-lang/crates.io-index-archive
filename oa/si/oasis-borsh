@@ -1,0 +1,1 @@
+{"name":"oasis-borsh","vers":"0.2.10","deps":[{"name":"oasis-borsh-derive","req":"^0.2.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ff8f4b443a9259be12f31624e4288c2ab29f0066e4cd5549f1ab892956a0db0","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
