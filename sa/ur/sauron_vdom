@@ -12,3 +12,4 @@
 {"name":"sauron_vdom","vers":"0.10.2","deps":[{"name":"serde","req":"^1.0.102","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b3529d8ee4556ddd9f9c189e6d5b6ab10d10fa948eb965029de08e403b70fdf","features":{"default":["serde"]},"yanked":false,"links":null}
 {"name":"sauron_vdom","vers":"0.11.0","deps":[],"cksum":"feea163d45f9336890c401ae8543e6a23c2f17c8698f9a2567b119c76e2d4889","features":{},"yanked":false,"links":null}
 {"name":"sauron_vdom","vers":"0.20.0","deps":[],"cksum":"dfe93084d05ccac8279a19e75be5201cc7a3891a266617d6e2f320a00cc9261c","features":{},"yanked":false,"links":null}
+{"name":"sauron_vdom","vers":"0.21.0","deps":[{"name":"log","req":"^0.4.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce9de12db6e3f973366706550ff4a3a2a3396d5dd4398ec666dd8d3552eb5ebe","features":{},"yanked":false,"links":null}
