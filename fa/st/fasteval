@@ -6,3 +6,4 @@
 {"name":"fasteval","vers":"0.2.0","deps":[],"cksum":"98b9ad15900cc045f950f6b73387f9fccfc5dd22d285c2db533f8a742dc3fdf6","features":{"nightly":[],"unsafe-vars":[],"default":["alpha-keywords"],"alpha-keywords":[]},"yanked":false,"links":null}
 {"name":"fasteval","vers":"0.2.1","deps":[],"cksum":"ba0c02a13085575e0fc534736e20f4d6c22891e92bc38400c4ba50dc3f299f2d","features":{"unsafe-vars":[],"default":["alpha-keywords"],"alpha-keywords":[],"nightly":[]},"yanked":false,"links":null}
 {"name":"fasteval","vers":"0.2.2","deps":[],"cksum":"18dc2e5484527e73a8fceee4075074eca8fba62b60826c1ee36d3dbda1398e69","features":{"default":["alpha-keywords"],"nightly":[],"unsafe-vars":[],"alpha-keywords":[]},"yanked":false,"links":null}
+{"name":"fasteval","vers":"0.2.3","deps":[],"cksum":"24535b528b987dfef9ca2e822b9bb7f158b78b1b64929f5c4a52c3b63bb710be","features":{"default":["alpha-keywords"],"unsafe-vars":[],"alpha-keywords":[],"nightly":[]},"yanked":false,"links":null}
