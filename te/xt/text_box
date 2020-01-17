@@ -1,0 +1,1 @@
+{"name":"text_box","vers":"0.1.5","deps":[{"name":"termion","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e8154fcbed5b5fd4e2a56f3d47ceb6d0405ee2332206216fca666fd175c00a6","features":{},"yanked":false,"links":null}
