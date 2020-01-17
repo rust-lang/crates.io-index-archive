@@ -1,0 +1,1 @@
+{"name":"rusttyc","vers":"0.2.0","deps":[{"name":"ena","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22777b48ced37e9576ea38e7d44f7cf72c994a05a3fb7fbc08530c27f36769e2","features":{},"yanked":false,"links":null}
