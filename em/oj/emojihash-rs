@@ -1,0 +1,1 @@
+{"name":"emojihash-rs","vers":"0.1.0","deps":[{"name":"sha2","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f9b0330b95494ba1ab0e96ccb612be9c95514cedb67eee0a94b073c16208390","features":{},"yanked":false,"links":null}
