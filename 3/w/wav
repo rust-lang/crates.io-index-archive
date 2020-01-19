@@ -1,1 +1,2 @@
 {"name":"wav","vers":"0.1.0","deps":[{"name":"riff","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c70ad81e10c46d63979bf89b9b75cbd8276e62cbcaecb28d2a9d37b6258b472d","features":{},"yanked":false,"links":null}
+{"name":"wav","vers":"0.1.1","deps":[{"name":"riff","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"333dcddcbe01ae1af19d6c77988fdcf4cba48be4f015ff39d4a85ae08620ca45","features":{},"yanked":false,"links":null}
