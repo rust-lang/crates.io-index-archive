@@ -1,0 +1,1 @@
+{"name":"luajit-src","vers":"0.0.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1addd709f1e0cd36cf70a3749048150c193accbc48ecb346709ef27acc12bd1f","features":{},"yanked":false,"links":null}
