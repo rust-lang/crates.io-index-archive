@@ -1,1 +1,2 @@
 {"name":"cargo-newvsc","vers":"1.0.0","deps":[{"name":"rust-embed","req":"^5.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ff74f488d372b7bb9abac11c0238ebe315259caebc3d2c32729e8ad3570a79b","features":{},"yanked":false,"links":null}
+{"name":"cargo-newvsc","vers":"1.0.1","deps":[{"name":"rust-embed","req":"^5.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2f24b7dd8ba384d1899d4f37142ac1ea2683b0898d68b1445f0bf2875c19524","features":{},"yanked":false,"links":null}
