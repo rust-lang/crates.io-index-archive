@@ -1,0 +1,1 @@
+{"name":"cargo-newvsc","vers":"1.0.0","deps":[{"name":"rust-embed","req":"^5.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ff74f488d372b7bb9abac11c0238ebe315259caebc3d2c32729e8ad3570a79b","features":{},"yanked":false,"links":null}
