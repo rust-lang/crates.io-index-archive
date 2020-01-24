@@ -1,0 +1,1 @@
+{"name":"link-cplusplus","vers":"1.0.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4dfb9f65d9966f6ca6522043978030b564f3291af987fbf1dd55b6a064ba1b36","features":{"nothing":[],"libstdcxx":[],"libcxx":[],"default":[]},"yanked":false,"links":null}
