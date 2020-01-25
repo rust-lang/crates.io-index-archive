@@ -1,0 +1,1 @@
+{"name":"os-id","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":"cfg(unix)","kind":"normal"}],"cksum":"4fbaae352d548f1f80c8547f565fcd32d65e0d08c16cddf54ce0d526b5287698","features":{},"yanked":false,"links":null}
