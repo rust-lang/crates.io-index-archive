@@ -1,0 +1,1 @@
+{"name":"mupdf","vers":"0.0.1","deps":[{"name":"mupdf-sys","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b88504dd22f90caa62d5cf30e6b87f050e2e006ca6f8146a43b75fb38dd684a","features":{},"yanked":false,"links":null}
