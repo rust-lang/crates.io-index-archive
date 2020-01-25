@@ -1,1 +1,2 @@
 {"name":"linuxcnc-hal-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.52.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2ab447d25407135bd0c6a2f478cfed6031e231faf18f40d0dd60b25fa66e4358","features":{},"yanked":false,"links":null}
+{"name":"linuxcnc-hal-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.52.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"28d9c37cc12d67986ffcd17356d82c920109a2a0e88f886d8e87d0acc1786c93","features":{},"yanked":false,"links":null}
