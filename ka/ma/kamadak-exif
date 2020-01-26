@@ -9,3 +9,4 @@
 {"name":"kamadak-exif","vers":"0.3.0","deps":[],"cksum":"4238df812a77bbe62aad168146882eefa95ca7607164f939190a9072a08d01d6","features":{},"yanked":false}
 {"name":"kamadak-exif","vers":"0.3.1","deps":[],"cksum":"6c316dd4d5adad2fa96d1db9a5983ff2bb618de926d6f9b20e117901541f97ad","features":{},"yanked":false,"links":null}
 {"name":"kamadak-exif","vers":"0.4.0","deps":[{"name":"mutate_once","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68b3e8df0161570e8ba25cccb28b2cc9546f98277370ed235dee9065a2a91c57","features":{},"yanked":false,"links":null}
+{"name":"kamadak-exif","vers":"0.5.0","deps":[{"name":"mutate_once","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0cf8a813ecf0387be4f2e3b201c133f5bb44c3964a14f208297a51c91a8277ba","features":{},"yanked":false,"links":null}
