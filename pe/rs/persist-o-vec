@@ -1,0 +1,1 @@
+{"name":"persist-o-vec","vers":"0.1.0","deps":[],"cksum":"fa6675b0eba0d3f5f33f3bd9de6d83dd5885fc3d2c039694ddfcf27d741c4ab1","features":{"u16_index":[],"u32_index":[],"default":["u16_index"],"u64_index":[],"u8_index":[]},"yanked":false,"links":null}
