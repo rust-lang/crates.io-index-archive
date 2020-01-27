@@ -1,1 +1,2 @@
 {"name":"rs-humanize","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fce6c0f8244201f39ce329444b6ff26801ed28bdc2d60ea49919c85628b1567","features":{},"yanked":false,"links":null}
+{"name":"rs-humanize","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f2b745e2f4e616d532218ad543bfb6e3ea86f0ece27afac9feb2d40bed75f4b","features":{},"yanked":false,"links":null}
