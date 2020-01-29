@@ -1,1 +1,2 @@
 {"name":"mp4","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5586b5c7a08ea64b3e6347209f02d9978ea377b64d5a6cb9f88712f4689199f","features":{},"yanked":false,"links":null}
+{"name":"mp4","vers":"0.2.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b75440100c6eaa13e346b4d5de80684d4ac5639d44a9f094a4c2a17605a6372","features":{},"yanked":false,"links":null}
