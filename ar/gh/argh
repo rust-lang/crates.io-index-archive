@@ -1,1 +1,2 @@
 {"name":"argh","vers":"0.1.0","deps":[],"cksum":"145e4f84e5bc50dfd8b3e2c4018e6ce7f2515dfce653cf68e0be1582a18da8aa","features":{},"yanked":false,"links":null}
+{"name":"argh","vers":"0.1.1","deps":[{"name":"argh_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"argh_shared","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7f0ef54dbad277ab612faad422ad29cb52b264ecfbff5200b21081399ca64c0","features":{},"yanked":false,"links":null}
