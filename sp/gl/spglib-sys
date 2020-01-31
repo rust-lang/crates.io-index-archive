@@ -1,0 +1,1 @@
+{"name":"spglib-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.52.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8aa1a4955aaef3232e9ca99e2ae8ffabec545ea3c516e396b8b770956ec20d69","features":{},"yanked":false,"links":null}
