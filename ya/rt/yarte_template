@@ -1,0 +1,1 @@
+{"name":"yarte_template","vers":"0.5.4","deps":[{"name":"yarte_helpers","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d13fce03dfc92b1c66bb99fd632f37685482c9423fd4faaf8bff4a03ac369918","features":{"mime":[]},"yanked":false,"links":null}
