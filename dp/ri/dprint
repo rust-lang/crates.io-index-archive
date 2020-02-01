@@ -1,0 +1,1 @@
+{"name":"dprint","vers":"0.1.0-alpha","deps":[{"name":"serde","req":"^1.0.88","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f053df7a781f8ca021d85b09576f69d3719ba7b97248e7f97d5a5c4125ce9e7f","features":{},"yanked":false,"links":null}
