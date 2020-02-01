@@ -6,3 +6,4 @@
 {"name":"dprint-core","vers":"0.6.0","deps":[],"cksum":"5415007772b0b0b447be0f0e748d0c1e55b4eb038ab5a606d12ba9feac7caa30","features":{},"yanked":false,"links":null}
 {"name":"dprint-core","vers":"0.7.0-alpha","deps":[],"cksum":"2605cf7395ff8c16f7d8c8cd746a01cc005e63b645af77cb3d17057fbf2be7bd","features":{},"yanked":false,"links":null}
 {"name":"dprint-core","vers":"0.7.0-alpha.1","deps":[],"cksum":"7f460fbecb15f29013e41c557496f54620a44ac2e0c3554a29c3c7e28e931b70","features":{},"yanked":false,"links":null}
+{"name":"dprint-core","vers":"0.7.0-alpha.2","deps":[{"name":"serde","req":"^1.0.88","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c339eb7937d76ef6d3ecb44c01214e632e0f323f4818fed62d396826940ea73e","features":{},"yanked":false,"links":null}
