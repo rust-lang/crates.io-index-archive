@@ -7,3 +7,4 @@
 {"name":"json-tools","vers":"1.0.1","deps":[],"cksum":"2e95efb9e47aad18dcc29361a14558fabeb7ea0b13f6a3def55580c246c737dd","features":{},"yanked":false}
 {"name":"json-tools","vers":"1.1.0","deps":[],"cksum":"61c1dce7cc9e9414d839927161bfdd922b6c4098c9c3c9948d8999afb7c40fdf","features":{},"yanked":false,"links":null}
 {"name":"json-tools","vers":"1.1.1","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"39d6197650bd2e9355f17db9457c335e60e8a3c0ce6af68b88ba580ed03ddd53","features":{},"yanked":false,"links":null}
+{"name":"json-tools","vers":"1.1.2","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"233ed60f8b0f64b6e630359c9f54efa91859100644a199ed4c5c753d949b45cc","features":{},"yanked":false,"links":null}
