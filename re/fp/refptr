@@ -1,0 +1,1 @@
+{"name":"refptr","vers":"0.1.0","deps":[{"name":"refptr-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e664c9245518df412f566e7cd14961a534d991a825f144c225c8583d830110d","features":{"default":["atomic"],"atomic":[]},"yanked":false,"links":null}
