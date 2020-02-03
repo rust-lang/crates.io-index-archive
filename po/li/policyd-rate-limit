@@ -1,0 +1,1 @@
+{"name":"policyd-rate-limit","vers":"0.0.1","deps":[{"name":"clap","req":"^2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b7a6c97b637dca36ce215222a2a2f66072717676dabc8155dc12740fae1ab73a","features":{},"yanked":false,"links":null}
