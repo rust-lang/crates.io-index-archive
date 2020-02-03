@@ -1,0 +1,1 @@
+{"name":"markedit","vers":"0.1.0","deps":[{"name":"pulldown-cmark","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2cf9abbc36ea63148da883f9680b8a0cac6432679e67c050904ec21763c691b","features":{},"yanked":false,"links":null}
