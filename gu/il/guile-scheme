@@ -1,1 +1,2 @@
 {"name":"guile-scheme","vers":"0.1.0","deps":[{"name":"libguile-src","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc6058786a01d3d6341714c35de693f202d066fe56b232eeb6811e82ec3baf7c","features":{},"yanked":false,"links":null}
+{"name":"guile-scheme","vers":"0.1.1","deps":[{"name":"libguile-src","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c731453d186644fb151dd55286a670387ab93146a356ce7061156add3234d11","features":{},"yanked":false,"links":null}
