@@ -1,0 +1,1 @@
+{"name":"nj-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.52.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cc34be845b2943b97b14704e323189f32e4adf19bbc4dd19105f7aa2a9684276","features":{},"yanked":false,"links":null}
