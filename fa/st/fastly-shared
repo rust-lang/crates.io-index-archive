@@ -1,0 +1,1 @@
+{"name":"fastly-shared","vers":"0.1.0-alpha1","deps":[{"name":"http","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3d8dc849abb8b1b745139aa73ae2d1781bfe72344f0ad945956ecc9e9df4a61","features":{},"yanked":false,"links":null}
