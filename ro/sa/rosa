@@ -9,5 +9,5 @@
 {"name":"rosa","vers":"7.7.18","deps":[],"cksum":"5f787dddeda317d5d56c0d8ae6666d90b4fb24fba059eb5e9a4eef04c92f1371","features":{},"yanked":true,"links":null}
 {"name":"rosa","vers":"2018.7.7","deps":[],"cksum":"1add1f8fa1d03e776fedde1ba979cc1ed72024f3740003a24e287a5bb82a2671","features":{},"yanked":true,"links":null}
 {"name":"rosa","vers":"2019.12.13","deps":[],"cksum":"e0bb5b8623c1e99b0ef67ba69d6057773ba75637eeae4b9985d9c8c6a4329fd7","features":{},"yanked":true,"links":null}
-{"name":"rosa","vers":"9999.999.99","deps":[],"cksum":"81c15bccd2cba486ab753f85a512a5c9404e2924f60b9364630543d10c02442a","features":{},"yanked":false,"links":null}
+{"name":"rosa","vers":"9999.999.99","deps":[],"cksum":"81c15bccd2cba486ab753f85a512a5c9404e2924f60b9364630543d10c02442a","features":{},"yanked":true,"links":null}
 {"name":"rosa","vers":"9.9.9","deps":[],"cksum":"dd0bfceb19f7f51031147459c199cff31d52e710ddf40e729d298506bde6e0bf","features":{},"yanked":true,"links":null}
