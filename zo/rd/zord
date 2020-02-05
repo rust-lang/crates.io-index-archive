@@ -5,5 +5,5 @@
 {"name":"zord","vers":"7.7.18","deps":[],"cksum":"118bec5404ceb4b3019b55091551dd22c1f07f3fe2d5f863541679ffcf02ef60","features":{},"yanked":true,"links":null}
 {"name":"zord","vers":"2018.7.7","deps":[],"cksum":"dacc6d022816535408da9d863c8464996af08174924c663ce5662c17ad46f0e2","features":{},"yanked":true,"links":null}
 {"name":"zord","vers":"2019.12.13","deps":[],"cksum":"fc28f283da3994fa510eeeefb871789bea4f69ea917efa862ac573e04020a396","features":{},"yanked":true,"links":null}
-{"name":"zord","vers":"9999.999.99","deps":[],"cksum":"df4b16a860b74a6d9e2abadc9636d44192270340b6dc117741c34ad250255d02","features":{},"yanked":false,"links":null}
+{"name":"zord","vers":"9999.999.99","deps":[],"cksum":"df4b16a860b74a6d9e2abadc9636d44192270340b6dc117741c34ad250255d02","features":{},"yanked":true,"links":null}
 {"name":"zord","vers":"9.9.9","deps":[],"cksum":"44ac589e8feb720a6cc09c7acc6940e9d6a6cddf5fab42b979a99e070604ce0e","features":{},"yanked":true,"links":null}
