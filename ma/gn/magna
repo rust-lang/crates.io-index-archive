@@ -5,5 +5,5 @@
 {"name":"magna","vers":"7.7.18","deps":[],"cksum":"9bd6c6a1012b755e0eff9b48da12227968821842a64ce12f56b9ff52bc6cf36c","features":{},"yanked":true,"links":null}
 {"name":"magna","vers":"2018.7.7","deps":[],"cksum":"47c695aed260ca00910be77f6ce4698ad84a78097b18c0e8cb7d0e6ce47dea00","features":{},"yanked":true,"links":null}
 {"name":"magna","vers":"2019.12.13","deps":[],"cksum":"632214251ee87905532c2c73ff3598073ef7c81f4e2490a6e634b1ae0e2be880","features":{},"yanked":true,"links":null}
-{"name":"magna","vers":"9999.999.99","deps":[],"cksum":"2c14a3b9ebef573f34f34076cacd345b8e11a0be629d01cf86ce0ea9c9148bcd","features":{},"yanked":false,"links":null}
+{"name":"magna","vers":"9999.999.99","deps":[],"cksum":"2c14a3b9ebef573f34f34076cacd345b8e11a0be629d01cf86ce0ea9c9148bcd","features":{},"yanked":true,"links":null}
 {"name":"magna","vers":"9.9.9","deps":[],"cksum":"c9ba14716af1f0dcb82f9931bc6ca963180c5fe7852472c045bd888b69348de9","features":{},"yanked":true,"links":null}
