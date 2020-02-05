@@ -9,5 +9,5 @@
 {"name":"mine","vers":"7.7.18","deps":[],"cksum":"afe0d204d1ef165187be54a78dfe8f87a2f936a2870fc1ac878466f3565f8e5f","features":{},"yanked":true,"links":null}
 {"name":"mine","vers":"2018.7.7","deps":[],"cksum":"e6defc57aa4eb1cfdd6a8ceacb97a01766f17a4aafb57d1d842719dec5ee42df","features":{},"yanked":true,"links":null}
 {"name":"mine","vers":"2019.12.13","deps":[],"cksum":"a6aa3c994e4598be348255e7c0dc481e2e773cb02732a7713ec1b980dc49dbdf","features":{},"yanked":true,"links":null}
-{"name":"mine","vers":"9999.999.99","deps":[],"cksum":"0d7f2f95b0e4cebff88a176f64927d2e685e7f27ce1985def00ded7ba2afc80c","features":{},"yanked":false,"links":null}
+{"name":"mine","vers":"9999.999.99","deps":[],"cksum":"0d7f2f95b0e4cebff88a176f64927d2e685e7f27ce1985def00ded7ba2afc80c","features":{},"yanked":true,"links":null}
 {"name":"mine","vers":"9.9.9","deps":[],"cksum":"54e01907eb250a6a484168b84d804c635d5ff8072f2c370b42cb2dc4c5082402","features":{},"yanked":true,"links":null}
