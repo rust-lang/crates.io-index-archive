@@ -10,5 +10,5 @@
 {"name":"redro","vers":"7.7.18","deps":[],"cksum":"bd36969df2c6ff96d5ed7bd923378ce763ce7d4adb9298f63d86453c8a9856a2","features":{},"yanked":true,"links":null}
 {"name":"redro","vers":"2018.7.7","deps":[],"cksum":"e1ebed90e5581d20bcfd068d160ab83ed480047f3b1d1ddbd9f1a0d0a5e9dca0","features":{},"yanked":true,"links":null}
 {"name":"redro","vers":"2019.12.13","deps":[],"cksum":"bbe7c74eabaa6c131bea498e7e546026405b3c907f677e3579c5c759d3d311cc","features":{},"yanked":true,"links":null}
-{"name":"redro","vers":"9999.999.99","deps":[],"cksum":"5902c2a7f955987c8b8df2f78f8b30db928cc6fc6be1d531d927c8aafcbe4533","features":{},"yanked":false,"links":null}
+{"name":"redro","vers":"9999.999.99","deps":[],"cksum":"5902c2a7f955987c8b8df2f78f8b30db928cc6fc6be1d531d927c8aafcbe4533","features":{},"yanked":true,"links":null}
 {"name":"redro","vers":"9.9.9","deps":[],"cksum":"1d4facbad4ed4a48bfe2db946e0b9d29fbc5db5e5a25f14d525758b9904a2f78","features":{},"yanked":true,"links":null}
