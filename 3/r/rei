@@ -9,5 +9,5 @@
 {"name":"rei","vers":"7.7.18","deps":[],"cksum":"043a3ba2821e9c1dc4d64a303e66009c5bbd0422f216903851fc3342ae5fc90d","features":{},"yanked":true,"links":null}
 {"name":"rei","vers":"2018.7.7","deps":[],"cksum":"ae6bdba98ab4bef9a2120a588cc379a4b13b0b9e88f3e5164009a6a23650a5c3","features":{},"yanked":true,"links":null}
 {"name":"rei","vers":"2019.12.13","deps":[],"cksum":"d78b41795c84fe1f72d08e9225f01c6ccad2e3ec89530d9ece774d9615600b5b","features":{},"yanked":true,"links":null}
-{"name":"rei","vers":"9999.999.99","deps":[],"cksum":"5acb3e8302c42ffec1653ad88510b0c6cd8faa66cffbfa0c4f2013aa4c00604a","features":{},"yanked":false,"links":null}
+{"name":"rei","vers":"9999.999.99","deps":[],"cksum":"5acb3e8302c42ffec1653ad88510b0c6cd8faa66cffbfa0c4f2013aa4c00604a","features":{},"yanked":true,"links":null}
 {"name":"rei","vers":"9.9.9","deps":[],"cksum":"92860b70fdf467046e848ec3f406b507b9b05756ef7be16b6a6f411cb74ab514","features":{},"yanked":true,"links":null}
