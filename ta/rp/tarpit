@@ -7,5 +7,5 @@
 {"name":"tarpit","vers":"7.7.18","deps":[],"cksum":"470e96194a31a741caa00c52289ee4a5682da16c84e29cad449d974959fa942f","features":{},"yanked":true,"links":null}
 {"name":"tarpit","vers":"2018.7.7","deps":[],"cksum":"1964a459cc38e69680791718c12e2ab95d13e1eaa9b7863958f06174f94ae400","features":{},"yanked":true,"links":null}
 {"name":"tarpit","vers":"2019.12.13","deps":[],"cksum":"1c7f996f90fc2ebd59e98f23eab81c9b20df9f08377cf93b4e2cd114960836df","features":{},"yanked":true,"links":null}
-{"name":"tarpit","vers":"9999.999.99","deps":[],"cksum":"811c5777a317807759410f2e6f50487545c05c7a9a0896aefcd06ce0503b3bc9","features":{},"yanked":false,"links":null}
+{"name":"tarpit","vers":"9999.999.99","deps":[],"cksum":"811c5777a317807759410f2e6f50487545c05c7a9a0896aefcd06ce0503b3bc9","features":{},"yanked":true,"links":null}
 {"name":"tarpit","vers":"9.9.9","deps":[],"cksum":"0fd89c086bddd3d2cca8e95c7f36608f39bc470be02adaa0a4dc835fa97e39fe","features":{},"yanked":true,"links":null}
