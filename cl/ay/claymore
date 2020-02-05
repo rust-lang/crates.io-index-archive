@@ -7,5 +7,5 @@
 {"name":"claymore","vers":"7.7.18","deps":[],"cksum":"8381187e1328dd065f9936e6e6195b07a68a2a6ed94dde854a672d5fde6dd9bb","features":{},"yanked":true,"links":null}
 {"name":"claymore","vers":"2018.7.7","deps":[],"cksum":"f587b51383db7fcf63e5c738e55f291705f8b15cf24a3c0fd3a8b75dfa5360cd","features":{},"yanked":true,"links":null}
 {"name":"claymore","vers":"2019.12.13","deps":[],"cksum":"388705d64d67410a910207108b0a76678d0d5bf59edd6bc91b4c58208f89e249","features":{},"yanked":true,"links":null}
-{"name":"claymore","vers":"9999.999.99","deps":[],"cksum":"6661b70007ccb392041bc7e55328c77acf0b8555b346756e9e80c5ec9985d17a","features":{},"yanked":false,"links":null}
+{"name":"claymore","vers":"9999.999.99","deps":[],"cksum":"6661b70007ccb392041bc7e55328c77acf0b8555b346756e9e80c5ec9985d17a","features":{},"yanked":true,"links":null}
 {"name":"claymore","vers":"9.9.9","deps":[],"cksum":"1a92db67e20e135795365e2f2cd3acf09f0f249b44bd0643f04dbb238eaacd0a","features":{},"yanked":true,"links":null}
