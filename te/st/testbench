@@ -9,3 +9,4 @@
 {"name":"testbench","vers":"0.6.0","deps":[],"cksum":"ee7650fcc99002908c76ed6844972cf2d6ed34049a4e0cddde788addbe03ddde","features":{},"yanked":false,"links":null}
 {"name":"testbench","vers":"0.7.0","deps":[],"cksum":"2baece56440dc56ad7eed5e97dbe3f8bf79d1fae0090004ed5262e39fd82dfff","features":{},"yanked":false,"links":null}
 {"name":"testbench","vers":"0.7.1","deps":[],"cksum":"34a1bdc7b095d4216e7ae47aedf75ddeb31e29da0272f02d1acd63b43c94105c","features":{},"yanked":false,"links":null}
+{"name":"testbench","vers":"0.7.2","deps":[],"cksum":"1a8c65a85d7d9702630123191a79e532329dd90d62ef861bc03268f60085fdd2","features":{},"yanked":false,"links":null}
