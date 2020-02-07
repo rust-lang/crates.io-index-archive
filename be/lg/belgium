@@ -1,0 +1,1 @@
+{"name":"belgium","vers":"0.1.0","deps":[{"name":"getopts","req":"^0.2.19","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60f6bca735a4f55f803e7a191469a175ed97e71892d966754a5d63b4b8587f3a","features":{"default":["getopts"]},"yanked":false,"links":null}
