@@ -1,0 +1,1 @@
+{"name":"apriltag-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6f5e40bf8f8c0bf6ffb7a4ad0b296a0a848ef92949c570da67b483b6d580ae70","features":{},"yanked":false,"links":null}
