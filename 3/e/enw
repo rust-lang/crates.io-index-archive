@@ -1,1 +1,2 @@
 {"name":"enw","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64a030afe051f9dd81dfaecab7ba8a0535fbf74a06d94a61e540e079047ddf87","features":{},"yanked":false,"links":null}
+{"name":"enw","vers":"0.1.1","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"739114d730b929c277b3a5f66d595c1af6837768dcfe91046e55d880e6624cb9","features":{},"yanked":false,"links":null}
