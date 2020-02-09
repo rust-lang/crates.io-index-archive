@@ -1,1 +1,2 @@
 {"name":"jl-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d76bec0c57abbf7aeda72443ee2e9d3cbea84f7a0a0287e9a1d803e48828751f","features":{},"yanked":false,"links":null}
+{"name":"jl-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fbec4d475d7d329ad318aaacf208931f7248673dbc9fbc41ce868de1bb1f6b1b","features":{},"yanked":false,"links":null}
