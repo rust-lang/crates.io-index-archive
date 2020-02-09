@@ -3,3 +3,4 @@
 {"name":"wdg-uri","vers":"0.1.2","deps":[],"cksum":"d6e53d4f905861a19a2a0e0787c28f848f87167d000977edff8a38ae10c30d90","features":{},"yanked":false,"links":null}
 {"name":"wdg-uri","vers":"0.1.3","deps":[],"cksum":"ccf2390812912042f7e6084376810a57676fd5fd90f5cd869bccb422a7667648","features":{},"yanked":false,"links":null}
 {"name":"wdg-uri","vers":"0.1.4","deps":[],"cksum":"09272841c3cc835cc38a39105d8d4339994c4a682971609425fc74cb456398e5","features":{},"yanked":false,"links":null}
+{"name":"wdg-uri","vers":"0.1.5","deps":[{"name":"regex","req":"^1.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3f3dd155c2983f96f80a5e3ebd3adb5b1a9cab7183f29a22456a701df16239b","features":{},"yanked":false,"links":null}
