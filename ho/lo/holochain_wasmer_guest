@@ -1,0 +1,1 @@
+{"name":"holochain_wasmer_guest","vers":"0.0.9","deps":[{"name":"holochain_wasmer_common","req":"= 0.0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"725823a09970b423445f2b559b9dc174589be3bd8d332b326b6cbd1d77895a20","features":{},"yanked":false,"links":null}
