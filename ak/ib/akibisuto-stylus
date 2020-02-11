@@ -1,0 +1,1 @@
+{"name":"akibisuto-stylus","vers":"0.1.0","deps":[{"name":"warp","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0165783fb6b896b79bd4d9b1325fced4ceb1ce41caf1c985a2ae642d6e26019e","features":{"default":["warp"]},"yanked":false,"links":null}
