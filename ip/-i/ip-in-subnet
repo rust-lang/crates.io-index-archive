@@ -1,0 +1,1 @@
+{"name":"ip-in-subnet","vers":"0.1.0","deps":[{"name":"netaddr2","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9abd4e535ebf06cfa06eabdcac7d2383aa362782cdd60444108f1ce25e54865b","features":{},"yanked":false,"links":null}
