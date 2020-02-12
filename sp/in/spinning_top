@@ -1,0 +1,1 @@
+{"name":"spinning_top","vers":"0.1.0","deps":[{"name":"lock_api","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32d801a3a53bcf5071f85fef8d5cab9e5f638fc5580a37e6eb7aba4b37438d24","features":{"nightly":["lock_api/nightly"]},"yanked":false,"links":null}
