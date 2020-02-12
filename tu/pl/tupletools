@@ -1,1 +1,2 @@
 {"name":"tupletools","vers":"0.1.0","deps":[],"cksum":"b79a31ec3fa0dc3077fa4fe5d3dff17400347f0c4599206f9b1892b0bbea0d9d","features":{"default":["use_std"],"use_std":[]},"yanked":false,"links":null}
+{"name":"tupletools","vers":"0.1.1","deps":[],"cksum":"50967083a4aca700396cdfece4bbd21ecb8df202832bc18aaa00ac59d32ac6c3","features":{"use_std":[],"default":["use_std"]},"yanked":false,"links":null}
