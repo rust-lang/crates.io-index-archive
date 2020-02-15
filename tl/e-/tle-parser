@@ -1,1 +1,2 @@
 {"name":"tle-parser","vers":"0.1.0","deps":[{"name":"nom","req":"^5.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3c0f8ce7c9e3e3148745d87c014e75026d2347226f72e93cd12288001ad4861","features":{},"yanked":false,"links":null}
+{"name":"tle-parser","vers":"0.1.1","deps":[{"name":"nom","req":"^5.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cad063466dfef0488b4e32b748d4eee0b6471083efb89897fddf0486cec457ea","features":{},"yanked":false,"links":null}
