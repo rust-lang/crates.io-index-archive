@@ -1,0 +1,1 @@
+{"name":"os-sync","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":"cfg(unix)","kind":"normal"}],"cksum":"a1ceefb50e19ccbf4fe5731cf15e45a9978a87e205c83a95a973388351a845fd","features":{},"yanked":false,"links":null}
