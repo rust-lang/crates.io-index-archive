@@ -1,0 +1,1 @@
+{"name":"websocknotify","vers":"0.0.1","deps":[{"name":"tungstenite","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1187e0cec3bbcc5c4e620af3c04cf6833d046a011625637331bcc54b957a0879","features":{},"yanked":false,"links":null}
