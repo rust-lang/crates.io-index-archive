@@ -17,3 +17,4 @@
 {"name":"sql-builder","vers":"0.3.0","deps":[],"cksum":"197d36bf4ec2c9fbf8fa5b3aebad0bad01a7cabf6de4a7e4cf167f6caf40be2c","features":{},"yanked":false,"links":null}
 {"name":"sql-builder","vers":"0.4.0","deps":[],"cksum":"df13e08e9c3fe32fb7c71a5fa582224d3cac04d15011fd1f7b414d30ddb4b0b8","features":{},"yanked":false,"links":null}
 {"name":"sql-builder","vers":"0.5.0","deps":[],"cksum":"0f85215cc9efda5f0a66db7e344d6eb2c823777d001be8b0d0ea641bea29ba1b","features":{},"yanked":false,"links":null}
+{"name":"sql-builder","vers":"0.5.1","deps":[],"cksum":"eaeed583b70f33b67c4ebcb20cbc39c12fd714f74794a01844ddfb3af3aaf174","features":{},"yanked":false,"links":null}
