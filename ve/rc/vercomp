@@ -1,1 +1,2 @@
 {"name":"vercomp","vers":"0.2.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4c03eef243e8fe21d1c030a05405d65f8b787e56697962f56d4b5dc3d3fbb3d","features":{},"yanked":false,"links":null}
+{"name":"vercomp","vers":"0.3.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e262fe8fd2f558e3bb3878ff9bd4362e842c8c010c08aa8b9a6e0c40b6b0e49b","features":{},"yanked":false,"links":null}
