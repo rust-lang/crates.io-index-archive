@@ -1,0 +1,1 @@
+{"name":"prgrs","vers":"0.2.0","deps":[{"name":"terminal","req":"^0.2","features":["crossterm-backend"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8cd196945cee3a1d81f34741a2113d7c5fe8821fd34cd4bbc6a44b23db18bbc7","features":{},"yanked":false,"links":null}
