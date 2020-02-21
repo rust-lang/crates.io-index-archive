@@ -23,3 +23,4 @@
 {"name":"horrorshow","vers":"0.6.6","deps":[],"cksum":"597674f6c0cc85b1ad05a5383aad6809d4f85e935cdd96961faaa69d8896b624","features":{"default":["ops"],"ops":[]},"yanked":false,"links":null}
 {"name":"horrorshow","vers":"0.7.0","deps":[],"cksum":"73b84f6f364b9c35c9941a5199de16a0e8725da352eb4d4b1eb0d7179bee697a","features":{"default":["ops"],"ops":[]},"yanked":false,"links":null}
 {"name":"horrorshow","vers":"0.8.0","deps":[],"cksum":"bdd85d1e0fbd87a9622f50f403b3e6d866a1806e65db36201e9da1b6de649e1e","features":{"alloc":[],"default":["ops","std","alloc"],"std":["alloc"],"ops":[]},"yanked":false,"links":null}
+{"name":"horrorshow","vers":"0.8.1","deps":[],"cksum":"5193e1f03dbec996948ec08831d3a0df72225fc7fab5efc90ebd9bdd9b70504d","features":{"default":["ops","std","alloc"],"alloc":[],"std":["alloc"],"ops":[]},"yanked":false,"links":null}
