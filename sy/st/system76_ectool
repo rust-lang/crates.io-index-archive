@@ -1,0 +1,1 @@
+{"name":"system76_ectool","vers":"0.1.0","deps":[{"name":"redox_hwio","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"426bc386f99090e1b7fbccfafad815e3eaff6293121735be0dcd1fcb724f70d4","features":{},"yanked":false,"links":null}
