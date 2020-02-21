@@ -6,3 +6,4 @@
 {"name":"duckscript","vers":"0.1.6","deps":[],"cksum":"b5394d82936cc15539317618b25d532c7fc36415eb8c1ca4c3fd263c104e6145","features":{},"yanked":false,"links":null}
 {"name":"duckscript","vers":"0.1.7","deps":[],"cksum":"8ce2dedb6f752438ee1eaf67cb8f8b1008945ba59cba042325681bd97d683520","features":{},"yanked":false,"links":null}
 {"name":"duckscript","vers":"0.2.0","deps":[],"cksum":"747bb4e541a0830b4581bffc001045d3dc259683546fbf35a35f47af831634b5","features":{},"yanked":false,"links":null}
+{"name":"duckscript","vers":"0.2.1","deps":[{"name":"fsio","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0f699115ffc264c2d6ed8eed098b48d7d08122ba8d59d44f93170c5d33972c7","features":{},"yanked":false,"links":null}
