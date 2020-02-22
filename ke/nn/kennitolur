@@ -1,0 +1,1 @@
+{"name":"kennitolur","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cddfb687aa8c6019cbbb6a4b02a5ec9c95313082ea1e690991c81dd1f490bde","features":{"default":["chrono"]},"yanked":false,"links":null}
