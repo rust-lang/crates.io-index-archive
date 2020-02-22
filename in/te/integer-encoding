@@ -12,3 +12,4 @@
 {"name":"integer-encoding","vers":"1.0.5","deps":[],"cksum":"26746cbc2e680af687e88d717f20ff90079bd10fc984ad57d277cd0e37309fa5","features":{},"yanked":false}
 {"name":"integer-encoding","vers":"1.0.6","deps":[],"cksum":"e44b7ba8e77dd1bf717d969ab53faf1cade4b5492b7e45bcbed7fb596fbd5a35","features":{},"yanked":false,"links":null}
 {"name":"integer-encoding","vers":"1.0.7","deps":[],"cksum":"1aec89c15e2cfa0f0eae8ca60e03cb10b30d25ea2c0ad7d6be60a95e32729994","features":{},"yanked":false,"links":null}
+{"name":"integer-encoding","vers":"1.0.8","deps":[{"name":"async-trait","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca80fdd4829ab7569b7a72db4784b2f819d42f124e189c47dba0f72861c3888a","features":{},"yanked":false,"links":null}
