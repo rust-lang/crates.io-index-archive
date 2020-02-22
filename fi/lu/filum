@@ -1,1 +1,2 @@
 {"name":"filum","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.66","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16df02884f10feec7a66092ab7223d0b1260699f108c399c35c516ba73a37068","features":{"verbose":[]},"yanked":false,"links":null}
+{"name":"filum","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.66","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"872e8da2f9c1629e5ec9a4c58b73726463cfab9cf6a2be2dbc291505dc549cf7","features":{"verbose":[]},"yanked":false,"links":null}
