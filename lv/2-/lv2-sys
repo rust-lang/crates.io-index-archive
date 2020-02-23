@@ -1,0 +1,1 @@
+{"name":"lv2-sys","vers":"1.0.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8923bbdce3c00b8940efa2bdc70727c3ff93241c5e790e7873f3e9d165c7a907","features":{},"yanked":false,"links":null}
