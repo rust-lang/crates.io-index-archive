@@ -1,2 +1,3 @@
 {"name":"vulkan_raw","vers":"0.1.1","deps":[],"cksum":"022537af12a019f9e275761abdf4dd7990086a7bfb0c8227ba45cd2f88137e6e","features":{},"yanked":false,"links":null}
 {"name":"vulkan_raw","vers":"0.1.2","deps":[],"cksum":"935cffbe51df6014311de351b70f77b36c2ffeaedc417c6d7261c123c9488d68","features":{"docs":[]},"yanked":false,"links":null}
+{"name":"vulkan_raw","vers":"0.1.3","deps":[{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libloading","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14f720def7e1e3b8e257afbed974a3472b3426b2ec13e7b7b7c0b589330e5777","features":{"docs":[]},"yanked":false,"links":null}
