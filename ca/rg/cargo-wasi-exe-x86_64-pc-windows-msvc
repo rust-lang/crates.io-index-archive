@@ -17,3 +17,4 @@
 {"name":"cargo-wasi-exe-x86_64-pc-windows-msvc","vers":"0.1.18","deps":[],"cksum":"bf61d2598208408ee616131a8fd4d345b5ce82faf5b5227b69ee72a9fc1cf511","features":{},"yanked":false,"links":null}
 {"name":"cargo-wasi-exe-x86_64-pc-windows-msvc","vers":"0.1.19","deps":[],"cksum":"7a9ccdc1067805f3067cb751e6b116f1f9731aee655764f336465b8cc7a93a59","features":{},"yanked":false,"links":null}
 {"name":"cargo-wasi-exe-x86_64-pc-windows-msvc","vers":"0.1.20","deps":[],"cksum":"2100a837afe8e64ca1969db6ad451d4afc79b130e976e40b0baf22b93baa8bff","features":{},"yanked":false,"links":null}
+{"name":"cargo-wasi-exe-x86_64-pc-windows-msvc","vers":"0.1.21","deps":[],"cksum":"55d33633075a2366f9089a2a97bb58d869c600dcbcbe1b43c83ce1affc057650","features":{},"yanked":false,"links":null}
