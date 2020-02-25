@@ -1,0 +1,1 @@
+{"name":"libflate_lz77","vers":"0.1.0","deps":[{"name":"libflate","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3b92b486d02dcbc8b7916a245852644ddc187261c3a641212781ff29decf7b89","features":{},"yanked":false,"links":null}
