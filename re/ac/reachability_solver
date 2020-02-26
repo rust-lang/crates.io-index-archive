@@ -1,0 +1,1 @@
+{"name":"reachability_solver","vers":"0.1.0","deps":[{"name":"linear_solver","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3f3db95c7a102c37f5c5bc5062ee8a86c64bf79c74387dac1d98fdde68ad5d9","features":{},"yanked":false,"links":null}
