@@ -1,1 +1,2 @@
 {"name":"gsrs","vers":"0.1.0","deps":[{"name":"typed-arena","req":"2.0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"10e9cbf308c735413ec268f75ee8af3df339f2c0bf9186b467332fd5c361c682","features":{},"yanked":false,"links":null}
+{"name":"gsrs","vers":"0.1.1","deps":[{"name":"typed-arena","req":"2.0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c6bbfd2f99c9c1c9533190bb0ea4188385a5d27a8c14c743803ce3f63ac7ca4a","features":{},"yanked":false,"links":null}
