@@ -1,1 +1,2 @@
 {"name":"elrond-wasm","vers":"0.1.0","deps":[{"name":"wee_alloc","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6947a7c52445496b9c6d4afb76af4376544c5ca1412fb5aeb40dcca1be6e3452","features":{},"yanked":false,"links":null}
+{"name":"elrond-wasm","vers":"0.1.1","deps":[{"name":"wee_alloc","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56befafb9163c717905a8663f60847c60ad20fca459e75f62da14feb5f76da4b","features":{},"yanked":false,"links":null}
