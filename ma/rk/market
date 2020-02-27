@@ -1,0 +1,1 @@
+{"name":"market","vers":"0.1.0","deps":[{"name":"crossbeam-channel","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6df0275080d6672ded71be085295bd3a1d252ff5b5ccbb65f9dba32245411127","features":{},"yanked":false,"links":null}
