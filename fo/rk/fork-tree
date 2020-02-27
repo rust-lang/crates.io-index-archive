@@ -1,0 +1,1 @@
+{"name":"fork-tree","vers":"2.0.0-alpha.2","deps":[{"name":"codec","req":"^1.0.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"parity-scale-codec"}],"cksum":"52828ae1b329104761ea7adfec113089e6712e83ba607e339656612d02d64cc1","features":{},"yanked":false,"links":null}
