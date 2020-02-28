@@ -13,3 +13,4 @@
 {"name":"lazy-bytes-cast","vers":"2.3.0","deps":[],"cksum":"bd34dfd7d02c68e3e721e031afb858da61a4b62ce25c4850b264b4178dbc646f","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"lazy-bytes-cast","vers":"3.0.0","deps":[],"cksum":"c25d418f42ae5dc0bcad0819d931f9bf8f24f7872b38f06445d62216ff4b9982","features":{},"yanked":true,"links":null}
 {"name":"lazy-bytes-cast","vers":"4.0.0","deps":[],"cksum":"7c0176016c49f71c537599b2d0d26054c28091d3b1118ecc8a87ce193bc56403","features":{},"yanked":false,"links":null}
+{"name":"lazy-bytes-cast","vers":"5.0.0","deps":[],"cksum":"91336b94ca786198f80aa0a3c55b39af839762b5829c8a74909a5b397f666b3f","features":{},"yanked":false,"links":null}
