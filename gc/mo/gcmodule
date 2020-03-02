@@ -1,0 +1,1 @@
+{"name":"gcmodule","vers":"0.1.0","deps":[{"name":"quickcheck","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c2b70431f3e83f51076533b542cd3e151398f9dd17b45fddce37815b30dd44ad","features":{},"yanked":false,"links":null}
