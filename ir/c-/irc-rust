@@ -1,1 +1,2 @@
 {"name":"irc-rust","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b91f10a26db5253ed84b272bf63aed8a953cd1a426cf303fc8694de713ee9e4c","features":{},"yanked":false,"links":null}
+{"name":"irc-rust","vers":"0.1.1","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3f5a4319ebb13fa13c901217d2a540ebe96af0da0db0b49660a542e839bfe943","features":{},"yanked":false,"links":null}
