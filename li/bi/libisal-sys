@@ -1,0 +1,1 @@
+{"name":"libisal-sys","vers":"0.1.0","deps":[{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4d60aa03db0e53b3d4eb1c050a3f7ff6cb8f40f7a6a1d7da70a802c35df76f77","features":{},"yanked":false,"links":"isal"}
