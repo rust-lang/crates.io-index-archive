@@ -1,0 +1,1 @@
+{"name":"libw","vers":"0.0.1","deps":[{"name":"wasi","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de8d939b26b29c125bec2fb7cd86bcdad783fdd5b501ae605172b41a6257edb0","features":{},"yanked":false,"links":null}
