@@ -10,3 +10,4 @@
 {"name":"rhai","vers":"0.8.2","deps":[],"cksum":"5335b2718fc8c2fa74633af180dc7aaf44a724a43185d34bbd6b0c4597defbe6","features":{"debug_msgs":[]},"yanked":false,"links":null}
 {"name":"rhai","vers":"0.9.0","deps":[],"cksum":"6238ce80180b92a7ca24557bd57033812fddaee9fcc9c212babeec715d5a249b","features":{"debug_msgs":[]},"yanked":false,"links":null}
 {"name":"rhai","vers":"0.9.1","deps":[],"cksum":"b1cadbefcdb49a5ea2ea53699ce6b60f28c8a711247ce449ca99e687b0a5d6de","features":{"debug_msgs":[]},"yanked":false,"links":null}
+{"name":"rhai","vers":"0.10.1","deps":[],"cksum":"5f803014a878d647feaebb44f4dc289c1524c5dfc2b25d318bbad1162bdadcdc","features":{"debug_msgs":[]},"yanked":false,"links":null}
