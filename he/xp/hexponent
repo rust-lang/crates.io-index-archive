@@ -1,1 +1,2 @@
 {"name":"hexponent","vers":"0.1.0","deps":[],"cksum":"86a2f76235f603cc55b337b1386d763089552f9072d6370e660374410b7fc4ae","features":{},"yanked":false,"links":null}
+{"name":"hexponent","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"46d1a5a5164b264b82da333e132083823ee7fa060acb1e9ac64c6cc7f964c588","features":{},"yanked":false,"links":null}
