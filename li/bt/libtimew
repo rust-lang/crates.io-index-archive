@@ -1,0 +1,1 @@
+{"name":"libtimew","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26a9a98165d6f1b7950c5cf2c2081ecb5582cc4bc3755d7aee3c6ebaea1201d2","features":{},"yanked":false,"links":null}
