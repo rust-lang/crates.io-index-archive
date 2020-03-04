@@ -1,1 +1,2 @@
 {"name":"devserver","vers":"0.1.0","deps":[{"name":"devserver_lib","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3af67b14337f4ea4e4105a8d8f660f5e7c57c8e140dff7bba7680b4cf8dd38c1","features":{},"yanked":false,"links":null}
+{"name":"devserver","vers":"0.1.1","deps":[{"name":"devserver_lib","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab2a10da8f138b494968002d7e7c35b0bf669df69954bc88a44a9321fc63868b","features":{},"yanked":false,"links":null}
