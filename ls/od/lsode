@@ -1,0 +1,1 @@
+{"name":"lsode","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"33ea0cfbeea92190fa8f42f88dee53c6877e19cbc3aef46c6a5b0c6f9c007c66","features":{},"yanked":false,"links":null}
