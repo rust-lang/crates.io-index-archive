@@ -1,0 +1,1 @@
+{"name":"multiboot2-host","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdb4f9f36c90991511411337ea886c5922de52356f946f0f5d9cf53d94f472e3","features":{"hvm":[]},"yanked":false,"links":null}
