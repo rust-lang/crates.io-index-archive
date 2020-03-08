@@ -1,0 +1,1 @@
+{"name":"midas_rs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7","features":["small_rng"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"830b9c66179da9f66830abefe9ecc4848f21724ad4b0c16bc554c873e1fa988c","features":{},"yanked":false,"links":null}
