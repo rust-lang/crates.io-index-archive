@@ -1,1 +1,2 @@
 {"name":"ms-converter","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a3d66b4b2a64bf4cfe8278e47eba0a2d38172ccf8ba9369f70fd6873aa43429","features":{},"yanked":false,"links":null}
+{"name":"ms-converter","vers":"0.4.0","deps":[],"cksum":"5411660170d4f8d38ff07701e88cf450114aa5fe1b9cbf7217c543b8f67dbb4a","features":{},"yanked":false,"links":null}
