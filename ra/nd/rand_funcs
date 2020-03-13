@@ -1,0 +1,1 @@
+{"name":"rand_funcs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"059acc7c363ac9d6a5b438c5d1b711effc1bec64508994d79da30ad59e649cc1","features":{},"yanked":false,"links":null}
