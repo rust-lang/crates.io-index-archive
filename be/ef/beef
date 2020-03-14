@@ -5,3 +5,4 @@
 {"name":"beef","vers":"0.1.4","deps":[],"cksum":"452335284a39dcc6e3deb5cfc453e9397cec51370bae4812064a9b85bb093084","features":{"const_fn":[],"default":[]},"yanked":false,"links":null}
 {"name":"beef","vers":"0.1.5","deps":[],"cksum":"7104438eee379a512c9c8761f391d15f8d41c8cc6994c4db5a9e967ae24117e0","features":{"const_fn":[],"default":[]},"yanked":false,"links":null}
 {"name":"beef","vers":"0.2.0","deps":[],"cksum":"a750cd37e8a7e108dafba9ac1f7b6afe247ccd51b45c013d30fb9270b4b9435f","features":{"default":[],"const_fn":[]},"yanked":false,"links":null}
+{"name":"beef","vers":"0.2.1","deps":[],"cksum":"c3d7d5513ef2957f5acb190d8ab94d839ccb2014a480b1a4edb4ab5b2053efa7","features":{"default":[],"const_fn":[]},"yanked":false,"links":null}
