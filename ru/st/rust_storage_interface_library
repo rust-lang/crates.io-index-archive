@@ -1,0 +1,1 @@
+{"name":"rust_storage_interface_library","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7936a565447351672258eae5712ef72506e0e80528a411eb9faf0c530c18c8ee","features":{},"yanked":false,"links":null}
