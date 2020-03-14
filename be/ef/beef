@@ -3,3 +3,4 @@
 {"name":"beef","vers":"0.1.2","deps":[],"cksum":"aa1c724d818196ebb5a3725191ccc3e880aa7b6bec7c7291f02a8994e00f342d","features":{},"yanked":false,"links":null}
 {"name":"beef","vers":"0.1.3","deps":[],"cksum":"2c05a4dc2fe43d7fe8b94c8dd02b45b7b428d3f77985cb7a5c2f1144616cee0f","features":{},"yanked":false,"links":null}
 {"name":"beef","vers":"0.1.4","deps":[],"cksum":"452335284a39dcc6e3deb5cfc453e9397cec51370bae4812064a9b85bb093084","features":{"const_fn":[],"default":[]},"yanked":false,"links":null}
+{"name":"beef","vers":"0.1.5","deps":[],"cksum":"7104438eee379a512c9c8761f391d15f8d41c8cc6994c4db5a9e967ae24117e0","features":{"const_fn":[],"default":[]},"yanked":false,"links":null}
