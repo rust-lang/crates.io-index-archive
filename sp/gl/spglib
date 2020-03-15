@@ -1,1 +1,1 @@
-{"name":"spglib","vers":"0.1.0","deps":[{"name":"spglib-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ac90ca59a26c95b88bcfba86c72d7ea06196a573480de93dd2cff9b7a0f07d8","features":{},"yanked":false,"links":null}
+{"name":"spglib","vers":"0.1.0","deps":[{"name":"spglib-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ac90ca59a26c95b88bcfba86c72d7ea06196a573480de93dd2cff9b7a0f07d8","features":{},"yanked":true,"links":null}
