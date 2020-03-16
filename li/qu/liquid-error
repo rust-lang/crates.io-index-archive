@@ -4,3 +4,4 @@
 {"name":"liquid-error","vers":"0.18.1","deps":[],"cksum":"76119f2171687b188d7b953627ae924ca0556499b0bd20099ee5f2dea8e8969b","features":{},"yanked":false,"links":null}
 {"name":"liquid-error","vers":"0.19.0","deps":[],"cksum":"7d5c0851812322e87dcf67c2d7e520c3efd8651bd44eb8d0c0246e6dfb94d481","features":{},"yanked":false,"links":null}
 {"name":"liquid-error","vers":"0.20.0-alpha.2","deps":[{"name":"kstring","req":"^0.1.0-alpha.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1e80a0b6bb0e961da577d9a11fdfbb61def935cbc208f8cd2c6bbb4562ddd48","features":{},"yanked":false,"links":null}
+{"name":"liquid-error","vers":"0.20.0-alpha.3","deps":[{"name":"kstring","req":"^0.1.0-alpha.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b5f49ee5bc2c61aae9286cf05156af2f22dd18f5c7635783363adb3d2a5129b","features":{},"yanked":false,"links":null}
