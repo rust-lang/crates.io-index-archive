@@ -1,0 +1,1 @@
+{"name":"kstring","vers":"0.1.0-alpha.2","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f2e35d644fefed5e9321d3ec2a4ff88616e04f14984925203edd7a15726d6c2","features":{},"yanked":false,"links":null}
