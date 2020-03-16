@@ -1,1 +1,2 @@
 {"name":"psalm","vers":"0.0.1","deps":[],"cksum":"a70eae9567ad627363f54012a0c82f54ff1385cff23aa8bb21cb10f539a94b96","features":{},"yanked":false,"links":null}
+{"name":"psalm","vers":"0.0.2","deps":[{"name":"chrono","req":"^0.4.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbacd03931a06b1ef3f6daf5ee3b5586600324aa8dae06f853a3cb9d1d91e795","features":{},"yanked":false,"links":null}
