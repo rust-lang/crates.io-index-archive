@@ -1,1 +1,2 @@
 {"name":"waithandle","vers":"0.1.0","deps":[],"cksum":"9d0f6e507547598d1ef89c1d9f535f2d81d82fa333e26e58482369e170f872dd","features":{},"yanked":false,"links":null}
+{"name":"waithandle","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2facf9b98b7fe94421ca90ea55528056fa6078c0aed4cd94f92facf4788f73b2","features":{},"yanked":false,"links":null}
