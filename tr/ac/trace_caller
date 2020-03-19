@@ -1,0 +1,1 @@
+{"name":"trace_caller","vers":"0.1.0","deps":[{"name":"backtrace","req":"^0.3.45","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f78a8f5b836d33561c2824598fca3eee338c9e7e932c87e76942e6472494a94","features":{},"yanked":false,"links":null}
