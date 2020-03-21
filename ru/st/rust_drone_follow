@@ -1,0 +1,1 @@
+{"name":"rust_drone_follow","vers":"0.1.0","deps":[{"name":"opencv","req":"^0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cccc25cbc2f40236d0bf4ee54a7283a97407d03fc7b47e8eda6e28dc940b1e49","features":{},"yanked":false,"links":null}
