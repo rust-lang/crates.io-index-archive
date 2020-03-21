@@ -1,0 +1,1 @@
+{"name":"iguana-interpreter","vers":"0.1.0","deps":[{"name":"bitcoin-cash","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"942f9f8d5f685504c918357a1b320751292beda694517b115b7d46f41b2198c5","features":{},"yanked":false,"links":null}
