@@ -1,0 +1,1 @@
+{"name":"fltk-sys","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"163ee6577dd5642a314aa9d1c7a93d82df3d943953d9f665305bbf83d6752e4e","features":{},"yanked":false,"links":null}
