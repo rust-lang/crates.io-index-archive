@@ -7,3 +7,4 @@
 {"name":"serialize_deserialize_u8_i32","vers":"0.1.7","deps":[],"cksum":"292195c0f00f7c08274b3975c630932d928685cc38b61809cd1e5e2dfa606711","features":{},"yanked":false,"links":null}
 {"name":"serialize_deserialize_u8_i32","vers":"0.1.8","deps":[],"cksum":"66c2917f07a652acc302a8e8e9c8b67ea85a414db2825a38069877eb4aa4c6f9","features":{},"yanked":false,"links":null}
 {"name":"serialize_deserialize_u8_i32","vers":"0.1.9","deps":[],"cksum":"1d99fcb104077a9d77a44a0fc6925c6646251af81529c114fec91020d809c9fd","features":{},"yanked":false,"links":null}
+{"name":"serialize_deserialize_u8_i32","vers":"0.1.10","deps":[],"cksum":"4fbcb5ef0b5292a6ebdf8bb990745dd780ab8ba8651c804cc04c706b77ba672c","features":{},"yanked":false,"links":null}
