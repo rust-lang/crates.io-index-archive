@@ -1,1 +1,2 @@
 {"name":"rcin","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a18d7a2271c0058400afca16f166cc483cbf766134b9846a9f9f84e5c01e38fc","features":{},"yanked":false,"links":null}
+{"name":"rcin","vers":"0.1.1","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87ddb09b707a681d768e0a677bec1b32fb0ded3067ec2e72d87fd27816de2f95","features":{},"yanked":false,"links":null}
