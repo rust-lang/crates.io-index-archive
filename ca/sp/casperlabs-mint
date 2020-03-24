@@ -1,0 +1,1 @@
+{"name":"casperlabs-mint","vers":"0.1.0","deps":[{"name":"types","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"casperlabs-types"}],"cksum":"0fa94ad29575ed06149ac643a8a6566ba11e108c90462847dee3820c5efe55f3","features":{"std":["types/std"]},"yanked":false,"links":null}
