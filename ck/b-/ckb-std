@@ -1,0 +1,1 @@
+{"name":"ckb-std","vers":"0.1.0","deps":[{"name":"buddy-alloc","req":"^0.2.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2227037c69d4152424a81c67840f7c2756c98b6c9902467638c88a0758a8694d","features":{"default":["buddy-alloc"],"libc":[]},"yanked":false,"links":null}
