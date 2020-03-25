@@ -1,0 +1,1 @@
+{"name":"libcoap-rs","vers":"0.1.0","deps":[{"name":"libcoap-sys","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08098d6ab01d78df3edb6bc7354dc87613698014241b80c30badc5c829cc8593","features":{},"yanked":false,"links":null}

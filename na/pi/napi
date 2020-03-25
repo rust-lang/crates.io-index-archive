@@ -1,0 +1,2 @@
+{"name":"napi","vers":"0.1.0","deps":[{"name":"napi-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e0364290e2636a155408330744a44a58271b5e91ea5f281c446b4a768d77b60","features":{},"yanked":false}
+{"name":"napi","vers":"0.1.1","deps":[{"name":"napi-sys","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"407356f2031321bbe4c80153f1f03b5abf6d97c1351d649d6718fc0b39c7545f","features":{},"yanked":false}

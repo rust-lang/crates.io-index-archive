@@ -1,0 +1,1 @@
+{"name":"flac-bound","vers":"0.1.0","deps":[{"name":"flac-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0cfdabb42a1c61005afecbf1048134548aa7bed326f898796524b1352aadcbe3","features":{},"yanked":false,"links":null}

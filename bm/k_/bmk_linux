@@ -1,0 +1,1 @@
+{"name":"bmk_linux","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2.48","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4d9615cd3c01b1d3a170ff2b24f633d8476d1e3e727bb8ac521a7be1ed1a547","features":{},"yanked":false,"links":null}

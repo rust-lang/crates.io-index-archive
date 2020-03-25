@@ -1,0 +1,1 @@
+{"name":"pinentry-rs","vers":"0.1.0","deps":[{"name":"secstr","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ab0c354a34e5acbb00f1b69186d36bf00f57ab79a39f5b48fd350ebcb037519","features":{},"yanked":false,"links":null}

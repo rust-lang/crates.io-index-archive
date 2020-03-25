@@ -1,0 +1,1 @@
+{"name":"openaip","vers":"0.1.0","deps":[{"name":"xmltree","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"approx","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"20e4c9a11136ab1cbf5593f80ab849e5599adf97fc9afc29c8ba0a806c82a4c9","features":{},"yanked":false}

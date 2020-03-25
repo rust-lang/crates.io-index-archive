@@ -1,0 +1,1 @@
+{"name":"vfio-bindings","vers":"0.1.0","deps":[{"name":"vmm-sys-util","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df0379abaedb35cac2636dd2ee75496ab921430fa5775b90f13bbda3e2abaf66","features":{"vfio-v5_0_0":[]},"yanked":false,"links":null}

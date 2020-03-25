@@ -1,0 +1,1 @@
+{"name":"genesis","vers":"0.0.0","deps":[{"name":"clap","req":"^2.26.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a01947c4cac12fa563741408289e77dc3c142d570dac219dcdbc5b8fbc0ea9e0","features":{},"yanked":false}

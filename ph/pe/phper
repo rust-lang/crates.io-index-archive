@@ -1,0 +1,2 @@
+{"name":"phper","vers":"0.0.0","deps":[],"cksum":"14af43d972c8903e7f17c33596f04151b93d59c04d6f526c8d858f9c0b323414","features":{},"yanked":false,"links":null}
+{"name":"phper","vers":"0.1.0","deps":[{"name":"phper-macros","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"phper-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71411e5f1c05b395752c4218a1cd2dc14a71bf356a5c0aff9789545b411c4d0f","features":{},"yanked":false,"links":null}

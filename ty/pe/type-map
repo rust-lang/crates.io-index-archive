@@ -1,0 +1,2 @@
+{"name":"type-map","vers":"0.2.0","deps":[{"name":"fxhash","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"998e52cee7a8632763641718622de4fe22b125ae7cb93bc99ad4d1631d04af23","features":{},"yanked":false,"links":null}
+{"name":"type-map","vers":"0.3.0","deps":[{"name":"fxhash","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d2741b1474c327d95c1f1e3b0a2c3977c8e128409c572a33af2914e7d636717","features":{},"yanked":false,"links":null}

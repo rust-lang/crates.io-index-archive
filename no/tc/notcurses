@@ -1,0 +1,12 @@
+{"name":"notcurses","vers":"0.9.2","deps":[],"cksum":"ca52a5c6ed6b02df1b1b0f1d10ecb6c17ff86ecf673080521eb83cd21a964f87","features":{},"yanked":false,"links":null}
+{"name":"notcurses","vers":"0.9.9","deps":[],"cksum":"ae27f5e000e527b94555bf3932bf6645b0fe5c6db70fa4fa0cb89028204ab400","features":{},"yanked":false,"links":null}
+{"name":"notcurses","vers":"1.0.2","deps":[],"cksum":"01a1eaf2c6d26d2484f8f35099aa5e62082922c5948e8883a311e3b71ab643ca","features":{},"yanked":false,"links":null}
+{"name":"notcurses","vers":"1.1.0","deps":[],"cksum":"6f4759f0a9919038bf78bab5cb6866f44767393621d7d5ffa3fa63974ad70cee","features":{},"yanked":false,"links":null}
+{"name":"notcurses","vers":"1.1.4","deps":[],"cksum":"6e294ca24756c3793e525fb9bce8eee032a217b404ecd4e87eef2de06e5e107d","features":{},"yanked":false,"links":null}
+{"name":"notcurses","vers":"1.1.5","deps":[],"cksum":"f8872d457ad37309c7e005cdba7f1a843392d25d2e7004c6d7ea0418867cb390","features":{},"yanked":false,"links":null}
+{"name":"notcurses","vers":"1.1.7","deps":[],"cksum":"3f9bc58acc85d64694f496a1a6fb61fea369f936a28c2a70221391a581f4982f","features":{},"yanked":false,"links":null}
+{"name":"notcurses","vers":"1.1.8","deps":[],"cksum":"cab266ed52726c7ad670756a0897063e79c68c2679f8a64b2ce3e676970f779b","features":{},"yanked":false,"links":null}
+{"name":"notcurses","vers":"1.2.0","deps":[],"cksum":"5922082c807aad44b9c62b337c18ba525aa836ac9d7e47b65879dfe3f734f262","features":{},"yanked":false,"links":null}
+{"name":"notcurses","vers":"1.2.2","deps":[],"cksum":"8c88f458a6fee2de7ed664cf46c11169744dd060a23bf9081c057023c20ba58b","features":{},"yanked":false,"links":null}
+{"name":"notcurses","vers":"1.2.3","deps":[{"name":"libnotcurses-sys","req":"^1.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49610fac7149c679ef6fc5c6278bb6cc168e5231a3b24cb6b59c6e7483afe549","features":{},"yanked":false,"links":null}
+{"name":"notcurses","vers":"1.2.4","deps":[{"name":"libnotcurses-sys","req":"^1.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae81c8e1543e0dc8c599fd0ddecf146cc52468b6f27fffcc21a4caa6cc3d358b","features":{},"yanked":false,"links":null}

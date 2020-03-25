@@ -1,0 +1,1 @@
+{"name":"libresolv-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb7e7216e9097a97b63e53a324c8972b9c499ac8c4a71b6365da9c1c1d589d48","features":{},"yanked":false}

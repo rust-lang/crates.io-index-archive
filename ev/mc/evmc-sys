@@ -1,0 +1,1 @@
+{"name":"evmc-sys","vers":"7.1.0","deps":[{"name":"bindgen","req":"^0.52.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3603d393eeff9bc80ed10eb1164fc99595c175c4ef652f9051c3b91290140242","features":{},"yanked":false,"links":null}

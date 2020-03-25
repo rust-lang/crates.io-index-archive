@@ -1,0 +1,1 @@
+{"name":"magnet-uri","vers":"0.1.0","deps":[{"name":"serde_urlencoded","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac975f250d7a44ddf230bb8c2d774c806253a790509c0892da36397457dfecab","features":{},"yanked":false,"links":null}

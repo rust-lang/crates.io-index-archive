@@ -1,0 +1,2 @@
+{"name":"terms","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20d9684960801547925d5c6e4e3db3551c373cf89b0111c5908d61c0e9b3d998","features":{},"yanked":false,"links":null}
+{"name":"terms","vers":"0.1.1","deps":[{"name":"rand","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9dc16925bc9fd70146ebaee0a4922cef4535716b50d222d4352e68c0592803c","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"cuda-driver-sys","vers":"0.3.0-alpha.1","deps":[{"name":"cuda-config","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"995e5ae07f84405c8017db80307a17983aa64f075510ac95da8a00c539b78dbe","features":{},"yanked":false,"links":"cuda"}

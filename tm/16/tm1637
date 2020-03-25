@@ -1,0 +1,1 @@
+{"name":"tm1637","vers":"0.0.1","deps":[{"name":"embedded-hal","req":"^0.2.2","features":["unproven"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e0c4bd1ba4ddd3631ff9168396c2a9b6790afede2a92efd1afc0fb23f1d1fbd","features":{},"yanked":false,"links":null}

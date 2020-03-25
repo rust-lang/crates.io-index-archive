@@ -1,0 +1,2 @@
+{"name":"stun","vers":"0.0.1","deps":[],"cksum":"c5686428839ba7e15ef22c08fdd46076252f257f63cc6ebcb99a054e5ec2f7db","features":{},"yanked":false}
+{"name":"stun","vers":"0.0.2","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"691d603c209395e301f3ba1eae3fdb08ae0b9a11db573c6c2f44ca1c8a617af5","features":{},"yanked":false}

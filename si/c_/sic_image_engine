@@ -1,0 +1,1 @@
+{"name":"sic_image_engine","vers":"0.10.0","deps":[{"name":"sic_core","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dfcb9920ce725395ab7e8afd855d80bc86ea05d034a336e6bbcdb8f82750d54a","features":{"output-test-images":[]},"yanked":false,"links":null}

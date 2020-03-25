@@ -1,0 +1,1 @@
+{"name":"qemu-exit","vers":"0.1.0","deps":[{"name":"x86_64","req":"0.7.*","features":[],"optional":false,"default_features":true,"target":"cfg(target_arch = \"x86_64\")","kind":"normal"}],"cksum":"6eef8966dfa42074458b801f4ca70c0a070a84a500022584cc11d7a3c1fdb105","features":{},"yanked":false,"links":null}

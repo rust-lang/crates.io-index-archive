@@ -1,0 +1,1 @@
+{"name":"pipewire-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.51.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"43353c43e332c92d859b40acdcaf0a1954bb9721a20f563be78e1b691d8dc242","features":{},"yanked":false,"links":null}

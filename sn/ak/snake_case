@@ -1,0 +1,2 @@
+{"name":"snake_case","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1860266cb4c252593baf33b07b735b1ee2847570d4e34eaf945e33ffb2c4920b","features":{},"yanked":false,"links":null}
+{"name":"snake_case","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34e66073cb6241f9909abaad593dc21071b734fe12aa8a0c4efd928949f11c84","features":{"default":[]},"yanked":false,"links":null}

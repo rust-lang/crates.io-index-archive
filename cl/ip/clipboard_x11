@@ -1,0 +1,1 @@
+{"name":"clipboard_x11","vers":"0.1.0","deps":[{"name":"xcb","req":"^0.9","features":["thread"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"137cbd60c42327a8d63e710cee5a4d6a1ac41cdc90449ea2c2c63bd5e186290a","features":{},"yanked":false,"links":null}

@@ -1,0 +1,2 @@
+{"name":"petrovich","vers":"0.1.0","deps":[{"name":"yaml-rust","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0cb59e5524c0c4e9dbb07146e9b1029f51c4e700e61aa054e81ac33c41058b42","features":{},"yanked":false}
+{"name":"petrovich","vers":"0.1.1","deps":[{"name":"yaml-rust","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0ee0b8a87d6c17f8bb0a32aaa086132f6758d2f824fc251013c2984f8cac998","features":{},"yanked":false}
