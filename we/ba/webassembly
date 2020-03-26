@@ -1,2 +1,3 @@
 {"name":"webassembly","vers":"0.0.0","deps":[],"cksum":"d635a056514a20b6d5cf0820653e4b30e62d96f97b1dd0cd117ba1fa96a85668","features":{},"yanked":false,"links":null}
 {"name":"webassembly","vers":"0.1.0","deps":[{"name":"micromath","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1245983cce74f631981eb45766554268f33ca93f4a6969a38c64b6a278994e34","features":{},"yanked":false,"links":null}
+{"name":"webassembly","vers":"0.1.1","deps":[],"cksum":"2dbda621ac789347868896e9b0a45b0a80dcf445eb7f41af7ebf61837da8c319","features":{},"yanked":false,"links":null}
