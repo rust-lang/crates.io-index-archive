@@ -1,0 +1,1 @@
+{"name":"buddy-allocator","vers":"0.1.0","deps":[{"name":"alloc-wg","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da5bd4877857fd9e4c525d12c6910ff2974e66ae88210cbceff4e8af8d543a64","features":{},"yanked":false,"links":null}
