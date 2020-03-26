@@ -11,4 +11,4 @@
 {"name":"demoDisk","vers":"2019.12.13","deps":[],"cksum":"eac632fc0aba14a0976c52f8c1b8abd51abaf922d4486abab8b84d02bcfedede","features":{},"yanked":true,"links":null}
 {"name":"demoDisk","vers":"9.9.9","deps":[],"cksum":"ca3b992ab63946791580db85812ef639b07201a2e763940b9f117aad06137b9b","features":{},"yanked":true,"links":null}
 {"name":"demoDisk","vers":"9999.999.99","deps":[],"cksum":"0a13962a81ad362fe825fb4cfcd03df53272076ff851729f05dcfa96902a9286","features":{},"yanked":true,"links":null}
-{"name":"demoDisk","vers":"99999.99999.99999","deps":[],"cksum":"fc88110a5c884a4a8fd56aa5cf761e38fe7742edab4a91fb6a948fa16a6f9120","features":{},"yanked":false,"links":null}
+{"name":"demoDisk","vers":"99999.99999.99999","deps":[],"cksum":"fc88110a5c884a4a8fd56aa5cf761e38fe7742edab4a91fb6a948fa16a6f9120","features":{},"yanked":true,"links":null}
