@@ -1,0 +1,1 @@
+{"name":"duration-string","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0.105","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eea73537131d449a63e87568ba9d0cff35500501da18b9c2c98e693cabd22139","features":{"serde_support":["serde"]},"yanked":false,"links":null}
