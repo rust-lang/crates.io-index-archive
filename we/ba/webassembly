@@ -2,3 +2,4 @@
 {"name":"webassembly","vers":"0.1.0","deps":[{"name":"micromath","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1245983cce74f631981eb45766554268f33ca93f4a6969a38c64b6a278994e34","features":{},"yanked":false,"links":null}
 {"name":"webassembly","vers":"0.1.1","deps":[],"cksum":"2dbda621ac789347868896e9b0a45b0a80dcf445eb7f41af7ebf61837da8c319","features":{},"yanked":false,"links":null}
 {"name":"webassembly","vers":"0.2.0","deps":[],"cksum":"72040e31246bf6f4f37ce87bbe7303ab2645513f883b33c4eff9a6e2c530286a","features":{},"yanked":false,"links":null}
+{"name":"webassembly","vers":"0.3.0","deps":[],"cksum":"4b0a632f3435699a74e4348c216f62391738e52c9fa93ea9b3d944d642b9531a","features":{},"yanked":false,"links":null}
