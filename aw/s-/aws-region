@@ -1,0 +1,1 @@
+{"name":"aws-region","vers":"0.20.0","deps":[{"name":"simpl","req":"^0.1.0-alpha","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6bc82757b564511ed96024fbe8705ba2dabe049a1afb1c71ec405c45fce1b0c","features":{"no-verify-ssl":[]},"yanked":false,"links":null}
