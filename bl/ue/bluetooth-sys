@@ -1,0 +1,1 @@
+{"name":"bluetooth-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7512deb1484c0fc1f66e221cd77d00ef8be6f855a700ce65b8094c2313648d9a","features":{},"yanked":false,"links":null}
