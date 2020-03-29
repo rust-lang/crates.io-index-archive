@@ -1,1 +1,2 @@
 {"name":"wain-validate","vers":"0.1.0","deps":[{"name":"wain-ast","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ee7027b94e4a055deea73d9cfd736e187f58d095bd4eaf270272948b259b90d","features":{},"yanked":false,"links":null}
+{"name":"wain-validate","vers":"0.1.1","deps":[{"name":"wain-ast","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94656479b15c2888368db335990c100b4744379b152b717ccc23bcbc0fc51d66","features":{},"yanked":false,"links":null}
