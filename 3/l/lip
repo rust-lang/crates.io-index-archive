@@ -6,3 +6,4 @@
 {"name":"lip","vers":"1.2.4","deps":[{"name":"im","req":"^14.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03225cefa4db5afa54df347c2744d87c0b1141e4cea738082ea741930869a95f","features":{},"yanked":false,"links":null}
 {"name":"lip","vers":"2.0.0","deps":[],"cksum":"e3a94af5d2a3d27974618e61bc70a9875afcfc3805d761e153c917ffb81f01c5","features":{},"yanked":false,"links":null}
 {"name":"lip","vers":"3.0.0","deps":[],"cksum":"0c5f86e94c60423970c5ed50324bea42f30c0ccfeec4a8498053bf99936d0e98","features":{},"yanked":false,"links":null}
+{"name":"lip","vers":"3.1.0","deps":[],"cksum":"b6ce6f2a26f711626e177a9e0d8680fc1858e5e0c47af3dbb2fccc886931e77c","features":{},"yanked":false,"links":null}
