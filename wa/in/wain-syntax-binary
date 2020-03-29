@@ -1,0 +1,1 @@
+{"name":"wain-syntax-binary","vers":"0.1.0","deps":[{"name":"wain-ast","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"351abfc8f053d1cc7410e43401f365fe89ee88d75dd4897382f2f8283a27ca8a","features":{},"yanked":false,"links":null}
