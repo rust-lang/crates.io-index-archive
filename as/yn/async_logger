@@ -6,3 +6,4 @@
 {"name":"async_logger","vers":"0.2.3","deps":[],"cksum":"b99f3c86efc0139723d07a06bf7b355892e0832815d60d37a8098ad91ca9f8d0","features":{},"yanked":false,"links":null}
 {"name":"async_logger","vers":"0.2.4","deps":[],"cksum":"c7c67dc25cf18944de8600d0bbd0084623b391f568893637073248ef95284d88","features":{},"yanked":false,"links":null}
 {"name":"async_logger","vers":"0.2.5","deps":[],"cksum":"160083d7e9a7736d166ae73b2b9c55979609e0aac93b99a782bde648b32d4be2","features":{"metrics":[]},"yanked":false,"links":null}
+{"name":"async_logger","vers":"0.2.6","deps":[],"cksum":"d94472ea31e849a01271ec33e42c5cac100eae0a03643e169b939b986da5fe5d","features":{"metrics":[]},"yanked":false,"links":null}
