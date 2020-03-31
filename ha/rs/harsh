@@ -6,3 +6,4 @@
 {"name":"harsh","vers":"0.1.5","deps":[],"cksum":"85e3b39a60f194846fab8e2d11ce38b777079abbef4d03c62a654ba6aeff1b18","features":{},"yanked":false,"links":null}
 {"name":"harsh","vers":"0.1.6","deps":[],"cksum":"70de663ed486483a0ca6938259b0de8f0bf8b5c4eac5675f963e3eff077f303a","features":{},"yanked":false,"links":null}
 {"name":"harsh","vers":"0.1.7","deps":[],"cksum":"10443b982f3cdf707e47ab0e2b962693598640ccc576ab9db9339c09ffc3071f","features":{},"yanked":false,"links":null}
+{"name":"harsh","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"quickcheck","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"54791bc1351cc4efa5eba6acead1bdd87dae0d2ba375671f2de6f72349b200d9","features":{},"yanked":false,"links":null}
