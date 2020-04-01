@@ -1,1 +1,2 @@
 {"name":"thud","vers":"0.1.0","deps":[{"name":"test-case","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19b1b6c3e6cbde580b97a781695eb767e8ae27bdac482e784288e59e15c78ec1","features":{},"yanked":false,"links":null}
+{"name":"thud","vers":"0.1.1","deps":[{"name":"test-case","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a5a9fa39fce3926a542cf7a746e91da0fa1ca77b2a7d60979653d3d62b59abc","features":{},"yanked":false,"links":null}
