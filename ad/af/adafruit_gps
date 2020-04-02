@@ -1,0 +1,1 @@
+{"name":"adafruit_gps","vers":"0.1.0","deps":[{"name":"serialport","req":"^3.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5fc8b1d65f04c1cf26cef1626389f037176201881b5f74dfef30f7b390cfd128","features":{},"yanked":false,"links":null}
