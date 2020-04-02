@@ -3,3 +3,4 @@
 {"name":"bigbit","vers":"0.0.2","deps":[],"cksum":"922cc4ccbc8d78c09ccadcba851e8da08a0f2eed310929ef6513b15950aac4bc","features":{},"yanked":true,"links":null}
 {"name":"bigbit","vers":"0.0.3","deps":[],"cksum":"ce20158d7c88d04dd5e96775d7a9c26b00ac7e6db6b602a2a384f1f812bade7d","features":{},"yanked":false,"links":null}
 {"name":"bigbit","vers":"0.0.4","deps":[],"cksum":"3ffb4b5016c393b8a63de0f8ce5cb6973fbd266bb06057a56c931ffb240bfd54","features":{"clippy":[],"default":["clippy"]},"yanked":false,"links":null}
+{"name":"bigbit","vers":"0.0.5","deps":[],"cksum":"1b928cc54cca3c242a7d863c148d14599088f45cf535fdb35af8805cb5900ad4","features":{"clippy":[],"default":["clippy"]},"yanked":false,"links":null}
