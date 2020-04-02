@@ -10,3 +10,4 @@
 {"name":"sgx_types","vers":"1.0.8","deps":[],"cksum":"90a0cd3cd30638660047759b9c9ac86318b8bb9322de01ada481af6a4373d468","features":{"default":[]},"yanked":false,"links":null}
 {"name":"sgx_types","vers":"1.0.9","deps":[],"cksum":"ee2c704607803f62caa0763d5219d8eb7d52718c901a9ef510d3b35b28199c10","features":{"default":[]},"yanked":false,"links":null}
 {"name":"sgx_types","vers":"1.1.0","deps":[],"cksum":"83bbcd1b60b9e47a4b9d5aa73893095b031d89dea8a644bac827f26d829d57a3","features":{"default":[]},"yanked":false,"links":null}
+{"name":"sgx_types","vers":"1.1.1","deps":[],"cksum":"df329127455d6a2964782739218468878770a6dc54cb037b6c9c8846fe09d362","features":{"default":[]},"yanked":false,"links":null}
