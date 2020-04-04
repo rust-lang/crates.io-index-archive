@@ -1,1 +1,2 @@
 {"name":"arrav","vers":"0.1.0","deps":[],"cksum":"6d303f7c2324149d90c4f39e351ebdfacbb23c675de2d5bd1d825469628b9123","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"arrav","vers":"0.1.1","deps":[],"cksum":"1dcd0051524b9d33f9e51a1e79bd0ac6ecd749883009b0e25853221d4bafbafe","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
