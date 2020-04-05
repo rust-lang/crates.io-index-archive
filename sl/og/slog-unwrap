@@ -1,1 +1,2 @@
 {"name":"slog-unwrap","vers":"0.1.0","deps":[],"cksum":"28c3d3ce81417e29411ae12f2f6fb3fa1de15ce3197cfc61f232c5ea77613ecd","features":{},"yanked":false,"links":null}
+{"name":"slog-unwrap","vers":"0.1.1","deps":[{"name":"slog","req":"^2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a67166fa2115af13946653c1c61749229c66ad0284b193e973d08864ee625258","features":{},"yanked":false,"links":null}
