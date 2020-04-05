@@ -7,3 +7,4 @@
 {"name":"webassembly","vers":"0.5.0","deps":[],"cksum":"1d1a10e1dedffff9cfcbdd33c289c65b87da634259a460a3f23d513649fa7a8c","features":{},"yanked":false,"links":null}
 {"name":"webassembly","vers":"0.6.0","deps":[],"cksum":"2069505a3d4dd920b18579236e14da8da6e9af1afb8ba017b4f840be6652bbe0","features":{},"yanked":false,"links":null}
 {"name":"webassembly","vers":"0.7.0","deps":[],"cksum":"6dc39d40f31f7160055691092355888473a2693016ee11580f40887ab5de5852","features":{},"yanked":false,"links":null}
+{"name":"webassembly","vers":"0.8.0","deps":[],"cksum":"c5627fc4d0cae01c6e208a8f2c5a5a6f043cd306ab50f434eb7aefdfc08110e8","features":{},"yanked":false,"links":null}
