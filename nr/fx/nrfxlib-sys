@@ -8,3 +8,4 @@
 {"name":"nrfxlib-sys","vers":"0.2.0","deps":[],"cksum":"945dc778fc8aeb4dd7488a4733a1d23bf7a4c6a8137e9fbff50edb1f8a153609","features":{},"yanked":false,"links":null}
 {"name":"nrfxlib-sys","vers":"1.1.0-rc2+rel1","deps":[],"cksum":"b32c22178b1036701fcb7b6dea748c1e93c0ebf9ead4d11ab45cf35f8c791c74","features":{},"yanked":false,"links":null}
 {"name":"nrfxlib-sys","vers":"1.1.0-rc3+rel1","deps":[],"cksum":"c95cd5899b16e7e271289513fb573daa4f1cad399afefc41b7e1a843f36bb36e","features":{},"yanked":false,"links":null}
+{"name":"nrfxlib-sys","vers":"1.2.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"278136a24c787f1350c18423c31992ecc5b770085e13ab0e7ca985eb5deb62ec","features":{},"yanked":false,"links":null}
