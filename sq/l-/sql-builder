@@ -29,3 +29,4 @@
 {"name":"sql-builder","vers":"0.10.3","deps":[],"cksum":"09062e8f6fb455f6fdc31a7a1a8f7b5ef6ed5c1ea22a2d40fd89d2dd0536697a","features":{},"yanked":false,"links":null}
 {"name":"sql-builder","vers":"0.10.4","deps":[],"cksum":"52eefe7707995bf332bd80f5b85d6a3a13e7ba1e62255b17ffa49b9260deff01","features":{},"yanked":false,"links":null}
 {"name":"sql-builder","vers":"0.11.0","deps":[],"cksum":"8cfb50a098e27126809d46080fbb67f1c3ca327f7c4a550b16ed1dd2b0d1582f","features":{},"yanked":false,"links":null}
+{"name":"sql-builder","vers":"0.11.1","deps":[],"cksum":"6b974eb656976e74afaaf62fb24610c25d4e5c8fb4f7ba9c6d8d4e2a12c9c5a0","features":{},"yanked":false,"links":null}
