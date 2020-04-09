@@ -1,0 +1,1 @@
+{"name":"vrp-solver","vers":"1.0.0","deps":[{"name":"vrp-core","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed70b8098569b147611987a53fe6de65a7da559c9d18e2ef7672eb04110d7128","features":{},"yanked":false,"links":null}
