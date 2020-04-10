@@ -1,0 +1,1 @@
+{"name":"mangling","vers":"0.1.0","deps":[{"name":"quickcheck","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"832ab967a47cd94ef9ff7a8296e07a039cf8659f3e2d99d2e93123c1d9f5b087","features":{},"yanked":false,"links":null}
