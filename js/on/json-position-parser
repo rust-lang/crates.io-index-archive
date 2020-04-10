@@ -2,3 +2,4 @@
 {"name":"json-position-parser","vers":"0.0.2","deps":[],"cksum":"2be945fb6a0ba096dc853d775d23c848f1099b3aa0d77b953b6863b995ad40c5","features":{},"yanked":true,"links":null}
 {"name":"json-position-parser","vers":"0.0.3","deps":[],"cksum":"6a42129b59b699a5c6850020d40fa88cd437b5a837c42a803a9da4bd0e7e4517","features":{},"yanked":false,"links":null}
 {"name":"json-position-parser","vers":"0.0.4","deps":[{"name":"float-cmp","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c3c5e06b5bddbeae5a5d34883438927242b6e295ed3e513f0bf018eaea06310a","features":{},"yanked":false,"links":null}
+{"name":"json-position-parser","vers":"0.0.5","deps":[{"name":"float-cmp","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bd36e8e3486769232506d6341a0bee61f8b7885b411a2ad4d8fa109238d9187f","features":{},"yanked":false,"links":null}
