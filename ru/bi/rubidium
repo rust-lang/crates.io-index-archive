@@ -15,3 +15,4 @@
 {"name":"rubidium","vers":"0.0.14","deps":[],"cksum":"7d75c984e3fabd4318f42dc8ea47e1a814015cdfa97a12bd01dc25e99db21c73","features":{"unsafe_addresses":[]},"yanked":false,"links":null}
 {"name":"rubidium","vers":"0.0.15","deps":[],"cksum":"ae785803fd410bb129b22528d087a20faec1785140b8f3aea37fea906eb07d2b","features":{"unsafe_addresses":[]},"yanked":false,"links":null}
 {"name":"rubidium","vers":"0.0.16","deps":[],"cksum":"d40c3466063035efb78645de10a124914f509cdd3d8016edbcc30fe9b67bf203","features":{"unsafe_addresses":[]},"yanked":false,"links":null}
+{"name":"rubidium","vers":"0.0.17","deps":[],"cksum":"30c4de47010c84911dac05a37cdc7ad368befadb0d705561a45e3101342c292b","features":{"unsafe_addresses":[]},"yanked":false,"links":null}
