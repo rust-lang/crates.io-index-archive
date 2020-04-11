@@ -1,0 +1,1 @@
+{"name":"protoc-bin-vendored","vers":"2.14.0","deps":[{"name":"protoc","req":"= 2.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ac570d1a1245949ca1ff82beee8e6e09db88b080e5f0eaa36f84bedf87defe51","features":{},"yanked":false,"links":null}
