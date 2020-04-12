@@ -1,1 +1,2 @@
 {"name":"openssh","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c4c82b86dddcecbe631407864e400f4d890dc5b6fa67598e09ecaa11295a646","features":{},"yanked":false,"links":null}
+{"name":"openssh","vers":"0.1.1","deps":[{"name":"tempfile","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"624c475480b8a43ffae0ef7ffcc652fed2018548d9272ead9cf1ec7aed2dd219","features":{},"yanked":false,"links":null}
