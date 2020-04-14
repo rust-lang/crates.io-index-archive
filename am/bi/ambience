@@ -1,1 +1,2 @@
 {"name":"ambience","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"adbbb1aec8d3575ab198db0d817392c50eb37c24600177793f0948b665b2d616","features":{},"yanked":false,"links":null}
+{"name":"ambience","vers":"0.2.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50ae1c59fd2ef7063da8a1e6ba676c6daa76dd60340508854348a7a1e680f18e","features":{},"yanked":false,"links":null}
