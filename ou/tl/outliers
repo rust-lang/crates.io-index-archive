@@ -1,2 +1,3 @@
 {"name":"outliers","vers":"0.1.0","deps":[],"cksum":"4491b47414ec06f46e53ee6d5766c44d05b55491d0c0e10b476aa6693559d510","features":{},"yanked":false,"links":null}
 {"name":"outliers","vers":"0.2.0","deps":[{"name":"num","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"742abf9974d15005a997687df0276cdabb9d22ec1eec1eb32d4bb55f903cbf1c","features":{},"yanked":false,"links":null}
+{"name":"outliers","vers":"0.2.1","deps":[{"name":"num","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b0d4331d98e8e19d439e930b57409de6fd8190e22f4572b717e708da52d3f20","features":{},"yanked":false,"links":null}
