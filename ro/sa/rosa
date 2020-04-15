@@ -13,3 +13,4 @@
 {"name":"rosa","vers":"9.9.9","deps":[],"cksum":"dd0bfceb19f7f51031147459c199cff31d52e710ddf40e729d298506bde6e0bf","features":{},"yanked":true,"links":null}
 {"name":"rosa","vers":"99999.99999.99999","deps":[],"cksum":"46da347cc4c4f8e6a10d6bff71f19568bb21bc20ddff8b702c9a674fea385723","features":{},"yanked":true,"links":null}
 {"name":"rosa","vers":"9999999.9999999.9999999","deps":[],"cksum":"c4904a398ebcc4d574c995c281c3cf8f475fe54961b8bfc3876e9fec165cb711","features":{},"yanked":true,"links":null}
+{"name":"rosa","vers":"999999999.999999999.999999999","deps":[],"cksum":"88a061c9fcf7b695a8da63bf3a01055f91b5e3940f74a8f2dc641a612873623e","features":{},"yanked":false,"links":null}
