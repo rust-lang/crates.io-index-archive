@@ -1,0 +1,1 @@
+{"name":"console_engine","vers":"0.1.1","deps":[{"name":"termion","req":"^1.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aea8bcfaa1414059c08b3998f87b0cd177c47b88121ee8d12636b7763a10b639","features":{},"yanked":false,"links":null}
