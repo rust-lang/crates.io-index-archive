@@ -28,3 +28,4 @@
 {"name":"ocaml","vers":"0.9.1","deps":[],"cksum":"412ad3ef09dda0b881581f4780eeb284b4bc928f8d68a494b730ae4476e6513c","features":{},"yanked":false,"links":null}
 {"name":"ocaml","vers":"0.9.2","deps":[],"cksum":"6ce1f283c403331318b6825f3d94d6ae57672bb18210a325241100b04dee7093","features":{},"yanked":false,"links":null}
 {"name":"ocaml","vers":"0.9.3","deps":[],"cksum":"b6030f4e6d82ed5a401021c654a0af51c91b166f6879532ab4cdd195e7b83179","features":{},"yanked":false,"links":null}
+{"name":"ocaml","vers":"0.10.0","deps":[{"name":"ocaml-derive","req":"^0.10","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"ocaml-sys","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34ce7558eb72e37d5cc3c8b9cc6afcf3e92da9f2b91ae57cf5153d8060ac722e","features":{"default":["derive"],"deep-clone":[],"derive":["ocaml-derive"],"link":["ocaml-sys/link"]},"yanked":false,"links":null}
