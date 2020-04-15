@@ -3,3 +3,4 @@
 {"name":"megaui","vers":"0.1.3","deps":[],"cksum":"c6f5143f47cd4c94526f28a68b1a0df3c521eb00f4351a0a49cfaae3d6262259","features":{},"yanked":false,"links":null}
 {"name":"megaui","vers":"0.1.4","deps":[],"cksum":"b4297f43fedc09553956a02659e12fe1b5b366ec14641361109104ee9aa4b0ca","features":{},"yanked":false,"links":null}
 {"name":"megaui","vers":"0.1.5","deps":[],"cksum":"af09351cbdadd685f4ca05ce717841dad98bcdc7d32851125bdc904c578f0bed","features":{},"yanked":false,"links":null}
+{"name":"megaui","vers":"0.2.0","deps":[{"name":"miniquad_text_rusttype","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03630bca089774d73e589342dd14cd794caa67b81425d30111d054b10f037040","features":{},"yanked":false,"links":null}
