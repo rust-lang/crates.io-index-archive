@@ -10,4 +10,4 @@
 {"name":"claymore","vers":"9999.999.99","deps":[],"cksum":"6661b70007ccb392041bc7e55328c77acf0b8555b346756e9e80c5ec9985d17a","features":{},"yanked":true,"links":null}
 {"name":"claymore","vers":"9.9.9","deps":[],"cksum":"1a92db67e20e135795365e2f2cd3acf09f0f249b44bd0643f04dbb238eaacd0a","features":{},"yanked":true,"links":null}
 {"name":"claymore","vers":"99999.99999.99999","deps":[],"cksum":"f5f43a99e4d3bb57316072c7fdcc3c95cdec5968fafa4738a84762a8b3194fb2","features":{},"yanked":true,"links":null}
-{"name":"claymore","vers":"9999999.9999999.9999999","deps":[],"cksum":"3d11fe1fe923ea95d222221528e1b079f946a8669dce7a9ee56ff3885cdecfd2","features":{},"yanked":false,"links":null}
+{"name":"claymore","vers":"9999999.9999999.9999999","deps":[],"cksum":"3d11fe1fe923ea95d222221528e1b079f946a8669dce7a9ee56ff3885cdecfd2","features":{},"yanked":true,"links":null}
