@@ -33,3 +33,4 @@
 {"name":"sql-builder","vers":"0.11.2","deps":[],"cksum":"942e102b41a1c36b8a2410ce8f325f01967cc6f53eafb0ca5e420fede1038344","features":{},"yanked":false,"links":null}
 {"name":"sql-builder","vers":"0.11.3","deps":[],"cksum":"dce64158d3340360166324977af3a391ddf7d40321e20c81d7810ad7ac9694d1","features":{},"yanked":false,"links":null}
 {"name":"sql-builder","vers":"0.11.4","deps":[],"cksum":"b36a19608318eadaec8c6ad00bc8c51b601a9050b2207f4ff033224e7743e713","features":{},"yanked":false,"links":null}
+{"name":"sql-builder","vers":"0.11.5","deps":[],"cksum":"c7dacda955dd1847bae49bf020bcba7ea342486230ba410710d9666f04ddbb59","features":{},"yanked":false,"links":null}
