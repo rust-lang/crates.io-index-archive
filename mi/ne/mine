@@ -12,4 +12,4 @@
 {"name":"mine","vers":"9999.999.99","deps":[],"cksum":"0d7f2f95b0e4cebff88a176f64927d2e685e7f27ce1985def00ded7ba2afc80c","features":{},"yanked":true,"links":null}
 {"name":"mine","vers":"9.9.9","deps":[],"cksum":"54e01907eb250a6a484168b84d804c635d5ff8072f2c370b42cb2dc4c5082402","features":{},"yanked":true,"links":null}
 {"name":"mine","vers":"99999.99999.99999","deps":[],"cksum":"99ddfdaf787c88b2e7a155311c6915057e9546a2c708ff7761a31de090b98b4f","features":{},"yanked":true,"links":null}
-{"name":"mine","vers":"9999999.9999999.9999999","deps":[],"cksum":"4b880bcabe5738f37947c2cd2dfa5d591883b1f008c154c188a6373e644863bd","features":{},"yanked":false,"links":null}
+{"name":"mine","vers":"9999999.9999999.9999999","deps":[],"cksum":"4b880bcabe5738f37947c2cd2dfa5d591883b1f008c154c188a6373e644863bd","features":{},"yanked":true,"links":null}
