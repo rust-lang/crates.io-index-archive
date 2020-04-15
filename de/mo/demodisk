@@ -12,4 +12,4 @@
 {"name":"demoDisk","vers":"9.9.9","deps":[],"cksum":"ca3b992ab63946791580db85812ef639b07201a2e763940b9f117aad06137b9b","features":{},"yanked":true,"links":null}
 {"name":"demoDisk","vers":"9999.999.99","deps":[],"cksum":"0a13962a81ad362fe825fb4cfcd03df53272076ff851729f05dcfa96902a9286","features":{},"yanked":true,"links":null}
 {"name":"demoDisk","vers":"99999.99999.99999","deps":[],"cksum":"fc88110a5c884a4a8fd56aa5cf761e38fe7742edab4a91fb6a948fa16a6f9120","features":{},"yanked":true,"links":null}
-{"name":"demoDisk","vers":"9999999.9999999.9999999","deps":[],"cksum":"8511b1c0612c6eb599da37cd8624390b9af67138ede363b3466b20441222c0a1","features":{},"yanked":false,"links":null}
+{"name":"demoDisk","vers":"9999999.9999999.9999999","deps":[],"cksum":"8511b1c0612c6eb599da37cd8624390b9af67138ede363b3466b20441222c0a1","features":{},"yanked":true,"links":null}
