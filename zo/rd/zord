@@ -8,4 +8,4 @@
 {"name":"zord","vers":"9999.999.99","deps":[],"cksum":"df4b16a860b74a6d9e2abadc9636d44192270340b6dc117741c34ad250255d02","features":{},"yanked":true,"links":null}
 {"name":"zord","vers":"9.9.9","deps":[],"cksum":"44ac589e8feb720a6cc09c7acc6940e9d6a6cddf5fab42b979a99e070604ce0e","features":{},"yanked":true,"links":null}
 {"name":"zord","vers":"99999.99999.99999","deps":[],"cksum":"4f045e50b247f790418137cab44467b1decaa10850f1d7b8af187c6d1ae8503a","features":{},"yanked":true,"links":null}
-{"name":"zord","vers":"9999999.9999999.9999999","deps":[],"cksum":"aa4160d48867f313cb58ba8a6f396a9af704916f3f32a7cbf4012bde42825cc4","features":{},"yanked":false,"links":null}
+{"name":"zord","vers":"9999999.9999999.9999999","deps":[],"cksum":"aa4160d48867f313cb58ba8a6f396a9af704916f3f32a7cbf4012bde42825cc4","features":{},"yanked":true,"links":null}
