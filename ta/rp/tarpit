@@ -11,5 +11,5 @@
 {"name":"tarpit","vers":"9.9.9","deps":[],"cksum":"0fd89c086bddd3d2cca8e95c7f36608f39bc470be02adaa0a4dc835fa97e39fe","features":{},"yanked":true,"links":null}
 {"name":"tarpit","vers":"99999.99999.99999","deps":[],"cksum":"d53e659774b534998af1b5c2f34f50ec1bcbf1ed72ebb6c41f7972383d7bee9b","features":{},"yanked":true,"links":null}
 {"name":"tarpit","vers":"9999999.9999999.9999999","deps":[],"cksum":"8b3ef19d1a73a7ac76fd9360f85ec198cf8e2ca26ec1b0832f79aa8d6c0112ce","features":{},"yanked":true,"links":null}
-{"name":"tarpit","vers":"9999999.9999999.99999990","deps":[],"cksum":"9f91c00eae4d755b4533b486df0ba08f0d4b97976c68c6be6443fdd9193bc5e7","features":{},"yanked":false,"links":null}
+{"name":"tarpit","vers":"9999999.9999999.99999990","deps":[],"cksum":"9f91c00eae4d755b4533b486df0ba08f0d4b97976c68c6be6443fdd9193bc5e7","features":{},"yanked":true,"links":null}
 {"name":"tarpit","vers":"999999999.999999999.999999999","deps":[],"cksum":"1ca3437bef7dd00140675f3f0e73dbb85bade1204993f2435ded0d7be52c0e91","features":{},"yanked":false,"links":null}
