@@ -1,0 +1,1 @@
+{"name":"fdk-aac","vers":"0.1.0","deps":[{"name":"fdk-aac-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e653da409b91d79af7d56815b0f6876b2151bb681aa0b532203318630b468fc1","features":{},"yanked":false,"links":null}
