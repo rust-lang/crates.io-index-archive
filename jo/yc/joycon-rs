@@ -1,0 +1,1 @@
+{"name":"joycon-rs","vers":"0.1.1","deps":[{"name":"hidapi","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d82ebccbfcab464772816ee5fd8ea13344c780cc271eac6fd568d83d8a5a8ea","features":{},"yanked":false,"links":null}
