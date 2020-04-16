@@ -1,1 +1,2 @@
 {"name":"console_engine","vers":"0.1.1","deps":[{"name":"termion","req":"^1.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aea8bcfaa1414059c08b3998f87b0cd177c47b88121ee8d12636b7763a10b639","features":{},"yanked":false,"links":null}
+{"name":"console_engine","vers":"0.1.2","deps":[{"name":"termion","req":"^1.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b90b41d11980796b5261f092efab4bc399107010333a1a440795bf18e6a234a","features":{},"yanked":false,"links":null}
