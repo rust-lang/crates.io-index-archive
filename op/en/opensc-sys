@@ -1,0 +1,1 @@
+{"name":"opensc-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0605b39dd5cc73c8d149609e2eb8519eedd56cde3821f690347b6edc3655a604","features":{},"yanked":false,"links":null}
