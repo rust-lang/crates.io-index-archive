@@ -4,3 +4,4 @@
 {"name":"standback","vers":"0.2.2","deps":[],"cksum":"ee531c64ad0f80d289504bd32fb047f42a9e957cda584276ab96eb587e9abac3","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"standback","vers":"0.2.3","deps":[],"cksum":"96eca17d57aac1688897d4c5e519ed600fc6f28aeabc7b1abb188e945deb0732","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"standback","vers":"0.2.4","deps":[],"cksum":"d747fd6d33f130039c9518cffa45a83d53986642ca4f872497df668e3f2b6b4d","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"standback","vers":"0.2.5","deps":[],"cksum":"6389164ce46e8a68e1b373787efcca3b6b6620bb50b12d4e8d14380838db316f","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
