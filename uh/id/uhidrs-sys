@@ -1,0 +1,1 @@
+{"name":"uhidrs-sys","vers":"1.0.0","deps":[{"name":"bindgen","req":"^0.53","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d78b2a68a0769dc3b501bcc9127f561220ff54b485b3dd9aa97718fda91dbdaa","features":{},"yanked":false,"links":null}
