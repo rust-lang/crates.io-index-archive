@@ -1,1 +1,1 @@
-{"name":"lea","vers":"0.1.0","deps":[{"name":"block-cipher-trait","req":"0.6.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0788aa261b27821003f58cd97378613a851e7539fc00d1b328609ea0d891bc5c","features":{},"yanked":false,"links":null}
+{"name":"lea","vers":"0.1.0","deps":[{"name":"block-cipher-trait","req":"0.6.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0788aa261b27821003f58cd97378613a851e7539fc00d1b328609ea0d891bc5c","features":{},"yanked":true,"links":null}
