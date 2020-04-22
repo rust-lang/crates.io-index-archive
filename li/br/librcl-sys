@@ -1,0 +1,1 @@
+{"name":"librcl-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"81ad230011c640c7563fa9bd0e1fcbd037073c34ca98bf9bbc0233be6ee809fb","features":{},"yanked":false,"links":"rcl"}
