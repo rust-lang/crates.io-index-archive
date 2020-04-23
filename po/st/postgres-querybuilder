@@ -1,0 +1,1 @@
+{"name":"postgres-querybuilder","vers":"0.1.0","deps":[{"name":"postgres-types","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46c401a4650c9d1df3f1505dac7c7ce89a8170cc8dd7b99b6991daf72f3aeb7d","features":{},"yanked":false,"links":null}
