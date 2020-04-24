@@ -1,1 +1,2 @@
 {"name":"llama-build","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2061878538350208c25beb784982200f521227ad7797157c642a6e87d3185bd","features":{},"yanked":false,"links":null}
+{"name":"llama-build","vers":"0.2.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04d311cd4848352ad502c64e6b99a8b6000ce49458d43e63f8832b727c267f8d","features":{},"yanked":false,"links":null}
