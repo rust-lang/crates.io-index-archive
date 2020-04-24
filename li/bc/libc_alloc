@@ -1,1 +1,2 @@
 {"name":"libc_alloc","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"facfadd598148749ec91bad7f0ca986728811db9b9a04084f7a0667b10601d46","features":{},"yanked":false,"links":null}
+{"name":"libc_alloc","vers":"1.0.1","deps":[],"cksum":"2225a00e7c0e14bfd06334e078057133ecfb747a9522f90a76ef09307bd57f2d","features":{},"yanked":false,"links":null}
