@@ -1,0 +1,1 @@
+{"name":"gsasl-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bcb012bb6a7bb85ebbdb94b53f9957fdd18422cc24979df29ae5949c2b0057b9","features":{},"yanked":false,"links":"gsasl"}
