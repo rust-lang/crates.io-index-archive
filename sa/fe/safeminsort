@@ -1,1 +1,2 @@
 {"name":"safeminsort","vers":"1.0.0","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f8b0813436fab570447696a1cab1da2bbef2c7f9a2197e169904efb0d8beea31","features":{},"yanked":false,"links":null}
+{"name":"safeminsort","vers":"1.1.0","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"98c236fdc1b4add4947920a12c174ed1112116b941fdbc676fab82562987ba92","features":{},"yanked":false,"links":null}
