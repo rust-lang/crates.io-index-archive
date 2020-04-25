@@ -1,1 +1,2 @@
 {"name":"xcursor","vers":"0.1.0","deps":[{"name":"rust-ini","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f872c15fb249863ce840ba743f510576f0a5ce85fa228ef238229684679b8613","features":{},"yanked":false,"links":null}
+{"name":"xcursor","vers":"0.1.1","deps":[{"name":"rust-ini","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad3ff3b2f6870f8bf3472cdb4aac8063d8bc2c2ef4d71746e307f5cca592d8a1","features":{},"yanked":false,"links":null}
