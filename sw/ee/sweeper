@@ -1,0 +1,1 @@
+{"name":"sweeper","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7","features":["alloc"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"dfcde48db852cfe5bdccd1c19c43e679a763f9afe8b29f1a66d8bf022ad20a65","features":{"default":["std","generation"],"track_caller":[],"std":["rand/std"],"generation":["rand"]},"yanked":false,"links":null}
