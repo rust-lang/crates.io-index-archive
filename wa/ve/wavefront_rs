@@ -1,0 +1,1 @@
+{"name":"wavefront_rs","vers":"0.1.0","deps":[{"name":"futures","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b92f35a61f92525d691e0a668eb621cd432dd8b286014f9c056f289caabe4fc3","features":{},"yanked":false,"links":null}
