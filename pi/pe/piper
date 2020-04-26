@@ -1,1 +1,2 @@
 {"name":"piper","vers":"0.1.0","deps":[],"cksum":"5f83437a70d59e37a7bd3230a446688adeac71793e23d304ea8d6aa4636baa7e","features":{},"yanked":false,"links":null}
+{"name":"piper","vers":"0.1.1","deps":[{"name":"crossbeam-utils","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"futures","req":"^0.3.4","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c6d62a6ea407d82215154475927b288219b79c8670e3371166210328e758ebaa","features":{},"yanked":false,"links":null}
