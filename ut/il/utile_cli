@@ -1,0 +1,1 @@
+{"name":"utile_cli","vers":"0.1.0","deps":[{"name":"pancurses","req":"^0.16.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ae34dcb86a4199e4ddf122cef77c70e764ee372252dc7f43c55abdc7762314f","features":{},"yanked":false,"links":null}
