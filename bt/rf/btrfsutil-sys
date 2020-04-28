@@ -1,0 +1,1 @@
+{"name":"btrfsutil-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"997d25a30ca970d7303c3c8671fd473382ea9accd98b7b50e2944188f0aa1ba0","features":{},"yanked":false,"links":"libbtrfsutil"}
