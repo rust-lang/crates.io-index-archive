@@ -1,2 +1,3 @@
 {"name":"ocaml-sys","vers":"0.10.0","deps":[],"cksum":"096bcdc108e8db04bc2c3aa45c70d8b13a21ef1f022b5a9d07cf1c3e5f1346d9","features":{"link":[]},"yanked":false,"links":null}
 {"name":"ocaml-sys","vers":"0.10.1","deps":[],"cksum":"5dd205480e29cad6b15f5a76f8fdceb6743a1af2ef7f92c0a3fe8ce42a74e72f","features":{"link":[],"docs-rs":[]},"yanked":false,"links":null}
+{"name":"ocaml-sys","vers":"0.11.0","deps":[],"cksum":"3da6c61177f253e15d3eddf558d070f66b15cc59296a1f0df8c1fc6ba41da094","features":{"link":[],"docs-rs":[]},"yanked":false,"links":null}
