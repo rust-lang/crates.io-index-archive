@@ -1,2 +1,3 @@
 {"name":"alloc-compose","vers":"0.1.0","deps":[{"name":"alloc","req":"^0.8.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal","package":"alloc-wg"}],"cksum":"c8a2dfde843643feb534a03a4c4bf9235f7817ab3e5056d6680a333cc34a6ea9","features":{},"yanked":false,"links":null}
 {"name":"alloc-compose","vers":"0.2.0","deps":[],"cksum":"07dbdbb79ba14bbe7686c567c44d14c76f93983fe99d8493f31cb61f5c2e420b","features":{"alloc":[]},"yanked":false,"links":null}
+{"name":"alloc-compose","vers":"0.3.0","deps":[],"cksum":"4b01c47a64c2fce35f6671b09f37f47d52840333f7366147e20235bd7fef478e","features":{"default":["alloc"],"alloc":[]},"yanked":false,"links":null}
