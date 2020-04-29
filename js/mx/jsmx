@@ -1,2 +1,3 @@
 {"name":"jsmx","vers":"0.0.1","deps":[],"cksum":"3a1e365cec9dceaa19c8ae673b3acab8d29205e516866608ea92216b8f6ec385","features":{},"yanked":false,"links":null}
 {"name":"jsmx","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b26bee20a4a9934581fc55cd785e737a1297469578339af0c9be8d207fe33ac1","features":{},"yanked":false,"links":null}
+{"name":"jsmx","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b562d3cbb872865119753d22962a23a6be925797d8eed45fbbbaa7d6e46949d4","features":{},"yanked":false,"links":null}
