@@ -1,1 +1,2 @@
 {"name":"vmcircbuf","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"121efe6db9f66f398bb92f58e06887205e6668941b25ea9f7324d81b022d00a5","features":{},"yanked":false,"links":null}
+{"name":"vmcircbuf","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75d4bb2db4863729d1615b72f83e9d8df5fbb7a98c793f5f2a42215fc1ce1a89","features":{},"yanked":false,"links":null}
