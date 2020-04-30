@@ -1,0 +1,1 @@
+{"name":"force_graph","vers":"0.1.0","deps":[{"name":"petgraph","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"051cf30453dc8023a9e7996b1bec840c86cdc2a75f4d325d557ee1c0f7af6800","features":{},"yanked":false,"links":null}
