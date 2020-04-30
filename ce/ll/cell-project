@@ -1,0 +1,1 @@
+{"name":"cell-project","vers":"0.1.0","deps":[{"name":"trybuild","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7f13f68075a3f902eb432a993f3f9b31ede623050c406743e0a92cac3cb94755","features":{"nightly":[]},"yanked":false,"links":null}
