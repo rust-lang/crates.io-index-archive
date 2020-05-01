@@ -5,3 +5,4 @@
 {"name":"sugars","vers":"0.5.0","deps":[],"cksum":"fa6a022176ad40376aea7ecf68534f68b855c3605fad441bcc7ae214a52d7bb3","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"sugars","vers":"1.0.0","deps":[],"cksum":"7388f13a5c2097250cb8aab18cfcc6627af674d4ed8252c5ebb5b640a5a91329","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"sugars","vers":"1.1.0","deps":[],"cksum":"f10c9497bd867f8c4b83e9a1e2f86553653a0bcf18ee4eb8d2f7a300bb874a24","features":{},"yanked":false,"links":null}
+{"name":"sugars","vers":"1.2.0","deps":[],"cksum":"38fad632f598f92d1560d0d8227600efd650d98426603fad600a7b0e5c8f9317","features":{},"yanked":false,"links":null}
