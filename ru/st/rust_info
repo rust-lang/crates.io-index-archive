@@ -18,3 +18,4 @@
 {"name":"rust_info","vers":"0.2.1","deps":[],"cksum":"be46439b7356d2df92f39ef8a323e5041518e6b27e8f34a6644b7f2943d70499","features":{},"yanked":false,"links":null}
 {"name":"rust_info","vers":"0.2.2","deps":[],"cksum":"6e4e04a5022c08c95c2285b0beb4cdd24c9b20bc018a263d6fdb0372f7a597db","features":{},"yanked":false,"links":null}
 {"name":"rust_info","vers":"0.3.0","deps":[],"cksum":"be941f2b996df7ffaf093366039c9dc182b3ca2e00f3e81df44e08c3611e773d","features":{},"yanked":false,"links":null}
+{"name":"rust_info","vers":"0.3.1","deps":[{"name":"doc-comment","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rusty-hook","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"02b506bd796703b88d74a3edb529acde6c71d81bb078c392eecd60a745cb1d2f","features":{},"yanked":false,"links":null}
