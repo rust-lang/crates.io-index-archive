@@ -1,0 +1,1 @@
+{"name":"simple_prompts","vers":"0.1.0","deps":[{"name":"rustyline","req":"^6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccf4e8f657569c0109a4d469de381b6e8c85a45b91623c0509b79ee2b5a46071","features":{},"yanked":false,"links":null}
