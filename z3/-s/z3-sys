@@ -3,3 +3,4 @@
 {"name":"z3-sys","vers":"0.3.0","deps":[],"cksum":"b9b683d22042dbcd04b737ba483fc6d0242a4a58289803d096154b3e007f963d","features":{},"yanked":false,"links":null}
 {"name":"z3-sys","vers":"0.4.0","deps":[],"cksum":"1dff903712349c6fa80acbd690641acd98f170a2e01b6f28f8fdcf850e2d4500","features":{},"yanked":false,"links":null}
 {"name":"z3-sys","vers":"0.5.0","deps":[],"cksum":"ae57b4c31eabc2620fbf2ea3e4deac2cd8a12522ccc0ebcc29e60dff8137de31","features":{},"yanked":false,"links":null}
+{"name":"z3-sys","vers":"0.6.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"2487974559d1494e8e8925df85362d6109ae5555092510508a5b1077346c2833","features":{"static-link-z3":["cmake"]},"yanked":false,"links":"z3"}
