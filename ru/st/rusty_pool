@@ -1,1 +1,2 @@
 {"name":"rusty_pool","vers":"0.1.0","deps":[{"name":"crossbeam","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"522de54651efc5eef87f3557b4720290a8a057cc4b708684cab3a655a4f17fe4","features":{},"yanked":false,"links":null}
+{"name":"rusty_pool","vers":"0.2.0","deps":[{"name":"crossbeam","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed133b68ca9a593b8bde29b6a4a4bfaaeabb8a8396ae8856bbb89c032d75a302","features":{},"yanked":false,"links":null}
