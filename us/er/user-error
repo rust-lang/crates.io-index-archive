@@ -11,3 +11,4 @@
 {"name":"user-error","vers":"1.2.3","deps":[],"cksum":"a0ae6622b149a36f20c2590879dc55470ec23a6b65fee25a6900543ea107858d","features":{},"yanked":false,"links":null}
 {"name":"user-error","vers":"1.2.4","deps":[],"cksum":"b506269be85874252f64ca8701973de7231d13f4e9f5701ceaf440d8c17e3224","features":{},"yanked":false,"links":null}
 {"name":"user-error","vers":"1.2.5","deps":[{"name":"quote","req":"^1.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9d77976c1305cf3122c976658f6098e3db674c7834f66033ee596810f67affd","features":{},"yanked":false,"links":null}
+{"name":"user-error","vers":"1.2.6","deps":[],"cksum":"e644323cc2437fe37a7472e405ee869fadcf14829c50d13dbe7e7e318a020e9b","features":{},"yanked":false,"links":null}
