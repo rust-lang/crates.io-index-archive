@@ -1,0 +1,1 @@
+{"name":"hexpm","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.10","features":["json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3ab2925fe476dee8a2d0799c655b0e96f91b04258a59d0bed05cba0d027240e","features":{},"yanked":false,"links":null}
