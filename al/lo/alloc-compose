@@ -2,3 +2,4 @@
 {"name":"alloc-compose","vers":"0.2.0","deps":[],"cksum":"07dbdbb79ba14bbe7686c567c44d14c76f93983fe99d8493f31cb61f5c2e420b","features":{"alloc":[]},"yanked":false,"links":null}
 {"name":"alloc-compose","vers":"0.3.0","deps":[],"cksum":"4b01c47a64c2fce35f6671b09f37f47d52840333f7366147e20235bd7fef478e","features":{"default":["alloc"],"alloc":[]},"yanked":false,"links":null}
 {"name":"alloc-compose","vers":"0.3.1","deps":[],"cksum":"5fd2da49c94a47f9be4391c3715bc9d88d17044ca1a7b47962935a006e651fba","features":{"alloc":[],"default":["alloc"]},"yanked":false,"links":null}
+{"name":"alloc-compose","vers":"0.4.0","deps":[],"cksum":"2434af793ba41be0935175633ea2c7dd879ca123d4cf11741bd87148d641d7e9","features":{"default":["alloc"],"alloc":[]},"yanked":false,"links":null}
