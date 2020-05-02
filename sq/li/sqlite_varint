@@ -1,0 +1,1 @@
+{"name":"sqlite_varint","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"db7f930681fa00346b0b5f2b9bb4a570abbc4dff270744d7794fb8d3c4d39cc3","features":{},"yanked":false,"links":null}
