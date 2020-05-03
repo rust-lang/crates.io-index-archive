@@ -1,1 +1,2 @@
 {"name":"pasts","vers":"0.0.1","deps":[],"cksum":"cdf4ff46329727b95b3b2cb92f3196af205e248bb205fd73901eea6d82720e83","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"pasts","vers":"0.1.0","deps":[],"cksum":"61da638475b0f8601ef7aced77372366ac78511a180cc619fe2fde32e37d3f13","features":{"std":[],"default":["std"],"docs-rs":[]},"yanked":false,"links":null}
