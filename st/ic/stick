@@ -7,3 +7,4 @@
 {"name":"stick","vers":"0.6.0","deps":[],"cksum":"5ad82d80506e08db374670fe39e24b10371af971ba5e5063b82823bdc506a29b","features":{},"yanked":false,"links":null}
 {"name":"stick","vers":"0.7.0","deps":[],"cksum":"83bb559211fb0f29f0ddb3fcbb7aa44875ff838e33b335cc3209c5c7e06d6684","features":{},"yanked":false,"links":null}
 {"name":"stick","vers":"0.7.1","deps":[],"cksum":"eeedb4a874e068dbab2652995defea8600560af19bad1ea3ec8e2a9ad13d445b","features":{},"yanked":false,"links":null}
+{"name":"stick","vers":"0.8.0","deps":[{"name":"pasts","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"smelling_salts","req":"^0.1","features":[],"optional":false,"default_features":true,"target":"cfg(all(not(target_arch = \"wasm32\"), target_os = \"linux\"))","kind":"normal"}],"cksum":"ec6f71b7f27bd43a1ecd33f3ec041eb53ad77b0113a048031653854233bc7298","features":{"default":[],"docs-rs":[],"std":[]},"yanked":false,"links":null}
