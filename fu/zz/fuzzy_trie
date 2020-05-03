@@ -1,0 +1,1 @@
+{"name":"fuzzy_trie","vers":"0.2.0","deps":[{"name":"levenshtein_automata","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2bd73a252f52c785464b7e7361c1831a6f11ca05e38a5061eeb6e5151ffe855e","features":{},"yanked":false,"links":null}
