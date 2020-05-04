@@ -8,3 +8,4 @@
 {"name":"hash-chain","vers":"0.2.5","deps":[],"cksum":"07cef88ac0b3915a6439e1ad0d3be84ca4030b24a5e78ab9932913faad92ed14","features":{},"yanked":false,"links":null}
 {"name":"hash-chain","vers":"0.2.6","deps":[],"cksum":"43f89a9fec762e82e651baabde42adc82c649fd1361944e334a99f1061f83070","features":{},"yanked":true,"links":null}
 {"name":"hash-chain","vers":"0.3.0","deps":[],"cksum":"2106c38c9afc567d946949f30d039b10c590ee10c6fcda013984c87dff63828e","features":{},"yanked":false,"links":null}
+{"name":"hash-chain","vers":"0.3.1","deps":[],"cksum":"cd7f5b2926d6cf007df2faaf9544852e8643e4551fa5b57acbf47e68dade187a","features":{},"yanked":false,"links":null}
