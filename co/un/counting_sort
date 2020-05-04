@@ -1,1 +1,2 @@
 {"name":"counting_sort","vers":"1.0.0","deps":[{"name":"oorandom","req":"^11.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3c57a38c8fc08f812f0c4d52002152924c896598c34955162cfe12011d0aea0f","features":{},"yanked":false,"links":null}
+{"name":"counting_sort","vers":"1.0.1","deps":[{"name":"oorandom","req":"^11.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4a1a151ff0b3611bc35c8e0db4121a8ac0660f4293e7ec8cc65cddae5c88ea67","features":{},"yanked":false,"links":null}
