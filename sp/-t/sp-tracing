@@ -1,0 +1,1 @@
+{"name":"sp-tracing","vers":"2.0.0-alpha.7","deps":[{"name":"tracing","req":"^0.1.13","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11a4caabab12ba64d7e5d3ff6d2d5a698425227eb8c697f8b3dcac67813a192b","features":{"default":["std"],"std":["tracing"]},"yanked":false,"links":null}
