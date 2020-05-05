@@ -1,1 +1,2 @@
 {"name":"character_converter","vers":"0.1.0","deps":[{"name":"bincode","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3fd820decddbdce7678c7e71dbfa8998ed818aca947be2d53f000ff550c25ffb","features":{},"yanked":false,"links":null}
+{"name":"character_converter","vers":"0.1.1","deps":[{"name":"bincode","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d60df93d9800f1cccbc6cbcb15d126e8b61acb53ac765fbce3ced1784d8057b4","features":{},"yanked":false,"links":null}
