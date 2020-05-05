@@ -1,0 +1,1 @@
+{"name":"character_converter","vers":"0.1.0","deps":[{"name":"bincode","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3fd820decddbdce7678c7e71dbfa8998ed818aca947be2d53f000ff550c25ffb","features":{},"yanked":false,"links":null}
