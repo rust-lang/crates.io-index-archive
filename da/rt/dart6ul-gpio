@@ -1,0 +1,1 @@
+{"name":"dart6ul-gpio","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d677d3d403221b542adbedae99126d6b93c3912ef3dd7e8da0cfd00d65dd5436","features":{},"yanked":false,"links":null}
