@@ -1,1 +1,2 @@
 {"name":"sic_testing","vers":"0.10.0","deps":[],"cksum":"b9978652c16017edb50bf97e7d905be26a6d2a3e6d12a337725ca0789a71a56f","features":{},"yanked":false,"links":null}
+{"name":"sic_testing","vers":"0.11.0","deps":[{"name":"parameterized","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sic_core","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28854cd6a8e9957d1dcb6ae6cfcab55cc263b18ddf5a5e30a316f83115ae028f","features":{},"yanked":false,"links":null}
