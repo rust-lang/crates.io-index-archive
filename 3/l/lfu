@@ -1,0 +1,1 @@
+{"name":"lfu","vers":"0.1.0","deps":[{"name":"linked_hash_set","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"607afe1297c4d90fd0b79370c6258cf5ef1faa50c08795b64dbd3bad32cdbc17","features":{},"yanked":false,"links":null}
