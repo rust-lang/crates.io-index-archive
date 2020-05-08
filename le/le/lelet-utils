@@ -5,3 +5,4 @@
 {"name":"lelet-utils","vers":"0.1.4","deps":[{"name":"crossbeam-utils","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f07eae41e375c42d60ccb271da7285437c59f40888df91ccbeffed370fac1382","features":{},"yanked":true,"links":null}
 {"name":"lelet-utils","vers":"0.1.5","deps":[{"name":"crossbeam-utils","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed238f4db953ddf230ab6112a4f9cd68cacaf801704465aa93b4943df1375c1d","features":{},"yanked":true,"links":null}
 {"name":"lelet-utils","vers":"0.2.0","deps":[],"cksum":"be70481ff2abf476e74ba8e4c4067131d58d6a42a44a0c355303a1547c2462de","features":{},"yanked":false,"links":null}
+{"name":"lelet-utils","vers":"0.2.1","deps":[],"cksum":"7e991e1178441c7346b7fd70f67167c0ed0459e941393a761432aa757b8963ae","features":{},"yanked":false,"links":null}
