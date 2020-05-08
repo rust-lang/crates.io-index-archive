@@ -1,0 +1,1 @@
+{"name":"sage_broker","vers":"0.1.0","deps":[{"name":"sage_mqtt","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01874613d11b67b38b567cf92c598bd9e3b64e901d451d70e2aa7977c51a34f2","features":{},"yanked":false,"links":null}
