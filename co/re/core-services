@@ -1,0 +1,1 @@
+{"name":"core-services","vers":"0.1.0","deps":[{"name":"core-foundation","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76f23fa5f5afd6e066814db7efc5756420627861e33a91c09aa2d131e7ddfa70","features":{},"yanked":false,"links":null}
