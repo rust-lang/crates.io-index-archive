@@ -1,0 +1,1 @@
+{"name":"assemble","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d51131225bc3ddc80008cae731c962dfb8171f281a4adf417fcdfc8e566ea164","features":{},"yanked":false,"links":null}
