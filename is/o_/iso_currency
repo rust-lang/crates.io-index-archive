@@ -1,2 +1,3 @@
 {"name":"iso_currency","vers":"0.1.0","deps":[],"cksum":"5d5bc4d3d7c1a7b66b1941cc2b4cfe783d96d0763e21683cb0047eb6cc497096","features":{},"yanked":false,"links":null}
 {"name":"iso_currency","vers":"0.2.0","deps":[],"cksum":"7587cd08708a0c04be5a7b68be5b50aac31b865d54c67b0468c4b0b4e5015807","features":{},"yanked":false,"links":null}
+{"name":"iso_currency","vers":"0.2.1","deps":[{"name":"serde","req":"^1.0.107","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0.52","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6a4c8f7be5af959a1fa0d31fb8bee4cca59f012926e60984da1ea0da913ddaff","features":{"with-serde":["serde"],"default":[]},"yanked":false,"links":null}
