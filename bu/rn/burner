@@ -1,1 +1,2 @@
 {"name":"burner","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6855389c44d24c38906ad06c70691d28da702a171d5d603cac6b062fecc37304","features":{},"yanked":false,"links":null}
+{"name":"burner","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a4cff60fca97116827707a3f66256c3f1a3ee1f9f2f0f73ca4f5dc51e8d5070","features":{},"yanked":false,"links":null}
