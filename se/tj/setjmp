@@ -1,0 +1,1 @@
+{"name":"setjmp","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57a4a1d465f5de0833aed8a7c76b1c01606bc8160c5a7d2c0108867dfffdfef3","features":{},"yanked":false,"links":null}
