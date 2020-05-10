@@ -1,1 +1,2 @@
 {"name":"mod_language","vers":"0.1.0","deps":[],"cksum":"583fb9a3ae3bc84674679e1e90561cc30c9ff27b15fe9476d1a061bc9e9b313b","features":{},"yanked":false,"links":null}
+{"name":"mod_language","vers":"0.1.2","deps":[{"name":"backtrace","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"mod_utilities","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3aa7a66d078906adb6644f075068cbfa1352c021d866b66f784604ad982f884","features":{},"yanked":false,"links":null}
