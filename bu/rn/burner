@@ -1,0 +1,1 @@
+{"name":"burner","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6855389c44d24c38906ad06c70691d28da702a171d5d603cac6b062fecc37304","features":{},"yanked":false,"links":null}
