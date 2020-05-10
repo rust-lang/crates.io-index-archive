@@ -9,3 +9,4 @@
 {"name":"hash-chain","vers":"0.2.6","deps":[],"cksum":"43f89a9fec762e82e651baabde42adc82c649fd1361944e334a99f1061f83070","features":{},"yanked":true,"links":null}
 {"name":"hash-chain","vers":"0.3.0","deps":[],"cksum":"2106c38c9afc567d946949f30d039b10c590ee10c6fcda013984c87dff63828e","features":{},"yanked":false,"links":null}
 {"name":"hash-chain","vers":"0.3.1","deps":[],"cksum":"cd7f5b2926d6cf007df2faaf9544852e8643e4551fa5b57acbf47e68dade187a","features":{},"yanked":false,"links":null}
+{"name":"hash-chain","vers":"0.3.2","deps":[{"name":"im-rc","req":"^14","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"hashers","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4ae1e9c6caefb8e1fb1be731642c99a7d5803d2282ee890f78dce35aeee988b2","features":{"default":[],"imutable":["im-rc"]},"yanked":false,"links":null}
