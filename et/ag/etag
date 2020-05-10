@@ -5,3 +5,4 @@
 {"name":"etag","vers":"1.0.2","deps":[],"cksum":"47877959f930c68d1a3594d6509293928a2176808031cbb20518915f237bfdb0","features":{},"yanked":false,"links":null}
 {"name":"etag","vers":"1.0.3","deps":[],"cksum":"933d058a1306808c7e81fe76c36778056b0b3cc3a2ed4be155c99dfb18f0ce09","features":{},"yanked":false,"links":null}
 {"name":"etag","vers":"2.0.0","deps":[{"name":"wy","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be133e07b86981fc580893bea7cac5cb2950e67d6c78523ff1695ba04652956d","features":{"std":[]},"yanked":false,"links":null}
+{"name":"etag","vers":"2.0.1","deps":[{"name":"wy","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e6e1ce4c10daf2cf82d296745c998f315ffd2c81794eb87262c87055bc8d537","features":{"std":[]},"yanked":false,"links":null}
