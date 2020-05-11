@@ -1,0 +1,1 @@
+{"name":"cargo-jumpstart","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a59139a5d472d40101e94d9bfed7e9eac69ea2919ad42dabc35cce768af740a7","features":{},"yanked":false,"links":null}
