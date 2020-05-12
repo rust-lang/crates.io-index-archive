@@ -6,3 +6,4 @@
 {"name":"moving_gc_arena","vers":"0.2.3","deps":[],"cksum":"a4758e91fad651a54b1419525dc2c76f24b81a95061d5095fc4d4d46ba822c3c","features":{"debug-arena":[],"packed-headers":[]},"yanked":false,"links":null}
 {"name":"moving_gc_arena","vers":"0.2.4","deps":[],"cksum":"57051fb71b3b1af481d8111d32ff7256fcbc2957e1d9bcc0670d118748af6bc9","features":{"debug-arena":[],"packed-headers":[]},"yanked":false,"links":null}
 {"name":"moving_gc_arena","vers":"0.2.5","deps":[],"cksum":"2cc9d4b1e2b30c87b5151ad9e3a149fbf9050a1bb178209b1a45f185ca9af919","features":{"packed-headers":[],"debug-arena":[]},"yanked":false,"links":null}
+{"name":"moving_gc_arena","vers":"0.2.6","deps":[],"cksum":"c633f0cdeb914b2f78198b3721e1289a55fedaf503adee723dd50136ffb72833","features":{"packed-headers":[],"debug-arena":[]},"yanked":false,"links":null}
