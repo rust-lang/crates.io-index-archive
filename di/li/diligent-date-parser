@@ -1,0 +1,1 @@
+{"name":"diligent-date-parser","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9842bdac146cd03b14b3c6056cd9856124b226cfe97c92159a00e122bd1a694","features":{},"yanked":false,"links":null}
