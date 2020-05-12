@@ -1,0 +1,1 @@
+{"name":"srcpos","vers":"1.0.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3693b62c48f1634369ed858d95f1ce4a4b170adc418e84bebf41276d23d6bfa5","features":{"default":["serde"]},"yanked":false,"links":null}
