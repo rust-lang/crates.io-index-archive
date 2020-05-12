@@ -24,3 +24,4 @@
 {"name":"rustengine","vers":"1.0.23","deps":[],"cksum":"943080bef789af68d9064e25293a51b39bf6987976d53ed393ccb5ba16759c60","features":{},"yanked":false,"links":null}
 {"name":"rustengine","vers":"1.0.24","deps":[],"cksum":"993b77b81427a9d587d3eb614006fa40d216401687decd914e0e7be44ba090f9","features":{},"yanked":false,"links":null}
 {"name":"rustengine","vers":"1.0.25","deps":[],"cksum":"bc881dca202f6334df38498669bf0028da2fbe3d697ef8d8682aceac40ef2c1b","features":{},"yanked":false,"links":null}
+{"name":"rustengine","vers":"1.0.26","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4859929ff5a441861ae4f8f59a5388d0f450a3e0dea2674a52e317e591ba0d7","features":{},"yanked":false,"links":null}
