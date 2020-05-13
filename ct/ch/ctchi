@@ -5,3 +5,4 @@
 {"name":"ctchi","vers":"0.4.1","deps":[],"cksum":"be8acbbeeb1897aa91efa031e17b44ced49fd86a4c04c1ea711ece3bb9d2ae15","features":{},"yanked":false,"links":null}
 {"name":"ctchi","vers":"0.5.0","deps":[],"cksum":"1b25ba81823e627e25a3f550d6f3a46156be4229851aa633014ddd2278c938be","features":{},"yanked":false,"links":null}
 {"name":"ctchi","vers":"0.6.0","deps":[],"cksum":"07be7a9af6a3f513f4335079889074621cb09c1a3b30aadcbe8236a46a1fae11","features":{},"yanked":false,"links":null}
+{"name":"ctchi","vers":"0.7.0","deps":[{"name":"ctchi_codegen","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8802bcf01a5f7a1b95408a1b2222cb2441c5845b55e6b9e1a0826d7b6308fff","features":{},"yanked":false,"links":null}
