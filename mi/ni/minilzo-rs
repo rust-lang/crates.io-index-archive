@@ -1,1 +1,2 @@
 {"name":"minilzo-rs","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"79fbd2039a27fbf00849cdc49c7b129b2af493741db9f522a75345dce505e27e","features":{},"yanked":false,"links":null}
+{"name":"minilzo-rs","vers":"0.2.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"117982fc22464f8aba957071bb3476ca07c777885a8e41c445bcdfb8784c5051","features":{},"yanked":false,"links":null}
