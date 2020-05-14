@@ -5,3 +5,4 @@
 {"name":"fnv","vers":"1.0.4","deps":[],"cksum":"8e8af7b5408ab0c4910cad114c8f9eb454bf75df7afe8964307eeafb68a13a5e","features":{},"yanked":false}
 {"name":"fnv","vers":"1.0.5","deps":[],"cksum":"6cc484842f1e2884faf56f529f960cc12ad8c71ce96cc7abba0a067c98fee344","features":{},"yanked":false}
 {"name":"fnv","vers":"1.0.6","deps":[],"cksum":"2fad85553e09a6f881f739c29f0b00b0f01357c743266d478b68951ce23285f3","features":{},"yanked":false}
+{"name":"fnv","vers":"1.0.7","deps":[],"cksum":"3f9eec918d3f24069decb9af1554cad7c880e2da24a9afd88aca000531ab82c1","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
