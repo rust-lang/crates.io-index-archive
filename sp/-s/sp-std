@@ -3,3 +3,4 @@
 {"name":"sp-std","vers":"2.0.0-alpha.5","deps":[],"cksum":"752e038359704226bb5737531fb91df2e4ab33214e0be6eb6f32ad688a71b411","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"sp-std","vers":"2.0.0-alpha.6","deps":[],"cksum":"eca806523d5df8082c89da042e31292f0c8f6e6ad9c3cfc312edfffde6a08490","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"sp-std","vers":"2.0.0-alpha.7","deps":[],"cksum":"6e32241a20350ba20f445c73fec53b4c904559756b922ca2c3dda87ab2c1be9e","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"sp-std","vers":"2.0.0-alpha.8","deps":[],"cksum":"be5b34f340ab6df2f41bbc308971f1b3f35d6bb07a76df6227e865a75a01a167","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
