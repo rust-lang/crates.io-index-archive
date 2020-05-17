@@ -1,0 +1,1 @@
+{"name":"miracl_core","vers":"1.0.0","deps":[],"cksum":"4330eca86d39f2b52d0481aa1e90fe21bfa61f11b0bf9b48ab95595013cefe48","features":{"bls381":[],"default":["bls381"],"secp256k1":[],"ed25519":[],"bn254":[]},"yanked":false,"links":null}
