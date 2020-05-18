@@ -21,3 +21,4 @@
 {"name":"wavefront_rs","vers":"0.4.11","deps":[],"cksum":"076b7b5021a5fe12fe9908d4dbd20219076217b97498971fa44f4218f4d51b4a","features":{},"yanked":false,"links":null}
 {"name":"wavefront_rs","vers":"1.0.0","deps":[],"cksum":"c89748867f5f49fb6d311e26e664ada32998a10e7b1f4228d1f1794736e77226","features":{},"yanked":false,"links":null}
 {"name":"wavefront_rs","vers":"1.0.1","deps":[],"cksum":"c3e42b33cad9c3373bf67e442d804d516aace8fe7d2d08bb47cc4289ddaa99c9","features":{},"yanked":false,"links":null}
+{"name":"wavefront_rs","vers":"1.0.2","deps":[],"cksum":"66ae21a4abdd8eb90ce6451af0efecdb662ab9db5375acf6507f04afa62a647b","features":{},"yanked":false,"links":null}
