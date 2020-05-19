@@ -5,3 +5,4 @@
 {"name":"jsonc-parser","vers":"0.5.0","deps":[],"cksum":"9b23ba882af23e81d23ff75e1e47518ca6987611689411dca7291c61b168831d","features":{},"yanked":false,"links":null}
 {"name":"jsonc-parser","vers":"0.6.0","deps":[],"cksum":"ecba0d18f35b243266024b801c4272e21cb685f40c5cd7b855167a58895a6886","features":{},"yanked":false,"links":null}
 {"name":"jsonc-parser","vers":"0.7.0","deps":[],"cksum":"175600e0c52cef83c4026f5b88348b189f801d2c8fd5fe150f51f2d43869722a","features":{},"yanked":false,"links":null}
+{"name":"jsonc-parser","vers":"0.8.0","deps":[],"cksum":"121ca4e5f3527a8d029e76379a983c899e026414aa116cf14a9d91df47d8b411","features":{},"yanked":false,"links":null}
