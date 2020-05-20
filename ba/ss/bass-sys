@@ -1,0 +1,1 @@
+{"name":"bass-sys","vers":"1.0.0","deps":[{"name":"widestring","req":"^0.4","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"windows\")","kind":"normal"}],"cksum":"33d2465f99c5b87496e26955b2f7d882f24d0f1f8f8c916cfbb3e55e4b141a72","features":{},"yanked":false,"links":null}
