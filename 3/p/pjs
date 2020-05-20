@@ -1,1 +1,2 @@
 {"name":"pjs","vers":"0.1.0","deps":[],"cksum":"f9ce49d4d70cb55a8d304c368abedc7c7c89d0b8aea59ee3a10051086f71f8c6","features":{},"yanked":false,"links":null}
+{"name":"pjs","vers":"0.1.1","deps":[{"name":"clap","req":"^2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4da2b55c66b9e8cf612c6afd4957d63a746eee8b1fdc8c3064b498d79e3b7fc6","features":{},"yanked":false,"links":null}
