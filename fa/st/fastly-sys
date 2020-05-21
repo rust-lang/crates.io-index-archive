@@ -1,0 +1,1 @@
+{"name":"fastly-sys","vers":"0.3.3","deps":[{"name":"fastly-shared","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6206b617d4124353ea6b2cbe3e9910409dc321f4bdb2d467fb40bc6e9eafaeec","features":{},"yanked":false,"links":null}
