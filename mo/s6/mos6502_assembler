@@ -1,0 +1,1 @@
+{"name":"mos6502_assembler","vers":"0.1.0","deps":[{"name":"mos6502_model","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c266787d7fe707c8419a7ac1c42c62ca625e75543e74566643066d63d35635e","features":{},"yanked":false,"links":null}
