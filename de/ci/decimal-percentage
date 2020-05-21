@@ -1,1 +1,1 @@
-{"name":"decimal-percentage","vers":"0.1.0","deps":[{"name":"rust_decimal","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"347649adf0ce783942fc06cd5dcb3d2a6bb9a26d5ad22638fee68c40f30d72c8","features":{},"yanked":false,"links":null}
+{"name":"decimal-percentage","vers":"0.1.0","deps":[{"name":"rust_decimal","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"347649adf0ce783942fc06cd5dcb3d2a6bb9a26d5ad22638fee68c40f30d72c8","features":{},"yanked":true,"links":null}
