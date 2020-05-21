@@ -1,0 +1,1 @@
+{"name":"repr_offset","vers":"0.0.1","deps":[{"name":"rustc_version","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7f7641a4e405553c593dcbc88b5736ec40b0f591093c6ffd172e2ff285b4d297","features":{"test_nightly":["testing","priv_raw_ref"],"testing":[],"priv_raw_ref":[]},"yanked":false,"links":null}
