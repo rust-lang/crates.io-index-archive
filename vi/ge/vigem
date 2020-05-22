@@ -3,3 +3,4 @@
 {"name":"vigem","vers":"0.3.0","deps":[],"cksum":"f7436cbe8441fbde25b3d995a1c674f47949b3665bf4908db0eb33d056bc685f","features":{},"yanked":false,"links":null}
 {"name":"vigem","vers":"0.4.0","deps":[],"cksum":"b2b10850a7980406d862b38d6c5445f830e628a6a86081bcbeddbe61bf3feb87","features":{},"yanked":false,"links":null}
 {"name":"vigem","vers":"0.5.0","deps":[],"cksum":"e3ffed465e2501a045efec8f9ef72ecd3c5bb4049ee01cfddbfaf6f0c5491a22","features":{},"yanked":false,"links":null}
+{"name":"vigem","vers":"0.6.0","deps":[{"name":"bitflags","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"vigem-sys","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ec9f26031a066b78e518eac0a77bed7856ffd77b3e3e9d0c38c5e2f335d2d23","features":{},"yanked":false,"links":null}
