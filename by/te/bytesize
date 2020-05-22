@@ -9,3 +9,4 @@
 {"name":"bytesize","vers":"0.2.3","deps":[],"cksum":"ad99ce910c446a09b85be96c291886acbdaf5a72be71710356cac6b27e82017e","features":{},"yanked":false,"links":null}
 {"name":"bytesize","vers":"0.2.4","deps":[],"cksum":"44979ffc31695658c151b546c978136afa54999556515e72906aa3eb94138986","features":{},"yanked":false,"links":null}
 {"name":"bytesize","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"716960a18f978640f25101b5cbf1c6f6b0d3192fab36a2d98ca96f0ecbe41010","features":{},"yanked":false,"links":null}
+{"name":"bytesize","vers":"1.0.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81a18687293a1546b67c246452202bbbf143d239cb43494cc163da14979082da","features":{},"yanked":false,"links":null}
