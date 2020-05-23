@@ -1,0 +1,1 @@
+{"name":"koibumi-socks","vers":"0.0.0","deps":[{"name":"async-std","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80082691e20f4e214be6243df2d14411aa33ea916592caedd3a55c033071f394","features":{},"yanked":false,"links":null}
