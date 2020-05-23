@@ -1,0 +1,1 @@
+{"name":"simple-mutex","vers":"1.0.0","deps":[{"name":"event-listener","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f4d940ae60e7a64f9a064215aa59309aaa8b48bb12eba13a241929525984c77","features":{},"yanked":false,"links":null}
