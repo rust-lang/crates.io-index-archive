@@ -1,2 +1,2 @@
-{"name":"idea","vers":"0.0.0","deps":[],"cksum":"192e5daaafcd0fb40b72a6eec4171f29fbfb59af07e24273c5255034c8e67d53","features":{},"yanked":false}
+{"name":"idea","vers":"0.0.0","deps":[],"cksum":"192e5daaafcd0fb40b72a6eec4171f29fbfb59af07e24273c5255034c8e67d53","features":{},"yanked":true,"links":null}
 {"name":"idea","vers":"0.0.1","deps":[{"name":"block-cipher-trait","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"opaque-debug","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5497c2118de08c9f633bf6f7eb6efcd9a09409a4129d59a68e3489b43bd157ea","features":{},"yanked":false,"links":null}
