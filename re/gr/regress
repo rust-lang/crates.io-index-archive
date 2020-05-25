@@ -1,0 +1,1 @@
+{"name":"regress","vers":"0.1.0","deps":[],"cksum":"08c75bd8002fdc306eebdc03c084a83862a5734d1a4b02bb41172d0204b03b7f","features":{"prohibit-unsafe":[],"default":["backend-pikevm"],"backend-pikevm":[],"dump-phases":[]},"yanked":false,"links":null}
