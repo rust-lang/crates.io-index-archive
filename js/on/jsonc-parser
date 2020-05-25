@@ -8,3 +8,4 @@
 {"name":"jsonc-parser","vers":"0.8.0","deps":[],"cksum":"121ca4e5f3527a8d029e76379a983c899e026414aa116cf14a9d91df47d8b411","features":{},"yanked":false,"links":null}
 {"name":"jsonc-parser","vers":"0.9.0","deps":[],"cksum":"9b0daf2b37d41211835b0a7f5dc4d3312bc083077a64fbbc36ec33fbc5438bce","features":{},"yanked":false,"links":null}
 {"name":"jsonc-parser","vers":"0.10.0","deps":[{"name":"pretty_assertions","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4531f13b1952916e79bf6131f669bf573811eadb539183f83d3d8e62ca3a6e38","features":{},"yanked":false,"links":null}
+{"name":"jsonc-parser","vers":"0.11.0","deps":[{"name":"pretty_assertions","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0c203c47301a421584a12d5f478618c65c8f721b5c1db5feb98b0140092a80d2","features":{},"yanked":false,"links":null}
