@@ -1,1 +1,2 @@
 {"name":"regress","vers":"0.1.0","deps":[],"cksum":"08c75bd8002fdc306eebdc03c084a83862a5734d1a4b02bb41172d0204b03b7f","features":{"prohibit-unsafe":[],"default":["backend-pikevm"],"backend-pikevm":[],"dump-phases":[]},"yanked":false,"links":null}
+{"name":"regress","vers":"0.1.1","deps":[],"cksum":"969a36c1e7bc077f5b6b241da2d0e25cc6727dadd97a8d4bdd83ecaa3d1affad","features":{"default":["backend-pikevm"],"prohibit-unsafe":[],"backend-pikevm":[],"dump-phases":[]},"yanked":false,"links":null}
