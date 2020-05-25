@@ -1,2 +1,3 @@
 {"name":"tear","vers":"0.1.0","deps":[],"cksum":"a511166f2d7522f0867dd4526d8d44d2dc6058ab5ad31bb18df492be14039589","features":{},"yanked":false,"links":null}
 {"name":"tear","vers":"0.1.1","deps":[],"cksum":"5ca20dc548baa7c348afa817d2724ad7093631521249e601d00e30721052c478","features":{},"yanked":false,"links":null}
+{"name":"tear","vers":"0.2.0","deps":[{"name":"either","req":"^1.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"trybuild","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ba5db50dfd6e012ba49c43b5b8edf7db38e2d51ba57d388dbf77344f8ad459d7","features":{"ignore-ui":[],"combinators":["either"],"experimental":[]},"yanked":false,"links":null}
