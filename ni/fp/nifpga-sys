@@ -1,0 +1,1 @@
+{"name":"nifpga-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89138ecfcc2e88d342d2565556710676c758a04e9dbef0f758bbf9ffaaf0416e","features":{},"yanked":false,"links":null}
