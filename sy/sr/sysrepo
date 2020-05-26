@@ -1,0 +1,1 @@
+{"name":"sysrepo","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.54.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"794f7c753f081b4bbb7d2b73aed0c62ff44fcd37d02aed1a82bbbc0ab1da7b1e","features":{},"yanked":false,"links":null}
