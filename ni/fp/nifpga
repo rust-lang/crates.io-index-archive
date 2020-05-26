@@ -1,0 +1,1 @@
+{"name":"nifpga","vers":"0.1.0","deps":[{"name":"nifpga-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef06111ac8245ca6580c1a513dbcc4edcdc9fedefc68fa87c444c2c2bdb332ce","features":{},"yanked":false,"links":null}
