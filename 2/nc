@@ -19,3 +19,4 @@
 {"name":"nc","vers":"0.4.8","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"40f7ac28aa53042963adef8380d5d706d50a7fe121c5b01f7529f97ad5c740d5","features":{},"yanked":false,"links":null}
 {"name":"nc","vers":"0.4.9","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e322851cebedd61855531e4c62e4cc3f9d89f88f848cf974da01badf43028895","features":{},"yanked":false,"links":null}
 {"name":"nc","vers":"0.4.10","deps":[],"cksum":"7e21573ce3d834506a052c0c3b7447f398492096c49a9007e91be2bde75b57fb","features":{},"yanked":false,"links":null}
+{"name":"nc","vers":"0.4.11","deps":[],"cksum":"c357ebab3a08d38d1e33915f3cea5158b0b91a9b5c647bba501b5b1608ed13e0","features":{},"yanked":false,"links":null}
