@@ -1,0 +1,1 @@
+{"name":"overrider_build","vers":"0.3.1","deps":[{"name":"syn","req":"^1.0.23","features":["full","extra-traits"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"263014e398129136b457aea1ce03aa727eb225cb09dad20560c6800306a69152","features":{},"yanked":false,"links":null}
