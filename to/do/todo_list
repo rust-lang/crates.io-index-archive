@@ -1,0 +1,1 @@
+{"name":"todo_list","vers":"0.1.0","deps":[{"name":"ncurses","req":"^5.86.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e02b9beb11e4bfa86fa28cac5d2947bce9c3a6a8a7eaa070b455c61c4be68ef4","features":{},"yanked":false,"links":null}
