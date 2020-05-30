@@ -1,1 +1,2 @@
 {"name":"shoji","vers":"0.0.0","deps":[],"cksum":"bdbdc30791d4793ff00aadb5dd2a9cbfba1783ba3dcbc982d0299c3ffece3a31","features":{},"yanked":false,"links":null}
+{"name":"shoji","vers":"0.0.1","deps":[{"name":"generational-arena","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"941cb9812aff0e0c6d0c95a539a5004c725c5deeb23bac9eb929497d7fb8962c","features":{},"yanked":false,"links":null}
