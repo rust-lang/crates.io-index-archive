@@ -9,3 +9,4 @@
 {"name":"xplm-sys","vers":"0.2.2","deps":[{"name":"bindgen","req":"^0.20.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a10e0018a099c5c9775e08daf9bf4179a676d14f33e7843d3fa409f3b6bc5b52","features":{"xplm210":[],"default":["xplm200","xplm210"],"xplm200":[]},"yanked":false}
 {"name":"xplm-sys","vers":"0.3.0","deps":[{"name":"bindgen","req":"^0.30.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b8e419a967c26dbc83fac2efdc3fc95eb52a4768543fb07a57594b0e80869afa","features":{"xplm210":[],"xplm300":[],"xplm200":[]},"yanked":false}
 {"name":"xplm-sys","vers":"0.3.1","deps":[],"cksum":"fc33db8d9089d9d924c52e00bce2b47755a8b874750222b02d1a6b26c1202fa0","features":{},"yanked":false}
+{"name":"xplm-sys","vers":"0.4.0","deps":[],"cksum":"a50132b23faa3308359091ef5758b2a91bed1b9ac5146a82b9acb4eed62c9677","features":{},"yanked":false,"links":null}
