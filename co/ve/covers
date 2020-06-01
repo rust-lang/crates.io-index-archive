@@ -3,3 +3,4 @@
 {"name":"covers","vers":"0.1.0-beta.3","deps":[],"cksum":"81e28d4c5c6e7957aca4b04b37cc390890c2a5dc38e430c46f404822e2d2a76c","features":{"_orig_":[],"__":[],"default":[]},"yanked":false,"links":null}
 {"name":"covers","vers":"0.1.0-beta.4","deps":[],"cksum":"e043378f4d3e2dbeded4aa6fbca0077a80abf675abdbe0b0aa0e470dfd63fb66","features":{"default":[],"__":[],"_orig_":[]},"yanked":false,"links":null}
 {"name":"covers","vers":"0.1.0-beta.5","deps":[],"cksum":"c409a239ed760189a6c9386fa46d2bcc615ecd13d9227530b94aea8ed1fc9751","features":{"__":[],"_orig_":[],"default":[]},"yanked":false,"links":null}
+{"name":"covers","vers":"0.1.0-beta.6","deps":[],"cksum":"e7eaf0435e90929190c0b5a7a9d425db7800f4def3147f4f49da9680cb246a96","features":{"no-pub":[],"__":[],"_orig_":[],"default":[]},"yanked":false,"links":null}
