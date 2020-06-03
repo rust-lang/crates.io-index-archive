@@ -1,0 +1,1 @@
+{"name":"peepmatic-automata","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.106","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d69769295f79088778d316e5102451ebd9345e47c9dc2c1d848978b7a60076b2","features":{"dot":[]},"yanked":false,"links":null}
