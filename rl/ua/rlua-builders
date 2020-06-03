@@ -1,1 +1,2 @@
 {"name":"rlua-builders","vers":"0.1.0","deps":[{"name":"rlua","req":"^0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6176df0f3ba7ad445e830c9d9b811a005ac820c88a08dc2c066626f7056970a6","features":{},"yanked":false,"links":null}
+{"name":"rlua-builders","vers":"0.1.1","deps":[{"name":"rlua","req":"^0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a625e0ff31497a7cdd28d5eaf905f3895f2ef8c70c660e7cd8ccde836f7ee081","features":{},"yanked":false,"links":null}
