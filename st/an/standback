@@ -8,3 +8,4 @@
 {"name":"standback","vers":"0.2.6","deps":[],"cksum":"898341a519ec30272f8665dd05fb00156254310e99df3dc1e0cb096883d8656c","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"standback","vers":"0.2.7","deps":[],"cksum":"d747fb3ce0a32d6e9eb66484b58c53a568e163c56513defeff72c0be97a7b100","features":{"default":["std"],"std":[]},"yanked":true,"links":null}
 {"name":"standback","vers":"0.2.8","deps":[],"cksum":"47e4b8c631c998468961a9ea159f064c5c8499b95b5e4a34b77849d45949d540","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"standback","vers":"0.2.9","deps":[{"name":"version_check","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b0437cfb83762844799a60e1e3b489d5ceb6a650fbacb86437badc1b6d87b246","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
