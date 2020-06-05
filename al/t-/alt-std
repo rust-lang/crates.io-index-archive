@@ -1,1 +1,2 @@
 {"name":"alt-std","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2.69","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd4c1d1f4f1dd68c4cd14df2031683a0784e430fa34b129305d0579540912016","features":{},"yanked":false,"links":null}
+{"name":"alt-std","vers":"0.2.1","deps":[{"name":"libc","req":"^0.2.69","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44714d8ba0df2068de9491e9c32108910be50af4b9066b143fe6da5986a375a9","features":{},"yanked":false,"links":null}
