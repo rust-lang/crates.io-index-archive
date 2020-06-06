@@ -1,1 +1,1 @@
-{"name":"fuzzcheck_arg_parser","vers":"0.1.0","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bccece851250edc3f2282a886986de428d3cfece1b0cc51b61bd4ecf8d84d52a","features":{},"yanked":false,"links":null}
+{"name":"fuzzcheck_arg_parser","vers":"0.1.0","deps":[{"name":"getopts","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bccece851250edc3f2282a886986de428d3cfece1b0cc51b61bd4ecf8d84d52a","features":{},"yanked":true,"links":null}
