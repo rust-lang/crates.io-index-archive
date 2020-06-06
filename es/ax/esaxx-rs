@@ -1,1 +1,2 @@
 {"name":"esaxx-rs","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"70f2f7367722946ac7b578230dc917e291a90469134f624e266c3126ea362552","features":{},"yanked":false,"links":null}
+{"name":"esaxx-rs","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"871b6e9ce28f7508f33ac78adf5a255002702015f184c81ef923eec7c5fd829c","features":{},"yanked":false,"links":null}
