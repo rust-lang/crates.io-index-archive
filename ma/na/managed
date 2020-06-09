@@ -11,3 +11,4 @@
 {"name":"managed","vers":"0.6.1","deps":[],"cksum":"5a31885241e61ba264d780d2e6686e7e59561c947b4581470364eb3e10102d86","features":{"map":[],"alloc":[],"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"managed","vers":"0.7.0","deps":[],"cksum":"ba6713e624266d7600e9feae51b1926c6a6a6bebb18ec5a8e11a5f1d5661baba","features":{"alloc":[],"map":[],"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"managed","vers":"0.7.1","deps":[],"cksum":"fdcec5e97041c7f0f1c5b7d93f12e57293c831c646f4cc7a5db59460c7ea8de6","features":{"std":[],"map":[],"alloc":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"managed","vers":"0.7.2","deps":[],"cksum":"c75de51135344a4f8ed3cfe2720dc27736f7711989703a0b43aadf3753c55577","features":{"alloc":[],"std":[],"default":["std"],"map":[]},"yanked":false,"links":null}
