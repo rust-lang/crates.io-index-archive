@@ -1,1 +1,2 @@
 {"name":"rsfbclient","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"855dbbb1b3b674f02732249adf1bfaf9d9b4ca3e95f5d319dadd515772c485f0","features":{},"yanked":false,"links":null}
+{"name":"rsfbclient","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d8d4cc1053682df18245ee20890ca7dc3a70daaf8650b7adca8581693b662c9","features":{},"yanked":false,"links":null}
