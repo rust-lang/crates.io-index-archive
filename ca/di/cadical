@@ -1,1 +1,2 @@
 {"name":"cadical","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"698a520820cc0d4811afdfc9b2c22a2b7ba4bd184a6260ef3b7b495b35b2d63d","features":{},"yanked":false,"links":"ccadical"}
+{"name":"cadical","vers":"0.1.2","deps":[{"name":"cc","req":"^1.0","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ee59368269b531835a0dbac8caa61a749ae6550cec9f961cec6e8549e3e4b281","features":{},"yanked":false,"links":"ccadical"}
