@@ -1,0 +1,1 @@
+{"name":"cadical","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"698a520820cc0d4811afdfc9b2c22a2b7ba4bd184a6260ef3b7b495b35b2d63d","features":{},"yanked":false,"links":"ccadical"}
