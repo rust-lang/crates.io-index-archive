@@ -1,1 +1,2 @@
 {"name":"rcrawl","vers":"1.0.0","deps":[{"name":"clap","req":"~2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d99ec1bab114d7f312cce545beabf741bb0310bd7e4666e701f0de9e638003c","features":{},"yanked":false,"links":null}
+{"name":"rcrawl","vers":"1.0.1","deps":[{"name":"clap","req":"~2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b93b2bfb53ff1f5914503a5b79aebaae492177b035d0cb51709c2f6f40f7fed9","features":{},"yanked":false,"links":null}
