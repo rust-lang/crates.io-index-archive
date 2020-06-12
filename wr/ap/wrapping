@@ -1,0 +1,1 @@
+{"name":"wrapping","vers":"0.1.0","deps":[{"name":"generic-array","req":"^0.14.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e452ace0ab460d3d9acbf5567c4a62bea1b341401ba91937328591714898f154","features":{"default":[],"array":["generic-array"]},"yanked":false,"links":null}
