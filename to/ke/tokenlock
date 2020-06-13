@@ -10,3 +10,4 @@
 {"name":"tokenlock","vers":"0.2.2","deps":[],"cksum":"a3bf66cac520f41df450d2d661bf302f3fbdf4302bd5eccc77d34c272221f669","features":{},"yanked":false,"links":null}
 {"name":"tokenlock","vers":"0.2.3","deps":[],"cksum":"d6a7a8bce3666775c344b3e5b6d8d412c1f5664d4254c15c08577a33f2295ad5","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"tokenlock","vers":"0.3.0","deps":[],"cksum":"8548bd16a49ce560246e08f19568e28dd33c6e5eec636ac8039acdc058107b19","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"tokenlock","vers":"0.3.1","deps":[],"cksum":"61354f8f3e745454af8071c246e351c382c15792e59989c83b72692a7352e9be","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
