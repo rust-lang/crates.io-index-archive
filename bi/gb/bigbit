@@ -7,3 +7,4 @@
 {"name":"bigbit","vers":"0.0.5-r","deps":[],"cksum":"024e3d6ce6a5ef9ec424d55e8fcb2b84123cb141926c7a3be47ef2c8de1d2433","features":{"clippy":[],"default":["clippy"]},"yanked":false,"links":null}
 {"name":"bigbit","vers":"0.0.6","deps":[],"cksum":"359219c1ef757e9583803a3f86e9e43e200334c1f3f7cc5776afe1427c103623","features":{"default":["clippy"],"clippy":[]},"yanked":false,"links":null}
 {"name":"bigbit","vers":"0.0.7","deps":[],"cksum":"82cfa3c29af578c6ede68ed4de9a217d5539dcf2f50226f9240b2903f0a2cf0d","features":{"clippy":[],"default":["clippy"]},"yanked":false,"links":null}
+{"name":"bigbit","vers":"0.0.8","deps":[],"cksum":"c53bcca1f9334d8aced083e43d209afcf5489d5f9b247641995d1b5ac0d448c7","features":{"clippy":[],"default":["clippy","std"],"std":[]},"yanked":false,"links":null}
