@@ -12,3 +12,4 @@
 {"name":"alphanumeric-sort","vers":"1.0.11","deps":[],"cksum":"f37ce94154d73f6961f87571a3ab7814e1608f373bd55a933e3e771b6dd59fc4","features":{},"yanked":false,"links":null}
 {"name":"alphanumeric-sort","vers":"1.0.12","deps":[],"cksum":"22b991f3d9c054bb99ed18f24e906b89ec3bc450e788d4911b2b9e123ab3109b","features":{},"yanked":false,"links":null}
 {"name":"alphanumeric-sort","vers":"1.0.13","deps":[],"cksum":"0d338a8e22f0d04e4f44b0915c537d4dfa2e002ffa7ef78364de604d180b0448","features":{},"yanked":false,"links":null}
+{"name":"alphanumeric-sort","vers":"1.1.0","deps":[{"name":"bencher","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3887a8dffd70a71ffe4a205e6a1107682deaf661f1fc98a4fa2571283a3f58d5","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
