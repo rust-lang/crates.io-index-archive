@@ -1,1 +1,2 @@
 {"name":"firestorm","vers":"0.1.0","deps":[{"name":"inferno","req":"^0.9.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec683caf41dd130828d45e0794eb3fbfbeacdd4a3f375d437fa3a800fd8c2762","features":{},"yanked":false,"links":null}
+{"name":"firestorm","vers":"0.2.0","deps":[{"name":"inferno","req":"^0.9.9","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d2eb48cfe825fab609a3764c52c1af4880eebbb0b73d2d36d87f72d51cc93e9","features":{"enabled":["inferno"]},"yanked":false,"links":null}
