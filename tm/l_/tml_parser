@@ -1,1 +1,2 @@
 {"name":"tml_parser","vers":"1.0.0","deps":[],"cksum":"5c56f2ce390a0e8bb281ec1a204c05835c416198f36dae51de23f50a2ea25bc7","features":{},"yanked":false,"links":null}
+{"name":"tml_parser","vers":"1.0.2","deps":[{"name":"serde","req":"^1.0.112","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00363cd9d6fc4c385b2b1d259235c8971601f2a7b107e06deebb10be31db2a04","features":{},"yanked":false,"links":null}
