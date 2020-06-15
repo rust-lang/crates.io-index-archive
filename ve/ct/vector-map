@@ -4,3 +4,4 @@
 {"name":"vector-map","vers":"0.4.0","deps":[],"cksum":"ace0348fbe9b789ff90fbce687fb09653684b5964e236b7281e48c69bce842e2","features":{},"yanked":false,"links":null}
 {"name":"vector-map","vers":"0.5.0","deps":[],"cksum":"6c134593e3aea0dc8d1387d87bbb832db195e43b5ebed312f5f58e26bc0e630d","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"vector-map","vers":"0.5.1","deps":[],"cksum":"bacae9b992b6bed35868d69b98668f3bad52a0cdfc3f73f230dabeb96cb12053","features":{"nightly":[]},"yanked":false,"links":null}
+{"name":"vector-map","vers":"0.5.2","deps":[],"cksum":"7f0b1b8ce03be9b35a4ce51a360b30c0f1975a9e78e723bf84be431adfd5d00b","features":{"nightly":[]},"yanked":false,"links":null}
