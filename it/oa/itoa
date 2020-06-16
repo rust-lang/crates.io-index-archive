@@ -13,3 +13,4 @@
 {"name":"itoa","vers":"0.4.3","deps":[],"cksum":"1306f3464951f30e30d12373d31c79fbd52d236e5e896fd92f96ec7babbbe60b","features":{"std":[],"default":["std"],"i128":[]},"yanked":false,"links":null}
 {"name":"itoa","vers":"0.4.4","deps":[],"cksum":"501266b7edd0174f8530248f87f99c88fbe60ca4ef3dd486835b8d8d53136f7f","features":{"i128":[],"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"itoa","vers":"0.4.5","deps":[],"cksum":"b8b7a7c0c47db5545ed3fef7468ee7bb5b74691498139e4b3f6a20685dc6dd8e","features":{"i128":[],"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"itoa","vers":"0.4.6","deps":[],"cksum":"dc6f3ad7b9d11a0c00842ff8de1b60ee58661048eb8049ed33c73594f359d7e6","features":{"std":[],"i128":[],"default":["std"]},"yanked":false,"links":null}
