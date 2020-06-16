@@ -1,1 +1,2 @@
 {"name":"rask","vers":"0.0.0","deps":[],"cksum":"04f65636d2148cbec31e9cf4aa9e971bf068598827053d787293173e2bf46f3d","features":{},"yanked":false,"links":null}
+{"name":"rask","vers":"0.1.2","deps":[{"name":"chainmap","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5834e3a61656c3e7ed932dfb2a2785528c1a0a1866377453a68983c3ad173f05","features":{},"yanked":false,"links":null}
