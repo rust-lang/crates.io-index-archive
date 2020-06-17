@@ -14,3 +14,4 @@
 {"name":"configparser","vers":"0.6.2","deps":[],"cksum":"896d5c74d62c27fa811dd4193c30affe3ef1f1007eb15d8ced192823afba07f5","features":{},"yanked":false,"links":null}
 {"name":"configparser","vers":"0.7.0","deps":[],"cksum":"ec9aca11f6f10b05c3b8e892284acbe581e3fed51352625a964ed6c380deaad3","features":{},"yanked":false,"links":null}
 {"name":"configparser","vers":"0.7.1","deps":[],"cksum":"e23c1c7aacc293dc8dcec2f1ac9db010e11e96a1d5b25041af824e20e8963711","features":{},"yanked":false,"links":null}
+{"name":"configparser","vers":"0.8.0","deps":[],"cksum":"42b189e8e42c8777294c0a6fca1fa765fb9197dc7333dc4b9f6b22d6b8570a2a","features":{},"yanked":false,"links":null}
