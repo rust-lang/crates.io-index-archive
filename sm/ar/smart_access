@@ -1,0 +1,1 @@
+{"name":"smart_access","vers":"0.1.0","deps":[],"cksum":"4228d2dedbf387fc77a7bfdfc403b99d8a648b58bbc964e438f4424f9313da9e","features":{"std_collections":[],"default":["std_collections","batch_rt","batch_ct"],"batch_ct":[],"batch_rt":[]},"yanked":false,"links":null}
