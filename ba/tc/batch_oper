@@ -10,3 +10,4 @@
 {"name":"batch_oper","vers":"1.5.1","deps":[],"cksum":"c5f96f48f7725b935979051ef1b06f36fb702da42b1b06950edea71e82c4a57c","features":{},"yanked":false,"links":null}
 {"name":"batch_oper","vers":"1.6.0","deps":[],"cksum":"10a3f4064b0ba9656d8ac303a88941f9c9443a691b40af6957f04c436e90065e","features":{},"yanked":false,"links":null}
 {"name":"batch_oper","vers":"1.7.0","deps":[],"cksum":"6988454ca706bb2546e58a59cb3b6c76502977b1a020d9505b84c8288c031b0d","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"batch_oper","vers":"1.8.0","deps":[],"cksum":"e42a6b3b56fe5405b07c8a9a24ec126522ee2256ff3ed3345d69af23d5eeb4d8","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
