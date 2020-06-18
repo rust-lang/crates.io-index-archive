@@ -1,0 +1,1 @@
+{"name":"rvstruct","vers":"0.2.0","deps":[{"name":"rvs_derive","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40cc828c68bff71dd342f6bc221882af121902acf1b32d2929a575ed62a6ddf3","features":{},"yanked":false,"links":null}
