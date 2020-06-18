@@ -1,1 +1,2 @@
 {"name":"smart_access","vers":"0.1.0","deps":[],"cksum":"4228d2dedbf387fc77a7bfdfc403b99d8a648b58bbc964e438f4424f9313da9e","features":{"std_collections":[],"default":["std_collections","batch_rt","batch_ct"],"batch_ct":[],"batch_rt":[]},"yanked":false,"links":null}
+{"name":"smart_access","vers":"0.1.1","deps":[],"cksum":"b283dd82548dfbe57852aec94eca72a202af9d992d42fa0d53c569c97abf5db7","features":{"batch_ct":[],"default":["std_collections","batch_rt","batch_ct"],"batch_rt":[],"std_collections":[]},"yanked":false,"links":null}
