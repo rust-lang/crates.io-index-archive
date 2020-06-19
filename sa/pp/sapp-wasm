@@ -15,3 +15,4 @@
 {"name":"sapp-wasm","vers":"0.1.15","deps":[],"cksum":"0315b1543db8828988bb0d86db7f4cfd134491cd3a4bbe1087757e97ae57dd3e","features":{},"yanked":false,"links":null}
 {"name":"sapp-wasm","vers":"0.1.16","deps":[],"cksum":"8993f16eccff7cf419b0827f5cd54bf2a3113ee6a07a20da1883a247636da1ac","features":{},"yanked":false,"links":null}
 {"name":"sapp-wasm","vers":"0.1.17","deps":[],"cksum":"5675cc4662c28e60e037488a707c40fee0f2d2d75a4ea1e026eb155018994e89","features":{},"yanked":false,"links":null}
+{"name":"sapp-wasm","vers":"0.1.18","deps":[],"cksum":"a4bc4bc1e5193e62ef8f3185a82d0e0416581b67d9ae0f02ef53c9ad54653689","features":{},"yanked":false,"links":null}
