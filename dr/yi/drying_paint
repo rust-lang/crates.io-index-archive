@@ -3,3 +3,4 @@
 {"name":"drying_paint","vers":"0.1.2","deps":[],"cksum":"905de4ce54c1e708fc648e933b89e9b54a4ff74bbf3c9569ba7df0dbb22de66b","features":{},"yanked":false,"links":null}
 {"name":"drying_paint","vers":"0.1.3","deps":[],"cksum":"12b3f469ceff773ca7adaca28f3b44981c1f5961535020d35691bd82181cc28e","features":{},"yanked":false,"links":null}
 {"name":"drying_paint","vers":"0.1.4","deps":[],"cksum":"49e8754b1240e91a2ab2d4731810c598698018e37a4886ffdffe8e3603249077","features":{},"yanked":false,"links":null}
+{"name":"drying_paint","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bcf37d240cda1db48af889d76708895597ce09fa1ae11dfdda9983e56100005c","features":{},"yanked":false,"links":null}
