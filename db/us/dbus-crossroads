@@ -1,0 +1,1 @@
+{"name":"dbus-crossroads","vers":"0.1.0","deps":[{"name":"dbus","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51eaa75bdc7b4eaa083b2df3e182e005c6540162aa1637a30487a83b8b811be0","features":{},"yanked":false,"links":null}
