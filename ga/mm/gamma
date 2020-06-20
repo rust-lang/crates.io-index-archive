@@ -2,3 +2,4 @@
 {"name":"gamma","vers":"0.2.0","deps":[],"cksum":"22fd9fb295947f42be3b3ab84f926c247c3ad3865feef337db69bf4c17cebbf1","features":{},"yanked":false,"links":null}
 {"name":"gamma","vers":"0.3.0","deps":[],"cksum":"55c3dd5c0804af97316c5de0d6d452919e47dc80638cc662b4425782c0d3dbd3","features":{},"yanked":false,"links":null}
 {"name":"gamma","vers":"0.4.0","deps":[],"cksum":"5949584f3f655dc05d04b58ead7ce6fe753dfee06b3706d35bd9a610096110e3","features":{},"yanked":false,"links":null}
+{"name":"gamma","vers":"0.5.0","deps":[{"name":"indexmap","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91ced655854774d026e55ef1d6943d9541de4cf22a1e555cffbba904509f59a8","features":{},"yanked":false,"links":null}
