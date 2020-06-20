@@ -1,0 +1,1 @@
+{"name":"spinning","vers":"0.0.0","deps":[{"name":"lock_api","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1726caf743f9f9b855207d5babcef6f806bd5b84d7e6dffd3ce13a898b4df12c","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
