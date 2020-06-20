@@ -1,0 +1,1 @@
+{"name":"tracy-client","vers":"0.7.0","deps":[{"name":"tracy-client-sys","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26814d08d2148f6fb09fa5a46b2a21f7255d12f786d9a4f226c7f7a72abded70","features":{},"yanked":false,"links":null}
