@@ -1,1 +1,2 @@
 {"name":"mih-rs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f124ee56191329bed118bfc54ee3608ab3648ec49e0cba30615767a7638f043","features":{},"yanked":false,"links":null}
+{"name":"mih-rs","vers":"0.1.1","deps":[{"name":"rand","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"486f2d1d718ff9d5844c134c8c39a37cf39be5354e5e82d4540d8190785378a4","features":{},"yanked":false,"links":null}
