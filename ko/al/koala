@@ -1,1 +1,2 @@
 {"name":"koala","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1059bb8d6c0b6d4f3ec11528bc28d7c608227bd0dde0b9d6af394ad081e00c2d","features":{},"yanked":false,"links":null}
+{"name":"koala","vers":"0.1.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77e605adff193e8915d4e90173616cdc979a7db8fc16af30d169cc27e57ca453","features":{},"yanked":false,"links":null}
