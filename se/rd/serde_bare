@@ -1,1 +1,2 @@
 {"name":"serde_bare","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a88ac96eae75b6ffe15f2f1169f431763a31b46571d5a1847003ea79d7e786e0","features":{},"yanked":false,"links":null}
+{"name":"serde_bare","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0e2c1445921006b103ab03fe28114952e9d179223d550e1312d57f20c9c4c3f","features":{},"yanked":false,"links":null}
