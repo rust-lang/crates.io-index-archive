@@ -1,1 +1,2 @@
 {"name":"light-ini","vers":"0.1.0","deps":[{"name":"nom","req":"^5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1773368b5040296392a32099eae745c32dceb111320e2a31a257c0d80b63cf05","features":{},"yanked":false,"links":null}
+{"name":"light-ini","vers":"0.1.1","deps":[{"name":"nom","req":"^5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcaa655fb5110c6c3404e594d0e5ba597ba859508370bc9547b20e7ad364e658","features":{},"yanked":false,"links":null}
