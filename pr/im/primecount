@@ -1,1 +1,2 @@
 {"name":"primecount","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1.44","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"dd55b21e3b023d07bbcc0db43e4d1163f82d4d16b83988fe66adb7625576c3b7","features":{},"yanked":false,"links":null}
+{"name":"primecount","vers":"0.1.1","deps":[{"name":"cmake","req":"^0.1.44","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d38e658b9ee46f6dda3b96dc9c5ccf7f4ab82684571562c7bec728607deeff26","features":{},"yanked":false,"links":null}
