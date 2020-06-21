@@ -6,3 +6,4 @@
 {"name":"infer","vers":"0.1.5","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17a0f5516054b34a2933dc8231a21f69ea980ab302d13de9a4b0e3a32728b84e","features":{},"yanked":false,"links":null}
 {"name":"infer","vers":"0.1.6","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d55c406a76164eb346a829ed4b97b73cb06259078eca01adeb12e8ca308d4123","features":{},"yanked":false,"links":null}
 {"name":"infer","vers":"0.1.7","deps":[],"cksum":"6854dd77ddc4f9ba1a448f487e27843583d407648150426a30c2ea3a2c39490a","features":{},"yanked":false,"links":null}
+{"name":"infer","vers":"0.2.0","deps":[],"cksum":"e07d3b55167d27ac3ad2cec473b98f7ed314175646225b31b14d4d561bdc218c","features":{},"yanked":false,"links":null}
