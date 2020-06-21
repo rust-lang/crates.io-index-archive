@@ -1,1 +1,2 @@
 {"name":"dispose","vers":"0.1.0","deps":[],"cksum":"adbe711e8815418f859da7b4f675cd73702a14d1f5718c6cc42db907fbd67481","features":{},"yanked":false,"links":null}
+{"name":"dispose","vers":"0.2.0","deps":[{"name":"dispose-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d5bdfa2d33f8188b00930f1a59356899c647f69270bda01e0777ca2d1df589c","features":{},"yanked":false,"links":null}
