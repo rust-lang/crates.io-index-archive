@@ -1,1 +1,2 @@
 {"name":"protoc-bin-vendored","vers":"2.14.0","deps":[{"name":"protoc","req":"= 2.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ac570d1a1245949ca1ff82beee8e6e09db88b080e5f0eaa36f84bedf87defe51","features":{},"yanked":false,"links":null}
+{"name":"protoc-bin-vendored","vers":"2.15.0","deps":[{"name":"protoc","req":"=2.15.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"aaa44fa3682c44123aa6cce27feb991d65f2cae032c9c79bb9c3eb12b0e14e1b","features":{},"yanked":false,"links":null}
