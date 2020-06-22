@@ -5,3 +5,4 @@
 {"name":"rslua","vers":"0.2.3","deps":[],"cksum":"a664b79f6a8eee7b25510bece4842cc757f656328194b636e5f0ae284e0dcaa1","features":{},"yanked":false,"links":null}
 {"name":"rslua","vers":"0.2.4","deps":[],"cksum":"ca81ca180e9c9f4c0bdc29d30861d680515c8125bf992aa20b0eea284008137e","features":{},"yanked":false,"links":null}
 {"name":"rslua","vers":"0.2.5","deps":[{"name":"num-traits","req":"^0.2.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0735b44a163b5a695e3bd8e49b8e83290110fcc4bdfa4dff5fa6dc584a2e41c0","features":{},"yanked":false,"links":null}
+{"name":"rslua","vers":"0.2.6","deps":[{"name":"num-traits","req":"^0.2.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7bfc57208c3c3ede89f53fdceae86a626442fc8e9a71cc50d62b94720d0bc5d","features":{},"yanked":false,"links":null}
