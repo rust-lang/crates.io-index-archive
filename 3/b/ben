@@ -7,3 +7,4 @@
 {"name":"ben","vers":"0.1.6","deps":[],"cksum":"d1b85f7a87423f560c26c805c9eb4012eb9f51a29aa177ea44c0473b7c10cdf1","features":{},"yanked":false,"links":null}
 {"name":"ben","vers":"0.1.7","deps":[],"cksum":"bff82e65ca1fb907080104c08f400c1f1a2ee98caf0951a5a8704a4a090499b4","features":{},"yanked":false,"links":null}
 {"name":"ben","vers":"0.1.8","deps":[{"name":"itoa","req":"^0.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f4a52980cc64b912b4368f3871632b97833a6b37b34ff07d81e12d40ba5b9d6","features":{},"yanked":false,"links":null}
+{"name":"ben","vers":"0.1.9","deps":[{"name":"itoa","req":"^0.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e65a376fc532fae593c68ba4cedf85b9f63855c9f63ca70502c93876e24d7fb","features":{},"yanked":false,"links":null}
