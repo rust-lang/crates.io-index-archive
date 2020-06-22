@@ -1,3 +1,4 @@
 {"name":"dyn-fmt","vers":"0.1.0","deps":[],"cksum":"a9a56c363fe535b0a2c3113999db2d57e87ab0a2f7d9dd62e10d31ebe3b18285","features":{},"yanked":false,"links":null}
 {"name":"dyn-fmt","vers":"0.1.1","deps":[],"cksum":"0e4a093436689777aee761f1ee38822dba5ffbc960a0351768c39618e0913389","features":{},"yanked":false,"links":null}
 {"name":"dyn-fmt","vers":"0.1.2","deps":[],"cksum":"4f1c543c59e2c80bb87791dfddfad1c7a3222d2c3dfd1b19c8336a5afe80acad","features":{},"yanked":false,"links":null}
+{"name":"dyn-fmt","vers":"0.2.0","deps":[],"cksum":"7178af7170751163442314612852f0a76b96dcbf2b667c701633f6462723ffb9","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
