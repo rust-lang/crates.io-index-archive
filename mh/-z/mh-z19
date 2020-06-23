@@ -2,3 +2,4 @@
 {"name":"mh-z19","vers":"0.2.0","deps":[],"cksum":"03fb58816176dd6f2b0aac80478bd2bc365f200181a8db211ae0277dec022ad3","features":{},"yanked":false,"links":null}
 {"name":"mh-z19","vers":"0.2.1","deps":[],"cksum":"723be290f2ce654b857194b88767943757cddb4652d3222950795e7be6e33612","features":{},"yanked":false,"links":null}
 {"name":"mh-z19","vers":"0.3.0","deps":[],"cksum":"dfd4d7a1967446b6aa06b9a67af864005378125c2e389a9fcca6d5ba136c448c","features":{"std":[],"default":[]},"yanked":false,"links":null}
+{"name":"mh-z19","vers":"0.3.1","deps":[],"cksum":"4d0b6813cecd6c8fdd541993ebd43c2add798cc3e47b41683a6249d845bdf218","features":{"std":[],"default":[]},"yanked":false,"links":null}
