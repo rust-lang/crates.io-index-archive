@@ -2,3 +2,4 @@
 {"name":"hmac-sha512","vers":"0.1.3","deps":[],"cksum":"6de08b7be7db51e8cdb38f3e92960d015f9de16ae1ce87f9aaeaa127f0e20cc5","features":{},"yanked":false,"links":null}
 {"name":"hmac-sha512","vers":"0.1.4","deps":[],"cksum":"2ae69183117b21f346436ebc872000a368cbe9608dc178afa6c0eeb87a6fb781","features":{},"yanked":false,"links":null}
 {"name":"hmac-sha512","vers":"0.1.5","deps":[],"cksum":"dbf9e56c8382310c69d0447ae6e458882fbb14fbd2af7c6fdfe87e30c6ce2234","features":{},"yanked":false,"links":null}
+{"name":"hmac-sha512","vers":"0.1.6","deps":[],"cksum":"61f50628520a245b4d242eda19a03bddd73fc9dd92f3ccf14d912e879bc029bb","features":{},"yanked":false,"links":null}
