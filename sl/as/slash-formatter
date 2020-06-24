@@ -9,3 +9,4 @@
 {"name":"slash-formatter","vers":"2.2.4","deps":[],"cksum":"8146622cc7a896fd78c393ede035a133c20ce57203121b3156d1ded26f4b50f8","features":{},"yanked":false,"links":null}
 {"name":"slash-formatter","vers":"2.2.5","deps":[],"cksum":"1327594da1d7a67977043c723273c3f218380d4f624fdd8ef6acd2dffd0e22b7","features":{},"yanked":false,"links":null}
 {"name":"slash-formatter","vers":"2.2.6","deps":[],"cksum":"2f7fb98e76e2022054673f3ebc43a4e12890ec6272530629df6237cafbb70569","features":{},"yanked":false,"links":null}
+{"name":"slash-formatter","vers":"3.0.0","deps":[{"name":"concat-with","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89b4e3d19453be79d705e8798a4aa0ab6f3741f7b2cf059b9621e8d34822f808","features":{},"yanked":false,"links":null}
