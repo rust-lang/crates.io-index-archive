@@ -1,4 +1,4 @@
 {"name":"concat-with","vers":"0.1.0","deps":[],"cksum":"c1e49cd1d4fa9749daad32b33963fd6745640c3d10c4e5199eea8089f4e82f87","features":{},"yanked":false,"links":null}
 {"name":"concat-with","vers":"0.2.0","deps":[],"cksum":"c182a5ea350ce1275c925f44ef6f3b78ea2bf3ae639d0b1b918234fd57ecba00","features":{},"yanked":false,"links":null}
 {"name":"concat-with","vers":"0.2.1","deps":[],"cksum":"7d106156c113be9af32de1dbe03007cffec934a48c9fbc35634bb567483c6566","features":{},"yanked":false,"links":null}
-{"name":"concat-with","vers":"0.2.2","deps":[],"cksum":"48bdf2afdefba2ab54a9c879354d7fbf7c1e32bbb4da90f349dccd5c22fac796","features":{},"yanked":false,"links":null}
+{"name":"concat-with","vers":"0.2.2","deps":[],"cksum":"48bdf2afdefba2ab54a9c879354d7fbf7c1e32bbb4da90f349dccd5c22fac796","features":{},"yanked":true,"links":null}
