@@ -1,0 +1,1 @@
+{"name":"riscv-regs","vers":"0.1.0","deps":[{"name":"register","req":"0.5.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f54db3161ff00f30c96e41d191cfab9ae866e0428e070cbea54d8b4d97af938","features":{},"yanked":false,"links":null}
