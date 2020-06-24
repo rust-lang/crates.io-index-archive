@@ -1,1 +1,2 @@
 {"name":"atelier_core","vers":"0.1.0","deps":[{"name":"error-chain","req":"^0.12.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e971f34b75c11b6873c82029d2932f072b3ddbb89c3af32081b5e420b8ebbdee","features":{},"yanked":false,"links":null}
+{"name":"atelier_core","vers":"0.1.1","deps":[{"name":"error-chain","req":"^0.12.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1d5458d1021e2b1591f396791806ba72990a9eef0c1e55e54c44dfc0ba3199d","features":{},"yanked":false,"links":null}
