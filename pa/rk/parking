@@ -1,3 +1,4 @@
 {"name":"parking","vers":"1.0.0","deps":[],"cksum":"01b231bb075ab9f13baf704894d03941e51729b141a17be9e4a801b60369df1b","features":{},"yanked":false,"links":null}
 {"name":"parking","vers":"1.0.1","deps":[],"cksum":"9a7fad362df89617628a7508b3e9d588ade1b0ac31aa25de168193ad999c2dd4","features":{},"yanked":false,"links":null}
 {"name":"parking","vers":"1.0.2","deps":[{"name":"easy-parallel","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1bcaa58ee64f8e4a3d02f5d8e6ed0340eae28fed6fdabd984ad1776e3b43848a","features":{},"yanked":false,"links":null}
+{"name":"parking","vers":"1.0.3","deps":[{"name":"easy-parallel","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c4029bc3504a62d92e42f30b9095fdef73b8a0b2a06aa41ce2935143b05a1a06","features":{},"yanked":false,"links":null}
