@@ -5,3 +5,4 @@
 {"name":"tupletools","vers":"0.2.3","deps":[],"cksum":"be18c4c203d9595b73b1108a550907cc3ab50a0a7df78e1cbb2ce4fa28f213db","features":{"no_std":[]},"yanked":false,"links":null}
 {"name":"tupletools","vers":"0.2.4","deps":[],"cksum":"a436fbcf1c7728fd4191938d2b092bb70fe451cbec8088efdfe47b86eca7b511","features":{"no_std":[]},"yanked":false,"links":null}
 {"name":"tupletools","vers":"0.2.5","deps":[],"cksum":"b5fca96240f2c5928ee7607ea9c514c9c53b6f036d29fbb7eced795031c0e31f","features":{"no_std":[]},"yanked":false,"links":null}
+{"name":"tupletools","vers":"0.3.0","deps":[],"cksum":"03da4be6ae1a8c95b91059b98d35c9e57a3bb018fc812689d224967e524feebb","features":{"no_std":[]},"yanked":false,"links":null}
