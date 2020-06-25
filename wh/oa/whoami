@@ -17,3 +17,4 @@
 {"name":"whoami","vers":"0.8.0","deps":[],"cksum":"513fe1ea1d76f69ffcadb69ee3b105bbe4917a26dec9c841dc74eb3cd6b6c69b","features":{},"yanked":false,"links":null}
 {"name":"whoami","vers":"0.8.1","deps":[],"cksum":"a08eb844b158ea881e81b94556eede7f7e306e4c7b976aad88f49e6e36dec391","features":{},"yanked":false,"links":null}
 {"name":"whoami","vers":"0.8.2","deps":[],"cksum":"18bb55566f6f3f8440914233cf63df1eb60b801b5007d376cc46212cb8a9287c","features":{},"yanked":false,"links":null}
+{"name":"whoami","vers":"0.9.0","deps":[{"name":"cala_core","req":"^0.1","features":[],"optional":true,"default_features":true,"target":"cfg(target_arch = \"wasm32\")","kind":"normal"}],"cksum":"7884773ab69074615cb8f8425d0e53f11710786158704fca70f53e71b0e05504","features":{"default":[],"wasm-bindgen":["cala_core/wasm-bindgen"],"stdweb":["cala_core/stdweb"],"cala":["cala_core/cala"]},"yanked":false,"links":null}
