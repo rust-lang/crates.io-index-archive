@@ -1,1 +1,2 @@
 {"name":"utf8-width","vers":"0.1.0","deps":[{"name":"bencher","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1da899495cceb4e2300e6c16aa3fc345cf75fb2dd647fb0ed8de416d395c4247","features":{},"yanked":false,"links":null}
+{"name":"utf8-width","vers":"0.1.1","deps":[{"name":"bencher","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3ee7e424bb8e6e5eb45d3675875ef55dc932ed3554fef3604f50008b2e0cb8fe","features":{},"yanked":false,"links":null}
