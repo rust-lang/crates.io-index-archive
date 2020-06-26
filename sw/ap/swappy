@@ -1,0 +1,1 @@
+{"name":"swappy","vers":"0.1.0","deps":[{"name":"shellexpand","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e872c9e39cafa988897fa01f2a7ad34e8ec8789b7c6907d6861f397daffa191","features":{"benchmark":[]},"yanked":false,"links":null}
