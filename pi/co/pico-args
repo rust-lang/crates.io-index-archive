@@ -3,3 +3,4 @@
 {"name":"pico-args","vers":"0.3.0","deps":[],"cksum":"22e32b0f3771287ebb436130477eabf0f11f934ed036099ad548bc885e708667","features":{},"yanked":false,"links":null}
 {"name":"pico-args","vers":"0.3.1","deps":[],"cksum":"3ad1f1b834a05d42dae330066e9699a173b28185b3bdc3dbf14ca239585de8cc","features":{},"yanked":false,"links":null}
 {"name":"pico-args","vers":"0.3.2","deps":[],"cksum":"6a71836ceac43f0349e3bd964f5bb902f7b003916f32a4ad00354dafc447fa8f","features":{"default":["eq-separator"],"eq-separator":[]},"yanked":false,"links":null}
+{"name":"pico-args","vers":"0.3.3","deps":[],"cksum":"1b1eee8b1f4966c8343d7ca0f5a8452cd35d5610a2e0efbe2a68cae44bef2046","features":{"eq-separator":[],"default":["eq-separator"]},"yanked":false,"links":null}
