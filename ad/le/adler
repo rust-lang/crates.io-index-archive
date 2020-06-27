@@ -1,1 +1,2 @@
 {"name":"adler","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dcd8307d0a6f32f3a7c47785bb2a2faadcf498edd136277b01eae9b7f01feb94","features":{},"yanked":false,"links":null}
+{"name":"adler","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9147455e2accc83f24de62acabc3c0599623c34fd4e9f750fe4abf89ff6bc503","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
