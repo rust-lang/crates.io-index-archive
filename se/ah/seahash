@@ -16,3 +16,4 @@
 {"name":"seahash","vers":"3.0.6","deps":[],"cksum":"18d6061ff4917fac173fa07b839c8c3f805c0bf3801c52499cc85cdbad8c28df","features":{},"yanked":false,"links":null}
 {"name":"seahash","vers":"3.0.7","deps":[],"cksum":"58f57ca1d128a43733fd71d583e837b1f22239a37ebea09cde11d8d9a9080f47","features":{},"yanked":false,"links":null}
 {"name":"seahash","vers":"4.0.0","deps":[],"cksum":"b427e64850f2efd9de2f99148a3e523ff1aaef7d407add544864d923ac15045e","features":{},"yanked":false,"links":null}
+{"name":"seahash","vers":"4.0.1","deps":[{"name":"quickcheck","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"39ee459cae272d224928ca09a1df5406da984f263dc544f9f8bde92a8c3dc916","features":{},"yanked":false,"links":null}
