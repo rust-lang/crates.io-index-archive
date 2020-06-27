@@ -1,1 +1,2 @@
 {"name":"autoclick","vers":"0.1.0","deps":[{"name":"enigo","req":"^0.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58fe275ea6cae64a0ef2af1891c4d9029326679ad3aeaa1f45adf276c4a72a1b","features":{},"yanked":false,"links":null}
+{"name":"autoclick","vers":"0.1.1","deps":[{"name":"enigo","req":"^0.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37577ea425a8ddbd31b6093c7ada59a9881ebf3e7a4e2c9f2c9b35c107b18c74","features":{},"yanked":false,"links":null}
