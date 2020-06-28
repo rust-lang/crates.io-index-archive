@@ -1,1 +1,2 @@
 {"name":"autocshell","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f87e0b3fa1f9756a968ad41423b72754f1d6c7bf7ce8e5a8be648e4c11c4260c","features":{},"yanked":false,"links":null}
+{"name":"autocshell","vers":"0.1.1","deps":[{"name":"clap","req":"^2.33.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab8b3bd4be1600977fc42827bee2c26a4bf5f222effa929082ec37d8b68f1af3","features":{},"yanked":false,"links":null}
