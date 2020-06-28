@@ -18,3 +18,4 @@
 {"name":"core-foundation-sys","vers":"0.6.1","deps":[],"cksum":"a3fb15cdbdd9cf8b82d97d0296bb5cd3631bba58d6e31650a002a8e7fb5721f9","features":{"mac_os_10_8_features":[],"mac_os_10_7_support":[]},"yanked":false,"links":null}
 {"name":"core-foundation-sys","vers":"0.6.2","deps":[],"cksum":"e7ca8a5221364ef15ce201e8ed2f609fc312682a8f4e0e3d4aa5879764e0fa3b","features":{"mac_os_10_7_support":[],"mac_os_10_8_features":[]},"yanked":false,"links":null}
 {"name":"core-foundation-sys","vers":"0.7.0","deps":[],"cksum":"b3a71ab494c0b5b860bdc8407ae08978052417070c2ced38573a9157ad75b8ac","features":{"mac_os_10_7_support":[],"mac_os_10_8_features":[]},"yanked":false,"links":null}
+{"name":"core-foundation-sys","vers":"0.7.1","deps":[],"cksum":"90accdee0acac454f78a41d2eefc1212ec6eaa2ae6a216619389e996c0155c3c","features":{"mac_os_10_7_support":[],"mac_os_10_8_features":[]},"yanked":false,"links":null}
