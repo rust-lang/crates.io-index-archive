@@ -1,0 +1,1 @@
+{"name":"libftd2xx-ffi","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"71565613209246b9333ae46c820858dbb7cb8cd2e99cadd77d9c43879a4a9c8b","features":{},"yanked":false,"links":null}
