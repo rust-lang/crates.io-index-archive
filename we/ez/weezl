@@ -1,0 +1,1 @@
+{"name":"weezl","vers":"0.0.1","deps":[{"name":"criterion","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bb77353ef9629bea573d465b45b4fc41f38223f686b50e9ecb6ab1d53a0b5de3","features":{"raii_no_panic":[],"default":["raii_no_panic"]},"yanked":false,"links":null}
