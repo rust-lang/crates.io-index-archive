@@ -1,0 +1,1 @@
+{"name":"process-memory-reader","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3","features":["processthreadsapi","psapi","tlhelp32","memoryapi","handleapi"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8f58f443a2e4a887691fb47ac9b77e4fbba48bd7b997577c368630158327a26","features":{},"yanked":false,"links":null}
