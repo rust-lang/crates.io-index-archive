@@ -1,1 +1,2 @@
 {"name":"diffy","vers":"0.0.0","deps":[],"cksum":"14fb32e2876f1dcccd4b1d278669a8b22b3f2afcc1cc0106e71775c53150a1a2","features":{},"yanked":false,"links":null}
+{"name":"diffy","vers":"0.1.0","deps":[{"name":"ansi_term","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd74b98bf2d87ac53c242b6b858babd80975bd8620fecde87cbe8ee595fbcf4b","features":{},"yanked":false,"links":null}
