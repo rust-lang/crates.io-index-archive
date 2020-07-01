@@ -1,0 +1,1 @@
+{"name":"ppeterson_crate_b","vers":"0.1.0","deps":[{"name":"ppeterson_crate_a","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"884b3577d67cc65686ff063d53a131a87aeb1b0fdfd99ac2e47a263cfa6183fb","features":{},"yanked":false,"links":null}
