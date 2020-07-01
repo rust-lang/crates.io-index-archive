@@ -1,1 +1,1 @@
-{"name":"gars","vers":"0.0.3","deps":[{"name":"google-authenticator","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3b229f2b30591e3b0a06cc6fdeecd9837a4b06531ee48cede6ca7504337f609","features":{},"yanked":false,"links":null}
+{"name":"gars","vers":"0.0.3","deps":[{"name":"google-authenticator","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3b229f2b30591e3b0a06cc6fdeecd9837a4b06531ee48cede6ca7504337f609","features":{},"yanked":true,"links":null}
