@@ -1,0 +1,1 @@
+{"name":"buf-min","vers":"0.0.1","deps":[{"name":"bytes","req":"^0.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60f3bac7e400b16d08fe2160028bad73e2cf0e4c81192f88beb6d17779b3c32a","features":{"bytes-buf":["bytes"]},"yanked":false,"links":null}
