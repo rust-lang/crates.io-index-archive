@@ -1,1 +1,2 @@
 {"name":"tm1637-gpio-driver","vers":"1.0.0","deps":[],"cksum":"30b4fcc2ca0fbc6eb21589b65b03b949c0503293290fbf60ff5ca3caadd2ca9f","features":{},"yanked":false,"links":null}
+{"name":"tm1637-gpio-driver","vers":"1.1.0","deps":[{"name":"wiringpi","req":"^0.2.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cde52330b377d0f5478cd8a2039f2fe7780c4d2b3b10058ffd6aa0acb4bb3862","features":{"default":["fourdigit7segdis"],"fourdigit7segdis":[],"gpio-api-wiringpi":["wiringpi"]},"yanked":false,"links":null}
