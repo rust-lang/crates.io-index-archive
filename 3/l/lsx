@@ -1,0 +1,1 @@
+{"name":"lsx","vers":"1.1.1","deps":[{"name":"arrayref","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5adcdc8b533c794efdfd70aa8c9e254718c660461412941c87018031dc48e6c1","features":{"sha256":[],"default":["sha256","twofish"],"twofish":[]},"yanked":false,"links":null}
