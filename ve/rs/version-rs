@@ -1,0 +1,1 @@
+{"name":"version-rs","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62fff5bfd23edf3e4b4f9229bb1f850b22b4620b5caa2a114c9c93991ee1cbab","features":{},"yanked":false,"links":null}
