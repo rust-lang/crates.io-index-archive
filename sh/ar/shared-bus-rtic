@@ -1,0 +1,1 @@
+{"name":"shared-bus-rtic","vers":"0.1.0","deps":[{"name":"shared-bus","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47026c804828c3d697abca24915c972bf646cb810c66cd62f90369b67a3b6911","features":{},"yanked":false,"links":null}
