@@ -1,0 +1,1 @@
+{"name":"ws2818-rgb-led-spi-driver","vers":"0.1.0","deps":[{"name":"spidev","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8bb27e2e6970a72e5ccf09fdf30e8dfdeb9b1aefef678a015a778cd72306f1b0","features":{},"yanked":false,"links":null}
