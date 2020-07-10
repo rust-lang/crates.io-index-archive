@@ -1,1 +1,2 @@
 {"name":"servos","vers":"0.0.1","deps":[{"name":"rppal","req":"^0.11.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d4eabc8fcd3c3e97e42cd951d82abd7b72b382b4e7197cff1dd60c94e3696ce","features":{},"yanked":false,"links":null}
+{"name":"servos","vers":"0.0.2","deps":[{"name":"rppal","req":"^0.11.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1d9a9304f8b78617d51cff353e25c5c40316983b9c35dde34b14aaa65b8d8a1","features":{},"yanked":false,"links":null}
