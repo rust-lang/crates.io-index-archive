@@ -1,1 +1,2 @@
 {"name":"simpleterm","vers":"0.2.0","deps":[{"name":"piston_window","req":"^0.109.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de65f2f71007b3aaf13c9df94f9d0337ee69f7933954cb0a8386007b095f08cd","features":{},"yanked":false,"links":null}
+{"name":"simpleterm","vers":"0.2.1","deps":[{"name":"piston_window","req":"^0.109.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d84e6f68ed4e0d194cd83c60e8bfdcb597f346ebd0bdffee3e51b5f3899c9367","features":{},"yanked":false,"links":null}
