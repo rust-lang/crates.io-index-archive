@@ -1,0 +1,1 @@
+{"name":"trayicon","vers":"0.1.0-alpha.1","deps":[{"name":"winapi","req":"^0.3.9","features":["winuser","windef","minwindef","shellapi","libloaderapi","commctrl","basetsd"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"c5f298aa2942711ac807d54ef90c8d9f796fdaf4f153bc6a35d511d985e809be","features":{},"yanked":false,"links":null}
