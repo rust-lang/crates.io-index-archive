@@ -1,1 +1,2 @@
 {"name":"ipr","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7921df0652e207b9c28736405a2ec0dc7df372afeda95cc047d818d004e0cded","features":{},"yanked":false,"links":null}
+{"name":"ipr","vers":"0.1.1","deps":[{"name":"clap","req":"^2.33.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2af72fddeeae6b9a87c78e7cde3639865f986417ae709b76c50e8eeeefc622b7","features":{},"yanked":false,"links":null}
