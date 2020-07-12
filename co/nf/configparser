@@ -22,3 +22,4 @@
 {"name":"configparser","vers":"0.10.0","deps":[],"cksum":"cc21f6d1920840742eb4aefea7138a5f17a951000890e80447c982348c616a10","features":{},"yanked":false,"links":null}
 {"name":"configparser","vers":"0.11.0","deps":[],"cksum":"5d3b19ec7d2bad48206f92f8077272ef7beb1558cbb2e94489ea4c519c2aa0b0","features":{},"yanked":false,"links":null}
 {"name":"configparser","vers":"0.11.1","deps":[],"cksum":"25f8a9cf204ae79edb679ef7ae35febfb9a02c2390b16672b07a1818e9b187ad","features":{},"yanked":false,"links":null}
+{"name":"configparser","vers":"0.12.0","deps":[],"cksum":"b6363d15dcc419c04e3cb93dc2945dd6daa37825fd6275080bc97ebddc1dc775","features":{},"yanked":false,"links":null}
