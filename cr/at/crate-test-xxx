@@ -1,1 +1,2 @@
 {"name":"crate-test-xxx","vers":"0.1.0","deps":[],"cksum":"5d4268a5a3dc9e5a63d80afe6ead796647fdfae3803ed0d89e05ffd6c0b9e915","features":{"mod1":[],"mod2":[]},"yanked":false,"links":null}
+{"name":"crate-test-xxx","vers":"0.1.1","deps":[],"cksum":"5e500c7de626640ec216d19c805d3de3c0d43218a10eec81473ace48286f6677","features":{"mod2":[],"mod1":[]},"yanked":false,"links":null}
