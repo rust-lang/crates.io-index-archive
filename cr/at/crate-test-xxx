@@ -8,3 +8,4 @@
 {"name":"crate-test-xxx","vers":"0.1.7","deps":[],"cksum":"49aca80786cecadd8d5ae7ed35896ae3425583f18849bf173211ceb603d44b25","features":{"mod2":[],"mod1":[]},"yanked":false,"links":null}
 {"name":"crate-test-xxx","vers":"0.1.8","deps":[],"cksum":"040fb8b18c4a84d2aa64df9ab3c6c8df8c023aac39f211e00011fc833c3beebc","features":{"full":["mod1","mod2"],"mod2":[],"mod1":[]},"yanked":false,"links":null}
 {"name":"crate-test-xxx","vers":"0.1.9","deps":[],"cksum":"d9cfcd089571076bf1dcc1470907c1ae2825542dc00a032cb3c6521f86d946fc","features":{"mod1":[],"mod2":[],"full":["mod1","mod2"]},"yanked":false,"links":null}
+{"name":"crate-test-xxx","vers":"0.1.10","deps":[],"cksum":"8661ff62a759e12e0b8ad10af8230244074e0ea7127771151bea389f0eb0b5ee","features":{"full":["mod1","mod2"],"mod1":[],"mod2":[]},"yanked":false,"links":null}
