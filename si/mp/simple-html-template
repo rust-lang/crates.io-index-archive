@@ -1,0 +1,1 @@
+{"name":"simple-html-template","vers":"0.1.0","deps":[{"name":"htmlescape","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab5703d2c5291d50d1d2980a2d0e26626d5ece04c824abc15e3299d96b3811dd","features":{"html":["htmlescape"],"default":["html"]},"yanked":false,"links":null}
