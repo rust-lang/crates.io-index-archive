@@ -11,7 +11,7 @@
 {"name":"rust-scheme","vers":"0.1.1-alpha.5","deps":[],"cksum":"2a1e0574c91cff96ba1e693585a736e8189f8b412d0bac4b573675a9881a448d","features":{},"yanked":false,"links":null}
 {"name":"rust-scheme","vers":"0.1.1-alpha.6","deps":[],"cksum":"44984b7f42ac1081b4e2a2893daa3d5bcbe64c3ea6ce39dedfcd40e44f45d224","features":{},"yanked":false,"links":null}
 {"name":"rust-scheme","vers":"0.1.1-alpha.7","deps":[],"cksum":"590b2ad540b9069ef5707be785dd842e926f1d090ef08a544fd8934f3b187f6d","features":{},"yanked":false,"links":null}
-{"name":"rust-scheme","vers":"0.1.1","deps":[],"cksum":"40fb80fcfa57888a052338130fdeeff8c821c3220750adbc86b0d325b15ab54a","features":{},"yanked":false,"links":null}
+{"name":"rust-scheme","vers":"0.1.1","deps":[],"cksum":"40fb80fcfa57888a052338130fdeeff8c821c3220750adbc86b0d325b15ab54a","features":{},"yanked":true,"links":null}
 {"name":"rust-scheme","vers":"0.1.2-alpha.0","deps":[],"cksum":"e0efed5c823c805eeac497f5670ee078dccbe50e859022d199042bd3c74cd950","features":{},"yanked":false,"links":null}
 {"name":"rust-scheme","vers":"0.1.2-alpha.1","deps":[],"cksum":"4127e4c7414f2ca53289c96d0254477f9068595768b0ffbd9d02902412d0a59c","features":{},"yanked":false,"links":null}
 {"name":"rust-scheme","vers":"0.1.2-alpha.2","deps":[],"cksum":"9fe3c40885d2d90872e22982bc9b296fdf62198be95108ccf3e9a032bd9174a5","features":{},"yanked":false,"links":null}
