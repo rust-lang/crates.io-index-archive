@@ -1,0 +1,1 @@
+{"name":"yew_assets","vers":"0.0.1","deps":[{"name":"yew","req":"^0.17","features":["web_sys"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"835b13d3e1c0e08b335fc615820d244891dbdf1ab86ec1190fe77cc29303ef4b","features":{},"yanked":false,"links":null}
