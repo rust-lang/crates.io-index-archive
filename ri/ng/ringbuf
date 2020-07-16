@@ -10,3 +10,4 @@
 {"name":"ringbuf","vers":"0.1.9","deps":[{"name":"rustc_version","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d4c5bcca9bef534aff8343fd8026bf8ddbc375edf3f20abf7e559729bf8b1c41","features":{"default":[]},"yanked":false,"links":null}
 {"name":"ringbuf","vers":"0.2.0","deps":[],"cksum":"2b97fd976600f858d55d160b26e885178b52e70c8b6c381f433db657c0e14866","features":{"benchmark":[],"default":[]},"yanked":true,"links":null}
 {"name":"ringbuf","vers":"0.2.1","deps":[],"cksum":"7c2b29d87cfbdce39849012bb5020fff88b8f01f4f5b55846a0b6ef360774eae","features":{"default":[],"benchmark":[]},"yanked":false,"links":null}
+{"name":"ringbuf","vers":"0.2.2","deps":[],"cksum":"605dc50025dcaaeb8ce2b6b3583432b446c80c90ecd8463569dba8a040e87886","features":{"benchmark":[],"default":[]},"yanked":false,"links":null}
