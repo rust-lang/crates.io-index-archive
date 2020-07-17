@@ -30,3 +30,4 @@
 {"name":"cmd_lib","vers":"0.7.6","deps":[],"cksum":"28eabc61eea070e7c527caecde99a06f974b4084621535bb54f5e3a1a0726074","features":{},"yanked":false,"links":null}
 {"name":"cmd_lib","vers":"0.7.7","deps":[],"cksum":"e2102a2f3ee22f90443491c5500d3e4ef9aadf9b04d600b8cb4b55b1589361cc","features":{},"yanked":false,"links":null}
 {"name":"cmd_lib","vers":"0.7.8","deps":[],"cksum":"475bd7aa7680b4ed8f6bb59745e882bcbaeb39326532bb79ffb1716480d9a274","features":{},"yanked":false,"links":null}
+{"name":"cmd_lib","vers":"0.8.0","deps":[],"cksum":"a47c5032832940f4f77c7d68d79103f1045bd4e3078316a3042eb021bad09873","features":{},"yanked":false,"links":null}
