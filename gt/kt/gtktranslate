@@ -1,0 +1,1 @@
+{"name":"gtktranslate","vers":"0.1.5","deps":[{"name":"gtk","req":"^0.8.0","features":["v3_16"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31a37762285b4a46c0576a96500bf9f204ca906c62dc6398a2296e9a9d4481a2","features":{},"yanked":false,"links":null}
