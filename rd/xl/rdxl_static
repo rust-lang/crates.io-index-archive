@@ -1,1 +1,2 @@
 {"name":"rdxl_static","vers":"0.0.1","deps":[{"name":"rdxl","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7ac466cf13deb9aec88f702ac7f92619ab15298b6a339e4b12fcc9bc3037f02","features":{},"yanked":false,"links":null}
+{"name":"rdxl_static","vers":"0.0.2","deps":[{"name":"rdxl","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5a13dbb1dbd8a7d07effaf1ba5748876079c09d0f0ddf1bbf00f6965464a545","features":{},"yanked":false,"links":null}
