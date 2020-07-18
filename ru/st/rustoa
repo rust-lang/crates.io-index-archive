@@ -1,0 +1,1 @@
+{"name":"rustoa","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.10","features":["blocking","json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db83037dbb1b4bd0d0c21a5ca1fafb1a0edf9d83647bd2bfd84a75bfa53c4df7","features":{},"yanked":false,"links":null}
