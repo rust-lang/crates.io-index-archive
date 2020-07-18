@@ -8,5 +8,5 @@
 {"name":"inputparser","vers":"0.1.51","deps":[],"cksum":"b50bcf4b27d0a245af0a1e30be29dc578818554513bab4ad733dc4d2d46ab28b","features":{},"yanked":false,"links":null}
 {"name":"inputparser","vers":"0.1.52","deps":[],"cksum":"04121c38f1ebcacfc1187593724a67eeabf88bcb90043f705f36d5526c3d5845","features":{},"yanked":false,"links":null}
 {"name":"inputparser","vers":"0.1.53","deps":[],"cksum":"3fa410c8a3b1f1894348c5cf222c69bcff1ebdd4b83e10cb168f5d445b9ceef6","features":{},"yanked":false,"links":null}
-{"name":"inputparser","vers":"0.1.6","deps":[],"cksum":"1e9aa484d58c4649737d5fe6c36b18d1132cbd7d7e7270c13b70443872cd646b","features":{},"yanked":false,"links":null}
+{"name":"inputparser","vers":"0.1.6","deps":[],"cksum":"1e9aa484d58c4649737d5fe6c36b18d1132cbd7d7e7270c13b70443872cd646b","features":{},"yanked":true,"links":null}
 {"name":"inputparser","vers":"0.1.60","deps":[],"cksum":"f6ba6906b883d3095a13000bf2426ac95101d1b65f0a092f0995bfe133f63d27","features":{},"yanked":false,"links":null}
