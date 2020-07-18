@@ -6,4 +6,4 @@
 {"name":"string-parser","vers":"0.1.5","deps":[],"cksum":"46e079466fad2cd4673f6ccd80b3a2c8aa94e981a7ab7b4e5c023a0a37e23596","features":{},"yanked":false,"links":null}
 {"name":"string-parser","vers":"0.1.6","deps":[],"cksum":"bc022a8bbe682969642fb63b866d9946f4ac9ff9528545e614eeae481bfc8c10","features":{},"yanked":true,"links":null}
 {"name":"string-parser","vers":"0.1.7","deps":[],"cksum":"06fb44448bb903222b88bb918ae5ce755bea89e918ab9a66ec6c26be8748f07e","features":{},"yanked":true,"links":null}
-{"name":"string-parser","vers":"0.1.8","deps":[],"cksum":"35271280aabb6831003abc887493effdf697de3d2c791c4a2fc59e7de421a199","features":{},"yanked":false,"links":null}
+{"name":"string-parser","vers":"0.1.8","deps":[],"cksum":"35271280aabb6831003abc887493effdf697de3d2c791c4a2fc59e7de421a199","features":{},"yanked":true,"links":null}
