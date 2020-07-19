@@ -1,2 +1,3 @@
 {"name":"butcher","vers":"0.1.0","deps":[],"cksum":"d05be574d2fbdc46089cc229ec816b27021c5a4f1a5bb7b4dad24771e72e978c","features":{},"yanked":false,"links":null}
 {"name":"butcher","vers":"0.1.1","deps":[],"cksum":"a3a903901559749622b6e05e749a3e5414d453f81fca26f0a51059dd9ef1da3a","features":{},"yanked":false,"links":null}
+{"name":"butcher","vers":"0.2.0","deps":[{"name":"butcher_proc_macro","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09f93b8299862622c2caffe7fe6008118d47b6e8404f8ca4380b78c1fc76a389","features":{},"yanked":false,"links":null}
