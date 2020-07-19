@@ -1,1 +1,2 @@
 {"name":"async-timeout","vers":"0.0.1","deps":[],"cksum":"46d7dec76c25eb63f8db927d6052a5b9dbd712934a64d560ec04d043eb37bf8b","features":{},"yanked":false,"links":null}
+{"name":"async-timeout","vers":"0.1.0","deps":[{"name":"tokio","req":"^0.2","features":["time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"327cc4f20d0f192f77851d2a6415555c8a50c68960fbe21d32cd86b8473cbdfd","features":{},"yanked":false,"links":null}
