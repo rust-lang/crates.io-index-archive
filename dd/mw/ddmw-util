@@ -1,1 +1,2 @@
 {"name":"ddmw-util","vers":"0.1.0","deps":[],"cksum":"3dbf74d859eebc9edda201e84ae54889816b98323099162cc68e142482f9db83","features":{},"yanked":false,"links":null}
+{"name":"ddmw-util","vers":"0.1.1","deps":[{"name":"bytes","req":"^0.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc3fe117b824bb2b3673f9bedc454c7c67a974b998ce92bef19655bfff71ba9f","features":{},"yanked":false,"links":null}
