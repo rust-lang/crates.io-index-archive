@@ -1,0 +1,1 @@
+{"name":"polyfit-rs","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9dbfad4a73c0059e3f9e8a63529283cb9125b3672466a9de6967d27615d58e9","features":{},"yanked":false,"links":null}
