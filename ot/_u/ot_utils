@@ -1,1 +1,2 @@
 {"name":"ot_utils","vers":"0.1.0","deps":[{"name":"hound","req":"^3.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be0ef1c241844ebd3d5ed0193f2daaf4d6da6724b80119f85424227a885c42bd","features":{},"yanked":false,"links":null}
+{"name":"ot_utils","vers":"0.1.1","deps":[{"name":"hound","req":"^3.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1cfac464e4e4c1edcb512d2cfd74032a2e00eed1912c31862adb2268aca76a23","features":{},"yanked":false,"links":null}
