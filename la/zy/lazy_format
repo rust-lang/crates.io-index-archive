@@ -12,5 +12,5 @@
 {"name":"lazy_format","vers":"1.7.2","deps":[],"cksum":"6385ef31c157938a28d796e46397b9809c5324d400f3c769c08989b3e22d1b35","features":{},"yanked":false,"links":null}
 {"name":"lazy_format","vers":"1.7.3","deps":[],"cksum":"cc3515087960ac7d2fc26665cc3c92330b00b93773a2d39128f560c707366890","features":{},"yanked":false,"links":null}
 {"name":"lazy_format","vers":"1.7.4","deps":[],"cksum":"1fcbfa370488b9d46f50882230e38c0b9e1f7bf2e8aabb883540dfe2d5985008","features":{},"yanked":false,"links":null}
-{"name":"lazy_format","vers":"1.8.0","deps":[{"name":"horrorshow","req":"^0.8.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d94b172e6f47451676885f7a76d9f9f11dbf3e5771c5b42cc83a1a5a19af51bc","features":{},"yanked":false,"links":null}
+{"name":"lazy_format","vers":"1.8.0","deps":[{"name":"horrorshow","req":"^0.8.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d94b172e6f47451676885f7a76d9f9f11dbf3e5771c5b42cc83a1a5a19af51bc","features":{},"yanked":true,"links":null}
 {"name":"lazy_format","vers":"1.8.1","deps":[{"name":"horrorshow","req":"^0.8.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c7885e05f434e04b7ef1df5464ec54ccae03f8e37714728a3599805625a484b","features":{},"yanked":false,"links":null}
