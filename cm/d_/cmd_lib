@@ -32,3 +32,4 @@
 {"name":"cmd_lib","vers":"0.7.8","deps":[],"cksum":"475bd7aa7680b4ed8f6bb59745e882bcbaeb39326532bb79ffb1716480d9a274","features":{},"yanked":false,"links":null}
 {"name":"cmd_lib","vers":"0.8.0","deps":[],"cksum":"a47c5032832940f4f77c7d68d79103f1045bd4e3078316a3042eb021bad09873","features":{},"yanked":false,"links":null}
 {"name":"cmd_lib","vers":"0.8.1","deps":[],"cksum":"e34b5246c665a53b82ad3e7241e7309eff226a4bcbba237cd82fe8a0b4b98b2f","features":{},"yanked":false,"links":null}
+{"name":"cmd_lib","vers":"0.8.2","deps":[],"cksum":"b9feb5398e89241582551f6f7b3196b98c8ddc801725e2ac939e4b8c5a760ce1","features":{},"yanked":false,"links":null}
