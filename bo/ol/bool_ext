@@ -4,3 +4,4 @@
 {"name":"bool_ext","vers":"0.3.0","deps":[],"cksum":"52cafd8fd53f58999595102cd8164494aadd06493fc1480c62b8b6c2327eb2e4","features":{},"yanked":false,"links":null}
 {"name":"bool_ext","vers":"0.3.1","deps":[],"cksum":"ab761a308f181aed7001d568e79963fc0a6a7a96b1da56999e8c83a3d3269ad2","features":{},"yanked":false,"links":null}
 {"name":"bool_ext","vers":"0.4.0","deps":[{"name":"assert2","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"30ac802a8a9843b3f825830e42368bfd61baaeedf72ce452a366501abc743130","features":{},"yanked":false,"links":null}
+{"name":"bool_ext","vers":"0.4.1","deps":[{"name":"assert2","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a57d0b6b8d072560ec6402a3b6cae8d66d287017dcd1e0a08a3ff734328bd550","features":{},"yanked":false,"links":null}
