@@ -1,0 +1,1 @@
+{"name":"user_stable_vtable","vers":"0.1.0","deps":[],"cksum":"9cc66437b2902ad6cff84ad61f28472c9820164a2ee40c9c297ab22a903d8acf","features":{"alloc":[],"default":["box"],"box":["alloc"]},"yanked":false,"links":null}
