@@ -1,1 +1,2 @@
 {"name":"user_stable_vtable","vers":"0.1.0","deps":[],"cksum":"9cc66437b2902ad6cff84ad61f28472c9820164a2ee40c9c297ab22a903d8acf","features":{"alloc":[],"default":["box"],"box":["alloc"]},"yanked":false,"links":null}
+{"name":"user_stable_vtable","vers":"0.2.0","deps":[{"name":"static_assertions","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86aadfb8aece32dfdc3d409fe4a1cc7e6f229db2211b82f73fa696cb1a7b2e90","features":{"alloc":[],"default":["box"],"box":["alloc"]},"yanked":false,"links":null}
