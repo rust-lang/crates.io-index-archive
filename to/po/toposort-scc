@@ -1,0 +1,1 @@
+{"name":"toposort-scc","vers":"0.1.0","deps":[{"name":"id-arena","req":"^2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f96b3777970331d486d985b634cb8efe7f6a7454c93b2a0183c178059817c764","features":{},"yanked":false,"links":null}
