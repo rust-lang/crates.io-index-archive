@@ -1,0 +1,1 @@
+{"name":"suspend","vers":"0.1.0","deps":[{"name":"futures-util","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7213de8006af4099c670b0be6e0ac449388cc89b7d70523be804c90a99114fe4","features":{},"yanked":false,"links":null}
