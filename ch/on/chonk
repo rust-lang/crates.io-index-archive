@@ -1,1 +1,2 @@
 {"name":"chonk","vers":"0.1.0","deps":[],"cksum":"d37ea7fb077fa60dfba1c892d3af97806cc87ed24658d94dc239e5e28e06ec5a","features":{},"yanked":false,"links":null}
+{"name":"chonk","vers":"0.2.0","deps":[{"name":"paste","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d59bb0b87d0f45c73ac84b2de027b8f7795d7dcf03829897a3ba3e1e8f216c13","features":{},"yanked":false,"links":null}
