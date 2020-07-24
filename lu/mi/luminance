@@ -81,3 +81,4 @@
 {"name":"luminance","vers":"0.38.0","deps":[{"name":"gl","req":"^0.14","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20a5ff8bdb29331980a9686ae18da865b1314aa5aa0da372417b85e90ba7af7c","features":{"std":["gl"],"default":["std"]},"yanked":false,"links":null}
 {"name":"luminance","vers":"0.39.0","deps":[{"name":"gl","req":"^0.14","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"367433f73e04ed455320ca7d2111aaa7594d2d5f88a924d1896120c079f70426","features":{"default":["std"],"std":["gl"]},"yanked":false,"links":null}
 {"name":"luminance","vers":"0.40.0","deps":[],"cksum":"2470d5250320d9a2042c0de4bb86159050854899d480fbbfad412c27715b28cf","features":{},"yanked":false,"links":null}
+{"name":"luminance","vers":"0.41.0","deps":[],"cksum":"fdde9a32c24a02e8b10a34787f24c42bcf1516e0be53556c3d7545297fb38f01","features":{},"yanked":false,"links":null}
