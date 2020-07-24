@@ -1,0 +1,1 @@
+{"name":"ipcs-apidefs","vers":"0.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b4272c971f6ffcfa1f7fe198107433f6322a244d60ba8917c39cae8f38a97292","features":{},"yanked":false,"links":null}
