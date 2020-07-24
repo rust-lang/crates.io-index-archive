@@ -1,0 +1,1 @@
+{"name":"ipcs-runtime","vers":"0.0.0","deps":[{"name":"codegen","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"ipcs-codegen"}],"cksum":"fe6bd59f4291be5e2bf77765525043465bbd5531d2dca94d7167a3fd27f011ea","features":{},"yanked":false,"links":null}
