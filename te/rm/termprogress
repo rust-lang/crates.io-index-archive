@@ -1,1 +1,2 @@
 {"name":"termprogress","vers":"0.1.0","deps":[{"name":"terminal_size","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0da57e7772bbe581bd987075cf439088514f7442c5812b7dabe856066f884ed6","features":{},"yanked":false,"links":null}
+{"name":"termprogress","vers":"0.1.1","deps":[{"name":"terminal_size","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e22b32d7337dc9c6847aaecf941ca3f999d84442614ddf840a1bb00fa5782799","features":{},"yanked":false,"links":null}
