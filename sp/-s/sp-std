@@ -8,3 +8,4 @@
 {"name":"sp-std","vers":"2.0.0-rc2","deps":[],"cksum":"652e90f1e036a1499c79c5c2d8569709dd31a1ea263c99da47b3c7f2121a938a","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"sp-std","vers":"2.0.0-rc3","deps":[],"cksum":"b3dc3b71646e5b94bd6c9ff73d42d86bcbd55a257709ac0b3bcde90d42a16b45","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"sp-std","vers":"2.0.0-rc4","deps":[],"cksum":"be9a60b2db0140169c0bada42bc4045be9902495f44b9f0be62499aafc0ff160","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"sp-std","vers":"2.0.0-rc5","deps":[],"cksum":"2a58c21080bbfd72305a66db730d9cfaac50100a85071f560b133881f70e109a","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
