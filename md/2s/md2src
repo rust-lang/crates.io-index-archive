@@ -1,0 +1,1 @@
+{"name":"md2src","vers":"0.0.1","deps":[{"name":"pulldown-cmark","req":"^0.7","features":["simd"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ff3b09b33e08e8ba8b5b49313fa92d13a0b963fe23cddcef1e756bc2b05248a7","features":{},"yanked":false,"links":null}
