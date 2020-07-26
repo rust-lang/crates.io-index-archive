@@ -3,3 +3,4 @@
 {"name":"polyglot_tokenizer","vers":"0.1.2","deps":[{"name":"logos","req":"^0.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dca83434ebf3a099217248d755e683473b019556f5ca4d56b99e6f0689147220","features":{},"yanked":false,"links":null}
 {"name":"polyglot_tokenizer","vers":"0.1.3","deps":[{"name":"logos","req":"^0.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5d2395bc43cb92ddb5a5842ac20f55f8331bee525be69d4ff70e62fbae908c7","features":{},"yanked":false,"links":null}
 {"name":"polyglot_tokenizer","vers":"0.2.0","deps":[],"cksum":"7d2f3fb43b6b271146577b9fbe0140bcac5b2e1ea429cf24e765326aa8158962","features":{},"yanked":false,"links":null}
+{"name":"polyglot_tokenizer","vers":"0.2.1","deps":[],"cksum":"d6091586d3c58239b154276ca7d7a14035605b829a27b92dbe10625e78ef909d","features":{},"yanked":false,"links":null}
