@@ -1,0 +1,1 @@
+{"name":"scrummage","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"829e56a767b08ed59e327bcf55cb47b1dda4589c62922d59cd78872260eb2412","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
