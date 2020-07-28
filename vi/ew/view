@@ -7,3 +7,4 @@
 {"name":"view","vers":"0.1.3","deps":[{"name":"proc-macro-hack","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"view_macro","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7af5eeb06137b40241640ec37f327f6f44f799a889d23c2d244088f0395b6fa7","features":{},"yanked":false,"links":null}
 {"name":"view","vers":"0.2.0","deps":[],"cksum":"a32492fa2fd1ec77764a69aa1c6fd82afa74900b1b32773ae351fe7badb0c6ca","features":{},"yanked":false,"links":null}
 {"name":"view","vers":"0.3.0","deps":[],"cksum":"1e799a485ad2f16039d579bc65ca8af7b8f51ee40489c18bc7d3dde9938c0db3","features":{},"yanked":false,"links":null}
+{"name":"view","vers":"0.4.0","deps":[],"cksum":"70d290e57dab83168d880e911b8fa7745e018b40d5ac6e234a638177d293ffed","features":{},"yanked":false,"links":null}
