@@ -3,3 +3,4 @@
 {"name":"polynomials","vers":"0.2.0","deps":[],"cksum":"3d33c27275e9a6746325d3520b73102c1735465042ac14bee5f7afdd246fddc9","features":{},"yanked":false,"links":null}
 {"name":"polynomials","vers":"0.2.1","deps":[],"cksum":"bb4145680065a2e7998f1adc0808723849a4830063e87dbe0338bbbb74771b7b","features":{},"yanked":false,"links":null}
 {"name":"polynomials","vers":"0.2.2","deps":[],"cksum":"c580db2e4fa5d471521d5fbb7ccde108e086c6d3be0b793e2d72f3d0d26180e6","features":{},"yanked":false,"links":null}
+{"name":"polynomials","vers":"0.2.3","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d575621ca704ca9ed5830c07019ca66255e4fd6a41928f95c01ffddee36f3c8","features":{},"yanked":false,"links":null}
