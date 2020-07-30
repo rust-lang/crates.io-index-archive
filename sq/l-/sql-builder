@@ -46,3 +46,4 @@
 {"name":"sql-builder","vers":"0.13.0","deps":[],"cksum":"659f96b1aae85bc3804a8e332bdeb2c5f39b663a788bae86743953a1c9c5da44","features":{},"yanked":false,"links":null}
 {"name":"sql-builder","vers":"1.0.0","deps":[],"cksum":"a68d337b2842e3a78421bd785c1096c96ef8da1fc03ae0f42c21b0e8e7728518","features":{},"yanked":false,"links":null}
 {"name":"sql-builder","vers":"1.1.0","deps":[],"cksum":"36252f6a6e1fb214f244055d3755ad2108a0e8c5aa2c5d065966b416f9990726","features":{},"yanked":false,"links":null}
+{"name":"sql-builder","vers":"1.1.1","deps":[],"cksum":"23219b03c2af8a00d72b47515eea81a5069394d05eb44ac6a5fd2412bfaf0c92","features":{},"yanked":false,"links":null}
