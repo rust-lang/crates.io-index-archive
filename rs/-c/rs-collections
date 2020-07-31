@@ -1,0 +1,1 @@
+{"name":"rs-collections","vers":"0.1.0","deps":[{"name":"rs-mem","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ba404da7498ef8ac2b8e514a8e3c811b457bff3e8f6f5b24549ea75569d933a","features":{},"yanked":false,"links":null}
