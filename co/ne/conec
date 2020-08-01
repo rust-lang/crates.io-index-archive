@@ -1,0 +1,1 @@
+{"name":"conec","vers":"0.0.1","deps":[{"name":"quinn","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a50828c7e3fcc788ae1e8ea0d6730df55f051d868952a0236bcdc80c02cea6b4","features":{},"yanked":false,"links":null}
