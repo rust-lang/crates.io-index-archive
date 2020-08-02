@@ -1,1 +1,2 @@
 {"name":"pineappl_capi","vers":"0.1.0","deps":[{"name":"pineappl","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd007d2ba0397d152d13072776bb5bc1f3652375921c3ffa065ed75e99eb1ed3","features":{},"yanked":false,"links":null}
+{"name":"pineappl_capi","vers":"0.2.0","deps":[{"name":"pineappl","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecb6ad6a27ad8d73d585fabd2599b04917883d1fcd1e6ceac05829967cbafeb6","features":{},"yanked":false,"links":null}
