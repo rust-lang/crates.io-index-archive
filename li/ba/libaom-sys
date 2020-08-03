@@ -1,0 +1,1 @@
+{"name":"libaom-sys","vers":"0.5.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6dc1ab5d8c30229a83df940e31c784494d739617dcb356f66fe5d323e23e6f58","features":{"__internal_aom_generic_target":[]},"yanked":false,"links":"aom"}
