@@ -3,3 +3,4 @@
 {"name":"vfs","vers":"0.1.2","deps":[],"cksum":"100ceccffdcb53ff245f7a7fd3863a138321755e133ab1f8357113d8d5e6c253","features":{},"yanked":false}
 {"name":"vfs","vers":"0.2.0","deps":[],"cksum":"834516709c52a66594963eac7965a88bf6aab85d6a6bc6931e8870f7e88dd831","features":{},"yanked":false}
 {"name":"vfs","vers":"0.2.1","deps":[],"cksum":"37790e40d9ac1c7b87bb27939acd360ff5629072665a02be73d635d7de1b4281","features":{},"yanked":false,"links":null}
+{"name":"vfs","vers":"0.3.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"uuid","req":"^0.8","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"88ca03e288f4ab923d51d82fd79e6ce3aa7a58b8baf8e5fde0fce7bc20d62935","features":{},"yanked":false,"links":null}
