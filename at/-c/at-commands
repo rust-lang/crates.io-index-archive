@@ -1,0 +1,3 @@
+{"name":"at-commands","vers":"0.1.1","deps":[{"name":"arrayvec","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce541929cfad19fb05b7db8bc36408ea552d8c45f7b1d7b3b4b2a8e788642da1","features":{},"yanked":false,"links":null}
+{"name":"at-commands","vers":"0.2.0","deps":[{"name":"arrayvec","req":"^0.5.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"82dec9f66d262cd842f0d39accc8e22a15c3c59e6f98911c89bd87ffdeb25d0c","features":{},"yanked":false,"links":null}
+{"name":"at-commands","vers":"0.2.1","deps":[],"cksum":"6f1d92acd7a375011a6924b8128f1f4efe120486368487ceed25753fe347ad9e","features":{},"yanked":false,"links":null}

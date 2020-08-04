@@ -1,0 +1,2 @@
+{"name":"mownstr","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8ebeced67cfa362f3d05333f442cc3ff8ec39a459a65f33f72f5b1ee89f07c20","features":{},"yanked":false,"links":null}
+{"name":"mownstr","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"342a407881dbd200f13a08ff8a5413232e035ed7ba56dba8c81137e3afce4f84","features":{},"yanked":false,"links":null}

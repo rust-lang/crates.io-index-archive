@@ -1,0 +1,1 @@
+{"name":"rfc-4226","vers":"0.1.0","deps":[{"name":"ring","req":"^0.14.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae91259b8513b837f17a6e05f95a3865f7160d2220965d614f5dd89bed0cfd5b","features":{},"yanked":false,"links":null}

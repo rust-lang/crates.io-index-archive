@@ -1,0 +1,5 @@
+{"name":"statiki","vers":"0.1.0","deps":[],"cksum":"48dd037dd98a2d928cff0e63e30f09e4890f1fad59ac53f3fdf2bc79c16f3c7c","features":{"docs":[],"default":[]},"yanked":false,"links":null}
+{"name":"statiki","vers":"0.2.0","deps":[],"cksum":"a9567f1c9a78eb3f48899992bec8007b937727bb54ca4e068051d60fca32e598","features":{"docs":[],"default":[]},"yanked":false,"links":null}
+{"name":"statiki","vers":"0.2.1","deps":[],"cksum":"d1135def80e9f9247f4b12d4aef81368044f3287e75cbe245a0d41a02d1500de","features":{"default":[],"docs":[]},"yanked":false,"links":null}
+{"name":"statiki","vers":"0.2.2","deps":[],"cksum":"da19a3afbea9f25a12c2fdec4a90912ce0db61ff08db9060a8061ffaae6ebfa8","features":{"std":[],"docs":[],"default":[]},"yanked":false,"links":null}
+{"name":"statiki","vers":"0.3.0","deps":[],"cksum":"06cfc3895b1ec7c6251ffce36e87c2776e4c12d722c4ffadca3c76ea094064cb","features":{"docs":[],"std":[],"default":[]},"yanked":false,"links":null}

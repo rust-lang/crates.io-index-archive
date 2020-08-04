@@ -1,0 +1,2 @@
+{"name":"redox_hwio","vers":"0.1.0","deps":[],"cksum":"9c5c3085fd5054b1f2ad35668f7c60031e6a7cb05d82477f936ac700d24d4477","features":{},"yanked":false,"links":null}
+{"name":"redox_hwio","vers":"0.1.1","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"847d8b48be152acb4b75dbc37d873ac54899389691f5de3358603c889883b25d","features":{"default":[],"stable":["lazy_static"]},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"isolanguage-1","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.104","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98e73f233bffd5a6a3caac6e28547e53d4771213bb8f3c79f683dc3c2438379b","features":{"serde_support":["serde"],"default":[]},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"const-default","vers":"0.1.0","deps":[{"name":"const-default-derive","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d59d84f451ba351bb70fe7f150a46314fdca5f98bb5f51353734806e879f228b","features":{"derive":["const-default-derive"],"unstable":[],"std":["alloc"],"alloc":[]},"yanked":false,"links":null}

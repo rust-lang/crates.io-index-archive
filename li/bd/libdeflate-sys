@@ -1,0 +1,1 @@
+{"name":"libdeflate-sys","vers":"0.5.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"21e39efa87b84db3e13ff4e2dfac1e57220abcbd7fe8ec44d238f7f4f787cc1f","features":{},"yanked":false,"links":"libdeflate"}

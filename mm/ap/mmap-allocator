@@ -1,0 +1,1 @@
+{"name":"mmap-allocator","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.67","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"93aaa94e1dd66211cd4ba6a24ebc1362ef749cedf8f3a1177852b36e1b0d93ab","features":{},"yanked":false,"links":null}

@@ -1,0 +1,2 @@
+{"name":"gsasl-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bcb012bb6a7bb85ebbdb94b53f9957fdd18422cc24979df29ae5949c2b0057b9","features":{},"yanked":false,"links":"gsasl"}
+{"name":"gsasl-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.53.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9a23468198e86f09c8da7ae40ba7844c28cc2fa82f5f1ce7d309d51c8132bc33","features":{},"yanked":false,"links":"gsasl"}

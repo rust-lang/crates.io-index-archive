@@ -1,0 +1,1 @@
+{"name":"midi-control","vers":"0.1.0","deps":[{"name":"midir","req":"^0.5.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae8f681749bf0e2bd16e546a39d39dda7b8b9859964b196583eed1061ffc3750","features":{"default":["transport"],"transport":["midir"]},"yanked":false,"links":null}

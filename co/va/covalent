@@ -1,0 +1,2 @@
+{"name":"covalent","vers":"0.1.0","deps":[],"cksum":"067fd3f09f904926e223211a9c95f7d05fdd2ac74b9ff94c9224c9ddd9c79def","features":{},"yanked":false,"links":null}
+{"name":"covalent","vers":"0.1.1","deps":[{"name":"cgmath","req":"^0.17.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5df00c755114262da550acba5e266ca73c124c5eb3eaf8f6d86ee5299c4c02f","features":{},"yanked":false,"links":null}

@@ -1,0 +1,3 @@
+{"name":"ca-formats","vers":"0.1.0","deps":[],"cksum":"d78e91de4b2653579ce311eeed053432a71d9ecdf800bc84aaec71b16a02af4a","features":{},"yanked":false,"links":null}
+{"name":"ca-formats","vers":"0.1.1","deps":[],"cksum":"b1b147f1971cc51a6a4ebaf51fdd20b9292b652121ddab781649e27aee1dcb6d","features":{},"yanked":false,"links":null}
+{"name":"ca-formats","vers":"0.1.2","deps":[{"name":"thiserror","req":"^1.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2bc56a134da3c195c4cd15744723e44c6312c692969856016d47d8c7189f195","features":{},"yanked":false,"links":null}

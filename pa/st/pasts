@@ -1,0 +1,5 @@
+{"name":"pasts","vers":"0.0.1","deps":[],"cksum":"cdf4ff46329727b95b3b2cb92f3196af205e248bb205fd73901eea6d82720e83","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"pasts","vers":"0.1.0","deps":[],"cksum":"61da638475b0f8601ef7aced77372366ac78511a180cc619fe2fde32e37d3f13","features":{"std":[],"default":["std"],"docs-rs":[]},"yanked":false,"links":null}
+{"name":"pasts","vers":"0.2.0","deps":[],"cksum":"31d7502bda8c2a96a9faab965a4c129de78771d1ea4113cbca4d3189917f5bb3","features":{"default":["std"],"docs-rs":[],"std":[]},"yanked":false,"links":null}
+{"name":"pasts","vers":"0.3.0","deps":[],"cksum":"0bf5d46886ad5ba0c8185919c336a36721ee626910c061f24b36455a4e6e79d0","features":{"std":[],"default":["std"],"docs-rs":[]},"yanked":false,"links":null}
+{"name":"pasts","vers":"0.4.0","deps":[],"cksum":"e757c35a2e17447d0c8499811054a274f9d46cd94ec9b526a4ecab0bdb672d87","features":{"default":["std"],"std":["alloc"],"alloc":[],"docs-rs":[]},"yanked":false,"links":null}

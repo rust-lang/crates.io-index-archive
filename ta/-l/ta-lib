@@ -1,0 +1,1 @@
+{"name":"ta-lib","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f484e0ef64ee42aa3eac3125e686d8f25db596dd824c490c86b05b58e4c28ed","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"init_trait","vers":"0.1.0","deps":[{"name":"version-sync","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8bde438b5ccb778f9893e135f1f507f0df12bed07d7a343a966a1ef5ddf97a2a","features":{"std":[],"alloc":[],"default":["std"]},"yanked":false,"links":null}

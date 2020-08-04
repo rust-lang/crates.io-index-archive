@@ -1,0 +1,2 @@
+{"name":"chekov","vers":"0.0.1","deps":[],"cksum":"3e2ffa98689b49af91f4e9226c224fa979bafa580a1ca5ec6c399db1d0fbc656","features":{},"yanked":false,"links":null}
+{"name":"chekov","vers":"0.1.0","deps":[{"name":"event_store","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"786a455e25c2c1631597c6130e065fe38a4d49b61a0abed794379adffd28f456","features":{},"yanked":false,"links":null}

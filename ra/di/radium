@@ -1,0 +1,4 @@
+{"name":"radium","vers":"0.1.0","deps":[],"cksum":"9c99f3a3a8920d098024f3f832346c447ce5ec6deabdabdc29b552b1acb5ce94","features":{},"yanked":false,"links":null}
+{"name":"radium","vers":"0.1.1","deps":[],"cksum":"7f86d8d414657a88276bc8fda6593574400e01228b2cdf4be7ca3818f93feb60","features":{},"yanked":false,"links":null}
+{"name":"radium","vers":"0.2.0","deps":[{"name":"static_assertions","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"811a10407788a167f6d90e9f847f7db1d4a178a0bbb8120a988feab19c0628c4","features":{},"yanked":false,"links":null}
+{"name":"radium","vers":"0.3.0","deps":[{"name":"static_assertions","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"def50a86306165861203e7f84ecffbbdfdea79f0e51039b33de1e952358c47ac","features":{},"yanked":false,"links":null}

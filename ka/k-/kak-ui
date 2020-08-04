@@ -1,0 +1,1 @@
+{"name":"kak-ui","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87c3832a0cd4ebf4fae08239ee7f673279ddced52f70c497691e7a7aca475648","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"trans-gen-go","vers":"0.1.0","deps":[{"name":"trans-gen-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17fdaf80b3179764d64d2daf63e071ce9ce9e8922b511f2c49f226b1931d844f","features":{},"yanked":false,"links":null}

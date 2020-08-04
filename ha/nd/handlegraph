@@ -1,0 +1,2 @@
+{"name":"handlegraph","vers":"0.1.0","deps":[{"name":"gfa","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8ef11a79c803aee79286d5c2b8cb6936bb7fbd77ce92df18a768ca3a9bbfa95","features":{},"yanked":false,"links":null}
+{"name":"handlegraph","vers":"0.2.0","deps":[{"name":"gfa","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"688852bda4d2bf8e565b5853b02d0e7070ceefe665573a4559f7bf0bb24235a0","features":{},"yanked":false,"links":null}

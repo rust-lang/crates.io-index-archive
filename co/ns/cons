@@ -1,0 +1,3 @@
+{"name":"cons","vers":"0.0.1","deps":[],"cksum":"d9c8b022bb0276ece8a97aebda56fa8c33d2805b4464ea3f82f35cf6e8a81816","features":{},"yanked":true,"links":null}
+{"name":"cons","vers":"0.0.3","deps":[{"name":"cons-list","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e522b2758fee579756fce6cbf86b7273729c48b4cbb5b4f5e04bbed5ecbd775","features":{},"yanked":true,"links":null}
+{"name":"cons","vers":"0.0.4","deps":[],"cksum":"e45e10845fe158fe9831f2a638f3ca85d7587b136e5471c9926c80a616924377","features":{},"yanked":false,"links":null}

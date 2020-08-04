@@ -1,0 +1,1 @@
+{"name":"thread_io","vers":"0.2.0","deps":[{"name":"crossbeam","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93e5f15cc7d9bd46ca1e78ff4d80367be610fc03da76e659bcce774840fed96c","features":{"crossbeam_channel":[]},"yanked":false,"links":null}

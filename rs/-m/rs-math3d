@@ -1,0 +1,1 @@
+{"name":"rs-math3d","vers":"0.9.0","deps":[{"name":"libc","req":"^0.2.72","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a31701fd634f7ee04ead9c19bc3dbed40be5529bae181b0741899d82c9f20663","features":{},"yanked":false,"links":null}

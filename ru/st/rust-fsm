@@ -1,0 +1,2 @@
+{"name":"rust-fsm","vers":"0.2.0","deps":[{"name":"rust-fsm-dsl","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99a17c4404e83fc2091b3b3e213e90f11a3b9ae89893c04f2989982f7410da48","features":{},"yanked":false,"links":null}
+{"name":"rust-fsm","vers":"0.3.0","deps":[{"name":"rust-fsm-dsl","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1b9ef6eff7d93f596b654be024cdb030dadc0bff93eb22e34a123cc2b13fcb6","features":{},"yanked":false,"links":null}

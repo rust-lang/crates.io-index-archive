@@ -1,0 +1,2 @@
+{"name":"anchors","vers":"0.1.0","deps":[],"cksum":"b61064de32663e95eb92b135f245ae833877eab1103985235886683d3253d4f4","features":{},"yanked":false,"links":null}
+{"name":"anchors","vers":"0.2.0","deps":[{"name":"petgraph","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"slotmap","req":"^0.4.0","features":["unstable"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e27e006337ba48636b045da5c7e17d43170d75374cd5078da54bdabf4372cb82","features":{},"yanked":false,"links":null}

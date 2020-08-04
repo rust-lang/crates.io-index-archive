@@ -1,0 +1,2 @@
+{"name":"aligned-bytes","vers":"0.1.0","deps":[],"cksum":"b0a47da935365ec7f55fa080409746afe3d40640d8548fee9533790b696746da","features":{},"yanked":false,"links":null}
+{"name":"aligned-bytes","vers":"0.1.1","deps":[],"cksum":"2aaddeb426a4f66e7a58b4ea285ddbffa514698e7429e086b2d6b6827d01d6d6","features":{"default":["std"],"std":[]},"yanked":false,"links":null}

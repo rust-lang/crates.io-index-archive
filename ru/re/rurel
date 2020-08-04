@@ -1,0 +1,3 @@
+{"name":"rurel","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0a9cd37a04fa9518c85335ddeab57fa2cdea6f39766857783d30712484160c6","features":{},"yanked":false}
+{"name":"rurel","vers":"0.1.1","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af9784e0c42ede868db710ccebd617947745af295e737b6548ac55fd3af2749b","features":{},"yanked":false}
+{"name":"rurel","vers":"0.1.2","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9bbff29d5d73cc25da7a9d84ffd4d21d166887829112866be2a8ddc6e0e7b56a","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"tortuga","vers":"0.1.0","deps":[{"name":"wasmer-runtime","req":"^0.16.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55a30582bd9fd84dd6b75bbd65a6c8c152b4ebe1eb9477a49479d3c429725036","features":{},"yanked":false,"links":null}

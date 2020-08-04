@@ -1,0 +1,5 @@
+{"name":"rusttyc","vers":"0.2.0","deps":[{"name":"ena","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22777b48ced37e9576ea38e7d44f7cf72c994a05a3fb7fbc08530c27f36769e2","features":{},"yanked":false,"links":null}
+{"name":"rusttyc","vers":"0.2.1","deps":[{"name":"ena","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95008fb7a8c68d021dd715c73ee3bc8fc1d670a0d61222cabe289a883291e135","features":{},"yanked":false,"links":null}
+{"name":"rusttyc","vers":"0.2.2","deps":[{"name":"ena","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d6bc5fbf95653f2c2bf70a0d6ce26ee45afc2ff75a803582933780969878188","features":{},"yanked":false,"links":null}
+{"name":"rusttyc","vers":"0.3.0","deps":[],"cksum":"7b6c9a692e36ec96df6c6a3f222795e6922afd2425eeef12649c2f2ca83c8dfd","features":{},"yanked":false,"links":null}
+{"name":"rusttyc","vers":"0.3.1","deps":[],"cksum":"7ce94dfc95cacd7bba7fe5e767daafba22f07a48951c61570c405b35329d703d","features":{},"yanked":false,"links":null}

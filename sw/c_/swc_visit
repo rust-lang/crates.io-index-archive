@@ -1,0 +1,2 @@
+{"name":"swc_visit","vers":"0.0.0","deps":[],"cksum":"5f585d5d8071841053b553721fa6896adee3a69b238491d023b24313cad966bf","features":{},"yanked":false,"links":null}
+{"name":"swc_visit","vers":"0.1.0","deps":[{"name":"either","req":"^1.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"swc_visit_macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6683cd5f6b97498e887e0d4da4c44ddafb755dfb0d950c52af99344fad23fec9","features":{},"yanked":false,"links":null}

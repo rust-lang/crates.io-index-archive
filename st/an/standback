@@ -1,0 +1,11 @@
+{"name":"standback","vers":"0.1.0","deps":[],"cksum":"0547baa7874eb3f6e1afd91b9cdfb028d8b5bb6ec6c91633205468aae51eb206","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"standback","vers":"0.2.0","deps":[],"cksum":"862b12b9db9c08d38b22f05d4cc13cccede37ae1785dcb639a28f80dc268c631","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"standback","vers":"0.2.1","deps":[],"cksum":"4edf667ea8f60afc06d6aeec079d20d5800351109addec1faea678a8663da4e1","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"standback","vers":"0.2.2","deps":[],"cksum":"ee531c64ad0f80d289504bd32fb047f42a9e957cda584276ab96eb587e9abac3","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"standback","vers":"0.2.3","deps":[],"cksum":"96eca17d57aac1688897d4c5e519ed600fc6f28aeabc7b1abb188e945deb0732","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"standback","vers":"0.2.4","deps":[],"cksum":"d747fd6d33f130039c9518cffa45a83d53986642ca4f872497df668e3f2b6b4d","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"standback","vers":"0.2.5","deps":[],"cksum":"6389164ce46e8a68e1b373787efcca3b6b6620bb50b12d4e8d14380838db316f","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"standback","vers":"0.2.6","deps":[],"cksum":"898341a519ec30272f8665dd05fb00156254310e99df3dc1e0cb096883d8656c","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"standback","vers":"0.2.7","deps":[],"cksum":"d747fb3ce0a32d6e9eb66484b58c53a568e163c56513defeff72c0be97a7b100","features":{"default":["std"],"std":[]},"yanked":true,"links":null}
+{"name":"standback","vers":"0.2.8","deps":[],"cksum":"47e4b8c631c998468961a9ea159f064c5c8499b95b5e4a34b77849d45949d540","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"standback","vers":"0.2.9","deps":[{"name":"version_check","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b0437cfb83762844799a60e1e3b489d5ceb6a650fbacb86437badc1b6d87b246","features":{"default":["std"],"std":[]},"yanked":false,"links":null}

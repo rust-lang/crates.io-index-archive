@@ -1,0 +1,1 @@
+{"name":"librustconfig","vers":"0.1.0","deps":[{"name":"libconfig-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0883ee98cc8ee5ef6ab076a082bc394a83774e9f9a140cb8e65170f76d01925","features":{},"yanked":false,"links":null}

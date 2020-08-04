@@ -1,0 +1,2 @@
+{"name":"kanji","vers":"1.0.0","deps":[{"name":"version-sync","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dacbd05cfb0ea1775bdc6778a99e9e1a2660566f25fcef962ee5d57d41b110d4","features":{},"yanked":false,"links":null}
+{"name":"kanji","vers":"1.0.1","deps":[{"name":"version-sync","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f86923030a88b7bf551a23ba1622ed991d0fa29af56f2f7ea3252ae98cb3508d","features":{},"yanked":false,"links":null}

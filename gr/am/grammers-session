@@ -1,0 +1,2 @@
+{"name":"grammers-session","vers":"0.1.0","deps":[],"cksum":"4ae27b2e875f8fd27ccd81356e2dbd4112e5be5b525ce6c7510a06fde6e92d8f","features":{},"yanked":false,"links":null}
+{"name":"grammers-session","vers":"0.2.0","deps":[{"name":"grammers-crypto","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"049a24529475ea73bebee253f445402a264ed03e2335c470752a6925db1a1295","features":{},"yanked":false,"links":null}
