@@ -1,1 +1,2 @@
 {"name":"cargo-next","vers":"0.0.0","deps":[],"cksum":"e1a8a0864d75364ad5f06dd48a37e99a3e960932c7fb16ee3f177b7710d36863","features":{},"yanked":false,"links":null}
+{"name":"cargo-next","vers":"0.1.1","deps":[{"name":"pico-args","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"toml_edit","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eed2b2901451821ee904375ccd6605e277729396574a4c8df343f0ce758539ee","features":{},"yanked":false,"links":null}
