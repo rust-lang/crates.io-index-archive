@@ -1,1 +1,2 @@
 {"name":"ibm437","vers":"0.1.0","deps":[{"name":"embedded-graphics","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8be423bc9b1116b0cc82b902e3f23b8708f5078fe36a87f4bcbb97a6abc5a893","features":{},"yanked":false,"links":null}
+{"name":"ibm437","vers":"0.1.1","deps":[{"name":"embedded-graphics","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bfe2ca18ed57d7485ad3c7bf5835f05c47c6dcd4142ca713ee3affee39732da","features":{},"yanked":false,"links":null}
