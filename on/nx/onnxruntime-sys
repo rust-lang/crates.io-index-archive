@@ -1,1 +1,2 @@
 {"name":"onnxruntime-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"467248e5e0c241cbd04204689154ecffd0119fa24d6e94da087810720c9b712d","features":{},"yanked":false,"links":null}
+{"name":"onnxruntime-sys","vers":"0.0.2","deps":[{"name":"bindgen","req":"^0.54","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"53dc2045b75b7a5657433ccd3f80dcb05c33b67a1770fa19c534f916b6148930","features":{},"yanked":false,"links":null}
