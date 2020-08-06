@@ -12,3 +12,4 @@
 {"name":"atomic","vers":"0.4.4","deps":[],"cksum":"e5208a0c1ca6d26af893a20ad156a6def478f23c26900b1f95e2086aeb870146","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"atomic","vers":"0.4.5","deps":[],"cksum":"c210c1f4db048cda477b652d170572d84c9640695835f17663595d3bd543fc28","features":{"nightly":[]},"yanked":false,"links":null}
 {"name":"atomic","vers":"0.4.6","deps":[],"cksum":"64f46ca51dca4837f1520754d1c8c36636356b81553d928dc9c177025369a06e","features":{"std":[],"nightly":[]},"yanked":false,"links":null}
+{"name":"atomic","vers":"0.5.0","deps":[{"name":"autocfg","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c3410529e8288c463bedb5930f82833bc0c90e5d2fe639a56582a4d09220b281","features":{"fallback":[],"default":["fallback"],"std":[]},"yanked":false,"links":null}
