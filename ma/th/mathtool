@@ -1,1 +1,2 @@
 {"name":"mathtool","vers":"0.1.0","deps":[{"name":"text_io","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb1ed147ebf61eb7881f01122f5d1c7573bc35d903da8a0691c722a52b5de19c","features":{},"yanked":false,"links":null}
+{"name":"mathtool","vers":"0.1.1","deps":[{"name":"text_io","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"485ed5840a299133c76a933a1069bae1f1e312ee1f8628d889b183a72fb33e64","features":{},"yanked":false,"links":null}
