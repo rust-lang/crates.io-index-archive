@@ -1,0 +1,1 @@
+{"name":"diff-struct","vers":"0.1.0","deps":[{"name":"diff_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44285519c1447129835ac54523bf227b2cf02cbde7ee3b9037c1c33058fc4c8c","features":{},"yanked":false,"links":null}
