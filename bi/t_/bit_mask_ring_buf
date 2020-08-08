@@ -7,3 +7,4 @@
 {"name":"bit_mask_ring_buf","vers":"0.1.6","deps":[],"cksum":"9d92ba68307b96a2d76bcd825e3df0efcc3371ce2f1c97470e29f03440896a7f","features":{},"yanked":false,"links":null}
 {"name":"bit_mask_ring_buf","vers":"0.2.0","deps":[],"cksum":"eba842b0c436fadbacbcb4b3a94b6a3b6fcd53b5d8e1a89a9c52b203ea21708c","features":{},"yanked":false,"links":null}
 {"name":"bit_mask_ring_buf","vers":"0.2.1","deps":[],"cksum":"9ba0ce1409f678ed436ddcf39f7f9de0ffcda051ea7b4a66429d477b17041e82","features":{},"yanked":false,"links":null}
+{"name":"bit_mask_ring_buf","vers":"0.2.2","deps":[],"cksum":"df12437a3ea9432a297fb0138134b3bf4e21b3defd1f15820efa3ced00e261f1","features":{},"yanked":false,"links":null}
