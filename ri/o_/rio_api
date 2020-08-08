@@ -5,3 +5,4 @@
 {"name":"rio_api","vers":"0.4.0","deps":[],"cksum":"91cc8c591432304a0eea53629131136655dc1365294b4befe056079e37e31968","features":{"generalized":[],"default":[]},"yanked":false,"links":null}
 {"name":"rio_api","vers":"0.4.1","deps":[],"cksum":"1cb98168c81514a41b81cf427c430ce4baf87b049338ba0c81a791e352df93be","features":{"generalized":[],"default":[]},"yanked":false,"links":null}
 {"name":"rio_api","vers":"0.4.2","deps":[],"cksum":"454f750912d688cf950ff54c65f63345523385b9a86da8f8b8e85df67f10baf6","features":{"default":[],"generalized":[]},"yanked":false,"links":null}
+{"name":"rio_api","vers":"0.5.0","deps":[{"name":"sophia_api","req":"^0.6.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f3057bb5d32a656ed84e7680b0ff792a0d0a9f528749930bfd8701625f7b387","features":{"sophia":["sophia_api"],"default":[],"generalized":[]},"yanked":false,"links":null}
