@@ -1,0 +1,1 @@
+{"name":"gemtext","vers":"0.1.0","deps":[{"name":"pretty_env_logger","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"248dd8c1335bf067c8788833c90b69f4f6067d4d291ebb77481649ef99030614","features":{},"yanked":false,"links":null}
