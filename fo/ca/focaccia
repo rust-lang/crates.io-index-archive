@@ -1,0 +1,1 @@
+{"name":"focaccia","vers":"1.0.0","deps":[{"name":"version-sync","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1ede9d748d34b1089e09b1120b8a95f3842b11b99efed5ba5a98381da1455bd8","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
