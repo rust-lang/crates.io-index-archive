@@ -1,1 +1,2 @@
 {"name":"cjk","vers":"0.0.1","deps":[],"cksum":"b8282e5a2a70d0374f107a699aeeb44803284d0c7d12bbc7f795e275ab13fb3a","features":{},"yanked":false,"links":null}
+{"name":"cjk","vers":"0.0.2","deps":[{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73a828bf08ed78a978a5445c99bd097667935ce583a6ed86efbf67acf831b5d3","features":{},"yanked":false,"links":null}
