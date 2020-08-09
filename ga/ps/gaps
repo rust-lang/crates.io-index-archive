@@ -1,1 +1,2 @@
 {"name":"gaps","vers":"0.0.0","deps":[],"cksum":"3fe9fded20887cceca48ffad95329e6a57fbc8d089927d863be23c5c6767d0a2","features":{},"yanked":false,"links":null}
+{"name":"gaps","vers":"0.1.0","deps":[{"name":"maplit","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e8c2e5bbc64a54e69c102e5be608366b32fcc3afbd274690ec7f7ca4b80417d6","features":{},"yanked":false,"links":null}
