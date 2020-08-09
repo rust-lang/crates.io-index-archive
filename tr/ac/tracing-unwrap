@@ -1,0 +1,1 @@
+{"name":"tracing-unwrap","vers":"0.0.1","deps":[{"name":"tracing","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ae875ed3c59a2dcd170cbe6c3cebe334dc5ff405a335e0ab89aca41f1db9719","features":{"panic-quiet":[],"default":["panic-quiet"]},"yanked":false,"links":null}
