@@ -1,0 +1,1 @@
+{"name":"bevy_math","vers":"0.1.0","deps":[{"name":"glam","req":"^0.8.7","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cea1bbc9862bfa10e0a0b8413bf10c54639e50529d7c25320f9d70ce7c560f1","features":{},"yanked":false,"links":null}
