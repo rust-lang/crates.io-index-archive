@@ -1,0 +1,1 @@
+{"name":"simple-rate-limit","vers":"0.1.0","deps":[{"name":"ring-vec","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa6c6f072e1f2269c2fa2b3606607c0a68340057650cb4f3657db12dbd5b1fb7","features":{},"yanked":false,"links":null}
