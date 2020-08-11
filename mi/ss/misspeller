@@ -9,3 +9,4 @@
 {"name":"misspeller","vers":"0.0.9","deps":[],"cksum":"dc5eb53825067847ef2b11e9129ded45457e46834180d9c4426e09f426963d81","features":{},"yanked":false,"links":null}
 {"name":"misspeller","vers":"0.0.10","deps":[],"cksum":"8fc3bbb9ce3d188bfb6e2972d5821d503dc50972af376479f69f25fcb8dd95d6","features":{},"yanked":false,"links":null}
 {"name":"misspeller","vers":"0.0.11","deps":[{"name":"cjk","req":"^0.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5deb817125b6520e5dffa18efc805b7efdf2d3ef25d2311dee990a56fe23ea16","features":{},"yanked":false,"links":null}
+{"name":"misspeller","vers":"0.0.12","deps":[{"name":"cjk","req":"^0.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe545d57f5ed9d125fc3212a7da5b64b8adc530a63d0800e5507c8dbfdc27e81","features":{},"yanked":false,"links":null}
