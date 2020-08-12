@@ -1,1 +1,1 @@
-{"name":"vivox_rs_sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.54.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9966d42a1d3b557863f660125c0a230ea36c5394dab29ad5415c88b4e5fd0dca","features":{},"yanked":false,"links":null}
+{"name":"vivox_rs_sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.54.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9966d42a1d3b557863f660125c0a230ea36c5394dab29ad5415c88b4e5fd0dca","features":{},"yanked":true,"links":null}
