@@ -5,3 +5,4 @@
 {"name":"alloc-compose","vers":"0.4.0","deps":[],"cksum":"2434af793ba41be0935175633ea2c7dd879ca123d4cf11741bd87148d641d7e9","features":{"default":["alloc"],"alloc":[]},"yanked":false,"links":null}
 {"name":"alloc-compose","vers":"0.4.1","deps":[],"cksum":"7380d08277bbe0c2816e784cf61df977d7a4292d6fbcb27d4c7b2f1393b3f836","features":{"alloc":[],"default":["alloc"]},"yanked":false,"links":null}
 {"name":"alloc-compose","vers":"0.4.2","deps":[],"cksum":"27e405bab3091f5a1a736541cd25da67bdcf5df9ef6e56c26ec1c8463e4251de","features":{"alloc":[],"default":["alloc"]},"yanked":false,"links":null}
+{"name":"alloc-compose","vers":"0.5.0","deps":[],"cksum":"2b82ff3cdb5d3cf393e7503cc1a11f84b0382fd212fa0089df8995d2cacc0794","features":{"intrinsics":[],"alloc":[],"default":["alloc"]},"yanked":false,"links":null}
