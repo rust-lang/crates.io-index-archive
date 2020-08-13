@@ -6,3 +6,4 @@
 {"name":"dces","vers":"0.1.5","deps":[],"cksum":"e0e74f539535ec28d4e4721d6559e58163dc9abb295adcc7e23f413bc4fabe04","features":{},"yanked":false,"links":null}
 {"name":"dces","vers":"0.1.6","deps":[],"cksum":"4cf7fb0ef17fe630ee37b53a24779ec5e5de5f9eef8083c242acc6f437bcf277","features":{},"yanked":false,"links":null}
 {"name":"dces","vers":"0.2.0","deps":[],"cksum":"4698c248ce1f7c061c16a1ff4e4df4f030eb953ef3d98e4a467d83ede255d806","features":{"no_std":[],"default":[]},"yanked":false,"links":null}
+{"name":"dces","vers":"0.3.0","deps":[],"cksum":"aa1f2e499addf80146cf2c9f3de65acb2ba1d45cfd71db021bc4eb3c01b277f7","features":{"default":[],"no_std":[]},"yanked":false,"links":null}
