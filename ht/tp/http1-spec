@@ -1,1 +1,2 @@
 {"name":"http1-spec","vers":"0.0.0","deps":[],"cksum":"650541ccff7055f856cf00015550bd5176b70c384f79970483d79a7d235005b0","features":{},"yanked":false,"links":null}
+{"name":"http1-spec","vers":"0.1.0","deps":[{"name":"http","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a986da5cf8c649b48fcecad188ede7ea764dd78abec0424515de49b6ae6e0448","features":{},"yanked":false,"links":null}
