@@ -1,1 +1,2 @@
 {"name":"simplestore","vers":"0.0.1","deps":[],"cksum":"d51e4e08ab31d47976535656a4270eb4eec83cffc93a5b530c522f24805886c6","features":{},"yanked":false,"links":null}
+{"name":"simplestore","vers":"0.0.2","deps":[{"name":"base64","req":"^0.12.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b26ae2c236ba67ee15db3934b80783804e6473b2459a0f8c50662a1d9fa79bc","features":{},"yanked":false,"links":null}
