@@ -1,0 +1,1 @@
+{"name":"dual-shock4-controller","vers":"0.1.0","deps":[{"name":"hidapi","req":"^1.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d029feb2550d2d0624b5a247e8f092ae7883f7fcbca9716cb01cf6c4dbcadd93","features":{},"yanked":false,"links":null}
