@@ -1,0 +1,1 @@
+{"name":"embedded-dma","vers":"0.1.0","deps":[{"name":"stable_deref_trait","req":"^1.2.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c52873fd258c443e92b5e472d8f5d458e723176cd41668845b38b7321108f698","features":{},"yanked":false,"links":null}
