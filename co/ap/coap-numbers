@@ -1,1 +1,2 @@
 {"name":"coap-numbers","vers":"0.1.0","deps":[],"cksum":"b6db1ebe9ac029e92f7fc6276dbfbdc0f95a80f52c326cddede3994559c96ba9","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"coap-numbers","vers":"0.1.1","deps":[],"cksum":"282ac40b14cb91e2021bf1f35c873a6e2bb3c58c573307bddd1bbf5f8544506a","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
