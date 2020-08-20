@@ -1,0 +1,1 @@
+{"name":"globalenv","vers":"0.1.0","deps":[{"name":"winreg","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3e6b498ad00cf4cef5e3c799aece7c3c8b14b13441fbf04bfc8b47ec5743a77b","features":{},"yanked":false,"links":null}
