@@ -1,1 +1,2 @@
 {"name":"globalenv","vers":"0.1.0","deps":[{"name":"winreg","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3e6b498ad00cf4cef5e3c799aece7c3c8b14b13441fbf04bfc8b47ec5743a77b","features":{},"yanked":false,"links":null}
+{"name":"globalenv","vers":"0.2.0","deps":[{"name":"winreg","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe5bb9d06d9b5683993fd00f56f905587e71f35fc6dfcc81c9a42a75e15a1bf8","features":{},"yanked":false,"links":null}
