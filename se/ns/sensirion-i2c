@@ -1,0 +1,1 @@
+{"name":"sensirion-i2c","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff4a7bdcaa83b2133ae03b39142e036f2d300ab0ed9af39776d421113ea17f7d","features":{},"yanked":false,"links":null}
