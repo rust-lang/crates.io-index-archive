@@ -1,1 +1,2 @@
 {"name":"avl","vers":"0.2.0","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"636234300d82299bebb0ea14e70306830a3a6f23588f8b221797b9ac67a540e8","features":{"consistency_check":[]},"yanked":false,"links":null}
+{"name":"avl","vers":"0.2.1","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ac5d3ccfb82c1fc85b825188e943902c9155503eea29e4767baf905eb0c91b7a","features":{"consistency_check":[]},"yanked":false,"links":null}
