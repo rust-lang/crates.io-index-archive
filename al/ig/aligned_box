@@ -1,1 +1,1 @@
-{"name":"aligned_box","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5006d42c894b006ed96c1c6ef3130f9621bafeae68e53b60c0648b1951828d6f","features":{},"yanked":false,"links":null}
+{"name":"aligned_box","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5006d42c894b006ed96c1c6ef3130f9621bafeae68e53b60c0648b1951828d6f","features":{},"yanked":true,"links":null}
