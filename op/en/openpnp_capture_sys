@@ -1,0 +1,1 @@
+{"name":"openpnp_capture_sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5941ab5ba248d755f2254601bf07c14b66c8920c9cfb6d18937a8eae483c6f6e","features":{},"yanked":false,"links":null}
