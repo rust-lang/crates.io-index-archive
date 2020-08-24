@@ -1,0 +1,1 @@
+{"name":"spinny","vers":"0.1.0","deps":[{"name":"lock_api","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65cfe2d6ed668437d87008b881b5587e0abb216b43c5b94087d27162fa0c76d8","features":{"nightly":["lock_api/nightly"],"owning_ref":["lock_api/owning_ref"],"default":[]},"yanked":false,"links":null}
