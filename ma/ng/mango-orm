@@ -1,1 +1,2 @@
 {"name":"mango-orm","vers":"0.1.0-pre-alpha.0","deps":[],"cksum":"c216f0c7d8aa68f60b9de73ca7fdf952c55dbfb873bfed7fbf8977ac90d90c63","features":{},"yanked":false,"links":null}
+{"name":"mango-orm","vers":"0.1.0-pre-alpha.1","deps":[{"name":"mongodb","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"266ec05354fc343e5ed4fa62bb45422febc1fd7aa50390582cbfc7b9be22eef8","features":{},"yanked":false,"links":null}
