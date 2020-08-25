@@ -6,3 +6,4 @@
 {"name":"slice_ring_buf","vers":"0.2.1","deps":[],"cksum":"7b1f0baccfcf0217670aa4148d6f743bf5ac84c213c5c04bd991e29baafb2e21","features":{},"yanked":false,"links":null}
 {"name":"slice_ring_buf","vers":"0.2.2","deps":[],"cksum":"1eaadfedffe4969b1c9d15b224a913b0e4f51ae883e9cc4c838dcefc8b95460b","features":{},"yanked":false,"links":null}
 {"name":"slice_ring_buf","vers":"0.2.3","deps":[],"cksum":"64bb9e4502962852f4cfbad44f7a293aad4526eb78635e539963152be449e7ab","features":{},"yanked":false,"links":null}
+{"name":"slice_ring_buf","vers":"0.2.4","deps":[],"cksum":"fc44d9da608fee735ae07e08fef0be2cfbbc43e0f0560c213ea3a5145b6325e1","features":{},"yanked":false,"links":null}
