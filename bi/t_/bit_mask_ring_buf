@@ -23,3 +23,4 @@
 {"name":"bit_mask_ring_buf","vers":"0.4.5","deps":[],"cksum":"d2ff92457591b8208b0f4b00a08aba7a63e908a43b1ed3c808e14c9a8652a268","features":{},"yanked":false,"links":null}
 {"name":"bit_mask_ring_buf","vers":"0.4.6","deps":[],"cksum":"27af7598432e80a8046099ac3810da3561feaed22f4455f8fda64810514c5029","features":{},"yanked":false,"links":null}
 {"name":"bit_mask_ring_buf","vers":"0.5.0","deps":[],"cksum":"610ecb416e545a18a99e05255aedbb208421516d0b8da5508b89a5294c391b7b","features":{},"yanked":false,"links":null}
+{"name":"bit_mask_ring_buf","vers":"0.5.1","deps":[],"cksum":"b43f5386f88f2e9d3e2f5ffdaf9fcd2f91f33d90e99aa89f5e4c09d62cdf39ed","features":{},"yanked":false,"links":null}
