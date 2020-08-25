@@ -1,0 +1,1 @@
+{"name":"pico-detect","vers":"0.0.1","deps":[{"name":"cargo-husky","req":"^1","features":["precommit-hook","run-cargo-clippy"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d993b0d1de0250655032cbd57d10e072fed694d02599125506bee0509483f5ed","features":{},"yanked":false,"links":null}
