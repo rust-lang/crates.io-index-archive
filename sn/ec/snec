@@ -1,0 +1,1 @@
+{"name":"snec","vers":"0.1.0","deps":[{"name":"snec_macros","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58158a0068b12bcc4ac1fc1b63aabb32b228a78555183b889f39204aa25c9259","features":{"macros":["snec_macros"],"default":["std","macros"],"std":[]},"yanked":false,"links":null}
