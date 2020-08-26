@@ -1,0 +1,1 @@
+{"name":"simconnect","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.55","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d1fe6844687ad8bf8039fc3afa2aac247c707f6b51948ff88ddaf627a696d47e","features":{},"yanked":false,"links":null}
