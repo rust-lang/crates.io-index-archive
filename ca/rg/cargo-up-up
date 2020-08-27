@@ -1,1 +1,2 @@
 {"name":"cargo-up-up","vers":"0.0.1","deps":[],"cksum":"a9dde1cdef5d6daf31e9e6565c33793b7d89781f49ebf24d8e6c2a1301f771b8","features":{},"yanked":false,"links":null}
+{"name":"cargo-up-up","vers":"0.0.2","deps":[{"name":"cargo-up","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"769978d3975b2bc2e38f5f245486edd2da9179cbfebcc5fde92ac2fc15b993c8","features":{},"yanked":false,"links":null}
