@@ -1,0 +1,1 @@
+{"name":"timsort","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7","features":["small_rng"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b4c9a7dfcb3408165a22bb45bcf2f7e251535ca5e91efa2f1e47ddceb924ea7c","features":{},"yanked":false,"links":null}
