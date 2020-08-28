@@ -1,1 +1,2 @@
 {"name":"hive_pubsub","vers":"0.1.0","deps":[],"cksum":"44fcabfca1ef9871d1048cc5b8915aade11614c1544aa524ebee4831442511d9","features":{},"yanked":false,"links":null}
+{"name":"hive_pubsub","vers":"0.2.0","deps":[{"name":"many-to-many","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d571b574562c6d9f893e49c01809c3d319ecb9d196e38a4519ee3630c0a5a57d","features":{},"yanked":false,"links":null}
