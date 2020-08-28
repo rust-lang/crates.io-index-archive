@@ -1,0 +1,1 @@
+{"name":"cvrdt-exposition","vers":"0.1.0","deps":[{"name":"proptest","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8bf3814fd3bafb72444354c79cb5d65c7068a7f6593f78ab6f61c533a315c2f4","features":{},"yanked":false,"links":null}
