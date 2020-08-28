@@ -15,3 +15,4 @@
 {"name":"fixedbitset","vers":"0.1.9","deps":[],"cksum":"86d4de0081402f5e88cdac65c8dcdcc73118c1a7a465e2a05f0da05843a8ea33","features":{},"yanked":false,"links":null}
 {"name":"fixedbitset","vers":"0.2.0","deps":[],"cksum":"37ab347416e802de484e4d03c7316c48f1ecb56574dfd4a46a80f173ce1de04d","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"fixedbitset","vers":"0.3.0","deps":[],"cksum":"2fc4fcacf5cd3681968f6524ea159383132937739c6c40dabab9e37ed515911b","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"fixedbitset","vers":"0.3.1","deps":[],"cksum":"4e08c8bc7575d7e091fe0706963bd22e2a4be6a64da995f03b2a5a57d66ad015","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
