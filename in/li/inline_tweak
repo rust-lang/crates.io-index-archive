@@ -1,1 +1,2 @@
 {"name":"inline_tweak","vers":"1.0.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47f7f3682363c98aa749f4061b2b5707d101d336a2f7ddd3d781ff19e7c6cd34","features":{},"yanked":false,"links":null}
+{"name":"inline_tweak","vers":"1.0.1","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff9116d15f14edc1c01046d2b637ab7b11e8fc6c898478932e3e80a641f41f85","features":{},"yanked":false,"links":null}
