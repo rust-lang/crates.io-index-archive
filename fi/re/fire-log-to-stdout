@@ -1,0 +1,1 @@
+{"name":"fire-log-to-stdout","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":["clock"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"63a34e6a5c38fd7e420c235337f81aad058e2ff4eb245077ead0a74ffaeb2ab5","features":{"default":["log_time"],"log_time":["chrono"]},"yanked":false,"links":null}
