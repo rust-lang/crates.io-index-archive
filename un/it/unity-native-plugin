@@ -1,0 +1,1 @@
+{"name":"unity-native-plugin","vers":"0.1.1","deps":[{"name":"unity-native-plugin-sys","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29e4f15824ea1da3016c89c6e03f9a65593543f77c51407ff8260effdca83f5d","features":{"default":[],"d3d11":[]},"yanked":false,"links":null}
