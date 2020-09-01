@@ -1,0 +1,1 @@
+{"name":"tcprint","vers":"0.0.0-dev.0","deps":[{"name":"termcolor","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44e6ab23f32619cf8885d5a12ea325b5f2a28eb6a385954cc8a530770d795a2c","features":{},"yanked":false,"links":null}
