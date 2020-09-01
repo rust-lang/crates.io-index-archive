@@ -41,3 +41,4 @@
 {"name":"rustc-ap-rustc_fs_util","vers":"674.0.0","deps":[],"cksum":"5962a87a5600d637fc725227be9307b6818419c1aba0954ad7a63e08f3eec9a7","features":{},"yanked":false,"links":null}
 {"name":"rustc-ap-rustc_fs_util","vers":"675.0.0","deps":[],"cksum":"2090ab37ae9f8c6c861cf71657794e3fd2c263292cded2a3d1b789e99f680f5e","features":{},"yanked":false,"links":null}
 {"name":"rustc-ap-rustc_fs_util","vers":"676.0.0","deps":[],"cksum":"2da785256c578962244f914956e3a9a737b23cd49713811f72c48aa146c52b8b","features":{},"yanked":false,"links":null}
+{"name":"rustc-ap-rustc_fs_util","vers":"677.0.0","deps":[],"cksum":"7630ad1a73a8434ee920676148cb5440ac57509bd20e94ec41087fb0b1d11c28","features":{},"yanked":false,"links":null}
