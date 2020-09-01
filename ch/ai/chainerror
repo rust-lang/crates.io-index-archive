@@ -9,3 +9,4 @@
 {"name":"chainerror","vers":"0.4.3","deps":[],"cksum":"57f069866bc1ac85f8ad1806c01081ed2be733802f90a6447af76c75bedd9de4","features":{"display-cause":[],"no-debug-cause":[],"default":[],"no-fileline":[]},"yanked":false,"links":null}
 {"name":"chainerror","vers":"0.5.0","deps":[],"cksum":"246dd737233d3a467780ec906dcf874c114f5b9704456dd8bc46b4d04926283a","features":{"display-cause":[],"no-debug-cause":[],"no-fileline":[],"default":[]},"yanked":false,"links":null}
 {"name":"chainerror","vers":"0.6.0","deps":[],"cksum":"2b2252aa2f87ee378994fd0b9a7270a132ee0274ccc831ffe197198080c133bb","features":{"default":[],"display-cause":[]},"yanked":false,"links":null}
+{"name":"chainerror","vers":"0.6.1","deps":[],"cksum":"98c28a02b8ed48fe6b4891e1f755c2c46411c3a91c1f51e1b4ac2f9b2ef9f2f9","features":{"default":[],"display-cause":[]},"yanked":false,"links":null}
