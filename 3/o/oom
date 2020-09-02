@@ -1,1 +1,2 @@
 {"name":"oom","vers":"0.0.1","deps":[],"cksum":"fe0b0a8e094d2fc1015cd2fa58f288cf997b33d661e49c53af6c165300878763","features":{},"yanked":false,"links":null}
+{"name":"oom","vers":"0.1.0","deps":[],"cksum":"e17c7069eab25a8157f2569a17ad150b8e605098fce33910c09bf6d8d9140e50","features":{"slice":[],"std":["vec"],"vec":["slice"],"default":["slice"]},"yanked":false,"links":null}
