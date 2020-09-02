@@ -18,3 +18,4 @@
 {"name":"xmlparser","vers":"0.13.0","deps":[],"cksum":"b16981128b9e811347d0e72c25b2b22773da22b6dc30282846ad50427e89ba97","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"xmlparser","vers":"0.13.1","deps":[],"cksum":"ccb4240203dadf40be2de9369e5c6dec1bf427528115b030baca3334c18362d7","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"xmlparser","vers":"0.13.2","deps":[],"cksum":"52613e655f6f11f63c0fe7d1c3b5ef69e44d96df9b65dab296b441ed0e1125f5","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"xmlparser","vers":"0.13.3","deps":[],"cksum":"114ba2b24d2167ef6d67d7d04c8cc86522b87f490025f39f0303b7db5bf5e3d8","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
