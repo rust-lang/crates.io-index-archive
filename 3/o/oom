@@ -1,2 +1,3 @@
 {"name":"oom","vers":"0.0.1","deps":[],"cksum":"fe0b0a8e094d2fc1015cd2fa58f288cf997b33d661e49c53af6c165300878763","features":{},"yanked":true,"links":null}
 {"name":"oom","vers":"0.1.0","deps":[],"cksum":"e17c7069eab25a8157f2569a17ad150b8e605098fce33910c09bf6d8d9140e50","features":{"slice":[],"default":["slice"],"std":["vec"],"vec":["slice"]},"yanked":true,"links":null}
+{"name":"oom","vers":"0.2.0","deps":[],"cksum":"3796a6b7ab468cf28b4c143a5dabfc6e553ea7ba832101ebd375088eb5c5fe50","features":{"std":["vec"],"default":["slice"],"slice":[],"vec":["slice"]},"yanked":false,"links":null}
