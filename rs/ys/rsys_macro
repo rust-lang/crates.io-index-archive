@@ -1,0 +1,1 @@
+{"name":"rsys_macro","vers":"0.1.0","deps":[{"name":"proc-macro2","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5389fbda7d2ec2d72c2d2314e4bb662d33558f8565309f55b4a3920f09df455a","features":{},"yanked":false,"links":null}
