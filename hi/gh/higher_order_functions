@@ -1,0 +1,1 @@
+{"name":"higher_order_functions","vers":"0.1.0","deps":[{"name":"version-sync","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9dfb3ee01497417a99a42c5f9c6c84819bdc8c02ab3897685e61d47b04949a1f","features":{"alloc":[],"std":[],"default":["std"]},"yanked":false,"links":null}
