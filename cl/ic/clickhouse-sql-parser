@@ -1,0 +1,1 @@
+{"name":"clickhouse-sql-parser","vers":"0.1.0","deps":[{"name":"nom","req":"^5.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"691a0fd22e3bef2e80fc0c801a09952fcc2f4a2b430b6c9f3a3b8d127a0d136d","features":{},"yanked":false,"links":null}
