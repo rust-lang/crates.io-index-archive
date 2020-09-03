@@ -1,0 +1,1 @@
+{"name":"hporecord","vers":"0.0.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f917651267616df469b442cf53cb4d0a0c6fc0f942bb1270ce3cacf86f9707b1","features":{},"yanked":false,"links":null}
