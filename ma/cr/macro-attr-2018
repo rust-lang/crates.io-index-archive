@@ -1,0 +1,1 @@
+{"name":"macro-attr-2018","vers":"0.3.0","deps":[{"name":"rustc-serialize","req":"^0.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"09ebdf43b179e358e5442b9517bba6959d9209520def3f7c72a73b29cf1c063f","features":{},"yanked":false,"links":null}
