@@ -1,0 +1,1 @@
+{"name":"command-run","vers":"0.9.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25f7a5201af4340d2ddbf1f79c27d08a1efe899b54a0d23713de9b147d49c052","features":{"default":["logging"],"logging":["log"]},"yanked":false,"links":null}
