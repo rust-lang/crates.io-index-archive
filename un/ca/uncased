@@ -1,0 +1,1 @@
+{"name":"uncased","vers":"0.9.0","deps":[{"name":"version_check","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d7c61e5cb74b2180d18aebc614667deb50d9ed680bba881a700d0f7395bc10a0","features":{"alloc":[],"default":["alloc"]},"yanked":false,"links":null}
