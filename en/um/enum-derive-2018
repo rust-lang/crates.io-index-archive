@@ -1,0 +1,1 @@
+{"name":"enum-derive-2018","vers":"0.2.0","deps":[{"name":"macro-attr-2018","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c8f2a8be2fe2c78dcfa18b08103b93057fb44c90dedbd0a2d451a60decee21ca","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
