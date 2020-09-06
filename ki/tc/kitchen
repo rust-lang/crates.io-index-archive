@@ -1,1 +1,2 @@
 {"name":"kitchen","vers":"0.1.0","deps":[{"name":"structopt","req":"^0.3.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1d49d33d365cffaa6fcafce064c71dacb5749a50929cf352e0340f89099f26b","features":{},"yanked":false,"links":null}
+{"name":"kitchen","vers":"0.1.1","deps":[{"name":"structopt","req":"^0.3.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e06f615ab4be7d94f621e790e4703a51477060c1f83253e51187f6cfe108ef0","features":{},"yanked":false,"links":null}
