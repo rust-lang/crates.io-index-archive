@@ -1,0 +1,1 @@
+{"name":"libraw-rs","vers":"0.0.1","deps":[{"name":"libraw-rs-sys","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2d83d1e61f507f1a6b8b75045a324335d91e95d08672264c81fd68eb9819a56","features":{},"yanked":false,"links":null}
