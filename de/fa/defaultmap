@@ -8,3 +8,4 @@
 {"name":"defaultmap","vers":"0.3.0","deps":[],"cksum":"d38830161a69b48f952e5e764ef1e9c187972664f9f7c8cc670a0be0df8a5a57","features":{},"yanked":false}
 {"name":"defaultmap","vers":"0.3.1","deps":[],"cksum":"42ca4ca5a3049cb2327f6d2f3d5103d83971e0bcdb8722bb1214d2b94c274ab2","features":{},"yanked":false,"links":null}
 {"name":"defaultmap","vers":"0.4.0","deps":[],"cksum":"8f17a1a14b082225c6758a7f26bc8af696c4a455e7e3995de5ba2875c18bd804","features":{},"yanked":false,"links":null}
+{"name":"defaultmap","vers":"0.5.0","deps":[{"name":"serde","req":"^1.0.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"51c4d4fbd66561c3acff86b297b024826505a715eb1b0984a78013b349d0e834","features":{"default":[],"with-serde":["serde"]},"yanked":false,"links":null}
