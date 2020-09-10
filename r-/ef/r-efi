@@ -5,3 +5,4 @@
 {"name":"r-efi","vers":"2.1.0","deps":[],"cksum":"8f2c7f9e57367053a4c9d2f235e715b7a4fa8b774b78eb3e477b2345dc2bb33d","features":{"examples":[]},"yanked":false,"links":null}
 {"name":"r-efi","vers":"2.2.0","deps":[],"cksum":"7b4aceea558d694eb2d5a0d9f3a94f30b8f9a7d4469983ddea62077716364788","features":{"examples":[]},"yanked":false,"links":null}
 {"name":"r-efi","vers":"3.0.0","deps":[],"cksum":"f0d843c83754796be1dc049a1b9bb3e7282f95df2510177161f71998eced399f","features":{"examples":[]},"yanked":false,"links":null}
+{"name":"r-efi","vers":"3.1.0","deps":[],"cksum":"6eaab81f2b90c518541382de3e3a0689a0426d0798d0fdef56f3df69636e83dd","features":{"examples":[]},"yanked":false,"links":null}
