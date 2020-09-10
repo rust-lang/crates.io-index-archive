@@ -1,0 +1,1 @@
+{"name":"x64_static_linker","vers":"0.1.36","deps":[{"name":"elf-utilities","req":"^0.1.48","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c512f40b7d5833d3865a4cef66777cf100348cb9d403a72750770c13dcdacc8b","features":{},"yanked":false,"links":null}
