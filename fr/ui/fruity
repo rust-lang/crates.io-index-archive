@@ -1,1 +1,2 @@
 {"name":"fruity","vers":"0.0.0","deps":[],"cksum":"adf5aae28e635cb552912e15eb03b25d22783ac4199cf239dc30378f67aecd48","features":{},"yanked":false,"links":null}
+{"name":"fruity","vers":"0.1.0","deps":[],"cksum":"6c13c1ac8a681057ad6dda752e2012c8f2f79ce9fb1d7fcd67739a16a575ed52","features":{"default":["link"],"link":[]},"yanked":false,"links":null}
