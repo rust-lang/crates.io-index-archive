@@ -16,3 +16,4 @@
 {"name":"vector2math","vers":"0.8.1","deps":[],"cksum":"8722708d8646382de9f69b5fc15379b390a04b4bee14bcd201c6a2017f547d8e","features":{},"yanked":false,"links":null}
 {"name":"vector2math","vers":"0.9.0","deps":[],"cksum":"564422340a7f06830d5c7983fecd68bccb3ed01b7fb1dc6a2ec1e3b8455a168b","features":{},"yanked":false,"links":null}
 {"name":"vector2math","vers":"0.10.0","deps":[{"name":"packed_simd","req":"^0.3.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"614cf9417070513e098907aebef33ca962e5c2d6c4370fad991897e3aa656311","features":{"default":[],"simd":["packed_simd"]},"yanked":false,"links":null}
+{"name":"vector2math","vers":"0.10.1","deps":[{"name":"packed_simd","req":"^0.3.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12841feb3987ab191b142f8a6af07fb29af55b68feec0676680a3343788bc01f","features":{"default":[],"simd":["packed_simd"]},"yanked":false,"links":null}
