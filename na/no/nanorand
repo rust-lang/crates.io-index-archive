@@ -1,1 +1,2 @@
 {"name":"nanorand","vers":"0.0.0","deps":[],"cksum":"e6aef6a969669debe38a8cad5ac12c907888796b503c5e908207bc1bbdf9688e","features":{},"yanked":false,"links":null}
+{"name":"nanorand","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"39490f686a41b457c08157deae20f5d8ff244fbff8facdc4dd82c49ef1808ff2","features":{"default":["ctor"],"no_std":[],"ctor":[]},"yanked":false,"links":null}
