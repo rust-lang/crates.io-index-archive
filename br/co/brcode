@@ -1,1 +1,2 @@
 {"name":"brcode","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"484fc484d9ccf3d04baf9e0f2dd6a90b6b7b346ce5be6fb19be8cd0889b8a432","features":{},"yanked":false,"links":null}
+{"name":"brcode","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ee7076ea178da45a36a1e490ca344164efa8cfa6ab8d519f00bd5ee55f07254b","features":{},"yanked":false,"links":null}
