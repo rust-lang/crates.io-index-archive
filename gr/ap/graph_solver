@@ -1,0 +1,1 @@
+{"name":"graph_solver","vers":"0.1.0","deps":[{"name":"quickbacktrack","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c83d95ab7f09732a3b71dc03e8187983b41d884462bfa5faa9440061138e3b2","features":{},"yanked":false,"links":null}
