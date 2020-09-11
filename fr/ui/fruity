@@ -1,2 +1,3 @@
 {"name":"fruity","vers":"0.0.0","deps":[],"cksum":"adf5aae28e635cb552912e15eb03b25d22783ac4199cf239dc30378f67aecd48","features":{},"yanked":false,"links":null}
 {"name":"fruity","vers":"0.1.0","deps":[],"cksum":"6c13c1ac8a681057ad6dda752e2012c8f2f79ce9fb1d7fcd67739a16a575ed52","features":{"default":["link"],"link":[]},"yanked":false,"links":null}
+{"name":"fruity","vers":"0.2.0","deps":[],"cksum":"273729867584f17b39ea7e3f0e14f8abbba2e2a856d674b8dbf8ded111cb788e","features":{"core_foundation":[],"objc":[],"foundation":["objc"]},"yanked":false,"links":null}
