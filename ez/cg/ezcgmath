@@ -1,1 +1,2 @@
 {"name":"ezcgmath","vers":"0.0.1","deps":[{"name":"approx","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34d030c346ac1469d55e66fcacab489a87425bf2a017057bdb542a205ed8fdc0","features":{},"yanked":false,"links":null}
+{"name":"ezcgmath","vers":"0.0.2","deps":[{"name":"approx","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3804b4a7d385200668311b5e89f8674672763a8b20ec08ec4d3613e63419c4d1","features":{},"yanked":false,"links":null}
