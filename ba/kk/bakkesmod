@@ -1,1 +1,2 @@
 {"name":"bakkesmod","vers":"0.1.0","deps":[{"name":"bakkesmod-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b31bbd908b3d9c647c7299b2991775054920f280f38fa4ccbcb23d1fffab365a","features":{},"yanked":false,"links":null}
+{"name":"bakkesmod","vers":"0.1.1","deps":[{"name":"bakkesmod-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b12f65d6005e1cfc556dff465c6f0104360f25affc526f95440ac101c55212c6","features":{},"yanked":false,"links":null}
