@@ -1,1 +1,2 @@
 {"name":"opaque-pointer","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02564e021934ed9ddaefef50a7d1eaa67d38f2d316821f7015f138ac45452a9b","features":{},"yanked":false,"links":null}
+{"name":"opaque-pointer","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e97f81fd80f98055ff3a7564c8f6f30e44e712639c9b9fcb5c778fab549bfcf","features":{"std":[],"default":[]},"yanked":false,"links":null}
