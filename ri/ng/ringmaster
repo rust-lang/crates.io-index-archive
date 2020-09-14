@@ -1,2 +1,3 @@
 {"name":"ringmaster","vers":"0.0.1","deps":[],"cksum":"c7a98c0917a2b73cc06e5fd60038bb795c01f7ce94a00e98da5d2ae0bf86c7e2","features":{},"yanked":false,"links":null}
 {"name":"ringmaster","vers":"0.1.0","deps":[],"cksum":"1e656ee30eefee8f99b8aa0857907ce97162c9698911d3eb55a37a068f87c045","features":{},"yanked":false,"links":null}
+{"name":"ringmaster","vers":"0.2.0","deps":[{"name":"tokio","req":"~0.2.22","features":["sync"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"~0.2.22","features":["rt-threaded","macros"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a749db1314a9c781b2b379846cb11c920ef62d8e875965dce4a73f3502a5cc84","features":{},"yanked":false,"links":null}
