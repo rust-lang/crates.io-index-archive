@@ -4,3 +4,4 @@
 {"name":"contest-algorithms","vers":"0.1.3","deps":[{"name":"bit-vec","req":"0.6.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d847dad986cffd33c83e386c33f88b342525c71321c35ae1cefe22e3e9cf5c31","features":{},"yanked":false,"links":null}
 {"name":"contest-algorithms","vers":"0.1.4","deps":[],"cksum":"14d1812b85c0db211e0ebf25635210aa81721dcc518393bd9728f77947d30c85","features":{},"yanked":false,"links":null}
 {"name":"contest-algorithms","vers":"0.2.0","deps":[],"cksum":"8cabe412e4c8c8e3c1159f4b4e15dad86ff4fe909032962af6ad81bdbcf6c439","features":{},"yanked":false,"links":null}
+{"name":"contest-algorithms","vers":"0.2.1","deps":[],"cksum":"3d28b5d8971de9a6043f3eae3a858ad439c1ccdb35afbee13684343122050bd0","features":{},"yanked":false,"links":null}
