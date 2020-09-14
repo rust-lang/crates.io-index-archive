@@ -1,0 +1,1 @@
+{"name":"rl-bandit","vers":"1.0.0","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9de2b684ca35e70414b273048c6e0e5d5eb47ccdd28cc8edd2b45568222b992","features":{},"yanked":false,"links":null}
