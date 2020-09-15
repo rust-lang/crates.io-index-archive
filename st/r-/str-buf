@@ -2,3 +2,4 @@
 {"name":"str-buf","vers":"1.0.1","deps":[],"cksum":"c45f81617ea6e7a9f3ef12bc2037302a87e7c5d39adf9c2ea8715a718591319b","features":{},"yanked":false,"links":null}
 {"name":"str-buf","vers":"1.0.2","deps":[],"cksum":"cec4d70d0ed9214ae8d642a13bafe4fdfe45a4c611d27a9fb4d4c1a3b02a12e3","features":{},"yanked":false,"links":null}
 {"name":"str-buf","vers":"1.0.3","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5cce1208b695432e6b399f0a2e7d65590f5f563fec3603875a0811bee5b1e0c3","features":{},"yanked":false,"links":null}
+{"name":"str-buf","vers":"1.0.4","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0a47e418bf71fa32157eb3ab85e1bfafaafdc0912ba2af11931a3e1d9b20957a","features":{},"yanked":false,"links":null}
