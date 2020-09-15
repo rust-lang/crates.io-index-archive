@@ -1,1 +1,2 @@
 {"name":"buf-rand","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8db5c1d09e2c4d5de935baf5d54815d733cefe472894b5abd6c3e5c365d7e27a","features":{},"yanked":false,"links":null}
+{"name":"buf-rand","vers":"0.1.1","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f90abb844d7a3f885ac488fce84e0a4841efa306baa29919f7d3a932acdf5310","features":{},"yanked":false,"links":null}
