@@ -1,1 +1,2 @@
 {"name":"http-auth-basic","vers":"0.1.0","deps":[{"name":"base64","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95f8ab0aaecef8e1f5d82d2d95fd638b23d2dd31aceea92db8382860f7249fe8","features":{},"yanked":false,"links":null}
+{"name":"http-auth-basic","vers":"0.1.1","deps":[{"name":"base64","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"744eda30bf1c8ffc18808fa52456e0ece0f0f39f3f0471e6600b0facd193a5c1","features":{},"yanked":false,"links":null}
