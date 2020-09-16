@@ -1,3 +1,4 @@
 {"name":"taskboard-core-lib","vers":"0.1.0","deps":[],"cksum":"80eda8063d92f1fab026df760b9401c00def244df8b47c5f7efb0ef12b3a253a","features":{},"yanked":false,"links":null}
 {"name":"taskboard-core-lib","vers":"0.1.1","deps":[],"cksum":"c5699958b4ffaabfafa4b4704c6ce8dd3174dcf53d3930d7f9914ede7027c6ab","features":{},"yanked":false,"links":null}
 {"name":"taskboard-core-lib","vers":"0.1.2","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a14e4605b07758ee68b68ab5fa7e93ed038fc0f8fd22a4f692783ecac60dc15","features":{},"yanked":false,"links":null}
+{"name":"taskboard-core-lib","vers":"0.1.3","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ebadca3bd3852b172180f4272747fb8186f21bd4e7e8ba34dfdff286f6713fb","features":{},"yanked":false,"links":null}
