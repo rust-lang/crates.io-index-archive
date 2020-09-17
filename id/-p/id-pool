@@ -1,0 +1,1 @@
+{"name":"id-pool","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.114","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76a01ecec4386e25fa424b8717fff6b8913c3c22a1fd158fa88c8f38bed41188","features":{"u32":[],"u16":[],"u64":[],"default":["usize"],"usize":[]},"yanked":false,"links":null}
