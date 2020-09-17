@@ -1,0 +1,1 @@
+{"name":"yata","vers":"0.1.2","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5849f7ec5723f2f61aa217ec78e04cbec65c87e97a35fb0effa90a9de8ddf509","features":{"period_type_u64":[],"default":["serde"],"period_type_u16":[],"period_type_u32":[],"value_type_f32":[]},"yanked":false,"links":null}
