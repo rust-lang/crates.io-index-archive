@@ -1,3 +1,4 @@
 {"name":"arf-strings","vers":"0.1.0","deps":[],"cksum":"313d57a474979e01eed5a243bac51927bb80d402b49ff9a3d4cf652219718dfc","features":{},"yanked":false,"links":null}
 {"name":"arf-strings","vers":"0.1.1","deps":[],"cksum":"6cc3e5659bde145114448281b0fd1d2cd1da3c74da1672370052f632b6524b18","features":{},"yanked":false,"links":null}
 {"name":"arf-strings","vers":"0.1.2","deps":[],"cksum":"029e90b48575624023847ba39948537960197a73cda9ef1ea743bb9aacd79850","features":{},"yanked":false,"links":null}
+{"name":"arf-strings","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2.77","features":[],"optional":false,"default_features":true,"target":"cfg(not(windows))","kind":"normal"}],"cksum":"2bd7f5f3d68b2029cf2739cd367c9ab15e218779bd42718dc27f04dbca2e94bf","features":{},"yanked":false,"links":null}
