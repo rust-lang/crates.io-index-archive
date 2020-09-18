@@ -1,0 +1,1 @@
+{"name":"synthizer-sys","vers":"0.7.1","deps":[{"name":"bindgen","req":"^0.55","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ef6db1bb3331b693b7877f09a5018a15df879cef2e61e9d41df8049f0cce6a67","features":{},"yanked":false,"links":null}
