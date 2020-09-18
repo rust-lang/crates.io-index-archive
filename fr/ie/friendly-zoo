@@ -1,1 +1,2 @@
 {"name":"friendly-zoo","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8f931b30e2caeda086545fbf1dc0e129c16d7a80bb490b25b7fc929146a3e75","features":{},"yanked":false,"links":null}
+{"name":"friendly-zoo","vers":"0.1.1","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"887bcf38d269f8a0daf69107656a0405ce999b885697e1d0cb2c6a0696813abb","features":{},"yanked":false,"links":null}
