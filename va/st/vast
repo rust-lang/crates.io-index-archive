@@ -1,1 +1,2 @@
 {"name":"vast","vers":"0.1.0","deps":[{"name":"pretty","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b001c03f1edcbb85c270d756d4635501c0cfeaea291c46b7bf3318ffd2204ab","features":{},"yanked":false,"links":null}
+{"name":"vast","vers":"0.2.0","deps":[{"name":"pretty","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cadd030e877f92dfe4ca4f0358cdb894686b7987ddc374b18f2fd6c4223f1a4","features":{},"yanked":false,"links":null}
