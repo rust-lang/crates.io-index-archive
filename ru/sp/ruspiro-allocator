@@ -7,4 +7,4 @@
 {"name":"ruspiro-allocator","vers":"0.3.1","deps":[{"name":"ruspiro-lock","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cc","req":"^1.0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2270d3bef4fac015101e1e93d020f539b761d766cf145183c17df9b92530a5ed","features":{},"yanked":false,"links":null}
 {"name":"ruspiro-allocator","vers":"0.4.0","deps":[],"cksum":"8cfb6ce8a73b6d2351560f62536d4fb6921bd9587101aa4077e1db90da399d03","features":{},"yanked":false,"links":null}
 {"name":"ruspiro-allocator","vers":"0.4.1","deps":[],"cksum":"ffcb80180057fc50b1cc53d0ec70132a343885ef795a6c51153dc45b2c50e85d","features":{},"yanked":false,"links":"ruspiro_allocator"}
-{"name":"ruspiro-allocator","vers":"0.5.0","deps":[],"cksum":"0272ef261e21e97a2d1ba30b46a5685e9befb1dd543ee62ba1e94f19fd448376","features":{"ruspiro_pi3":[]},"yanked":false,"links":"ruspiro_allocator"}
+{"name":"ruspiro-allocator","vers":"0.5.0","deps":[],"cksum":"0272ef261e21e97a2d1ba30b46a5685e9befb1dd543ee62ba1e94f19fd448376","features":{"ruspiro_pi3":[]},"yanked":true,"links":"ruspiro_allocator"}
