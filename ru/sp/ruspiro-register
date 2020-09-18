@@ -7,3 +7,4 @@
 {"name":"ruspiro-register","vers":"0.4.1","deps":[],"cksum":"e9f6559073b4fbc5c058ee473104eda811e73dd2961e070bbeb17d929a349420","features":{},"yanked":false,"links":null}
 {"name":"ruspiro-register","vers":"0.4.2","deps":[],"cksum":"66e6c26a20382d716b701e95a2ea4684e54861f6140646f03f74df86b5f19ef1","features":{},"yanked":false,"links":null}
 {"name":"ruspiro-register","vers":"0.4.3","deps":[],"cksum":"2f9d381ef762a2b346341851a4160d08052ead61ddbad8cafa14b86b2ea2d338","features":{},"yanked":false,"links":null}
+{"name":"ruspiro-register","vers":"0.5.0","deps":[],"cksum":"bba969505aa1ef93912baecd72cc13d6df2899d3a0d36b612157625b3392e68f","features":{"ruspiro_pi3":[]},"yanked":false,"links":null}
