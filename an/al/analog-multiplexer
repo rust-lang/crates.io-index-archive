@@ -1,0 +1,1 @@
+{"name":"analog-multiplexer","vers":"1.0.0","deps":[{"name":"embedded-hal","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b16c19bddd1c8b89543b122e26422550c97d1e84ecec3d9265297571f08b8bd","features":{},"yanked":false,"links":null}
