@@ -5,3 +5,4 @@
 {"name":"olm-sys","vers":"0.1.4","deps":[{"name":"bindgen","req":"^0.51.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3923f07646fbbc12eeedf31f9e184cd0ee49842089205641bd6492affedd6145","features":{},"yanked":false,"links":null}
 {"name":"olm-sys","vers":"0.1.5","deps":[],"cksum":"7d77deffdae89bf5b2ff17a9c54fab4b3b92c5440e9e4645e8bb08d7c6ace8fc","features":{},"yanked":false,"links":null}
 {"name":"olm-sys","vers":"0.2.0","deps":[],"cksum":"38da14ca5e2ca81f3c0a91f0bf7cade30ec256f162f8be6929a26bbfca065bb1","features":{},"yanked":false,"links":null}
+{"name":"olm-sys","vers":"1.0.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5bf083a66a6b86db09dac0e31bd5dc20ffe3d5677375bb4133ae3d0fd813354f","features":{},"yanked":false,"links":null}
