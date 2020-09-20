@@ -1,1 +1,2 @@
 {"name":"prec","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7b458bee155c755c469fb86ad4c01a252b463e02cc2210d56f741cbfa2ec5234","features":{},"yanked":false,"links":null}
+{"name":"prec","vers":"0.1.1","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"64518cc457b0ca3d8dc5f0954d69cb1232cb27d72e57b13790c8654b1047ad1d","features":{},"yanked":false,"links":null}
