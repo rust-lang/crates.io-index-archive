@@ -3,3 +3,4 @@
 {"name":"cycle","vers":"0.0.3","deps":[],"cksum":"74ab7ecb81cdbce6faf1f6f66b1cadd9b03091002e8a8f0f4af152723b818274","features":{},"yanked":false,"links":null}
 {"name":"cycle","vers":"0.0.4","deps":[],"cksum":"26110ce785579f3de602b0e562d408d63482c465210ef2324e56c68f85615f89","features":{"cycle_lang":[],"cycle_plot":[],"default":["cycle_lang","cycle_plot"]},"yanked":false,"links":null}
 {"name":"cycle","vers":"0.1.0","deps":[],"cksum":"3ef548f7e24cccb2d3870a2f28b772e6df23a3dab18311a6cf5cf692eab6bf35","features":{"cycle_lang":[],"default":["cycle_lang","cycle_plot"],"cycle_plot":[]},"yanked":false,"links":null}
+{"name":"cycle","vers":"0.1.1","deps":[],"cksum":"6661cae95b81d82026bfb106b5182b230c849f6e1822f0623f400fd8b5b21e91","features":{"cycle_plot":[],"default":["cycle_lang","cycle_plot"],"cycle_lang":[]},"yanked":false,"links":null}
