@@ -1,0 +1,1 @@
+{"name":"smallmap","vers":"1.0.0","deps":[{"name":"rustc_version","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7e3c7c071bb52efb0f8afe0cfdf8437c41efe5a2bb68e3963d273e4a26ccea71","features":{},"yanked":false,"links":null}
