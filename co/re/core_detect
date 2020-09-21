@@ -1,0 +1,1 @@
+{"name":"core_detect","vers":"0.1.0","deps":[{"name":"cupid","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"373301840270b35da8c4d6d00f421a095c0eea56919dd494825fcad6456b246e","features":{"assume_has_cpuid":[],"unstable_has_cpuid":[],"default":["assume_has_cpuid"]},"yanked":false,"links":null}
