@@ -1,1 +1,2 @@
 {"name":"oso-derive","vers":"0.1.0","deps":[],"cksum":"befb087c95dbfe633d943978b38b56434a39f94e4d92421d4dfcd42169cdf1ef","features":{},"yanked":false,"links":null}
+{"name":"oso-derive","vers":"0.1.0-alpha","deps":[{"name":"quote","req":"^1.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0.40","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a2a07cd1e52d034de8844ae13a9b9a084469a868ba80f524d429e011196939b","features":{},"yanked":false,"links":null}
