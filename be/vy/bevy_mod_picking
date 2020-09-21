@@ -1,1 +1,2 @@
 {"name":"bevy_mod_picking","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccdc6e8d795868e8943d92bdc765c6d94a6cf28201e07abb2042cd1c373f3994","features":{},"yanked":false,"links":null}
+{"name":"bevy_mod_picking","vers":"0.1.2","deps":[{"name":"bevy","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5068a90442ab5b44a8e45d914ff034e04452c10f76a3609144404f6805cd6a2","features":{},"yanked":false,"links":null}
