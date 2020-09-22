@@ -1,1 +1,2 @@
 {"name":"ump","vers":"0.1.1","deps":[],"cksum":"4d5ab82c90e8b8ff79f53a2e4a7e2e9d875247ea88c53188d97cc654990a51cf","features":{},"yanked":false,"links":null}
+{"name":"ump","vers":"0.5.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ee589d723ccdfd60c7033301d76959e02cdaf733359d1393352c2b58bafcbebd","features":{},"yanked":false,"links":null}
