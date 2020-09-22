@@ -1,3 +1,4 @@
 {"name":"fixed-slice-vec","vers":"0.2.0","deps":[],"cksum":"0de699c518fc4b633648259c888fd3994539913bd5c3d622242b8224ecf43e8b","features":{},"yanked":false,"links":null}
 {"name":"fixed-slice-vec","vers":"0.3.0","deps":[],"cksum":"a15ddc389d73a96ae444e3bd7496a707825cb2cb03c0901756b124ef65fc6609","features":{},"yanked":false,"links":null}
 {"name":"fixed-slice-vec","vers":"0.4.0","deps":[],"cksum":"1de0405bd343c17ba60e753408dc2ac8845bf09738c0fdcaecf9815a64001f5b","features":{},"yanked":false,"links":null}
+{"name":"fixed-slice-vec","vers":"0.5.0","deps":[{"name":"arrayvec","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"proptest","req":"^0.9.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"af2fd1f2b7ebdcd484b81a7bdd70099282a51f1dc0a24dfd406a7fcc6c4832b4","features":{},"yanked":false,"links":null}
