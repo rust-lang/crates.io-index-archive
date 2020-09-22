@@ -1,1 +1,2 @@
 {"name":"bevy_ninepatch","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d90b4cf65c658a6d16dd8c00f1d724442aacc272623a8cc81ce09e1db51cf38d","features":{},"yanked":false,"links":null}
+{"name":"bevy_ninepatch","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b7e237f62f3d5b646522aa8679c6229f721208ee8366d5e1d0e518ef829a9d56","features":{},"yanked":false,"links":null}
