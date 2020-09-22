@@ -1,0 +1,1 @@
+{"name":"test-fuzz-dirs","vers":"0.1.0-alpha.1","deps":[{"name":"cargo_metadata","req":"^0.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18ab62654c9127489a88b7b161eccd0c05377481430963c5e8ce9b767bdc33bd","features":{},"yanked":false,"links":null}
