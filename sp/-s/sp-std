@@ -10,3 +10,4 @@
 {"name":"sp-std","vers":"2.0.0-rc4","deps":[],"cksum":"be9a60b2db0140169c0bada42bc4045be9902495f44b9f0be62499aafc0ff160","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"sp-std","vers":"2.0.0-rc5","deps":[],"cksum":"2a58c21080bbfd72305a66db730d9cfaac50100a85071f560b133881f70e109a","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"sp-std","vers":"2.0.0-rc6","deps":[],"cksum":"dd69654cdd9fa179dad52811220356dc2991f70b3b93e77c27f4e317d58c059b","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"sp-std","vers":"2.0.0","deps":[],"cksum":"fa2d6e166cead2d3b1d3d8fe0e787d076b7d0296b1760a0d7d340846d0ba42c5","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
