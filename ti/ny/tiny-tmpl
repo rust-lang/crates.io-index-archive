@@ -1,0 +1,1 @@
+{"name":"tiny-tmpl","vers":"0.1.1","deps":[{"name":"serde_yaml","req":"^0.8.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d7f9756106e404b4e32041370c6ece6bdcea896c9527669caca568122073a52","features":{},"yanked":false,"links":null}
