@@ -7,3 +7,4 @@
 {"name":"ruspiro-lock","vers":"0.3.1","deps":[{"name":"ruspiro-interrupt-core","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dca4a15dbdf872232ddc4117f5c3ad8fd1714564adbb529c823ebcdcb105378e","features":{},"yanked":false,"links":null}
 {"name":"ruspiro-lock","vers":"0.3.2","deps":[],"cksum":"4712b279977cc5828ab1eba07330d42857872176e163094b836597d8d77a285c","features":{},"yanked":false,"links":null}
 {"name":"ruspiro-lock","vers":"0.3.3","deps":[],"cksum":"28a74399234c9f843b72a0a9e081d2723239c9b6b7cbd53a28a23feedaa875f8","features":{},"yanked":false,"links":null}
+{"name":"ruspiro-lock","vers":"0.4.0","deps":[{"name":"async-std","req":"^1.6.4","features":["attributes","unstable"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8088450a1732d3f8ff96828969ba78aab1a47161a06c179c645622c02b681e4d","features":{"ruspiro_pi3":[],"async_locks":[]},"yanked":false,"links":null}
