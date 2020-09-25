@@ -1,0 +1,1 @@
+{"name":"pci_types","vers":"0.1.0","deps":[{"name":"bit_field","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e720b73950b54b3f097f9c59ea32721b10d8292c895c09710d9d4fc46d18a748","features":{},"yanked":false,"links":null}
