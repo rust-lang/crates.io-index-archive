@@ -1,1 +1,2 @@
 {"name":"ojisan_fuck","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de4e5d4800fc5193f008ad55ad124029c6cee94ca7a8c34ab68f0d975a79fc78","features":{},"yanked":false,"links":null}
+{"name":"ojisan_fuck","vers":"0.1.1","deps":[{"name":"clap","req":"^2.33.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b08813e8e762181f6d513fcedad661897d5ac21beb9fe41d25ae2e027be7666b","features":{},"yanked":false,"links":null}
