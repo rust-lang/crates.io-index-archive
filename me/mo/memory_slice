@@ -1,1 +1,2 @@
 {"name":"memory_slice","vers":"0.1.0-preview","deps":[],"cksum":"11836e3120c9126d34ed6cc95dec38aedf13ee5c4e6276cbea86156d7c2ebba6","features":{"sized_buffer":[],"default":[]},"yanked":false,"links":null}
+{"name":"memory_slice","vers":"0.1.0-preview2","deps":[],"cksum":"cb867e4f917b53ea8956f30a55a370c815e988930d5c0ef0b4facc1946b70be6","features":{"sized_buffer":[],"default":[]},"yanked":false,"links":null}
