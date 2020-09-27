@@ -1,1 +1,2 @@
 {"name":"hatter","vers":"0.0.1","deps":[],"cksum":"c845685099406379b347598a4013e023cd7f31d876e0b6c10edca5986c01f751","features":{},"yanked":false,"links":null}
+{"name":"hatter","vers":"0.0.2","deps":[{"name":"rustyline","req":"^6.2.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8fc82dd4d49f51df757dc053d4c0816cd3b10a99c99630e8a54a0405c1371745","features":{"repl":["rustyline"]},"yanked":false,"links":null}
