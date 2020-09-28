@@ -1,0 +1,1 @@
+{"name":"tsic","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2","features":["unproven"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a808401a6759e29d24b5593d9c190299a13cc3b5851473d2fb0980ffed965b83","features":{},"yanked":false,"links":null}
