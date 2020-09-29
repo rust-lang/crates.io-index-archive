@@ -1,0 +1,1 @@
+{"name":"ckb-logger-config","vers":"0.37.0-pre","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"423a303a240244c55d1840e203f2e506c7e2b4a67ba0731e2cd42abb89a3fcdf","features":{},"yanked":false,"links":null}
