@@ -1,0 +1,1 @@
+{"name":"ckb-metrics","vers":"0.37.0-pre","deps":[{"name":"metrics","req":"~0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7aba524bc4786c1cb601a624512e03f12f0d2666946456c9ea248d947268cc87","features":{},"yanked":false,"links":null}
