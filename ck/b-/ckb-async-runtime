@@ -1,0 +1,1 @@
+{"name":"ckb-async-runtime","vers":"0.37.0-pre","deps":[{"name":"tokio","req":"^0.2","features":["sync","blocking","rt-threaded"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff19bb6b39f4b42e7a381091be58408a28c0dd57f82bde87d9b351b51cd0a64d","features":{},"yanked":false,"links":null}
