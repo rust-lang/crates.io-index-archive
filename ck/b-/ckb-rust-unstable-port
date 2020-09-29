@@ -1,0 +1,1 @@
+{"name":"ckb-rust-unstable-port","vers":"0.37.0-pre","deps":[{"name":"is_sorted","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7b1edebedf0e556c0fd965f85ef1f9fd2af2bddf1714402f94d599a52dd498e","features":{},"yanked":false,"links":null}
