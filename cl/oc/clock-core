@@ -1,0 +1,1 @@
+{"name":"clock-core","vers":"0.0.1","deps":[{"name":"chrono","req":"^0.4.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67955af4a622e46ccd65f29a557ea722c0e557f59f745228ae94a22ffe85dbe3","features":{},"yanked":false,"links":null}
