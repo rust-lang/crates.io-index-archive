@@ -1,0 +1,1 @@
+{"name":"ckb-traits","vers":"0.37.0-pre","deps":[{"name":"ckb-types","req":"=0.37.0-pre","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b11368578b6793e911c29b4fc66b92d4de0e86c955bdc2b9b387d04db8ffa43b","features":{},"yanked":false,"links":null}
