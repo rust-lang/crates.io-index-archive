@@ -1,0 +1,1 @@
+{"name":"ckb-channel","vers":"0.37.0-pre","deps":[{"name":"crossbeam-channel","req":"~0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d2e31a3c92d797c16550fa88cbbdefceacf659e08c78c4857aec3b17f2573db","features":{},"yanked":false,"links":null}
