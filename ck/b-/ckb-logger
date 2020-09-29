@@ -1,0 +1,1 @@
+{"name":"ckb-logger","vers":"0.37.0-pre","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b7d44dee74fd98e9bce24c2f56a71899a2feb36f3a716062641512d68b096a0","features":{},"yanked":false,"links":null}
