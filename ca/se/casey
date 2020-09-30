@@ -3,3 +3,4 @@
 {"name":"casey","vers":"0.2.0","deps":[],"cksum":"d231a40f6ac78c0b10257aa4be07708d323632eb9acd65911498892916e65bdf","features":{},"yanked":false,"links":null}
 {"name":"casey","vers":"0.3.0","deps":[],"cksum":"20d9ee18af53e57701c9b9b2baafb1a9e9d2e749f1de6af021259255f47dde8b","features":{},"yanked":false,"links":null}
 {"name":"casey","vers":"0.3.1","deps":[],"cksum":"5a17fc2ec7f349dd0223be053b0374bfb8718497b94934bd821107368158340b","features":{},"yanked":false,"links":null}
+{"name":"casey","vers":"0.3.2","deps":[{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cd49ed9343931c40fd9d0d9787bda3ad10b00b455646a0d4239d00700a4b913","features":{},"yanked":false,"links":null}
