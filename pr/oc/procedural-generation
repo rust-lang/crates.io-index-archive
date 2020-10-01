@@ -1,0 +1,1 @@
+{"name":"procedural-generation","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef6cee8b89cde92f84ab53f75f7993fed2c14f7901891f83f4cdbba16b2573b4","features":{},"yanked":false,"links":null}
