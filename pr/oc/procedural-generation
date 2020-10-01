@@ -1,1 +1,2 @@
 {"name":"procedural-generation","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef6cee8b89cde92f84ab53f75f7993fed2c14f7901891f83f4cdbba16b2573b4","features":{},"yanked":false,"links":null}
+{"name":"procedural-generation","vers":"0.1.1","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b0e5ab8672fc45600a536691e1bc871c83d94d2e80ad2cd414fb2a1b5d51ab8","features":{},"yanked":false,"links":null}
