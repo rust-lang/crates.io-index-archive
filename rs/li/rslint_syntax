@@ -1,0 +1,1 @@
+{"name":"rslint_syntax","vers":"0.1.0","deps":[{"name":"rowan","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d472aa8e99fe75e3b49aae51b973c9d651f0d06c7c47065ca635dbc224411df","features":{},"yanked":false,"links":null}
