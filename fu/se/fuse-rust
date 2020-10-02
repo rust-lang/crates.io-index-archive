@@ -1,0 +1,1 @@
+{"name":"fuse-rust","vers":"0.1.0","deps":[{"name":"crossbeam","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fde340b96123c723fdb2a9b407f9c9017bfa1bb6e84735953ca103eb6103d62e","features":{},"yanked":false,"links":null}
