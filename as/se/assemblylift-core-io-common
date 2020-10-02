@@ -1,0 +1,1 @@
+{"name":"assemblylift-core-io-common","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02d8ad05b439cbbe9c029e0e4b6298ef1fa49dd1f23981ae5769e9123a9a1b32","features":{},"yanked":false,"links":null}
