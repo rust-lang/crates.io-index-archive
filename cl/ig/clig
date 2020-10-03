@@ -1,1 +1,1 @@
-{"name":"Clig","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"599145f910ef8dadc38e52c54da21e59c297039d12a6dc5f0feac75f5de53e7c","features":{},"yanked":false,"links":null}
+{"name":"Clig","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"599145f910ef8dadc38e52c54da21e59c297039d12a6dc5f0feac75f5de53e7c","features":{},"yanked":true,"links":null}
