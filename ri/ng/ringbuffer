@@ -3,3 +3,4 @@
 {"name":"ringbuffer","vers":"0.2.0","deps":[],"cksum":"c4e9fac084ea0ce469248761c80938edb9bab9caba724f35b0ff21920c69c64c","features":{},"yanked":false,"links":null}
 {"name":"ringbuffer","vers":"0.2.1","deps":[],"cksum":"3bbfe5a772bdcdc9d48989ae6cbbc766fd334edaf6ec1df1973e4337ce8db1ce","features":{},"yanked":false,"links":null}
 {"name":"ringbuffer","vers":"0.2.2","deps":[],"cksum":"44ee18e4248a2d1746c5a0b98908f35c4a4bc16243ef9b845e888520e8a484a2","features":{},"yanked":false,"links":null}
+{"name":"ringbuffer","vers":"0.2.3","deps":[],"cksum":"0246f17ec9bad6e55b76756139ffcf053671a348d462b8aa70029b26122c9b3a","features":{},"yanked":false,"links":null}
