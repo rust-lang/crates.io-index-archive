@@ -8,3 +8,4 @@
 {"name":"futures-sink","vers":"0.3.3","deps":[],"cksum":"04299e123547ea7c56f3e1b376703142f5fc0b6700433eed549e9d0b8a75a66c","features":{"alloc":[],"std":["alloc"],"default":["std"]},"yanked":false,"links":null}
 {"name":"futures-sink","vers":"0.3.4","deps":[],"cksum":"3466821b4bc114d95b087b850a724c6f83115e929bc88f1fa98a3304a944c8a6","features":{"default":["std"],"alloc":[],"std":["alloc"]},"yanked":false,"links":null}
 {"name":"futures-sink","vers":"0.3.5","deps":[],"cksum":"3f2032893cb734c7a05d85ce0cc8b8c4075278e93b24b66f9de99d6eb0fa8acc","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"links":null}
+{"name":"futures-sink","vers":"0.3.6","deps":[],"cksum":"0d8764258ed64ebc5d9ed185cf86a95db5cac810269c5d20ececb32e0088abbd","features":{"alloc":[],"std":["alloc"],"default":["std"]},"yanked":false,"links":null}
