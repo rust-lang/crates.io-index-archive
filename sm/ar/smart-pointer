@@ -1,0 +1,1 @@
+{"name":"smart-pointer","vers":"0.1.0","deps":[{"name":"maybe-std","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63137bce3d97f6522c73dd93717627491eda9c69b65cbe5352c884491c905599","features":{"std":["maybe-std/std"],"default":[],"alloc":["maybe-std/alloc"]},"yanked":false,"links":null}
