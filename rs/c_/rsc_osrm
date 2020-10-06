@@ -1,1 +1,2 @@
 {"name":"rsc_osrm","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"73af56dc1c501563561e6b83c706742ddcf4ba8fc744b956192b528e65c3e99b","features":{},"yanked":false,"links":null}
+{"name":"rsc_osrm","vers":"0.1.1","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9c58373b823d0fd4b8d98d1ecd0f27284fedf0623d8e48381924afcc2a005370","features":{},"yanked":false,"links":null}
