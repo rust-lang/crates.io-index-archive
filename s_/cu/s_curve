@@ -1,0 +1,1 @@
+{"name":"s_curve","vers":"0.1.0","deps":[{"name":"gnuplot","req":"^0.0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a22e71b747cde8e648eeb18ec7193d13abb80df5f4728a44f1a74575a38931e0","features":{},"yanked":false,"links":null}
