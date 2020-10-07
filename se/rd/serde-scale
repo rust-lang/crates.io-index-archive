@@ -1,0 +1,1 @@
+{"name":"serde-scale","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.116","features":["derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4a939d2f60510a76beecc5e44398a59b9037e5cd1f6ec2b5e3c388923c1236cc","features":{"alloc":["serde/alloc"],"default":["std"],"std":["alloc","serde/std"]},"yanked":false,"links":null}
