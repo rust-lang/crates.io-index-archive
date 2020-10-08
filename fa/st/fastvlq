@@ -1,0 +1,1 @@
+{"name":"fastvlq","vers":"1.0.0-alpha.1","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bc6cc62ce69ec944fe525ac29b3b031e5c4ad0718e48b001922b5ad1913d8179","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
