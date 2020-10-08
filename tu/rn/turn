@@ -1,2 +1,3 @@
 {"name":"turn","vers":"0.0.1","deps":[],"cksum":"0d5c0b3e0c4133b5efa2008698dc5d27880c64bdd8396dd7dadc64a461401c96","features":{},"yanked":false,"links":null}
 {"name":"turn","vers":"0.0.2","deps":[],"cksum":"861ad9ed45e89233fd8c59ed7964629167ebb519899d380a5a9e3cf20a9677d3","features":{},"yanked":false,"links":null}
+{"name":"turn","vers":"0.0.3","deps":[{"name":"duplicate","req":"^0.2.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a1070edcb8ddeeea970a8d89391a5dc254c305f4d86f12780e573016b62947d","features":{},"yanked":false,"links":null}
