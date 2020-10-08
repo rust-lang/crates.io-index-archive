@@ -1,0 +1,1 @@
+{"name":"pulsar-sys","vers":"2.6.0","deps":[{"name":"bindgen","req":"^0.55.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5f7c45e45c63bd7b6e909dc482b83461c9cac2b5f820ca196f27ac9da9ddfbc8","features":{},"yanked":false,"links":"pulsar"}
