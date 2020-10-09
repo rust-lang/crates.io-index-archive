@@ -1,1 +1,1 @@
-{"name":"koreanbots-rs","vers":"0.1.0","deps":[{"name":"ureq","req":"^1.5.1","features":["json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86e8d493aa1efc40cf20ba3df0070448a7471c4e4020ddbf6f2d09eeaa93b91c","features":{},"yanked":false,"links":null}
+{"name":"koreanbots-rs","vers":"0.1.0","deps":[{"name":"ureq","req":"^1.5.1","features":["json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86e8d493aa1efc40cf20ba3df0070448a7471c4e4020ddbf6f2d09eeaa93b91c","features":{},"yanked":true,"links":null}
