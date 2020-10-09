@@ -1,0 +1,1 @@
+{"name":"msfs","vers":"0.0.0-pre.1","deps":[{"name":"bindgen","req":"^0.53","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2da650d4fa100bb8e0ab464f9bf4d1816c96c6167ba3dd12a42f650c3c501d73","features":{},"yanked":false,"links":null}
