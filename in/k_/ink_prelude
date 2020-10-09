@@ -1,1 +1,2 @@
 {"name":"ink_prelude","vers":"0.0.0","deps":[],"cksum":"e620f949f4f8bb0e621e2ea937634f8a0c066de58e2a4bbfbaf1579f99aa3954","features":{},"yanked":false,"links":null}
+{"name":"ink_prelude","vers":"3.0.0-rc1","deps":[{"name":"cfg-if","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"935ea6e6a23d62d9e81f092147f356f08635fabf3fe704ebd44ede90d3b3371f","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
