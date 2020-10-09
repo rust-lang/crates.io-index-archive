@@ -1,0 +1,1 @@
+{"name":"galaxy_buds_live_rs","vers":"0.1.1","deps":[{"name":"bluetooth-serial-port","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c40eae16a43494dab27e7ff3f7818925711afc3b0709a4cd25d3934aa14b595c","features":{},"yanked":false,"links":null}
