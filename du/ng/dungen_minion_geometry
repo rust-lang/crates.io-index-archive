@@ -1,3 +1,4 @@
 {"name":"dungen_minion_geometry","vers":"0.1.0","deps":[],"cksum":"952f713a20f2ba2ce1e4b1bd0f8bb84fab944dbfc1159ef79a64f32a55fdea5e","features":{},"yanked":false,"links":null}
 {"name":"dungen_minion_geometry","vers":"0.1.1","deps":[],"cksum":"86e7deae5816b43355822718caa620b05023ed45a1436480aa6b931c3a540111","features":{},"yanked":false,"links":null}
 {"name":"dungen_minion_geometry","vers":"0.1.2","deps":[{"name":"derive_more","req":"^0.99.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcc611ee081dc0ba61250ebbffdb338c33339f028fc5ed7f4bcbf12cf1b08e39","features":{},"yanked":false,"links":null}
+{"name":"dungen_minion_geometry","vers":"0.1.3","deps":[{"name":"derive_more","req":"^0.99.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51887cc3a23a6c94fc765886f9d54bd84bba5ff91de3e90a9da3979a675de6bb","features":{},"yanked":false,"links":null}
