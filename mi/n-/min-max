@@ -1,1 +1,2 @@
 {"name":"min-max","vers":"0.1.0","deps":[{"name":"partial-min-max","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc3d99694bab06d09e963c6135157fb012746830b8978da3803cab6bd85e0728","features":{},"yanked":false,"links":null}
+{"name":"min-max","vers":"0.1.1","deps":[{"name":"partial-min-max","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82c0131fa39d969055cd64ab56a41de97de8993a42f64574bdf5b11c93a501b4","features":{},"yanked":false,"links":null}
