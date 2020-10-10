@@ -1,1 +1,2 @@
 {"name":"yoyo-physics","vers":"0.1.0","deps":[{"name":"num","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4dfdb1e5a5d528d162f60edeed5ae7f1b5989101507cebb1d3fb45188be9a8b","features":{},"yanked":false,"links":null}
+{"name":"yoyo-physics","vers":"0.2.0","deps":[{"name":"num","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05162d71d1989b29ec187c2831e7437b2981a9b31f3436e2c8d6c43fb8d9d183","features":{},"yanked":false,"links":null}
