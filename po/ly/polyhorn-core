@@ -1,1 +1,2 @@
 {"name":"polyhorn-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.115","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a26479d7a4980ebdc215ce7c78fc9961aac1045a99b9f1a37ff3e01eaa36394c","features":{},"yanked":false,"links":null}
+{"name":"polyhorn-core","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.115","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2457836d91682a454c51e895846594061b6488c8cae0fe134625704ffffcf0a7","features":{},"yanked":false,"links":null}
