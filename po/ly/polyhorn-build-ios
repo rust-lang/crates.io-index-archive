@@ -1,1 +1,2 @@
 {"name":"polyhorn-build-ios","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.59","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3ef77ba69521ab0fb7764781d4c307ecf454864dc0a354b0db32ff123ed4067","features":{},"yanked":false,"links":null}
+{"name":"polyhorn-build-ios","vers":"0.2.0","deps":[{"name":"cc","req":"^1.0.59","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01373ef8e8cbe0696b61e5c8653f8991fcd7b9099e8738d8f95563ed62d1375b","features":{},"yanked":false,"links":null}
