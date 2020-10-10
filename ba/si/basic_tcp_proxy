@@ -1,1 +1,2 @@
 {"name":"basic_tcp_proxy","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ce842f71bf7e47ceb5c7a04e0766665c0c99d2f845d5a967e50b1b589479059","features":{},"yanked":false,"links":null}
+{"name":"basic_tcp_proxy","vers":"0.1.1","deps":[],"cksum":"72d9fa8729078f18e7d87d6b272ec36af83ff6863e53605e3fc12cdbb42c4996","features":{},"yanked":false,"links":null}
