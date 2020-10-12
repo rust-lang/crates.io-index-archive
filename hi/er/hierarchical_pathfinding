@@ -2,3 +2,4 @@
 {"name":"hierarchical_pathfinding","vers":"0.2.0","deps":[],"cksum":"4987ab9b13d99f1e2b6b681ee39029024261091bc415412193638b84def79dc5","features":{},"yanked":false,"links":null}
 {"name":"hierarchical_pathfinding","vers":"0.3.0","deps":[],"cksum":"33b23766e81c66c7955b8bb5ce6cc9f04cde2b1d3c1c65ec838938b9796863be","features":{},"yanked":false,"links":null}
 {"name":"hierarchical_pathfinding","vers":"0.3.5","deps":[{"name":"fnv","req":"^1.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d13f5fac090a413d4e4832744f40ced9d8cadecd0fa71f1ae7d1de054d1cd4f0","features":{},"yanked":false,"links":null}
+{"name":"hierarchical_pathfinding","vers":"0.3.6","deps":[{"name":"fnv","req":"^1.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5deec46d02262eed839b190da8a3d774781459b37f04c0de123a566ec41fd61b","features":{},"yanked":false,"links":null}
