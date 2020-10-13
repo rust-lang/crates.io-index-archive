@@ -1,3 +1,4 @@
 {"name":"uniquote","vers":"0.1.0","deps":[],"cksum":"240e4753951e409cdd827c9a7bcb7d2923a56d00cce7ffe72035a917326a1082","features":{"const_generics":[],"alloc":[],"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"uniquote","vers":"0.1.1","deps":[],"cksum":"c3472c2610beeaaa46566312e485c3cd94b97a6e4bffa2d79d70aba6d5bba7dc","features":{"alloc":[],"const_generics":[],"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"uniquote","vers":"1.0.0","deps":[],"cksum":"9295581f4f7dfb1f529e77e73f359cde67ddb69afbc638ebe59138607e645393","features":{"default":["std"],"alloc":[],"const_generics":[],"std":[]},"yanked":false,"links":null}
+{"name":"uniquote","vers":"1.1.0","deps":[],"cksum":"8b49c5c08e01c85f36054a1edfdfda6f2f9ab1f9bf2524313664a31413b90ea6","features":{"const_generics":[],"std":["alloc"],"alloc":[],"min_const_generics":[],"default":["std"]},"yanked":false,"links":null}
