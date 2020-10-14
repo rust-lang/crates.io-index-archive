@@ -1,1 +1,2 @@
 {"name":"gitstatusd","vers":"0.1.0","deps":[],"cksum":"7346e3ffdf1448301eb67e502e6e669c7037e47639b2f922c9ddf67f4c5f52a2","features":{},"yanked":false,"links":null}
+{"name":"gitstatusd","vers":"0.2.0","deps":[{"name":"pretty_assertions","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"67518c008937125dfb50af26ef7331b96b75d1b8535e6168f485887c17d6a928","features":{},"yanked":false,"links":null}
