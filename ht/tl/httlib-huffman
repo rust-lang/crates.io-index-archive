@@ -1,0 +1,1 @@
+{"name":"httlib-huffman","vers":"0.1.0","deps":[],"cksum":"978c8663aa766958c10c90cc8816034379b83ced2aee967e5841bf96984d0d1d","features":{"flatten":[],"encode":[],"decode2":[],"decode1":[],"decode5":[],"decode3":[],"decode4":[],"parse":[],"default":["encode","decode4","flatten","parse"]},"yanked":false,"links":null}
