@@ -1,2 +1,3 @@
 {"name":"cipher","vers":"0.1.0","deps":[],"cksum":"3cffb66ed3eab0cb12a27ae0c8ddb18b4e82160b56b9302b5f32f5aa3d28291e","features":{},"yanked":false}
 {"name":"cipher","vers":"0.1.1","deps":[],"cksum":"1e0e888a488cf777da177feafa7ebc61175c29308ed5127008cf99c4fbd3c4b0","features":{},"yanked":false}
+{"name":"cipher","vers":"0.2.0","deps":[{"name":"blobby","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"generic-array","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f959e47a7277c60858fb2a28c0272db0949f80247d981b42c2740d48a8f578f","features":{"dev":["blobby"],"std":[]},"yanked":false,"links":null}
