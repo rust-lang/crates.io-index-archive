@@ -15,3 +15,4 @@
 {"name":"buldak","vers":"0.7.0","deps":[],"cksum":"d87486d2d24204d75edf4906ffaae84da1b53cfefe8cad84c86c69bee42b1ce4","features":{},"yanked":false,"links":null}
 {"name":"buldak","vers":"0.8.0","deps":[],"cksum":"4789df6a332a5a2fa9bf85aef89234dea67a27f4f1e16549157c7b0f86942848","features":{},"yanked":false,"links":null}
 {"name":"buldak","vers":"0.9.0","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13a838ca0b40bfc6129bc734dad5cdf741271952e2b65d5228a7cfbd0a743eb7","features":{},"yanked":false,"links":null}
+{"name":"buldak","vers":"0.9.1","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d44070c559d4efb9afaaded500c805695755a03025682a0d54b44ab87f5d333","features":{},"yanked":false,"links":null}
