@@ -1,1 +1,2 @@
 {"name":"scones_examples","vers":"0.1.0","deps":[{"name":"scones","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc78e4b7f8f93f8a9322d8478bb9065594550093cfe339daaf2b1d2896b3b3c8","features":{},"yanked":false,"links":null}
+{"name":"scones_examples","vers":"0.1.1","deps":[{"name":"scones","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db9fbc67d14440ca027e700b623b2ef9cd5ff6ed97b5a52558480fc9f689cb49","features":{},"yanked":false,"links":null}
