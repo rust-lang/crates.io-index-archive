@@ -1,1 +1,2 @@
 {"name":"tsur","vers":"0.1.0","deps":[{"name":"clap","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63410b1432ae5f68834e4bf9db7ef87d9ee9ea2a5a23aabbaf552b5fbbfa1beb","features":{},"yanked":false,"links":null}
+{"name":"tsur","vers":"0.1.1","deps":[{"name":"clap","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac20f1065c9dd702cd8c6229d604c0eaa568734722f5eac0978b1c66bdd22d4c","features":{},"yanked":false,"links":null}
