@@ -1,1 +1,2 @@
 {"name":"cargo-fak","vers":"0.1.0","deps":[],"cksum":"1e9e3929636de944e8e9847798ef6f3a611e7fadc383d45acd1228ac169a52a3","features":{},"yanked":false,"links":null}
+{"name":"cargo-fak","vers":"1.0.0","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6fa7ab93bcceb64c86176a0fc39199f852cec53b07b121fd9597d482158008b","features":{},"yanked":false,"links":null}
