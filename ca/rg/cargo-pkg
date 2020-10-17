@@ -1,1 +1,2 @@
 {"name":"cargo-pkg","vers":"0.1.0","deps":[],"cksum":"e521a3a7adf001e9e48c15d7f31cff13ccfd97a216136613f2615b20b616c11d","features":{},"yanked":false,"links":null}
+{"name":"cargo-pkg","vers":"0.1.1","deps":[{"name":"json","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"995e1b30888ea3e7a0ed35b6c2028ff2cf46a43d687a48b7d9ff5f82c84f2a78","features":{},"yanked":false,"links":null}
