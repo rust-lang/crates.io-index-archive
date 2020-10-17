@@ -4,3 +4,4 @@
 {"name":"seq-macro","vers":"0.1.3","deps":[],"cksum":"acda6f18d5bbf6496491d694c21530a63127c9af3d91384bfc19d63f8ba29229","features":{},"yanked":false,"links":null}
 {"name":"seq-macro","vers":"0.1.4","deps":[],"cksum":"fe8b1572b87a097efaf491e45617f25c8e3e9e530beb3e9b81d5e82f9821e843","features":{},"yanked":false,"links":null}
 {"name":"seq-macro","vers":"0.1.5","deps":[],"cksum":"aa62e15412784450a67f0f49cc3cfd295f3ac0c5cda05e8312f089040debda0c","features":{},"yanked":false,"links":null}
+{"name":"seq-macro","vers":"0.2.0","deps":[{"name":"rustversion","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"trybuild","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"939bf550358f85e8c7da9fa9de2d2c8fc959fdd200b5897e653003a81a26fafb","features":{},"yanked":false,"links":null}
