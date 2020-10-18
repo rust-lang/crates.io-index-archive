@@ -1,0 +1,1 @@
+{"name":"bluez-generated","vers":"0.1.0","deps":[{"name":"dbus","req":"^0.8.4","features":["futures"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eeac545d87b465ae30d0dd58e049b02e6238508868635a59b7e6c54d614e018c","features":{},"yanked":false,"links":null}
