@@ -1,0 +1,1 @@
+{"name":"ttcore_def","vers":"0.2.10","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ca4756e98e599b45c0f839eebe5010808cd630f70fb7a209799733e93820788","features":{},"yanked":false,"links":null}
