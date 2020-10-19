@@ -1,0 +1,1 @@
+{"name":"fast-fibonacci","vers":"0.1.0","deps":[{"name":"ndarray","req":"^0.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"225599674136f2c3b376c0231e6fc0b6ac3ffaa539f930dbd026ce07b569f345","features":{},"yanked":false,"links":null}
