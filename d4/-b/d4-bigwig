@@ -1,0 +1,1 @@
+{"name":"d4-bigwig","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.55.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"812961a82a2d13f80d80f3ad52fe813695f0c98186a1ae22f1cfbdd09418bca9","features":{},"yanked":false,"links":null}
