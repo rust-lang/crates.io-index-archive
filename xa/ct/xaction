@@ -1,1 +1,2 @@
 {"name":"xaction","vers":"0.1.0","deps":[{"name":"xshell","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85ded52b1d21d108c09ca4a788483978077abc386b75ca113982c68aef4cc38e","features":{},"yanked":false,"links":null}
+{"name":"xaction","vers":"0.2.0","deps":[{"name":"xshell","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"edca1cd35d4c5dedc2e7e6fd9779bf42c44a3838df22efedaa8852771da436d9","features":{},"yanked":false,"links":null}
