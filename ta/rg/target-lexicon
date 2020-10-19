@@ -14,3 +14,4 @@
 {"name":"target-lexicon","vers":"0.9.0","deps":[],"cksum":"6f4c118a7a38378f305a9e111fcb2f7f838c0be324bfb31a77ea04f7f6e684b4","features":{"default":[],"std":[]},"yanked":false,"links":null}
 {"name":"target-lexicon","vers":"0.10.0","deps":[],"cksum":"ab0e7238dcc7b40a7be719a25365910f6807bd864f4cce6b2e6b873658e2b19d","features":{"default":[],"std":[]},"yanked":false,"links":null}
 {"name":"target-lexicon","vers":"0.11.0","deps":[],"cksum":"fe2635952a442a01fd4cb53d98858b5e4bb461b02c0d111f22f31772e3e7a8b2","features":{"default":[],"std":[]},"yanked":false,"links":null}
+{"name":"target-lexicon","vers":"0.11.1","deps":[],"cksum":"4ee5a98e506fb7231a304c3a1bd7c132a55016cf65001e0282480665870dfcb9","features":{"default":[],"std":[]},"yanked":false,"links":null}
