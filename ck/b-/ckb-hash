@@ -1,1 +1,2 @@
 {"name":"ckb-hash","vers":"0.37.0-pre","deps":[{"name":"blake2b-rs","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96d698376acc6c3d978f10be5138d80f358875287980eb3c213553db952cc9b7","features":{},"yanked":false,"links":null}
+{"name":"ckb-hash","vers":"0.37.0","deps":[{"name":"blake2b-rs","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7508217d38998e44b783e1d6fdf2a5d77f1ae2c425a1bca0dd08ac9b22e3bac5","features":{},"yanked":false,"links":null}
