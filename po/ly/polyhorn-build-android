@@ -1,0 +1,1 @@
+{"name":"polyhorn-build-android","vers":"0.3.0","deps":[{"name":"walkdir","req":"^2.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43db57d06f1a3fdf0da3b99a9361a26526bd16ffafd2ed52c47fe9385d0adc78","features":{},"yanked":false,"links":null}
