@@ -1,0 +1,1 @@
+{"name":"creator-permissions","vers":"0.1.1","deps":[{"name":"jni","req":"^0.17","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"android\")","kind":"normal"}],"cksum":"46b502e52fd57c2d9ee931c45f270abbd71cb7f50b5066f5017bc81c4dc6eb28","features":{},"yanked":false,"links":null}
