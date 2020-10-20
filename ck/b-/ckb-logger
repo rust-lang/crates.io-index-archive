@@ -1,1 +1,2 @@
 {"name":"ckb-logger","vers":"0.37.0-pre","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b7d44dee74fd98e9bce24c2f56a71899a2feb36f3a716062641512d68b096a0","features":{},"yanked":false,"links":null}
+{"name":"ckb-logger","vers":"0.37.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7113116c74dbbd2f345def8a13b336d096654796f8a0eff1ce59d581a4fe365","features":{},"yanked":false,"links":null}
