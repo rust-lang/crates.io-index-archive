@@ -1,1 +1,2 @@
 {"name":"ckb-traits","vers":"0.37.0-pre","deps":[{"name":"ckb-types","req":"=0.37.0-pre","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b11368578b6793e911c29b4fc66b92d4de0e86c955bdc2b9b387d04db8ffa43b","features":{},"yanked":false,"links":null}
+{"name":"ckb-traits","vers":"0.37.0","deps":[{"name":"ckb-types","req":"=0.37.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c72c1f49c61e3fb8d1ce33fd0602b6e3197c7d98a2e908c136182335b5fe4d3b","features":{},"yanked":false,"links":null}
