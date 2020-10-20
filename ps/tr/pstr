@@ -1,1 +1,2 @@
 {"name":"pstr","vers":"0.0.0","deps":[{"name":"once_cell","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1b73f239eb1c18beb789d176d6d209c678a46cdc5ef0772ce84989aa4b45201","features":{},"yanked":false,"links":null}
+{"name":"pstr","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa55d0706051b081f345fe7362412701afca287062e25adeec9df689f212c609","features":{},"yanked":false,"links":null}
