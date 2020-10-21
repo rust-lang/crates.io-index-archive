@@ -7,3 +7,4 @@
 {"name":"slyce","vers":"0.1.6","deps":[],"cksum":"0571ee3719e244bd1259f4dbb1b4713e45968c2fa7d89541208e8004789ccf21","features":{},"yanked":false,"links":null}
 {"name":"slyce","vers":"0.2.0","deps":[],"cksum":"e3093723d6c561d7632b29102fc1e87d7d1965e92fb3085a7bc9160a6aaa5acd","features":{},"yanked":false,"links":null}
 {"name":"slyce","vers":"0.2.1","deps":[],"cksum":"d57e99a279ff73215dae4b19305896aa9d33e926d938adce0afa843101189a14","features":{},"yanked":false,"links":null}
+{"name":"slyce","vers":"0.3.0","deps":[{"name":"arbitrary","req":"^0.4.7","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad0c08d767aa8e6a51d7dcef07d1ba3c109d950eb4e70be4a266e1b469260e63","features":{},"yanked":false,"links":null}
