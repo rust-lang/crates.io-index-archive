@@ -5,3 +5,4 @@
 {"name":"ocaml-interop","vers":"0.2.4","deps":[],"cksum":"8c17addbe120afdcf0bf4b4f679b25ab7cd3817af327b07cbdbee88b3b240b39","features":{},"yanked":false,"links":null}
 {"name":"ocaml-interop","vers":"0.3.0","deps":[],"cksum":"28eba814100ffbcb6a0b2b4510fde5344d66327ffdfa5fdb6b782536df2e8d53","features":{},"yanked":false,"links":null}
 {"name":"ocaml-interop","vers":"0.4.0","deps":[{"name":"ocaml-sys","req":"^0.18.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07931f8bb21d354c505c2f892cc413d9840762a9c56728cd7b03705c9730ea41","features":{},"yanked":false,"links":null}
+{"name":"ocaml-interop","vers":"0.4.1","deps":[{"name":"ocaml-sys","req":"^0.18.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f431a470e51054094e10174fdfbc72da12004439307d1ee8ddcb5b029782a6c2","features":{"docs-rs":["ocaml-sys/docs-rs"]},"yanked":false,"links":null}
