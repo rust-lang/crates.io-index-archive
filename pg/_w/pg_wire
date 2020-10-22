@@ -1,0 +1,1 @@
+{"name":"pg_wire","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9578b1792e1843ae7da516033229c9af81ba01d799f9dd39fd7044da86edc65f","features":{},"yanked":false,"links":null}
