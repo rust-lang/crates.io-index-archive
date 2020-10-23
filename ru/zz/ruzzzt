@@ -1,0 +1,1 @@
+{"name":"ruzzzt","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0.117","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcff1824aa0322cdfb48a72f7e33903b7a6de97babceaa689c6c70b5e17b6485","features":{},"yanked":false,"links":null}
