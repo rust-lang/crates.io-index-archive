@@ -1,0 +1,1 @@
+{"name":"polodb_bson","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9c93c6059e677fdf2454fe39bc202ac42a424a7f430dbb37732077b15d17d0b","features":{},"yanked":false,"links":null}
