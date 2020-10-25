@@ -1,1 +1,2 @@
 {"name":"handmade","vers":"0.1.0","deps":[{"name":"image","req":"^0.23.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"280fc1273290ee6bf97c45a62634cc9bf470dae6b324fe9f9f6c497f4c3666ce","features":{},"yanked":false,"links":null}
+{"name":"handmade","vers":"0.1.1","deps":[{"name":"image","req":"^0.23.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69f8f711781a48f09dd465126528481dce05516ff27dc5a5c8d22992bf6838bd","features":{},"yanked":false,"links":null}
