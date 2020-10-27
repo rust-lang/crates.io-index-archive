@@ -1,0 +1,1 @@
+{"name":"naut_core","vers":"0.14.2","deps":[{"name":"image","req":"^0.23.11","features":["avif"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c316499a8b6c53edcbf9c7a1a3c74c4171535a265b442b7fd41a67f45b1a667","features":{},"yanked":false,"links":null}
