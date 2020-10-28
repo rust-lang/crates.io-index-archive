@@ -1,0 +1,1 @@
+{"name":"neat-gru","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"52dd48d4ba9752983758d3b0d1e32e882c12f2a8fa6ab20b39605b00e70ba001","features":{"gpu":[]},"yanked":false,"links":null}
