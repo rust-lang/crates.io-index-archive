@@ -22,3 +22,4 @@
 {"name":"reword","vers":"4.0.1","deps":[],"cksum":"24dfaf57f18cd65d990aed211289c050daa6525b45516c308dcf9d508caf83d5","features":{},"yanked":false,"links":null}
 {"name":"reword","vers":"5.0.0","deps":[],"cksum":"fa871ac827f2497c4e1489c284188247dc966b15aaaa7ecbf45db2c5807f61ea","features":{},"yanked":false,"links":null}
 {"name":"reword","vers":"6.0.0","deps":[{"name":"unicode-segmentation","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b44252c227e9766258cb1473f3b0a77ad0d17dff1d6b9d608dbec77341a09274","features":{},"yanked":false,"links":null}
+{"name":"reword","vers":"6.1.0","deps":[{"name":"unicode-segmentation","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dc457e62eaf10f9fe74f23f7396f358f313ea9b3b56ece1adf92385468ffa88","features":{},"yanked":false,"links":null}
