@@ -1,1 +1,2 @@
 {"name":"pyo3-mp","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4b3e369e0c03f74af55080c718008728d302961c0fd42cd80ff637cf36e4f6f","features":{},"yanked":false,"links":null}
+{"name":"pyo3-mp","vers":"0.1.1","deps":[{"name":"pyo3","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"365c54808c17fe1ba9e39043d56ea3f6ca15933509e688bd8e624171e9a67854","features":{},"yanked":false,"links":null}
