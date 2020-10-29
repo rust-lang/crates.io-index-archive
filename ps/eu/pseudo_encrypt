@@ -1,1 +1,2 @@
 {"name":"pseudo_encrypt","vers":"0.1.0","deps":[{"name":"proptest","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"53990c07a88a7222b08f308f42f3983fa020a67ff838e9f704fd764dec87bbfa","features":{},"yanked":true,"links":null}
+{"name":"pseudo_encrypt","vers":"0.1.1","deps":[{"name":"proptest","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0e622a514d3795e2b6c6dbca6c7184d512b840d670318f21729dce5452b77a12","features":{},"yanked":false,"links":null}
