@@ -1,1 +1,2 @@
 {"name":"nanogrep","vers":"1.0.0","deps":[{"name":"colored","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d292fc9de02b066777d49387edda4e9e45b6fa45f58e85e85d6752295f471ed1","features":{},"yanked":false,"links":null}
+{"name":"nanogrep","vers":"1.0.1","deps":[{"name":"colored","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31ffe25384875c4dc313b847a51441aed38723ac7a0ffeaa6bbfb48707fc0763","features":{},"yanked":false,"links":null}
