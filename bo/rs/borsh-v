@@ -1,0 +1,1 @@
+{"name":"borsh-v","vers":"0.7.2","deps":[{"name":"borsh-derive","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cef3c25256ff27cc087765bed204f67d2d5828dba0df7dd849722bedd5ccf674","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
