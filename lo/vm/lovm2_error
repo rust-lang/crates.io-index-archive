@@ -1,0 +1,1 @@
+{"name":"lovm2_error","vers":"0.1.0","deps":[{"name":"backtrace","req":"^0.3.53","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c2068d579fb69cfc62fa19a569fb8d5b0103d4358116a3e0b72454655d715e9","features":{"backtracing":["backtrace"],"default":["backtracing"]},"yanked":false,"links":null}
