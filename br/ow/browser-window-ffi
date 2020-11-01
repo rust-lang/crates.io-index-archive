@@ -1,0 +1,1 @@
+{"name":"browser-window-ffi","vers":"0.0.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6c137d508fe2df9e846e43b2bf740cdea2ad24a8ab1b35f9c7d3d81fd2b7b026","features":{},"yanked":false,"links":null}
