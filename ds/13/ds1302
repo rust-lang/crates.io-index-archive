@@ -1,0 +1,1 @@
+{"name":"ds1302","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3561aede6a20a388cd5a03aadd3f4901e58e1bddc8fabfc8b9a8a942212b5bf","features":{},"yanked":false,"links":null}
