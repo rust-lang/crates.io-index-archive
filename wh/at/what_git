@@ -1,1 +1,2 @@
 {"name":"what_git","vers":"0.5.0","deps":[{"name":"reqwest","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"366d84c1c126a7bca9f0c4942e057608ee60598b047796c1a0fb570b7111cf9a","features":{},"yanked":false,"links":null}
+{"name":"what_git","vers":"0.6.0","deps":[{"name":"reqwest","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33816df49da218a32a4bc375260e825c5fbb57f7cdb1ed060796a445c6557b8e","features":{},"yanked":false,"links":null}
