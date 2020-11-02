@@ -1,1 +1,2 @@
 {"name":"cli_helper","vers":"0.1.0","deps":[],"cksum":"bb21ed33f3a741b723b0c774c905b04d2246c4fbbaad4e7681f3bcac7fcc3dee","features":{},"yanked":false,"links":null}
+{"name":"cli_helper","vers":"0.1.1","deps":[],"cksum":"63a6c0267bae4e484d9a6360eaa2b09d582a825476a98f29186f52c493d5e38e","features":{"default":["cli","file"],"file":[],"cli":[]},"yanked":false,"links":null}
