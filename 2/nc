@@ -22,3 +22,4 @@
 {"name":"nc","vers":"0.4.11","deps":[],"cksum":"c357ebab3a08d38d1e33915f3cea5158b0b91a9b5c647bba501b5b1608ed13e0","features":{},"yanked":false,"links":null}
 {"name":"nc","vers":"0.4.12","deps":[],"cksum":"61a929071ea7076be182cae4a570f823665bdfe8b2df471c2125670e3aacedd2","features":{},"yanked":false,"links":null}
 {"name":"nc","vers":"0.4.13","deps":[],"cksum":"be8139e4a4230d97d1f6d2e7fb9a3a5160789d8815fca5814e5694c4b05ff587","features":{},"yanked":false,"links":null}
+{"name":"nc","vers":"0.4.14","deps":[{"name":"cc","req":"^1.0.60","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0ba251088e36bd68873b7e9f0a9398a693a0dc14eeaa7842b7c252f005080d55","features":{},"yanked":false,"links":null}
