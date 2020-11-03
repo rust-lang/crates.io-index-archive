@@ -1,0 +1,1 @@
+{"name":"guidgen","vers":"1.0.0","deps":[{"name":"uuid","req":"^0.8.1","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dfeba1a65d06513557062e2c820bd2912892e125f2a4271c7cd72c91ee3c9b74","features":{},"yanked":false,"links":null}
