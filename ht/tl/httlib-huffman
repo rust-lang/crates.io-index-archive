@@ -5,3 +5,4 @@
 {"name":"httlib-huffman","vers":"0.1.4","deps":[],"cksum":"8e1c4a0c95f3324aecf47de39703527120f0d49a798aa2ccf4a8bdecc747d05b","features":{"parse":[],"decode1":[],"decode3":[],"decode4":[],"decode2":[],"default":["encode","decode4","flatten","parse"],"decode5":[],"flatten":[],"encode":[]},"yanked":false,"links":null}
 {"name":"httlib-huffman","vers":"0.2.0","deps":[],"cksum":"53ae769c4ada521be296b00abad9b48c944be121db21380433a1c74bee8488c0","features":{"default":["encode","decode4","flatten","parse"],"decode3":[],"encode":[],"decode2":[],"decode4":[],"decode1":[],"decode5":[],"flatten":[],"parse":[]},"yanked":false,"links":null}
 {"name":"httlib-huffman","vers":"0.2.1","deps":[],"cksum":"7d6e237ff22922b9b8278e3dedf59183e965da83080a22ab87d256810e4994f8","features":{},"yanked":false,"links":null}
+{"name":"httlib-huffman","vers":"0.2.2","deps":[],"cksum":"03b208d7ee6b8198bed48690f7232fdecc9d54a0ee5256fabc3de600058d5274","features":{},"yanked":false,"links":null}
