@@ -1,1 +1,2 @@
 {"name":"bv2av","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26477105161af884f486056e36546f099722f7b1c5afafa765db8882ad64cd8e","features":{},"yanked":false,"links":null}
+{"name":"bv2av","vers":"0.2.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0692588cb670cb1447581ce4b867b378e20b84a36b03ab6a0cfcd4e7ee23a234","features":{},"yanked":false,"links":null}
