@@ -4,3 +4,4 @@
 {"name":"cli_helper","vers":"0.1.3","deps":[],"cksum":"9b9065f94f1225a29bec4a47a22412280dd3be7355bdc5c7e24d115ec61803a7","features":{"cli":[],"default":["cli"],"file":[]},"yanked":false,"links":null}
 {"name":"cli_helper","vers":"0.1.4","deps":[],"cksum":"ef762e41c29ac456fb29639364d6269e654e42253b9fbd6a77a2eda563345d6b","features":{"file":[],"cli":[],"default":["cli"]},"yanked":false,"links":null}
 {"name":"cli_helper","vers":"0.1.5","deps":[],"cksum":"d4367510ca0372c16f0520f9434ae8075947bedc172b90c886351ec17ffd8a47","features":{"file":[]},"yanked":false,"links":null}
+{"name":"cli_helper","vers":"0.1.6","deps":[],"cksum":"3ca5c211e58dd231f3c3d9ab1e44fa4506dc11eff4edbec1d5e1d3692b414ca4","features":{"file":[]},"yanked":false,"links":null}
