@@ -5,3 +5,4 @@
 {"name":"cli_helper","vers":"0.1.4","deps":[],"cksum":"ef762e41c29ac456fb29639364d6269e654e42253b9fbd6a77a2eda563345d6b","features":{"file":[],"cli":[],"default":["cli"]},"yanked":false,"links":null}
 {"name":"cli_helper","vers":"0.1.5","deps":[],"cksum":"d4367510ca0372c16f0520f9434ae8075947bedc172b90c886351ec17ffd8a47","features":{"file":[]},"yanked":false,"links":null}
 {"name":"cli_helper","vers":"0.1.6","deps":[],"cksum":"3ca5c211e58dd231f3c3d9ab1e44fa4506dc11eff4edbec1d5e1d3692b414ca4","features":{"file":[]},"yanked":false,"links":null}
+{"name":"cli_helper","vers":"0.1.7","deps":[],"cksum":"910ceae5ed4c16e3d358116c91570e4ad1081b77e6d0598238d11c4c9f94b3ff","features":{"file":[]},"yanked":false,"links":null}
