@@ -4,3 +4,4 @@
 {"name":"mh-z19","vers":"0.3.0","deps":[],"cksum":"dfd4d7a1967446b6aa06b9a67af864005378125c2e389a9fcca6d5ba136c448c","features":{"std":[],"default":[]},"yanked":false,"links":null}
 {"name":"mh-z19","vers":"0.3.1","deps":[],"cksum":"4d0b6813cecd6c8fdd541993ebd43c2add798cc3e47b41683a6249d845bdf218","features":{"std":[],"default":[]},"yanked":false,"links":null}
 {"name":"mh-z19","vers":"0.3.2","deps":[],"cksum":"f5d80d32a5d8e325271a208fccf05d0f7600b6aa6e1e285acf22e862077d595d","features":{"default":[],"std":[]},"yanked":false,"links":null}
+{"name":"mh-z19","vers":"0.3.3","deps":[],"cksum":"08e20228a4dda61bd521e7316780ba2ec8d88170e4999fbd641c1da98e2eea28","features":{"default":[],"std":[]},"yanked":false,"links":null}
