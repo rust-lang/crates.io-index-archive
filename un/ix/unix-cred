@@ -1,0 +1,1 @@
+{"name":"unix-cred","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"963add5ed45de57a0f8ab919e8ea2d80cb946b52da771917bfe5dadc3a0826e8","features":{},"yanked":false,"links":null}
