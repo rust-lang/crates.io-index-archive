@@ -1,1 +1,2 @@
 {"name":"rustpat","vers":"0.5.0-alpha.3","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2425c6c39011352b15646858615189829585afcd272d0a7d642844fbca9d0c9c","features":{},"yanked":false,"links":null}
+{"name":"rustpat","vers":"0.5.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d3b85179c78e4e189b3c05c2d7b58a5f043ee6e6173d17d921913ff28514024d","features":{},"yanked":false,"links":null}
