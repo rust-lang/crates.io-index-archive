@@ -10,3 +10,4 @@
 {"name":"futures-sink","vers":"0.3.5","deps":[],"cksum":"3f2032893cb734c7a05d85ce0cc8b8c4075278e93b24b66f9de99d6eb0fa8acc","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"links":null}
 {"name":"futures-sink","vers":"0.3.6","deps":[],"cksum":"0d8764258ed64ebc5d9ed185cf86a95db5cac810269c5d20ececb32e0088abbd","features":{"alloc":[],"std":["alloc"],"default":["std"]},"yanked":false,"links":null}
 {"name":"futures-sink","vers":"0.3.7","deps":[],"cksum":"0e3ca3f17d6e8804ae5d3df7a7d35b2b3a6fe89dac84b31872720fc3060a0b11","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"links":null}
+{"name":"futures-sink","vers":"0.3.8","deps":[],"cksum":"f878195a49cee50e006b02b93cf7e0a95a38ac7b776b4c4d9cc1207cd20fcb3d","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"links":null}
