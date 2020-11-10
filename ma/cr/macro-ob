@@ -1,1 +1,1 @@
-{"name":"macro-ob","vers":"0.1.0","deps":[{"name":"rot13","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96a97fc6a41a3da283a241b8be9ad65e9e11af2b5579269732ab78e85c298c71","features":{},"yanked":false,"links":null}
+{"name":"macro-ob","vers":"0.1.0","deps":[{"name":"rot13","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96a97fc6a41a3da283a241b8be9ad65e9e11af2b5579269732ab78e85c298c71","features":{},"yanked":true,"links":null}
