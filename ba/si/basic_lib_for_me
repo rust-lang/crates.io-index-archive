@@ -1,0 +1,1 @@
+{"name":"basic_lib_for_me","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.80","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c605bdd9d4f5ea075eb69c3ec9a350dcac6317b3200b3dbe4dc3e3d8a4c1930d","features":{},"yanked":false,"links":null}
