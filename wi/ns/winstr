@@ -1,0 +1,1 @@
+{"name":"winstr","vers":"0.0.0","deps":[{"name":"winapi","req":"^0.3.9","features":["ntdef","wtypes","wtypesbase","oleauto"],"optional":false,"default_features":true,"target":"cfg(target_os = \"windows\")","kind":"normal"}],"cksum":"1b8022603a2f3feb2d442eb7181f1cee703f148333dd9ca4005bad74d1c58557","features":{"default":["display"],"display":[]},"yanked":false,"links":null}
