@@ -1,0 +1,1 @@
+{"name":"writeable","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b5352ab4780f25788f83e2bb539b8f03287c65c93ccee00e6a457f6f69a1b9a7","features":{"default":[],"bench":[]},"yanked":false,"links":null}
