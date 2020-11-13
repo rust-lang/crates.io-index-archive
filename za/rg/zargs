@@ -1,0 +1,1 @@
+{"name":"zargs","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0.0-beta.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e4099038448666c2d1010774fa0602c6ccdd86263e1530347312a4dcdad1aea","features":{},"yanked":false,"links":null}
