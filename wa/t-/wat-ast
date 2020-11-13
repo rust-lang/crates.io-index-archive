@@ -1,1 +1,2 @@
 {"name":"wat-ast","vers":"0.1.0","deps":[],"cksum":"112b9c850b8ad6a146ae2170ed00a2a1e14851ef805e782cc00f4d6444189c36","features":{},"yanked":false,"links":null}
+{"name":"wat-ast","vers":"0.2.0","deps":[{"name":"wast","req":"^26.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"eca4459cd03125407bed147deec4d32e720d97cc8baf331c35a2094fa689a689","features":{},"yanked":false,"links":null}
