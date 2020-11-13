@@ -1,0 +1,1 @@
+{"name":"spirv-tools-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"723f109c9b1c106ec9a2e6c353e20db4ef4840157e33a1dbf6519dc2a48d6769","features":{"use-installed-tools":[],"use-compiled-tools":[]},"yanked":false,"links":null}
