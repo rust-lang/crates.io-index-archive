@@ -25,3 +25,4 @@
 {"name":"sub-strs","vers":"0.21.0","deps":[],"cksum":"aaacc15a3fd31a46eb56035ad81910da7ecd0794c8a69c62f2f9cbc96802f9ea","features":{"std":[]},"yanked":false,"links":null}
 {"name":"sub-strs","vers":"0.22.0","deps":[],"cksum":"7afb068d5951f8af218283a806855d29245fbe5b21b764eef571d02fa93f2758","features":{"std":[]},"yanked":false,"links":null}
 {"name":"sub-strs","vers":"0.23.0","deps":[],"cksum":"b21e87d2ac5e9d79d1f483bea22437d0b35d602d53ac48ee533581a309c5c08d","features":{"std":[]},"yanked":false,"links":null}
+{"name":"sub-strs","vers":"0.23.1","deps":[],"cksum":"cb92e72d2fcf2bf97528434112caed2901e73fe2e6d0051ab6f5fe6296e576b7","features":{"std":[]},"yanked":false,"links":null}
