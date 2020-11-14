@@ -1,1 +1,2 @@
 {"name":"mockalloc","vers":"0.1.0","deps":[{"name":"mockalloc-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"078796d40c4f0b2b96dcbdd87fe7c7b96fc3049fd0abf03275bc3a8423dac962","features":{},"yanked":false,"links":null}
+{"name":"mockalloc","vers":"0.1.1","deps":[{"name":"mockalloc-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13426d97303ade1a9724ed9402ff06f799c21a6cdd0d6ae667336744350370ea","features":{},"yanked":false,"links":null}
