@@ -1,0 +1,1 @@
+{"name":"async-object-pool","vers":"0.1.0","deps":[{"name":"async-std","req":"^1.7.0","features":["unstable"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"610417b5090d565914338bb4004b574d7a585313a797e0e140e458699b0b180d","features":{},"yanked":false,"links":null}
