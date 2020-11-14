@@ -1,0 +1,1 @@
+{"name":"quix-build","vers":"0.0.3","deps":[{"name":"prost-build","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3191bb66c52da0bc1ac4a6a43a9d01f533d85b8abca77107b978384745d7a27d","features":{},"yanked":false,"links":null}
