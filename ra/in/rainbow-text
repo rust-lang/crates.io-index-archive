@@ -1,1 +1,2 @@
 {"name":"rainbow-text","vers":"0.1.0","deps":[{"name":"termcolor","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80f7a53cde3b18bc9a275d40bc7c560dbf89a635e2c8ffa195ebcba55a10aae3","features":{},"yanked":false,"links":null}
+{"name":"rainbow-text","vers":"0.1.1","deps":[{"name":"termcolor","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"faef7c58c5927639fc2d9025b8d72dbf4aa29bc49fbe331bfe3ceb3c47d31364","features":{},"yanked":false,"links":null}
