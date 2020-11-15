@@ -1,0 +1,1 @@
+{"name":"nostd_async","vers":"0.3.1","deps":[{"name":"futures-micro","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0e6312640bd4239b16cccf47af3dca6927d0407a342f47b9c3649d1b58d48e8e","features":{},"yanked":false,"links":null}
