@@ -11,3 +11,4 @@
 {"name":"font8x8","vers":"0.2.3","deps":[],"cksum":"3fbdb2166a633643ccf637b94837aa86c2360b3f5fecc4c7c54ed81be371fe98","features":{"unicode":[],"default":["unicode","std"],"std":[]},"yanked":false,"links":null}
 {"name":"font8x8","vers":"0.2.4","deps":[],"cksum":"b81d84c3c978af7d05d31a2198af4b9ba956d819d15d8f6d58fc150e33f8dc1f","features":{"default":["unicode","std"],"std":[],"unicode":[]},"yanked":false,"links":null}
 {"name":"font8x8","vers":"0.2.5","deps":[],"cksum":"44226c40489fb1d602344a1d8f1b544570c3435e396dda1eda7b5ef010d8f1be","features":{"std":[],"default":["unicode","std"],"unicode":[]},"yanked":false,"links":null}
+{"name":"font8x8","vers":"0.2.6","deps":[],"cksum":"1af980b6214598a826a6c0865385910e36b4c2ab64358306a8342db2eff3e17e","features":{"std":[],"default":["unicode","std"],"unicode":[]},"yanked":false,"links":null}
