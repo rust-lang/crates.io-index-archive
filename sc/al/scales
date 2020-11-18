@@ -1,1 +1,2 @@
 {"name":"scales","vers":"0.1.0","deps":[{"name":"assert_approx_eq","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c327759f422477764e2ce34c11b76fe33e7e42aef1de5dcbb34ace765f524476","features":{},"yanked":false,"links":null}
+{"name":"scales","vers":"0.1.1","deps":[{"name":"assert_approx_eq","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f320d4842a2d5ee2311b36ce8a2282a0dbed1d7bba54db72ed9f356e0ace0396","features":{},"yanked":false,"links":null}
