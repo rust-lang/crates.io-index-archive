@@ -1,1 +1,1 @@
-{"name":"hostile","vers":"0.1.0","deps":[{"name":"argh","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe4466df23ae5564cade5ba5627d400c6fad99c54a65ff0905785ef8fd1d8012","features":{},"yanked":false,"links":null}
+{"name":"hostile","vers":"0.1.0","deps":[{"name":"argh","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe4466df23ae5564cade5ba5627d400c6fad99c54a65ff0905785ef8fd1d8012","features":{},"yanked":true,"links":null}
