@@ -1,1 +1,2 @@
 {"name":"archivio","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e7ee04f25d699ed17d99ccc18f1988a3c95557ad8d15fc0d775abe40e243234","features":{},"yanked":false,"links":null}
+{"name":"archivio","vers":"0.2.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70692dece26833dc93ac20170c7e07368b3aa1fe724fcdc83d8d3adbd8ce5ae7","features":{},"yanked":false,"links":null}
