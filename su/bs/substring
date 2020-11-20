@@ -1,0 +1,12 @@
+{"name":"substring","vers":"1.0.0","deps":[],"cksum":"71dc60bd12b6648e9154ff26e46bb8c53fe3659d6ca9e79e6fd0cae26e7531b7","features":{},"yanked":false,"links":null}
+{"name":"substring","vers":"1.1.0","deps":[],"cksum":"3c0910f2e997824c0abb7947a3349090d2510c9bf1e8a9363c190f1ee02288a5","features":{},"yanked":false,"links":null}
+{"name":"substring","vers":"1.1.1","deps":[],"cksum":"382dc317ec0a87dacb17b313bf94270938686ac8eb194ffcfa03a8a716a0bb46","features":{},"yanked":false,"links":null}
+{"name":"substring","vers":"1.2.0","deps":[],"cksum":"15bbd0185079734664c947561e3e4577c6488d68115308dabe0c5f2243bbeaf7","features":{},"yanked":false,"links":null}
+{"name":"substring","vers":"1.2.1","deps":[],"cksum":"92972d775a9ba475dcada876d045915ebc01193c098aabd25a16db7adffcaded","features":{},"yanked":false,"links":null}
+{"name":"substring","vers":"1.2.2","deps":[],"cksum":"c4b4671f5fa08cc11a44cac5e4c6b5c53ff52c7d45ccb70ebf50a34506915104","features":{},"yanked":false,"links":null}
+{"name":"substring","vers":"1.2.3","deps":[],"cksum":"999786beb9e3025e26d76b208bfedcc318d253da14c6e49dab12c1310d1b539c","features":{},"yanked":false,"links":null}
+{"name":"substring","vers":"1.2.4","deps":[],"cksum":"e8f395f03734cb5a6b8a5d1b2608b87ee2a309df80a95b9804fc6fc4230a4e7c","features":{},"yanked":false,"links":null}
+{"name":"substring","vers":"1.2.5","deps":[],"cksum":"d57ee4a86131ee133329b6162fc9294ec97cb6681cdc70ee6c2eb833577a3ad3","features":{},"yanked":false,"links":null}
+{"name":"substring","vers":"1.3.0","deps":[],"cksum":"539d9f412caee37449111fe9b3a3be5c05cea16b51b359a7bef1e1d830b29ad1","features":{},"yanked":false,"links":null}
+{"name":"substring","vers":"1.3.1","deps":[],"cksum":"a2f4f6c384f71768cd03cbe5be4c2c9d28c78fd968154ee2579c418d2c2a117c","features":{},"yanked":false,"links":null}
+{"name":"substring","vers":"1.4.0","deps":[{"name":"autocfg","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"134bb6744b6f5e4cf735bf590fd987c710600fb95db9af3be36491dea326b69b","features":{},"yanked":false,"links":null}

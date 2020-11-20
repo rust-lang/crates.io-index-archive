@@ -1,0 +1,1 @@
+{"name":"rusty_planner","vers":"0.1.0","deps":[{"name":"zmq","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16ba2f350902edae01a0bbcce3349289b7f55cf70928beaa64475c6327e896ef","features":{},"yanked":false,"links":null}

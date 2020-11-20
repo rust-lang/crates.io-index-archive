@@ -1,0 +1,1 @@
+{"name":"ruma-push-gateway-api","vers":"0.0.0","deps":[{"name":"ruma-api","req":"=0.17.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2674fd8120099000890402aeefd5d9ede003c3e15f0370bfd9d641411401c952","features":{},"yanked":false,"links":null}

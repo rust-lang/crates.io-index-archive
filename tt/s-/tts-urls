@@ -1,0 +1,2 @@
+{"name":"tts-urls","vers":"0.2.0","deps":[{"name":"percent-encoding","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d2582599c9c9da0454c0910e094737c1e3aedc3748a5abffe747feba8521341","features":{},"yanked":false,"links":null}
+{"name":"tts-urls","vers":"0.2.1","deps":[{"name":"percent-encoding","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b596f1d93dccfacc6b93ca4960b4d3578a2cbc9d8955c346402dd189eaac652","features":{},"yanked":false,"links":null}

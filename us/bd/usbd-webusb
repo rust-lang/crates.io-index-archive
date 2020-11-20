@@ -1,0 +1,1 @@
+{"name":"usbd-webusb","vers":"1.0.0","deps":[{"name":"usb-device","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7393b32926118a3bbe9ff6e2e0b67b57af570b202259e3cc73a6bf5698f1bdfe","features":{},"yanked":false,"links":null}

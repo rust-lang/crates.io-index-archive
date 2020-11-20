@@ -1,0 +1,1 @@
+{"name":"obi","vers":"0.0.1","deps":[{"name":"obi-derive","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8b5cbc91085b00027edb54b51c338fd4f876c32108bb1e225ce9d333c4713b2","features":{"default":["std"],"std":[]},"yanked":false,"links":null}

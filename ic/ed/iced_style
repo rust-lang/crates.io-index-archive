@@ -1,0 +1,2 @@
+{"name":"iced_style","vers":"0.0.0","deps":[{"name":"iced_core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b510b17a4d646f376e792e1499894c0d6fb2e721e435ed5243657a0ed7955bf","features":{},"yanked":false,"links":null}
+{"name":"iced_style","vers":"0.1.0","deps":[{"name":"iced_core","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb7ccec94a0b71061260f2e5c9dbaf3dcaad6bc80ba79199873b55b778d5e729","features":{},"yanked":false,"links":null}

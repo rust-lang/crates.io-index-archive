@@ -1,0 +1,2 @@
+{"name":"cov-mark","vers":"1.0.0","deps":[],"cksum":"e6f90a0281a7ce78cfa25b49eb53d362da5a023aced41244589c895a7f9f0e3e","features":{},"yanked":false,"links":null}
+{"name":"cov-mark","vers":"1.1.0","deps":[],"cksum":"9ffa3d3e0138386cd4361f63537765cac7ee40698028844635a54495a92f67f3","features":{"thread-local":[]},"yanked":false,"links":null}

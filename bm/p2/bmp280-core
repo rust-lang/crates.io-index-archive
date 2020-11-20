@@ -1,0 +1,1 @@
+{"name":"bmp280-core","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e14a1251196a164002f8a481454ba6c197ae3dd6302884b2735f40567247e7b4","features":{},"yanked":false,"links":null}

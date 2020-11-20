@@ -1,0 +1,1 @@
+{"name":"ruma-identity-service-api","vers":"0.0.0","deps":[{"name":"ruma-api","req":"=0.17.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"397fd5852c5ba222d5edcbc0500669344a5d5f78eb299ec5a5f25ab80b68b2c7","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"dire","vers":"0.3.1","deps":[{"name":"winapi","req":"^0.3.2","features":["combaseapi","shlobj","winerror"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"4ad56eaa0afcf475b2c57da7572748a93c2cbe8681bb8ad139d5021852c720b2","features":{},"yanked":false,"links":null}

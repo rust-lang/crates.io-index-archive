@@ -1,0 +1,2 @@
+{"name":"sequencetree","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a6a5f8e301dbbfabb1772b9ea23fcb01d53eec8fa8f8ebfcd337364ba2ad0948","features":{},"yanked":false,"links":null}
+{"name":"sequencetree","vers":"0.1.2","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4abc8f63bd8289f63db4e07f8d322e609863a7086a5c1c3e66a44ae1e8ae4ba0","features":{},"yanked":false,"links":null}

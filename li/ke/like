@@ -1,0 +1,2 @@
+{"name":"like","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5eadbb3a6f27299b37b73f456c3f3a4b2efbd663bd629ff5d7d44edca4fb09c7","features":{},"yanked":false,"links":null}
+{"name":"like","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6be5c8663b6002b3ac64408bf7a7dd463d9e66527c8974365de1ebb3d153ea43","features":{},"yanked":false,"links":null}

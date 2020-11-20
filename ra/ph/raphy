@@ -1,0 +1,4 @@
+{"name":"raphy","vers":"0.1.0","deps":[],"cksum":"ab1d40f63d5693bb58c61683ce8efd5f03f88d002feb69a2cba363a18effdead","features":{},"yanked":false,"links":null}
+{"name":"raphy","vers":"0.1.1","deps":[],"cksum":"ea55393baabd32a9bd94bcd56017ee6a52ff262eeecee518c6165352180e0d9c","features":{},"yanked":false,"links":null}
+{"name":"raphy","vers":"0.1.2","deps":[{"name":"rand","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c058edc4bfeb46ec8b148bb60999469f52393f38740b6381bc4d3e991fb8c401","features":{},"yanked":false,"links":null}
+{"name":"raphy","vers":"0.1.3","deps":[{"name":"rand","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29f69c3fd4967339f92947b806ad6d118a6e736fb62d163d1d871216be4c0db3","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"tox_crypto","vers":"0.1.0","deps":[{"name":"sodiumoxide","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88f7158170b37b4325bec079485ae3117aadf87c918e50e22e431568aaf7c7e1","features":{},"yanked":false,"links":null}

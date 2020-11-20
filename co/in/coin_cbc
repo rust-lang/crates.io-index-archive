@@ -1,0 +1,1 @@
+{"name":"coin_cbc","vers":"0.1.0","deps":[{"name":"coin_cbc_sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b4356073281cff831d69307400046b24f7761612d7f45041d50b1a0b6b2f17e","features":{},"yanked":false,"links":null}

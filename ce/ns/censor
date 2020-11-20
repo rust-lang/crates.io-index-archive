@@ -1,0 +1,2 @@
+{"name":"censor","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99497c579ef55aba0424126da7583ae4d89538c160df788e5cc3e5b848eb741b","features":{},"yanked":false,"links":null}
+{"name":"censor","vers":"0.1.1","deps":[{"name":"once_cell","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe8c35af62a9c16a62b1429b09ddda83a07e58ac8b0e28a6b93383ce9478498c","features":{},"yanked":false,"links":null}

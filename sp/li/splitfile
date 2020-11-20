@@ -1,0 +1,2 @@
+{"name":"splitfile","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ca7ce226fc1641cfa239659e8b0398ca712a112e2eb2ef22e8093a97d541d618","features":{},"yanked":false,"links":null}
+{"name":"splitfile","vers":"0.1.1","deps":[{"name":"tempfile","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"424f1f9b2d6e7659ee998495ef64b173dc4bb9ebdb60df59eb975bdcf70dcf07","features":{},"yanked":false,"links":null}

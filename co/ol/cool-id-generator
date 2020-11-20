@@ -1,0 +1,2 @@
+{"name":"cool-id-generator","vers":"0.1.1","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b8602bcf6bd0ad5633f642ca726ed11e3774384fb95b5fbc025d2b91903a1522","features":{},"yanked":false,"links":null}
+{"name":"cool-id-generator","vers":"0.1.2","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88909890147bc36b5d74973539b00fdbfea06dd074b5b810412b7dca86991939","features":{},"yanked":false,"links":null}

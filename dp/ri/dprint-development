@@ -1,0 +1,4 @@
+{"name":"dprint-development","vers":"0.1.0","deps":[],"cksum":"8a096504bb3e33baabe63269c56de5782ba80fe669186e9a67ca850ab8c2399d","features":{},"yanked":false,"links":null}
+{"name":"dprint-development","vers":"0.2.0","deps":[{"name":"dprint-core","req":"^0.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a675a6179ce1c26aa3a0892dfa21c27775680c32f6e32f817f750b78ddb8e671","features":{},"yanked":false,"links":null}
+{"name":"dprint-development","vers":"0.2.1","deps":[{"name":"dprint-core","req":"^0.22.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"692632c9b973734e7c5dee2e6963d7367ce89d967699ef5c2ada4924288121c8","features":{},"yanked":false,"links":null}
+{"name":"dprint-development","vers":"0.2.2","deps":[],"cksum":"417ed417346ddd21939fd451061d93d13e9df53c97dc15a2c71faa9c9881710e","features":{},"yanked":false,"links":null}

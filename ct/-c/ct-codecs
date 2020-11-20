@@ -1,0 +1,2 @@
+{"name":"ct-codecs","vers":"0.1.0","deps":[],"cksum":"3f9022c66c6a98cc514f0456dba765b6e6542fd1bf96b48646d8edbcd60273cb","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"ct-codecs","vers":"0.1.1","deps":[],"cksum":"e943c2a9883f4dd95dc81508095e5c9857ed2398b2a0e9efce4528569a60673a","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
