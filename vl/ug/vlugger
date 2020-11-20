@@ -1,1 +1,2 @@
 {"name":"vlugger","vers":"0.1.0","deps":[{"name":"dirs","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a14ecaafdd87fd48506773dd809cd767f84fee865f414b0dc26de83eff02cf76","features":{},"yanked":false,"links":null}
+{"name":"vlugger","vers":"0.2.0","deps":[{"name":"dirs","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1bfb7c58a88a1ee4dfd1bb0f8e9fdf8bfb2effa0c18b30d796e878818198bdb1","features":{},"yanked":false,"links":null}
