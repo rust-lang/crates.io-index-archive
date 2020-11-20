@@ -1,0 +1,1 @@
+{"name":"dyn_safe","vers":"0.0.1","deps":[{"name":"proc_macros","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"dyn_safe-proc_macros"}],"cksum":"d4b443013d4a5f5ab5e5d3d283cfdcdf9e696a6ab4e4da72dc5cc9ef67f758f7","features":{},"yanked":false,"links":null}
