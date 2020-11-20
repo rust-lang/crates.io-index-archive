@@ -1,0 +1,1 @@
+{"name":"crypto2","vers":"0.1.0","deps":[{"name":"hex","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"01fbcb1373267875ae654300ee278f9d3e18aade3a391a52f4a74e04644c2610","features":{"default":["std","openssh"],"nightly":[],"openssh":[],"std":[]},"yanked":false,"links":null}
