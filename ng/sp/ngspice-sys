@@ -1,0 +1,1 @@
+{"name":"ngspice-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.55.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0f395999d0fe6a7ae3fed767bf38c2a6c32781c9d6fa7e8e2b2c69ad67bdba9a","features":{},"yanked":false,"links":null}
