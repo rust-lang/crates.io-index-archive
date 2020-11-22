@@ -11,3 +11,4 @@
 {"name":"infer","vers":"0.2.2","deps":[],"cksum":"83ce4a00af9cb473684296aea0d4ab62dd8ca1cfee3ad73a351f0ec2a5b3a0e5","features":{},"yanked":false,"links":null}
 {"name":"infer","vers":"0.2.3","deps":[],"cksum":"64e9829a50b42bb782c1df523f78d332fe371b10c661e78b7a3c34b0198e9fac","features":{},"yanked":false,"links":null}
 {"name":"infer","vers":"0.3.0","deps":[],"cksum":"e5d0e1465c9a2ef345a5be32bd6168eaeab5eb95bff345c493c935335176f192","features":{"default":["std"],"std":["alloc"],"alloc":[]},"yanked":false,"links":null}
+{"name":"infer","vers":"0.3.1","deps":[],"cksum":"962a40b1e417f17a0ee606204f46a602c88d170366abbf252ff15fd561741dcd","features":{"std":["alloc"],"alloc":[],"default":["std"]},"yanked":false,"links":null}
