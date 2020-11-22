@@ -9,3 +9,4 @@
 {"name":"moving_gc_arena","vers":"0.2.6","deps":[],"cksum":"c633f0cdeb914b2f78198b3721e1289a55fedaf503adee723dd50136ffb72833","features":{"packed-headers":[],"debug-arena":[]},"yanked":false,"links":null}
 {"name":"moving_gc_arena","vers":"0.3.0","deps":[],"cksum":"36cc8fcc35bb68d4f488530820ce331ea6c26c5b86ab3b67f036f2c5d73e6828","features":{"debug-arena":[],"packed-headers":[]},"yanked":true,"links":null}
 {"name":"moving_gc_arena","vers":"0.3.1","deps":[],"cksum":"6491e39b2dc2918174f366afdff7fdfbbe397c92bfbb9ca4b33f58b4369311f6","features":{"debug-arena":[],"packed-headers":[]},"yanked":false,"links":null}
+{"name":"moving_gc_arena","vers":"0.3.2","deps":[],"cksum":"3198a7656b1b9677bc0a38fd4b0377bd655d4869ce47ee16935207e7e5013819","features":{"debug-arena":[],"packed-headers":[]},"yanked":false,"links":null}
