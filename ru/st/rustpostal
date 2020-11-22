@@ -1,0 +1,1 @@
+{"name":"rustpostal","vers":"0.1.0","deps":[{"name":"libc","req":">=0.2.80, <0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab10097b32e137513908525d23c458f1a6de16e07be2a431d0478d765b2a577f","features":{},"yanked":false,"links":null}
