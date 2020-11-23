@@ -1,2 +1,3 @@
 {"name":"proc-exit","vers":"0.1.0","deps":[],"cksum":"1ac573c94c4d539e8c339d612c8fc9835d286989411f1381a84a304c0ac19b41","features":{"portable":[],"default":["portable"]},"yanked":false,"links":null}
 {"name":"proc-exit","vers":"0.2.0","deps":[],"cksum":"40686dfa9610dfef85f36497a20703168ba2d2d8799ab6775a3a3dd16421417f","features":{"portable":[],"default":["portable"]},"yanked":false,"links":null}
+{"name":"proc-exit","vers":"0.3.0","deps":[],"cksum":"7d01cbcf1855582aa030b9682a639d007834cd24d20d65f031bf87a2c7762cb5","features":{"default":["portable"],"portable":[]},"yanked":false,"links":null}
