@@ -1,0 +1,1 @@
+{"name":"libspa","vers":"0.1.0","deps":[{"name":"libspa-sys","req":">=0.1.0, <0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aeae5c2592eb4a9cb0af9582d6c2c483cf012df5de578ad858a93b28abb77ee5","features":{},"yanked":false,"links":null}
