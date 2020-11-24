@@ -10,3 +10,4 @@
 {"name":"varint-rs","vers":"2.0.0","deps":[],"cksum":"e72dd13b128590b6ebe46394fe11d63c1e0954d49238fd7106977b94702b9db0","features":{},"yanked":false,"links":null}
 {"name":"varint-rs","vers":"2.0.1","deps":[],"cksum":"d11bd4e49acc0b0dd2bcc200e998ebb2237883b52aa6714653efb7f573876d6a","features":{},"yanked":false,"links":null}
 {"name":"varint-rs","vers":"2.1.0","deps":[],"cksum":"b4add779858924015628c6aed0f034f20597c0a1dc6c0ae8aa52533919d2e88a","features":{"default":["signed","io"],"io":[],"signed":["zigzag"],"zigzag":[]},"yanked":false,"links":null}
+{"name":"varint-rs","vers":"2.1.1","deps":[],"cksum":"60534c9130cfa3d9456fedf3a4da3789173d6ec3821ec368647f00a32ff2793f","features":{"default":["signed","io"],"zigzag":[],"io":[],"signed":["zigzag"]},"yanked":false,"links":null}
