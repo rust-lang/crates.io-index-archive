@@ -1,0 +1,1 @@
+{"name":"ranged-num","vers":"0.1.0","deps":[{"name":"typenum","req":">=1.12.0, <2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a81b5fd3667ee51dd929646d7c790870252a9501b27e621696e6f70772769201","features":{},"yanked":false,"links":null}
