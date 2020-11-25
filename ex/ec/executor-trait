@@ -1,1 +1,2 @@
 {"name":"executor-trait","vers":"0.0.0","deps":[],"cksum":"29e5e5d21ae012f880f360227127300a83b98cec4e227b9fa5932df40e74dbcc","features":{},"yanked":false,"links":null}
+{"name":"executor-trait","vers":"0.1.0","deps":[{"name":"async-trait","req":">=0.1.42, <0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a83fe402c11e18f5ed458df6f49ee42bb6bc19c05027613d6b28586ce29793cc","features":{},"yanked":false,"links":null}
