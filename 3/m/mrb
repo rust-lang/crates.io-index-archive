@@ -1,0 +1,1 @@
+{"name":"mrb","vers":"0.1.0","deps":[{"name":"mrb-sys","req":">=0.1.0, <0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"963b4da47d9e598a49ef1ff0a0dd2a660c5919fec22947f367e0516d211e86f1","features":{},"yanked":false,"links":null}
