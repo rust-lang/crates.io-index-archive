@@ -1,1 +1,2 @@
 {"name":"nconsole","vers":"0.1.0","deps":[{"name":"colored","req":">=2.0.0, <3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee68ef947f1eee01923bf5d3c7910d57d22b2c3f338ef37f04c11261993a163b","features":{},"yanked":false,"links":null}
+{"name":"nconsole","vers":"0.1.1","deps":[{"name":"colored","req":">=2.0.0, <3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd999447bbd22d6d613030bc384e2b0d75dbe003a3bd464375846855f9a82051","features":{},"yanked":false,"links":null}
