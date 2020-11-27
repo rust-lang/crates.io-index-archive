@@ -12,3 +12,4 @@
 {"name":"ics","vers":"0.4.2","deps":[],"cksum":"00e62923f82bfba8b19d5af69554852f1fc3c26259e27c509a21a99b591653d6","features":{"rfc7986":[],"default":["rfc7986"]},"yanked":false,"links":null}
 {"name":"ics","vers":"0.4.3","deps":[],"cksum":"5b87c73d237afb458909dc9abd316d161c5c63e4659d1b4dea3b0508fd59530c","features":{"rfc7986":[],"default":["rfc7986"]},"yanked":true,"links":null}
 {"name":"ics","vers":"0.4.4","deps":[],"cksum":"27ac0f03010b90ee4e3d354620ad9355facd347881b1b021d82eb3a260b11171","features":{"rfc7986":[],"default":["rfc7986"]},"yanked":false,"links":null}
+{"name":"ics","vers":"0.5.0","deps":[],"cksum":"21b597a9ac89596cdea4f56f772ab15a1acc71c185de30e78828b9d26be2de97","features":{"default":["rfc7986"],"rfc7986":[]},"yanked":false,"links":null}
