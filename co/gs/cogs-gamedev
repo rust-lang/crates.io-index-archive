@@ -1,1 +1,2 @@
 {"name":"cogs-gamedev","vers":"0.1.0","deps":[{"name":"enum-map","req":"^0.6.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43b065e4b4a9fff9716b36b4366e4795c0edac8a3b513bf4c89182307520ac1d","features":{},"yanked":false,"links":null}
+{"name":"cogs-gamedev","vers":"0.1.1","deps":[{"name":"enum-map","req":"^0.6.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"744bb369e1cec4f834d1c7d5d4bacdf0927b3c21cf59a434e11d84eb7ff965d1","features":{},"yanked":false,"links":null}
