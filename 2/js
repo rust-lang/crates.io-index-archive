@@ -10,3 +10,4 @@
 {"name":"js","vers":"0.2.5","deps":[],"cksum":"30fbacb8dbc0593e6bdf342367b96ec8fd9186b27055ee15bce3c55d3f123fd9","features":{},"yanked":false,"links":null}
 {"name":"js","vers":"0.2.6","deps":[],"cksum":"5f005236241d7bed71782d89e629e0fdea9f39a9d5aa8ea0de96ccede8791189","features":{},"yanked":false,"links":null}
 {"name":"js","vers":"0.2.7","deps":[],"cksum":"37d0228377f340d9ecd7611d1c793d6172a23eb50a3579c10b7ce6891057267f","features":{},"yanked":false,"links":null}
+{"name":"js","vers":"0.2.8","deps":[{"name":"cstring","req":">=0.0.0, <0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e71f1a093b17fcc32a88816a89fb32594e19901732c6e3313c34c8012b76888","features":{},"yanked":false,"links":null}
