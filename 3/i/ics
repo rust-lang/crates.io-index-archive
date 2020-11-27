@@ -14,4 +14,4 @@
 {"name":"ics","vers":"0.4.4","deps":[],"cksum":"27ac0f03010b90ee4e3d354620ad9355facd347881b1b021d82eb3a260b11171","features":{"rfc7986":[],"default":["rfc7986"]},"yanked":false,"links":null}
 {"name":"ics","vers":"0.5.0","deps":[],"cksum":"21b597a9ac89596cdea4f56f772ab15a1acc71c185de30e78828b9d26be2de97","features":{"default":["rfc7986"],"rfc7986":[]},"yanked":false,"links":null}
 {"name":"ics","vers":"0.5.1","deps":[],"cksum":"f2d152d77664a378244872619a2483672487762375cdfa3e9225b61e82c94be4","features":{"default":["rfc7986"],"rfc7986":[]},"yanked":true,"links":null}
-{"name":"ics","vers":"0.5.2","deps":[],"cksum":"9d22cf3795fa26304324fcd5c56231c105cc174a551b66a8b92efa6d35a821d3","features":{"rfc7986":[],"default":["rfc7986"]},"yanked":false,"links":null}
+{"name":"ics","vers":"0.5.2","deps":[],"cksum":"9d22cf3795fa26304324fcd5c56231c105cc174a551b66a8b92efa6d35a821d3","features":{"default":["rfc7986"],"rfc7986":[]},"yanked":true,"links":null}
