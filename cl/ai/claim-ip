@@ -1,0 +1,1 @@
+{"name":"claim-ip","vers":"1.0.0","deps":[{"name":"nix","req":"^0.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d3da1f6757986d0b7401358285bd4a191bae1b0d0aa6c8b896eb518585800bc","features":{},"yanked":false,"links":null}
