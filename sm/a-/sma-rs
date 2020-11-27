@@ -1,1 +1,2 @@
 {"name":"sma-rs","vers":"0.1.0","deps":[{"name":"ta-common","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df90b1da263da994c0fabe7a6eb35ad3dfd1c0e8311d1933f45f6765d497e41c","features":{},"yanked":false,"links":null}
+{"name":"sma-rs","vers":"0.1.1","deps":[{"name":"ta-common","req":">=0.1.0, <0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6412332826de1dca16e906d56729ff271378f5b3937a59fe61c4944b67b5df93","features":{},"yanked":false,"links":null}
