@@ -3,3 +3,4 @@
 {"name":"zedmq","vers":"0.2.1","deps":[],"cksum":"af220c2739bcf4aab76432caf9b6fe68c3cb7d5bd6a5028769f4683711a31396","features":{},"yanked":false,"links":null}
 {"name":"zedmq","vers":"0.3.0","deps":[],"cksum":"909ddc5054a896e5e0f9ee7fadcb7fdf7509ac522148b7bc7db39f41feb7dd99","features":{},"yanked":false,"links":null}
 {"name":"zedmq","vers":"0.4.0","deps":[{"name":"zmq","req":">=0.9.2, <0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"79b5349a3dcea69f1eae9ebe06526f9e7922e0fb56c25a100938b015a3cfae72","features":{},"yanked":false,"links":null}
+{"name":"zedmq","vers":"0.5.0","deps":[{"name":"zmq","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7018077e4ae9a2aa5572f38a39145c2d9ee421adb83659bf2a920b63e8b44125","features":{},"yanked":false,"links":null}
