@@ -10,4 +10,4 @@
 {"name":"ics","vers":"0.4.0","deps":[],"cksum":"792108102d85ee468dd23e69ee16794ada8613351eab5c818b14d58c0216d961","features":{"default":["rfc7986"],"rfc7986":[]},"yanked":false,"links":null}
 {"name":"ics","vers":"0.4.1","deps":[],"cksum":"fde661f48327ff0eb927f2d649bcfaf4e949124d060a51346ab4c10cb551af5e","features":{"default":["rfc7986"],"rfc7986":[]},"yanked":false,"links":null}
 {"name":"ics","vers":"0.4.2","deps":[],"cksum":"00e62923f82bfba8b19d5af69554852f1fc3c26259e27c509a21a99b591653d6","features":{"rfc7986":[],"default":["rfc7986"]},"yanked":false,"links":null}
-{"name":"ics","vers":"0.4.3","deps":[],"cksum":"5b87c73d237afb458909dc9abd316d161c5c63e4659d1b4dea3b0508fd59530c","features":{"default":["rfc7986"],"rfc7986":[]},"yanked":false,"links":null}
+{"name":"ics","vers":"0.4.3","deps":[],"cksum":"5b87c73d237afb458909dc9abd316d161c5c63e4659d1b4dea3b0508fd59530c","features":{"rfc7986":[],"default":["rfc7986"]},"yanked":true,"links":null}
