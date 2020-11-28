@@ -10,3 +10,4 @@
 {"name":"tibco_ems","vers":"0.1.9","deps":[],"cksum":"2f7cdd96b9318a4e85ee9617877a9ab400eeb5c5eb882e6afbbbffa84b3fa8cf","features":{},"yanked":false,"links":null}
 {"name":"tibco_ems","vers":"0.1.10","deps":[],"cksum":"dc2688cee96a97606fb30635a0a6f9581319f2199fce51c59b70716ac280a62b","features":{},"yanked":false,"links":null}
 {"name":"tibco_ems","vers":"0.1.11","deps":[{"name":"tibco_ems-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"804808775cea182f1d2ceb433c6df675a6d437389418544de39c494edc3fdbe3","features":{},"yanked":false,"links":null}
+{"name":"tibco_ems","vers":"0.1.12","deps":[{"name":"tibco_ems-sys","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2596015914c4474e856d34c3552415d376dd31ac07d359b69862a7e16d7f3b4c","features":{},"yanked":false,"links":null}
