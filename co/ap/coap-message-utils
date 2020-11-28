@@ -1,0 +1,1 @@
+{"name":"coap-message-utils","vers":"0.0.1","deps":[{"name":"coap-message","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81e2b449d3336ffc7addf97a85c96571ee12e717b84fe6530757329908d03a6e","features":{},"yanked":false,"links":null}
