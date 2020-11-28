@@ -1,0 +1,1 @@
+{"name":"wasm-info","vers":"0.1.0","deps":[{"name":"parity-wasm","req":"^0.42.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5f4b9135db8ea464fef3f58e4b82371025f2c443105668fdaff121b0869a413","features":{},"yanked":false,"links":null}
