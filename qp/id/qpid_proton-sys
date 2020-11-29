@@ -1,1 +1,2 @@
 {"name":"qpid_proton-sys","vers":"0.0.1","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5e960da0cb47a5cd56a7a3d0483f37342885c8a60dc278b35bf0bdd73526e682","features":{},"yanked":false,"links":null}
+{"name":"qpid_proton-sys","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"707603e1b8dd23f31af7541419e49855798e71df56d42afe2eea18f86f39b6aa","features":{},"yanked":false,"links":null}
