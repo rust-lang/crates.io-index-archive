@@ -1,0 +1,1 @@
+{"name":"qpid_proton-sys","vers":"0.0.1","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5e960da0cb47a5cd56a7a3d0483f37342885c8a60dc278b35bf0bdd73526e682","features":{},"yanked":false,"links":null}
