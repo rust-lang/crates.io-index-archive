@@ -5,3 +5,4 @@
 {"name":"ascii_table","vers":"2.1.0","deps":[],"cksum":"befb5a9fb2e76d060cb73d92dfa98ab9ab3444ec8a797556af42116771ce4b23","features":{},"yanked":false,"links":null}
 {"name":"ascii_table","vers":"3.0.0","deps":[],"cksum":"cbcbc3963c670677e878a5253f5fef77577ef3821080cfac27779cadf224a9b5","features":{},"yanked":false,"links":null}
 {"name":"ascii_table","vers":"3.0.1","deps":[{"name":"colorful","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6730a07c9a5a0ffa09f3219abc63be4214d381b562be75f2273103df568b0827","features":{},"yanked":false,"links":null}
+{"name":"ascii_table","vers":"3.0.2","deps":[{"name":"colorful","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"51f0a58f3b1453981b910b603a4a7346be14fccd50f8edd7c954725a9210c24f","features":{},"yanked":false,"links":null}
