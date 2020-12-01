@@ -1,0 +1,1 @@
+{"name":"simple_on_shutdown","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecf8fae04b292acd456ccec60a83e50188aabfb0bf9164050cad2c16fa52b03d","features":{},"yanked":false,"links":null}
