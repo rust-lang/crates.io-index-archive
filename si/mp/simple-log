@@ -1,1 +1,2 @@
 {"name":"simple-log","vers":"0.1.0","deps":[],"cksum":"ceeb570aa3daee66fca1f33b3e31f2ef6dfd7b1544256e1b41f1dea84d60cb5c","features":{},"yanked":false,"links":null}
+{"name":"simple-log","vers":"0.2.0","deps":[{"name":"log","req":"^0.4.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log4rs","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50d3a5f92f34f7825cd1fbd24b63bab733648704a1a74a044a5979c8822b1ade","features":{},"yanked":false,"links":null}
