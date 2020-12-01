@@ -1,0 +1,1 @@
+{"name":"otpshka","vers":"1.0.0","deps":[{"name":"ring","req":"^0.17.0-alpha.7","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e67017234e76712582b3faf7c2df09cc29d33e3faaa5a05c66250fc12f79874d","features":{"std":[]},"yanked":false,"links":null}
