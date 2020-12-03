@@ -1,1 +1,2 @@
 {"name":"fd-lock-rs","vers":"0.1.0","deps":[{"name":"nix","req":"^0.19.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1d907ed53c88bbca5eb2cfe6c4079052ca99d229d22ede2b3e53e942e82835f","features":{},"yanked":false,"links":null}
+{"name":"fd-lock-rs","vers":"0.1.1","deps":[{"name":"nix","req":"^0.19.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25a1da3266b955089a3cf3a90498949d08d22c67396c454579da2e3eaa6f584e","features":{},"yanked":false,"links":null}
