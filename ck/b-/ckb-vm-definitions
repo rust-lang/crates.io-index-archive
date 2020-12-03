@@ -9,3 +9,4 @@
 {"name":"ckb-vm-definitions","vers":"0.19.1-alpha.0+perf-test","deps":[],"cksum":"40642baa5d49b80ea759fcbafde4292b44076e810daeb3660281cea237581678","features":{},"yanked":false,"links":null}
 {"name":"ckb-vm-definitions","vers":"0.19.1","deps":[],"cksum":"3ce774f97919ed2458881e02ddf431ae82bc6203fbae8d75563b4499126c0ad2","features":{},"yanked":false,"links":null}
 {"name":"ckb-vm-definitions","vers":"0.19.2","deps":[],"cksum":"062e91a4ae2eb8a79ad9ba78471bff0eb82ea313a4d6a04b2d454c6553b13fa9","features":{},"yanked":false,"links":null}
+{"name":"ckb-vm-definitions","vers":"0.19.3","deps":[],"cksum":"ea76d3867d00736c64876ab0cd304be73691b91990a90ebbf100d36af85fdb05","features":{},"yanked":false,"links":null}
