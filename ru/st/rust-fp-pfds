@@ -1,0 +1,1 @@
+{"name":"rust-fp-pfds","vers":"0.0.1","deps":[{"name":"rust-fp-categories","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc64d96d43898019768d85a27e10b58f151b74034c43438eac345fee4dd6df23","features":{},"yanked":false,"links":null}
