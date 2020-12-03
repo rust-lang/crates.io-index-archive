@@ -1,1 +1,2 @@
 {"name":"wambo","vers":"0.1.0","deps":[{"name":"regex","req":"^1.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c8b6d28c9ba0bf17abbf8d119cb1125e0d02d470da449e00512a6d361a41a7e","features":{},"yanked":false,"links":null}
+{"name":"wambo","vers":"0.1.1","deps":[{"name":"regex","req":"^1.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e448ffcc8191cc92b909d5857baf2ea92dcb1a81e8b9ee4906258b2c8372f103","features":{},"yanked":false,"links":null}
