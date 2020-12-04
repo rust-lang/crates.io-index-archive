@@ -1,0 +1,1 @@
+{"name":"shelp","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.18.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c70c40364853187f4bfc65e6f2aedbc3740fe972d1cce3c7390e434b2ec546c","features":{},"yanked":false,"links":null}
