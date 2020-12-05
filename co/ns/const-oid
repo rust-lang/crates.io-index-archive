@@ -2,3 +2,4 @@
 {"name":"const-oid","vers":"0.2.0","deps":[],"cksum":"6fc33f77ab0b4232f30cb9049a156775c5ad814b030e929d234d14cd6d7ec17f","features":{},"yanked":false,"links":null}
 {"name":"const-oid","vers":"0.3.0","deps":[],"cksum":"7af192752feb3301bb7b78996a1cb2ad7b73b496cc7cf827e41a3f534de5bbb6","features":{"std":[]},"yanked":true,"links":null}
 {"name":"const-oid","vers":"0.3.1","deps":[],"cksum":"8b3f2e8c66b3ff1ba4eab4c65602f3fb0ad49116b4c7e71652c9d140ce65ad62","features":{"std":[]},"yanked":false,"links":null}
+{"name":"const-oid","vers":"0.3.2","deps":[],"cksum":"b4fa30214c17255a4c120bd6a199a61bfacb28e4a9f0be8eecf629f2847e84d4","features":{"std":[]},"yanked":false,"links":null}
