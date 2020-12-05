@@ -1,0 +1,1 @@
+{"name":"bufreaderwriter","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2e4501da42f0764d075184cd295f38cd322990dd4a75b6e35dbbc39b0f5f607e","features":{},"yanked":false,"links":null}
