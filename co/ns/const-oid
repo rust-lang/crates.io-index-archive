@@ -1,2 +1,3 @@
 {"name":"const-oid","vers":"0.1.0","deps":[],"cksum":"a2d9162b7289a46e86208d6af2c686ca5bfde445878c41a458a9fac706252d0b","features":{},"yanked":false,"links":null}
 {"name":"const-oid","vers":"0.2.0","deps":[],"cksum":"6fc33f77ab0b4232f30cb9049a156775c5ad814b030e929d234d14cd6d7ec17f","features":{},"yanked":false,"links":null}
+{"name":"const-oid","vers":"0.3.0","deps":[],"cksum":"7af192752feb3301bb7b78996a1cb2ad7b73b496cc7cf827e41a3f534de5bbb6","features":{"std":[]},"yanked":false,"links":null}
