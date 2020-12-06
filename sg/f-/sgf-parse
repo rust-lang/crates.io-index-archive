@@ -6,3 +6,4 @@
 {"name":"sgf-parse","vers":"0.3.2","deps":[],"cksum":"f73e2f0ddadcb0fae034004ec86a498c72fd92ad11345fba18ec6b5bc0639077","features":{},"yanked":false,"links":null}
 {"name":"sgf-parse","vers":"1.0.0","deps":[],"cksum":"037b548f4125387ea2631090a5cb9b7773c558533560936539e6e00dc2fe1dc3","features":{},"yanked":false,"links":null}
 {"name":"sgf-parse","vers":"2.0.0","deps":[],"cksum":"554abd5c317abf02e47b8625fc3c5c2a7a2837bbce4ae9674950ad826461e6d3","features":{},"yanked":false,"links":null}
+{"name":"sgf-parse","vers":"2.0.1","deps":[],"cksum":"54fb344f51f4008f0046c7dff32c0bd9ec44908cc24fb9e5e268fbfa72cdbeae","features":{},"yanked":false,"links":null}
