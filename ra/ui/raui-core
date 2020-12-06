@@ -1,1 +1,2 @@
 {"name":"raui-core","vers":"0.5.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"332b4b01c1c62be4674624da8cc9c85b69c784536d9457aee852a70952082d59","features":{},"yanked":false,"links":null}
+{"name":"raui-core","vers":"0.6.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00be182a59c628d08c1f189bb173da43322ea46ebce22a6e3c44c0fa2f5c44cc","features":{},"yanked":false,"links":null}
