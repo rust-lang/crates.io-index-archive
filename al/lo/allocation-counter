@@ -1,2 +1,3 @@
 {"name":"allocation-counter","vers":"0.1.0","deps":[{"name":"backtrace","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64cecfeb23a5de84a0da25c550b5fe7cedfa0c679660c0f84f0e5d2511d777f6","features":{},"yanked":false,"links":null}
 {"name":"allocation-counter","vers":"0.2.0","deps":[{"name":"backtrace","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02f87305467b25489db3c8f7653ed867bc16b1e35fb0fc92437c573280c52aa6","features":{},"yanked":false,"links":null}
+{"name":"allocation-counter","vers":"0.3.0","deps":[],"cksum":"87401297340560ccf4f8316aafaccb027c6b2cb5f1d2b76ac856be9f0cec6479","features":{},"yanked":false,"links":null}
