@@ -1,2 +1,3 @@
 {"name":"prehash","vers":"0.1.0","deps":[],"cksum":"07ef3ce931082213bb7a11d2d65b766b6f3332995d30e8c25c9f215938aca3b2","features":{"std":[],"default":["std"]},"yanked":true,"links":null}
 {"name":"prehash","vers":"0.2.0","deps":[],"cksum":"22036bd64be20748e41895f390c5f927a2ef28b6ad8e2510cb1a4b8549e71fa0","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"prehash","vers":"0.2.1","deps":[],"cksum":"c048980ea8dd0407f7a301c49d99a991d1657ca1811e4ba7fff3588ec2e10de6","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
