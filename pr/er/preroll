@@ -1,0 +1,1 @@
+{"name":"preroll","vers":"0.0.0","deps":[{"name":"cargo-husky","req":"^1","features":["user-hooks"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"a98eecf1b2c2613beb8ba30f4a3837bd32707ea8c69c23587069ea192bc14bf0","features":{},"yanked":false,"links":null}
