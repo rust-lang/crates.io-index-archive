@@ -1,1 +1,2 @@
 {"name":"meshvox","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49cb10cc69337167b993e3b55e08711a3163cc478750820dd4dde78013d7977c","features":{},"yanked":false,"links":null}
+{"name":"meshvox","vers":"0.2.0","deps":[{"name":"num-traits","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec2c5c263c8e0cbb965204ac81d440247b98f292c1377a16bce36bef409414db","features":{},"yanked":false,"links":null}
