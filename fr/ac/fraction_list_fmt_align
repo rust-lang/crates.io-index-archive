@@ -1,1 +1,2 @@
 {"name":"fraction_list_fmt_align","vers":"0.1.0","deps":[{"name":"regex","req":"^1.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc92669eb44fba9abc8ce454d060b9f059f3c4134b1e4a6f51e22d54212bba26","features":{},"yanked":false,"links":null}
+{"name":"fraction_list_fmt_align","vers":"0.2.0","deps":[],"cksum":"2cdb4732aa470a3a26d5266cb0a6c3751f29915e2e69f296fd3b2c042ffefc39","features":{},"yanked":false,"links":null}
