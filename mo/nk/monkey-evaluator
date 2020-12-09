@@ -1,0 +1,1 @@
+{"name":"monkey-evaluator","vers":"0.1.0","deps":[{"name":"monkey-parser","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6cf5955dc177ed89aa0ead4d1269b0f54b3f92a8bba12e4db894fa8206870569","features":{},"yanked":false,"links":null}
