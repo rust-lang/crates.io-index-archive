@@ -1,1 +1,2 @@
 {"name":"wasm-encoder","vers":"0.1.0","deps":[{"name":"leb128","req":">=0.2.4, <0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49891b7c581cf9e0090b25cd274e6498ad478f0a7819319ea96da2f253caaacb","features":{},"yanked":false,"links":null}
+{"name":"wasm-encoder","vers":"0.2.0","deps":[{"name":"leb128","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed89eaf99e08b84f96e477a16588a07dd3b51dc5f07291c3706782f62a10a5e1","features":{},"yanked":false,"links":null}
