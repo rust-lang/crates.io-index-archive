@@ -1,1 +1,2 @@
 {"name":"umlauts","vers":"0.1.0","deps":[],"cksum":"af260c3494cf9b39255e684dc7ad4a5289997c9c77b6d83e96ca30138646115f","features":{},"yanked":false,"links":null}
+{"name":"umlauts","vers":"0.2.0-alpha.1","deps":[{"name":"memchr","req":"^2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"729ce7dda027b55178d5d848834ba33a0e7f1414e2622857d56f4efffa4119aa","features":{"unsafe":[]},"yanked":false,"links":null}
