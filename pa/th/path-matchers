@@ -1,0 +1,1 @@
+{"name":"path-matchers","vers":"1.0.0","deps":[{"name":"glob","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f228058f6ed004013416ea770635c0920bc07b37f9ca324910a93bac65383eda","features":{"default":["glob"]},"yanked":false,"links":null}
