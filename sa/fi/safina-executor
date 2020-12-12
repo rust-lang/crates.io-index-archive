@@ -1,0 +1,1 @@
+{"name":"safina-executor","vers":"0.1.0","deps":[{"name":"rusty-fork","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3fb08b3e54e49ced702f44dd256c522432c48767f63d216c94757b3142c2717a","features":{},"yanked":false,"links":null}
