@@ -1,1 +1,2 @@
 {"name":"beemovie","vers":"0.1.2","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5732fe72c78c7b91516079635a3d2e4ccbea1c2f51e5c5ff17a4f3f9964d9d3c","features":{},"yanked":false,"links":null}
+{"name":"beemovie","vers":"0.1.3","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5d47343a6aaf4951d8f8f1b18e367e7289ee5da9ea6a22d765147f8b8c51f02","features":{},"yanked":false,"links":null}
