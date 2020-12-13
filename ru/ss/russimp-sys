@@ -1,0 +1,1 @@
+{"name":"russimp-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.55.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c7a692b02ba60f39645a53a9892c04f181855751d5990d8fcce37271e662135f","features":{},"yanked":false,"links":null}
