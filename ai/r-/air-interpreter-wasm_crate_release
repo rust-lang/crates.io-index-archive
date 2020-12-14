@@ -1,0 +1,1 @@
+{"name":"air-interpreter-wasm_crate_release","vers":"0.0.14","deps":[{"name":"built","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"06e4a6f0e356c180c2988d80e55f8b95f49a4376957875b4e310fbca9c690ff6","features":{},"yanked":false,"links":null}
