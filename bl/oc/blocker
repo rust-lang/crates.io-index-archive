@@ -1,0 +1,1 @@
+{"name":"blocker","vers":"0.1.0","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"72742ead4554c613a1718252162301c3cbb085cf54d4b75e39e8918dd949e913","features":{"thread_yield":[]},"yanked":false,"links":null}
