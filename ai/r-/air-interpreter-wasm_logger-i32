@@ -1,0 +1,1 @@
+{"name":"air-interpreter-wasm_logger-i32","vers":"0.0.0","deps":[{"name":"built","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8e0b68cb6992bea2c5e19213921f5714100c36899c9f511e8e90fc60a13aa4ec","features":{},"yanked":false,"links":null}
