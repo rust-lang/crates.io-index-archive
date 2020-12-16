@@ -6,3 +6,4 @@
 {"name":"const-oid","vers":"0.3.3","deps":[],"cksum":"9718eb58510ebba591b25cb8b2327050138fbbef581990944317097cf8a4198f","features":{"std":[]},"yanked":false,"links":null}
 {"name":"const-oid","vers":"0.3.4","deps":[],"cksum":"81f31e8ecbfc556990ae313b64aedaa11d901616af2a886e8caf57883caa43f0","features":{"std":[]},"yanked":false,"links":null}
 {"name":"const-oid","vers":"0.3.5","deps":[],"cksum":"8e143857ef5e50b46bba431bb0ed990426912f5eea85d6048214d8196d83efed","features":{"alloc":[],"std":["alloc"]},"yanked":false,"links":null}
+{"name":"const-oid","vers":"0.4.0","deps":[],"cksum":"069b46dab00267d018567b1154f38b706d6ed93c4915301a2fa73bc24a03a1e7","features":{"std":["alloc"],"alloc":[]},"yanked":false,"links":null}
