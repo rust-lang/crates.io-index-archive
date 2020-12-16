@@ -1,0 +1,1 @@
+{"name":"cntr-fuse-sys","vers":"0.4.0","deps":[{"name":"pkg-config","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8ae3892895a649be4477b275deeca4a4f5e64f31c7986eb3dab81d6cfa88491a","features":{"libfuse":[]},"yanked":false,"links":"fuse"}
