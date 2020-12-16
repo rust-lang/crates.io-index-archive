@@ -4,3 +4,4 @@
 {"name":"compact-genome","vers":"0.1.0-alpha.6","deps":[],"cksum":"c9a84972e67396e22866cc1157229ccc6e6f1b735346f551ab36fc6c5442c8df","features":{},"yanked":false,"links":null}
 {"name":"compact-genome","vers":"0.1.0-rc.1","deps":[],"cksum":"c492041b9fea77af7d02b9bd5faac5955b78e07e94f1bd870314bb057abd42e9","features":{},"yanked":false,"links":null}
 {"name":"compact-genome","vers":"0.1.0","deps":[],"cksum":"9f9eb6a6bcf4dba9909c4293a6bdbe4e44bbb3fa22352928bf9e61ea90fa4f73","features":{},"yanked":false,"links":null}
+{"name":"compact-genome","vers":"0.2.0","deps":[{"name":"itertools","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aed856222cd47b25c7db2b6de054bb781c7136177c8e7c06fbc7349297dabed2","features":{},"yanked":false,"links":null}
