@@ -1,1 +1,2 @@
 {"name":"gstore","vers":"0.0.1","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"63a6b9ef8da354ad7ce5334f7ed786c0bf3c039af18a43b03edbbb11fff4217c","features":{},"yanked":false,"links":null}
+{"name":"gstore","vers":"0.0.2","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fa51d3767309b2b2a756224cd878b673b8124834c4a2ce5b31231840018e75e3","features":{},"yanked":false,"links":null}
