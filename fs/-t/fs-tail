@@ -1,1 +1,2 @@
 {"name":"fs-tail","vers":"0.1.0","deps":[],"cksum":"0df1c2e212748e252a17fe5433bb0439b9581a2d646efd653a01e7ed0d9a9090","features":{},"yanked":false,"links":null}
+{"name":"fs-tail","vers":"0.1.1","deps":[{"name":"memchr","req":"^2.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c018d665fd26cb7fe7b59605d273215085196c641f9bcd414b0724f4f92878e0","features":{},"yanked":false,"links":null}
