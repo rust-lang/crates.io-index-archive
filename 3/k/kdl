@@ -1,1 +1,2 @@
 {"name":"kdl","vers":"0.0.0","deps":[],"cksum":"7f45095926c7659b8985928b72d86e33f688a8bc5eb35f4fec257a2df6bc086b","features":{},"yanked":false,"links":null}
+{"name":"kdl","vers":"1.0.0","deps":[{"name":"nom","req":"^6.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1.0.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96c87815ca70ba457939c22792b258e7420fb7e728f712358050d5e3da72681b","features":{},"yanked":false,"links":null}
