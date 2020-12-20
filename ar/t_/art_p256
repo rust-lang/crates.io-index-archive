@@ -8,5 +8,5 @@
 {"name":"art_p256","vers":"0.1.8","deps":[],"cksum":"8384e3ae6d90b92b3e8fbaaa1e896aee0ab8aacbfbe4662c0660fce93544aa3d","features":{},"yanked":true,"links":null}
 {"name":"art_p256","vers":"0.1.9","deps":[],"cksum":"2d331eb447920d01460ac7c9d07b61e843ae086b1c3ba2c72940fea95370cebd","features":{},"yanked":true,"links":null}
 {"name":"art_p256","vers":"0.1.10","deps":[],"cksum":"7b65f79eda4acc30a686439117be11ac89f679c7666bec7733cda52e9aee73e3","features":{},"yanked":true,"links":null}
-{"name":"art_p256","vers":"0.2.0","deps":[],"cksum":"7952606ee52d8737b626b3b8c13d625d83b2b79598bbe94591aeda80b8af6a93","features":{},"yanked":false,"links":null}
+{"name":"art_p256","vers":"0.2.0","deps":[],"cksum":"7952606ee52d8737b626b3b8c13d625d83b2b79598bbe94591aeda80b8af6a93","features":{},"yanked":true,"links":null}
 {"name":"art_p256","vers":"0.2.1","deps":[],"cksum":"d138d54bc16c66dbd506f7c3b3a528d205b52a7577b8b0257ce68cbfd245b890","features":{},"yanked":false,"links":null}
