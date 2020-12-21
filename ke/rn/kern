@@ -19,3 +19,4 @@
 {"name":"kern","vers":"1.1.5","deps":[],"cksum":"11415f27539c65674a07205d853094b279f8079324ee5c87de25780fd3765b83","features":{},"yanked":false,"links":null}
 {"name":"kern","vers":"1.1.6","deps":[],"cksum":"231129465395bd4048b3345ffe52a77365248269e4b9e8b3eff5f3a36a90346d","features":{},"yanked":false,"links":null}
 {"name":"kern","vers":"1.2.0","deps":[{"name":"rustls","req":"^0.18.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"154525b3606e91d6be54b1a4c33ea6b5aa2ad1c595626b1f7ae4ea2826991ca5","features":{"http":["rustls"],"default":[]},"yanked":false,"links":null}
+{"name":"kern","vers":"1.2.1","deps":[{"name":"rustls","req":"^0.19.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c343df3c8ba19577d5413d4794f94e5d1bef1b0d4e87a017272f60c25aa9656f","features":{"http":["rustls"],"default":[]},"yanked":false,"links":null}
