@@ -1,1 +1,2 @@
 {"name":"monochrome","vers":"0.1.0","deps":[{"name":"magpie","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ae3c92173bfe4f299b38a7fec223222517d30155b3f4ce40821906587f5c4d8","features":{},"yanked":false,"links":null}
+{"name":"monochrome","vers":"0.2.0","deps":[{"name":"magpie","req":"^0.3.0","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b59075056369d03677ad1043a0cacc7bd71697046efc9297cc181d204b24d38","features":{},"yanked":false,"links":null}
