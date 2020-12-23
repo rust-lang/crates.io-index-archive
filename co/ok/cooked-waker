@@ -3,3 +3,4 @@
 {"name":"cooked-waker","vers":"2.0.0","deps":[{"name":"stowaway","req":"^1.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b34d850608d58dd584de951323874f9bb022d785f308e48ee96e0ec20816631","features":{},"yanked":true,"links":null}
 {"name":"cooked-waker","vers":"3.0.0","deps":[{"name":"stowaway","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd6ba72298ba889eb596b5eed242c80b0ed669a57bb966f0809cac610e0c3a3d","features":{},"yanked":true,"links":null}
 {"name":"cooked-waker","vers":"4.0.0","deps":[],"cksum":"5e8103196fab436f8092235701e2774b87a4911894f1bd8cce629612bd5dcc16","features":{},"yanked":false,"links":null}
+{"name":"cooked-waker","vers":"5.0.0","deps":[],"cksum":"147be55d677052dabc6b22252d5dd0fd4c29c8c27aa4f2fbef0f94aa003b406f","features":{},"yanked":false,"links":null}
