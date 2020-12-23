@@ -1,0 +1,1 @@
+{"name":"spatialos-sdk","vers":"0.1.1","deps":[{"name":"spatialos-sys","req":"^0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0567407db4b16593e3109ccea974fdc9c80f140215d2d2de98f4612250ce01f3","features":{},"yanked":false,"links":null}
