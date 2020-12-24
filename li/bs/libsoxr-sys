@@ -1,1 +1,2 @@
 {"name":"libsoxr-sys","vers":"0.1.0","deps":[{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bdd058cdddd21b48a06de88183fb077b925760c0e5b696c19c6a4dc626c3a19f","features":{},"yanked":false,"links":null}
+{"name":"libsoxr-sys","vers":"0.1.1","deps":[{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5947409af1549d52c434d90aa59ebdc85492ef3db782cd6bfeb6e166be20b4a8","features":{},"yanked":false,"links":null}
