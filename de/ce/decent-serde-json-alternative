@@ -1,0 +1,1 @@
+{"name":"decent-serde-json-alternative","vers":"0.1.0","deps":[{"name":"json","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1da669f645e8093e5d0be74beb9099c10d20148747bef44edd5cd269e61b12ff","features":{},"yanked":false,"links":null}
