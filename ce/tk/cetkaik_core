@@ -19,3 +19,4 @@
 {"name":"cetkaik_core","vers":"0.1.18","deps":[],"cksum":"57bd82af3c19df52d66240cf7e63412796f75b98e792cec1dc709adaf9906e6f","features":{},"yanked":false,"links":null}
 {"name":"cetkaik_core","vers":"0.1.19","deps":[],"cksum":"59e49206393af0c952ed23742be28a645f43ad8b7073fb06a8b739e3f3aa89d0","features":{},"yanked":false,"links":null}
 {"name":"cetkaik_core","vers":"0.1.20","deps":[{"name":"maplit","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d4b6a101c4cde51fc2042bc5936b962aafdf024482d4f0da027e67ea395bd30","features":{},"yanked":false,"links":null}
+{"name":"cetkaik_core","vers":"0.1.21","deps":[{"name":"maplit","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94acfb16e19c476c9ef341380b800519254c2e0b0310e4c2324ef719d782b62a","features":{},"yanked":false,"links":null}
