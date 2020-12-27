@@ -1,1 +1,1 @@
-{"name":"rusfuse","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.81","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8822968c3fe67c0b74686a075995bc5690dc9846cef2a0a29ed1535a4947aa9","features":{},"yanked":true,"links":null}
+{"name":"rusfuse","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.81","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8822968c3fe67c0b74686a075995bc5690dc9846cef2a0a29ed1535a4947aa9","features":{},"yanked":false,"links":null}
