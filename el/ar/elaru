@@ -1,2 +1,3 @@
 {"name":"elaru","vers":"0.1.0","deps":[],"cksum":"7749b9693de42e01572a87d6a8e75137b800a7dfb94dbf91713393b92e4b56c3","features":{},"yanked":false,"links":null}
 {"name":"elaru","vers":"0.1.1","deps":[],"cksum":"2dcb4b07580a3290ac388ad466c39c1a59668d14a649c061b8293e70589d5ac1","features":{},"yanked":false,"links":null}
+{"name":"elaru","vers":"0.1.2","deps":[{"name":"fnv","req":"^1.0.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e88b3f8807842a02ebd63b6a666d0521bac84008411413210a1b2710ef839838","features":{"default":[]},"yanked":false,"links":null}
