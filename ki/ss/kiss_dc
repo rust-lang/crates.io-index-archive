@@ -1,0 +1,1 @@
+{"name":"kiss_dc","vers":"0.0.5","deps":[{"name":"tungstenite","req":"^0.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ca7d655db10dcff85545e833c816fdd2804e693373af0bc29ec6161474aafcb","features":{},"yanked":false,"links":null}
