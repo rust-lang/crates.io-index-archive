@@ -1,0 +1,1 @@
+{"name":"rustls-pemfile","vers":"0.1.0","deps":[{"name":"base64","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b89d9c5faee460b29a3a8d7ce6ca3590c8d7ca01505b414c4478b65727addcca","features":{},"yanked":false,"links":null}
