@@ -1,1 +1,2 @@
 {"name":"peril","vers":"0.0.0","deps":[{"name":"os-thread-local","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7cbf3dd24e2d299bb52bfdd0c074a25ebe3add26832d8568b3d73bd3d84ee3a","features":{},"yanked":false,"links":null}
+{"name":"peril","vers":"0.0.1","deps":[{"name":"os-thread-local","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"260383baa516c05bbe7bd4a75e48e959a3a52ca2dfee7ad6cf37c2a7294df050","features":{},"yanked":false,"links":null}
