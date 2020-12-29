@@ -1,1 +1,2 @@
 {"name":"relic","vers":"0.0.2","deps":[],"cksum":"efb9d4ca40102053ce7fa62f8bce23ba6444e98edeababab1c735c61775bd6cc","features":{},"yanked":false,"links":null}
+{"name":"relic","vers":"0.0.4","deps":[{"name":"skellige","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7abb6fd060d5d74454473e0c0a3bf77c974313e290a01d18f1f957ac7a5f7971","features":{},"yanked":false,"links":null}
