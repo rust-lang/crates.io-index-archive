@@ -1,2 +1,3 @@
 {"name":"ein-ffi","vers":"0.1.0","deps":[{"name":"bdwgc-alloc","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6eb106d248ffc56274a2cac5eb4c40eaa0093726b02f51d6ab034c96d45f0905","features":{},"yanked":false,"links":null}
 {"name":"ein-ffi","vers":"0.2.0","deps":[{"name":"bdwgc-alloc","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f49ad84f73bb42be8cce34c66811c7098043b82128c155a3da2f72afdd0d6a22","features":{},"yanked":false,"links":null}
+{"name":"ein-ffi","vers":"0.2.1","deps":[],"cksum":"f3b1a16030e8edf6bfdec8d64470a2cfbcd478734596f4eb364798e0056a47b7","features":{},"yanked":false,"links":null}
