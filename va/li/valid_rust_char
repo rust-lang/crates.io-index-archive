@@ -1,0 +1,1 @@
+{"name":"valid_rust_char","vers":"0.1.0","deps":[{"name":"proc-macro2","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4a01c163cebca48279b5ce76500f14d47c994aad9902abea276b87d07e158c5e","features":{},"yanked":false,"links":null}
