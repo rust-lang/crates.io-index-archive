@@ -1,0 +1,1 @@
+{"name":"cold","vers":"0.0.0","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9b9f86f1dbe795094ec2f1377185081b789a79f2de17c299bb91473e59ab996","features":{"std":[]},"yanked":false,"links":null}
