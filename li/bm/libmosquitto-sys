@@ -1,0 +1,1 @@
+{"name":"libmosquitto-sys","vers":"0.1.0","deps":[{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ae4ff94206586ace5d557b5962a9deda3f17830ad9c508c9e5f63f503448c1c2","features":{},"yanked":false,"links":"mosquitto"}
