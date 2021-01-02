@@ -1,1 +1,2 @@
 {"name":"ip2d","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0.0-beta.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37490102d4e7b64be381b700b1d20ed7ecd4e41a34990c88dbf868e4c1e1a21a","features":{},"yanked":false,"links":null}
+{"name":"ip2d","vers":"0.1.1","deps":[{"name":"clap","req":"^3.0.0-beta.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9242029fb9ab80c2afd3ccf674c621b9fb929dc2ee991de9a9377cf557bf7205","features":{},"yanked":false,"links":null}
