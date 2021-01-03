@@ -5,3 +5,4 @@
 {"name":"pico-args","vers":"0.3.2","deps":[],"cksum":"6a71836ceac43f0349e3bd964f5bb902f7b003916f32a4ad00354dafc447fa8f","features":{"default":["eq-separator"],"eq-separator":[]},"yanked":false,"links":null}
 {"name":"pico-args","vers":"0.3.3","deps":[],"cksum":"1b1eee8b1f4966c8343d7ca0f5a8452cd35d5610a2e0efbe2a68cae44bef2046","features":{"eq-separator":[],"default":["eq-separator"]},"yanked":false,"links":null}
 {"name":"pico-args","vers":"0.3.4","deps":[],"cksum":"28b9b4df73455c861d7cbf8be42f01d3b373ed7f02e378d55fa84eafc6f638b1","features":{"default":["eq-separator"],"eq-separator":[],"short-space-opt":[]},"yanked":false,"links":null}
+{"name":"pico-args","vers":"0.4.0","deps":[],"cksum":"d70072c20945e1ab871c472a285fc772aefd4f5407723c206242f2c6f94595d6","features":{"eq-separator":[],"short-space-opt":[],"default":["eq-separator"]},"yanked":false,"links":null}
