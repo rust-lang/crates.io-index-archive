@@ -1,1 +1,2 @@
 {"name":"smart_buffer","vers":"0.1.0","deps":[{"name":"array-macro","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fa0491355ba4263421e7d8528c739798c23942cbd135d7ad30f20adbc5b7582","features":{},"yanked":false,"links":null}
+{"name":"smart_buffer","vers":"0.1.1","deps":[{"name":"array-macro","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93cb0c1ec5c12023de8a6745ba8d4032831a0d505c199aaab1046395ae828daf","features":{},"yanked":false,"links":null}
