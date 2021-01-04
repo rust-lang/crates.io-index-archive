@@ -1,0 +1,1 @@
+{"name":"snarkvm-profiler","vers":"0.0.2","deps":[{"name":"colored","req":"^2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed9ec5eadd049ee06e676070d5402401373fe278a42b515141a9b14ca86a795a","features":{"print-trace":["colored"]},"yanked":false,"links":null}
