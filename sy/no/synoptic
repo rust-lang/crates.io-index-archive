@@ -1,1 +1,2 @@
 {"name":"synoptic","vers":"0.1.0","deps":[{"name":"regex","req":"^1.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"829c47aec6bd715c7f458a567281e026b3b65714f587b1190828dd26ac380cd3","features":{},"yanked":false,"links":null}
+{"name":"synoptic","vers":"0.2.0","deps":[{"name":"regex","req":"^1.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13b92b001b98b1610759ed77fdf4a524ebc9dced2c874e07b7dcaa4508c8ea51","features":{},"yanked":false,"links":null}
