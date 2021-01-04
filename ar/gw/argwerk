@@ -15,3 +15,4 @@
 {"name":"argwerk","vers":"0.13.0","deps":[],"cksum":"53a26455ef21f870b9126012c4679f151b6cdca735e0e119b2676b7ffb4b81e4","features":{},"yanked":false,"links":null}
 {"name":"argwerk","vers":"0.13.1","deps":[],"cksum":"3fde948ad925893f976b2d016db5ba365f13425a97dd074f8388da1447dce69a","features":{},"yanked":false,"links":null}
 {"name":"argwerk","vers":"0.14.0","deps":[],"cksum":"b395e92042df40b957dc661553e3f8396d9252f6fa3b9eefafa72a081f2390c5","features":{},"yanked":false,"links":null}
+{"name":"argwerk","vers":"0.15.0","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7def111f729b58f4a1f17695f4c5bc52dd75b4a58ddee2df4023e66ebfd488ca","features":{},"yanked":false,"links":null}
