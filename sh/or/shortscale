@@ -4,3 +4,4 @@
 {"name":"shortscale","vers":"1.0.2","deps":[],"cksum":"98737e3e754804ba7743dbce6b2a6b63c410d2dca10ba34bc7725040f40ac993","features":{},"yanked":false,"links":null}
 {"name":"shortscale","vers":"1.0.3","deps":[],"cksum":"3e2ed0e96e02cdde9536b50867be83b834a9f8cb1292c4ec8609b053b7a9f9b6","features":{},"yanked":false,"links":null}
 {"name":"shortscale","vers":"1.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f5f3771c3eb5aa338fbd8969d48e9428464f56337603249e19c6772c54006f46","features":{},"yanked":false,"links":null}
+{"name":"shortscale","vers":"1.1.1","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5b091814e6e92c55f0a743f7b3a95ac79f72a5d0ce5a4b7f2b4f5a20706118dc","features":{},"yanked":false,"links":null}
