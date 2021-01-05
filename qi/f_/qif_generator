@@ -1,1 +1,2 @@
 {"name":"qif_generator","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa57170a18bafa65938067eed472c4041884e0b90f0cc3fa4466698808a18696","features":{},"yanked":false,"links":null}
+{"name":"qif_generator","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a49bf43b6cd6ef724e84ba2edd2d90b1d5b937d5186137ae17339a877d2543f","features":{},"yanked":false,"links":null}
