@@ -1,1 +1,2 @@
 {"name":"uciengine","vers":"0.1.0","deps":[{"name":"tokio","req":"^0.2.22","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c62ede71eb5c0fd046919bd78d60118368842c9905acdd9ae80294e4e120bfb","features":{},"yanked":false,"links":null}
+{"name":"uciengine","vers":"0.1.1","deps":[{"name":"tokio","req":"^0.2.22","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ffedff81ff05424bce1af13d023658f79dc91760308a742e5245ac5475b06ed","features":{},"yanked":false,"links":null}
