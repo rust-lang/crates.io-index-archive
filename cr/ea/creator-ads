@@ -1,0 +1,1 @@
+{"name":"creator-ads","vers":"0.2.1","deps":[{"name":"jni","req":"^0.18","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"android\")","kind":"normal"}],"cksum":"9c07b1880ae2f3a06fc7ef2730ec8d81c69d6231641166c02e0f837375c6dc19","features":{},"yanked":false,"links":null}
