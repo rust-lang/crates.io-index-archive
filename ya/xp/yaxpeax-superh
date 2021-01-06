@@ -1,0 +1,1 @@
+{"name":"yaxpeax-superh","vers":"0.1.0","deps":[{"name":"yaxpeax-arch","req":"^0.0.4","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"02789f779dd874674062a7407a1faadcb4dbbb70b313b465a2bdbb562bb4d1f7","features":{"yaxpeax":["yaxpeax-arch"],"default":["yaxpeax"]},"yanked":false,"links":null}
