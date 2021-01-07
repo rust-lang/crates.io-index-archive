@@ -1,2 +1,3 @@
 {"name":"mongobook","vers":"0.1.0","deps":[],"cksum":"fdb25d41c6c1a5dd57f86b4a11c8d14092b835c4103fc7a04aab4b1d088995b1","features":{},"yanked":false,"links":null}
 {"name":"mongobook","vers":"0.1.1","deps":[],"cksum":"364531def259822f98f28aabe3ab68fffe71858085abbca84912c8fba1510248","features":{},"yanked":false,"links":null}
+{"name":"mongobook","vers":"0.1.2","deps":[{"name":"dotenv","req":"^0.15.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c417bd19f67c4694de6a7fa562a5e8736e29216a1fd9c33434431ae97d7da51","features":{},"yanked":false,"links":null}
