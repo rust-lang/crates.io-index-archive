@@ -1,0 +1,1 @@
+{"name":"scale_std","vers":"0.0.1","deps":[{"name":"scale","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"scale-core"}],"cksum":"d543894445af8a294eebaa59fd8f88fb4866df877a568c575ace0270752b0eae","features":{"emulate":["scale/emulate"]},"yanked":false,"links":null}
