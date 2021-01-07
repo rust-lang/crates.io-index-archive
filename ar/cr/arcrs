@@ -1,2 +1,3 @@
 {"name":"arcrs","vers":"0.1.0","deps":[],"cksum":"8c86e9d9725ba886bcddb2b6a05b7b378b38b05826b20c90749c2052d2edccbd","features":{},"yanked":false,"links":null}
 {"name":"arcrs","vers":"0.1.1-alpha.1","deps":[{"name":"pyo3","req":"^0.12.3","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1fd82f6129a38a3b225b86ec28a150a27fe968cd6b02ba1e12b1ab786ca57ec","features":{},"yanked":false,"links":null}
+{"name":"arcrs","vers":"0.1.1-alpha.2","deps":[{"name":"pyo3","req":"^0.12.3","features":["extension-module"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f435427f76eadc5d2b40c6e03341bcfb621c074d850cc89631705fe9f20abe1","features":{},"yanked":false,"links":null}
