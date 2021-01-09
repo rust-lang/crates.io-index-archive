@@ -1,1 +1,2 @@
 {"name":"lex_lua","vers":"0.1.0","deps":[{"name":"bstr","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"643b540120386d17ad16a9ae3c91ce38ba1ea7b74edc607b83290ee494f3aa04","features":{},"yanked":false,"links":null}
+{"name":"lex_lua","vers":"0.1.1","deps":[{"name":"bstr","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"236950bbe14636b64dd4b2bb79ecf3595a8e76d49076dce29905918d0f5f874b","features":{},"yanked":false,"links":null}
