@@ -1,0 +1,1 @@
+{"name":"pui-vec","vers":"0.5.0","deps":[{"name":"pui-core","req":"^0.5.1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5fd5c8ac59143b439548392f80e4fa3a9b3f5989644c345b6063cca8364ed071","features":{"default":["pui"],"pui":["pui-core"]},"yanked":false,"links":null}
