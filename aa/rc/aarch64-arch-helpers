@@ -1,0 +1,1 @@
+{"name":"aarch64-arch-helpers","vers":"0.1.0","deps":[],"cksum":"5a332534d42237558dd34f1e727c17ee7051f61ef6dbdfc75d299cd20e7094a2","features":{"mmu_helpers":[],"default":["cache_helpers","mmu_helpers"],"errata_a57_813419":[],"cache_helpers":[]},"yanked":false,"links":null}
