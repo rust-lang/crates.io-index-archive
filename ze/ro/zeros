@@ -25,3 +25,4 @@
 {"name":"zeros","vers":"8.0.0","deps":[],"cksum":"1e0fb37b6d94234f4701ab8a022e3e9450d40f28b376cf68d2cbe995e6560a4e","features":{"std":[]},"yanked":false,"links":null}
 {"name":"zeros","vers":"9.0.0","deps":[],"cksum":"39a6c3ca7208f58d139d95b63e9acf633f91a092b6ae199a0cec9d3cd5453d35","features":{"std":[]},"yanked":false,"links":null}
 {"name":"zeros","vers":"9.1.0","deps":[],"cksum":"8094100cd196886ac0031819102588d6c0391184651759961542f6d1552f6cda","features":{"std":[]},"yanked":false,"links":null}
+{"name":"zeros","vers":"10.0.0","deps":[],"cksum":"1e652f9e0d58c0efa6fa8a3bb66bc057709bec178111d757dad62500ba120eb2","features":{"std":[]},"yanked":false,"links":null}
