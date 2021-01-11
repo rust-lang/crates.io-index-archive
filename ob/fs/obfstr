@@ -2,3 +2,4 @@
 {"name":"obfstr","vers":"0.1.1","deps":[{"name":"obfstr-impl","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fde677a726bbf8effc101af04b80e7c9464f5dc50fe28bc40c3d530facb899f","features":{"unsafe_static_str":[],"rand":["obfstr-impl/rand"],"default":["rand"]},"yanked":false,"links":null}
 {"name":"obfstr","vers":"0.2.0","deps":[],"cksum":"0839cdae0233029ff9c3326c58c1fac20da36dbb7f1334e02d5394d2d10dcb38","features":{"unsafe_static_str":[]},"yanked":false,"links":null}
 {"name":"obfstr","vers":"0.2.1","deps":[],"cksum":"f6b9b3ed2952aa2521a3a948ab24b4a59a521e1402fbde36fd2e50f1eb11502b","features":{"unsafe_static_str":[]},"yanked":false,"links":null}
+{"name":"obfstr","vers":"0.2.2","deps":[],"cksum":"8c2c2aaf21326b3d49057dd4ad4063a7d6c753881a623293b5d6f89abcf9f149","features":{"unsafe_static_str":[]},"yanked":false,"links":null}
