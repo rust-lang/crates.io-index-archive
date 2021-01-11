@@ -1,0 +1,1 @@
+{"name":"envoy-mobile-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.56.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e8b0ecf25453636aa1afd1bf314ecfa91cbd4b41ea31cb8c9d0b24540b2a9747","features":{},"yanked":false,"links":null}
