@@ -4,3 +4,4 @@
 {"name":"peroxide-ad","vers":"0.1.3","deps":[],"cksum":"3ffb42365042ac56aed5bf55c428f8969995c3168b7d3090a4a41a7addb1cc79","features":{},"yanked":false,"links":null}
 {"name":"peroxide-ad","vers":"0.1.4","deps":[],"cksum":"fb1078af1af65735850eef6f0a1f8925d9047f30debd5950815589301c0683c1","features":{},"yanked":false,"links":null}
 {"name":"peroxide-ad","vers":"0.2.0","deps":[{"name":"watt","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"300c7f5115569d8037ae49dc4961c5e05f0c67ee9e299f9847e61cda96f10cb2","features":{},"yanked":false,"links":null}
+{"name":"peroxide-ad","vers":"0.2.1","deps":[{"name":"watt","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9deab151d13a645ce4895ec077d03a418a0ea44d449fd92d8a4d4f9294e49833","features":{},"yanked":false,"links":null}
