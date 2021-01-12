@@ -1,1 +1,2 @@
 {"name":"fontstash","vers":"0.1.2","deps":[{"name":"fontstash-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"075afe7762da9d74cefea1a69cb253ab45de9f8dcdbfbb87718cdbd5c81fc16b","features":{},"yanked":false,"links":null}
+{"name":"fontstash","vers":"0.1.3","deps":[{"name":"fontstash-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfee9c05cf24e77ed44c0d46b91f9827e239089a96dfe6f83cc58f3cb6371f2f","features":{},"yanked":false,"links":null}
