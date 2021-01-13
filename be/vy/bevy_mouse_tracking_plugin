@@ -1,0 +1,1 @@
+{"name":"bevy_mouse_tracking_plugin","vers":"0.1.0","deps":[{"name":"bevy","req":"0.4.*","features":["render"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"527811c7e53a11f47aba5063fd06c5a84ee2b35f7f91a09113da0f0555ca40ec","features":{},"yanked":false,"links":null}
