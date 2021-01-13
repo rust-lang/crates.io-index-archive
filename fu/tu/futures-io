@@ -13,3 +13,4 @@
 {"name":"futures-io","vers":"0.3.7","deps":[],"cksum":"6e1798854a4727ff944a7b12aa999f58ce7aa81db80d2dfaaf2ba06f065ddd2b","features":{"std":[],"unstable":[],"read-initializer":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"futures-io","vers":"0.3.8","deps":[],"cksum":"611834ce18aaa1bd13c4b374f5d653e1027cf99b6b502584ff8c9a64413b30bb","features":{"default":["std"],"std":[],"read-initializer":[],"unstable":[]},"yanked":false,"links":null}
 {"name":"futures-io","vers":"0.3.9","deps":[],"cksum":"e37c1a51b037b80922864b8eed90692c5cd8abd4c71ce49b77146caa47f3253b","features":{"read-initializer":[],"std":[],"default":["std"],"unstable":[]},"yanked":false,"links":null}
+{"name":"futures-io","vers":"0.3.10","deps":[],"cksum":"d41234e71d5e8ca73d01563974ef6f50e516d71e18f1a2f1184742e31f5d469f","features":{"default":["std"],"std":[],"read-initializer":[],"unstable":[]},"yanked":false,"links":null}
