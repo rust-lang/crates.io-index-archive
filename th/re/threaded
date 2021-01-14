@@ -1,0 +1,1 @@
+{"name":"threaded","vers":"0.1.0","deps":[{"name":"crossbeam","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"327412fb29a1f4a8a400217a8497757ff9a3d93a41239602c0d86ca194dcfe72","features":{},"yanked":false,"links":null}
