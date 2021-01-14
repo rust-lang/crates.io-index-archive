@@ -1,1 +1,2 @@
 {"name":"emojic","vers":"0.1.0","deps":[],"cksum":"8d329b95d5693cdc7d52695947c6740dffe61deb6d2f0e4747366d2e175aded8","features":{},"yanked":false,"links":null}
+{"name":"emojic","vers":"0.2.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24946b991cbd120c264b988675fda9d8c504cd1fdfdce6b48b722f04bd799def","features":{},"yanked":false,"links":null}
