@@ -1,0 +1,1 @@
+{"name":"subtle-ng","vers":"2.4.0","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e18220380b77742662d45af1aa29cd0c46c1f39b2386db11ac472b2d7e2e38d7","features":{"default":["std","i128"],"i128":[],"nightly":[],"std":[]},"yanked":false,"links":null}
