@@ -1,1 +1,2 @@
 {"name":"serial_int","vers":"0.1.0","deps":[],"cksum":"8d300865ae0ae4c5fb5a4a3f67dbecd2cfac649e1bfb2479a351efd589148b85","features":{},"yanked":false,"links":null}
+{"name":"serial_int","vers":"0.2.0","deps":[{"name":"lazy_static","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0369b14e378d2ab4be20dd47b949a1e6246244412de38589451b2908bc5ff890","features":{},"yanked":false,"links":null}
