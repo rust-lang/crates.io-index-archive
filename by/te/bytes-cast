@@ -1,0 +1,1 @@
+{"name":"bytes-cast","vers":"0.1.0","deps":[{"name":"bytes-cast-derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3196ba300c7bc9282a4331e878496cb3e9603a898a8f1446601317163e16ca52","features":{},"yanked":false,"links":null}
