@@ -1,3 +1,4 @@
 {"name":"countme","vers":"1.0.0","deps":[],"cksum":"81f2829846c67cb298f26a4557d1754ad337051af72d6ba7782492027e56170d","features":{},"yanked":false,"links":null}
 {"name":"countme","vers":"1.0.1","deps":[],"cksum":"7d6e270b9bfbcf08303e0fffd73e6054280f7ec8708cb469be17f1ea25ca6be4","features":{},"yanked":false,"links":null}
 {"name":"countme","vers":"1.0.2","deps":[],"cksum":"103c226b4be45ec2ddd8517e250aa23e67f77be7d9e0f5614ae3b72f872bd3d4","features":{"no-op":[]},"yanked":false,"links":null}
+{"name":"countme","vers":"1.0.3","deps":[],"cksum":"7f82af9388ee3d8acf65fa1e890493a4cc095939bb013015c2255efe088a5e13","features":{"no-op":[]},"yanked":false,"links":null}
