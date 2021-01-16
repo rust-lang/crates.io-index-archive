@@ -5,3 +5,4 @@
 {"name":"fps_counter","vers":"0.1.1","deps":[{"name":"clock_ticks","req":"^0.0.6","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df397961878b46f24197227a1cecc64075c6a32f2323a3c306ce40f8f8efc307","features":{},"yanked":false}
 {"name":"fps_counter","vers":"0.2.0","deps":[{"name":"time","req":"^0.1.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5677f60bd4fb01e3bc5b422cd7d0a460883628a0b1c907d483be2fe2c4d332ea","features":{},"yanked":false}
 {"name":"fps_counter","vers":"1.0.0","deps":[],"cksum":"e87181dcb1c9f3297845af26d5d78c4936ff12f8abe1c2a5507459d45f5236a6","features":{},"yanked":false}
+{"name":"fps_counter","vers":"2.0.0","deps":[],"cksum":"3aaba7ff514ee9d802b562927f80b1e94e93d8e74c31b134c9c3762dabf1a36b","features":{},"yanked":false,"links":null}
