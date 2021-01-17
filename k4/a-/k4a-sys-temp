@@ -1,0 +1,1 @@
+{"name":"k4a-sys-temp","vers":"0.2.1","deps":[{"name":"bindgen","req":"^0.52.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6486cebd2ab0f62e6f18a880ae606a0e568d4b72d1c0323a050b1c5c1c663d94","features":{},"yanked":false,"links":null}
