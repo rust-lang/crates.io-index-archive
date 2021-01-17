@@ -1,1 +1,2 @@
 {"name":"gol-renderer","vers":"0.1.0","deps":[],"cksum":"4e75474691f81612ac0ec1c634edf20c3694e394b0da606b410cc04e5e6fb848","features":{},"yanked":false,"links":null}
+{"name":"gol-renderer","vers":"0.2.0","deps":[{"name":"gol-core","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rayon","req":"^1.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4770e8e02cbd42ba7ce99ad921a0d512d979ee39d1bc762ea4894e4f94970a68","features":{},"yanked":false,"links":null}
