@@ -1,0 +1,1 @@
+{"name":"liblbfgs-sys","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1.45","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8a82f8018c5b8ae3861e5de882dd57a378fe028bd7c9fae8773a66edb6ee6413","features":{},"yanked":false,"links":"lbfgs"}
