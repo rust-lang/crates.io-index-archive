@@ -1,0 +1,1 @@
+{"name":"emath","vers":"0.8.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d876a5b910712537191b8d9aa1550a212a62fd2dd6f44f6ca5c671cf89bb841","features":{"default":[]},"yanked":false,"links":null}
