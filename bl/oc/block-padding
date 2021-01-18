@@ -5,3 +5,4 @@
 {"name":"block-padding","vers":"0.1.5","deps":[{"name":"byte-tools","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa79dedbb091f449f1f39e53edf88d5dbe95f895dae6135a8d7b881fb5af73f5","features":{},"yanked":false,"links":null}
 {"name":"block-padding","vers":"0.2.0","deps":[],"cksum":"c98bfd7c112b6399fef97cc0614af1cd375b27a112e552ce60f94c1b5f13cb74","features":{},"yanked":false,"links":null}
 {"name":"block-padding","vers":"0.2.1","deps":[],"cksum":"8d696c370c750c948ada61c69a0ee2cbbb9c50b1019ddb86d9317157a99c2cae","features":{},"yanked":false,"links":null}
+{"name":"block-padding","vers":"0.3.0-pre","deps":[{"name":"generic-array","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3992d179d1dd2fa87869057217d43cf88ad31d4e44738d159a5a6caafdf63ae6","features":{"std":[]},"yanked":false,"links":null}
