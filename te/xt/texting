@@ -1,1 +1,2 @@
 {"name":"texting","vers":"0.0.1","deps":[{"name":"veho","req":">=0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ac62fbbec6f693998a7b37e6ebd872fe48088f3c26dcbfb54db60278f2f30a11","features":{},"yanked":false,"links":null}
+{"name":"texting","vers":"0.0.2","deps":[{"name":"veho","req":">=0.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c62a8cbedfb9e69cae2cf5409792bf0b2d89397bff6b6e396e2168ffd443c4b1","features":{},"yanked":false,"links":null}
