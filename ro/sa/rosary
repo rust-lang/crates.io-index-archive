@@ -1,1 +1,2 @@
 {"name":"rosary","vers":"0.1.0","deps":[],"cksum":"091ea3e92f24a241014c5e4d41e31642ffa587fd0c718317d58a7e21c3042416","features":{},"yanked":false,"links":null}
+{"name":"rosary","vers":"0.1.1","deps":[{"name":"boolinator","req":">=2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"372892a5f7b3720a3975dcf3fbc075efb42546ffa299d5c9e6003c5c7e5dc105","features":{},"yanked":false,"links":null}
