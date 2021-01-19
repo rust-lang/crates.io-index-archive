@@ -5,3 +5,4 @@
 {"name":"coap-lite","vers":"0.3.2","deps":[],"cksum":"6ecfbeb3672652d8bfa105c93169d1b67e9a97bdc9f71093ea4070bc15bb0f55","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"coap-lite","vers":"0.3.3","deps":[],"cksum":"631da18472499ebbb067ce53f5adce6c96e1897d1bc7dd922bdd0494faa95179","features":{"default":["std"],"std":[]},"yanked":true,"links":null}
 {"name":"coap-lite","vers":"0.3.4","deps":[],"cksum":"3ddc0a10942d8b52c96c15606ecd9548a6b16180b57754245e34e22b0a152d42","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"coap-lite","vers":"0.3.5","deps":[],"cksum":"0ddfb29400462f88e5c2f225d96f4e8232668486a305800d169c46675466b316","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
