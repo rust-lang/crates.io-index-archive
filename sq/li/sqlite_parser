@@ -1,0 +1,1 @@
+{"name":"sqlite_parser","vers":"0.1.0","deps":[{"name":"rusqlite","req":"^0.24.2","features":["bundled"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d30a5c21eee50fae0b482be021af1a4465debe84fefa76a2d9abb43cf24e5ed","features":{},"yanked":false,"links":null}
