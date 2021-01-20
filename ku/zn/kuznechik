@@ -1,1 +1,2 @@
 {"name":"kuznechik","vers":"0.1.0","deps":[{"name":"sha3","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2307c3c5449023bca2917b46c28a1746ba48029ef4847ac63c8432ce6079ae01","features":{},"yanked":false,"links":null}
+{"name":"kuznechik","vers":"0.1.1","deps":[{"name":"sha3","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8ea40770eaf4bbb4825c4fc28fd0ff76091563de21a940a54f1561e1a8ef839","features":{},"yanked":false,"links":null}
