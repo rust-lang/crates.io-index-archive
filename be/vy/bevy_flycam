@@ -1,1 +1,2 @@
 {"name":"bevy_flycam","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"297d4c2de97498cc32236a861c15752812ee5502546c7491459b170caaf9c4f8","features":{},"yanked":false,"links":null}
+{"name":"bevy_flycam","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1469d570f95bd6d21845468d116d10215c169c657e3d7220095a7445a4360cd","features":{},"yanked":false,"links":null}
