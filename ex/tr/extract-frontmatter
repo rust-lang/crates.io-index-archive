@@ -5,3 +5,4 @@
 {"name":"extract-frontmatter","vers":"1.0.3","deps":[],"cksum":"ec5c1996f6bd33868049b732ccb549c80de94adf5197fa98b66d8de26417bcde","features":{},"yanked":false,"links":null}
 {"name":"extract-frontmatter","vers":"2.0.0","deps":[],"cksum":"95d9de6a7b91c4d0c644b0ef7d932d0861e5e4d48142ee46dbd6e8e8561d5afd","features":{},"yanked":false,"links":null}
 {"name":"extract-frontmatter","vers":"2.0.3","deps":[{"name":"version-sync","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ab98bf1aff1eb9dfa49aedc8ab2ef20eb3a5574db565e9316f2d711e2134e84c","features":{},"yanked":false,"links":null}
+{"name":"extract-frontmatter","vers":"2.1.0","deps":[],"cksum":"30b4c6ac125f7d6663c9bee567645050c9a164c4dbf5689bd5bdf344a1b39356","features":{},"yanked":false,"links":null}
