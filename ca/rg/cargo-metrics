@@ -1,0 +1,1 @@
+{"name":"cargo-metrics","vers":"0.1.0","deps":[{"name":"cargo_metadata","req":"^0.12.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad7df6ff7307030322b6b1ce456edc6b4a0e83b335bb5874fe70acad3eb1b238","features":{},"yanked":false,"links":null}
