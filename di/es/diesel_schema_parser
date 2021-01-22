@@ -1,0 +1,1 @@
+{"name":"diesel_schema_parser","vers":"0.1.0","deps":[{"name":"nom","req":"^6.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c837f593482742e5d95a6d377f0839cf54784317160c0f0c76a6435c4bd414f","features":{},"yanked":false,"links":null}
