@@ -1,0 +1,1 @@
+{"name":"af-macros","vers":"0.1.0","deps":[{"name":"af-proc-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63e2b3a02db4540113d46b7176c1c5a8845bbf4af169ee89d97207581e4be057","features":{"logger":["af-proc-macros/logger"]},"yanked":false,"links":null}
