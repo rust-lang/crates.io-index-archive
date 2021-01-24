@@ -1,0 +1,1 @@
+{"name":"bigfactorial","vers":"0.1.1","deps":[{"name":"num-bigint","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4a80e764cf07ac0962dbc2c75fbc4a6c7b63b37686331cdda4c270c26e5beba3","features":{},"yanked":false,"links":null}
