@@ -1,0 +1,1 @@
+{"name":"kagamijxl","vers":"0.1.0","deps":[{"name":"libjxl-sys","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81a468bd28ce813824733f053220bcc0e2c24d007ebf7cd333380767b300d1a6","features":{},"yanked":false,"links":null}
