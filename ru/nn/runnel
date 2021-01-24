@@ -1,0 +1,1 @@
+{"name":"runnel","vers":"0.1.2","deps":[{"name":"rustc_version","req":"=0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"addac7acd3aa8305e74898b70aed0953b6f7429293bf10ccfd206c2a9e436d62","features":{"default":[]},"yanked":false,"links":null}
