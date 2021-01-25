@@ -4,3 +4,4 @@
 {"name":"chlorine","vers":"1.0.3","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":"cfg(not(any(windows, all(target_arch = \"wasm32\", not(any(target_env = \"wasi\", target_env = \"emscripten\"))))))","kind":"normal"}],"cksum":"0d4be3bf997f70ba82b3f671296cc6d44e2380d0d3a9f71d02b7d5739dfddfc9","features":{},"yanked":false,"links":null}
 {"name":"chlorine","vers":"1.0.4","deps":[],"cksum":"6eb3df53a8a9d3706dcf5debc1bfe85efb5db2591f2dfbcebcc7e2f08d595a65","features":{},"yanked":true,"links":null}
 {"name":"chlorine","vers":"1.0.5","deps":[],"cksum":"f24f6d8895c2bf232d6ef33d489bf1efd242e5ec2358e0734035daa9e7beca69","features":{},"yanked":false,"links":null}
+{"name":"chlorine","vers":"1.0.6","deps":[],"cksum":"4777799a5207db91a819a1c172511fa4b1029d22a961c3252722695674a11b7e","features":{"int_extras":[]},"yanked":false,"links":null}
