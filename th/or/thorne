@@ -1,1 +1,2 @@
 {"name":"thorne","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffa06b93982dbe89ee010f8cfadae60dde23545a5d6f449d543957faa071b4c9","features":{},"yanked":false,"links":null}
+{"name":"thorne","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"839a9789bdf76e8399c124ec7f9db4394ee7de6746fd0dd9ff601d59208dc66d","features":{},"yanked":false,"links":null}
