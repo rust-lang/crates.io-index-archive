@@ -1,2 +1,3 @@
 {"name":"base64ct","vers":"0.0.0","deps":[],"cksum":"ddf31a59b58f1523c28ed3267b7da186b2fa902a408eb0cfdbd83fd38fc10240","features":{},"yanked":true,"links":null}
 {"name":"base64ct","vers":"0.1.0","deps":[],"cksum":"c502cbac2e4ffc38047434d0c88b54da5e7c76829ff16f0a479f90116336d9f3","features":{"alloc":[],"std":["alloc"]},"yanked":false,"links":null}
+{"name":"base64ct","vers":"0.1.1","deps":[],"cksum":"e96c6b8c1cac2cfe84b4ea97794c43085b401df66c466e9a863744c0489679a7","features":{"std":["alloc"],"alloc":[]},"yanked":false,"links":null}
