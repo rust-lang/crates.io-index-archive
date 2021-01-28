@@ -1,2 +1,3 @@
 {"name":"aligned-utils","vers":"0.2.0","deps":[],"cksum":"7ed9d9f709f2e766118ff435f4ca913c001759d3ae8c9a67c693b0fd3dc1b16d","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"links":null}
 {"name":"aligned-utils","vers":"1.0.0","deps":[],"cksum":"4a585adbba0c21500f7cabe6c3f688d8c448aa11f083022e37974ee645a90d0a","features":{"alloc":[],"std":["alloc"],"default":["std"]},"yanked":false,"links":null}
+{"name":"aligned-utils","vers":"1.0.1","deps":[],"cksum":"e514ec678ae0a63973bd9cbb35845384f320f354e3efa48acfff5b052cb4ed94","features":{"std":["alloc"],"alloc":[],"default":["std"]},"yanked":false,"links":null}
