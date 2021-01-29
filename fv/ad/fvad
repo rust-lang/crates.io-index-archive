@@ -1,1 +1,1 @@
-{"name":"fvad","vers":"0.1.0","deps":[{"name":"libfvad-sys","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a5dd303ff2e0832ca541746df85677008f2278cfb935779f8a21298bcd6f669","features":{},"yanked":false,"links":null}
+{"name":"fvad","vers":"0.1.0","deps":[{"name":"libfvad-sys","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a5dd303ff2e0832ca541746df85677008f2278cfb935779f8a21298bcd6f669","features":{},"yanked":true,"links":null}
