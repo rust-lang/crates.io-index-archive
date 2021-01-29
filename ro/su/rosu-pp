@@ -1,0 +1,1 @@
+{"name":"rosu-pp","vers":"0.1.0","deps":[],"cksum":"9f480af11d77cef3527bb0dfee68b42b1171273f7edc0ce1a9a8613116fc6499","features":{"fruits":[],"mania":[],"no_leniency":[],"osu":[],"no_sliders_no_leniency":[],"all_included":[],"taiko":[],"default":["osu","taiko","fruits","mania","no_leniency"]},"yanked":false,"links":null}
