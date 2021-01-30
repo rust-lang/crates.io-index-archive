@@ -10,3 +10,4 @@
 {"name":"substring","vers":"1.3.0","deps":[],"cksum":"539d9f412caee37449111fe9b3a3be5c05cea16b51b359a7bef1e1d830b29ad1","features":{},"yanked":false,"links":null}
 {"name":"substring","vers":"1.3.1","deps":[],"cksum":"a2f4f6c384f71768cd03cbe5be4c2c9d28c78fd968154ee2579c418d2c2a117c","features":{},"yanked":false,"links":null}
 {"name":"substring","vers":"1.4.0","deps":[{"name":"autocfg","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"134bb6744b6f5e4cf735bf590fd987c710600fb95db9af3be36491dea326b69b","features":{},"yanked":false,"links":null}
+{"name":"substring","vers":"1.4.1","deps":[{"name":"autocfg","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c143a31f3cd1d629fe79ba48ffd0301288910a8a6c31f1b0eca0a1af95aa612b","features":{},"yanked":false,"links":null}
