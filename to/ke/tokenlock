@@ -12,5 +12,5 @@
 {"name":"tokenlock","vers":"0.3.0","deps":[],"cksum":"8548bd16a49ce560246e08f19568e28dd33c6e5eec636ac8039acdc058107b19","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"tokenlock","vers":"0.3.1","deps":[],"cksum":"61354f8f3e745454af8071c246e351c382c15792e59989c83b72692a7352e9be","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"tokenlock","vers":"0.3.2","deps":[],"cksum":"7bc5c549171ab5e2101e206e8afc3aebb81a0fbe8f8cb277723a7774b93a4010","features":{"default":["std"],"std":[]},"yanked":true,"links":null}
-{"name":"tokenlock","vers":"0.3.3","deps":[],"cksum":"741e10704b7e84f2faddf0a1abc7da4817184c8e0c365c37ac062318df7a620c","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"tokenlock","vers":"0.3.3","deps":[],"cksum":"741e10704b7e84f2faddf0a1abc7da4817184c8e0c365c37ac062318df7a620c","features":{"default":["std"],"std":[]},"yanked":true,"links":null}
 {"name":"tokenlock","vers":"0.3.4","deps":[],"cksum":"b6f427499498b0519ed7503f237e58f96e2e589a6d1cc9062be6014c72482b89","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
