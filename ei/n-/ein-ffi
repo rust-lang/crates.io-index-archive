@@ -2,3 +2,4 @@
 {"name":"ein-ffi","vers":"0.2.0","deps":[{"name":"bdwgc-alloc","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f49ad84f73bb42be8cce34c66811c7098043b82128c155a3da2f72afdd0d6a22","features":{},"yanked":false,"links":null}
 {"name":"ein-ffi","vers":"0.2.1","deps":[],"cksum":"f3b1a16030e8edf6bfdec8d64470a2cfbcd478734596f4eb364798e0056a47b7","features":{},"yanked":false,"links":null}
 {"name":"ein-ffi","vers":"0.2.2","deps":[],"cksum":"215c186f2ca1886402cafb524349455905f16ddad9f8bca010e48c428b52dbf5","features":{},"yanked":false,"links":null}
+{"name":"ein-ffi","vers":"0.2.3","deps":[],"cksum":"9d93bd5cbb8ff9271354b8156b3f071160161706e0d030334172611682f2f07c","features":{},"yanked":false,"links":null}
