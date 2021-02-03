@@ -6,3 +6,4 @@
 {"name":"magnesium","vers":"1.0.0-alpha.0","deps":[],"cksum":"1e5b4c1a6ed1b03ae9590270d5b3479b219c36a1512077dbb9f77dc63e2e167a","features":{"alloc":[]},"yanked":false,"links":null}
 {"name":"magnesium","vers":"1.0.0","deps":[],"cksum":"8a058c73fb91746502826ed1af64d3a4da8fa66219c71ec1c323e32c6170150a","features":{"alloc":[]},"yanked":false,"links":null}
 {"name":"magnesium","vers":"1.1.0","deps":[],"cksum":"0cbdfa77eba43de2471fcf03ac05c04a87fedcda60e9d3a5e34219d21fe86d45","features":{"alloc":[]},"yanked":false,"links":null}
+{"name":"magnesium","vers":"1.2.0","deps":[],"cksum":"ac2f461572d07440190e5db9e84c8caad4002f79b04d7f7029ecee234790f4b5","features":{"alloc":[]},"yanked":false,"links":null}
