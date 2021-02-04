@@ -9,3 +9,4 @@
 {"name":"purr","vers":"0.6.2","deps":[],"cksum":"2a0aaa54616708c2b4650fafcb70fb3fc3e47aa84cd05f71a2bd23b6dd402846","features":{},"yanked":false,"links":null}
 {"name":"purr","vers":"0.6.3","deps":[],"cksum":"5f5be343c265dbe00204af27ce42b8f5e905a965d97985dbde974e25bf25e451","features":{},"yanked":false,"links":null}
 {"name":"purr","vers":"0.7.0","deps":[{"name":"pretty_assertions","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bf399927623857df474d8a6aaa1f69907b4c97616c30ab83b827993993b044cd","features":{},"yanked":false,"links":null}
+{"name":"purr","vers":"0.8.0","deps":[{"name":"pretty_assertions","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d47e886f7cebbd34d1b3325c26b6389bbf177d90c40ce313529ae139fa5409d5","features":{},"yanked":false,"links":null}
