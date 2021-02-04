@@ -1,2 +1,3 @@
 {"name":"snarkvm","vers":"0.1.0","deps":[],"cksum":"d8e495182f0d111f833f713ef42acf79a3df8b67b4d252abc7903f1d2f98fecb","features":{},"yanked":false,"links":null}
 {"name":"snarkvm","vers":"0.0.2","deps":[{"name":"rusty-hook","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"65e45d9274070597462aaf0ead8d4ad5405858162c60e6b09e5da1c21fbe1129","features":{},"yanked":false,"links":null}
+{"name":"snarkvm","vers":"0.0.3","deps":[{"name":"rusty-hook","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"eeb757f13590f18627722f039563822b5ce07b19d3e658b592857d04e8a38855","features":{},"yanked":false,"links":null}
