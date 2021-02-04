@@ -1,0 +1,1 @@
+{"name":"linux_once","vers":"0.1.0","deps":[{"name":"linux-futex","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"linux\")","kind":"normal"}],"cksum":"be27691bebc1a5dc224c4b1c3c91d97c919d8e1519ca57d01ff15183ec883109","features":{"bench":[]},"yanked":false,"links":null}
