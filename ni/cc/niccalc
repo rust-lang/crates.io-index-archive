@@ -1,1 +1,2 @@
 {"name":"niccalc","vers":"0.9.0","deps":[{"name":"fltk","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a340cde819822706c3a0183b090f7a570bb5f1868ab6406510388e3a1e9b6caa","features":{},"yanked":false,"links":null}
+{"name":"niccalc","vers":"0.9.1","deps":[{"name":"fltk","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0228e1b754c76a380bb1cc5111a050e56a76669837b038da6a67aa826d79a0a","features":{},"yanked":false,"links":null}
