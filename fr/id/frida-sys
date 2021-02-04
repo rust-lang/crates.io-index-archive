@@ -1,0 +1,1 @@
+{"name":"frida-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f033464c54ad09fa2e7b686d4cf660a88373b399f11593c9bf54b83cc891b188","features":{},"yanked":false,"links":null}
