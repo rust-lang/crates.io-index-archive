@@ -1,2 +1,3 @@
 {"name":"match-eq","vers":"0.1.0-rc1","deps":[],"cksum":"64e6408471e5f9361a27f74e3c060d067b26f46c9aea00a8eb22b0e34ea96731","features":{"core":[],"default":["core"]},"yanked":false,"links":null}
 {"name":"match-eq","vers":"0.1.0-rc2","deps":[],"cksum":"26b5f89243c93a51f756aec9f0813568fa2abcfc6cc445591a2d162d7d16c274","features":{"core":[],"default":["core"]},"yanked":false,"links":null}
+{"name":"match-eq","vers":"0.1.0-rc3","deps":[],"cksum":"d1924aba3359fcc5df8844ee1677f1ac126c60cb21312eb322c707b7a4a042a6","features":{"core":[],"default":["core"]},"yanked":false,"links":null}
