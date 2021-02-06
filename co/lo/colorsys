@@ -12,3 +12,4 @@
 {"name":"colorsys","vers":"0.6.0","deps":[],"cksum":"525a63f1f8a5b83cf626405c95646cd5024ed639a946063311a12ea9a2efb7b6","features":{},"yanked":false,"links":null}
 {"name":"colorsys","vers":"0.6.1","deps":[],"cksum":"b70d4ea5f0044edc59c02088f4be1b5ef0a6a9073f4d4743960350a2c9746313","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"colorsys","vers":"0.6.2","deps":[],"cksum":"1dd1479ebe59961a2b4e588a89ce038d51da6d490086d6da034de96ad9a3d11a","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"colorsys","vers":"0.6.3","deps":[],"cksum":"f002e5b764d885ca647fc2ae36abfec4263d900470dc25c3320ca911b1b83e75","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
