@@ -32,3 +32,4 @@
 {"name":"lambda_calculus","vers":"2.1.0","deps":[],"cksum":"d4c4ebe58416f048c898550abaa31876e2643a31009224bfc93cbff20146651c","features":{"default":["encoding"],"backslash_lambda":[],"encoding":[]},"yanked":false}
 {"name":"lambda_calculus","vers":"2.2.0","deps":[],"cksum":"d98b854a999a4de4b925b9d2548efaec66afd4e4ed3aa4f8644f19c738d9e7c0","features":{"backslash_lambda":[],"encoding":[],"default":["encoding"]},"yanked":false}
 {"name":"lambda_calculus","vers":"3.0.0","deps":[],"cksum":"eb0ef92721be09addc1d147a8bf864bbfc8725046c6b8af1f31ea423f7f3cf6b","features":{"encoding":[],"default":["encoding"],"backslash_lambda":[]},"yanked":false,"links":null}
+{"name":"lambda_calculus","vers":"3.0.1","deps":[],"cksum":"1f9b8d0bcdcb0132a8b4773581e3c53f3b2c8bb4981c75bf2ea9a1878ce61ab8","features":{"encoding":[],"backslash_lambda":[],"default":["encoding"]},"yanked":false,"links":null}
