@@ -1,0 +1,1 @@
+{"name":"fixed-typed-arena","vers":"0.1.0","deps":[{"name":"typenum","req":"^1.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38bdd93096b2d229acecc8014308e0e225f9137f26a91245fd44b601eb419743","features":{"dropck_eyepatch":[],"unstable":["dropck_eyepatch"]},"yanked":false,"links":null}
