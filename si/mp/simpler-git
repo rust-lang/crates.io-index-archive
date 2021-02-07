@@ -1,0 +1,1 @@
+{"name":"simpler-git","vers":"0.1.0","deps":[{"name":"git2","req":"^0.13.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b24ba16f3308fd46f679ee486d96c6cdf80d0f12986ceceb3635f98a30ca90d","features":{},"yanked":false,"links":null}
