@@ -1,0 +1,1 @@
+{"name":"csharp_binder","vers":"0.1.0","deps":[{"name":"syn","req":"^1.0.60","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66ae775d81fd480d6754b5e0a1c3c6c12aecf9c4ae8e84e3ccb0f045c7f60595","features":{},"yanked":false,"links":null}
