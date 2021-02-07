@@ -2,3 +2,4 @@
 {"name":"match-eq","vers":"0.1.0-rc2","deps":[],"cksum":"26b5f89243c93a51f756aec9f0813568fa2abcfc6cc445591a2d162d7d16c274","features":{"core":[],"default":["core"]},"yanked":false,"links":null}
 {"name":"match-eq","vers":"0.1.0-rc3","deps":[],"cksum":"d1924aba3359fcc5df8844ee1677f1ac126c60cb21312eb322c707b7a4a042a6","features":{"core":[],"default":["core"]},"yanked":false,"links":null}
 {"name":"match-eq","vers":"0.1.0","deps":[],"cksum":"f10d54e2e8688a0bfbdb8a1c8b2f5cd92f77850fbc9e41409b801c334bc7ddf3","features":{"core":[],"default":["core"]},"yanked":false,"links":null}
+{"name":"match-eq","vers":"0.1.1","deps":[],"cksum":"5d42aa18035c8148da6477decaaf95841374c30dae461bfa7a85b33d0e075a94","features":{"core":[],"default":["core"]},"yanked":false,"links":null}
