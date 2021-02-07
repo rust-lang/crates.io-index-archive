@@ -4,3 +4,4 @@
 {"name":"obfstr","vers":"0.2.1","deps":[],"cksum":"f6b9b3ed2952aa2521a3a948ab24b4a59a521e1402fbde36fd2e50f1eb11502b","features":{"unsafe_static_str":[]},"yanked":false,"links":null}
 {"name":"obfstr","vers":"0.2.2","deps":[],"cksum":"8c2c2aaf21326b3d49057dd4ad4063a7d6c753881a623293b5d6f89abcf9f149","features":{"unsafe_static_str":[]},"yanked":false,"links":null}
 {"name":"obfstr","vers":"0.2.3","deps":[],"cksum":"f03e738125e8ba5bb6aaa8c2a56efd4884f656231843a222bb584830c28cb081","features":{"unsafe_static_str":[]},"yanked":false,"links":null}
+{"name":"obfstr","vers":"0.2.4","deps":[],"cksum":"b7320188a3c9fc20ce23f6458c53011b2fb2ff2a21cbbdbcc1d5d065f841d327","features":{"unsafe_static_str":[]},"yanked":false,"links":null}
