@@ -1,0 +1,1 @@
+{"name":"stepflow-base","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63646892ac2b8ba96f7f804072aeaef447f57ed62ffba16ddf1e643f29d3e082","features":{"test":[]},"yanked":false,"links":null}
