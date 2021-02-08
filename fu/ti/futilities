@@ -1,1 +1,2 @@
 {"name":"futilities","vers":"0.1.1","deps":[{"name":"quick-xml","req":"^0.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e6cc0251811ed6a6173a7783e55d5efeda32affaaf697b3cccd70646d836906","features":{},"yanked":false,"links":null}
+{"name":"futilities","vers":"0.1.2","deps":[{"name":"quick-xml","req":"^0.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d791c6c5d79a1e68beb3921b17cbfdeb73a573b9cb8e1c2e8dbd50f023f6bbb","features":{},"yanked":false,"links":null}
