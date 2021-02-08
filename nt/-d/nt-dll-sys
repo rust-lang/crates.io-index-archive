@@ -1,0 +1,1 @@
+{"name":"nt-dll-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.57.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2d7c34eeab8a87af4a51250afca3115179252dea03c1a05bbddc327dcb34d891","features":{},"yanked":false,"links":null}
