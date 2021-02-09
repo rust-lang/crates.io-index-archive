@@ -1,1 +1,2 @@
 {"name":"ruly","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab7aaa3306539090c9ad1e45e2b2b275a49712bfe89c4606bc74eb2ab0199688","features":{},"yanked":false,"links":null}
+{"name":"ruly","vers":"0.1.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1eef2d7e50ee28e71a8aee06c5d726de9f48977d65e4a4c41c510eeba652e1e0","features":{},"yanked":false,"links":null}
