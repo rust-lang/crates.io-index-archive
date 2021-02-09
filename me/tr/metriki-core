@@ -1,0 +1,1 @@
+{"name":"metriki-core","vers":"0.0.1","deps":[{"name":"crossbeam","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7fbdc951ddcb8af7a80432ad11d2034405fcebb776aef65e93910b7f84e99fc0","features":{},"yanked":false,"links":null}
