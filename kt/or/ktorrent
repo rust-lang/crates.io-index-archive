@@ -1,1 +1,2 @@
 {"name":"ktorrent","vers":"0.1.0","deps":[{"name":"select","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5b7533b4501b8f83b6739644de5235797e6ecdf6195ee128cc9f31880ffcacc","features":{},"yanked":false,"links":null}
+{"name":"ktorrent","vers":"0.1.1","deps":[{"name":"select","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e332d0990424e4e5e099f16117cd8a6f68c7a91cc1faea4f5b616d8a2c1a2e2f","features":{},"yanked":false,"links":null}
