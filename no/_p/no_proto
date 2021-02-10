@@ -35,3 +35,4 @@
 {"name":"no_proto","vers":"0.9.2","deps":[],"cksum":"9ec327b9da34ee29bdca9b99ebbdfeab374248efd919ca42feb53d6410520df1","features":{"np_rpc":[],"default":["np_rpc"]},"yanked":false,"links":null}
 {"name":"no_proto","vers":"0.9.3","deps":[],"cksum":"a692c647573dbb1601394464a0832c6566cb0e549b9fd9364ec36d8b29c5792f","features":{"np_rpc":[],"default":["np_rpc"]},"yanked":false,"links":null}
 {"name":"no_proto","vers":"0.9.4","deps":[],"cksum":"bf316176f49a87f7d3a255e41b2f836fc738d0bb0a8d96c649daf31bae1747a7","features":{"np_rpc":[],"default":["np_rpc"]},"yanked":false,"links":null}
+{"name":"no_proto","vers":"0.9.5","deps":[],"cksum":"71105c79d4270c19fd494b7adcc7f9b478f10009fc09bc44713f949dd14083b8","features":{"default":["np_rpc"],"np_rpc":[]},"yanked":false,"links":null}
