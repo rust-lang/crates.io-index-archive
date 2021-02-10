@@ -1,2 +1,2 @@
 {"name":"unicode-prettytable","vers":"0.2.0","deps":[],"cksum":"38dcdd02cfc7a281dd5c24fd13c29f38c9b36a27dc45cfffed0267309e3a3a3f","features":{},"yanked":false,"links":null}
-{"name":"unicode-prettytable","vers":"1.0.0","deps":[{"name":"derive_builder","req":"~0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"653c68a37d65fedebae4477d639fd73372043106cb5e980394b36337a7ef44d8","features":{},"yanked":false,"links":null}
+{"name":"unicode-prettytable","vers":"1.0.0","deps":[{"name":"derive_builder","req":"~0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"653c68a37d65fedebae4477d639fd73372043106cb5e980394b36337a7ef44d8","features":{},"yanked":true,"links":null}
