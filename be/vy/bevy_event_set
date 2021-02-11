@@ -1,1 +1,2 @@
 {"name":"bevy_event_set","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3637409faad350a35febb151675057a4154073c1e938580ef6d558b6a33239ee","features":{},"yanked":false,"links":null}
+{"name":"bevy_event_set","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8813e0f7fc2d4ac832d2a31587ff26ca49f13589a22a0ab0f16c9fee18e6bc81","features":{},"yanked":false,"links":null}
