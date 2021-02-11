@@ -1,1 +1,2 @@
 {"name":"flandres","vers":"0.1.0","deps":[{"name":"fltk","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbb82bd6d9f7ae9cef0f1233a6420268b23515ab1869058ddc2a33201201592d","features":{},"yanked":false,"links":null}
+{"name":"flandres","vers":"0.2.0","deps":[{"name":"fltk","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40197f9c6eeffc4fcfb05198aad2364b60d7e07d9a033af3ff6a9072a8a36ba4","features":{},"yanked":false,"links":null}
