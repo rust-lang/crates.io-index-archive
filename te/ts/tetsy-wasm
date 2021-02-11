@@ -1,0 +1,1 @@
+{"name":"tetsy-wasm","vers":"0.42.1","deps":[{"name":"time","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d4c2a92137509cf12218c5a985ebf1f3e79be88d8b09a382b1eb3faf20c07cd1","features":{"simd":[],"default":["std"],"multi_value":[],"atomics":[],"std":[],"sign_ext":[],"bulk":[]},"yanked":false,"links":null}
