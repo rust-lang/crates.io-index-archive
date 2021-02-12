@@ -1,1 +1,2 @@
 {"name":"accessibility-sys","vers":"0.1.0","deps":[],"cksum":"1288dfc207c62fe3482d87542790224d2467b201562185bbb334a869c41c8b47","features":{},"yanked":false,"links":null}
+{"name":"accessibility-sys","vers":"0.1.1","deps":[{"name":"core-foundation-sys","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"587680b3169f842937e403191f7cf5709447c5ab9781c9497a207e2fa730fb08","features":{},"yanked":false,"links":null}
