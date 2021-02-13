@@ -1,0 +1,1 @@
+{"name":"pack-release","vers":"0.16.0","deps":[{"name":"zip","req":"^0.5","features":["deflate"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d3796e834722447df76942e162aa6d4231767781099e4b8fbfc8f10518d1ace3","features":{},"yanked":false,"links":null}
