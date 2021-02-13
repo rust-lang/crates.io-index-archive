@@ -1,1 +1,2 @@
 {"name":"jarm_rs","vers":"0.1.0","deps":[{"name":"error-chain","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1944b7bfa11dab43b917bcd394f7434225ef2078215d9f1f05cdcfb811d52f72","features":{},"yanked":false,"links":null}
+{"name":"jarm_rs","vers":"0.1.1","deps":[{"name":"error-chain","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2fcaec94a45072c243624fb3de2411f8b89cfdb7aa109782407fe91a3a378271","features":{},"yanked":false,"links":null}
