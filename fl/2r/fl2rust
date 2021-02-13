@@ -22,3 +22,4 @@
 {"name":"fl2rust","vers":"0.2.8","deps":[],"cksum":"531bbf291f834fec9ba9bb413510bf220c758d3be798ef83b743f5875c6753ea","features":{},"yanked":false,"links":null}
 {"name":"fl2rust","vers":"0.2.9","deps":[],"cksum":"f72673ba06e75f07675c547f53ed82c8da3a33e7bc0325d8b417edead20a2fee","features":{},"yanked":false,"links":null}
 {"name":"fl2rust","vers":"0.3.0","deps":[],"cksum":"713b1d59e6f0f8435f13391c7e02087b21d433290d8a46ac9ad07b50b48a72e2","features":{},"yanked":false,"links":null}
+{"name":"fl2rust","vers":"0.3.1","deps":[{"name":"fltk","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2b8a746e59bf82f7ac03d94eb10d0dd935ba164c14cccd0e2afd481d72e59c5b","features":{},"yanked":false,"links":null}
