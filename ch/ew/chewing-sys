@@ -1,0 +1,1 @@
+{"name":"chewing-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.57.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"111a424b7c4777a429c1fcc7703d8017a4c9fdaa0f12c4f17119e90dad01b595","features":{},"yanked":false,"links":"chewing"}
