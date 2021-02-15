@@ -1,0 +1,1 @@
+{"name":"tinkoff-invest-types","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c1d38797afd13d622ae0d607e3876d8076be08eabb6ad42a374b2a1f7d3f901","features":{},"yanked":false,"links":null}
