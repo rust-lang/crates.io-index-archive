@@ -1,1 +1,2 @@
 {"name":"cbuffer","vers":"0.1.0","deps":[],"cksum":"72a34b27327cd116019bdf8406734716ad176a8b0244c662761b1ddcc078e91e","features":{},"yanked":false,"links":null}
+{"name":"cbuffer","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"uninit","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7179fbc3483994c012c51d040d651f81e062b1babc14a7d3bfd88fe88033f727","features":{},"yanked":false,"links":null}
