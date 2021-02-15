@@ -1,1 +1,2 @@
 {"name":"coin_cbc","vers":"0.1.0","deps":[{"name":"coin_cbc_sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b4356073281cff831d69307400046b24f7761612d7f45041d50b1a0b6b2f17e","features":{},"yanked":false,"links":null}
+{"name":"coin_cbc","vers":"0.1.1","deps":[{"name":"coin_cbc_sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f73049cb8162043a981052e67d7b0d6f80ab2bb9efa8dd383f7b7398952e85aa","features":{},"yanked":false,"links":null}
