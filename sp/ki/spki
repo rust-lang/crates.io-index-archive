@@ -1,1 +1,2 @@
 {"name":"spki","vers":"0.0.0","deps":[],"cksum":"cfed12ddd60e86e44263e2cdd95939672ca1bff0d8c659aa5d835cacffd89025","features":{},"yanked":false,"links":null}
+{"name":"spki","vers":"0.1.0","deps":[{"name":"der","req":"^0.2","features":["oid"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc22de9c8a841f9508de9f6849b018d414199e4682cc094e5677286c81de80f8","features":{"std":["der/std"]},"yanked":false,"links":null}
