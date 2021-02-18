@@ -1,1 +1,2 @@
 {"name":"mobugsnag","vers":"0.1.0","deps":[{"name":"ureq","req":"^2.0.1","features":["json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f2041c4d38dc6421bc445465880ad9ed119e0a2a6a409c128253598fef91e65","features":{},"yanked":false,"links":null}
+{"name":"mobugsnag","vers":"0.1.1","deps":[{"name":"ureq","req":"^2.0.1","features":["json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82de7b4c4ea77f5dabc953b9ddfa8c1d937c1699f4d17034e5c4cce98163c86d","features":{},"yanked":false,"links":null}
