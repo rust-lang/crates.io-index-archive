@@ -1,0 +1,1 @@
+{"name":"tetsy-impl-rlp","vers":"0.3.0","deps":[{"name":"tetsy-rlp","req":"^0.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"596cbe0402db33f10b5144fa22f5c7a18621722f447cbfeb623daaedc9cef644","features":{"default":["std"],"std":["tetsy-rlp/std"]},"yanked":false,"links":null}
