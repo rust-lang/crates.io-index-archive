@@ -1,1 +1,2 @@
 {"name":"pilka_dyn","vers":"0.1.0","deps":[{"name":"pilka_incremental","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"438aa12f29d61be66e363f1cbdaccd21ff6208bb4ffe05fed041fb1ffe717b69","features":{},"yanked":false,"links":null}
+{"name":"pilka_dyn","vers":"0.2.3","deps":[{"name":"pilka_incremental","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c9186ca858ef682843735759b42eb62593c22c93ab59fc3417ad21594074eecc","features":{},"yanked":false,"links":null}
