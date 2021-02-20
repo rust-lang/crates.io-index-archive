@@ -1,0 +1,1 @@
+{"name":"gnunet-rs","vers":"0.0.0","deps":[{"name":"gnunet-sys","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3945edd32a6d5301e8e247456e135eca4e34638ec64251a9ae6e4c0d82f9b831","features":{"peerstore":["gnunet-sys/peerstore"],"fs":["gnunet-sys/fs"]},"yanked":false,"links":null}
