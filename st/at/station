@@ -1,0 +1,1 @@
+{"name":"station","vers":"0.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"afaa0831bb9cf0305bbb3aed06a81947e7f6fc8e852d313326259c68734456c5","features":{},"yanked":false,"links":null}
