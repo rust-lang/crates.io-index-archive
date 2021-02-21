@@ -1,1 +1,2 @@
 {"name":"common-crypto","vers":"0.1.0","deps":[],"cksum":"9588b2dccb9fdddfb134f04dfaac61b2866c64dec2183bef2c00e3e593f7f988","features":{},"yanked":false,"links":null}
+{"name":"common-crypto","vers":"0.2.0","deps":[{"name":"hex","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2ff3d9acac61df14b1afb2cbe61d7587c4e1c711e4b0aad1ffc70ca4d54072ec","features":{},"yanked":false,"links":null}
