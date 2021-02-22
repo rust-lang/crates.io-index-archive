@@ -1,1 +1,2 @@
 {"name":"hentai","vers":"0.1.0","deps":[],"cksum":"efc157439d1a0a25ae9228c20c80226c50607b53b65b24758f0476bb719b81f7","features":{},"yanked":false,"links":null}
+{"name":"hentai","vers":"0.1.1","deps":[{"name":"reqwest","req":"^0.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rustfmt","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"183c02ad30c588eff0681fe3200a57baa7855c1ba3e37d3be4cf5ab4c3b09d06","features":{},"yanked":false,"links":null}
