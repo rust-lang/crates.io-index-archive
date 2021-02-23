@@ -1,0 +1,1 @@
+{"name":"win-task-dialog","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3","features":["impl-default","winnt","commoncontrols","commctrl","libloaderapi"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"8668e0c7c20f38876ad7b0904de3e4ceebfffd1fc474f69291884048bcd4723d","features":{},"yanked":false,"links":null}
