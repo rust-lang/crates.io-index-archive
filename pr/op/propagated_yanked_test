@@ -1,0 +1,1 @@
+{"name":"propagated_yanked_test","vers":"0.1.0","deps":[{"name":"protobuf","req":"~2.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a398a603d483474fbf81dd65f176a41fd8fb7ad745ad8cb6b5819bc5068482c","features":{},"yanked":false,"links":null}
