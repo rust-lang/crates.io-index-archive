@@ -3,3 +3,4 @@
 {"name":"tfc","vers":"0.2.0","deps":[],"cksum":"8b6a7815b02dc6016b4f1d5dfe37fed674789ed53d2d7fa8ec2c220e916fce4e","features":{},"yanked":false,"links":null}
 {"name":"tfc","vers":"0.2.1","deps":[],"cksum":"ecedfd5e7487b7cdfb54c150c3b4b9e32f9a7af31b4c7c43fca8b187798aa0fa","features":{},"yanked":false,"links":null}
 {"name":"tfc","vers":"0.3.0","deps":[],"cksum":"d3f7d44c7331233c7dfee245c12efeff7af25e1fd79d9b70110224d42cc8c8d5","features":{},"yanked":false,"links":null}
+{"name":"tfc","vers":"0.4.0","deps":[{"name":"core-graphics","req":"^0.22","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"macos\")","kind":"normal"},{"name":"unicode-segmentation","req":"^1.7","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"macos\")","kind":"normal"}],"cksum":"4a50cd95227837707c26a42edf47f726dcf849b333d474ddb738d764279a9910","features":{},"yanked":false,"links":null}
