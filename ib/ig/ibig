@@ -1,2 +1,3 @@
 {"name":"ibig","vers":"0.0.0","deps":[],"cksum":"b95d0c2b6c0a487502bed35ba0646e4d6f15d112fb60953a95de1096792989d9","features":{},"yanked":false,"links":null}
 {"name":"ibig","vers":"0.0.1","deps":[],"cksum":"a6988835c1c2d9305d3e50377ef9bd329f0cf954f9968c0e5d7fa8db1416e74a","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"ibig","vers":"0.1.0","deps":[{"name":"ascii","req":"^1.0.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8a1d5291c3683f3bb6dd67aa4af6dfa0d3feee57e6694c15130f46c102d875c6","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
