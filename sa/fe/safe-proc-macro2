@@ -1,0 +1,1 @@
+{"name":"safe-proc-macro2","vers":"1.0.24","deps":[{"name":"unicode-xid","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c9ca0693867c373d726819a6655d3dc4e88028905f1b1e9b9d399a57ea1d83e","features":{"span-locations":[],"nightly":[],"proc-macro":[],"default":["proc-macro"]},"yanked":false,"links":null}
