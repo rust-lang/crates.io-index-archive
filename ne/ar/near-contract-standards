@@ -1,0 +1,1 @@
+{"name":"near-contract-standards","vers":"0.1.0-pre.1","deps":[{"name":"near-sdk","req":"=3.0.0-pre.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af1768f00ecf0a076dd8b5979050bf1a510b0bbffbf801201d30032d19efaf39","features":{},"yanked":false,"links":null}
