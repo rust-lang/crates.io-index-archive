@@ -1,1 +1,2 @@
 {"name":"smf","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc3aa7cb306b4b486f43d11907ac509c1cef4afe868a3950180a12662f50ceb2","features":{},"yanked":false,"links":null}
+{"name":"smf","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82d3e8846949a0eab4b74c2b1f83e2eb50232beb5d64382e2ecfa889f8c6daca","features":{},"yanked":false,"links":null}
