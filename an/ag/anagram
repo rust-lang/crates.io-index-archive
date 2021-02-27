@@ -1,1 +1,2 @@
 {"name":"anagram","vers":"0.0.0","deps":[],"cksum":"ea0cc66d92ea9c83a400f4d1a8f82839ab936aa32fd17a0d9f0df5172f997eec","features":{},"yanked":false,"links":null}
+{"name":"anagram","vers":"0.1.0","deps":[{"name":"counter","req":"^0.5.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e660143f9e1592da4182e678ec95aa6b114616cc7c633e158589529fc713c24","features":{},"yanked":false,"links":null}
