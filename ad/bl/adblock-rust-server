@@ -1,0 +1,1 @@
+{"name":"adblock-rust-server","vers":"0.1.0","deps":[{"name":"adblock","req":"^0.3.6","features":["embedded-domain-resolver"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3de0afd3ce5bdfa4402c3fae66d5372fb0f746f040f654a110f91f077d4215e5","features":{},"yanked":false,"links":null}
