@@ -9,4 +9,4 @@
 {"name":"nagiosplugin","vers":"0.1.8","deps":[],"cksum":"f0f399e17629e0e3a826f9228383ec1fbdf97d28e936612e51b3d1ea6c342cce","features":{},"yanked":false,"links":null}
 {"name":"nagiosplugin","vers":"0.1.9","deps":[],"cksum":"fd8640cae729d069f09926cc443868a5387939db3ada5545643d0da2a8bbff37","features":{},"yanked":false,"links":null}
 {"name":"nagiosplugin","vers":"0.2.0","deps":[],"cksum":"69602c7249cb0e72124875ade30520b3fd39bc49b3391523c44bf5f56a58b7a9","features":{},"yanked":true,"links":null}
-{"name":"nagiosplugin","vers":"0.2.1","deps":[],"cksum":"4ce85c75441a8554d320aa88173d003a84db6b5260b3b6a9b143e4e9dbe2fb6f","features":{},"yanked":false,"links":null}
+{"name":"nagiosplugin","vers":"0.2.1","deps":[],"cksum":"4ce85c75441a8554d320aa88173d003a84db6b5260b3b6a9b143e4e9dbe2fb6f","features":{},"yanked":true,"links":null}
