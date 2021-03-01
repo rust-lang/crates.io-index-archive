@@ -10,3 +10,4 @@
 {"name":"nagiosplugin","vers":"0.1.9","deps":[],"cksum":"fd8640cae729d069f09926cc443868a5387939db3ada5545643d0da2a8bbff37","features":{},"yanked":false,"links":null}
 {"name":"nagiosplugin","vers":"0.2.0","deps":[],"cksum":"69602c7249cb0e72124875ade30520b3fd39bc49b3391523c44bf5f56a58b7a9","features":{},"yanked":true,"links":null}
 {"name":"nagiosplugin","vers":"0.2.1","deps":[],"cksum":"4ce85c75441a8554d320aa88173d003a84db6b5260b3b6a9b143e4e9dbe2fb6f","features":{},"yanked":true,"links":null}
+{"name":"nagiosplugin","vers":"0.2.2","deps":[],"cksum":"dec9aa4a84b2b67636b2391b2c2a1145648aaaaceee7558bfc80c0c1921114e3","features":{},"yanked":false,"links":null}
