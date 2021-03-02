@@ -1,0 +1,1 @@
+{"name":"killswitch","vers":"0.1.1","deps":[{"name":"tokio","req":"^1","features":["macros","rt-multi-thread","time"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d7945d2f47383f1f5fb97011a8551bd57ef3a41609a03d5aa5751b1076f4b693","features":{},"yanked":false,"links":null}
