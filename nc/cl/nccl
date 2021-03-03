@@ -8,3 +8,4 @@
 {"name":"nccl","vers":"0.4.3","deps":[],"cksum":"6bb75225474e38e2aa50ee063b3f23a858f5aefcca53169d110695224a29a0b2","features":{},"yanked":false}
 {"name":"nccl","vers":"0.5.0","deps":[],"cksum":"46f27a9e868de01bb9e180646224d109a47e50c1ddccb46dd47bc29113b74383","features":{},"yanked":false,"links":null}
 {"name":"nccl","vers":"0.6.0","deps":[],"cksum":"5ed2a7c5b61fd278e731a00bd25ef8a7a084c391ac06ac69647cef1df01c7d77","features":{},"yanked":false,"links":null}
+{"name":"nccl","vers":"1.0.0","deps":[],"cksum":"cadf40e71f7534caeea1655acfa61ae5245a44ba00231d2fbf81f47c3f27dec3","features":{},"yanked":false,"links":null}
