@@ -1,0 +1,1 @@
+{"name":"rxscreen","vers":"0.1.0","deps":[{"name":"image","req":"^0.23","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"134a13016194d772406fd82ebcbb7389831b0747a891d945a44ae7cec8aa55ef","features":{"save":["image"]},"yanked":false,"links":null}
