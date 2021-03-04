@@ -1,0 +1,1 @@
+{"name":"atomic-polyfill","vers":"0.1.0","deps":[{"name":"cortex-m","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"449441162799c817a9d73846d4b73e08820f3afc57d1cd8b9bfe7ea36ef6f364","features":{},"yanked":false,"links":null}
