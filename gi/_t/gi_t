@@ -1,1 +1,2 @@
 {"name":"gi_t","vers":"0.0.1","deps":[],"cksum":"5e8d1746314dfdd7586bad254dd7ebb90f726956d1e358cade456406d90da3f8","features":{},"yanked":false,"links":null}
+{"name":"gi_t","vers":"0.0.2","deps":[{"name":"termcolor","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"854cfb59a4484d57297f0a3f991ae71cb984ca5a67ac0cab072ba1b20ab08f38","features":{},"yanked":false,"links":null}
