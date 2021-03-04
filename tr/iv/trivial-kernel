@@ -1,2 +1,3 @@
 {"name":"trivial-kernel","vers":"0.1.0","deps":[],"cksum":"dc0b71f1f9f0089b321ee6215775b9b8689ac801b1573797a5ba6292090aeada","features":{},"yanked":false,"links":null}
 {"name":"trivial-kernel","vers":"0.2.0","deps":[{"name":"mmb-types","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a598ff8bb954ad282673b0c6e690b68d84530c66049852fd4657755d7e882dba","features":{},"yanked":false,"links":null}
+{"name":"trivial-kernel","vers":"0.3.0","deps":[{"name":"mmb-types","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6de138022ace794d06ba0a5bf2aad339b6e283c05b304ed44deddf197c638638","features":{},"yanked":false,"links":null}
