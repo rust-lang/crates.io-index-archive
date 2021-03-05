@@ -15,3 +15,4 @@
 {"name":"infer","vers":"0.3.2","deps":[],"cksum":"cf59e35fc908934bb8dea859433fc2b837ac5268d846077c8084ed8a57a31d17","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"links":null}
 {"name":"infer","vers":"0.3.3","deps":[],"cksum":"a601a14a8aa6daf623ebcf5bffba54daa7f908997bf1afb6205faaef44a46207","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"links":null}
 {"name":"infer","vers":"0.3.4","deps":[],"cksum":"8906512588cd815b8f759fd0ac11de2a84c985c0f792f70df611e9325c270c1f","features":{"default":["std"],"std":["alloc"],"alloc":[]},"yanked":false,"links":null}
+{"name":"infer","vers":"0.3.5","deps":[],"cksum":"34ad0755c42f65a1374dcd0aae07e03dfefc911eceb3f409d2b4a888189447e6","features":{"alloc":[],"std":["alloc"],"default":["std"]},"yanked":false,"links":null}
