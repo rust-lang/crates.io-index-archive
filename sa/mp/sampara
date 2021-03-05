@@ -1,0 +1,1 @@
+{"name":"sampara","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":["libm"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91dbf2a237e57930835d782afdfa9997cd3190333a286ddb1852c122fcccb8ae","features":{"biquad":[],"buffer":[],"rms":["buffer"],"interpolate":[]},"yanked":false,"links":null}
