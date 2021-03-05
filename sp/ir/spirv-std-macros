@@ -1,1 +1,2 @@
 {"name":"spirv-std-macros","vers":"0.1.0","deps":[],"cksum":"2594cab6f91ebbc4c41fc14bfb8ea00813cb50e92a62f9a6beebc21102f3c1e2","features":{},"yanked":false,"links":null}
+{"name":"spirv-std-macros","vers":"0.3.0","deps":[{"name":"quote","req":"^1.0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0.58","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7ecfdc5a8fc98f8c6071b5b30ce13c896c9268abf04cc53e68cae1ebaf5dc60","features":{},"yanked":false,"links":null}
