@@ -5,3 +5,4 @@
 {"name":"ffmpeg-wasi","vers":"0.1.4","deps":[],"cksum":"b7982100a2aa4bc6bbe99b9a257a50b73ddff03004d631cda12e8058d8b401f1","features":{},"yanked":false,"links":null}
 {"name":"ffmpeg-wasi","vers":"0.1.5","deps":[],"cksum":"1c3052164a8d3e6b8e8e43cdb633cb757c17997b2aad962b332af72222f1cfdd","features":{},"yanked":false,"links":null}
 {"name":"ffmpeg-wasi","vers":"0.1.6","deps":[],"cksum":"c73799847e775509979a4712e7a8d886bf5a1084c836fdc474ec3b940410b89d","features":{},"yanked":false,"links":null}
+{"name":"ffmpeg-wasi","vers":"0.1.7","deps":[],"cksum":"519bcd528b766ddae4ed8ea57b35a73f1d617ab7094d47acd13c70565ce1b123","features":{},"yanked":false,"links":null}
