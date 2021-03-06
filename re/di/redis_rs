@@ -1,1 +1,2 @@
 {"name":"redis_rs","vers":"0.1.0","deps":[{"name":"custom_derive","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"enum_derive","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7302cd8ddb83ac4caebe99994ee26b7a956ed4eefb2143c7ff799e83f50aa3af","features":{},"yanked":false,"links":null}
+{"name":"redis_rs","vers":"0.2.0","deps":[],"cksum":"b9c9fc24ec1f1055a1d8aee8f4f49f323949e63274d9ca0f36c118fce7f590c8","features":{},"yanked":false,"links":null}
