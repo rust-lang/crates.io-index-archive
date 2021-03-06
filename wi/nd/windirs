@@ -1,0 +1,1 @@
+{"name":"windirs","vers":"0.1.0","deps":[{"name":"winapi","req":"^0.3","features":["knownfolders","objbase","shlobj","winbase","winerror"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23ffd418ee7013cc2817a2a42cd8f353cf4e26c1e92e44bebdb693175d1faf16","features":{},"yanked":false,"links":null}
