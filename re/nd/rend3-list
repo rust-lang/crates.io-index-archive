@@ -1,1 +1,2 @@
 {"name":"rend3-list","vers":"0.0.1","deps":[{"name":"rend3","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29f21e21523fbedb76709b25eace2d2c930738827185130b47040cf00137d00c","features":{},"yanked":false,"links":null}
+{"name":"rend3-list","vers":"0.0.2","deps":[{"name":"rend3","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"802dcbed3087829ca63b9543b2ae2bce8acb9519cbb959342f0c77c30d32a0c2","features":{},"yanked":false,"links":null}
