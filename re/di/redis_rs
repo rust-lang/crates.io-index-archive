@@ -5,3 +5,4 @@
 {"name":"redis_rs","vers":"0.4.1","deps":[],"cksum":"b57fc468dc1b5ad9cfb10c5d30003cb053770502cba7b50c3c38bfd1ecb4e7dc","features":{},"yanked":false,"links":null}
 {"name":"redis_rs","vers":"0.5.0","deps":[],"cksum":"158febc2db23f02f2b8af3bc7fba91a1b90ca6607b34050622ea559de5a7e89f","features":{},"yanked":false,"links":null}
 {"name":"redis_rs","vers":"0.6.0","deps":[],"cksum":"e4024444d1d1d6a2f5d831704e0dc199d4541d45d68f47db2412ab381184f5d4","features":{},"yanked":false,"links":null}
+{"name":"redis_rs","vers":"0.6.1","deps":[],"cksum":"1ea7fb3a49b4cfa07005766f9a4376f273ffd1fe3bf3b0434f727440ab3bc544","features":{},"yanked":false,"links":null}
