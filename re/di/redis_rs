@@ -3,3 +3,4 @@
 {"name":"redis_rs","vers":"0.3.0","deps":[],"cksum":"8104b21a09a0836353e5ce0d88b32ac8cf9c45cccfdbd45159899a9c29e67287","features":{},"yanked":false,"links":null}
 {"name":"redis_rs","vers":"0.4.0","deps":[],"cksum":"ee47e33fdeb7e3ba3a8fe8149786b9fc6e64e4abce20473d1ffab9cf963a1627","features":{},"yanked":false,"links":null}
 {"name":"redis_rs","vers":"0.4.1","deps":[],"cksum":"b57fc468dc1b5ad9cfb10c5d30003cb053770502cba7b50c3c38bfd1ecb4e7dc","features":{},"yanked":false,"links":null}
+{"name":"redis_rs","vers":"0.5.0","deps":[],"cksum":"158febc2db23f02f2b8af3bc7fba91a1b90ca6607b34050622ea559de5a7e89f","features":{},"yanked":false,"links":null}
