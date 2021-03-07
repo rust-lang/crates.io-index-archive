@@ -1,0 +1,1 @@
+{"name":"dbgtools","vers":"0.1.0","deps":[{"name":"dbgtools-win","req":"^0.1","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"92b96c4bce2fb86c64060e6d8bdb92aacb567f8e2ca1630b0980b6e84e4baf61","features":{},"yanked":false,"links":null}
