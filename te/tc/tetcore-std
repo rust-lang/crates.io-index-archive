@@ -1,1 +1,2 @@
 {"name":"tetcore-std","vers":"0.0.0","deps":[],"cksum":"3109d5871513072ccf393146846b059ef81ed4aac5073a1976756d97de809b4d","features":{},"yanked":false,"links":null}
+{"name":"tetcore-std","vers":"2.0.1","deps":[],"cksum":"e37fb16f522d959aff9d468d0ae2c65e65f522a542b98d34e619dcb0fdaf1a52","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
