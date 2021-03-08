@@ -1,1 +1,2 @@
 {"name":"cssifier","vers":"0.1.0","deps":[{"name":"regex","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5e22879f22bb06def5ba97e23d3487aeb5b77aae2481492c817e80cdbecbca9","features":{},"yanked":false,"links":null}
+{"name":"cssifier","vers":"0.1.1","deps":[{"name":"regex","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7cc604e897ea2ac6f306a8d298630a372967cf294cfff552f1fe73c653bb7a50","features":{},"yanked":false,"links":null}
