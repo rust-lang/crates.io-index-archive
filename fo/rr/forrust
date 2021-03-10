@@ -1,1 +1,2 @@
 {"name":"forrust","vers":"0.1.0","deps":[{"name":"plotlib","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d847987d7f1549cf186497efe68ddbcb41fc6e0c530c8809df17828759530c9","features":{},"yanked":false,"links":null}
+{"name":"forrust","vers":"0.1.1","deps":[{"name":"plotlib","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90c9fbd8c49511999400dc1da4fb19650937193a6f1489fba087cf566ff0eaeb","features":{},"yanked":false,"links":null}
