@@ -29,3 +29,4 @@
 {"name":"sj","vers":"0.18.7","deps":[],"cksum":"6d7f4f594c6a21ec6ff6602d36e22bda0525a756a37671dedaa5ac1dad2004c2","features":{"std":[]},"yanked":false,"links":null}
 {"name":"sj","vers":"0.18.8","deps":[],"cksum":"fe7c8d2db9bc95ce4bf447fbd91ede52a0ca7f717bed1f4845ae5a8c5d7abe16","features":{"std":[]},"yanked":false,"links":null}
 {"name":"sj","vers":"0.19.0","deps":[],"cksum":"087c85a1077c59b5b58591358d71da240c2eee29163e77c3013fa5dcbe16bbb3","features":{"std":[]},"yanked":false,"links":null}
+{"name":"sj","vers":"0.20.0","deps":[],"cksum":"798d8cf8783a93145ca6cf27495f2fd744c574c16edd2a7c5c11cab7bac8f333","features":{"std":[]},"yanked":false,"links":null}
