@@ -1,1 +1,2 @@
 {"name":"tetsy-hash-db","vers":"0.15.2","deps":[],"cksum":"b2d7bf45354293db03009aad5e082640ce7ecf3bf5cea93161c9e95c535b5bd9","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"tetsy-hash-db","vers":"0.15.2-alpha","deps":[],"cksum":"6547749cc61d858df11695caf212ba8c07c5e0d0b40738225e144b7b01774362","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
