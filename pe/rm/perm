@@ -4,3 +4,4 @@
 {"name":"perm","vers":"0.4.0","deps":[],"cksum":"f23fd92d83e30a34952c1acdc03425d6b522042231ebc2db2265bf1b000b4f43","features":{"std":[]},"yanked":false,"links":null}
 {"name":"perm","vers":"0.5.0","deps":[],"cksum":"2061b96c56a61d5a567389aff360587d084d60cbba0abc38ed0e3ccb092cd6cc","features":{"std":[]},"yanked":false,"links":null}
 {"name":"perm","vers":"0.6.0","deps":[],"cksum":"cea4429cbb9c2668fcfea64374c1f6191ffff2f02133b3d72cceaf69c98d05a0","features":{"std":[]},"yanked":false,"links":null}
+{"name":"perm","vers":"0.7.0","deps":[],"cksum":"4548972e10dcf3483ca25f043839159816f7517afa1cf0892f7299c78fa2238d","features":{"std":[]},"yanked":false,"links":null}
