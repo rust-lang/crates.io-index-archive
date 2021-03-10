@@ -37,3 +37,4 @@
 {"name":"no_proto","vers":"0.9.4","deps":[],"cksum":"bf316176f49a87f7d3a255e41b2f836fc738d0bb0a8d96c649daf31bae1747a7","features":{"np_rpc":[],"default":["np_rpc"]},"yanked":false,"links":null}
 {"name":"no_proto","vers":"0.9.5","deps":[],"cksum":"71105c79d4270c19fd494b7adcc7f9b478f10009fc09bc44713f949dd14083b8","features":{"default":["np_rpc"],"np_rpc":[]},"yanked":false,"links":null}
 {"name":"no_proto","vers":"0.9.51","deps":[],"cksum":"ff98a52d97983102015c2332385fb367bc711eb26051cce289f872b547d9c1f3","features":{"np_rpc":[],"default":["np_rpc"]},"yanked":false,"links":null}
+{"name":"no_proto","vers":"0.9.6","deps":[],"cksum":"6b600c6fe55e58bad9f6295d53cfa930bf6b511b234a85863346101354e015bd","features":{"default":["np_rpc"],"np_rpc":[]},"yanked":false,"links":null}
