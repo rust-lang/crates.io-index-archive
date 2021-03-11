@@ -9,3 +9,4 @@
 {"name":"multiboot","vers":"0.3.0","deps":[],"cksum":"745e351d4f128ea9e266fe2dd04a1bd7349c60441d45ec8677520bae08e25d43","features":{},"yanked":false}
 {"name":"multiboot","vers":"0.4.0","deps":[],"cksum":"09e5203c37bae1b16a6c74e887c18138aefefd5723f5a93271b134e6695cfaaf","features":{},"yanked":true,"links":null}
 {"name":"multiboot","vers":"0.6.0","deps":[{"name":"paste","req":">=1.0.0, <2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f442c65adef7bc9676eb8212598d14b7ba799b8bb2a312ed32f410e85e2f5ad","features":{},"yanked":false,"links":null}
+{"name":"multiboot","vers":"0.7.0","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ade66c06b320f119f05e339924ac6b3d22127516ce99307da712c3040875f985","features":{},"yanked":false,"links":null}
