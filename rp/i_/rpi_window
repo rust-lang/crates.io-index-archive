@@ -1,0 +1,1 @@
+{"name":"rpi_window","vers":"1.0.0","deps":[{"name":"pkg-config","req":"^0.3.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"971e9738f8639415121e13e344d3ca727f178e74a32b4a324c75d63d6be63aeb","features":{},"yanked":false,"links":null}
