@@ -1,1 +1,2 @@
 {"name":"awaitgroup","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["rt","time"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f3f0ebb403dcc3cabe2ae009dcd6c22c4bac8c2507a58aca2c1c174b3848f9ad","features":{},"yanked":false,"links":null}
+{"name":"awaitgroup","vers":"0.2.0","deps":[{"name":"tokio","req":"^1","features":["rt","time"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"96630d2fdd564a66b4dd79763e7975371ba2b4aae24c0c61144f9fef5dac18fb","features":{},"yanked":false,"links":null}
