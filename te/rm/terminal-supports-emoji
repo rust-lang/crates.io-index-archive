@@ -1,0 +1,1 @@
+{"name":"terminal-supports-emoji","vers":"0.1.0","deps":[{"name":"atty","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fc39343efc547669c196b2e3a19d9814ef90fb108d19c3cc5361d191c7e3c34","features":{},"yanked":false,"links":null}
