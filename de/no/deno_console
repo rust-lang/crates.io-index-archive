@@ -1,0 +1,1 @@
+{"name":"deno_console","vers":"0.1.0","deps":[{"name":"deno_core","req":"^0.81.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2a8fa4b6b2b3b9febb0a35e0078bfcfd85747fa22babe93f5f030bf791ed5d1","features":{},"yanked":false,"links":null}
