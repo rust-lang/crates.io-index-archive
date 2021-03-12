@@ -13,3 +13,4 @@
 {"name":"redis_rs","vers":"0.8.1","deps":[],"cksum":"451c96174098f61f33f1b11fd4dbe6ef76fa7d4113cf8d0aba71ed3c135eee4c","features":{},"yanked":false,"links":null}
 {"name":"redis_rs","vers":"0.8.2","deps":[],"cksum":"853f4f7e7b16a446c16dfdaf392fff6f6e75452e5976620cab72a44a264d08c3","features":{},"yanked":false,"links":null}
 {"name":"redis_rs","vers":"0.8.3","deps":[],"cksum":"d9ed8ea0ef89777fd5611d839527f3165beca4edef1754fb4113ffd7b59afacd","features":{},"yanked":false,"links":null}
+{"name":"redis_rs","vers":"0.8.4","deps":[],"cksum":"b3b6160f68c507bb691ae2d6a060df1360116a612802cddfb7e6d30e66333300","features":{},"yanked":false,"links":null}
