@@ -3,3 +3,4 @@
 {"name":"fructose","vers":"0.3.0","deps":[],"cksum":"fa6037bd886d010dc594b6bdde62b8cf4ace9a80522bb6b1132034947ee88a8e","features":{},"yanked":false,"links":null}
 {"name":"fructose","vers":"0.3.1","deps":[],"cksum":"14da0a0915c54c2a1c142ab79a8b01e33c47a9cb19bcc428eb255799377e3b74","features":{},"yanked":false,"links":null}
 {"name":"fructose","vers":"0.3.2","deps":[],"cksum":"22d445f6684d3a2cb22808323e3e0ea48b765a17dde83c07170f961085b496dd","features":{"default":["specifics"],"Full":["specifics","const"],"const":[],"specifics":[]},"yanked":false,"links":null}
+{"name":"fructose","vers":"0.3.3","deps":[],"cksum":"1263ca45e3edf4095525503005c5d5c8b8b3cdfbc09502fffbdc9d3eccb7ba84","features":{"specifics":[],"Full":["specifics","const"],"default":["specifics"],"const":[]},"yanked":false,"links":null}
