@@ -26,3 +26,4 @@
 {"name":"sub-strs","vers":"0.22.0","deps":[],"cksum":"7afb068d5951f8af218283a806855d29245fbe5b21b764eef571d02fa93f2758","features":{"std":[]},"yanked":false,"links":null}
 {"name":"sub-strs","vers":"0.23.0","deps":[],"cksum":"b21e87d2ac5e9d79d1f483bea22437d0b35d602d53ac48ee533581a309c5c08d","features":{"std":[]},"yanked":false,"links":null}
 {"name":"sub-strs","vers":"0.23.1","deps":[],"cksum":"cb92e72d2fcf2bf97528434112caed2901e73fe2e6d0051ab6f5fe6296e576b7","features":{"std":[]},"yanked":false,"links":null}
+{"name":"sub-strs","vers":"0.24.0","deps":[],"cksum":"78eff548104f6bdf18fc5a8eafb1538b101dbd5c4053714a39ea03ecc95e751d","features":{"std":[]},"yanked":false,"links":null}
