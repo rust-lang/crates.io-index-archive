@@ -21,4 +21,4 @@
 {"name":"ungrammar","vers":"1.10.0","deps":[],"cksum":"ce24866975a8858d3a35eba845efc6b42962c5067afd2bc1a07b9ce0108d335c","features":{},"yanked":false,"links":null}
 {"name":"ungrammar","vers":"1.11.0","deps":[],"cksum":"84c629795d377049f2a1dc5f42cf505dc5ba8b28a5df0a03f4183a24480e4a6a","features":{},"yanked":false,"links":null}
 {"name":"ungrammar","vers":"1.12.0","deps":[],"cksum":"1711991bf09d05d44bd008ca9f55a60de150e8cbb352ac8ff050fa3892bec343","features":{},"yanked":false,"links":null}
-{"name":"ungrammar","vers":"1.12.1","deps":[],"cksum":"e60bc224c274d24dc2b112b501bed6ec98e28cd39916b7020cd430d2ed0394ea","features":{},"yanked":false,"links":null}
+{"name":"ungrammar","vers":"1.12.1","deps":[],"cksum":"e60bc224c274d24dc2b112b501bed6ec98e28cd39916b7020cd430d2ed0394ea","features":{},"yanked":true,"links":null}
