@@ -1,1 +1,2 @@
 {"name":"jobsys","vers":"0.1.0","deps":[],"cksum":"9988bc9b35cd2abbace77f649c5c32db3335d3939a9c0501fddbdeb375a37fe6","features":{"job_storage_128":[],"default":["job_storage_64"],"job_storage_64":[],"debug_queue":[]},"yanked":false,"links":null}
+{"name":"jobsys","vers":"0.1.1","deps":[],"cksum":"2f4fc925a29cc380cbd1be24132ca1e674fec0d8c9879b6c307361d20a80c933","features":{"debug_queue":[],"job_storage_128":[],"job_storage_64":[],"default":["job_storage_64"]},"yanked":false,"links":null}
