@@ -1,0 +1,1 @@
+{"name":"tagged-pointer","vers":"0.1.0","deps":[{"name":"typenum","req":"^1.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6b50892cb4c477be8d7dc5a5fec41f6ae12e87ad06a15b6079a8f4cb62f806b","features":{"fallback":[]},"yanked":false,"links":null}
