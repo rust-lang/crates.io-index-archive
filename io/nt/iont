@@ -1,1 +1,2 @@
 {"name":"iont","vers":"0.1.0","deps":[{"name":"ions","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f12c5c831cd64a80d206823fa936614bb49e7169d5c3a326036f5bb9e443faf8","features":{},"yanked":false,"links":null}
+{"name":"iont","vers":"0.1.1","deps":[{"name":"ions","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90848bc15e7a425f25cb284e09ccdb989c7d5c8da39b0a06a3843332b44ca186","features":{},"yanked":false,"links":null}
