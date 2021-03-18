@@ -1,1 +1,2 @@
 {"name":"fixed-bump","vers":"0.1.0","deps":[],"cksum":"38e8f1e52dd2230f2bf0aa5e5b73d957c8d354d625a2bf1a60f874bb203aef38","features":{"unstable":["allocator_api"],"allocator_api":[]},"yanked":false,"links":null}
+{"name":"fixed-bump","vers":"0.1.1","deps":[],"cksum":"55ec6016607b893e468f1517c419c0d000421bd4f87dccdf1937aa763cfd1850","features":{"unstable":["allocator_api"],"allocator_api":[]},"yanked":false,"links":null}
