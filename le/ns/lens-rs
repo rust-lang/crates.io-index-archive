@@ -1,1 +1,2 @@
 {"name":"lens-rs","vers":"0.0.8","deps":[{"name":"lens-rs_derive","req":"^0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c73565919d12e8751fbb220c8b618c3ef5d27838cdcd183f715b71b9c7acb793","features":{},"yanked":false,"links":null}
+{"name":"lens-rs","vers":"0.0.9","deps":[{"name":"lens-rs_derive","req":"^0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfdaed3755872a8a76d4560f3b9a786abdee1f6b525c250bf0c6738add23a450","features":{},"yanked":false,"links":null}
