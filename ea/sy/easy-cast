@@ -1,1 +1,2 @@
 {"name":"easy-cast","vers":"0.1.0","deps":[],"cksum":"ed76c03eafee7dc03d975298c7cfdc0d15c86db9c0bd27f6fbc3793f39909c27","features":{},"yanked":false,"links":null}
+{"name":"easy-cast","vers":"0.2.0","deps":[],"cksum":"df8860a9b9fb36601c85f8870bd19b0fd0e6e495ab416847780d348680430be4","features":{"assert_range":[],"assert_non_neg":[],"always_assert":["assert_float","assert_non_neg","assert_range"],"assert_float":[]},"yanked":false,"links":null}
