@@ -1,0 +1,1 @@
+{"name":"lfu_cache","vers":"1.0.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"92c0517fce61878521364194d816e173fbfddac367abada4d3acc3dc507d85b5","features":{},"yanked":false,"links":null}
