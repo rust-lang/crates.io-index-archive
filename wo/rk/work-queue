@@ -1,1 +1,2 @@
 {"name":"work-queue","vers":"0.1.0","deps":[{"name":"concurrent-queue","req":"^1.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42460bbe8b98884df2d5060771d103191b7eb02b3b06aa7786ea84892618f388","features":{},"yanked":false,"links":null}
+{"name":"work-queue","vers":"0.1.1","deps":[{"name":"concurrent-queue","req":"^1.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ffa8f7045947028f82021031fe88f50f5e02b9c25a8cfc175fe0925b33b4a8a","features":{},"yanked":false,"links":null}
