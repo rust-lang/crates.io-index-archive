@@ -1,0 +1,1 @@
+{"name":"slice_n","vers":"0.0.1","deps":[{"name":"maybe-std","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49347671f07f867455efb5dda37fc172897c2ab8144d17b6e61a5456f5ee6584","features":{"default":[],"std":["maybe-std/std"],"unstable":["maybe-std/unstable"],"alloc":["maybe-std/alloc"]},"yanked":false,"links":null}
