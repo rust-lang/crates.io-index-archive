@@ -1,1 +1,2 @@
 {"name":"rust-guile","vers":"0.1.0","deps":[{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4cbafc83e603a1d62492c465e11077c04e95ba164c2c10c9ce92d13f6729fcc4","features":{},"yanked":false,"links":null}
+{"name":"rust-guile","vers":"0.1.1","deps":[{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cad91bc2142d5d076f8f55b4b30546236f6583b6af189e641d21443a443ee4ca","features":{},"yanked":false,"links":null}
