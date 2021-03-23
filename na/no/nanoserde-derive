@@ -13,3 +13,4 @@
 {"name":"nanoserde-derive","vers":"0.1.12","deps":[],"cksum":"0e0d42774fb555d1dc23a985b52975fb39b4f1b53f26389389a926c49001c3b1","features":{},"yanked":false,"links":null}
 {"name":"nanoserde-derive","vers":"0.1.13","deps":[],"cksum":"cb64d3bcd1ce4f535e5804e21cc33f7e97bece37776557ff13d0b97a23a7194b","features":{},"yanked":false,"links":null}
 {"name":"nanoserde-derive","vers":"0.1.14","deps":[],"cksum":"14c89882788bb83c0eb07ee5c5e690910210f5425d9651b525d7ad9f4041dd68","features":{},"yanked":false,"links":null}
+{"name":"nanoserde-derive","vers":"0.1.15","deps":[],"cksum":"559f1e5627fbb27fa13c8405a15359ae521479b1b558fa9ba149422f75bd69ae","features":{},"yanked":false,"links":null}
