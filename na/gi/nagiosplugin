@@ -18,3 +18,4 @@
 {"name":"nagiosplugin","vers":"0.2.7","deps":[],"cksum":"b366c0a3d08ed590472d8d7982dc3c847671ecc9b58412f83104786a638a172d","features":{},"yanked":true,"links":null}
 {"name":"nagiosplugin","vers":"0.2.8","deps":[],"cksum":"b4519e1925f074f888c570c67bcc2ad4085d4cb2c368faf0a4fbf600c9712a63","features":{},"yanked":false,"links":null}
 {"name":"nagiosplugin","vers":"0.2.9","deps":[{"name":"anyhow","req":"^1.0.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"110de4c91c6f59278be05f64e62def42de0aa7a73c4cb1deed25f6028b35b239","features":{},"yanked":false,"links":null}
+{"name":"nagiosplugin","vers":"0.2.10","deps":[{"name":"anyhow","req":"^1.0.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23fd4f94b1a6a4de2242f948d875747a53275c110bf4ca2b5f7c694d4b58d186","features":{},"yanked":false,"links":null}
