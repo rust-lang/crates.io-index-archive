@@ -1,0 +1,1 @@
+{"name":"glibc_version","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee79e951e0c2aed4dcfe746dba7b8410f26c4ed8af35795f567a9d92f4130f1d","features":{},"yanked":false,"links":null}
