@@ -1,0 +1,1 @@
+{"name":"spdlog-src","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"98bfa2617c0770fd49a44414a38e6ef9951be1cdb33159e89ffa7e4b4e720555","features":{},"yanked":false,"links":null}
