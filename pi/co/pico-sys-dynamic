@@ -1,1 +1,2 @@
 {"name":"pico-sys-dynamic","vers":"0.2.0","deps":[{"name":"libloading","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ceadddb19264d8cba8f0fd54704105b1a7dc2815b88814a5c42a9b8d7762ed9b","features":{},"yanked":false,"links":null}
+{"name":"pico-sys-dynamic","vers":"0.2.1","deps":[{"name":"libloading","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c84a04fb55328d8c98d9be632efa46bde73104e51705b115c39fb5c284e1139","features":{},"yanked":false,"links":null}
