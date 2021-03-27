@@ -1,0 +1,1 @@
+{"name":"tet_rs","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"216edb797a3a72c13c872f2bedb91f30412c6be9f010d956bbd2873969a79584","features":{"serde1":["serde"]},"yanked":false,"links":null}
