@@ -1,1 +1,2 @@
 {"name":"rotary","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"12b059eaef241c8c81f17227e1bf0fe2462d61c127cca2048f1f37a63c9811bc","features":{},"yanked":false,"links":null}
+{"name":"rotary","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"27887fb4ce0965896e259b14739c5c03a19d10fc778435f0392abdd6f2aede32","features":{},"yanked":false,"links":null}
