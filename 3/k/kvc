@@ -1,1 +1,2 @@
 {"name":"kvc","vers":"0.1.0","deps":[],"cksum":"fe70b7190b2dd35eb70fbaf8b0a0abe5a4162a428c1d9c0abdb67d39f8e779ec","features":{},"yanked":false,"links":null}
+{"name":"kvc","vers":"0.2.0","deps":[{"name":"clap","req":"^2.33.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48d12ad1fb15bad402d867aef72aab06840adfc86dcb1f3068ddd809279eb15d","features":{},"yanked":false,"links":null}
