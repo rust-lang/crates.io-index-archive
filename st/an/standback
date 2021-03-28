@@ -1,4 +1,4 @@
-{"name":"standback","vers":"0.1.0","deps":[],"cksum":"0547baa7874eb3f6e1afd91b9cdfb028d8b5bb6ec6c91633205468aae51eb206","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"standback","vers":"0.1.0","deps":[],"cksum":"0547baa7874eb3f6e1afd91b9cdfb028d8b5bb6ec6c91633205468aae51eb206","features":{"std":[],"default":["std"]},"yanked":true,"links":null}
 {"name":"standback","vers":"0.2.0","deps":[],"cksum":"862b12b9db9c08d38b22f05d4cc13cccede37ae1785dcb639a28f80dc268c631","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"standback","vers":"0.2.1","deps":[],"cksum":"4edf667ea8f60afc06d6aeec079d20d5800351109addec1faea678a8663da4e1","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"standback","vers":"0.2.2","deps":[],"cksum":"ee531c64ad0f80d289504bd32fb047f42a9e957cda584276ab96eb587e9abac3","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
