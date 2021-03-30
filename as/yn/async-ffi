@@ -1,0 +1,1 @@
+{"name":"async-ffi","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.4.0","features":["macros","rt-multi-thread","sync","time"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3fd3c4e0152c3167b15553b80f3da1c7ef9280d6c439b0be9cea6525cee24228","features":{},"yanked":false,"links":null}
