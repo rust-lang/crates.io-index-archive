@@ -1,0 +1,1 @@
+{"name":"compressed-sparse-fiber","vers":"0.0.1","deps":[{"name":"sequence_trie","req":"^0.3.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a476c764fd391a491eef4ad747d09abe3a68e9851c2333a6f1f5a00ce181dda","features":{},"yanked":false,"links":null}
