@@ -3,3 +3,4 @@
 {"name":"aoko","vers":"0.1.2","deps":[],"cksum":"3734acd89034136d036f38582bed14536ef735c4a256ba016b12dcf61c0af563","features":{},"yanked":false,"links":null}
 {"name":"aoko","vers":"0.1.3","deps":[{"name":"rayon","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d03371e5eefa5d1dcab63bef37b408b511a00df564b15541c1f68fb93b5caed","features":{},"yanked":false,"links":null}
 {"name":"aoko","vers":"0.1.4","deps":[{"name":"rayon","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0533c5e3a588b2a4a1c811eedea6b53951d5ab27683944d3b89cc23b3726cb46","features":{},"yanked":false,"links":null}
+{"name":"aoko","vers":"0.1.5","deps":[{"name":"rayon","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be090c76c2943b329aac768aad04f89278e25e39af54fed323110d411f419a6b","features":{},"yanked":false,"links":null}
