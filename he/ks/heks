@@ -1,0 +1,1 @@
+{"name":"heks","vers":"0.0.1","deps":[{"name":"cargo-husky","req":"^1","features":["user-hooks"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"55dcdff63aacb059ab2a13bd5fe1aa4acbd62a4bc904ea064ef041c5b5e4957a","features":{},"yanked":false,"links":null}
