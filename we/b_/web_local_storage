@@ -1,1 +1,2 @@
 {"name":"web_local_storage","vers":"0.0.0","deps":[{"name":"js","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"589f6f270483e7f1fd3073c1c0207146a2ea078f123c275bf4f46373a12466af","features":{},"yanked":false,"links":null}
+{"name":"web_local_storage","vers":"0.0.1","deps":[{"name":"js","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f361cbc16ad78f702c7199b241c22199a15353c23cba0ccbcce3785b9f9a7f52","features":{},"yanked":false,"links":null}
