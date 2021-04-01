@@ -1,0 +1,1 @@
+{"name":"typedmap","vers":"0.1.0","deps":[{"name":"dashmap","req":"^4.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc569a7fe95e8652276c6fdea94777bc2648de68b5155549932108f658658fe0","features":{},"yanked":false,"links":null}
