@@ -1,0 +1,1 @@
+{"name":"datadog-statsd","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6fc5886d011ef55ce15cb9c4915f25d011ae714507609ede45a98e78259572b2","features":{},"yanked":false,"links":null}
