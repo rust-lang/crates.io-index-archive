@@ -1,1 +1,2 @@
 {"name":"fates","vers":"0.1.0","deps":[{"name":"fates_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfbcd19c1544d17a2428a054d16db45f866e004a09581d0f86b6fbcda12c6d9b","features":{},"yanked":true,"links":null}
+{"name":"fates","vers":"0.1.1","deps":[{"name":"fates_macro","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25097226c3148ded5a36fd0e230c84d76e0b0240a6e2d9941fec915754e01ed7","features":{},"yanked":false,"links":null}
