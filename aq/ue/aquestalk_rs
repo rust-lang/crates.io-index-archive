@@ -1,1 +1,2 @@
 {"name":"aquestalk_rs","vers":"0.1.0","deps":[{"name":"libloading","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed704b9f2d569125699cd791f188190590dfcb7fa20f2136545c5101b6ea3890","features":{},"yanked":false,"links":null}
+{"name":"aquestalk_rs","vers":"0.1.1","deps":[{"name":"libloading","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25baa8770d2ebb813e02aa3f0d010f346ecec802c95ab1c773f0555bac0bd6bd","features":{},"yanked":false,"links":null}
