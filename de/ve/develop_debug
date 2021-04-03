@@ -4,3 +4,4 @@
 {"name":"develop_debug","vers":"0.1.2","deps":[],"cksum":"ce875ff20606ec37be0fbc1f76e935f6853964ddf634ffee55fb55144d462925","features":{"default":[],"debug":[]},"yanked":false,"links":null}
 {"name":"develop_debug","vers":"0.2.0","deps":[],"cksum":"ca729328620c254e61f4eb87760f68fa8517a1c9fa73fad909c058765e4983f7","features":{},"yanked":false,"links":null}
 {"name":"develop_debug","vers":"0.2.2","deps":[],"cksum":"eb78b1a9d5ce643b49fce08cd7e01bb8c1ab5e28b92d16cfd99e4bf19086ff76","features":{},"yanked":false,"links":null}
+{"name":"develop_debug","vers":"0.2.3","deps":[],"cksum":"fac79cdabcaea0344c843005e7b3bf636147a8ef0ae9e0fbf8a30d5f1212e9ac","features":{},"yanked":false,"links":null}
