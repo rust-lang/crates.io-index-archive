@@ -1,0 +1,1 @@
+{"name":"deferred-reference","vers":"0.1.0","deps":[],"cksum":"352aa8ea9bb575e3431bfbd9714b56fbc9951f414dca437571f9a5e6f4ba6a58","features":{"coerce_unsized":[],"default":["unstable"],"unstable":["slice_ptr_len","coerce_unsized"],"slice_ptr_len":[]},"yanked":false,"links":null}
