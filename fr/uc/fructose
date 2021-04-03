@@ -9,3 +9,4 @@
 {"name":"fructose","vers":"0.3.6","deps":[],"cksum":"3bb8d1dbd0facdf2d46ce587f3a91ab40d7830506428b113b26c3cbbd5a3be40","features":{"specifics":[],"Full":["specifics","const"],"const":[],"default":["specifics"]},"yanked":false,"links":null}
 {"name":"fructose","vers":"0.3.7","deps":[],"cksum":"b1d0a7260ec6ae0594c1ac20e8faed9fc0a18bc59251169691c722a34cc5aaf4","features":{"full":["specifics"],"default":["full"],"specifics":[]},"yanked":false,"links":null}
 {"name":"fructose","vers":"0.3.8","deps":[],"cksum":"dc49992d716b4db46ea5d488b766270592f358dbade8c1fccf6cf4f3ead1f332","features":{"default":["full"],"specifics":[],"full":["specifics"]},"yanked":false,"links":null}
+{"name":"fructose","vers":"0.3.9","deps":[],"cksum":"4c186735a6ea373cc1d28c533562bc4104284e7166fd43e1041eb8fc3126a1b2","features":{"default":["full"],"specifics":[],"full":["specifics"]},"yanked":false,"links":null}
