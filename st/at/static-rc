@@ -1,0 +1,1 @@
+{"name":"static-rc","vers":"0.1.0","deps":[],"cksum":"8df61f1de97ceaf804ac366dcc1be548feda7c00e2082b956254bb595faca85c","features":{"compile-time-ratio":[],"nightly-async-stream":[],"nightly-generator-trait":[],"nightly-coerce-unsized":[],"nightly-dispatch-from-dyn":[]},"yanked":false,"links":null}
