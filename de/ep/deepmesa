@@ -1,1 +1,2 @@
 {"name":"deepmesa","vers":"0.1.0","deps":[{"name":"deepmesa-lists","req":"^0.1.0-dev","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"906471e3045566a8fac4a6f4f2d6a5a652d510b1b63e821b7d387863cceb0ba7","features":{},"yanked":false,"links":null}
+{"name":"deepmesa","vers":"0.2.0","deps":[{"name":"deepmesa-lists","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8679587b7bcff531369d6b4cb2d7b9fceb96d24c07ed6a219abf339f18c00af4","features":{},"yanked":false,"links":null}
