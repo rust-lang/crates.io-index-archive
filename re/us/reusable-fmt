@@ -1,0 +1,1 @@
+{"name":"reusable-fmt","vers":"0.1.0","deps":[{"name":"rustc_version","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"faf90c113897f649228f40350fc675ca2bd7ad242acf807650a3d59838334087","features":{},"yanked":false,"links":null}
