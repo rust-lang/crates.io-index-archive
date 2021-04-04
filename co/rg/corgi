@@ -1,0 +1,1 @@
+{"name":"corgi","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64815110e884e4f2ceb3e6bbb58c202448094c3f761541dbbacf441dd98597d0","features":{"f32":[]},"yanked":false,"links":null}
