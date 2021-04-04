@@ -1,1 +1,2 @@
 {"name":"rhook","vers":"0.1.0","deps":[],"cksum":"8556e4207ef8c3ee6845e08bd43a58640f9ceec0ada5ac2496f18370e0c934c8","features":{},"yanked":false,"links":null}
+{"name":"rhook","vers":"0.2.0","deps":[{"name":"once_cell","req":"^1.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"643969e47f3e6abef1139b6cb94a94cc65955ece853f63ff13dd914e63e4945d","features":{},"yanked":false,"links":null}
