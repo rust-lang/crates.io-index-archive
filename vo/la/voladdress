@@ -6,3 +6,4 @@
 {"name":"voladdress","vers":"0.2.5","deps":[{"name":"typenum","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"240285ab14a51c73796628b33e0df41167efd5d230ce5ffd6f3bc63fc4f8010d","features":{},"yanked":false,"links":null}
 {"name":"voladdress","vers":"0.3.0","deps":[],"cksum":"91790a8b3909597b3425774ca6666220404291d09df7219c79951f09581b3143","features":{},"yanked":false,"links":null}
 {"name":"voladdress","vers":"0.4.0","deps":[],"cksum":"a9ed2059913e390155e4db74c21970f1cd5de648a74fd50491fe15fb35cdd091","features":{},"yanked":false,"links":null}
+{"name":"voladdress","vers":"0.4.1","deps":[],"cksum":"d23280453f5416b158b25e3031525a2972648ff1e069aa3f9de25251bc43418c","features":{},"yanked":false,"links":null}
