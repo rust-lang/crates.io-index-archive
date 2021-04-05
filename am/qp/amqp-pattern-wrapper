@@ -1,0 +1,1 @@
+{"name":"amqp-pattern-wrapper","vers":"0.0.1","deps":[{"name":"amiquip","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12e605f10c36279a249ca8a020809701876bbe8a480f3e032db15529f1f75775","features":{},"yanked":false,"links":null}
