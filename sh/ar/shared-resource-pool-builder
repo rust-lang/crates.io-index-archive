@@ -1,0 +1,1 @@
+{"name":"shared-resource-pool-builder","vers":"0.1.0","deps":[{"name":"threadpool","req":"^1.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be3eea793b85c79f995101c52f0a7a80b0be9dc973da7846cbc6af88b92cf478","features":{},"yanked":false,"links":null}
