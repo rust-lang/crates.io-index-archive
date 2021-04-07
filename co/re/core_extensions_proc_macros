@@ -1,1 +1,2 @@
 {"name":"core_extensions_proc_macros","vers":"1.0.0","deps":[],"cksum":"ca6aa6a86682902c58cfd7ffd6b3c65ebbf19433e0e736bc81d25fa5bb3da57d","features":{},"yanked":false,"links":null}
+{"name":"core_extensions_proc_macros","vers":"1.1.0","deps":[{"name":"proc-macro2","req":"^1.0.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"14340422f303c07769470cb12809d40f8babdd9e2994c212628a16a5a77e7437","features":{},"yanked":false,"links":null}
