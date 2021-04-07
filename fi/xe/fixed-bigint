@@ -1,0 +1,1 @@
+{"name":"fixed-bigint","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.14","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3a8912e3915e518a216f28ddb7da36c1a4488334a66fcd5f489df8d3253e0d44","features":{},"yanked":false,"links":null}
