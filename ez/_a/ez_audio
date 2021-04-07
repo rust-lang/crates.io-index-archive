@@ -1,0 +1,1 @@
+{"name":"ez_audio","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"989a3c534c8ec0841359a319730c3bba7d2a50b25ed80f093958717a9546e6a0","features":{},"yanked":false,"links":null}
