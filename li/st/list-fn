@@ -1,3 +1,3 @@
-{"name":"list-fn","vers":"0.1.0","deps":[],"cksum":"765e63e534236487c0859cb57e29d494389d5d6ba612a763c62a6426bfeeda46","features":{},"yanked":false,"links":null}
+{"name":"list-fn","vers":"0.1.0","deps":[],"cksum":"765e63e534236487c0859cb57e29d494389d5d6ba612a763c62a6426bfeeda46","features":{},"yanked":true,"links":null}
 {"name":"list-fn","vers":"0.1.1","deps":[],"cksum":"599313b6f3ee617ec305f311ef7d5331a6c368611631731ad2be0723f125068a","features":{},"yanked":false,"links":null}
 {"name":"list-fn","vers":"0.2.0","deps":[{"name":"take_mut","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2ea855f3bbdadb24197ea9848c8b8f11f1a47ed9a3188d251a957c31a1de6ae","features":{},"yanked":false,"links":null}
