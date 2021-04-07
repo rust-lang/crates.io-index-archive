@@ -11,3 +11,4 @@
 {"name":"tibco_ems-sys","vers":"0.1.9","deps":[],"cksum":"a49214d3199f2a33406cce689397c5ea7e5416d487ee02be175ac316848b80d7","features":{},"yanked":false,"links":null}
 {"name":"tibco_ems-sys","vers":"0.1.10","deps":[],"cksum":"9323d02fa291eeb8cf1fdf9a6cb7bf36628adf14f1643dc105bfbc855e19b283","features":{},"yanked":false,"links":null}
 {"name":"tibco_ems-sys","vers":"0.1.11","deps":[],"cksum":"7c9bc6c0088863d4377086fa33552f1a7263b6b8e5be15a96732b0af1c128d40","features":{},"yanked":false,"links":"tibems"}
+{"name":"tibco_ems-sys","vers":"0.1.12","deps":[],"cksum":"c881cfaf61a411ac9181d3daff70b30ae89d7026cc5042c375c65eea77979dc0","features":{},"yanked":false,"links":"tibems"}
