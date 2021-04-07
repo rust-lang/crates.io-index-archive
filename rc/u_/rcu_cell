@@ -8,3 +8,4 @@
 {"name":"rcu_cell","vers":"0.1.7","deps":[],"cksum":"09a6b96203f367f70093176695a541c4cef42174a00bb230262fa4bfc0f362c2","features":{},"yanked":false,"links":null}
 {"name":"rcu_cell","vers":"0.1.8","deps":[],"cksum":"e1139c0dfb0ec3f79feeab3e0d10f89c310d30b3130177a2be2453b0f7166b54","features":{},"yanked":false,"links":null}
 {"name":"rcu_cell","vers":"0.1.9","deps":[],"cksum":"c8e2170c66a235965635b20281452d7ae482751187dfe318ca8bacae8a87713b","features":{},"yanked":false,"links":null}
+{"name":"rcu_cell","vers":"0.1.10","deps":[],"cksum":"b99dd42242db6d3aaeacf7baa4e959d08f3b836698dab25d85c596381febf13c","features":{},"yanked":false,"links":null}
