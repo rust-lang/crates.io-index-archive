@@ -4,3 +4,4 @@
 {"name":"sungod","vers":"0.2.0","deps":[],"cksum":"bf7c128b2efc8f9f381b51f94033213d3ea2bdce77970f4910c39ce934fe157b","features":{"default":["std"],"std":[]},"yanked":true,"links":null}
 {"name":"sungod","vers":"0.2.1","deps":[],"cksum":"09813b6498c9a22f85a7d1c01bc171bfb75addec99613debd581603f7058133b","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"sungod","vers":"0.2.2","deps":[],"cksum":"2eee8eb6e8040ce1fcd07d72e39d89efc59121b9b1187c6b9d4030d8ddad0f61","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"sungod","vers":"0.3.0","deps":[],"cksum":"7e0428afddf443b621fb257cd8c48b200c402be8354c86227b127431bf5a6921","features":{"std":[],"default_is_random":["std"],"default":["std"]},"yanked":false,"links":null}
