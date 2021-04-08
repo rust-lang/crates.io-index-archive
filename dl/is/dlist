@@ -1,1 +1,2 @@
 {"name":"dlist","vers":"0.1.0","deps":[{"name":"lipsum","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3373cfe65539051ae97729a9795e071a3a68d51cee2710616fb12224e78ca5ac","features":{},"yanked":false,"links":null}
+{"name":"dlist","vers":"0.1.1","deps":[{"name":"lipsum","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8d3666593e164be955366cbe180b27331dc4bb4d45c803d417d1313a20fb9200","features":{},"yanked":false,"links":null}
