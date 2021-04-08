@@ -12,3 +12,4 @@
 {"name":"custom_error","vers":"1.7.0","deps":[],"cksum":"b98c1db41e448d6816faabc5decccf2efb0f72803b77de885817d7882469f926","features":{},"yanked":false,"links":null}
 {"name":"custom_error","vers":"1.7.1","deps":[],"cksum":"93a0fc65739ae998afc8d68e64bdac2efd1bc4ffa1a0703d171ef2defae3792f","features":{},"yanked":false,"links":null}
 {"name":"custom_error","vers":"1.8.0","deps":[],"cksum":"51ac5e99a7fea3ee8a03fa4721a47e2efd3fbb38358fc61192a54d4c6f866c12","features":{},"yanked":false,"links":null}
+{"name":"custom_error","vers":"1.9.0","deps":[],"cksum":"51d5f153ac69616bfb63e6c02d29de2fcb593173f32303d73e1afcc271de2b42","features":{"default":["std"],"std":[],"unstable":[]},"yanked":false,"links":null}
