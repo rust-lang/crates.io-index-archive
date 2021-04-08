@@ -1,0 +1,1 @@
+{"name":"audio-core","vers":"0.2.0-alpha.2","deps":[{"name":"audio","req":"^0.2.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ea41ab9f7462f7f13e8393ea8a53993a29151a64b007b1ade7551e4f70d0e75b","features":{},"yanked":false,"links":null}
