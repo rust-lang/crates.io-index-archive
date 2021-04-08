@@ -13,3 +13,4 @@
 {"name":"unique","vers":"0.7.0","deps":[{"name":"chashmap","req":"^2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"lazy_static","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a47ea64a014a8d829ccd3f070d758e339245376b612399bd35469b77079a349f","features":{},"yanked":true,"links":null}
 {"name":"unique","vers":"0.8.0","deps":[],"cksum":"610ac1282ab2a6fd34ce76990808a52dc3cf854b9545db1cd4acc3699a1ed0ff","features":{},"yanked":true,"links":null}
 {"name":"unique","vers":"0.9.0","deps":[],"cksum":"3a3ac714e896420b839dbfca46d861d2180ecf7e424802582e06af0a6d1cbce9","features":{},"yanked":false,"links":null}
+{"name":"unique","vers":"0.9.1","deps":[],"cksum":"d360722e1f3884f5b14d332185f02ff111f771f0c76a313268fe6af1409aba96","features":{},"yanked":false,"links":null}
