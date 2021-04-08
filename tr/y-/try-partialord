@@ -1,0 +1,1 @@
+{"name":"try-partialord","vers":"0.1.0","deps":[{"name":"rand","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7ca1a3e893ab0d3550ffc5c8e7a80202b29641312cbbcb061e0ce069bf5a3734","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
