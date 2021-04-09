@@ -1,0 +1,1 @@
+{"name":"cargo-fast","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0.0-beta.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aafd264e407c5381124ee696d9abebf400b131d91ffa999bc37c3e58a3b230f6","features":{},"yanked":false,"links":null}
