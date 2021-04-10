@@ -10,3 +10,4 @@
 {"name":"librualg","vers":"0.10.0","deps":[],"cksum":"87f2c9867ef562f71e468fb0a0801e65d6b0fc69c7a7aa23e83b2b45b2f1f324","features":{},"yanked":false,"links":null}
 {"name":"librualg","vers":"0.11.0","deps":[],"cksum":"fc554216d073a20bf41f5d7dc0770a32fb9548797003bf733bcb57e5ff9bb894","features":{},"yanked":false,"links":null}
 {"name":"librualg","vers":"0.12.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a49c4ad147f23ec642d64f487ee82cdfc660f1174f5cb46969e11053e98f5e65","features":{},"yanked":false,"links":null}
+{"name":"librualg","vers":"0.13.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac75775e14f14037c3cf14787825a68fa44ca505dbe581ea7fda29908c8f3faa","features":{},"yanked":false,"links":null}
