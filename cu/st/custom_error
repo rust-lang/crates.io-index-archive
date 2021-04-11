@@ -14,3 +14,4 @@
 {"name":"custom_error","vers":"1.8.0","deps":[],"cksum":"51ac5e99a7fea3ee8a03fa4721a47e2efd3fbb38358fc61192a54d4c6f866c12","features":{},"yanked":false,"links":null}
 {"name":"custom_error","vers":"1.9.0","deps":[],"cksum":"51d5f153ac69616bfb63e6c02d29de2fcb593173f32303d73e1afcc271de2b42","features":{"default":["std"],"std":[],"unstable":[]},"yanked":false,"links":null}
 {"name":"custom_error","vers":"1.9.1","deps":[],"cksum":"14019ca2cf91ad381fababb3f3370a74712d0be70cc4465ae263bc1daed18c29","features":{"unstable":[],"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"custom_error","vers":"1.9.2","deps":[],"cksum":"4f8a51dd197fa6ba5b4dc98a990a43cc13693c23eb0089ebb0fcc1f04152bca6","features":{"default":["std"],"std":[],"unstable":[]},"yanked":false,"links":null}
