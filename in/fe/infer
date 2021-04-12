@@ -18,3 +18,4 @@
 {"name":"infer","vers":"0.3.5","deps":[],"cksum":"34ad0755c42f65a1374dcd0aae07e03dfefc911eceb3f409d2b4a888189447e6","features":{"alloc":[],"std":["alloc"],"default":["std"]},"yanked":false,"links":null}
 {"name":"infer","vers":"0.3.6","deps":[],"cksum":"0803735b9511d0956c68902a6513ca867819d6e43397adb6a5e903e2f09db734","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"links":null}
 {"name":"infer","vers":"0.3.7","deps":[],"cksum":"865e8a58ae8e24d2c4412c31344afa1d302a3740ad67528c10f50d6876cdcf55","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"links":null}
+{"name":"infer","vers":"0.4.0","deps":[{"name":"cfb","req":"^0.4.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f92b41dab759f9e8427c03f519c344a14655490b8db548dac1e57a75b3258391","features":{"default":["std"],"std":["alloc","cfb"],"alloc":[]},"yanked":false,"links":null}
