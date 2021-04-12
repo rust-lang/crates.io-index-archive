@@ -1,0 +1,1 @@
+{"name":"optimistic_lock_coupling","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6e6a6019ef3c52601755ffceab70ed35edc25fdabf6284f58ec529bc2174e615","features":{},"yanked":false,"links":null}
