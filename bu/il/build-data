@@ -1,0 +1,1 @@
+{"name":"build-data","vers":"0.1.0","deps":[{"name":"build-data-writer","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"79ddcbf9a7222f1045f0197c2d2260e89b9afda755d0759b0a1da018ab6866d9","features":{},"yanked":false,"links":null}
