@@ -1,0 +1,1 @@
+{"name":"git-wrapper","vers":"0.2.0","deps":[{"name":"posix-errors","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25ad9d76c29d6a8e3293bfdfebc784dfbb7a291b618a00bf6437b4ff9a49a516","features":{},"yanked":false,"links":null}
