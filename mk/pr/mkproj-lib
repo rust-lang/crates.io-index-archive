@@ -19,3 +19,4 @@
 {"name":"mkproj-lib","vers":"0.2.4","deps":[],"cksum":"0ed94074f32c9f09db5643a909d900eb34bca21648c3dffe02f16e7234bcf7fe","features":{},"yanked":false,"links":null}
 {"name":"mkproj-lib","vers":"0.2.5","deps":[],"cksum":"43bb83861a8dbf46f9333f0789295911e3cd5278c41d45438184cbb2db3ef53c","features":{},"yanked":false,"links":null}
 {"name":"mkproj-lib","vers":"0.2.6","deps":[],"cksum":"0e82436b23666acbddf019a306e35282a65da68e3335682331c2c1bffef33357","features":{},"yanked":false,"links":null}
+{"name":"mkproj-lib","vers":"0.2.7","deps":[{"name":"reqwest","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ee12947f9a896c62e21fcb91720f760014f5403ed695873d6ca4adb27ee8bf2","features":{},"yanked":false,"links":null}
