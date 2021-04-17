@@ -4,3 +4,4 @@
 {"name":"ruma-identifiers-validation","vers":"0.2.1","deps":[],"cksum":"fbf7b5028af27eb0855323138894a9c5288521b2aacdf7c461ffc887f6b49f9e","features":{},"yanked":false,"links":null}
 {"name":"ruma-identifiers-validation","vers":"0.2.2","deps":[],"cksum":"4c900d7bcf80db7999c00c3eb913558dd22942640a9220cbccde7eb4ad497587","features":{},"yanked":false,"links":null}
 {"name":"ruma-identifiers-validation","vers":"0.2.3","deps":[],"cksum":"1ef5e4c88acca9f2488f7e95f913584b48702f8ba08c4f78d15699bc8823bc29","features":{"compat":[]},"yanked":false,"links":null}
+{"name":"ruma-identifiers-validation","vers":"0.2.4","deps":[],"cksum":"4634ea4dfc2f812aa245a41f8d4dc1c0dbf687d0cf9789e9d1018cfe6196f3fa","features":{"compat":[],"serde":[]},"yanked":false,"links":null}
