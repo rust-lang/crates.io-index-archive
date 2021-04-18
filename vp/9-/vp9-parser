@@ -1,1 +1,2 @@
 {"name":"vp9-parser","vers":"0.0.1","deps":[{"name":"bitreader","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8fa5b7b068163b719c396f0718c34c970369ec5bc483b8c6b7e6e2370f8bf8f6","features":{},"yanked":false,"links":null}
+{"name":"vp9-parser","vers":"0.1.0","deps":[{"name":"bitreader","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f97ff335d82fcb14553652cad7e059344434f1c46b76ae6284581b68fba5dbc1","features":{},"yanked":false,"links":null}
