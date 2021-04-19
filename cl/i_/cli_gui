@@ -1,0 +1,1 @@
+{"name":"cli_gui","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ec234fe3714842461994230483164a341afec4b8d300fb830d637ae9ce8ef65","features":{},"yanked":false,"links":null}
