@@ -1,0 +1,1 @@
+{"name":"cargo-modify","vers":"0.1.0","deps":[{"name":"toml","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2ba073637a2679617abaee54f14d3c9ca57868f8fbe6571db760ddc485a0916","features":{},"yanked":false,"links":null}
