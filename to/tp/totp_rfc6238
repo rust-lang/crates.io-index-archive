@@ -1,0 +1,1 @@
+{"name":"totp_rfc6238","vers":"0.1.0","deps":[{"name":"ring","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"007d9261527f6451a31f6c70c6836f709440529e02c4481401e6e8d9ea69638c","features":{},"yanked":false,"links":null}
