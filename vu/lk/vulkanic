@@ -1,0 +1,1 @@
+{"name":"vulkanic","vers":"0.1.0","deps":[{"name":"vk-sys","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"554f5697645015fc6e061126b2353edddfa39eae1b8b7cff67a77e5baa9870e9","features":{},"yanked":false,"links":null}
