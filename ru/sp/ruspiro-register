@@ -11,3 +11,4 @@
 {"name":"ruspiro-register","vers":"0.5.1","deps":[],"cksum":"1df3793d8dd753c9703899d240122fbd0d42159e4d34a8b67176f856e5bf077d","features":{"ruspiro_pi3":[]},"yanked":false,"links":null}
 {"name":"ruspiro-register","vers":"0.5.2","deps":[],"cksum":"078430f9691f835acb4687afb68361128b8d281bd863ff9299ec07ac2d6b9112","features":{},"yanked":false,"links":null}
 {"name":"ruspiro-register","vers":"0.5.3","deps":[],"cksum":"e3f756f13f941dbf747824f1e986ab53c428999e703b26b943c268dad3bcefe3","features":{},"yanked":false,"links":null}
+{"name":"ruspiro-register","vers":"0.5.4","deps":[],"cksum":"161d5f7992ad812a4cf78301846265fb34ba86db288d17aa35d36c5ec72ee349","features":{},"yanked":false,"links":null}
