@@ -1,0 +1,1 @@
+{"name":"cargo-purge","vers":"0.1.0","deps":[{"name":"whoami","req":"^1.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d5aeaf61f8b62ac48d799b3ab059599b547e4cf1f9a6842ffde500250033ef8","features":{},"yanked":false,"links":null}
