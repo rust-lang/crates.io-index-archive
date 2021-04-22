@@ -1,0 +1,1 @@
+{"name":"libalgobsec-sys","vers":"0.0.1+1.4.8.0","deps":[{"name":"bindgen","req":"^0.56.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0da9d2695a44c324ed80a42be64bf59600a28c5fa4e8336da9579facac47c04d","features":{},"yanked":false,"links":null}
