@@ -6,3 +6,4 @@
 {"name":"paginator","vers":"0.1.5","deps":[],"cksum":"9ae7e569d2049723f36717d0d24070c0563ff1660135c478c4e4c1cf5b9413b8","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"paginator","vers":"0.2.0","deps":[],"cksum":"62ac4aee8aaaa680f1f4b558a7acfabd4a43729117ade6b4c4c89202beab15a6","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"paginator","vers":"0.2.1","deps":[],"cksum":"bc6ccf9a491ea6a92f2529aea215a36ed80526e867a1ae3f60684de4c56f1b3a","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"paginator","vers":"0.2.2","deps":[],"cksum":"8df1002b494d6fb3ff13aba5467cfddcbd1278a3e3abcc92f286b6ff4431701c","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
