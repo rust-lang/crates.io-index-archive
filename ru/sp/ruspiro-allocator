@@ -10,3 +10,4 @@
 {"name":"ruspiro-allocator","vers":"0.5.0","deps":[],"cksum":"0272ef261e21e97a2d1ba30b46a5685e9befb1dd543ee62ba1e94f19fd448376","features":{"ruspiro_pi3":[]},"yanked":true,"links":"ruspiro_allocator"}
 {"name":"ruspiro-allocator","vers":"0.4.2","deps":[],"cksum":"81dc8a4dca18d68a438be8a075fcf5103853496041e06cb6f4dcc4f31f804c03","features":{"ruspiro_pi3":[]},"yanked":false,"links":"ruspiro_allocator"}
 {"name":"ruspiro-allocator","vers":"0.4.3","deps":[],"cksum":"96958f4d2ce291ef1833cbf30c158b1665f5010fab7627c49fbf3b7c431e7efb","features":{"ruspiro_pi3":[]},"yanked":false,"links":"ruspiro_allocator"}
+{"name":"ruspiro-allocator","vers":"0.4.4","deps":[],"cksum":"e8e2c978c993b93779403f07aaa00a9691eff0b72b90274f5231ad56712a8742","features":{},"yanked":false,"links":"ruspiro_allocator"}
