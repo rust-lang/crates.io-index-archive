@@ -4,3 +4,4 @@
 {"name":"http-protocol","vers":"0.1.3","deps":[],"cksum":"3efb3ee281d2fdddb38f5da128243780de8ca094d90b7422e950db41e5c2bcd9","features":{},"yanked":false,"links":null}
 {"name":"http-protocol","vers":"0.1.4","deps":[],"cksum":"67cd2d8995117bfb21bf4d574f1210e184903cba556596f3d68b05fd76a5eccd","features":{},"yanked":false,"links":null}
 {"name":"http-protocol","vers":"0.1.5","deps":[],"cksum":"0c5934313b99c632a8058ad34edd809126aae2f4709566cbb6b1019d07be1ba7","features":{},"yanked":false,"links":null}
+{"name":"http-protocol","vers":"0.1.6","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85d78184f1945a8168d23d2d08b9924c15312ab52e3515a353df16f7bb15b1eb","features":{},"yanked":false,"links":null}
