@@ -1,0 +1,1 @@
+{"name":"scratchstack-aws-principal","vers":"0.2.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"139bb1b55321227c97c91e5df44e7349179e5d9404c521c8654f95fb25eafb50","features":{"service":[]},"yanked":false,"links":null}
