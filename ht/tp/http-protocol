@@ -1,6 +1,6 @@
 {"name":"http-protocol","vers":"0.1.0","deps":[],"cksum":"bedd3c9ac321d152c723d49be951865c35aea6bb6ef7d4b6b9945e528074ebab","features":{},"yanked":true,"links":null}
 {"name":"http-protocol","vers":"0.1.1","deps":[],"cksum":"a6ef0e6d685e00faa89f097e17d76c7b9a43027a0ac0215bb2cd52d42e7f90c0","features":{},"yanked":true,"links":null}
-{"name":"http-protocol","vers":"0.1.2","deps":[],"cksum":"f7205da858dc33ccea13844352999c800ac16c3f9be6382ef79e8dab25574f26","features":{},"yanked":false,"links":null}
+{"name":"http-protocol","vers":"0.1.2","deps":[],"cksum":"f7205da858dc33ccea13844352999c800ac16c3f9be6382ef79e8dab25574f26","features":{},"yanked":true,"links":null}
 {"name":"http-protocol","vers":"0.1.3","deps":[],"cksum":"3efb3ee281d2fdddb38f5da128243780de8ca094d90b7422e950db41e5c2bcd9","features":{},"yanked":false,"links":null}
 {"name":"http-protocol","vers":"0.1.4","deps":[],"cksum":"67cd2d8995117bfb21bf4d574f1210e184903cba556596f3d68b05fd76a5eccd","features":{},"yanked":false,"links":null}
 {"name":"http-protocol","vers":"0.1.5","deps":[],"cksum":"0c5934313b99c632a8058ad34edd809126aae2f4709566cbb6b1019d07be1ba7","features":{},"yanked":false,"links":null}
