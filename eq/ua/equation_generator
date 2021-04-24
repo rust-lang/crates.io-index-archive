@@ -1,0 +1,1 @@
+{"name":"equation_generator","vers":"0.1.0","deps":[{"name":"random-number","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6593b0368610396137ab6c0ad225891d479a6e88f54832052df6fae846bd76a1","features":{},"yanked":false,"links":null}
