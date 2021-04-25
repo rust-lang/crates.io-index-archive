@@ -12,3 +12,4 @@
 {"name":"drone-ctypes","vers":"0.13.0","deps":[],"cksum":"65a08f41c90670f31e906ff185f29cefef947163529c60e37139f7aecbf4cad7","features":{},"yanked":false,"links":null}
 {"name":"drone-ctypes","vers":"0.14.0","deps":[],"cksum":"966abd0621692c33c8404ed2c7b1cd4c6ef16c4d6324cd7c4fffa9099477081a","features":{},"yanked":false,"links":null}
 {"name":"drone-ctypes","vers":"0.14.1","deps":[],"cksum":"4d49cca53a3de222dcf87c642367fdcf097b5f3355459b657603a910564b213d","features":{},"yanked":true,"links":null}
+{"name":"drone-ctypes","vers":"0.14.2","deps":[],"cksum":"41c07293c5282af7360e75c8fc025d94529127df344d51f3cd00fe77f96a62b1","features":{},"yanked":false,"links":null}
