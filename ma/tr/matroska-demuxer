@@ -1,0 +1,1 @@
+{"name":"matroska-demuxer","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94071eadd6ecef6222dbb2ca0d878ea6f7ff384c77c5417fca2d2ea13480115f","features":{},"yanked":false,"links":null}
