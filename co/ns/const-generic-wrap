@@ -1,0 +1,1 @@
+{"name":"const-generic-wrap","vers":"0.1.0","deps":[{"name":"typenum","req":"^1.13.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4f14ae14d678b35d1a439329965ac38bd6d21bd119bc9f5afeadbba61587201","features":{"default":[],"unstable":[]},"yanked":false,"links":null}
