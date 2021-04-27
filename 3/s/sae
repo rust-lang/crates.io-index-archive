@@ -1,0 +1,1 @@
+{"name":"sae","vers":"0.1.0","deps":[{"name":"argmin","req":"^0.4.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8b22745a66886b4f776a3056ab18357e91455a71679c5781b655afcc155c37c","features":{"default":[],"optimize":["argmin"]},"yanked":false,"links":null}
