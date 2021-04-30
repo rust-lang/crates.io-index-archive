@@ -1,0 +1,1 @@
+{"name":"const-gen","vers":"0.1.0","deps":[{"name":"const-gen-derive","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"220de77bc6b50397b31020b9d332e76e43cccdaa725674699352f56173de8f82","features":{"derive":["const-gen-derive"],"phf":[],"default":["derive","phf"]},"yanked":false,"links":null}
