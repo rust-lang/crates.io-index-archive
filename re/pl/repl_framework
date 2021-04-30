@@ -3,3 +3,4 @@
 {"name":"repl_framework","vers":"0.1.7","deps":[],"cksum":"27a2ba3f8785a3c8cbe5c6df99fb404b51017610d3950136769af7b0b452b255","features":{},"yanked":true,"links":null}
 {"name":"repl_framework","vers":"0.1.71","deps":[],"cksum":"c50573de00021806e8b5f6ace34d4b852d76e30e354490c7e692bad73bc798db","features":{},"yanked":true,"links":null}
 {"name":"repl_framework","vers":"0.1.72","deps":[{"name":"repl_framework_proc_macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ce2b933fcd16377f2b8057a4d6b1d6fac2505722f1ff0ea97c93e0eb38e860c","features":{},"yanked":false,"links":null}
+{"name":"repl_framework","vers":"0.1.73","deps":[{"name":"repl_framework_proc_macros","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a28d99a36ca1a91150cb1a7903b7d27d3594a68eff18b0bbd5d7d77f43455eb","features":{},"yanked":false,"links":null}
