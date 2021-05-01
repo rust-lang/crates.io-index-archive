@@ -1,0 +1,1 @@
+{"name":"mysql-client-bindings-rs","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e5f5268a259c8e2b5260b54431978ade66005bf0c3ced4e47c3013f36d653aab","features":{"mysql":[],"default":["mysql"],"mariadb":[]},"yanked":false,"links":"mysql"}
