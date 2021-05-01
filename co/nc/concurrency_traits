@@ -1,0 +1,1 @@
+{"name":"concurrency_traits","vers":"0.1.0","deps":[{"name":"simple_futures","req":"^0.1.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9834f08f0d36ec90ec7e8c1e83fe8df18ddb7efe0f20530016595ef638015c65","features":{"default":["std"],"alloc":["simple_futures"],"std":["alloc"]},"yanked":false,"links":null}
