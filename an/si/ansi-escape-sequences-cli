@@ -1,0 +1,1 @@
+{"name":"ansi-escape-sequences-cli","vers":"0.1.0","deps":[{"name":"ansi_term","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6f4530953bf7d2bdc15527a5d480e24039994944ccb30620f56bb163292541e","features":{},"yanked":false,"links":null}
