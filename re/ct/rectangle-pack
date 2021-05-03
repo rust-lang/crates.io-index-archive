@@ -10,3 +10,4 @@
 {"name":"rectangle-pack","vers":"0.3.0","deps":[],"cksum":"831eb2fcb5b72b09c72a3f2d24c09a28d79886512827cd4674d9bac10557f16a","features":{},"yanked":false,"links":null}
 {"name":"rectangle-pack","vers":"0.4.0","deps":[],"cksum":"2739c60fb7c719bdd2aa1ef15df1554c0f8ae58251503134e71fed9c3b70b9e0","features":{},"yanked":false,"links":null}
 {"name":"rectangle-pack","vers":"0.4.1","deps":[],"cksum":"a1bb1038f7d117489ea7936a9920c01940b2911b377cdc5806406f03f63cb7e1","features":{},"yanked":false,"links":null}
+{"name":"rectangle-pack","vers":"0.4.2","deps":[],"cksum":"a0d463f2884048e7153449a55166f91028d5b0ea53c79377099ce4e8cf0cf9bb","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
