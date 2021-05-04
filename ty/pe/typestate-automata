@@ -2,3 +2,4 @@
 {"name":"typestate-automata","vers":"0.3.0","deps":[],"cksum":"a0779606ac84e1a12977bc0f38da568313ef93cc849c79fd88365ae6aee7dd54","features":{"dot":[]},"yanked":false,"links":null}
 {"name":"typestate-automata","vers":"0.3.1","deps":[],"cksum":"8ad7a51235a9b0eaa501c9f45bdc652549da3a2ca78e6f9682a2b57b5c606bfa","features":{"dot":[]},"yanked":false,"links":null}
 {"name":"typestate-automata","vers":"0.3.2","deps":[],"cksum":"d3590e7182993aaf4bb167572693b9f550c2dcfebff164590d7b9d131c5a5a23","features":{"dot":[]},"yanked":false,"links":null}
+{"name":"typestate-automata","vers":"0.4.1","deps":[],"cksum":"534bc8a2e41f91a38c1c2f4af4c8a24c140d04d3d59f897b9674fd24d3a8a39d","features":{"plantuml":[],"dot":[]},"yanked":false,"links":null}
