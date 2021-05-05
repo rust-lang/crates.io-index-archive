@@ -1,0 +1,2 @@
+{"name":"tpt","vers":"0.1.0","deps":[{"name":"structopt","req":"^0.3.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74f243bcb233caee49ff71f460ac1b5d08c72627953982e70b9dddbe50044022","features":{},"yanked":false,"links":null}
+{"name":"tpt","vers":"0.2.0","deps":[{"name":"structopt","req":"^0.3.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff669e9d9bcd8a982273e2363dde6e16582afd8c1f2edb3b6ad85bfc32182638","features":{},"yanked":false,"links":null}

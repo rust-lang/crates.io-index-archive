@@ -1,0 +1,2 @@
+{"name":"core2","vers":"0.0.0","deps":[],"cksum":"12c019e76dbec63d0a55cb96865d9ecdec709f133ba7957637f2d69885a77add","features":{},"yanked":false,"links":null}
+{"name":"core2","vers":"0.3.0-alpha.1","deps":[{"name":"memchr","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a2f05b74167da46e179c06db44e4a7ab7bafd8e6be79dabe2562277f8a4e3d6e","features":{"default":["std"],"nightly":[],"std":["alloc"],"alloc":[]},"yanked":false,"links":null}

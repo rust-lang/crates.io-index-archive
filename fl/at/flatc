@@ -1,0 +1,2 @@
+{"name":"flatc","vers":"0.1.0+1.12.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"476bf070cb458829e13916537b4b1ff2001606850273dd1df1859d8f9722bd31","features":{},"yanked":false,"links":null}
+{"name":"flatc","vers":"0.1.1+1.12.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0925c8c941dcde89465e900853efbbbb5887389025f41eedf29c72e01c3daa4b","features":{},"yanked":false,"links":null}

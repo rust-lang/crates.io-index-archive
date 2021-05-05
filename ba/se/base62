@@ -1,0 +1,6 @@
+{"name":"base62","vers":"0.1.0","deps":[],"cksum":"3f9c251ed37cbb6441e5fc8467f391812e7ee07c0ef8b902f394f496cc96018d","features":{},"yanked":false}
+{"name":"base62","vers":"0.2.0","deps":[],"cksum":"cd7b59bff88ba4b88c8fcf3ff1bd2129326710263041e4d6ca015fc89ce7c14c","features":{},"yanked":false}
+{"name":"base62","vers":"0.3.0","deps":[],"cksum":"bfcca1836719de47463427ad97c9f040cf82f1a17a167c69dc8fb36c07e370da","features":{},"yanked":false}
+{"name":"base62","vers":"1.0.0","deps":[{"name":"quickcheck","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ef4b0a3bcb863baac59fa31d72576983b082f8d12ada6f37a535340e2a202834","features":{},"yanked":false,"links":null}
+{"name":"base62","vers":"1.1.0","deps":[{"name":"quickcheck","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"45b3112bc74045a55b8181955a734791b967a3cadc18ea7a15039af778c4e75c","features":{},"yanked":false,"links":null}
+{"name":"base62","vers":"1.1.1","deps":[{"name":"quickcheck","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3359fb598a801f01981dedc530abb7d86db3518f6ad0e3dd199cfeec155684a1","features":{},"yanked":false,"links":null}

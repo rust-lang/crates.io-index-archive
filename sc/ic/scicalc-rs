@@ -1,0 +1,1 @@
+{"name":"scicalc-rs","vers":"0.1.0","deps":[{"name":"float-cmp","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29e2104b38fb59593e857fab809fcd7c08c30343a348270f17ddd26ddd0085ae","features":{},"yanked":false,"links":null}

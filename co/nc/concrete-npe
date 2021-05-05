@@ -1,0 +1,2 @@
+{"name":"concrete-npe","vers":"0.1.6","deps":[{"name":"itertools","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e62f18c77553909ce28c2db56ff9a5abd02cab54be7a3f7e123ae8f6d9cfa0f","features":{},"yanked":false,"links":null}
+{"name":"concrete-npe","vers":"0.1.7","deps":[{"name":"itertools","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"701ad3bf56bd2f030dd309da5118dac393b073bbad53316141c6e9b4d426c280","features":{},"yanked":false,"links":null}

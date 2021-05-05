@@ -1,0 +1,1 @@
+{"name":"token-parser","vers":"0.1.0","deps":[{"name":"token-parser-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d3acf151fe6a43315bab014a41bd16bf6c465e77a856651bdb79741c9aaca42","features":{},"yanked":false,"links":null}

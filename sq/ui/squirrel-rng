@@ -1,0 +1,1 @@
+{"name":"squirrel-rng","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5eaa73ac332a8a50ce738f8ae87957091c13ce8e670ba2cfc050447766674d26","features":{},"yanked":false,"links":null}

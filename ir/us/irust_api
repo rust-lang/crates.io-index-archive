@@ -1,0 +1,1 @@
+{"name":"irust_api","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.125","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"abd941ecd8e86cd7f7b07238015c5bda942b6ffa24aa6795bd3f73a517c9edfd","features":{},"yanked":false,"links":null}

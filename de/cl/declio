@@ -1,0 +1,1 @@
+{"name":"declio","vers":"0.1.0","deps":[{"name":"declio_derive","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efd44cdb7f2aa6c86350996e5592dde7da87a5a7b2cb20d60c0f31dc122de328","features":{"derive":["declio_derive"],"default":["derive"]},"yanked":false,"links":null}

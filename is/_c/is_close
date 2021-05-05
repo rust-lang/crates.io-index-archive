@@ -1,0 +1,2 @@
+{"name":"is_close","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39a848bc25b6737d28b8c0fa77daf9e1117c576e000145775e221b30bf385d60","features":{},"yanked":false,"links":null}
+{"name":"is_close","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"397146d35caf39d3a725c2f00b7cd189729212a2c3457a35780309ce4eafedb1","features":{},"yanked":false,"links":null}

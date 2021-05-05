@@ -1,0 +1,1 @@
+{"name":"cudd-sys","vers":"0.1.0","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05d34e7f287774f28433ac4ac5f49bb497122661a49ad91f7c57153c95142901","features":{},"yanked":false}

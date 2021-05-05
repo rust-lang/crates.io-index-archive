@@ -1,0 +1,2 @@
+{"name":"osm-geo-mapper-macros","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4abd800844e1fb2ef9a6f27b4708cc22c325e4ed94a4cb2a5b2f2d4521815fd0","features":{},"yanked":false,"links":null}
+{"name":"osm-geo-mapper-macros","vers":"0.2.0","deps":[{"name":"paste","req":"^1.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05b88d6e9fac1ab46e464489910ec2c1cf13b215be348f151d1c92a8b6e4823c","features":{},"yanked":false,"links":null}

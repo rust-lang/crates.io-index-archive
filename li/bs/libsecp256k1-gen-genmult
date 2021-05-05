@@ -1,0 +1,1 @@
+{"name":"libsecp256k1-gen-genmult","vers":"0.1.0","deps":[{"name":"libsecp256k1-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d80b7630c16cad8a7d4ab1d47eb26948652a88533d8c0fe8056e369af75abcf","features":{},"yanked":false,"links":null}

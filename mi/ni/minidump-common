@@ -1,0 +1,1 @@
+{"name":"minidump-common","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.34","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57ed7b1ae7d0e609097e4a788a769f728c87e46cef48b5f37d6cabaf29b0cf5a","features":{},"yanked":false}

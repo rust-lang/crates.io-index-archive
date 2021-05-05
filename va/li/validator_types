@@ -1,0 +1,2 @@
+{"name":"validator_types","vers":"0.11.0","deps":[],"cksum":"add324da7950ac1f76b1c16ce8b5406147953d5d6a2ac1c5da93785f2cfc738b","features":{"card":[],"unic":[],"phone":[]},"yanked":false,"links":null}
+{"name":"validator_types","vers":"0.12.0","deps":[],"cksum":"ad9680608df133af2c1ddd5eaf1ddce91d60d61b6bc51494ef326458365a470a","features":{"card":[],"phone":[],"unic":[]},"yanked":false,"links":null}

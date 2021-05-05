@@ -1,0 +1,1 @@
+{"name":"rzcobs","vers":"0.1.1","deps":[{"name":"hex-literal","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"61533f7379128c121fb734b92422e16b5e69d483b9792d20585b0840a72089c7","features":{"std":[],"default":["std"]},"yanked":false,"links":null}

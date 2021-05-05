@@ -1,0 +1,2 @@
+{"name":"tinystr-raw","vers":"0.1.0","deps":[],"cksum":"17bd7d3b696677c7844bf4ce7db7492c140b0922a553b6d285fe642e6d9934b5","features":{},"yanked":false,"links":null}
+{"name":"tinystr-raw","vers":"0.1.1","deps":[],"cksum":"b975dd2af5824896acaeebf7336471fcafebfa417da0a290ded5509f297ccedb","features":{"default":["std"],"std":[]},"yanked":false,"links":null}

@@ -1,0 +1,2 @@
+{"name":"kdb_c_api","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4fbebcaf86b6d19a834b832fdd47c5305da7a7e74b3f9d0692e67008c33a8074","features":{},"yanked":false,"links":null}
+{"name":"kdb_c_api","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ca09a1f9d427a901913036b74f55d384e2c8c6158a9e20aaad00cce710213b78","features":{},"yanked":false,"links":null}

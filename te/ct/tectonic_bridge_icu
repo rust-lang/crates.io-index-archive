@@ -1,0 +1,1 @@
+{"name":"tectonic_bridge_icu","vers":"0.1.0","deps":[{"name":"tectonic_dep_support","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3fc8933089ba32f30c28abad44e8a26baa551c1162252fb9b3e39d8ed8dc5012","features":{},"yanked":false,"links":"icuuc"}

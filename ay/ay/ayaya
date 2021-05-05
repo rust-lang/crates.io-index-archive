@@ -1,0 +1,2 @@
+{"name":"ayaya","vers":"1.0.0","deps":[],"cksum":"c2393672d4672f06f80c93baee14c52ace265b6ba999e07687913155f41d60bb","features":{},"yanked":false,"links":null}
+{"name":"ayaya","vers":"2.0.0","deps":[{"name":"miniz_oxide","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5118a638b00b25980298b96711065d37e6001ef1574b5c5b309d054dc2aea15f","features":{},"yanked":false,"links":null}
