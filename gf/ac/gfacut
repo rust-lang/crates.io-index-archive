@@ -1,1 +1,2 @@
 {"name":"gfacut","vers":"0.1.0","deps":[{"name":"gfaR","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"881582ecb778cce0d3b2884b18277e122ace1b58e37b98344a84bfb963743567","features":{},"yanked":false,"links":null}
+{"name":"gfacut","vers":"0.1.1","deps":[{"name":"gfaR","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7f5862d7a789a2ef1af703cd130a4e071dd473ae08ca61925b2f9759a297174","features":{},"yanked":false,"links":null}
