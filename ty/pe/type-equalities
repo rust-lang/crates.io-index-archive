@@ -1,1 +1,2 @@
 {"name":"type-equalities","vers":"0.1.0","deps":[],"cksum":"294ad2945af9b5750959db84ac64934b173d103b94fc29eba3dbd62a7378c962","features":{"std":[],"default":["std"],"test-for-type-equality":[]},"yanked":false,"links":null}
+{"name":"type-equalities","vers":"0.1.1","deps":[],"cksum":"9a9e1b7be95c5487fe0cbd9fc6ce628c6e8241e48db29d3734a7ec9983118d56","features":{"default":["std"],"std":[],"test-for-type-equality":[]},"yanked":false,"links":null}
