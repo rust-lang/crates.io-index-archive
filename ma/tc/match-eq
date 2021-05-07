@@ -10,3 +10,4 @@
 {"name":"match-eq","vers":"0.2.0","deps":[],"cksum":"de9ea1921b7dfd09aa0903496168e7e9a52d579af302504f26bba3b35b344668","features":{"no-core":[]},"yanked":false,"links":null}
 {"name":"match-eq","vers":"0.2.1","deps":[],"cksum":"edda682aaf45e4b58be05d9bd5be25e43a0d10dfd1b0ac2123d800c354d9b303","features":{"no-core":[]},"yanked":false,"links":null}
 {"name":"match-eq","vers":"0.2.2","deps":[],"cksum":"4996506ca9f29f2341f860d8e88e60a25390acca050a959638f699b267c71027","features":{"no-core":[]},"yanked":false,"links":null}
+{"name":"match-eq","vers":"0.2.3","deps":[],"cksum":"4033329aec7d17354aa83b7ac140e76b55589c7f56a594870d21800c9bc93825","features":{"no-core":[]},"yanked":false,"links":null}
