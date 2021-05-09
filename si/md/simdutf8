@@ -3,3 +3,4 @@
 {"name":"simdutf8","vers":"0.0.3","deps":[],"cksum":"1578f6cbd19f75c78373330201d5fe6f02b36eaeb10ea2955699ad50afaa8a9f","features":{"std":[],"default":["std"],"public_imp":[],"hints":[]},"yanked":false,"links":null}
 {"name":"simdutf8","vers":"0.1.0","deps":[],"cksum":"a4914bc747952c6224c1239d648ff99fdfc71cb9b4bfa6e2a273e0990c366ec7","features":{"std":[],"hints":[],"public_imp":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"simdutf8","vers":"0.1.1","deps":[],"cksum":"7f4f3d445e9015cf5e72cec4a3b3a84f8d54f34207afee609fd152de1c0212b1","features":{"default":["std"],"hints":[],"public_imp":[],"std":[]},"yanked":false,"links":null}
+{"name":"simdutf8","vers":"0.1.2","deps":[],"cksum":"3002a9785179d935c5680a1ee84a45666006407659f53cba077d6c7b48aef1fd","features":{"aarch64_neon":[],"hints":[],"default":["std"],"public_imp":[],"std":[]},"yanked":false,"links":null}
