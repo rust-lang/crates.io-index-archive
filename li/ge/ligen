@@ -1,1 +1,2 @@
 {"name":"ligen","vers":"0.1.0","deps":[],"cksum":"b9cc0ab0ecd2fbc8b6f8878fc771fcb58c0939ff9fa42e98f19f114557b48b6c","features":{},"yanked":false}
+{"name":"ligen","vers":"0.1.4","deps":[{"name":"ligen-core","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"proc-macro2","req":"^1.0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4ac6a4f333afb55f5e9dd183874f3244f37547e191308af488fcffbc9e33eeb","features":{},"yanked":false,"links":null}
