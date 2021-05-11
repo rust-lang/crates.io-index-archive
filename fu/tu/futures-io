@@ -18,3 +18,4 @@
 {"name":"futures-io","vers":"0.3.12","deps":[],"cksum":"28be053525281ad8259d47e4de5de657b25e7bac113458555bb4b70bc6870500","features":{"default":["std"],"read-initializer":[],"std":[],"unstable":[]},"yanked":false,"links":null}
 {"name":"futures-io","vers":"0.3.13","deps":[],"cksum":"d71c2c65c57704c32f5241c1223167c2c3294fd34ac020c807ddbe6db287ba59","features":{"read-initializer":[],"std":[],"unstable":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"futures-io","vers":"0.3.14","deps":[],"cksum":"365a1a1fb30ea1c03a830fdb2158f5236833ac81fa0ad12fe35b29cddc35cb04","features":{"default":["std"],"read-initializer":[],"std":[],"unstable":[]},"yanked":false,"links":null}
+{"name":"futures-io","vers":"0.3.15","deps":[],"cksum":"acc499defb3b348f8d8f3f66415835a9131856ff7714bf10dadfc4ec4bdb29a1","features":{"unstable":[],"default":["std"],"std":[],"read-initializer":[]},"yanked":false,"links":null}
