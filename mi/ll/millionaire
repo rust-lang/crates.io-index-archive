@@ -1,1 +1,2 @@
 {"name":"millionaire","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8ed856dcca7d4cb9ea96ba39014df53f72b815520c0590e2afd23f23fa51211","features":{},"yanked":false,"links":null}
+{"name":"millionaire","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86a39a9459f05534aab2a08aeceaa57c0803f8825004eccb0e40ffb93c7e1fc8","features":{},"yanked":false,"links":null}
