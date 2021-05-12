@@ -6,3 +6,4 @@
 {"name":"qemu-exit","vers":"1.0.0","deps":[],"cksum":"b73ae13954572c7ca0ec48ba9fe6a59c0392066eba62f8cb384ffd5addf538c5","features":{},"yanked":false,"links":null}
 {"name":"qemu-exit","vers":"1.0.1","deps":[],"cksum":"0e64f0ef443037525a562c4fa6ad3460a351ec10c7ebb0b6c49a87a576d0d1b5","features":{},"yanked":false,"links":null}
 {"name":"qemu-exit","vers":"1.0.2","deps":[],"cksum":"702abe3c3255be20a4d67bda326c4117081a49a57afaf752de4845091bc6b476","features":{},"yanked":false,"links":null}
+{"name":"qemu-exit","vers":"2.0.0","deps":[],"cksum":"e179da212ad772061d4120ad2a86a019f929362a477582d8c8014dbf7509cd83","features":{},"yanked":false,"links":null}
