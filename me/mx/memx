@@ -1,0 +1,1 @@
+{"name":"memx","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"de5a33b786ab170c31cd61f42de126fbaeab62865bf2434cef2e0fda7466f50e","features":{"default":[],"cmp_bytes":[]},"yanked":false,"links":null}
