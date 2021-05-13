@@ -1,2 +1,2 @@
-{"name":"hash-trie","vers":"0.0.1","deps":[],"cksum":"5d14fa655d042e2cd09afa80b3f91a06d299489eb16aa5635b62aaf0693394fd","features":{},"yanked":false,"links":null}
+{"name":"hash-trie","vers":"0.0.1","deps":[],"cksum":"5d14fa655d042e2cd09afa80b3f91a06d299489eb16aa5635b62aaf0693394fd","features":{},"yanked":true,"links":null}
 {"name":"hash-trie","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"17c12f0968fb6c0d9b3e5364479b1d7b33163b606c94c0f219c8c580d5da0086","features":{},"yanked":false,"links":null}
