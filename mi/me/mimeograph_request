@@ -1,0 +1,1 @@
+{"name":"mimeograph_request","vers":"0.1.0","deps":[{"name":"http","req":"^0.2.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e70cf511f3bd3eeb5b9ac3201486163adf40eacd9d233300672cef91978f43a9","features":{"default":[],"with_http":["http"]},"yanked":false,"links":null}
