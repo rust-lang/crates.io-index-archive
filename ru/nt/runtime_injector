@@ -4,3 +4,4 @@
 {"name":"runtime_injector","vers":"0.2.0","deps":[{"name":"derive_more","req":"^0.99","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e26cc98ae8c329af3c9ca18a86e45e2b33caaf2927c8cc036f3231254c7ce173","features":{"rc":[],"arc":[],"default":["rc"]},"yanked":false,"links":null}
 {"name":"runtime_injector","vers":"0.2.1","deps":[],"cksum":"e8e70ba5a97d91274e7a214479a773a918b4c91020153467bd46ade482915ac3","features":{"rc":[],"arc":[],"default":["rc"]},"yanked":false,"links":null}
 {"name":"runtime_injector","vers":"0.3.0","deps":[],"cksum":"502461cbb7a7badcf5c74944b362d2ebc41a5ee590460814fbca3af1e859df39","features":{"rc":[],"arc":[],"default":["arc"]},"yanked":false,"links":null}
+{"name":"runtime_injector","vers":"0.4.0","deps":[],"cksum":"8dd0ce9c4b3f0555f9b1bbb83d8ba09749d74f04a2bb0657c0a474683f6faee9","features":{"arc":[],"default":["arc"],"rc":[]},"yanked":false,"links":null}
