@@ -3,3 +3,4 @@
 {"name":"apparat","vers":"0.5.1","deps":[],"cksum":"0436a79aeaea52dbfc075f5a79264760771a05564eb6c8a6864a422d7adcc388","features":{},"yanked":false,"links":null}
 {"name":"apparat","vers":"0.5.2","deps":[],"cksum":"e5b1d0f37f5604450d334ba9100ff046769f4eaea231b6c285338c527d2bf677","features":{},"yanked":false,"links":null}
 {"name":"apparat","vers":"0.5.3","deps":[],"cksum":"91e379169abf18b766b556ec21d8d6b37cc3b370a9ddad059ae45dc3112d96fb","features":{"unsafe":[]},"yanked":false,"links":null}
+{"name":"apparat","vers":"0.5.4","deps":[],"cksum":"22115f0f9849830fea3047b81149973dbcc70f3c4f133e572f4ef334019399fb","features":{"unsafe":[]},"yanked":false,"links":null}
