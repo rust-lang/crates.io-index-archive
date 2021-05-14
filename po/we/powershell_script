@@ -4,3 +4,4 @@
 {"name":"powershell_script","vers":"0.1.3","deps":[],"cksum":"1273e3af08f594619717f6ca2713f4fdf580783357fb4196ae68f19b388eb2a1","features":{},"yanked":false,"links":null}
 {"name":"powershell_script","vers":"0.1.4","deps":[],"cksum":"07a463b96b06885ff6512004db2cf23d51dab8d7af987bf160799489ea4307a6","features":{},"yanked":false,"links":null}
 {"name":"powershell_script","vers":"0.1.5","deps":[],"cksum":"232c43ca4a2aec888dbdcf0167ad05c228692624d5b75b0a775ef4065ca8b03e","features":{},"yanked":false,"links":null}
+{"name":"powershell_script","vers":"0.2.0","deps":[],"cksum":"2c9bf21dc5549e55b2d3832804c8caf181ed3e383e1029204d5c8f79f8aca263","features":{"core":[]},"yanked":false,"links":null}
