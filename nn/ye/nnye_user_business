@@ -1,1 +1,2 @@
 {"name":"nNye_user_business","vers":"0.1.0","deps":[],"cksum":"ec400040e729c27e2117cfde0197639e2ac818676f7e6696ed36f2eaca40478c","features":{},"yanked":false,"links":null}
+{"name":"nNye_user_business","vers":"0.1.1","deps":[{"name":"nNye_solana_communication_layer","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"600c9d6ff0c7b160d4e10e235960a971d9323d6a820543b3602f04b5b0b8b791","features":{},"yanked":false,"links":null}
