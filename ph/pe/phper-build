@@ -1,2 +1,3 @@
 {"name":"phper-build","vers":"0.0.0","deps":[],"cksum":"6651b8eb7bf82857f538ebbbe298c74601f5a2af80b54ed1f33fbaa245fad6d7","features":{},"yanked":false,"links":null}
 {"name":"phper-build","vers":"0.2.0-alpha.1","deps":[{"name":"phper-sys","req":"^0.2.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6634b3ee2583888478ee853ca078483d4e308b0c11871d61390d5d87c30dff86","features":{},"yanked":false,"links":null}
+{"name":"phper-build","vers":"0.2.0-alpha.2","deps":[{"name":"phper-sys","req":"^0.2.0-alpha.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e107624d1a1cb93e4fa0d272bdcb1ed114a67a318d5836b1e3d9ad1eac5e853b","features":{},"yanked":false,"links":null}
