@@ -1,1 +1,2 @@
 {"name":"gowiz_country","vers":"0.0.1","deps":[],"cksum":"112dda11facc369d96661d236c2427ab865b66a4ab26cba4b012d08c31a7fb19","features":{},"yanked":false,"links":null}
+{"name":"gowiz_country","vers":"0.0.2","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5c836ca1d078bfe6851235597cbe6110946eff49c87d18ca958c0d99f97a0ce","features":{},"yanked":false,"links":null}
