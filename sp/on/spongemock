@@ -1,1 +1,2 @@
 {"name":"spongemock","vers":"0.0.0","deps":[],"cksum":"4549c0932b6be5d6f77d088a39acbf03b8075e21f210db67b78cc3ee568ac2ac","features":{},"yanked":false,"links":null}
+{"name":"spongemock","vers":"0.0.1","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"352d84d16ab7ce91b1775ca47419d40b7ba494f9971d5ff26b2351c5ddf0ddd8","features":{},"yanked":false,"links":null}
