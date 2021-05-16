@@ -1,0 +1,1 @@
+{"name":"tracing-mutex","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c86ee095f96bad4d7308d0cc5d0ba1be5c647f6e7c615c0af7162baa008a721","features":{},"yanked":false,"links":null}
