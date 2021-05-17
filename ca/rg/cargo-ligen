@@ -1,0 +1,1 @@
+{"name":"cargo-ligen","vers":"0.1.0","deps":[{"name":"cargo_toml","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0009de0250a33e1e0fdb28f197f631436fa5a62031b22d86ba44ba46c29ed16c","features":{},"yanked":false,"links":null}
