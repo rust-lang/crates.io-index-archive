@@ -2,3 +2,4 @@
 {"name":"classfmt","vers":"0.2.0","deps":[],"cksum":"1453fc3f3089b295f080429f420f6445d96156d8f7bd9b784f1a9ed720feac85","features":{},"yanked":false,"links":null}
 {"name":"classfmt","vers":"0.3.0","deps":[],"cksum":"3a2a11b33fb5b40047c7cf7d0ddbc7acfdf5b5ef729b58641f85684678c016f0","features":{},"yanked":false,"links":null}
 {"name":"classfmt","vers":"0.3.1","deps":[],"cksum":"bc19c6428c016fdc7734068ca4151e29a53252c0fb83117e702d763136687d94","features":{},"yanked":false,"links":null}
+{"name":"classfmt","vers":"0.4.0","deps":[{"name":"bitflags","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bae206cc80e696c44720530ff3f0f6dd1c24b769f9495f3713c5e7017b2a3e2c","features":{},"yanked":false,"links":null}
