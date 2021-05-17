@@ -1,0 +1,1 @@
+{"name":"pic8259","vers":"0.10.0","deps":[{"name":"x86_64","req":"^0.14.2","features":["instructions","inline_asm"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"cc6d7a65c50a2953cd4a264a48287efb2fb57bfeb23afb0e9b09f66cb270b837","features":{},"yanked":false,"links":null}
