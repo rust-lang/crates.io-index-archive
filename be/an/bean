@@ -1,1 +1,2 @@
 {"name":"bean","vers":"0.1.0","deps":[],"cksum":"705ec358c2f570d301856278d1ab2dee0cde0e332d37644498bb544e5537d8a4","features":{},"yanked":false,"links":null}
+{"name":"bean","vers":"0.1.2","deps":[{"name":"bean-macro","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53ae6c489bdf01a4dbfe7c641e09d5a70987e25550c098633a4fb6146773d6cd","features":{},"yanked":false,"links":null}
