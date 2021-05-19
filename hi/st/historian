@@ -16,3 +16,4 @@
 {"name":"historian","vers":"4.0.1","deps":[],"cksum":"b06d45253c59bed1bf099a4a8daa9971ed582923d1a563666daa1a12e3f3f6a4","features":{},"yanked":false,"links":null}
 {"name":"historian","vers":"4.0.2","deps":[],"cksum":"ae471eace83ebaae9c78c358ef0d825ae3c5441b8383a435f9010a9fe7fd1c20","features":{},"yanked":false,"links":null}
 {"name":"historian","vers":"4.0.3","deps":[],"cksum":"f653416eb756b69642a1f1498817970fafe409998a849622c27cc5b1b7df989c","features":{"default":[],"disable":[]},"yanked":false,"links":null}
+{"name":"historian","vers":"4.0.4","deps":[],"cksum":"cae74efdb3c09c2dfbba9351363eebae2ac129f8e07dba620747b80324917657","features":{"default":[],"disable":[],"single_threaded":[]},"yanked":false,"links":null}
