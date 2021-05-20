@@ -2,3 +2,4 @@
 {"name":"libafl_cc","vers":"0.2.1","deps":[],"cksum":"9de86fb74cdec229c9171e8bdc6f17d0e7814e47e397258c4cb216888640f3d9","features":{},"yanked":false,"links":null}
 {"name":"libafl_cc","vers":"0.3.0","deps":[],"cksum":"5c61d6fe48b5282201367ac59f6df1557faae4186f54a3f6641b83d7496c106d","features":{},"yanked":false,"links":null}
 {"name":"libafl_cc","vers":"0.3.1","deps":[],"cksum":"859643ded3a1770838ce505714ba1986dff8e4733cac3fab1e70a9fd57ee2d6f","features":{},"yanked":false,"links":null}
+{"name":"libafl_cc","vers":"0.3.2","deps":[],"cksum":"0d3bfa4569443378c6f35d976f72260019f7a03bae41614d6bf74e066069c89e","features":{},"yanked":false,"links":null}
