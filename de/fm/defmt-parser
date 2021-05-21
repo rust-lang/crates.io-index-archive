@@ -1,2 +1,3 @@
 {"name":"defmt-parser","vers":"0.1.0","deps":[],"cksum":"812b30ff14930407c86a23e256ac050b8e6913f597adcc88e29d40517f7a16de","features":{"unstable":[]},"yanked":false,"links":null}
 {"name":"defmt-parser","vers":"0.2.0","deps":[],"cksum":"c816f778ec2147f95990a606795fe9dcc82781bcd98e222675c4103c2d250ea1","features":{"unstable":[]},"yanked":false,"links":null}
+{"name":"defmt-parser","vers":"0.2.1","deps":[],"cksum":"fc63e313e87db4666440753288012024f117065b52e9b9f4d0d869e9fada6404","features":{"unstable":[]},"yanked":false,"links":null}
