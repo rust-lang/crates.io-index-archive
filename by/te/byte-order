@@ -1,1 +1,2 @@
 {"name":"byte-order","vers":"0.1.0","deps":[{"name":"docgen","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b564849a9d0823e5f4aa7a2083181b059d000c8ef6dea23924ff7acc866770b","features":{},"yanked":false,"links":null}
+{"name":"byte-order","vers":"0.2.0","deps":[],"cksum":"ef7a94abfd22a98e0a4b2e1190928d05ecad4eba28217a1650ff6a32dbcc0cb3","features":{},"yanked":false,"links":null}
