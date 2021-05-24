@@ -1,1 +1,2 @@
 {"name":"electrsd","vers":"0.1.0","deps":[],"cksum":"218bec55bd33a0b88985559fe0b368015b8c920e7795c14ac59c1d318d76a8ed","features":{},"yanked":false,"links":null}
+{"name":"electrsd","vers":"0.2.0","deps":[{"name":"bitcoind","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"electrum-client","req":"^0.7.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c3d1a451b3a8a149f25568af7f8acd47b9f2ae44d7c8cbe02415cebe2a85a0a0","features":{},"yanked":false,"links":null}
