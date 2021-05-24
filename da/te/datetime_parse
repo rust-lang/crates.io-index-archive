@@ -1,0 +1,1 @@
+{"name":"datetime_parse","vers":"0.0.1-alpha","deps":[{"name":"chrono","req":"^0.4.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f164baf484d3ca6d37494a48c2025b5d495fa189c2de20da9f17c1cf9c0d8939","features":{},"yanked":false,"links":null}
