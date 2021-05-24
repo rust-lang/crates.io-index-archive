@@ -16,4 +16,4 @@
 {"name":"pocket_prover","vers":"0.10.0","deps":[],"cksum":"f52a19072b29083396e2b21790d0c2538b54dc7856869dc583da273b2712c59e","features":{},"yanked":false,"links":null}
 {"name":"pocket_prover","vers":"0.11.0","deps":[],"cksum":"d2c724a09e6c9fb9e64ddd1c6701633c8c7c28c0fe16e7c720b099ae07d7ee4d","features":{},"yanked":false,"links":null}
 {"name":"pocket_prover","vers":"0.11.1","deps":[],"cksum":"996cef765aa4626cb667a51d6ad2be543a41e64995d12901c56f1c839ccd2b5a","features":{},"yanked":false,"links":null}
-{"name":"pocket_prover","vers":"0.12.0","deps":[],"cksum":"5aea86f330944047d774363f6edbd41383430300a2cc509f2af40206ca7581ff","features":{},"yanked":false,"links":null}
+{"name":"pocket_prover","vers":"0.12.0","deps":[],"cksum":"5aea86f330944047d774363f6edbd41383430300a2cc509f2af40206ca7581ff","features":{},"yanked":true,"links":null}
