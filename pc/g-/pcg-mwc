@@ -1,0 +1,1 @@
+{"name":"pcg-mwc","vers":"0.1.0","deps":[{"name":"rand_core","req":"^0.6.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cea36da42d3bec0b0f58569504f80ecde132ade7ef7a5e98ea2f78bc9d99f3d","features":{},"yanked":false,"links":null}
