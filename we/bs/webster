@@ -1,0 +1,1 @@
+{"name":"webster","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.64","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e319a027b3231845bd78ee115c84b2f8c26c8ca0555f2bf3f77988c626c1124","features":{},"yanked":false,"links":null}
