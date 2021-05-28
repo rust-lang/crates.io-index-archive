@@ -10,7 +10,7 @@
 {"name":"tryrun","vers":"0.2.2","deps":[],"cksum":"eda5fcabdcd39a0302ff10fa66c448521767e90dfce2d87e5452aec244d44f68","features":{},"yanked":true,"links":null}
 {"name":"tryrun","vers":"0.3.0","deps":[],"cksum":"6fe9c9396a04c11df2f772ed26a6178c8b69878bf2280a58258021d6715e2178","features":{},"yanked":true,"links":null}
 {"name":"tryrun","vers":"0.3.1","deps":[],"cksum":"9e8d781d56c534736d13000a552766a4d8067ed1d540e0d4665860c532ea85e6","features":{},"yanked":false,"links":null}
-{"name":"tryrun","vers":"0.3.2","deps":[],"cksum":"b95131f7f304c74839c4eea4ef55f67db4cf24224801d832ebff4c3cb166e854","features":{},"yanked":false,"links":null}
+{"name":"tryrun","vers":"0.3.2","deps":[],"cksum":"b95131f7f304c74839c4eea4ef55f67db4cf24224801d832ebff4c3cb166e854","features":{},"yanked":true,"links":null}
 {"name":"tryrun","vers":"0.3.3","deps":[],"cksum":"33209060379b6595aad512882b8bb43ca3fb238138dacc66f01beb8f89bb7208","features":{},"yanked":false,"links":null}
 {"name":"tryrun","vers":"0.3.4","deps":[],"cksum":"d73ee2e6c60fc454751a321dcc02a838fe8614883fd1d98c87dbc36dd48824d0","features":{},"yanked":false,"links":null}
 {"name":"tryrun","vers":"0.3.5","deps":[],"cksum":"3e4486b4a49d72a62ae0e5be19fcbd9eed7fbfb998284dfeeb02f81bfc8b6ea5","features":{},"yanked":false,"links":null}
