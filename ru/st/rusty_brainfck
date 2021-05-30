@@ -1,0 +1,1 @@
+{"name":"rusty_brainfck","vers":"0.1.0","deps":[],"cksum":"4d9b2e6bc826ac894ef73ef3bf30c11f3e196d59446f759a5b564b194cc6a653","features":{"tinix":["alloc"],"default":["alloc"],"no_alloc":[],"alloc":[]},"yanked":false,"links":null}
