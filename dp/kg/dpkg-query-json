@@ -1,0 +1,1 @@
+{"name":"dpkg-query-json","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.64","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9d91f3978c3ba34e947cf29519db59149349f2344c25d728cccf27073716d1b","features":{},"yanked":false,"links":null}
