@@ -85,3 +85,4 @@
 {"name":"rustc-ap-rustc_fs_util","vers":"719.0.0","deps":[],"cksum":"8fb3a6e4a4f34c9349606b3bcc5dc16965ae627e0293c567149a671252695ffa","features":{},"yanked":false,"links":null}
 {"name":"rustc-ap-rustc_fs_util","vers":"720.0.0","deps":[],"cksum":"c25065b37cbd6735e9c75d4ff4b47c13cb40478a78f52d865cc307d6490b02cf","features":{},"yanked":false,"links":null}
 {"name":"rustc-ap-rustc_fs_util","vers":"721.0.0","deps":[],"cksum":"4222f3774ae9ef4431796074de023048c707b556a9803e72e61d36659d1910b0","features":{},"yanked":false,"links":null}
+{"name":"rustc-ap-rustc_fs_util","vers":"722.0.0","deps":[],"cksum":"8ad6f13d240944fa8f360d2f3b849a7cadaec75e477829e7dde61e838deda83d","features":{},"yanked":false,"links":null}
