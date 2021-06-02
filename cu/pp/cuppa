@@ -1,0 +1,1 @@
+{"name":"cuppa","vers":"0.0.1","deps":[{"name":"serde_json","req":"^1.0.64","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94e2e90dd5c711ebc8a9b81195b63bfa5fb1e5521289b326ad983be4c7516f4c","features":{},"yanked":false,"links":null}
