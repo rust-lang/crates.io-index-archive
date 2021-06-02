@@ -1,0 +1,1 @@
+{"name":"jokolink","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6086820fa220cf8b00f8e7f00be437acc1cecffbf6820542a2e80e0b2d2c9774","features":{},"yanked":false,"links":null}
