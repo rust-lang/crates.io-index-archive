@@ -1,1 +1,2 @@
 {"name":"u144","vers":"0.1.0","deps":[{"name":"uints","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"108cd9a95b5034800aa9a68c35f13de68f8c89e44bda0d72c5c9bc992fbb3e13","features":{},"yanked":false,"links":null}
+{"name":"u144","vers":"0.2.0","deps":[{"name":"uints","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c37280a3e9dfb174558d6b5f6ee278ff57bdd9d8b46cacd52c64ce734748314c","features":{},"yanked":false,"links":null}
