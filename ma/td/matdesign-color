@@ -1,0 +1,1 @@
+{"name":"matdesign-color","vers":"0.1.0","deps":[{"name":"strum","req":"^0.20","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f09eff1deb519365d6dedc88e203151bc8894fb12de34805e4824fec7a453412","features":{},"yanked":false,"links":null}
