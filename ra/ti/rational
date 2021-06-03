@@ -1,2 +1,3 @@
 {"name":"rational","vers":"0.1.0","deps":[],"cksum":"b778c3c2e69de75112eb08b004fec56e90fda49ff5aee7d2bda16de0922cfa76","features":{},"yanked":true,"links":null}
 {"name":"rational","vers":"0.1.1","deps":[],"cksum":"0ca4d76636a210367f07a985250845b1df70132cded3c5bc6c38d920c852177e","features":{},"yanked":false,"links":null}
+{"name":"rational","vers":"0.1.2","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bd00e437582d1280129aeb9255fd1bef84c84f4cc154d604551c287535d79b61","features":{},"yanked":false,"links":null}
