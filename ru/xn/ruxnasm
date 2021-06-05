@@ -1,0 +1,1 @@
+{"name":"ruxnasm","vers":"0.1.0","deps":[{"name":"codespan-reporting","req":"^0.11.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f4bf9fdeb7141320bec5607b25bc4529c8f374b22a22a97d129939550b91527","features":{"default":["codespan-reporting"]},"yanked":false,"links":null}
