@@ -1,0 +1,1 @@
+{"name":"lzss","vers":"0.8.0","deps":[{"name":"void","req":"^1.0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e4acb789b93d6f2645f530374fff5a16f0689923e6159a10ab11aef2d193bad7","features":{"std":["void/std"],"const_panic":[],"default":["std"]},"yanked":false,"links":null}
