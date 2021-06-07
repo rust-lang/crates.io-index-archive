@@ -5,3 +5,4 @@
 {"name":"gtmpl_value","vers":"0.3.2","deps":[],"cksum":"69f877ee1a3ed4cfd06464b24f1caf8683917bef69adaa619b737dcd7df7625e","features":{},"yanked":false,"links":null}
 {"name":"gtmpl_value","vers":"0.3.3","deps":[],"cksum":"a1993b2a77fb10a996f4421a33deaa78dbac73a7914b9873088567e2556b6842","features":{},"yanked":false,"links":null}
 {"name":"gtmpl_value","vers":"0.4.0","deps":[],"cksum":"8995bd73dd9ff926fdfe2b146e3e571d4b488488844561c9628cf7a736d973de","features":{},"yanked":false,"links":null}
+{"name":"gtmpl_value","vers":"0.5.0","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"febe4db21651bb01291d9009671cbc1cdf33e6fc86ac3e0d0de808696b4e3244","features":{},"yanked":false,"links":null}
