@@ -1,0 +1,1 @@
+{"name":"witx-indent","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.3","features":["wrap_help"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5bc835e331a41436e335a8ae4fc07bb9046285a5b3521e03e5830f8ded41b818","features":{},"yanked":false,"links":null}
