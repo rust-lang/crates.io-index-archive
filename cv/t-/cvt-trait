@@ -3,7 +3,7 @@
 {"name":"cvt-trait","vers":"0.1.2","deps":[],"cksum":"127590d1429bcc84f3f738a9a198e328214b63effb1f3e76d414e3cbccbdf955","features":{},"yanked":true,"links":null}
 {"name":"cvt-trait","vers":"0.1.3","deps":[],"cksum":"400b60098c91de9ee902d5cfecdb6615f540720e6e3fab4eb10bd1ed352d6e79","features":{},"yanked":true,"links":null}
 {"name":"cvt-trait","vers":"0.1.4","deps":[],"cksum":"35e1aacc60d626e240366581fd7217388551cb0b2c67f389812aba110a80d8a5","features":{},"yanked":true,"links":null}
-{"name":"cvt-trait","vers":"0.1.5","deps":[],"cksum":"c9f00b2fa33d2916953d43f72933951b82ee26e6641eb28bba3ef54da7dfb570","features":{},"yanked":false,"links":null}
+{"name":"cvt-trait","vers":"0.1.5","deps":[],"cksum":"c9f00b2fa33d2916953d43f72933951b82ee26e6641eb28bba3ef54da7dfb570","features":{},"yanked":true,"links":null}
 {"name":"cvt-trait","vers":"0.1.6","deps":[],"cksum":"490ce2cfdc6e351b2d03fa250f3be90078d0e4c8c4cfb2403d896249d033175f","features":{},"yanked":false,"links":null}
 {"name":"cvt-trait","vers":"0.1.7","deps":[],"cksum":"1f919f2fc40661b40addaa01991b6e9f6d14b5f5a3a763f18a48f566526f25d8","features":{},"yanked":false,"links":null}
 {"name":"cvt-trait","vers":"0.1.8","deps":[],"cksum":"6f418362834444b1cf0a16f79b22cfb34dc022e6d3374f8de926e15c8f436cb4","features":{},"yanked":false,"links":null}
