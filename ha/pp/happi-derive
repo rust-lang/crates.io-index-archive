@@ -1,0 +1,1 @@
+{"name":"happi-derive","vers":"0.0.1","deps":[{"name":"proc-macro2","req":"^1.0.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32a3977f8b247a5ebc108a024370c4b5db25709346ea9b40f22321207d221dcf","features":{},"yanked":false,"links":null}
