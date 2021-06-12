@@ -1,0 +1,1 @@
+{"name":"hydra-dx-math","vers":"1.0.0","deps":[{"name":"primitive-types","req":"^0.8.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ef1f96851e25837b8a3dc37bfa4cde2c3696fdeb5fcb279aa2ddef6b73604f31","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
