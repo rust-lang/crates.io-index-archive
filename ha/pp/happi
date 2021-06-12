@@ -1,2 +1,3 @@
 {"name":"happi","vers":"0.0.1","deps":[],"cksum":"a1550eb92fa6618fa515f2ff77ee0b582ca69023c65476b1fe451e5400d23e84","features":{},"yanked":false,"links":null}
 {"name":"happi","vers":"0.0.2","deps":[],"cksum":"cc4ea8354ab7cb7df03246c422c4e96dfe5d34bdd501822cfb2fd5fe2b7b8f73","features":{},"yanked":false,"links":null}
+{"name":"happi","vers":"0.0.4","deps":[{"name":"happi-derive","req":">=0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9b2eae8553ffb1227dc3a12a92ca54fdbbf736f1599c46baaba3d2d9ed61498","features":{},"yanked":false,"links":null}
