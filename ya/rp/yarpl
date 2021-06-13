@@ -17,3 +17,4 @@
 {"name":"yarpl","vers":"0.0.19","deps":[],"cksum":"5922c4c226187f101d4399c5508d278fb10bfe119a9281e3fe871cd105deaae9","features":{},"yanked":false,"links":null}
 {"name":"yarpl","vers":"0.0.20","deps":[],"cksum":"9dfe44ea69d0aefd06be6bda38073f98bd54ba7c325cbac2d7d898e68aece78a","features":{},"yanked":false,"links":null}
 {"name":"yarpl","vers":"0.0.21","deps":[],"cksum":"9989666de5ce3b6a632477b468cf956a934acb9cd438c254feaa9342742cd3eb","features":{},"yanked":false,"links":null}
+{"name":"yarpl","vers":"0.0.23","deps":[{"name":"colored","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01e9bdc7850cfb9ea4e370ad0f6c7733109bc81091ba14d488a92655723c9536","features":{},"yanked":false,"links":null}
