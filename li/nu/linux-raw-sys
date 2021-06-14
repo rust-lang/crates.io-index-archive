@@ -1,1 +1,2 @@
 {"name":"linux-raw-sys","vers":"0.0.0","deps":[],"cksum":"680725a0a09286e09371a041d6492c898d6ec73ae0f767045de121a082514107","features":{"v5_11":[],"errno":[],"general":[],"v2_6_32":[],"v5_4":[],"netlink":[],"default":["general","errno"]},"yanked":false,"links":null}
+{"name":"linux-raw-sys","vers":"0.0.1","deps":[],"cksum":"5e5c78ab668bd09677e7925063b25e6bb39c53daea4a002bd28569c9c1932ee9","features":{"v5_11":[],"errno":[],"default":["general","errno"],"general":[],"v2_6_32":[],"v5_4":[],"netlink":[]},"yanked":false,"links":null}
