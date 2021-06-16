@@ -1,0 +1,1 @@
+{"name":"astc-decode","vers":"0.1.0","deps":[{"name":"image","req":"^0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f5a38c32ebb2aa1c293f7c76a49dd0311f58b0decc53b209256391c328611add","features":{},"yanked":false,"links":null}
