@@ -1,1 +1,2 @@
 {"name":"lp5018","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"245f4b3db45df26e138f7c540e0ca5c5462fa13be02d8fc16c7beab5cd85953b","features":{},"yanked":false,"links":null}
+{"name":"lp5018","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7dadf121b7c26ffbc7dd07117fd75cc7863f69fbe24efebf7fb2618d1e2b58fa","features":{},"yanked":false,"links":null}
