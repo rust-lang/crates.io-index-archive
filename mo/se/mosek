@@ -1,0 +1,1 @@
+{"name":"mosek","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"682d22e22c78f84c0a9b4033a5748f2834ed14d4ec8a3501ed1456d724f343f9","features":{},"yanked":false,"links":null}
