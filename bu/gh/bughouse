@@ -1,0 +1,1 @@
+{"name":"bughouse","vers":"0.0.1","deps":[{"name":"chess","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3524b3257c95a9a9c7895ee958e878f0fc0cd68c6e1202d24fe364b6ba140ef","features":{},"yanked":false,"links":null}
