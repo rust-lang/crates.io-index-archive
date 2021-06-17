@@ -1,0 +1,1 @@
+{"name":"array_iter_tools","vers":"0.1.0","deps":[{"name":"array_builder","req":"^0.1.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64529d3ce5a29383f089f0dd1b910012061c6a83f8e6cc8c12a78d1862c247ce","features":{"drop":["array_builder"],"default":["drop"]},"yanked":false,"links":null}
