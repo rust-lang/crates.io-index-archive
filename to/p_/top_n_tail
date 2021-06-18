@@ -1,0 +1,1 @@
+{"name":"top_n_tail","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0.0-beta.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d15831721d1fe84203c8c685ad5680c534b4f72a1b197a499ad5ebfe15e3394e","features":{},"yanked":false,"links":null}
