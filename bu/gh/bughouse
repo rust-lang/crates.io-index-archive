@@ -1,1 +1,2 @@
 {"name":"bughouse","vers":"0.0.1","deps":[{"name":"chess","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3524b3257c95a9a9c7895ee958e878f0fc0cd68c6e1202d24fe364b6ba140ef","features":{},"yanked":false,"links":null}
+{"name":"bughouse","vers":"0.0.2","deps":[{"name":"chess","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98ba25a622ec227f4e48c5bfc74375537b0a07f90ecc7544c024487539673e66","features":{},"yanked":false,"links":null}
