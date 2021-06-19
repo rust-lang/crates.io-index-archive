@@ -1,1 +1,2 @@
 {"name":"bintest","vers":"0.0.0","deps":[{"name":"cargo_metadata","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05b7a7a8afbf3ce60f1e28d4b7067ab691df546df5725d1228d8314fd8d434a3","features":{},"yanked":false,"links":null}
+{"name":"bintest","vers":"0.0.1","deps":[{"name":"cargo_metadata","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67d371d1eff1abc400b407652abb8ad176b55a2e6c4c4e432cedff64bfdf8bdb","features":{},"yanked":false,"links":null}
