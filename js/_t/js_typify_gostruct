@@ -9,6 +9,6 @@
 {"name":"js_typify_gostruct","vers":"1.0.0","deps":[],"cksum":"6761b845427b16536e467ca13b3aca83b06c3c05ce06e4476ecb9b9965e4d66a","features":{},"yanked":true,"links":null}
 {"name":"js_typify_gostruct","vers":"2.0.0","deps":[],"cksum":"f24216c3e3af0c850f6418d121d85ea80c2ce6403b550d60108729beda6a121f","features":{},"yanked":true,"links":null}
 {"name":"js_typify_gostruct","vers":"2.0.1","deps":[],"cksum":"1dffd6794e6725bb39019da44bda94dc1662fc47c88ceeae1c365cf307fb3e98","features":{},"yanked":false,"links":null}
-{"name":"js_typify_gostruct","vers":"2.0.2","deps":[],"cksum":"56d79c2d1c3d713484fe95bf25631420919b1fcb2f3264e4e5a05496fc7d79b0","features":{},"yanked":false,"links":null}
+{"name":"js_typify_gostruct","vers":"2.0.2","deps":[],"cksum":"56d79c2d1c3d713484fe95bf25631420919b1fcb2f3264e4e5a05496fc7d79b0","features":{},"yanked":true,"links":null}
 {"name":"js_typify_gostruct","vers":"2.1.0","deps":[],"cksum":"63fe5112e9c58d9556211d4eb05981e1b990f0c09f88e4da06a1648a8a2ef0bf","features":{},"yanked":false,"links":null}
 {"name":"js_typify_gostruct","vers":"2.1.1","deps":[],"cksum":"1cbec76fc72a2205fcc496a2c0ee9503535ceab23b886faf50d849ce38fd6316","features":{},"yanked":false,"links":null}
