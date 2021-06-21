@@ -1,4 +1,4 @@
 {"name":"stivale_rs","vers":"0.1.0","deps":[],"cksum":"4727e3a66164fe9d915b3d6ca5c18759fa75f43e6aeef0274f63496cf1381417","features":{"v2":[],"v1":[],"default":["v2"]},"yanked":false,"links":null}
-{"name":"stivale_rs","vers":"0.1.1","deps":[],"cksum":"c47f74845e758ae62d63c7556119ebb847a3fe3d99fd2043750e3ca67c47f8c4","features":{"default":["v2"],"v1":[],"v2":[]},"yanked":false,"links":null}
+{"name":"stivale_rs","vers":"0.1.1","deps":[],"cksum":"c47f74845e758ae62d63c7556119ebb847a3fe3d99fd2043750e3ca67c47f8c4","features":{"v1":[],"v2":[],"default":["v2"]},"yanked":true,"links":null}
 {"name":"stivale_rs","vers":"0.1.2","deps":[],"cksum":"08c83c5024b0723564fd2ae47dc3897c49b8de693088d3ccc82f7cb9040e3b8c","features":{"default":["v2"],"v2":[],"v1":[]},"yanked":true,"links":null}
 {"name":"stivale_rs","vers":"0.1.3","deps":[],"cksum":"2a5ff11521239f845436bfe90f538e4bbc4c8edce383e8efb836f0fdf93d48a0","features":{"default":["v2"],"v2":[],"v1":[]},"yanked":true,"links":null}
