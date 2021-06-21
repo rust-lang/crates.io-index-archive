@@ -1,1 +1,2 @@
 {"name":"zende","vers":"0.1.0","deps":[{"name":"version-sync","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ced53118be94636095f1d03021f97bdd825cb256844d04cd1a6d4fb8d19cd904","features":{},"yanked":false,"links":null}
+{"name":"zende","vers":"0.1.3","deps":[{"name":"version-sync","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f57fd72a43d11d90f03a81209a416ff8a75d696a69e8af9db9be21a7e51c7833","features":{},"yanked":false,"links":null}
