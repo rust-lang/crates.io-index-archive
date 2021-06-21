@@ -2,3 +2,4 @@
 {"name":"arbintrary","vers":"0.1.1","deps":[],"cksum":"61463ece63751c19c2b385ba7c17bee071448c637901fdf54cceb124ff6196eb","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"arbintrary","vers":"0.1.2","deps":[],"cksum":"3997b25876f4920e4ad1051c4590a5486cd0d2218d504abc337b4a37cd858bbb","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"arbintrary","vers":"0.2.0","deps":[],"cksum":"c3b61a256af90697812592a17dbb6fcfe97127f9f83889e7381098eaaa807597","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"arbintrary","vers":"0.2.1","deps":[],"cksum":"d4c47b11ea333e0fdf2ff7409a7e4c801762e6cd279015746c1a935da52de32f","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
