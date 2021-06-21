@@ -5,3 +5,4 @@
 {"name":"stivale_rs","vers":"0.1.4","deps":[],"cksum":"65d88b743f5c149d0935150ff875a7c859dc43c50913f6d1df5bbadc3bf5446c","features":{"default":["v1"],"v1":[],"v2":[]},"yanked":false,"links":null}
 {"name":"stivale_rs","vers":"0.1.5","deps":[],"cksum":"62e786f60718b4505ef8a1ffa07f9ca3554ba90f5e5d14bd2ea861e9366eef80","features":{"default":["v1"],"v2":[],"v1":[]},"yanked":false,"links":null}
 {"name":"stivale_rs","vers":"0.1.6","deps":[],"cksum":"3c91bb3a5f552789f929aae5a9f2b6f212558108d9e0072d2a3493d42ccb581b","features":{"v1":[],"default":["v2"],"v2":[]},"yanked":false,"links":null}
+{"name":"stivale_rs","vers":"0.1.7","deps":[],"cksum":"8d34a10b7ae475d7b9439b36ec1ee4045ee139fcec7f59059ffab8353a2fa88b","features":{"default":["v2"],"v2":[],"v1":[]},"yanked":false,"links":null}
