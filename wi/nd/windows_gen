@@ -12,3 +12,4 @@
 {"name":"windows_gen","vers":"0.9.1","deps":[{"name":"syn","req":"^1.0","features":["full"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"54154dbc515d58723f6b6053c12f1065da7389f733660581b2391bd1af480452","features":{},"yanked":false,"links":null}
 {"name":"windows_gen","vers":"0.10.0","deps":[],"cksum":"bc6283570a39b3594e31c64a498f48058758cc063eb087d972bb6476ad134a16","features":{},"yanked":false,"links":null}
 {"name":"windows_gen","vers":"0.11.0","deps":[],"cksum":"44bd40154eb69ba3c80f11752494a2a34d1b448b06b80449238edfbd00ec7eef","features":{},"yanked":false,"links":null}
+{"name":"windows_gen","vers":"0.12.0","deps":[],"cksum":"98559339612c93b285707747c52e6bc647ecbf4c1559287500e3c4dc0f9beecd","features":{},"yanked":false,"links":null}
