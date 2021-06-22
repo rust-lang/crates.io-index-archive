@@ -1,1 +1,2 @@
 {"name":"indxvec","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b4c4667a05e2f4ea4bca0316210f60c27b5c2e734524fe2bb7d071c0761f3cb","features":{},"yanked":false,"links":null}
+{"name":"indxvec","vers":"0.1.1","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e21e869c61c9e85b106b6102befd27bb0e408af0caf5e1daec3de57654d3054","features":{},"yanked":false,"links":null}
