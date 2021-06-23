@@ -1,0 +1,1 @@
+{"name":"mincost","vers":"0.1.0","deps":[{"name":"fastrand","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a77c7e7de225b08b10b726ea996561c43da44cfa9a2f188f59f4728dc5877f6","features":{"sa":[],"ga":[],"pso":[]},"yanked":false,"links":null}
