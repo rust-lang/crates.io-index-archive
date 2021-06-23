@@ -1,1 +1,2 @@
 {"name":"torpid","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76a44dd6d3ed01256865be635fc660740c536d71d476bb63d72a98ea833f59bb","features":{},"yanked":false,"links":null}
+{"name":"torpid","vers":"0.1.1","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"616f51f7832528c5e8e9aec2ead821df48daa7131a7ed9b768c9b9b8091d81af","features":{},"yanked":false,"links":null}
