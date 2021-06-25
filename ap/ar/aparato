@@ -1,3 +1,4 @@
 {"name":"aparato","vers":"3.0.0","deps":[],"cksum":"2e74e9e739aa11370d570d69bf002bc5de8c20fcd421174bef1706d1429a4a7c","features":{},"yanked":false,"links":null}
 {"name":"aparato","vers":"3.1.0","deps":[],"cksum":"9f8ea8119c5b6e74ed44e01599f5f88ec06b9d053ab575bf0b58e372fe7e18af","features":{},"yanked":false,"links":null}
 {"name":"aparato","vers":"3.2.0","deps":[{"name":"cfg-if","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a034d1a1464a091c6d3af85f801e8461c5a9325f8c490560e7f2ca76adefab5e","features":{},"yanked":false,"links":null}
+{"name":"aparato","vers":"3.2.1","deps":[{"name":"cfg-if","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2826d488fae73aa767aa9b656feefe9dd03ec1d3878db53af53e1abfeef6e92","features":{},"yanked":false,"links":null}
