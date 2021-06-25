@@ -1,1 +1,1 @@
-{"name":"neols","vers":"0.2.0","deps":[{"name":"colored","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8564d5ad81c4f0cfa2753329b2ad9a43f88300c284e30544a1a60f6e90bd7cf1","features":{},"yanked":true,"links":null}
+{"name":"neols","vers":"0.2.0","deps":[{"name":"colored","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8564d5ad81c4f0cfa2753329b2ad9a43f88300c284e30544a1a60f6e90bd7cf1","features":{},"yanked":false,"links":null}
