@@ -10,3 +10,4 @@
 {"name":"stivale_rs","vers":"0.1.9","deps":[],"cksum":"9c0142fbc92aca44c3f507382f3eb4e998e8305c89202ca158709e7260314d8a","features":{"v2":[],"default":["v2"],"v1":[]},"yanked":false,"links":null}
 {"name":"stivale_rs","vers":"0.2.0","deps":[],"cksum":"453d6b40969cf048cc78eb06bfed496f28f7bb0e3ee30c62aef8b9dd9482b7d3","features":{"default":["v2"],"v1":[],"v2":[]},"yanked":false,"links":null}
 {"name":"stivale_rs","vers":"0.2.1","deps":[],"cksum":"1eaf2a0ac0ee16f32b4c62d19556a40c2fc5c6318a7a39d15cfad613079815f8","features":{"v1":[],"default":["v2"],"v2":[]},"yanked":false,"links":null}
+{"name":"stivale_rs","vers":"0.2.2","deps":[],"cksum":"722ca54d64b05d6c9907e19ff195482f2a2b542da243f77cc8b8fe2b8fb8aa96","features":{"default":["v2"],"v2":[],"v1":[]},"yanked":false,"links":null}
