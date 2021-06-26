@@ -12,3 +12,4 @@
 {"name":"sgf-parse","vers":"2.0.4","deps":[],"cksum":"498d95b881df6213ee047749665dfa54e435b2de78f9d3175c09edc0868ab660","features":{},"yanked":false,"links":null}
 {"name":"sgf-parse","vers":"3.0.0","deps":[],"cksum":"a1701d1aa43ef60fdd009d57231403b935126036c362c0dbac8e4d897c9f8300","features":{},"yanked":false,"links":null}
 {"name":"sgf-parse","vers":"3.0.1","deps":[],"cksum":"0d9a7116f330bee7686b6185d7fd6863e57444bde91d4dcd99c055321a2239a7","features":{},"yanked":false,"links":null}
+{"name":"sgf-parse","vers":"3.0.2","deps":[],"cksum":"332eb66aaeabb5eac3015e3ab15a2ac7bffde1198892cbcbe3e51899639b68df","features":{},"yanked":false,"links":null}
