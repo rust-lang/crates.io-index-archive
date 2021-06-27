@@ -3,3 +3,4 @@
 {"name":"linemd","vers":"0.2.0","deps":[],"cksum":"f9bc1fa486e882ec582462a5a7aaa7a1e96a372442bda883c87d77bf2f4195f5","features":{"default":["html"],"svg":[],"html":[]},"yanked":false,"links":null}
 {"name":"linemd","vers":"0.2.1","deps":[],"cksum":"703af29af663ef386de521cf3389c20c6e926dd2d9689c010909b232763f9b53","features":{"default":["html"],"html":[],"svg":[]},"yanked":false,"links":null}
 {"name":"linemd","vers":"0.3.0","deps":[],"cksum":"77a3bf323c97028fd7befae469a16e812cd771ee7574ba57d936e07af44d5bf5","features":{"default":["html"],"html":[],"svg":[]},"yanked":false,"links":null}
+{"name":"linemd","vers":"0.4.0","deps":[],"cksum":"0348662567c36d4405fbfcbf9126880a3db859da0070bc293e07b086e670a30e","features":{"default":["html"],"html":[],"svg":[]},"yanked":false,"links":null}
