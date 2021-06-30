@@ -26,3 +26,4 @@
 {"name":"rust-bison-skeleton","vers":"0.26.0","deps":[],"cksum":"2ce9df5a3ae8f0f154f071d18bd22b1fe9d368759dfd0cf88bc43467e8c258d0","features":{},"yanked":false,"links":null}
 {"name":"rust-bison-skeleton","vers":"0.27.0","deps":[],"cksum":"6abde38d157db206f25cbf810791828c93fd5d7dcdfc309ee5617de781becb93","features":{},"yanked":false,"links":null}
 {"name":"rust-bison-skeleton","vers":"0.28.0","deps":[],"cksum":"fcb367100db5138aef2e3d97e9eed990c3048a3caf0e879e03b89f689da079ce","features":{},"yanked":false,"links":null}
+{"name":"rust-bison-skeleton","vers":"0.29.0","deps":[],"cksum":"74363cea723360fedb707187eb1c0c57ccb57861686a39269232f0fee2d385a1","features":{},"yanked":false,"links":null}
