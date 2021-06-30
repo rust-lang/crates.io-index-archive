@@ -1,1 +1,2 @@
 {"name":"segvec","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c652ac0ff7f361b2d8c2a661f33c5bd8a8121f727926b0c550eb6fd0b513b50e","features":{},"yanked":false,"links":null}
+{"name":"segvec","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6f20f78e7138732989fd6915a00ae2176dae8b2c3ac3f355715eaa55569594c1","features":{},"yanked":false,"links":null}
