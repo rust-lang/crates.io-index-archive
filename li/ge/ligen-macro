@@ -1,1 +1,2 @@
 {"name":"ligen-macro","vers":"0.1.13","deps":[{"name":"ligen-core","req":"^0.1.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5aa7c35c7cdaca011e7b18af9780822c7eb9b9b8a7eef7244d7f0ae68bf55bd9","features":{},"yanked":false,"links":null}
+{"name":"ligen-macro","vers":"0.1.14","deps":[{"name":"ligen-core","req":"^0.1.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2fb3f9ee7e22aa2b5f1496957309c52fff577f958142cfd46bf6355507a545b","features":{},"yanked":false,"links":null}
