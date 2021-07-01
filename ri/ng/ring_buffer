@@ -5,3 +5,4 @@
 {"name":"ring_buffer","vers":"1.0.0","deps":[],"cksum":"3c0c73970c2b49c90aade32e948883b77da09f2995c4175404714758ac9002b4","features":{},"yanked":false,"links":null}
 {"name":"ring_buffer","vers":"0.1.4","deps":[],"cksum":"b3b0ac3ca2f2ddaf8e05c7e323e5a8966ed77aacfb4c0274d73f637026efe0ec","features":{},"yanked":false,"links":null}
 {"name":"ring_buffer","vers":"1.0.1","deps":[],"cksum":"33caaf28fdf54cbf448eba2b8c1377b728fdecf431204d4c932f083574531221","features":{},"yanked":false,"links":null}
+{"name":"ring_buffer","vers":"1.0.2","deps":[],"cksum":"4cf004b0b7b04047931fa09db25b17e2f14027d8262e84fab09e14a979ea5708","features":{},"yanked":false,"links":null}
