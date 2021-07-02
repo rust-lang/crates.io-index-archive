@@ -1,0 +1,2 @@
+{"name":"bevy_dylib","vers":"0.4.0","deps":[{"name":"bevy_internal","req":"^0.4.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6ca6cde7102d630520041b66e52a4f383449ee79337549fa38085f92fb451f15","features":{},"yanked":false,"links":null}
+{"name":"bevy_dylib","vers":"0.5.0","deps":[{"name":"bevy_internal","req":"^0.5.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"efa62c7c03470969539a07337bf8c5694c0b952678fd081d68b6331842134b85","features":{},"yanked":false,"links":null}

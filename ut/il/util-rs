@@ -1,0 +1,1 @@
+{"name":"util-rs","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d020952be54d4316a5decbfa5d38e9d4d5976e303aa1a7973558745e38d0affa","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"env-file-reader","vers":"0.1.0","deps":[{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f15ebd94eaa872d64d5ded8c5157bcde21dd19f2aa432be26f22b204fd1e809","features":{},"yanked":false,"links":null}

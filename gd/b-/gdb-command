@@ -1,0 +1,2 @@
+{"name":"gdb-command","vers":"0.1.0","deps":[],"cksum":"46d7e389e57a1fc6852ec143972ade07edb187be5a6f749eb7cf12b909197b24","features":{},"yanked":false,"links":null}
+{"name":"gdb-command","vers":"0.2.0","deps":[{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a7eee704d88efbf3e952684550dfad0f24d5ab977e53862ec049a45fa31e0e6","features":{},"yanked":false,"links":null}

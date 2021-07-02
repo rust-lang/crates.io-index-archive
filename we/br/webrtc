@@ -1,0 +1,7 @@
+{"name":"webrtc","vers":"0.0.0","deps":[{"name":"webrtc-data","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"webrtc-media","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61d21304057a2815eb8b1277289f230be018ceddf6a06886437db74528b2c1d2","features":{},"yanked":false,"links":null}
+{"name":"webrtc","vers":"0.0.1","deps":[],"cksum":"0dc1671c57acc53335f0aa3934a3bbef5d9fbecd1fc5a66786e1f6b6ffa44c90","features":{},"yanked":false,"links":null}
+{"name":"webrtc","vers":"0.0.2","deps":[],"cksum":"c818137ec10c1eb3ab4953355a7b42f837dda2b3e082f6e343091a31293319eb","features":{},"yanked":false,"links":null}
+{"name":"webrtc","vers":"0.0.3","deps":[],"cksum":"7344f327ae545a91642be40329d3b0a9758a015885c098353110ee67fc647a6e","features":{},"yanked":false,"links":null}
+{"name":"webrtc","vers":"0.0.4","deps":[],"cksum":"64a11ac4fd0d4af57f2e9242fa44b3c42afa179d666fc8f27a7798f5d19425b1","features":{},"yanked":false,"links":null}
+{"name":"webrtc","vers":"0.0.5","deps":[],"cksum":"3d43b268ebd21de64e3293a02d0f34e117427b285efc25108c8a0eea15226f42","features":{},"yanked":false,"links":null}
+{"name":"webrtc","vers":"0.0.6","deps":[],"cksum":"9d2d9dcdec5ca30bff5dae393ca69a89c65049d9b9150df9eb349937abd524a8","features":{},"yanked":false,"links":null}

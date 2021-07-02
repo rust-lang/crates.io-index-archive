@@ -1,0 +1,1 @@
+{"name":"pn532","vers":"0.1.0","deps":[{"name":"i2cdev","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dad4eec3ec18f80d045047575887912b181075895a71f9a1db2e9612ee588e9d","features":{},"yanked":false,"links":null}

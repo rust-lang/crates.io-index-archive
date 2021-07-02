@@ -1,0 +1,7 @@
+{"name":"base64ct","vers":"0.0.0","deps":[],"cksum":"ddf31a59b58f1523c28ed3267b7da186b2fa902a408eb0cfdbd83fd38fc10240","features":{},"yanked":true,"links":null}
+{"name":"base64ct","vers":"0.1.0","deps":[],"cksum":"c502cbac2e4ffc38047434d0c88b54da5e7c76829ff16f0a479f90116336d9f3","features":{"alloc":[],"std":["alloc"]},"yanked":true,"links":null}
+{"name":"base64ct","vers":"0.1.1","deps":[],"cksum":"e96c6b8c1cac2cfe84b4ea97794c43085b401df66c466e9a863744c0489679a7","features":{"std":["alloc"],"alloc":[]},"yanked":true,"links":null}
+{"name":"base64ct","vers":"0.1.2","deps":[],"cksum":"b245b005bb8924f38647aeb31388984784a139acbe7ac6d7435fb0a11c4c83d8","features":{"std":["alloc"],"alloc":[]},"yanked":true,"links":null}
+{"name":"base64ct","vers":"0.2.0","deps":[],"cksum":"22fb38fd6e62e4ceec8543db40ceb714454ff173451a0f2a6c8952fdf39a2d6c","features":{"alloc":[],"std":["alloc"]},"yanked":true,"links":null}
+{"name":"base64ct","vers":"0.2.1","deps":[],"cksum":"7b8a45dc8036c7e52889226a96edacd45831c0dbdb8b803a58b8e0e12613b1a6","features":{"std":["alloc"],"alloc":[]},"yanked":true,"links":null}
+{"name":"base64ct","vers":"1.0.0","deps":[],"cksum":"d0d27fb6b6f1e43147af148af49d49329413ba781aa0d5e10979831c210173b5","features":{"std":["alloc"],"alloc":[]},"yanked":false,"links":null}

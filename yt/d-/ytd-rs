@@ -1,0 +1,3 @@
+{"name":"ytd-rs","vers":"0.1.0","deps":[],"cksum":"efb23082211ab2dae79a8534b647ac932879ec4aab169277f1b53ae33e22cbbe","features":{},"yanked":false,"links":null}
+{"name":"ytd-rs","vers":"0.1.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05d5f8da5062a82ccdf0295b8b2b2c0f95f614c3b7802fcef748954f8c7a388e","features":{},"yanked":false,"links":null}
+{"name":"ytd-rs","vers":"0.1.2","deps":[{"name":"regex","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93d62c030e279f2b476882d95ea94903b87cf21c40dadd168bb8406b90d3a89c","features":{},"yanked":false,"links":null}

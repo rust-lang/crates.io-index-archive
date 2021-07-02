@@ -1,0 +1,2 @@
+{"name":"clean_cli","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6fbc46097ceff827b6029973c7140c24ce34f61fc9260171025a72b5d1114b97","features":{},"yanked":false,"links":null}
+{"name":"clean_cli","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f76ba2bff2146db3a984bfb89e3e67e37ee800703f235b6b8472b03a491e429e","features":{},"yanked":false,"links":null}

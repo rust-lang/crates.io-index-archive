@@ -1,0 +1,1 @@
+{"name":"async_cell","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.11","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"984fe9813c3fbae84fa1c5b780408c1b8abd70adcb49a56a55f1642f1e96b2cd","features":{"default":["parking_lot"],"no_std":[]},"yanked":false,"links":null}

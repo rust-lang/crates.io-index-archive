@@ -1,0 +1,1 @@
+{"name":"sbml-sim","vers":"0.1.1-alpha.2","deps":[{"name":"sbml-rs","req":"^0.1.1-alpha","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08b35d60b404c666344ca7513ce88dc842ae5a145ddbd1f7a9c8fa66eea5fa69","features":{},"yanked":false,"links":null}

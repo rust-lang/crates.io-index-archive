@@ -1,0 +1,3 @@
+{"name":"konst_macro_rules","vers":"0.2.0","deps":[],"cksum":"e2047a2598bf32913bd2829c073d69d94a67930bbf02ea4c756b2ef885dbcda4","features":{},"yanked":false,"links":null}
+{"name":"konst_macro_rules","vers":"0.2.3","deps":[],"cksum":"5dfab112103f492f1a995dd4b47cfe6590fcf5086578cd2f9f6fbe2a5a0f8ac5","features":{"const_generics":[],"deref_raw_in_fn":[]},"yanked":false,"links":null}
+{"name":"konst_macro_rules","vers":"0.2.4","deps":[],"cksum":"f90a3b72fadee8f4585b399cfbf2020af6b51863c54c3994fcfaddb204eed323","features":{"const_generics":[],"deref_raw_in_fn":[]},"yanked":false,"links":null}

@@ -1,0 +1,2 @@
+{"name":"gamepad","vers":"0.1.0","deps":[],"cksum":"1f98d4138f5040b2f28897349e685ebe875793bc48d6c20fce8f37b4d09f275d","features":{},"yanked":false,"links":null}
+{"name":"gamepad","vers":"0.1.1","deps":[{"name":"winapi","req":"0.3.*","features":["xinput","winerror"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"929e34be75bf840eea6febaa13d8d87ef5431d75e774ca9ebafd4a234d08814c","features":{},"yanked":false,"links":null}

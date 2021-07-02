@@ -1,0 +1,2 @@
+{"name":"umash-sys","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d1e6be3b957b81ad40b42a853ee8f27e1f9426d0f84fc389be15d9c7080c2a85","features":{},"yanked":false,"links":null}
+{"name":"umash-sys","vers":"0.1.2","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4aba914e971d02fac4ee632376848870662b96e0051ed487ab771a12046cb993","features":{},"yanked":false,"links":null}

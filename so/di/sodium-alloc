@@ -1,0 +1,1 @@
+{"name":"sodium-alloc","vers":"0.1.0","deps":[{"name":"libsodium-sys","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f35c6ed6907bd46fb2190e5aa7f5e5bc9c5b5e5c8e582597d75106f0c12d962","features":{},"yanked":false,"links":null}

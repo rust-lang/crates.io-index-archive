@@ -1,0 +1,2 @@
+{"name":"clf","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7c82bb4aeacafa1925da43e18e31c518dd43297f3cd64ba1794949ac900da046","features":{},"yanked":false,"links":null}
+{"name":"clf","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c4b3cab5eee72dd6a60c41c69bedbcb787ed9f8a5a1f661adf42f3fe733bff45","features":{},"yanked":false,"links":null}

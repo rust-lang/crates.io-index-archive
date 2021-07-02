@@ -1,0 +1,2 @@
+{"name":"smallnum","vers":"0.1.0","deps":[{"name":"static_assertions","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"95c89d656bba2757bbdf243ff04cac197a4708e979cf31c036fe2b47eef740b7","features":{},"yanked":false,"links":null}
+{"name":"smallnum","vers":"0.2.0","deps":[{"name":"static_assertions","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"38ee13886b5e2d769c580dc230c17c7911ff05cd9300738255acf5eee926ee8f","features":{},"yanked":false,"links":null}

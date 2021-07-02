@@ -1,0 +1,2 @@
+{"name":"binary_codec_sv2","vers":"0.1.0","deps":[],"cksum":"38066c8b653cb811bed155aa486ea5f9934a8bc00b2bf4acd5db85564ef0143f","features":{"no_std":[],"deafult":["no_std"]},"yanked":false,"links":null}
+{"name":"binary_codec_sv2","vers":"0.1.1","deps":[],"cksum":"5b3f337c6ea54189ff7da60e685e2e7ed344365ee13e809d4a04a9057fec650b","features":{"deafult":["no_std"],"no_std":[]},"yanked":false,"links":null}
