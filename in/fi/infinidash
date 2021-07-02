@@ -1,0 +1,1 @@
+{"name":"infinidash","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81a46082928d7028f375de963c0ed2362146d3102fe0e6d7bce24f230baee757","features":{},"yanked":false,"links":null}
