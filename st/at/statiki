@@ -6,3 +6,4 @@
 {"name":"statiki","vers":"0.4.0","deps":[],"cksum":"f3723341f6e0a960e5c1f49d4f49c652cdf352d756038b568d18e15c1f67c003","features":{"std":[],"default":[]},"yanked":true,"links":null}
 {"name":"statiki","vers":"0.4.1","deps":[],"cksum":"ddd129209233819e48184d36b3067e6722dde17d73e1ea73899f046db5095643","features":{"default":[],"std":[]},"yanked":false,"links":null}
 {"name":"statiki","vers":"0.4.2","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c4b35129f84b5b9ecab5826200bfb9f6d736acd75f48d26dde086b6bad1d51da","features":{"std":[],"default":[]},"yanked":false,"links":null}
+{"name":"statiki","vers":"0.4.3","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7f6287e9c8a4779525c38656d5526cca30e6dea919f7f3bb674174604d888311","features":{"default":[],"std":[]},"yanked":false,"links":null}
