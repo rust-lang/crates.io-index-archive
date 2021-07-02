@@ -8,3 +8,4 @@
 {"name":"ring_buffer","vers":"1.0.2","deps":[],"cksum":"4cf004b0b7b04047931fa09db25b17e2f14027d8262e84fab09e14a979ea5708","features":{},"yanked":false,"links":null}
 {"name":"ring_buffer","vers":"2.0.0","deps":[],"cksum":"51586aecffc68a2191765dc53765c9601655be5666a498d16f9c48c917fc422b","features":{},"yanked":false,"links":null}
 {"name":"ring_buffer","vers":"2.0.1","deps":[],"cksum":"88f6d5f26445711e6fce597b5c53a0f0704bad8ccd26afaedf3442a1fa93e385","features":{},"yanked":false,"links":null}
+{"name":"ring_buffer","vers":"2.0.2","deps":[],"cksum":"944cd13fb0222712688b9e6cf8002c31eca42e9eb963bd0a1e4d36da2a27bdbf","features":{},"yanked":false,"links":null}
