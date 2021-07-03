@@ -1,1 +1,2 @@
 {"name":"cpu-stress-test","vers":"1.0.0","deps":[{"name":"num_cpus","req":"^1.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21b0a91bfa30c7e13b8f1f8f5117ed8213f902c520629fc2967be703b1737280","features":{},"yanked":false,"links":null}
+{"name":"cpu-stress-test","vers":"2.0.0","deps":[{"name":"num_cpus","req":"^1.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d4330c9a2ec6402da8e9fd447f5f863587d70b82fe3631bbecd814959a4aefe","features":{},"yanked":false,"links":null}
