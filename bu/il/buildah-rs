@@ -1,0 +1,1 @@
+{"name":"buildah-rs","vers":"0.1.0","deps":[{"name":"tracing","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f70d80657d3d582fc5df61356a18421c3a085c73dbbce902701095b8a52c9e6d","features":{},"yanked":false,"links":null}
