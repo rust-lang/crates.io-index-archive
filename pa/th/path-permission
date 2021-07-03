@@ -1,0 +1,1 @@
+{"name":"path-permission","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.97","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"293653d68492a2d4c130c16f61550f0eccc696437f8925d3996e02a8d6a5a68c","features":{},"yanked":false,"links":null}
