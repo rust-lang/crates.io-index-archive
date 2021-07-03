@@ -1,1 +1,2 @@
 {"name":"scicrypt","vers":"0.0.1","deps":[],"cksum":"59a5d09639f93cbb1e56f55ef5ca9602ea3eed5f9f2679ab3125e50879a17791","features":{},"yanked":false,"links":null}
+{"name":"scicrypt","vers":"0.0.2","deps":[{"name":"curve25519-dalek","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand_core","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"868b5714cc825f4bd3b8ba9f9e052be0a29df85d9399e8db5cbba9b8ea38dd8c","features":{},"yanked":false,"links":null}
