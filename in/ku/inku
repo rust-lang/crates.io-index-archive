@@ -1,0 +1,1 @@
+{"name":"inku","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.20.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"47448cee8cf7d29eccdd79272c06b7fde043d6251c12c65af51b5e215c354c5b","features":{},"yanked":false,"links":null}
