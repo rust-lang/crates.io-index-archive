@@ -1,0 +1,1 @@
+{"name":"chatui_server","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.64","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1780f846f58da3115dde05d442ad764f39290cef796f9afc003b080d90170e59","features":{},"yanked":false,"links":null}
