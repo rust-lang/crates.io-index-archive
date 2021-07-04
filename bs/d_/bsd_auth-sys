@@ -1,0 +1,1 @@
+{"name":"bsd_auth-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.58.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2122e1dcd992bff4644b29e22e29bb07e7e963821f546506205dbf84e08fad8b","features":{},"yanked":false,"links":null}
