@@ -1,1 +1,2 @@
 {"name":"vfxpreopenexr-sys","vers":"0.0.1","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5c54661d1a63c8f46e9c91d364afc432ba1aa32d1cf3598268da473f525a0c7c","features":{},"yanked":false,"links":null}
+{"name":"vfxpreopenexr-sys","vers":"0.0.2","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b4f073690277590ad8cb14ec8021e8da67873ac41037b9c3f9d6c6eced682b11","features":{},"yanked":false,"links":null}
