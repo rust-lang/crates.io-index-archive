@@ -1,1 +1,2 @@
 {"name":"calamp-rs","vers":"0.0.1","deps":[],"cksum":"212f13e3b6a7f94e58056e2d5462f7662b8bcf301b33383281777e48179a531e","features":{},"yanked":false,"links":null}
+{"name":"calamp-rs","vers":"0.0.2","deps":[{"name":"nom","req":"^6.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e386e732d47258a191dc008bd8ccb9d6dee26d4829ad4018394643c1fc9986b","features":{},"yanked":false,"links":null}
