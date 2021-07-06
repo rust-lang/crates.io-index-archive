@@ -7,3 +7,4 @@
 {"name":"typestate-automata","vers":"0.4.3","deps":[],"cksum":"87a6aa380c2b72c35cf9ddb7ffaf5b170a2514ca0481fde44f21c16e5447e414","features":{"dot":[],"plantuml":[]},"yanked":false,"links":null}
 {"name":"typestate-automata","vers":"0.4.4","deps":[],"cksum":"836c5a4c624a6ee1b293a6b2cc82d52d601cc22b81d796fcd9cdf654a9c5d082","features":{"dot":[],"mermaid":[],"plantuml":[]},"yanked":false,"links":null}
 {"name":"typestate-automata","vers":"0.4.5","deps":[],"cksum":"f5f83542880b4cde9f94c747cf8bb8a5e678109eecaf2fb0a487404659472124","features":{"dot":[],"mermaid":[],"plantuml":[]},"yanked":false,"links":null}
+{"name":"typestate-automata","vers":"0.5.0","deps":[],"cksum":"abb21a955613619100e4280158475f5a3e88fc6d460e8c8989472390b91cadd4","features":{"dot":[],"mermaid":[],"plantuml":[]},"yanked":false,"links":null}
