@@ -1,0 +1,1 @@
+{"name":"stomp-rs","vers":"0.0.1","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82861e4de6b6f1a47e323200b8d16d0b4089ba6e95f3c0838eb9744d96d0be15","features":{},"yanked":false,"links":null}
