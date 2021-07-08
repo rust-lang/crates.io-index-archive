@@ -26,3 +26,4 @@
 {"name":"windows_gen","vers":"0.15.7","deps":[],"cksum":"f7d5273332c6a25a6ed7771d41d76fd637f78a688d74d0d78f1d14d1319deba9","features":{},"yanked":false,"links":null}
 {"name":"windows_gen","vers":"0.16.0","deps":[],"cksum":"e468ad9b55ce557c2059ba2dd7c13579e009dabb4e63f014c2ab8f5abb8f8fe8","features":{},"yanked":false,"links":null}
 {"name":"windows_gen","vers":"0.17.0","deps":[],"cksum":"feea76755b4fc5b9da0fbf0c9913aa05eb10daccd58aad3b4017aa64c2538cb6","features":{},"yanked":false,"links":null}
+{"name":"windows_gen","vers":"0.17.1","deps":[],"cksum":"61737fee98b09441223b824e47703e01727b719489451cf9e559aa19a92b7fa9","features":{},"yanked":false,"links":null}
