@@ -1,0 +1,1 @@
+{"name":"rust_ipify","vers":"1.0.0","deps":[{"name":"reqwest","req":"^0.11","features":["blocking","json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eda1dc37914c8a67cfad850308d29c3367eb855f8ae8e6226f4765fd3c9873b2","features":{},"yanked":false,"links":null}
