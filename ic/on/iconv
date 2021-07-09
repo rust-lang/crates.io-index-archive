@@ -1,0 +1,1 @@
+{"name":"iconv","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.97","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea9d2fa24b1d8acbf4c9c6f6dc58f6d0161dea0ea0fcd77e790485890368fa51","features":{},"yanked":false,"links":null}
