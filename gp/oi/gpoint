@@ -1,1 +1,2 @@
 {"name":"gpoint","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"792c80d434fa3701e2c7c9bfea9b4ec8095c14fcd5618acb685066a69ad6f5bf","features":{},"yanked":false,"links":null}
+{"name":"gpoint","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"308670ed4507d1fb1bcd85e27aaa4347ddbef5e50e7b4bf874e46cbab4ebdc11","features":{},"yanked":false,"links":null}
