@@ -1,0 +1,1 @@
+{"name":"bitvecbuf","vers":"0.1.0","deps":[{"name":"bitvec","req":"^0.22.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f3eb7a5a5aec20a14e672d3b38b0b462d78ef9259fdddf8d1630ae97800b9e3","features":{"nightly":[]},"yanked":false,"links":null}
