@@ -1,2 +1,3 @@
 {"name":"guff-matrix","vers":"0.1.0","deps":[],"cksum":"a8e2e69051100aa55babf3b126ba68ede2068684c2687eec780fe4716a7a0492","features":{"fake-simd":[]},"yanked":false,"links":null}
 {"name":"guff-matrix","vers":"0.1.1","deps":[{"name":"guff","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26f5401362f4dac0b61369ffd5e7232dc99b9a6a952ed9777c2a8bd543b5ac97","features":{"fake-simd":[]},"yanked":false,"links":null}
+{"name":"guff-matrix","vers":"0.1.2","deps":[{"name":"guff","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"054a38ef224fee807fedfd4383f9232fd9f8f485ddbcd49a67a8f1bef2e0b31b","features":{"fake-simd":[]},"yanked":false,"links":null}
