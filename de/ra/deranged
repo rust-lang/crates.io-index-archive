@@ -1,2 +1,2 @@
-{"name":"deranged","vers":"0.0.0-alpha.0","deps":[],"cksum":"071691de190232eac62b2ab37a8a28441d0ba58fa62bf7be97234031cf5a0885","features":{},"yanked":false,"links":null}
+{"name":"deranged","vers":"0.0.0-alpha.0","deps":[],"cksum":"071691de190232eac62b2ab37a8a28441d0ba58fa62bf7be97234031cf5a0885","features":{},"yanked":true,"links":null}
 {"name":"deranged","vers":"0.1.0","deps":[{"name":"deranged-macros","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e0e9a3645aac62754d5cd4358d46228869caa85eb0fa4a067ce3a71cbf7210b","features":{},"yanked":false,"links":null}
