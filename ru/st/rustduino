@@ -1,0 +1,1 @@
+{"name":"rustduino","vers":"0.1.0","deps":[{"name":"const_env--value","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcb4511f112fe7b2bc73da236e128cad3d07ea440d0847e252f249212773e4f7","features":{},"yanked":false,"links":null}
