@@ -1,0 +1,1 @@
+{"name":"readpassphrase-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.58.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a123054c85c376b1a194a8f108daf34b53c58cb42c65c4de6692881fbb09edc6","features":{},"yanked":false,"links":null}
