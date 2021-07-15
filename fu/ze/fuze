@@ -1,0 +1,1 @@
+{"name":"fuze","vers":"1.0.0","deps":[{"name":"async-std","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37c34e2fd42e212001872d7a65d40ceb6eba4b7ea2971cdc380ab216e1ae6f43","features":{},"yanked":false,"links":null}
