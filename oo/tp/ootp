@@ -1,0 +1,1 @@
+{"name":"ootp","vers":"0.0.1","deps":[{"name":"hmac-sha1","req":"~0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"865e7117490df3a8e4187b24d5e0f76496506934f51f285b3dfc0a100654fccc","features":{},"yanked":false,"links":null}
