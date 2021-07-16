@@ -1,1 +1,2 @@
 {"name":"alea","vers":"0.1.0","deps":[],"cksum":"5c122c40da12bc8cc970862f7ee0b4c3d8c1d62b1824b5fe80a95a8d5650db6d","features":{},"yanked":false,"links":null}
+{"name":"alea","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"fastrand","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"deb9c8379340eb70fa6524dad1d1d584e7d0d24ccabc3e1f0764a66fc9da76e5","features":{},"yanked":false,"links":null}
