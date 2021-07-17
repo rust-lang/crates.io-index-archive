@@ -1,0 +1,1 @@
+{"name":"go-parse-duration","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"641a667063e569a65d59811ac372a4ca6926c91db606f13f5eddc03b68c59934","features":{},"yanked":false,"links":null}
