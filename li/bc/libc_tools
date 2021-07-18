@@ -1,0 +1,1 @@
+{"name":"libc_tools","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.98","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f628f57d852f69b950b784f0b3f31d92ce157fb4fbb13a6ed04b99d62aecd00d","features":{},"yanked":false,"links":null}
