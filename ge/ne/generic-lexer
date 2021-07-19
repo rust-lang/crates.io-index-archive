@@ -5,6 +5,6 @@
 {"name":"generic-lexer","vers":"0.2.0","deps":[],"cksum":"3b7847943d150f550f54b7d21d1e8587d9e832a4fc8df77b5e961d00a61fd3f4","features":{},"yanked":true,"links":null}
 {"name":"generic-lexer","vers":"0.3.0","deps":[],"cksum":"93903dbed044f633b0b002594043df46aa76119b4b74f1cf7759866eb4a3f4b0","features":{},"yanked":true,"links":null}
 {"name":"generic-lexer","vers":"0.4.0","deps":[],"cksum":"63adb24723dbcec6fb88cc841bbf506e80eecf94341eb95b34ef44e96105a63e","features":{},"yanked":true,"links":null}
-{"name":"generic-lexer","vers":"0.4.1","deps":[],"cksum":"8fadd56d7e6fea76fbd920ce7dda820b1aecdaf5fc99b0964d38e9d119185fff","features":{},"yanked":true,"links":null}
+{"name":"generic-lexer","vers":"0.4.1","deps":[],"cksum":"8fadd56d7e6fea76fbd920ce7dda820b1aecdaf5fc99b0964d38e9d119185fff","features":{},"yanked":false,"links":null}
 {"name":"generic-lexer","vers":"0.4.2","deps":[],"cksum":"d4667a2d7e388b0c56dd58428099e66ff48f5b944f16d2c51ea9502e47f5ae77","features":{},"yanked":false,"links":null}
 {"name":"generic-lexer","vers":"0.5.0","deps":[],"cksum":"3eb0cc97181d0512a8b59903763c9dea9b03b3792844466a9c7e4a29774e1d73","features":{},"yanked":false,"links":null}
