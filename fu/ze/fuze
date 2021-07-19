@@ -1,1 +1,2 @@
 {"name":"fuze","vers":"1.0.0","deps":[{"name":"async-std","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37c34e2fd42e212001872d7a65d40ceb6eba4b7ea2971cdc380ab216e1ae6f43","features":{},"yanked":false,"links":null}
+{"name":"fuze","vers":"2.0.0","deps":[{"name":"async-std","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b80d64723b4ef23cca7b89b21355cd31b055d61ce93bd57a21a4f474dc39013","features":{},"yanked":false,"links":null}
