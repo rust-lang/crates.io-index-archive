@@ -1,1 +1,2 @@
 {"name":"rust_cards","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbbc1311ba515f2f7d29618e4f4e1f32358ffbfcd604896b3239e5945e94ffa0","features":{},"yanked":false,"links":null}
+{"name":"rust_cards","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"732720403a921f7445d783f90d23f1783464ac5efb5fa548202d6b28f35d10a0","features":{},"yanked":false,"links":null}
