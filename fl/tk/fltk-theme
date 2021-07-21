@@ -1,1 +1,1 @@
-{"name":"fltk-theme","vers":"0.1.0","deps":[{"name":"fltk","req":"^1.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"855c31b3ed2ace35b197a4cccaff45a9a8c20bfbbab9d79077d9b1450112fa28","features":{},"yanked":false,"links":null}
+{"name":"fltk-theme","vers":"0.1.0","deps":[{"name":"fltk","req":"^1.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"855c31b3ed2ace35b197a4cccaff45a9a8c20bfbbab9d79077d9b1450112fa28","features":{},"yanked":true,"links":null}
