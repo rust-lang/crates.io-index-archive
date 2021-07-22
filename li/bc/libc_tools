@@ -1,1 +1,2 @@
 {"name":"libc_tools","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.98","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f628f57d852f69b950b784f0b3f31d92ce157fb4fbb13a6ed04b99d62aecd00d","features":{},"yanked":false,"links":null}
+{"name":"libc_tools","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.98","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af46f87be104a6b8f1ba8007689067c1c6d83eb8b2fb872741880350ce220a29","features":{},"yanked":false,"links":null}
