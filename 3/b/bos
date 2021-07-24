@@ -4,3 +4,4 @@
 {"name":"bos","vers":"0.1.1","deps":[],"cksum":"61f4f5161f99c855817376033fdd5f63070fa4ad17dfb5ca7e0d93359c564875","features":{"unstable":[]},"yanked":false,"links":null}
 {"name":"bos","vers":"0.2.0","deps":[],"cksum":"8a374fc802e1db23b220770925ca21bf8acba3af76460e8aa1f3d63fcf9af568","features":{"unstable":[]},"yanked":false,"links":null}
 {"name":"bos","vers":"0.2.1","deps":[],"cksum":"94e8c1b54530c9bafb57f650dbf014f73d139e57934254a9239c135124e8b74e","features":{"unstable":[]},"yanked":false,"links":null}
+{"name":"bos","vers":"0.2.2","deps":[{"name":"assert_matches","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"tap","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c3332c4b27e105e6b0b01ae732284de817bcaf01673eca6f46efebcd14c5fa27","features":{"unstable":[]},"yanked":false,"links":null}
