@@ -1,0 +1,1 @@
+{"name":"coin_toss","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f89d5d15be0a77dea2922c657502f2330b7da88c5de095cd8ad947618c7e448","features":{},"yanked":false,"links":null}
