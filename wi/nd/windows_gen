@@ -28,3 +28,4 @@
 {"name":"windows_gen","vers":"0.17.0","deps":[],"cksum":"feea76755b4fc5b9da0fbf0c9913aa05eb10daccd58aad3b4017aa64c2538cb6","features":{},"yanked":false,"links":null}
 {"name":"windows_gen","vers":"0.17.1","deps":[],"cksum":"61737fee98b09441223b824e47703e01727b719489451cf9e559aa19a92b7fa9","features":{},"yanked":false,"links":null}
 {"name":"windows_gen","vers":"0.17.2","deps":[],"cksum":"57f5facfb04bc84b5fcd27018266d90ce272e11f8b91745dfdd47282e8e0607e","features":{},"yanked":false,"links":null}
+{"name":"windows_gen","vers":"0.18.0","deps":[],"cksum":"cf583322dc423ee021035b358e535015f7fd163058a31e2d37b99a939141121d","features":{"raw_dylib":[]},"yanked":false,"links":null}
