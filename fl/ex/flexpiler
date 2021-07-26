@@ -1,1 +1,2 @@
 {"name":"flexpiler","vers":"0.1.0","deps":[],"cksum":"766cdfd095e04a15d05c6c4e4cc0109ea942e4772a838811103c6805078aa86b","features":{},"yanked":false,"links":null}
+{"name":"flexpiler","vers":"0.1.1","deps":[{"name":"flexpiler_derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9beebd8b29a52e0ba706a7d4fa950dc485439babde772ea41b5d29511b2ef084","features":{},"yanked":false,"links":null}
