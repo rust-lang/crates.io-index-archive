@@ -49,3 +49,4 @@
 {"name":"ra_ap_paths","vers":"0.0.63","deps":[],"cksum":"96445253d6f577843a6c290916d0be1c1b13ab415a5b8d6b169f996e24a019a1","features":{},"yanked":false,"links":null}
 {"name":"ra_ap_paths","vers":"0.0.64","deps":[],"cksum":"12319ccc4e054918fd6f9663e3d77e78f881e5689b676bdcebc2ce93d087403f","features":{},"yanked":false,"links":null}
 {"name":"ra_ap_paths","vers":"0.0.65","deps":[{"name":"serde","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2975957f012aab6806a152bed8fb91beb6d0554440aed447bd19889ae900f44a","features":{},"yanked":false,"links":null}
+{"name":"ra_ap_paths","vers":"0.0.66","deps":[{"name":"serde","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1c2089301bc7eec84f0f22f3deb6d3de9455760543025494338313ca62e3e7a","features":{},"yanked":false,"links":null}
