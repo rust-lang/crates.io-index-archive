@@ -1,0 +1,1 @@
+{"name":"gpio-rust","vers":"0.1.0","deps":[{"name":"inline-python","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c33575f6f989045ca65d2fc833ac3ffeefd663e5d2eba88458c2c69a65d82bc","features":{},"yanked":false,"links":null}
