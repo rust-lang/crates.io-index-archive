@@ -13,3 +13,4 @@
 {"name":"sgf-parse","vers":"3.0.0","deps":[],"cksum":"a1701d1aa43ef60fdd009d57231403b935126036c362c0dbac8e4d897c9f8300","features":{},"yanked":false,"links":null}
 {"name":"sgf-parse","vers":"3.0.1","deps":[],"cksum":"0d9a7116f330bee7686b6185d7fd6863e57444bde91d4dcd99c055321a2239a7","features":{},"yanked":false,"links":null}
 {"name":"sgf-parse","vers":"3.0.2","deps":[],"cksum":"332eb66aaeabb5eac3015e3ab15a2ac7bffde1198892cbcbe3e51899639b68df","features":{},"yanked":false,"links":null}
+{"name":"sgf-parse","vers":"3.1.0","deps":[],"cksum":"74a9d7bee84e3d88bdbcb6a46b9cd1c3a58325f3dd0f630f3d3f55b4ae33268c","features":{},"yanked":false,"links":null}
