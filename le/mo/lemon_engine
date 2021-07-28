@@ -1,1 +1,2 @@
 {"name":"lemon_engine","vers":"0.1.0","deps":[{"name":"glium","req":"^0.30.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"850f4eb86dc95f0a8143befdeaf0b2cf144d833d8cb9deec46ac8bc9183092b6","features":{},"yanked":false,"links":null}
+{"name":"lemon_engine","vers":"0.1.1","deps":[{"name":"glium","req":"^0.30.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"384098ae42139f545642cbdef0aa73ab17dc9c9c12817ff461d9eb71e763f71e","features":{},"yanked":false,"links":null}
