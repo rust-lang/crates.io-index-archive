@@ -12,7 +12,7 @@
 {"name":"ddlc_helper","vers":"1.2.5","deps":[{"name":"once_cell","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0840e7a5cbd2b8fb6e925d28f4fad14ae64a8bfb402f539e3cb15bc3d482be73","features":{},"yanked":false,"links":null}
 {"name":"ddlc_helper","vers":"1.2.6","deps":[{"name":"once_cell","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6fee58788cdc45e1ba4a9826c7e8c2b2c8e3b5ae0c484131f67a68771ca94975","features":{},"yanked":false,"links":null}
 {"name":"ddlc_helper","vers":"1.3.0","deps":[{"name":"once_cell","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9bfbc501f6f9fd8cc66deaa79560feb6a5bc28e2bd6435724e70c2a1b07c393","features":{},"yanked":true,"links":null}
-{"name":"ddlc_helper","vers":"2.0.0","deps":[],"cksum":"1d221fef79c635b9a25ea76dd093de885965c5112b01c74b3eff37863c3dc227","features":{},"yanked":false,"links":null}
+{"name":"ddlc_helper","vers":"2.0.0","deps":[],"cksum":"1d221fef79c635b9a25ea76dd093de885965c5112b01c74b3eff37863c3dc227","features":{},"yanked":true,"links":null}
 {"name":"ddlc_helper","vers":"2.0.1","deps":[],"cksum":"138cbbc9fd0c7d9c9b5653c0914c47f30d803fcf88d86ed15c36c140988d87ed","features":{},"yanked":false,"links":null}
 {"name":"ddlc_helper","vers":"2.0.2","deps":[],"cksum":"0acf43fccf44a02d48b1ef312b6556387689fdaf351bc13555b0dc425e8be5e1","features":{},"yanked":false,"links":null}
 {"name":"ddlc_helper","vers":"2.0.3","deps":[],"cksum":"2664f7417c2f5d890197f8051639e00cbbc5823e87c9bdb69c6d1504c0e702f0","features":{},"yanked":false,"links":null}
