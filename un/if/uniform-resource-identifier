@@ -1,2 +1,3 @@
 {"name":"uniform-resource-identifier","vers":"0.0.1","deps":[],"cksum":"b130842cda444e6710dd91f0fcfbeacc029f7bce309e39a1c31a71dad4369f55","features":{},"yanked":false,"links":null}
 {"name":"uniform-resource-identifier","vers":"0.0.2","deps":[{"name":"bytes","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"196ef52f18a7a77cdf58c347f1848fc90bd7dc4fa9fde2a9a5c9b0857f560341","features":{},"yanked":false,"links":null}
+{"name":"uniform-resource-identifier","vers":"0.0.3","deps":[{"name":"bytes","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02e3a9e7be89c05634b934f216a4c4a9feb32b7544e113b00ed9efc16e74f5f6","features":{},"yanked":false,"links":null}
