@@ -1,1 +1,2 @@
 {"name":"cowsay","vers":"0.1.0","deps":[{"name":"structopt","req":"^0.3.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c57cf6b79ab6d7766814a89021b12a6d223a66979306de7c7f53954de79d8a0","features":{},"yanked":false,"links":null}
+{"name":"cowsay","vers":"0.2.0","deps":[{"name":"structopt","req":"^0.3.21","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f9647910a6203c576e36db56d03b7f21951e7aba9636391318522d209b2a4e8","features":{},"yanked":false,"links":null}
