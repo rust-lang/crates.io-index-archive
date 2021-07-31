@@ -5,3 +5,4 @@
 {"name":"alloc-no-stdlib","vers":"2.0.0","deps":[],"cksum":"89376a1f1a188ddc8b54198370fd7b62568162bb8a0c5bf0684cd29933e37284","features":{"unsafe":[]},"yanked":false,"links":null}
 {"name":"alloc-no-stdlib","vers":"2.0.1","deps":[],"cksum":"5192ec435945d87bc2f70992b4d818154b5feede43c09fb7592146374eac90a6","features":{"unsafe":[]},"yanked":false,"links":null}
 {"name":"alloc-no-stdlib","vers":"2.0.2","deps":[],"cksum":"80b0b4f7e4cf50c7e3acb162a9e601f43a977f7eda1b9a92f81803b47e6df547","features":{"unsafe":[]},"yanked":false,"links":null}
+{"name":"alloc-no-stdlib","vers":"2.0.3","deps":[],"cksum":"35ef4730490ad1c4eae5c4325b2a95f521d023e5c885853ff7aca0a6a1631db3","features":{"unsafe":[]},"yanked":false,"links":null}
