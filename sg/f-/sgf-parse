@@ -15,3 +15,4 @@
 {"name":"sgf-parse","vers":"3.0.2","deps":[],"cksum":"332eb66aaeabb5eac3015e3ab15a2ac7bffde1198892cbcbe3e51899639b68df","features":{},"yanked":false,"links":null}
 {"name":"sgf-parse","vers":"3.1.0","deps":[],"cksum":"74a9d7bee84e3d88bdbcb6a46b9cd1c3a58325f3dd0f630f3d3f55b4ae33268c","features":{},"yanked":false,"links":null}
 {"name":"sgf-parse","vers":"3.1.1","deps":[],"cksum":"ee7fad4fdfe06a5070830a2ecb7f9e3dc5a0eb4ca95e60ac08687d9db2a939e5","features":{},"yanked":false,"links":null}
+{"name":"sgf-parse","vers":"3.1.2","deps":[],"cksum":"3f2135262e8828c1b48395c7ca0e5eac1a1495e91298d39797f82fbea105bca2","features":{},"yanked":false,"links":null}
