@@ -25,4 +25,4 @@
 {"name":"tagger","vers":"2.1.2","deps":[],"cksum":"4d24aa510e0458213081385feee87bcbfb2f920010392e6664e283560b2fea83","features":{},"yanked":false,"links":null}
 {"name":"tagger","vers":"2.2.0","deps":[],"cksum":"d0cf540ed778a3a0a0ea1e2bc941b65e1e89e53444b84f512a3ab47f70968321","features":{},"yanked":false,"links":null}
 {"name":"tagger","vers":"2.2.1","deps":[],"cksum":"d286833a0d891ec8c590cb5f33a3a9c40a14ddb770b31e3aebb6b720979b024d","features":{},"yanked":false,"links":null}
-{"name":"tagger","vers":"3.0.0","deps":[],"cksum":"2aae0f43425b3da63c8d5ef702e5fe5b4dbdce1c55569ea404ed7b1f7ec10658","features":{},"yanked":false,"links":null}
+{"name":"tagger","vers":"3.0.0","deps":[],"cksum":"2aae0f43425b3da63c8d5ef702e5fe5b4dbdce1c55569ea404ed7b1f7ec10658","features":{},"yanked":true,"links":null}
