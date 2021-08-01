@@ -27,5 +27,5 @@
 {"name":"tagger","vers":"2.2.1","deps":[],"cksum":"d286833a0d891ec8c590cb5f33a3a9c40a14ddb770b31e3aebb6b720979b024d","features":{},"yanked":false,"links":null}
 {"name":"tagger","vers":"3.0.0","deps":[],"cksum":"2aae0f43425b3da63c8d5ef702e5fe5b4dbdce1c55569ea404ed7b1f7ec10658","features":{},"yanked":true,"links":null}
 {"name":"tagger","vers":"3.0.1","deps":[],"cksum":"cb7f43a5719af4f29e5161ed317fcc8eed341e993a25a242453a621a80768cf3","features":{},"yanked":true,"links":null}
-{"name":"tagger","vers":"3.0.2","deps":[],"cksum":"8e6d64d70777e2da2cd3c40c19d833fd2758b5c0a0f1320f58d96fa33974aebe","features":{},"yanked":false,"links":null}
+{"name":"tagger","vers":"3.0.2","deps":[],"cksum":"8e6d64d70777e2da2cd3c40c19d833fd2758b5c0a0f1320f58d96fa33974aebe","features":{},"yanked":true,"links":null}
 {"name":"tagger","vers":"3.0.4","deps":[],"cksum":"00d4761862f953f5a7c308fc58721bcfcac52cb8f002fa003af991ba379de87e","features":{},"yanked":false,"links":null}
