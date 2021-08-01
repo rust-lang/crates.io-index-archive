@@ -1,1 +1,2 @@
 {"name":"sbi","vers":"0.0.0","deps":[{"name":"bit_field","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f65022f8731d02eebdb66e8b84895061c42b09d37eb65263720de0d92802dc37","features":{},"yanked":false,"links":null}
+{"name":"sbi","vers":"0.1.0","deps":[{"name":"bit_field","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c815597347ebf9aa34591a2a2bde873efe07094db6cfa945845492d268ddd4e","features":{},"yanked":false,"links":null}
