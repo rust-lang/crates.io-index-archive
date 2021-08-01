@@ -1,1 +1,2 @@
 {"name":"index-utils","vers":"1.0.0","deps":[{"name":"relp-num","req":"^0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"97f1e000709df91a0a61f249b551343a961c0642c60f1f2bd366a888aa437834","features":{},"yanked":false,"links":null}
+{"name":"index-utils","vers":"1.0.1","deps":[{"name":"relp-num","req":"^0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9cb6b9f8ee71aa5339f06a6071d4f39f86f97cea6851a55ea4519f51623143a8","features":{},"yanked":false,"links":null}
