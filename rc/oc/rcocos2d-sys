@@ -1,1 +1,2 @@
 {"name":"rcocos2d-sys","vers":"0.1.0","deps":[],"cksum":"2837e5cfd1e2dbff19db976a41facf8a630ad85dc41e055575f859aae9ab155d","features":{},"yanked":false,"links":null}
+{"name":"rcocos2d-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.59","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8e34fb6a1d498fec3c5c85b646f6b885cf1eccc352f4769096d2fb890fe60cc4","features":{},"yanked":false,"links":null}
