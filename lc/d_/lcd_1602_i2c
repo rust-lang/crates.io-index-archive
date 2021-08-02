@@ -1,0 +1,1 @@
+{"name":"lcd_1602_i2c","vers":"0.2.0","deps":[{"name":"embedded-hal","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d8aeb6c1bf67b37eed204c493cc4b700b3d1f81bbaaa0ed2deb9ea04019d099","features":{},"yanked":false,"links":null}
