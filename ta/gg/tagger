@@ -33,3 +33,4 @@
 {"name":"tagger","vers":"3.0.6","deps":[],"cksum":"ff3783c0c7a76373498a41801c8c67b835ddba05eeb6d0a775c1f3e8eb92e09d","features":{},"yanked":true,"links":null}
 {"name":"tagger","vers":"3.1.0","deps":[],"cksum":"79efa7289d37acb96d577d8584f2b104a78c351cb4c411face1a496b53451e2a","features":{},"yanked":true,"links":null}
 {"name":"tagger","vers":"3.1.1","deps":[],"cksum":"92b983d1d5d8f03888237c6f8bfce69f5cbaa0cfeba163765a907d0c5c64fb69","features":{},"yanked":false,"links":null}
+{"name":"tagger","vers":"3.1.2","deps":[],"cksum":"60971a77dc4315a3cdb45d8c82f066dc6293cde556d849acb0e484c206dd8570","features":{},"yanked":false,"links":null}
