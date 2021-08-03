@@ -1,0 +1,1 @@
+{"name":"winter-utils","vers":"0.0.0","deps":[{"name":"rayon","req":"^1.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c7ed7a1fc1d6735ad867ba1dfd8ca58f1f7999accaee6f549bfd1aaaa3c104a","features":{"concurrent":["rayon"]},"yanked":false,"links":null}
