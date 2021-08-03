@@ -1,0 +1,1 @@
+{"name":"tbf","vers":"0.1.0","deps":[{"name":"spin","req":"^0.9","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68b37689a509d729fbdd541e880c71b19d6649c778e441db1bd5613213e82dea","features":{"imfs":["spin"],"dfs":["std"],"std":[],"default":["std","imfs","dfs"]},"yanked":false,"links":null}
