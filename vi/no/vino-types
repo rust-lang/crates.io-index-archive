@@ -1,0 +1,1 @@
+{"name":"vino-types","vers":"0.6.2","deps":[{"name":"serde","req":"^1.0.118","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1873d5890518427c2f01d00b935cbe468658741aa8a23d7aa99c35cf1ebb63e4","features":{},"yanked":false,"links":null}
