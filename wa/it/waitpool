@@ -1,0 +1,1 @@
+{"name":"waitpool","vers":"0.1.0","deps":[{"name":"crossbeam","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"292444a1b85ed35e27c5fb417ace9272ef614e0de35dbfc175de615ff44e88fe","features":{},"yanked":false,"links":null}
