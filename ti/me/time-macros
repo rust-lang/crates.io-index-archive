@@ -4,3 +4,4 @@
 {"name":"time-macros","vers":"0.2.0-alpha.0","deps":[{"name":"standback","req":"^0.3.1","features":["msrv-1-46"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"06871c63832e5091df3d04d5777d742dabc86159651d161afa8e3133fa6a41b0","features":{"large-dates":[]},"yanked":false,"links":null}
 {"name":"time-macros","vers":"0.2.0-alpha.1","deps":[],"cksum":"36234b149f749cc36d38c30f77426ba421f63aada9ac919a2853da2a0fc9f465","features":{"large-dates":[]},"yanked":false,"links":null}
 {"name":"time-macros","vers":"0.2.0","deps":[],"cksum":"10758c2d95454f52ffd0173cd4a0dce8d6b118b9aac27c5a4b785ddf9a499c72","features":{"large-dates":[]},"yanked":false,"links":null}
+{"name":"time-macros","vers":"0.2.1","deps":[],"cksum":"04a153416002296880a3b51329a0e3df31c779c53ec827993e865ce427982843","features":{"large-dates":[]},"yanked":false,"links":null}
