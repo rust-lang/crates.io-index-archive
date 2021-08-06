@@ -1,1 +1,1 @@
-{"name":"serial-console","vers":"0.1.0","deps":[{"name":"structopt","req":"^0.3.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db8ab6d98859f775e7947adb6aae64de527ec16923a8510aaaa2351a4c9f6ab0","features":{},"yanked":false,"links":null}
+{"name":"serial-console","vers":"0.1.0","deps":[{"name":"structopt","req":"^0.3.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db8ab6d98859f775e7947adb6aae64de527ec16923a8510aaaa2351a4c9f6ab0","features":{},"yanked":true,"links":null}
