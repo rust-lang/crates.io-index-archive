@@ -1,0 +1,1 @@
+{"name":"collatz_conjecture","vers":"0.1.0","deps":[{"name":"text_io","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5f5ce07dd073fa4090c284fa0e23ecabbaf81a420fc0883d3d181852a0f3ffa","features":{},"yanked":false,"links":null}
