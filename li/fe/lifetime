@@ -1,0 +1,1 @@
+{"name":"lifetime","vers":"0.1.0-beta1","deps":[{"name":"assert_matches","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"01641c14799352bda185d02d6f92f647eaa9d53ccddc0438792865019dace610","features":{"unstable":[]},"yanked":false,"links":null}
