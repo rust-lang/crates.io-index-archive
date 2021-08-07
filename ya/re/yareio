@@ -1,0 +1,1 @@
+{"name":"yareio","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2592bf01a3b96b0053760c4c4fd07c650f3b2bef7de25b8cee1b0214f1d0235c","features":{"headless":["rand"]},"yanked":false,"links":null}
