@@ -4,3 +4,4 @@
 {"name":"bsdiff","vers":"0.1.3","deps":[{"name":"libc","req":"^0.2.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6228080dec34edfb8e26b17dee41d61e31da4cd44fce2eb4fa137259cc68a07c","features":{},"yanked":false}
 {"name":"bsdiff","vers":"0.1.4","deps":[{"name":"libc","req":"^0.2.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63163cba488bb7baec2e551dc8dcbd13fe7aef1c36fc24afbdf01240d30e401b","features":{},"yanked":false,"links":null}
 {"name":"bsdiff","vers":"0.1.5","deps":[],"cksum":"e77ad7397e20666421826788a5b0398bdbf1a8720e3d952c3e86cf34bd67f065","features":{},"yanked":false,"links":null}
+{"name":"bsdiff","vers":"0.1.6","deps":[],"cksum":"53a5456cea81693e6d82a95ab193fdaca148588aa7665b2b05d51bb487b08e91","features":{},"yanked":false,"links":null}
