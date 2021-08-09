@@ -4,3 +4,4 @@
 {"name":"ckb-db-schema","vers":"0.42.0","deps":[],"cksum":"c1bbe422df5a6a70bff260c1e953e12eff908e31369a1343287be3c08e029c14","features":{},"yanked":false,"links":null}
 {"name":"ckb-db-schema","vers":"0.43.0","deps":[],"cksum":"e6c261e3755d62ee5fa1c02ebe616b48717c9671f3143eae75b5c791fdb116bd","features":{},"yanked":false,"links":null}
 {"name":"ckb-db-schema","vers":"0.100.0-rc2","deps":[],"cksum":"6d079b1eff1f8401ab87310b7d2f0899bdffd5d7233d18bbcb18d7a737f92020","features":{},"yanked":false,"links":null}
+{"name":"ckb-db-schema","vers":"0.43.2","deps":[],"cksum":"e2a6ffc3ee114a98fa4f0bf6a1763e4e222d6d8bbd1107ebd2288f9b0a7dda92","features":{},"yanked":false,"links":null}
