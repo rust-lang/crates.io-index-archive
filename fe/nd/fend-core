@@ -21,3 +21,4 @@
 {"name":"fend-core","vers":"0.1.21","deps":[],"cksum":"b40d3328448be3954aa687636d3a970bdb4dbc82150f2a633320eb33bb9abc25","features":{"default":[],"gpl":[]},"yanked":false,"links":null}
 {"name":"fend-core","vers":"0.1.22","deps":[],"cksum":"d6ae695059fe34202adb78fde6917bceba8c19a1443d9a9b6d225f75e7db12b3","features":{"default":[],"gpl":[]},"yanked":false,"links":null}
 {"name":"fend-core","vers":"0.1.23","deps":[],"cksum":"aa7f0cd58c23e6351979bf33b7f4bc44d03e080cbc5819eee6a527d38efdc409","features":{"gpl":[],"default":[]},"yanked":false,"links":null}
+{"name":"fend-core","vers":"0.1.24","deps":[],"cksum":"34c625328b17befda5306e1ef0dfb62163251da48e122f97fc2beda760a21777","features":{"default":[],"gpl":[]},"yanked":false,"links":null}
