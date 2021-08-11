@@ -1,0 +1,1 @@
+{"name":"mosaiq-c-bindings","vers":"0.2.4","deps":[{"name":"bindgen","req":"^0.59","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6b9450e92ec54509750de3693c8e18747b7efe0d8c27d68a57fab33e375b5e61","features":{},"yanked":false,"links":null}
