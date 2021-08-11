@@ -1,0 +1,1 @@
+{"name":"truelayer-extensions","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["rt"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59b7dcffe2c2864f8713af5a9ec67248b536821031b8f5cefbdf8eb9cac469ec","features":{},"yanked":false,"links":null}
