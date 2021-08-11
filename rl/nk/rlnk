@@ -5,4 +5,4 @@
 {"name":"rlnk","vers":"0.1.4","deps":[],"cksum":"323f43fdb5070893f0063f558754bc9c279c98db4821aeef0230ab71286cf10c","features":{},"yanked":true,"links":null}
 {"name":"rlnk","vers":"0.1.5","deps":[],"cksum":"715886df53230d608902e0de25d1fa36521a64e920123fcc3a1802dbd0381537","features":{},"yanked":false,"links":null}
 {"name":"rlnk","vers":"0.1.6","deps":[],"cksum":"f3e308eabb21d13375e5bff07b118975e91106b1a7ff0a1e403c17d32c58f993","features":{},"yanked":false,"links":null}
-{"name":"rlnk","vers":"0.1.7","deps":[],"cksum":"1c352adff528c03ed9fcf9c073187f6495305c53b41a3bdfbe82e389480e6704","features":{},"yanked":false,"links":null}
+{"name":"rlnk","vers":"0.1.7","deps":[],"cksum":"1c352adff528c03ed9fcf9c073187f6495305c53b41a3bdfbe82e389480e6704","features":{},"yanked":true,"links":null}
