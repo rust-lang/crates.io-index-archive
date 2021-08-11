@@ -7,3 +7,4 @@
 {"name":"ruma-identifiers-validation","vers":"0.2.4","deps":[],"cksum":"4634ea4dfc2f812aa245a41f8d4dc1c0dbf687d0cf9789e9d1018cfe6196f3fa","features":{"compat":[],"serde":[]},"yanked":false,"links":null}
 {"name":"ruma-identifiers-validation","vers":"0.3.0","deps":[],"cksum":"ecb664a32ba1cccf0d5cec34bef6bfccc042b54b8b5f9610729a128fcdf569a5","features":{"compat":[]},"yanked":false,"links":null}
 {"name":"ruma-identifiers-validation","vers":"0.4.0","deps":[],"cksum":"8edeb165c4dcb8c93d1b7396b32fd5f52c5d9c7e7898ab87d772f824fe642f7c","features":{"compat":[]},"yanked":false,"links":null}
+{"name":"ruma-identifiers-validation","vers":"0.5.0","deps":[],"cksum":"42285e7fb5d5f2d5268e45bb683e36d5c6fd9fc1e11a4559ba3c3521f3bbb2cb","features":{"compat":[]},"yanked":false,"links":null}
