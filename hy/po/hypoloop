@@ -4,3 +4,4 @@
 {"name":"hypoloop","vers":"0.1.3","deps":[],"cksum":"478444e75bb7d02010b2c7582928ad9e5332ecffe308cf484024a30492fe5b8c","features":{},"yanked":false,"links":null}
 {"name":"hypoloop","vers":"0.1.4","deps":[],"cksum":"af3261a8b66898cdb236a4088ea8bd61527fc194232cabe50f332315da8c29cf","features":{},"yanked":false,"links":null}
 {"name":"hypoloop","vers":"0.1.5","deps":[],"cksum":"4e8fc4d821ea58577ea6c13c222d47bc4e982683551a3c810130634d4c1e9226","features":{},"yanked":false,"links":null}
+{"name":"hypoloop","vers":"0.1.6","deps":[{"name":"winit","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"56c81d53ae92d5226a2b79d5350f590d024682ff3cf025eba17e54889b208d8e","features":{},"yanked":false,"links":null}
