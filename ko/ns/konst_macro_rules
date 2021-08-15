@@ -3,3 +3,4 @@
 {"name":"konst_macro_rules","vers":"0.2.4","deps":[],"cksum":"f90a3b72fadee8f4585b399cfbf2020af6b51863c54c3994fcfaddb204eed323","features":{"const_generics":[],"deref_raw_in_fn":[]},"yanked":false,"links":null}
 {"name":"konst_macro_rules","vers":"0.2.5","deps":[],"cksum":"a3a0281c2a441c2ca9e5188847e70fb22b584eb6af4fc28ea2dcd28166dddc32","features":{"deref_raw_in_fn":[],"const_generics":[]},"yanked":false,"links":null}
 {"name":"konst_macro_rules","vers":"0.2.7","deps":[],"cksum":"82e4668f0605fb6ea5f8d1cfbbf089de6862041a8ffe06f8e5793cea0433dd8c","features":{"nightly_mut_refs":["mut_refs"],"deref_raw_in_fn":[],"mut_refs":["deref_raw_in_fn"],"const_generics":[]},"yanked":false,"links":null}
+{"name":"konst_macro_rules","vers":"0.2.9","deps":[],"cksum":"ec52a4e9d9f7e6c408a12b904b2763d3facd801f9ad1ba921a532d0d999f258c","features":{"const_generics":[],"deref_raw_in_fn":[],"mut_refs":["deref_raw_in_fn"],"nightly_mut_refs":["mut_refs"]},"yanked":false,"links":null}
