@@ -1,0 +1,1 @@
+{"name":"lps25hb","vers":"0.0.1","deps":[{"name":"embedded-hal","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3373fcd1e321b6580968ae0d85886059a7d49ab631fb0f2c49d431001d09ce1f","features":{},"yanked":false,"links":null}
