@@ -1,1 +1,2 @@
 {"name":"vino-types","vers":"0.6.2","deps":[{"name":"serde","req":"^1.0.118","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1873d5890518427c2f01d00b935cbe468658741aa8a23d7aa99c35cf1ebb63e4","features":{},"yanked":false,"links":null}
+{"name":"vino-types","vers":"0.7.0","deps":[{"name":"serde","req":"^1.0.118","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2de86714a60a397bb9ed5e4f4b418ad39a2f124c7e95032335c29e770f2f8faf","features":{},"yanked":false,"links":null}
