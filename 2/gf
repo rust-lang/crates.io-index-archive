@@ -7,3 +7,4 @@
 {"name":"gf","vers":"0.3.0","deps":[],"cksum":"a520cda375976d47e8a53e6e18b6133854b9aefb0fe8df6619ee9cc441db65dc","features":{},"yanked":false,"links":null}
 {"name":"gf","vers":"0.3.1","deps":[],"cksum":"df8f50790fb2004e49b5e7966be5512beb8847c1346309193f74bde5d5110382","features":{},"yanked":false,"links":null}
 {"name":"gf","vers":"0.4.0","deps":[],"cksum":"1c7a96f739f7588e09d3d91001a88f676140829fad4ea140b3cdc101b0be0851","features":{},"yanked":false,"links":null}
+{"name":"gf","vers":"0.5.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"nalgebra","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cb67b6c43eb8d60974575b2b131cc88127c84f41877a4b69ff0cafdcbd9befc9","features":{},"yanked":false,"links":null}
