@@ -19,3 +19,4 @@
 {"name":"lib-ruby-parser-nodes","vers":"0.19.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_yaml","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe520e0f691805f59085932206f195f8aec03ccf47b1db6df708ff74db753e50","features":{},"yanked":false,"links":null}
 {"name":"lib-ruby-parser-nodes","vers":"0.20.0","deps":[],"cksum":"a532a46b2d5f5832b2c0c38bf943f96e7712f3dd2833376f603115578b47b540","features":{},"yanked":false,"links":null}
 {"name":"lib-ruby-parser-nodes","vers":"0.21.0","deps":[],"cksum":"28eeccfa628c14e2d5bf50ed64ea037b3916dde169a4ed1407a3654d9d9724fe","features":{},"yanked":false,"links":null}
+{"name":"lib-ruby-parser-nodes","vers":"0.22.0","deps":[],"cksum":"cdb518d89026590efd9c3fd1141b02c710b821b839554d94db8c9bf5e4941ff2","features":{},"yanked":false,"links":null}
