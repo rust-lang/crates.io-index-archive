@@ -1,1 +1,2 @@
 {"name":"singleton-manager","vers":"0.1.0","deps":[{"name":"uuid","req":"^0.8.2","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72e073729ecc115dcc9e9d1d139a977c13bf9c3cf5b354cc30eeeefa3e8ac6d3","features":{},"yanked":false,"links":null}
+{"name":"singleton-manager","vers":"0.1.1","deps":[{"name":"uuid","req":"^0.8.2","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ff56a9441c6596b5f1cbf550bf262c566bec084728031453e716bb86e74db5f","features":{},"yanked":false,"links":null}
