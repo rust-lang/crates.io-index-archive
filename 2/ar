@@ -9,3 +9,4 @@
 {"name":"ar","vers":"0.6.2","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"579681b3fecd1e9d6b5ce6969e05f9feb913f296eddaf595be1166a5ca597bc4","features":{},"yanked":false,"links":null}
 {"name":"ar","vers":"0.7.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c1afd66a96a235fa8eeec0ee757ec0d2c0db7cb89b4e04ae159f37952b97bd5","features":{},"yanked":false,"links":null}
 {"name":"ar","vers":"0.8.0","deps":[],"cksum":"450575f58f7bee32816abbff470cbc47797397c2a81e0eaced4b98436daf52e1","features":{},"yanked":false,"links":null}
+{"name":"ar","vers":"0.9.0","deps":[],"cksum":"d67af77d68a931ecd5cbd8a3b5987d63a1d1d1278f7f6a60ae33db485cdebb69","features":{},"yanked":false,"links":null}
