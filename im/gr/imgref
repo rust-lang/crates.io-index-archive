@@ -8,7 +8,7 @@
 {"name":"imgref","vers":"1.3.1","deps":[],"cksum":"93820cd9f55fc43539a06a636ac4d241060e048a3e7c911c53d5efb809f9d255","features":{},"yanked":false}
 {"name":"imgref","vers":"1.3.2","deps":[],"cksum":"06166678513c95fcada4c97a173ff2cc9360d41713a929d8cd9788a7172b13bb","features":{},"yanked":false}
 {"name":"imgref","vers":"1.3.3","deps":[],"cksum":"b9d74b256e1f468ccbb4835cc0b5ce1fe917d056a06839ba900baaf2549d25be","features":{},"yanked":false}
-{"name":"imgref","vers":"1.3.4","deps":[],"cksum":"241dfa3b48eb9cc8d1e8835885e1061a624de7427c8893a7bec122183699fa76","features":{},"yanked":false,"links":null}
+{"name":"imgref","vers":"1.3.4","deps":[],"cksum":"241dfa3b48eb9cc8d1e8835885e1061a624de7427c8893a7bec122183699fa76","features":{},"yanked":true,"links":null}
 {"name":"imgref","vers":"1.3.5","deps":[],"cksum":"c4d82e3b85c0b36e597ebe42ae8d3ca4bc46da837211f51f693ec20b8cced2d8","features":{},"yanked":false,"links":null}
 {"name":"imgref","vers":"1.4.0","deps":[],"cksum":"a45f5dd9db42f924c8e75d53777c4ea87a024b162ddb4af5dbe7c1add901a212","features":{},"yanked":false,"links":null}
 {"name":"imgref","vers":"1.4.1","deps":[],"cksum":"5aa18eb070bbea81d409ddebd55e2bcb8c2931ade125bad36d4fe8da115ca82b","features":{},"yanked":false,"links":null}
