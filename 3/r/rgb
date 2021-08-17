@@ -7,7 +7,7 @@
 {"name":"rgb","vers":"0.5.2","deps":[],"cksum":"dbda75bbef9728e40179b08c9c22e9eaed979a9a253a743fc07b9436878d9ce0","features":{},"yanked":false}
 {"name":"rgb","vers":"0.5.3","deps":[],"cksum":"18dcd46081da005cab6352bccbd6b9c369fb29793d6bd0e53e57c17acc853b11","features":{},"yanked":false}
 {"name":"rgb","vers":"0.5.4","deps":[],"cksum":"db831eded6a9e4509ff488ea1a63beb7da4facb1efa9115008bb56bfacec9fb4","features":{},"yanked":false}
-{"name":"rgb","vers":"0.5.5","deps":[],"cksum":"75f7fec08d4c8e4f18148558a70b64a00099f0752444f945844fff5bab6b4c56","features":{},"yanked":false}
+{"name":"rgb","vers":"0.5.5","deps":[],"cksum":"75f7fec08d4c8e4f18148558a70b64a00099f0752444f945844fff5bab6b4c56","features":{},"yanked":true,"links":null}
 {"name":"rgb","vers":"0.5.6","deps":[],"cksum":"e4d60cdc1ebfef740a0b56db14e8c9bc30a54fd3709c8c664d06f986eeede666","features":{},"yanked":true,"links":null}
 {"name":"rgb","vers":"0.5.7","deps":[],"cksum":"4db5350eea2dbb4f4972c4fb4d980b70c3f0ed3983eb2f66d174a43457514a14","features":{},"yanked":true,"links":null}
 {"name":"rgb","vers":"0.5.8","deps":[],"cksum":"a738820c16acdd5c5497659d0df991d185f4116ce576ba41f86418b4e880a3e2","features":{},"yanked":false}
