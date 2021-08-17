@@ -1,0 +1,1 @@
+{"name":"violin","vers":"0.0.1","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8957e222805d7278082cc1d35299d7dcc3d4ca5d7070ef75090f1d45fb2eab68","features":{"default":[],"alloc":["rand/alloc"],"doc":[],"std":["rand/std"],"nightly":[]},"yanked":false,"links":null}
