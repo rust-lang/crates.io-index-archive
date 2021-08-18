@@ -1,0 +1,1 @@
+{"name":"railsgun","vers":"0.1.2","deps":[{"name":"tokio","req":"^1.8.1","features":["rt-multi-thread"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02876eef1a868b6a6d35f77b0c693af21d9044a67c60ccbcf0131e3004326ce0","features":{},"yanked":false,"links":null}
