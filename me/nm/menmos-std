@@ -1,1 +1,2 @@
 {"name":"menmos-std","vers":"0.0.7","deps":[{"name":"tokio","req":"^1.2","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4520ec6629c6ce7c8f81e91bb73430047995703647dc519467d181966885f058","features":{},"yanked":false,"links":null}
+{"name":"menmos-std","vers":"0.0.8","deps":[{"name":"tokio","req":"^1.2","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5415d4822104979414bfd64a45b65f86ba6c1ad159003f2163697aea2c6a03d","features":{},"yanked":false,"links":null}
