@@ -1,1 +1,2 @@
 {"name":"lolicon_api","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd506c8184b28d53e9c799750f4dc90bdff226e38402db83e5a74dd7c8fae262","features":{},"yanked":false,"links":null}
+{"name":"lolicon_api","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58e61487c530f25d95d1512aaea770add42ef5a711e4153fd50a14a86a0ba0a5","features":{},"yanked":false,"links":null}
