@@ -3,7 +3,7 @@
 {"name":"rexif","vers":"0.3.1","deps":[],"cksum":"e497931e0da6e7d721cefe8fef7e2f2173556c6418cd9c7771857437dfb90756","features":{},"yanked":false}
 {"name":"rexif","vers":"0.3.2","deps":[],"cksum":"24a1726fc95370b8535e932caf90872150af8f99d74539ba1bacf45c6fa37490","features":{},"yanked":false}
 {"name":"rexif","vers":"0.3.3","deps":[],"cksum":"9e039ae9ec5f3c2596f6c023cc05bd46822c396ad7c9fd2eeb95cf356a074a6a","features":{},"yanked":false}
-{"name":"rexif","vers":"0.3.4","deps":[],"cksum":"ce338502c63086970b2f6b4127c91f034a6cd52b666a9e881db55375d3a965e6","features":{},"yanked":false}
+{"name":"rexif","vers":"0.3.4","deps":[],"cksum":"ce338502c63086970b2f6b4127c91f034a6cd52b666a9e881db55375d3a965e6","features":{},"yanked":true,"links":null}
 {"name":"rexif","vers":"0.3.5","deps":[],"cksum":"d5c2a6b4cd24eeec218d12771070f52e9886c11f987b85ef839af3f0c708e05a","features":{},"yanked":true,"links":null}
 {"name":"rexif","vers":"0.3.6","deps":[],"cksum":"9c4111790bfcfecca9a3afb35e96397379f8810ba5f933e2899ac239a04070b2","features":{},"yanked":true,"links":null}
 {"name":"rexif","vers":"0.3.7","deps":[],"cksum":"958f3866c3a81ceaca304745792491944d0c9ed36e46eea43984b88cfac016f2","features":{},"yanked":false,"links":null}
