@@ -1,2 +1,3 @@
 {"name":"reductor","vers":"0.0.1-alpha.1","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e73296c0a512255f5aaeac63bd1480d5fd1c61d74ee3fede45af900c909e2b79","features":{},"yanked":false,"links":null}
 {"name":"reductor","vers":"0.0.1","deps":[],"cksum":"5a63277c2b14331f273cfded72b47daf02c9708dc0b00a815181b2434b6148f0","features":{},"yanked":false,"links":null}
+{"name":"reductor","vers":"0.0.2","deps":[],"cksum":"79bc74c4c05497adc0fada9b92fa8ef53ee66f3e93e782b4c25cc20e462f5d02","features":{},"yanked":false,"links":null}
