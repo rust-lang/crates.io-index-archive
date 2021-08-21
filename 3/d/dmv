@@ -1,0 +1,1 @@
+{"name":"dmv","vers":"0.0.0","deps":[{"name":"dmv_derive","req":"^0.0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82ca5fc8cc2770b01e66e90ad534aa34cb56fe4e7ee7a7c7b82d888f07d9720f","features":{"derive":["dmv_derive"],"default":["derive"]},"yanked":false,"links":null}
