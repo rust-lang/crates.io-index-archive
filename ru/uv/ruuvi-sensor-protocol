@@ -4,3 +4,4 @@
 {"name":"ruuvi-sensor-protocol","vers":"0.3.0","deps":[],"cksum":"d1b9337cb28320ed6ea0088e18da39a4586e170068065b14918ac8cb7682f002","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"ruuvi-sensor-protocol","vers":"0.4.0","deps":[],"cksum":"1ca9fb5dd8df8ea5c70911e3113044a2c9fec6dbc65f616118249cb7c71f9f9e","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"ruuvi-sensor-protocol","vers":"0.4.1","deps":[],"cksum":"9b1545dbc355565dca39614e0a06ea6419b846c5616e9b3ecbc1d082f4e4989d","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"ruuvi-sensor-protocol","vers":"0.5.0","deps":[],"cksum":"b6bd4cf01ca03e36e9049ccb3a4c0616d392b63d31af18f85e7ef7799f1e99a1","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
