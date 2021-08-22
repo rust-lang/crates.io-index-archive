@@ -1,1 +1,2 @@
 {"name":"ex_merge_sort_by_key","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2769acb2c7b686bfefdecd140590715857895ed709665bb87559f1a83bcb59d","features":{},"yanked":false,"links":null}
+{"name":"ex_merge_sort_by_key","vers":"0.1.1","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85f3192fc3e6999d440aae6f5403159bfdfe26717e6e1bcb9b3edadd3207abdc","features":{},"yanked":false,"links":null}
