@@ -1,0 +1,1 @@
+{"name":"avr-oxide","vers":"0.0.0","deps":[],"cksum":"a9d533a050fece2baf6889496fbef1afd891cd69976c993acc98063a7747de1a","features":{"arduino":[],"atmega4809":[],"default":["atmega4809","bootable","20mhz","panic_handler"],"20mhz":[],"16mhz":[],"bootable":[],"panic_handler":[]},"yanked":false,"links":null}
