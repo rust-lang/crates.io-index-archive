@@ -1,0 +1,1 @@
+{"name":"lib-ruby-parser-bindings","vers":"0.1.0","deps":[{"name":"lib-ruby-parser-nodes","req":">0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f621df21d5603c51d6f20eedf9227224d7d773c8ffdd78fe8f364cc5887a5fe2","features":{},"yanked":false,"links":null}
