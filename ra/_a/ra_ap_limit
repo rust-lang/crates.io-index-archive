@@ -2,3 +2,4 @@
 {"name":"ra_ap_limit","vers":"0.0.67","deps":[],"cksum":"fd0643dcb230ef1ce75109c05888edd263609038fdcac0cdab556622bb026c25","features":{"tracking":[],"default":["tracking"]},"yanked":false,"links":null}
 {"name":"ra_ap_limit","vers":"0.0.68","deps":[],"cksum":"613cb1246bd394e8cb708b6bbc864f1c1c2c2f3b3854b0c9fe3235f8b49f38c5","features":{"tracking":[],"default":["tracking"]},"yanked":false,"links":null}
 {"name":"ra_ap_limit","vers":"0.0.69","deps":[],"cksum":"e3e32c3c6a78defeac6e1fd7cb9068f817563e9c7edb0d8d163096d749a47f5d","features":{"default":["tracking"],"tracking":[]},"yanked":false,"links":null}
+{"name":"ra_ap_limit","vers":"0.0.70","deps":[],"cksum":"576c075cb5bf3bc3eeda47f7b3ee29a308ee06100f9fa0a0d40b4776ef9158f9","features":{"default":["tracking"],"tracking":[]},"yanked":false,"links":null}
