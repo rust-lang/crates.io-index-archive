@@ -6,3 +6,4 @@
 {"name":"az","vers":"1.0.0","deps":[],"cksum":"e9bcd47d94aa4eb8c076b50fc61a75020789394ffb9bd74a180b3379130f6569","features":{"fail-on-warnings":[]},"yanked":false,"links":null}
 {"name":"az","vers":"1.1.0","deps":[],"cksum":"d84e1d907bfc5795a6addb95ef8666141ee73c8f2f5250ff2a46bf4e4f4aec8a","features":{"fail-on-warnings":[]},"yanked":false,"links":null}
 {"name":"az","vers":"1.1.1","deps":[],"cksum":"822d7d63e0c0260a050f6b1f0d316f5c79b9eab830aca526ed904e1011bd64ca","features":{"fail-on-warnings":[]},"yanked":false,"links":null}
+{"name":"az","vers":"1.1.2","deps":[],"cksum":"9d6dff4a1892b54d70af377bf7a17064192e822865791d812957f21e3108c325","features":{"fail-on-warnings":[]},"yanked":false,"links":null}
