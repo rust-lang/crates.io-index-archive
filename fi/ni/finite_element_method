@@ -1,0 +1,1 @@
+{"name":"finite_element_method","vers":"0.2.0","deps":[{"name":"extended_matrix","req":"^0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac5da7a00d8aaf1c2b6a40b02307bd705e2db9ed0bf0a3541dc9d2dc9a8eaa98","features":{},"yanked":false,"links":null}
