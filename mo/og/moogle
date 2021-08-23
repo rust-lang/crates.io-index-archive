@@ -1,1 +1,2 @@
 {"name":"moogle","vers":"0.0.1","deps":[{"name":"auto_enums","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9c346b0db038647bbd7b90f253d0b59c22874e27feceed48622bdb33d30bce5","features":{},"yanked":false,"links":null}
+{"name":"moogle","vers":"0.0.2","deps":[{"name":"auto_enums","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f2910c1df8295d310d29336fdbd17f714f6e9b9a2ee5a9b2378b629d8a55dca0","features":{},"yanked":false,"links":null}
