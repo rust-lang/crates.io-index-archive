@@ -1,1 +1,2 @@
 {"name":"seed-xor","vers":"0.1.0","deps":[{"name":"bip39","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24337c00c625a593b649a56ca6722c1145a8de4e763e8dc9addbe1a36ec5f912","features":{},"yanked":false,"links":null}
+{"name":"seed-xor","vers":"0.1.1","deps":[{"name":"bip39","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49dbeed008bab314f7f8469ea1fc5c1605d8fe7075798d3677f8c905f0882f58","features":{},"yanked":false,"links":null}
