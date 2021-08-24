@@ -1,2 +1,3 @@
 {"name":"russell_stat","vers":"0.1.0","deps":[],"cksum":"6fe4d25c349d16a9ac29fb139805935fa02e13f272e89040aabc0499752a3098","features":{},"yanked":false,"links":null}
 {"name":"russell_stat","vers":"0.1.1","deps":[{"name":"error-chain","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48eb0a3860f0fb993c3bb2633d8e35895a45e245c7bf44fc574aef16dc712786","features":{},"yanked":false,"links":null}
+{"name":"russell_stat","vers":"0.1.2","deps":[{"name":"russell_chk","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13d1bf0ea7754689e5a9ed1ea74934a6c4e459eb190be4aa002e455632e0f642","features":{},"yanked":false,"links":null}
