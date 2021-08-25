@@ -5,3 +5,4 @@
 {"name":"time-macros","vers":"0.2.0-alpha.1","deps":[],"cksum":"36234b149f749cc36d38c30f77426ba421f63aada9ac919a2853da2a0fc9f465","features":{"large-dates":[]},"yanked":false,"links":null}
 {"name":"time-macros","vers":"0.2.0","deps":[],"cksum":"10758c2d95454f52ffd0173cd4a0dce8d6b118b9aac27c5a4b785ddf9a499c72","features":{"large-dates":[]},"yanked":false,"links":null}
 {"name":"time-macros","vers":"0.2.1","deps":[],"cksum":"04a153416002296880a3b51329a0e3df31c779c53ec827993e865ce427982843","features":{"large-dates":[]},"yanked":false,"links":null}
+{"name":"time-macros","vers":"0.2.2","deps":[],"cksum":"72c7ca5e81982d152f0788b131ebf96cc4bbd1b4575a7ed51f0f6fc866a05fdb","features":{"large-dates":[]},"yanked":false,"links":null}
