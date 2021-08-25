@@ -1,0 +1,1 @@
+{"name":"lp50xx","vers":"0.0.1","deps":[{"name":"embedded-hal","req":"^0.2.4","features":["unproven"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee062c31c367ce8a72075ff761cf847944b03bd09a3b4438c7936fd1d697c90e","features":{"default":[]},"yanked":false,"links":null}
