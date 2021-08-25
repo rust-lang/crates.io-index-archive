@@ -1,1 +1,2 @@
 {"name":"sqrid","vers":"0.0.1","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ff4a00d3d858ab91b1be83707addb36555b4209af02e58d2a22b33cc8188da74","features":{},"yanked":false,"links":null}
+{"name":"sqrid","vers":"0.0.2","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"37ac62309888d9ee8a847bd97b5e3d0e3d8137b264625dd2eafdf972b04a2e2a","features":{},"yanked":false,"links":null}
