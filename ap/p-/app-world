@@ -2,3 +2,4 @@
 {"name":"app-world","vers":"0.1.1","deps":[],"cksum":"15a59a3cb10dd500b9470fed75639645875b0bb81f189d28945ca515b4e7acfe","features":{"send":[]},"yanked":false,"links":null}
 {"name":"app-world","vers":"0.1.3","deps":[],"cksum":"6b55b2954fdddf6e02629514af23bd63fae93300b54a21dd324a1808b9266755","features":{"send":[],"test-utils":[]},"yanked":false,"links":null}
 {"name":"app-world","vers":"0.1.4","deps":[],"cksum":"dd04c6b0668f730d8bc0cbdb0aee3b94aa7816d4a205be8f85cb789a47fab054","features":{"send":[],"test-utils":[]},"yanked":false,"links":null}
+{"name":"app-world","vers":"0.1.5","deps":[],"cksum":"8b4f22f67611579769378f7c0753285f75fbbea6da0f77a30b2e6c08f741544e","features":{"send":[],"test-utils":[]},"yanked":false,"links":null}
