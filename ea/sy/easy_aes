@@ -1,1 +1,2 @@
 {"name":"easy_aes","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ef3c060f2bca2e5145a2b4e50e54f5a56b4945a7db90a122db55d9b332b9fcca","features":{},"yanked":false,"links":null}
+{"name":"easy_aes","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"844cafa0b9a7191a9e54a5cf3908bc3974b652124b7fe3e64d5c3b2fcabae9a2","features":{},"yanked":false,"links":null}
