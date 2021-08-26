@@ -1,1 +1,1 @@
-{"name":"OxParse","vers":"0.1.0","deps":[{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b433454bcae555ae9197edef60f8c30349cc7eda03d8bfcf87f6a6a68ff3aa0","features":{},"yanked":true,"links":null}
+{"name":"OxParse","vers":"0.1.0","deps":[{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b433454bcae555ae9197edef60f8c30349cc7eda03d8bfcf87f6a6a68ff3aa0","features":{},"yanked":false,"links":null}
