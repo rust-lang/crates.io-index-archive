@@ -1,1 +1,2 @@
 {"name":"mbp","vers":"1.0.0","deps":[],"cksum":"abd60f91b31b40c7e80c39e2298d4be4246c70dcbaa87560741bb7146b7c639a","features":{},"yanked":false,"links":null}
+{"name":"mbp","vers":"1.1.0","deps":[{"name":"rust_sfp","req":"^0.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"276f40414bb9b70ef06d0fecfcd5037b4fe419293da50c65c4392a2c9c531ea8","features":{"all":["net"],"net":["rust_sfp"]},"yanked":false,"links":null}
