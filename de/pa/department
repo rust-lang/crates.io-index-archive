@@ -1,0 +1,1 @@
+{"name":"department","vers":"0.1.0","deps":[{"name":"spin","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33bda6a31ffec9342dcefacbad6afe127f6578feec65aad9f20cee098de58329","features":{"default":["std"],"alloc":[],"std":["alloc"]},"yanked":false,"links":null}
