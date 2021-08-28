@@ -1,1 +1,2 @@
 {"name":"atomicdouble","vers":"0.1.0","deps":[],"cksum":"e3d460cb2a9adb1514b758deeebe0de7044b4c2b9241465f3d5e192e14ed4f51","features":{"default":["fallback"],"fallback":[]},"yanked":false,"links":null}
+{"name":"atomicdouble","vers":"0.1.1","deps":[],"cksum":"b329ce33b0cbdc7d0354e51ae4b5dbb8cf49ccb6d9dc82f2a9f0fcf1e02c2562","features":{"fallback":[],"default":["fallback"]},"yanked":false,"links":null}
