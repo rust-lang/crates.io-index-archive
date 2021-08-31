@@ -1,0 +1,1 @@
+{"name":"markov_chain_text_generator","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b417514b7e3272842eafe4060d4e47fae10b0f45656cbf12a2c0e8a1f8cbefb5","features":{},"yanked":false,"links":null}
