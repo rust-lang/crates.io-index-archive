@@ -1,0 +1,1 @@
+{"name":"rustzx-utils","vers":"0.14.0","deps":[{"name":"rustzx-core","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dfcdece45eab5a300a68841747f9f4b985a7d2f493af12793dcf491d99b1007","features":{"default":[],"std":[]},"yanked":false,"links":null}
