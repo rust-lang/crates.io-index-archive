@@ -1,0 +1,1 @@
+{"name":"rust-worker-build","vers":"0.0.1","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c7de8d4473dceb09965d1767e68991fdae8484d5160f0e991ca1b0b087c76c4","features":{},"yanked":false,"links":null}
