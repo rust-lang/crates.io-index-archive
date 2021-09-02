@@ -1,0 +1,1 @@
+{"name":"worker-build","vers":"0.0.1","deps":[{"name":"anyhow","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dee0b463f5d15f552a2920d44c94615b0f6dbfaedcff1b5dd4a7496822ac7996","features":{},"yanked":false,"links":null}
