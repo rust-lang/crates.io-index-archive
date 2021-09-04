@@ -1,1 +1,2 @@
 {"name":"metaquery","vers":"0.1.0","deps":[{"name":"sqlparser","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e82287dd0af4be69a8b9946c1adead57f18e2a8631c098700d1fb4cd447faa9","features":{},"yanked":false,"links":null}
+{"name":"metaquery","vers":"0.1.1","deps":[{"name":"sqlparser","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7387b95dc24ce1d9399d41b2103a3cc8d28d3058d576cdda49dadf8a8c8c715","features":{},"yanked":false,"links":null}
