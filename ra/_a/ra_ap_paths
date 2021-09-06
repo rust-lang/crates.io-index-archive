@@ -55,3 +55,4 @@
 {"name":"ra_ap_paths","vers":"0.0.69","deps":[{"name":"serde","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5b85e36c4486472516292403041b88f82bda49fc34881f328db0e9d685594cc","features":{},"yanked":false,"links":null}
 {"name":"ra_ap_paths","vers":"0.0.70","deps":[{"name":"serde","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53919950f747ee8028a8768fc84e3cb1e4d20ce4647be7c2226f7cf7f174da4d","features":{},"yanked":false,"links":null}
 {"name":"ra_ap_paths","vers":"0.0.71","deps":[],"cksum":"1f127378f0223b0aeb7574211e304c51991afa9e1803f8517b375741dea4eb2e","features":{},"yanked":false,"links":null}
+{"name":"ra_ap_paths","vers":"0.0.72","deps":[],"cksum":"129c084589cd9673d3bd733da1f1e17da6ac0b322b10ddc561b61e3f30746f55","features":{},"yanked":false,"links":null}
