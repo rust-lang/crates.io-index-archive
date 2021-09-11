@@ -1,0 +1,1 @@
+{"name":"dicey","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ab43d3b504f2cf8345548d9ec6b3bb498e4f07ed8fb9215dfeb2b6b8e9d8bd9","features":{},"yanked":false,"links":null}
