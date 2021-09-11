@@ -1,0 +1,1 @@
+{"name":"wavpack-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.59.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d613878ea31f06a35afa5657f696e64248cc9daf091fa6a0ecc7f29346edd4fd","features":{},"yanked":false,"links":null}
