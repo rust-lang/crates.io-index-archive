@@ -1,1 +1,2 @@
 {"name":"rpg-stat","vers":"0.1.0","deps":[],"cksum":"e6daee41ed5260032cc537c570f24209d21f656fba0f8a30a8f44c0a82dac406","features":{},"yanked":false,"links":null}
+{"name":"rpg-stat","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.130","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8bd14ef211763b54c096f7522e65fa04cbe3ca46a52f15ee02e6ad55dd68713c","features":{},"yanked":false,"links":null}
