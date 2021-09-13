@@ -1,0 +1,1 @@
+{"name":"lowdim","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c03415e4a388f234ea23135c134cfd9f1ca1b4837aa420dd5530d8aed63ab1a9","features":{"default":[],"random":["rand"]},"yanked":false,"links":null}
