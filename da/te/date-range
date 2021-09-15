@@ -1,1 +1,2 @@
 {"name":"date-range","vers":"0.0.0","deps":[],"cksum":"d056783509d6ea95e324d87594d6bc0e0ec27daf5b225932758bdcdab3cc46b9","features":{},"yanked":false,"links":null}
+{"name":"date-range","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":["clock"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4083a0c86418315470380e38bb077a153653eb5cd26b86dce47ef2148e64c51e","features":{},"yanked":false,"links":null}
