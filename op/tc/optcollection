@@ -1,1 +1,2 @@
 {"name":"optcollection","vers":"0.1.0","deps":[{"name":"maplit","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e07451f18b2da44db3228b825821f1d928db0a0a55bbd9431598bb3218794783","features":{},"yanked":false,"links":null}
+{"name":"optcollection","vers":"0.1.1","deps":[{"name":"maplit","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"00de14ee389f6a7515ec6db8cb4cb975db35fc7f91caddd5e69eeb996eec34ed","features":{},"yanked":false,"links":null}
