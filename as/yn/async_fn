@@ -1,0 +1,1 @@
+{"name":"async_fn","vers":"0.0.1-rc1","deps":[{"name":"async_fn-proc_macros","req":"^0.0.1-rc1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8da52d3e0e6bc3d696468b59cdc0929e3fa4883d7137538f151597fcd37096fa","features":{"better-docs":[]},"yanked":false,"links":null}
