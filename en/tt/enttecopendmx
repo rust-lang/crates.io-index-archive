@@ -1,0 +1,1 @@
+{"name":"enttecopendmx","vers":"0.1.0","deps":[{"name":"libftd2xx","req":"~0.31.0","features":["static"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1782ac5ffff1fb4e425e1ddeb28cacc524ea6dceb3849036516feab903ebbcf6","features":{},"yanked":false,"links":null}
