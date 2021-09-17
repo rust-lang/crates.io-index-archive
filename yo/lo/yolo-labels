@@ -1,1 +1,2 @@
 {"name":"yolo-labels","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"66f1e0b8db095f86237b634c7546323f9f70aa73fa00fe5ad55572924b3203d9","features":{},"yanked":false,"links":null}
+{"name":"yolo-labels","vers":"0.2.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d0c55d4aa10d91dd2c7d2e13fa6887bf6ccbbfdcb7b9277f09ebbcbd147e4173","features":{},"yanked":false,"links":null}
