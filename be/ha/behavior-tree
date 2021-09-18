@@ -1,1 +1,2 @@
 {"name":"behavior-tree","vers":"0.0.1","deps":[],"cksum":"ab3883840630524d77add8b3e4cbdbe6db83199e9ca148891eccd33cd89d7cc8","features":{},"yanked":false,"links":null}
+{"name":"behavior-tree","vers":"0.0.2","deps":[{"name":"tracing","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90cca9aea91acdc40c99ad7970dd49761f896e86245adba60662c6400f1234e4","features":{},"yanked":false,"links":null}
