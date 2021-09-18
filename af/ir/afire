@@ -3,3 +3,4 @@
 {"name":"afire","vers":"0.1.2","deps":[],"cksum":"d19723627833976f4857209405fa3712ca90553294848296f5d9d902c6025322","features":{"rate_limit":[],"default":["rate_limit","logging"],"logging":[]},"yanked":false,"links":null}
 {"name":"afire","vers":"0.1.3","deps":[],"cksum":"d5f0b2605f40d4f4940b90bb905a7b6f64934149fed59c0096c647ce3cb4a942","features":{"logging":[],"default":["rate_limit","logging"],"rate_limit":[]},"yanked":false,"links":null}
 {"name":"afire","vers":"0.1.4","deps":[],"cksum":"ea19b9fd6d5bd3b9217c06d2d4e6ad2f90ef08fa24ffc1e754e177c9c349087c","features":{"rate_limit":[],"logging":[],"default":["rate_limit","logging"]},"yanked":false,"links":null}
+{"name":"afire","vers":"0.1.5","deps":[],"cksum":"16be1cacdfb679f167cb91b2326fab3af8191dddeff6fbbcacf56142349edda1","features":{"logging":[],"cookies":[],"panic_handler":[],"rate_limit":[],"thread_pool":[],"default":["panic_handler","thread_pool","cookies"]},"yanked":false,"links":null}
