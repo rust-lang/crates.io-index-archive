@@ -1,1 +1,2 @@
 {"name":"fixed_trigonometry","vers":"0.1.0","deps":[{"name":"fixed","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b58c97f6602e196115f5025264bd88deb384ca95e50e0c3c0131cccf5fde1c2","features":{},"yanked":false,"links":null}
+{"name":"fixed_trigonometry","vers":"0.1.1","deps":[{"name":"fixed","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"217698652569bdbd67ef17ba0f339bc73d9001b72bb6e74a002d7cfd6c491021","features":{},"yanked":false,"links":null}
