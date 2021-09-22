@@ -1,1 +1,2 @@
 {"name":"optempty","vers":"0.1.7","deps":[{"name":"maplit","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a4e9d18b25a48878e38bb8dbb7471978b5016acc35ab114e1253fbe725ed96ec","features":{},"yanked":false,"links":null}
+{"name":"optempty","vers":"0.1.8","deps":[{"name":"maplit","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fd93e71353477389eec98d0ee7164e0dc083c01eb9fbfc9beed3fd7c0af524c5","features":{},"yanked":false,"links":null}
