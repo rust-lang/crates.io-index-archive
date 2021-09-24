@@ -5,3 +5,4 @@
 {"name":"btui","vers":"0.3.3","deps":[],"cksum":"97a799ef154e4bb416f9be2a75b2ae328af97e7b58b405b9fa31e31097c0687c","features":{},"yanked":false,"links":null}
 {"name":"btui","vers":"0.4.3","deps":[],"cksum":"4bd0108b9654b98d7d134f1867f557873306b906691ddd9cb85afba72a2c3064","features":{"linux":["core"],"core":[],"default":["core"]},"yanked":false,"links":null}
 {"name":"btui","vers":"0.4.4","deps":[],"cksum":"8579c2f1bdf53babe8f37298f57e662ca0a754ed1b0c13bd0d589f1576a57fbc","features":{"core":[],"default":["core"],"linux":["core"]},"yanked":false,"links":null}
+{"name":"btui","vers":"0.4.5","deps":[],"cksum":"61ef1729cdb73fa2a67fef8700446af4e002e0c361b562501d53c4a318960d47","features":{"default":["core"],"core":[],"linux":["core"]},"yanked":false,"links":null}
