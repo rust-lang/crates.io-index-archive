@@ -1,0 +1,1 @@
+{"name":"boa_unicode","vers":"0.11.0","deps":[{"name":"unicode-general-category","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f29e1b691d707f077a2d5d6ff75f6014c2fe88f2227fb960ce4601020d1112c","features":{},"yanked":false,"links":null}

@@ -1,0 +1,4 @@
+{"name":"nonmax","vers":"0.2.0","deps":[],"cksum":"5f0873d5aa07f8a75b793f1fa2bd9a3b47b53c8c2663ffc0185831ed8f11a7de","features":{},"yanked":false,"links":null}
+{"name":"nonmax","vers":"0.3.0","deps":[],"cksum":"66c7502d5bb6fac5ed8ae6e07e1d168a22e5272ab8408f084f9aaf9cdf403e66","features":{},"yanked":false,"links":null}
+{"name":"nonmax","vers":"0.4.0","deps":[],"cksum":"bd80f68945f661dc46a3a74bf0377a4491b14ba86f0658d897409fb90d06c9bb","features":{},"yanked":false,"links":null}
+{"name":"nonmax","vers":"0.5.0","deps":[],"cksum":"287a6d20c39e398d0046fd7809c83fd3a12d42a3a0f4612f5028a8f5b5c4d0ce","features":{"default":["std"],"std":[]},"yanked":false,"links":null}

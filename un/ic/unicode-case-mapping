@@ -1,0 +1,2 @@
+{"name":"unicode-case-mapping","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4eef196f5bd4b610708991cc341c8fb92f4eb3e3dfcedfef6c2094aa5a0c3bd9","features":{},"yanked":false,"links":null}
+{"name":"unicode-case-mapping","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"499ff1c3d2c83d9cdf93a265921d48fb133ffb98e0d5aa4fb99e084109dae3c7","features":{},"yanked":false,"links":null}

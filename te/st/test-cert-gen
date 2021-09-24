@@ -1,0 +1,2 @@
+{"name":"test-cert-gen","vers":"0.1.0","deps":[],"cksum":"c51476ae2ac834824c5123f8f85c02a9f10ff58e135c1c05ce090e83608e37d3","features":{},"yanked":false,"links":null}
+{"name":"test-cert-gen","vers":"0.5.0","deps":[{"name":"pem","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempdir","req":"^0.3.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34665bd0f2fb3fa9ce5262e1c944b1d30eaf8b3ea3244dd6869e8b1764de792c","features":{},"yanked":false,"links":null}

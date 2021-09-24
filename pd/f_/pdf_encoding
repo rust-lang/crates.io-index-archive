@@ -1,0 +1,2 @@
+{"name":"pdf_encoding","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7896aa5621ac2686e0744f6d371bd216ada635ed5b6f4833d56692edd6c7f699","features":{},"yanked":false,"links":null}
+{"name":"pdf_encoding","vers":"0.2.0","deps":[{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c067007917227f607c49a873057ca434ffd9cace9ab78fb74fda1ea18e9477cd","features":{},"yanked":false,"links":null}

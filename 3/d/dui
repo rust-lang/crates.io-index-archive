@@ -1,0 +1,1 @@
+{"name":"dui","vers":"0.0.1","deps":[{"name":"libc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"iup-sys","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a957154a4319d089528b0927ea25a09c0dcfa86ea66b688d2da218642461c5b","features":{},"yanked":false}

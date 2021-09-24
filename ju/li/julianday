@@ -1,0 +1,2 @@
+{"name":"julianday","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5877affdafc7342deb3d223fc259e858c7ed5e552e3dbc0bab6cd6b8fb0b5f98","features":{},"yanked":false,"links":null}
+{"name":"julianday","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f05499f654dc3bfc6ad36534b7ee2b1a14a377736e43f1da04008b0fbe7e8c2","features":{},"yanked":false,"links":null}

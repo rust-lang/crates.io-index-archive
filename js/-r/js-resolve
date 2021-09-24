@@ -1,0 +1,2 @@
+{"name":"js-resolve","vers":"0.1.0","deps":[{"name":"json","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b353f09d46fa99113d1e2b138a088d3ee9c82a03795df5e3cd67cee733606079","features":{},"yanked":false,"links":null}
+{"name":"js-resolve","vers":"0.1.1","deps":[{"name":"json","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be1803fff37cdb3957e30bc4dbb0f037ee745a1cadf211645e4e05e3948dd609","features":{},"yanked":false,"links":null}

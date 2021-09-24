@@ -1,0 +1,1 @@
+{"name":"influxdb2-structmap","vers":"0.1.5","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e986c0ef3fb13fb0f3f2f09f0b0cfa86c3d90c80e181ff423f16386467e066d","features":{},"yanked":false,"links":null}

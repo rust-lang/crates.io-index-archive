@@ -1,0 +1,1 @@
+{"name":"regex-lexer-lalrpop","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff0cf511be1799f52ce9d6f5c1c60f692007531a5a9bb4a2287ace3221101592","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"steam-audio-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6b108e76ab295923175e634c501c5d1d743db676ad01b31c854d16de4a7b466","features":{},"yanked":false}

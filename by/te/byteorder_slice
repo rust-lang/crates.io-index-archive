@@ -1,0 +1,2 @@
+{"name":"byteorder_slice","vers":"0.1.0","deps":[],"cksum":"e2cf9ed46e7a1c5e9c7927fcfc662ed1adf126415551c8d74d1a1449005f2ec1","features":{},"yanked":false,"links":null}
+{"name":"byteorder_slice","vers":"0.2.0","deps":[{"name":"byteorder","req":"1.*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"624d9f1eb3c3be540c667b4f0d19be9de51ff23fdce4cc52879e0d634d3d41d4","features":{"default":[],"byteorder_compat":["byteorder"]},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"my_guessing_game","vers":"0.1.0","deps":[{"name":"rand","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2482753e20d34593a485359f12f2be0a0f4ffc3f9e9d40ad495682b630b5d6df","features":{},"yanked":false,"links":null}

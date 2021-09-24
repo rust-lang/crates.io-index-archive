@@ -1,0 +1,2 @@
+{"name":"ansi_rgb","vers":"0.1.0","deps":[],"cksum":"091402b86e30d4cc5b17c367b17c7742f1b291cd1a0d9fb00c341af764dc0bfb","features":{},"yanked":false,"links":null}
+{"name":"ansi_rgb","vers":"0.2.0","deps":[{"name":"rgb","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a730095eb14ee842a0f1e68504b85c8d4a19b1ef2ac2a9b4debf0ed982f9b08a","features":{},"yanked":false,"links":null}

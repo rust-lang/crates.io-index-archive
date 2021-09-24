@@ -1,0 +1,2 @@
+{"name":"dark-light","vers":"0.1.0","deps":[{"name":"winreg","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"1a72aca98c9924150aa276a5d73479bc952ed08703a19d4d184ab39aa410bc72","features":{},"yanked":false,"links":null}
+{"name":"dark-light","vers":"0.1.1","deps":[{"name":"winreg","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"e7120c3a2b4cbef379407b56cc808304a728cadc756605ab5f0b70619b4d44b9","features":{},"yanked":false,"links":null}

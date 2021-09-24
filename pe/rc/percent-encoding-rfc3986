@@ -1,0 +1,1 @@
+{"name":"percent-encoding-rfc3986","vers":"0.1.0","deps":[{"name":"quickcheck","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8727242f719f0cd2c617f439f9159a700541a26ea79a88e1f4c68d8b31ef46a8","features":{"alloc":[],"default":["alloc"]},"yanked":false,"links":null}

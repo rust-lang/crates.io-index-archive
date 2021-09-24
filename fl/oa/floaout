@@ -1,0 +1,2 @@
+{"name":"floaout","vers":"0.1.0","deps":[],"cksum":"6257c20dc5d5e00a4705ddd0083e8a4ee499e3221281251673c6ad5e30f68dbc","features":{},"yanked":false,"links":null}
+{"name":"floaout","vers":"0.2.0","deps":[{"name":"mpl","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"mycrc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"865b6be9f3ebffe5fdd5f6eb2128cc63c5edfc26586ddac702103641359b9495","features":{},"yanked":false,"links":null}

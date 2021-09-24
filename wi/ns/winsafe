@@ -1,0 +1,5 @@
+{"name":"winsafe","vers":"0.0.1","deps":[],"cksum":"5579af3ff5eb9864ace67f416778bdf254c5ba856ac72657d30b3a7fa78cf94f","features":{},"yanked":false,"links":null}
+{"name":"winsafe","vers":"0.0.2","deps":[],"cksum":"0ecaeb6ca63d9e3bbae1ed5f68f0d05d397a1ff068cdd3cc1e47687dec09370f","features":{},"yanked":false,"links":null}
+{"name":"winsafe","vers":"0.0.3","deps":[],"cksum":"876297264e58424fceddcf2eb9b7b17023f1cfabd793038190451d91c775528d","features":{},"yanked":false,"links":null}
+{"name":"winsafe","vers":"0.0.4","deps":[],"cksum":"e3ca120a7608493db3153efd75fd659b3fee45d3863b931de7405173025e79cf","features":{"dshow":[],"shell":[]},"yanked":false,"links":null}
+{"name":"winsafe","vers":"0.0.5","deps":[],"cksum":"1fd38859e955532136a544e7e6a6a1239a3f4fe48ecf67c63500ec9f527f8381","features":{"shell":[],"dshow":[]},"yanked":false,"links":null}

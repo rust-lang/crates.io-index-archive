@@ -1,0 +1,8 @@
+{"name":"ascii_table","vers":"0.1.0","deps":[],"cksum":"5f74f09384d8712ffb7b65a3717071201c00a67b445ad794e8cbebe81ac11aa1","features":{},"yanked":false,"links":null}
+{"name":"ascii_table","vers":"0.1.1","deps":[],"cksum":"3f55c9595b7f4fb9789a8b02f307209bfcccd8ab9176430eebf9fe4df931cbe0","features":{},"yanked":false,"links":null}
+{"name":"ascii_table","vers":"1.0.0","deps":[],"cksum":"ebc2820a19d9ebdb2474f069c4d80159d88ab1af783969ab207ae3112cea0519","features":{},"yanked":false,"links":null}
+{"name":"ascii_table","vers":"2.0.0","deps":[],"cksum":"cba1b5bf498e53b5c11be3a230f1c826da48d0c2e02b05823235634c49b52716","features":{},"yanked":false,"links":null}
+{"name":"ascii_table","vers":"2.1.0","deps":[],"cksum":"befb5a9fb2e76d060cb73d92dfa98ab9ab3444ec8a797556af42116771ce4b23","features":{},"yanked":false,"links":null}
+{"name":"ascii_table","vers":"3.0.0","deps":[],"cksum":"cbcbc3963c670677e878a5253f5fef77577ef3821080cfac27779cadf224a9b5","features":{},"yanked":false,"links":null}
+{"name":"ascii_table","vers":"3.0.1","deps":[{"name":"colorful","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6730a07c9a5a0ffa09f3219abc63be4214d381b562be75f2273103df568b0827","features":{},"yanked":false,"links":null}
+{"name":"ascii_table","vers":"3.0.2","deps":[{"name":"colorful","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"51f0a58f3b1453981b910b603a4a7346be14fccd50f8edd7c954725a9210c24f","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"ast2str-lib","vers":"1.1.0","deps":[{"name":"pretty_assertions","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c277f4b2f7f5c9e4e8004a14096acbd7a083531a13b25535f6959627ab599832","features":{},"yanked":false,"links":null}
