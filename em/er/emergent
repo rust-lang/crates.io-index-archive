@@ -7,3 +7,4 @@
 {"name":"emergent","vers":"1.4.0","deps":[],"cksum":"6c0cb10a675593aa3239223b97248ea5e97bc0f178a0ad539846b0a96d9beaf9","features":{"scalar64":[]},"yanked":false,"links":null}
 {"name":"emergent","vers":"1.5.0","deps":[],"cksum":"2c17a6612076cdd2980ba36c823af0191837b0df78561313a7a1cce70b2448e9","features":{"scalar64":[]},"yanked":false,"links":null}
 {"name":"emergent","vers":"1.5.1","deps":[],"cksum":"188099137083f6e7f9cdc25e2ed5e60f6f8a9cc2ed1bc19c3ec1f62ef9558131","features":{"scalar64":[]},"yanked":false,"links":null}
+{"name":"emergent","vers":"1.5.2","deps":[],"cksum":"4c41094c421c371d61df58dd0c63341285bff0d5351707e344dd601e55b77de3","features":{"scalar64":[]},"yanked":false,"links":null}
