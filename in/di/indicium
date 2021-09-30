@@ -7,3 +7,4 @@
 {"name":"indicium","vers":"0.2.0","deps":[{"name":"rayon","req":"^1.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccb251b7402abf7e03c2de7cac246ea0a4f277569067ffd0d3b6295811689c5a","features":{"select2":["serde"],"default":["rayon","simple","select2"],"simple":[]},"yanked":false,"links":null}
 {"name":"indicium","vers":"0.2.1","deps":[],"cksum":"7ecf148ccdeb4afb051f8c1968efc0691a13e348eb04b38998cae630d58563e6","features":{},"yanked":false,"links":null}
 {"name":"indicium","vers":"0.2.2","deps":[],"cksum":"32f008d8c115656617e8cbc943fa7d4d47f53ffd265fe78302ff8667f15b47f5","features":{},"yanked":false,"links":null}
+{"name":"indicium","vers":"0.2.3","deps":[],"cksum":"75ddb4454bf89a9a9b7d5ca88a09a5daac0c920e806d752706024e67a51a02d2","features":{},"yanked":false,"links":null}
