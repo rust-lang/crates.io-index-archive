@@ -1,0 +1,1 @@
+{"name":"gazebo_lint","vers":"0.1.0","deps":[{"name":"smallvec","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcef01b1dd383917338f2a966b2cac10464f279ec368221bc4488256493194ee","features":{},"yanked":false,"links":null}
