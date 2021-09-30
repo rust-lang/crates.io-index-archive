@@ -1,1 +1,2 @@
 {"name":"edgedb-errors","vers":"0.0.0","deps":[],"cksum":"09f274a352e97a8bbac44e69a41fa5b2c35ff3a47d5d6e52d9fc758f4c79ee77","features":{},"yanked":false,"links":null}
+{"name":"edgedb-errors","vers":"0.1.0","deps":[{"name":"bytes","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ca7bc43d045ec5dcd7218f4938065a06ab656b47d38a8cdff86a8643248ab16","features":{},"yanked":false,"links":null}
