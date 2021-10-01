@@ -3,3 +3,4 @@
 {"name":"winsafe","vers":"0.0.3","deps":[],"cksum":"876297264e58424fceddcf2eb9b7b17023f1cfabd793038190451d91c775528d","features":{},"yanked":false,"links":null}
 {"name":"winsafe","vers":"0.0.4","deps":[],"cksum":"e3ca120a7608493db3153efd75fd659b3fee45d3863b931de7405173025e79cf","features":{"dshow":[],"shell":[]},"yanked":false,"links":null}
 {"name":"winsafe","vers":"0.0.5","deps":[],"cksum":"1fd38859e955532136a544e7e6a6a1239a3f4fe48ecf67c63500ec9f527f8381","features":{"shell":[],"dshow":[]},"yanked":false,"links":null}
+{"name":"winsafe","vers":"0.0.6","deps":[],"cksum":"2a022df1fa87944336db0e61dc06be3270a1078944b32813634068f8ea27752c","features":{"dshow":[],"shell":[]},"yanked":false,"links":null}
