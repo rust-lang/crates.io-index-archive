@@ -8,3 +8,4 @@
 {"name":"xor_rand","vers":"0.1.222","deps":[],"cksum":"4194a00444a8fb238deb122a0a6878bae157c5333e482d49a62b72d8166da3c2","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"xor_rand","vers":"0.1.3","deps":[],"cksum":"1dade91916561ed1045c3bda12938f7a08522a41bcf2e652d5a8e108342c22fa","features":{},"yanked":false,"links":null}
 {"name":"xor_rand","vers":"0.1.3000","deps":[],"cksum":"e0c9304c3e6188635fa454a4936c3d36b2a572a813630f3d5ac56561fdeabc66","features":{},"yanked":false,"links":null}
+{"name":"xor_rand","vers":"0.1.3100","deps":[],"cksum":"b2741ceedcfe75658723cf1434909814dee9542a2a31de6237d60d54d3a60c35","features":{},"yanked":false,"links":null}
