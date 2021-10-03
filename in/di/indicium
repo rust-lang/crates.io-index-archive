@@ -8,3 +8,4 @@
 {"name":"indicium","vers":"0.2.1","deps":[],"cksum":"7ecf148ccdeb4afb051f8c1968efc0691a13e348eb04b38998cae630d58563e6","features":{},"yanked":false,"links":null}
 {"name":"indicium","vers":"0.2.2","deps":[],"cksum":"32f008d8c115656617e8cbc943fa7d4d47f53ffd265fe78302ff8667f15b47f5","features":{},"yanked":false,"links":null}
 {"name":"indicium","vers":"0.2.3","deps":[],"cksum":"75ddb4454bf89a9a9b7d5ca88a09a5daac0c920e806d752706024e67a51a02d2","features":{},"yanked":false,"links":null}
+{"name":"indicium","vers":"0.2.4","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"tracing","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11d3fa8221b03b766e5fd0dfe3f6daf5bb4745d6fb56ef49fa09c8d437eed04d","features":{"default":["simple"],"simple":[]},"yanked":false,"links":null}
