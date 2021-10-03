@@ -3,3 +3,4 @@
 {"name":"clock","vers":"0.2.0","deps":[],"cksum":"919d5da6b41c27da871d906de0c5c3d29b720bf4f919ad122853cb6590f93db4","features":{},"yanked":false,"links":null}
 {"name":"clock","vers":"0.2.1","deps":[],"cksum":"9cf336495fb8f58e1d0e203808901538e512d121b8fc19651a767e4902e40e4f","features":{},"yanked":false,"links":null}
 {"name":"clock","vers":"0.2.2","deps":[],"cksum":"5e6cf60b318d03fd16184f92e4f00c1a83e246079f1b06746fe6d5694a10fb03","features":{},"yanked":false,"links":null}
+{"name":"clock","vers":"0.3.0","deps":[{"name":"thiserror","req":"^1.0.29","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9b749580a14887a0b814323e1f2a4998a43e7d648cca2798f4acf1346ae12b16","features":{},"yanked":false,"links":null}
