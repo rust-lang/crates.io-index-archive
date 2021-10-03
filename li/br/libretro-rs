@@ -1,0 +1,1 @@
+{"name":"libretro-rs","vers":"0.1.0","deps":[{"name":"libretro-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ccef0b1a074d0485bc70b3e56916cc9c623413b37994dfc33c163820de50228","features":{},"yanked":false,"links":null}
