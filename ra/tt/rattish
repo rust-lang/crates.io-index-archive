@@ -1,2 +1,3 @@
 {"name":"rattish","vers":"0.0.0","deps":[],"cksum":"bd82721f6874f55d50d8fef5794600a036ef0470c88208d778f3bcd3f2c0956b","features":{"std":[]},"yanked":false,"links":null}
 {"name":"rattish","vers":"0.1.0","deps":[],"cksum":"ac89624a15ac406958d7f110fec6c6442a31f34a334f47e4968e021374be9d30","features":{"alloc":[],"std":["alloc"]},"yanked":false,"links":null}
+{"name":"rattish","vers":"0.2.0","deps":[],"cksum":"4d9860cd2ca5e9804e60f9364591e51dca33afb58beb8287ccb30d6379c55ea7","features":{"std":["alloc"],"static":["std"],"alloc":[]},"yanked":false,"links":null}
