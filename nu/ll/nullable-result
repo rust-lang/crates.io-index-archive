@@ -1,1 +1,2 @@
 {"name":"nullable-result","vers":"0.1.0","deps":[],"cksum":"3bca2c849be7ae8caf1740936eca04cdd9599e2dd9d32c79250212968a8d70f9","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"nullable-result","vers":"0.2.0","deps":[],"cksum":"5909878403f818cbbb3abdd42c4000713857b396750289fb1d8ad0fda216f73e","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
