@@ -1,0 +1,1 @@
+{"name":"near-chunks-primitives","vers":"0.1.0","deps":[{"name":"near-chain-primitives","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b1fe0192194b6596debfa2b7bcf5bf43187efb90e65b840ef990bfb41ccd4fe","features":{},"yanked":false,"links":null}
