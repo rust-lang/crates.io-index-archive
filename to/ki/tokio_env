@@ -1,0 +1,1 @@
+{"name":"tokio_env","vers":"0.0.1","deps":[{"name":"tokio","req":"^1","features":["rt","rt-multi-thread"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e191678fd7b981db08d48fc6e0a386faa0c249e78c46f20ee8aaad453de0f9d5","features":{},"yanked":false,"links":null}
