@@ -1,1 +1,2 @@
 {"name":"librclone","vers":"0.0.0","deps":[],"cksum":"12b89ec4f677e5f94ac1eb8e148cd4ef2ac12416924d8ec90ea851f3eb44a94f","features":{},"yanked":false,"links":null}
+{"name":"librclone","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"librclone-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f952af858a9b95a2b5cfd3f92dc6890010d68db1cfbd93f25fc161634fec4d0","features":{},"yanked":false,"links":null}
