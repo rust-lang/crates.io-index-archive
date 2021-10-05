@@ -3,7 +3,7 @@
 {"name":"rattish","vers":"0.2.0","deps":[],"cksum":"4d9860cd2ca5e9804e60f9364591e51dca33afb58beb8287ccb30d6379c55ea7","features":{"std":["alloc"],"static":["std"],"alloc":[]},"yanked":false,"links":null}
 {"name":"rattish","vers":"0.2.1","deps":[],"cksum":"f92ad466e7048d9506ef8590f5c4010e0a68d3c6f9f3e815970de6c2f884424b","features":{"alloc":[],"static":["std"],"std":["alloc"]},"yanked":false,"links":null}
 {"name":"rattish","vers":"0.2.2","deps":[],"cksum":"03b67a48fc3972e03f9af70f1d36ff47acb6943b0f08adcdad3a77ed801e306c","features":{"alloc":[],"static":["std"],"std":["alloc"]},"yanked":false,"links":null}
-{"name":"rattish","vers":"0.2.3","deps":[],"cksum":"1ea2f57ce36524102159277e094d434962ada7dfd64c3b4288ae2a5d76aa8b6a","features":{"alloc":[],"std":["alloc"],"static":["std"]},"yanked":false,"links":null}
+{"name":"rattish","vers":"0.2.3","deps":[],"cksum":"1ea2f57ce36524102159277e094d434962ada7dfd64c3b4288ae2a5d76aa8b6a","features":{"alloc":[],"std":["alloc"],"static":["std"]},"yanked":true,"links":null}
 {"name":"rattish","vers":"0.3.0","deps":[],"cksum":"f9a002e20eafa3fba59d328589890b3cd92d7bd46589d621f753e3ce083b6dbf","features":{"static":["std"],"std":["alloc"],"alloc":[]},"yanked":false,"links":null}
 {"name":"rattish","vers":"0.3.1","deps":[],"cksum":"37c382e31a37202c60f26fb762a48acc033e5ed063879624e7d0d4a7699ab0e4","features":{"static":["std"],"alloc":[],"std":["alloc"]},"yanked":false,"links":null}
 {"name":"rattish","vers":"0.3.2","deps":[],"cksum":"6d1e3a4020764d72bf61d25589079d124bb482c09098c39818d68d682575f345","features":{"static":["std"],"alloc":[],"std":["alloc"]},"yanked":false,"links":null}
