@@ -4,3 +4,4 @@
 {"name":"elements-frequency","vers":"0.1.3","deps":[],"cksum":"ba338fa8ae500b37fb0e13c9d141b24afb7bd934f96722844d2ed271a06051dc","features":{},"yanked":false,"links":null}
 {"name":"elements-frequency","vers":"0.1.4","deps":[],"cksum":"27ef96d3c68b74aba818c5d375b901ed9978739f62a721fee702d8796defd29b","features":{},"yanked":false,"links":null}
 {"name":"elements-frequency","vers":"0.1.5","deps":[],"cksum":"3a999488b14b6a60cd7941d7e3e416c8ce39c4f4a9b189e030bff44a3a384a0e","features":{},"yanked":false,"links":null}
+{"name":"elements-frequency","vers":"0.2.0","deps":[{"name":"crossbeam-utils","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e51254ddc2ccd2bc8bdefef49ccbcd405b9755de16dfb525d9daf111635d053","features":{},"yanked":false,"links":null}
