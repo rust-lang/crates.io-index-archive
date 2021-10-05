@@ -11,5 +11,5 @@
 {"name":"xentrace-parser","vers":"0.3.0","deps":[],"cksum":"024e76c5125ff5df2ef5279139b8e9f0dcdae0809689320d3c7033cf977dce7b","features":{},"yanked":false,"links":null}
 {"name":"xentrace-parser","vers":"0.3.1","deps":[],"cksum":"26fbd6b95ae424db1194432f49b8535826fb9558aada548715f8ff99570230a0","features":{},"yanked":false,"links":null}
 {"name":"xentrace-parser","vers":"0.3.2","deps":[],"cksum":"b7dcc2cb25e4a12fae80ba4a9d94232b8888d4806f561e3e250c022c1597b949","features":{},"yanked":true,"links":null}
-{"name":"xentrace-parser","vers":"0.3.2-rev1","deps":[],"cksum":"8ae542e932069c505292df283f77f46c370b01af0be99ec8dc62bbcb626467bd","features":{},"yanked":false,"links":null}
+{"name":"xentrace-parser","vers":"0.3.2-rev1","deps":[],"cksum":"8ae542e932069c505292df283f77f46c370b01af0be99ec8dc62bbcb626467bd","features":{},"yanked":true,"links":null}
 {"name":"xentrace-parser","vers":"0.3.2-rev2","deps":[],"cksum":"932cacc3ec861cc12cbe43722b514a404a3c865f8998398b33da4aa055b88052","features":{},"yanked":false,"links":null}
