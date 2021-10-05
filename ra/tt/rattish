@@ -9,3 +9,4 @@
 {"name":"rattish","vers":"0.3.2","deps":[],"cksum":"6d1e3a4020764d72bf61d25589079d124bb482c09098c39818d68d682575f345","features":{"static":["std"],"alloc":[],"std":["alloc"]},"yanked":false,"links":null}
 {"name":"rattish","vers":"0.3.3","deps":[],"cksum":"7d9702e4e17ae658353571c53420fdbd14d55cb5f95d5128c43d45c7a3f69415","features":{"static":["std"],"alloc":[],"std":["alloc"]},"yanked":true,"links":null}
 {"name":"rattish","vers":"0.4.0","deps":[],"cksum":"be451b10e976dbcc09f99bc007ec5dd7dcea5fff60b8064d2cdeac2b8a11bd17","features":{"static":["std"],"alloc":[],"std":["alloc"]},"yanked":false,"links":null}
+{"name":"rattish","vers":"0.4.1","deps":[],"cksum":"11208474d898908362d01ff1e0458f1f3cb44b56cab475dee54f0a1e76467de3","features":{"static":["std"],"std":["alloc"],"alloc":[]},"yanked":false,"links":null}
