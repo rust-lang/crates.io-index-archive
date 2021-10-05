@@ -10,4 +10,4 @@
 {"name":"xentrace-parser","vers":"0.2.1","deps":[],"cksum":"06e5677dc4cd1bfc01bead5e214117ec6dca393d78acc25a547f1bf75718d64f","features":{},"yanked":false,"links":null}
 {"name":"xentrace-parser","vers":"0.3.0","deps":[],"cksum":"024e76c5125ff5df2ef5279139b8e9f0dcdae0809689320d3c7033cf977dce7b","features":{},"yanked":false,"links":null}
 {"name":"xentrace-parser","vers":"0.3.1","deps":[],"cksum":"26fbd6b95ae424db1194432f49b8535826fb9558aada548715f8ff99570230a0","features":{},"yanked":false,"links":null}
-{"name":"xentrace-parser","vers":"0.3.2","deps":[],"cksum":"b7dcc2cb25e4a12fae80ba4a9d94232b8888d4806f561e3e250c022c1597b949","features":{},"yanked":false,"links":null}
+{"name":"xentrace-parser","vers":"0.3.2","deps":[],"cksum":"b7dcc2cb25e4a12fae80ba4a9d94232b8888d4806f561e3e250c022c1597b949","features":{},"yanked":true,"links":null}
