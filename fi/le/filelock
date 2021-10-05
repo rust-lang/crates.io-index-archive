@@ -1,1 +1,2 @@
 {"name":"filelock","vers":"0.0.1","deps":[],"cksum":"651bcbbcaf1a67f8c7c8193703a00b8888eb5e216bfbd44c9509e9a8b1992ed2","features":{},"yanked":false,"links":null}
+{"name":"filelock","vers":"0.1.0","deps":[{"name":"errno","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d2b79a7d68584537b786907245c7ba3cbc96c3aaf577a43ee107ec8bd7c4058","features":{},"yanked":false,"links":null}
