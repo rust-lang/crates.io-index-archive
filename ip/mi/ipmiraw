@@ -1,0 +1,1 @@
+{"name":"ipmiraw","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07d9a2745953a85d963d7d49e5079860b1e0f268b81e084b4eab96a5431f0c37","features":{},"yanked":false,"links":null}
