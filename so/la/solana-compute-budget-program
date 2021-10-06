@@ -1,0 +1,1 @@
+{"name":"solana-compute-budget-program","vers":"1.8.0","deps":[{"name":"solana-sdk","req":"=1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"177bb9f0acbab2db4dbe48437044f203e67cbc355d9132ec92d36fd443987718","features":{},"yanked":false,"links":null}
