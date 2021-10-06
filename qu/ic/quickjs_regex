@@ -1,0 +1,1 @@
+{"name":"quickjs_regex","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"593c6b818bb2f67e084038f770b07ef71a20082cf6e32bc4c498f1c3f6f52519","features":{},"yanked":false,"links":null}
