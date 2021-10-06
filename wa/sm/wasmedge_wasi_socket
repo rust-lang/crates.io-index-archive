@@ -1,0 +1,1 @@
+{"name":"wasmedge_wasi_socket","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"275c04244c364ea10432969315e7264b3fc713b50e6c563edc3bef82c58ee1bf","features":{"std":[]},"yanked":false,"links":null}
