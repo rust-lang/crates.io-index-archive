@@ -7,3 +7,4 @@
 {"name":"minisign-verify","vers":"0.1.6","deps":[{"name":"ct-codecs","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"493831011636da37307d6100fb8b135dccf2bbbdd9a4b723554bb5b9cfe892b7","features":{},"yanked":false,"links":null}
 {"name":"minisign-verify","vers":"0.1.7","deps":[{"name":"ct-codecs","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbaf9a094402be3ce0c5ae90781a1eb781d3df0712ee313a2e8716d1c3091072","features":{},"yanked":false,"links":null}
 {"name":"minisign-verify","vers":"0.1.8","deps":[],"cksum":"db0507fe8e3c68cd62961cf9f87f6c2b21d884d3515a7150a4a3fa9d014e5c12","features":{},"yanked":false,"links":null}
+{"name":"minisign-verify","vers":"0.2.0","deps":[],"cksum":"95ccf091884470c4b3a80ad6daadbb2e7736611d631cbf0c9e603bb7dbcfdfd9","features":{},"yanked":false,"links":null}
