@@ -1,1 +1,2 @@
 {"name":"windows-graphics","vers":"0.7.0","deps":[{"name":"windows","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4f0e643fe1621cc1a706dbaf27f4e26d3d5454fb06bfe9f175af16275ccc61b","features":{},"yanked":false,"links":null}
+{"name":"windows-graphics","vers":"0.22.0","deps":[{"name":"windows","req":"^0.22.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"eddeb0078de9644d125b930361da0987d1c36cf7beeac3efc0376d5d4d49e86e","features":{},"yanked":false,"links":null}
