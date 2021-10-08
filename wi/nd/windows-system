@@ -1,1 +1,2 @@
 {"name":"windows-system","vers":"0.7.0","deps":[{"name":"windows","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"611213c83f48422d04ad52b64a0e2f510934c14e9b7cc4ad29d5e9fa769da4e1","features":{},"yanked":false,"links":null}
+{"name":"windows-system","vers":"0.22.0","deps":[{"name":"windows","req":"^0.22.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d0ef8896595818a9af361f5fec5db891815f8829b79b76b3d55ab742dbd7ac71","features":{},"yanked":false,"links":null}
