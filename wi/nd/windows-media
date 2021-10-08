@@ -1,1 +1,2 @@
 {"name":"windows-media","vers":"0.7.0","deps":[{"name":"windows","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a239bdf43ba6d45ca58146737058c3d89ccc2fed6bba52553cfb7c5723cbea6c","features":{},"yanked":false,"links":null}
+{"name":"windows-media","vers":"0.22.0","deps":[{"name":"windows","req":"^0.22.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e6dc37ce2ef900ddf1abbdb31badaaf7c76ec31a5b99ea4386b0ab8b79e3e67b","features":{},"yanked":false,"links":null}
