@@ -1,1 +1,2 @@
 {"name":"windows-ui-xaml","vers":"0.7.0","deps":[{"name":"windows","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8d0ec6c71297d2459e6b57f339a9d75f45c3a50fad3e3058835c7ebc020f229","features":{},"yanked":false,"links":null}
+{"name":"windows-ui-xaml","vers":"0.22.0","deps":[{"name":"windows","req":"^0.22.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"91ed2ad69944e75ab4b650676f0a0cf3d4766ed1c7bff03f7e83fb3860958bf2","features":{},"yanked":false,"links":null}
