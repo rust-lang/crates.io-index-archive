@@ -1,1 +1,2 @@
 {"name":"windows-ai","vers":"0.7.0","deps":[{"name":"windows","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1184e442e55363342886edc0f3f4c2eb116629f9669d0a79e3a36a5d034d0170","features":{},"yanked":false,"links":null}
+{"name":"windows-ai","vers":"0.22.0","deps":[{"name":"windows","req":"^0.22.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f2d3d995df87ba63a25f4bc88bf424d1675177245373dd24b34cec6759c81084","features":{},"yanked":false,"links":null}
