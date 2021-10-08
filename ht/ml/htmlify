@@ -1,0 +1,1 @@
+{"name":"htmlify","vers":"1.0.0","deps":[{"name":"web-sys","req":"^0.3","features":["Window","Document","Element","HtmlElement"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e45d5cd026b752661a731483e97bcd682e437d130c7f1ff410f450027b95860","features":{},"yanked":false,"links":null}
