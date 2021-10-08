@@ -1,1 +1,2 @@
 {"name":"windows-ui","vers":"0.7.0","deps":[{"name":"windows","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0cb1c15997e9c21d576caa6989593b17f7d5b3c3f514c4ab10de68bef2bdccb","features":{},"yanked":false,"links":null}
+{"name":"windows-ui","vers":"0.22.0","deps":[{"name":"windows","req":"^0.22.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"654e9b838b428ec11427503e499387f22e96f6590914b0631ad3ba7f1c103246","features":{},"yanked":false,"links":null}
