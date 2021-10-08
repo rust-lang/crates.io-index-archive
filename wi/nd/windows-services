@@ -1,1 +1,2 @@
 {"name":"windows-services","vers":"0.7.0","deps":[{"name":"windows","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98ae451017f554c0d9077d7f52f43130b2e6cb68650f8feee86d1dcf5202f4da","features":{},"yanked":false,"links":null}
+{"name":"windows-services","vers":"0.22.0","deps":[{"name":"windows","req":"^0.22.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"48871bfec6d1ca7b75d22ed3048e2c4452efff572d84624ab4ac2e79a2fec73a","features":{},"yanked":false,"links":null}
