@@ -1,1 +1,2 @@
 {"name":"windows-storage","vers":"0.7.0","deps":[{"name":"windows","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"641141e8ec645e838364a2db6160c76a5e625e541d267acf663dd1a05c7b4c6b","features":{},"yanked":false,"links":null}
+{"name":"windows-storage","vers":"0.22.0","deps":[{"name":"windows","req":"^0.22.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"427a732ab05b583e95f22a4ae3962ca7eb4b25a837ea89984754811951ffc626","features":{},"yanked":false,"links":null}
