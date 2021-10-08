@@ -1,1 +1,2 @@
 {"name":"multiboot2-header","vers":"0.0.0","deps":[],"cksum":"92282228637d588a40215536a464a961dd73172605d45e4c416dd6c9f28d84ba","features":{},"yanked":false,"links":null}
+{"name":"multiboot2-header","vers":"0.1.0","deps":[{"name":"multiboot2","req":"^0.12.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"edaba3f9d256cf88a920f9644e9d972cf227a60611e500742ab1033206c09064","features":{},"yanked":false,"links":null}
