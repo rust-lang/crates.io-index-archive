@@ -1,1 +1,2 @@
 {"name":"windows-devices","vers":"0.7.0","deps":[{"name":"windows","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5c934a67a3af933cb9258997dbadb497fa08c6cae60b47df8e9ef8ea32ed7bf","features":{},"yanked":false,"links":null}
+{"name":"windows-devices","vers":"0.22.0","deps":[{"name":"windows","req":"^0.22.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7ec84bcc9972e49152a199c16479e132de488a891a535d3306b6aa19ab1e104e","features":{},"yanked":false,"links":null}
