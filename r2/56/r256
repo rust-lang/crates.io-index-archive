@@ -1,0 +1,1 @@
+{"name":"r256","vers":"0.1.0","deps":[{"name":"winapi-util","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"915fbf4e56c80d2439bbe1333e9d52510e303c144ffb0159d4f5f94fd3a15629","features":{},"yanked":false,"links":null}
