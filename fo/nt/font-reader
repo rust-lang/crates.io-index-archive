@@ -1,1 +1,2 @@
 {"name":"font-reader","vers":"0.1.0","deps":[{"name":"binary-reader","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7da6b9bca883281a3ede61eb769b43d6f4df1c85baf7d60d7edd858a21c5be6f","features":{},"yanked":false,"links":null}
+{"name":"font-reader","vers":"0.1.1","deps":[{"name":"binary-reader","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b4435054c4559ad8b862c7dec9395777b3ccfcffd316a544f02423e99158418","features":{},"yanked":false,"links":null}
