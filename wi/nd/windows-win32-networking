@@ -1,0 +1,1 @@
+{"name":"windows-win32-networking","vers":"0.22.0","deps":[{"name":"windows","req":"^0.22.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2d3c4736b6e2f7015d512089ca41d804e16c8e66182c49a734b060581e11cba3","features":{},"yanked":false,"links":null}
