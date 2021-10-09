@@ -4,4 +4,4 @@
 {"name":"vc-ltl","vers":"5.0.1-r4","deps":[],"cksum":"e33bf2b6fdbedeeb74f0d2fdd44d99158816aff07b352f16aa11a34349bd0f6b","features":{},"yanked":true,"links":null}
 {"name":"vc-ltl","vers":"5.0.1-r5","deps":[],"cksum":"441b873fca074024eecb96fd7f148e8b02137f7ff7a52c0072d2843acde6baa6","features":{},"yanked":false,"links":null}
 {"name":"vc-ltl","vers":"5.0.2","deps":[],"cksum":"c4aefeac5d797e8921da4f88bcaa994b49e37a71cc249b6c040ed4a06b148db0","features":{},"yanked":true,"links":null}
-{"name":"vc-ltl","vers":"5.0.2-Beta1-r7","deps":[],"cksum":"845162f96006bf896762bb61ea1d0b0acdfd8ca5ec423ea07594eb94f59ef1b0","features":{},"yanked":false,"links":null}
+{"name":"vc-ltl","vers":"5.0.2-Beta1-r7","deps":[],"cksum":"845162f96006bf896762bb61ea1d0b0acdfd8ca5ec423ea07594eb94f59ef1b0","features":{},"yanked":true,"links":null}
