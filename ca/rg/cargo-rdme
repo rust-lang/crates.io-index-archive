@@ -1,0 +1,1 @@
+{"name":"cargo-rdme","vers":"0.0.0","deps":[{"name":"pretty_assertions","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"abb6c6e0443953bbfe470bd4354599cfcbb6b3c3a62246095ee81689ccafcc7a","features":{"fatal-warnings":[]},"yanked":false,"links":null}
