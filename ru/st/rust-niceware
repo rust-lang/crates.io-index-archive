@@ -1,1 +1,2 @@
 {"name":"rust-niceware","vers":"0.1.0","deps":[{"name":"ring","req":"^0.16.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ead4d0969c10731ee1f5322b796a4dba8f8954f585e5ef5fedbe7d7f512dcb5f","features":{},"yanked":false,"links":null}
+{"name":"rust-niceware","vers":"0.2.0","deps":[{"name":"ring","req":"^0.16.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9098f1cc708f9c5efd7d668fbc532086de6fefb721cdc32f3aba9c81191589b9","features":{},"yanked":false,"links":null}
