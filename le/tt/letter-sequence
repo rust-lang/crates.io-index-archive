@@ -3,3 +3,4 @@
 {"name":"letter-sequence","vers":"0.3.0","deps":[],"cksum":"0e80ffbd1e7b6f3c1483609eb1bf75af2e7337e752349d0d0ae62815c9aa9754","features":{},"yanked":false,"links":null}
 {"name":"letter-sequence","vers":"0.4.0","deps":[],"cksum":"6380a155d38d14741dbfe9a3efd0467bac085c806c140e3c9b301ce307328c4d","features":{},"yanked":false,"links":null}
 {"name":"letter-sequence","vers":"0.5.0","deps":[],"cksum":"ad6d985816e554500836f8d0140c32000d63727711e3fded611f910d1ded5159","features":{},"yanked":false,"links":null}
+{"name":"letter-sequence","vers":"0.6.0","deps":[{"name":"structopt","req":"^0.3.23","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d666f5eb0f4c882bd28dd1dfa704cf9428461a0ebbaf38d2c829b8e527beae1","features":{"bin":["structopt"]},"yanked":false,"links":null}
