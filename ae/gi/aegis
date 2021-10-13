@@ -1,0 +1,1 @@
+{"name":"aegis","vers":"0.1.0","deps":[{"name":"aes","req":"^0.7.5","features":["hazmat"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d5eb45d88f4175991e53ffc44fb9b3ebcec400d852c2beaddea2f8e2874ec0f","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
