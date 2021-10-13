@@ -16,5 +16,5 @@
 {"name":"climake","vers":"2.1.0-pre.1","deps":[],"cksum":"94d64ca7b842c1be9cbc58e1994db28820a1253720cbf0fc577563acb3c06463","features":{},"yanked":false,"links":null}
 {"name":"climake","vers":"2.1.0","deps":[],"cksum":"b8dd30c20dbc4e540104e3fc6b07fbef4f13fb9e56e0043b894f44885cbd7494","features":{},"yanked":false,"links":null}
 {"name":"climake","vers":"2.2.0","deps":[],"cksum":"d6ddcaf01c97fba5ff2a2f4059c542b0e31f353411e8b6ee4d6310828c2902e9","features":{},"yanked":true,"links":null}
-{"name":"climake","vers":"2.2.1","deps":[],"cksum":"166b1ddb28b9e56e6896ad7e5ee8cfc0cd9f915baaf5829342a4bc2affefcfd9","features":{},"yanked":false,"links":null}
+{"name":"climake","vers":"2.2.1","deps":[],"cksum":"166b1ddb28b9e56e6896ad7e5ee8cfc0cd9f915baaf5829342a4bc2affefcfd9","features":{},"yanked":true,"links":null}
 {"name":"climake","vers":"2.2.2","deps":[],"cksum":"d1e2347dac6890ae34c6459949b59fd156050a1e35077850788418b0e766043d","features":{},"yanked":true,"links":null}
