@@ -26,3 +26,4 @@
 {"name":"horrorshow","vers":"0.8.1","deps":[],"cksum":"5193e1f03dbec996948ec08831d3a0df72225fc7fab5efc90ebd9bdd9b70504d","features":{"default":["ops","std","alloc"],"alloc":[],"std":["alloc"],"ops":[]},"yanked":false,"links":null}
 {"name":"horrorshow","vers":"0.8.2","deps":[],"cksum":"ad517632123d9c856735b04b02031b04dfb5ab1e69695bcfb96dee5e8804f0df","features":{"alloc":[],"ops":[],"default":["ops","std","alloc"],"std":["alloc"]},"yanked":false,"links":null}
 {"name":"horrorshow","vers":"0.8.3","deps":[],"cksum":"87ce7e0a1bc8e4489896abc94e5664e811a502a151bebfe113b3214fa181d3fb","features":{"ops":[],"default":["ops","std","alloc"],"std":["alloc"],"alloc":[]},"yanked":false,"links":null}
+{"name":"horrorshow","vers":"0.8.4","deps":[],"cksum":"8371fb981840150b1a54f7cb117bf6699f7466a1d4861daac33bc6fe2b5abea0","features":{"std":["alloc"],"ops":[],"default":["ops","std","alloc"],"alloc":[]},"yanked":false,"links":null}
