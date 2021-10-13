@@ -1,0 +1,1 @@
+{"name":"convolutions-rs","vers":"0.1.0","deps":[{"name":"ndarray","req":"^0.15.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d6d57610f46e58fe49b83bdcc271e1a8f9237523e551a3a9ffad451b933e455","features":{},"yanked":false,"links":null}
