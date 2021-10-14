@@ -10,3 +10,4 @@
 {"name":"xdg","vers":"2.1.0","deps":[],"cksum":"a66b7c2281ebde13cf4391d70d4c7e5946c3c25e72a7b859ca8f677dcd0b0c61","features":{},"yanked":false}
 {"name":"xdg","vers":"2.2.0","deps":[],"cksum":"d089681aa106a86fade1b0128fb5daf07d5867a509ab036d99988dec80429a57","features":{},"yanked":false,"links":null}
 {"name":"xdg","vers":"2.3.0","deps":[{"name":"dirs","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de4cfc7dc9727713f386aadce9496f1ed64ea368d9f1f813a54d0f98f8741286","features":{},"yanked":false,"links":null}
+{"name":"xdg","vers":"2.4.0","deps":[{"name":"dirs","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a23fe958c70412687039c86f578938b4a0bb50ec788e96bce4d6ab00ddd5803","features":{},"yanked":false,"links":null}
