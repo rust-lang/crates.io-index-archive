@@ -1,0 +1,1 @@
+{"name":"rspotify-macros","vers":"0.11.0","deps":[{"name":"serde_json","req":"^1.0.67","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"886e004499c307e93b08263e88102bf1f3998bde6d4bfae62497c187c2a753c7","features":{},"yanked":false,"links":null}
