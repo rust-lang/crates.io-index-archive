@@ -7,3 +7,4 @@
 {"name":"base64ct","vers":"1.0.0","deps":[],"cksum":"d0d27fb6b6f1e43147af148af49d49329413ba781aa0d5e10979831c210173b5","features":{"std":["alloc"],"alloc":[]},"yanked":true,"links":null}
 {"name":"base64ct","vers":"1.0.1","deps":[],"cksum":"8a32fd6af2b5827bce66c29053ba0e7c42b9dcab01835835058558c10851a46b","features":{"std":["alloc"],"alloc":[]},"yanked":false,"links":null}
 {"name":"base64ct","vers":"1.1.0","deps":[],"cksum":"40a96587c05c810ddbb79e2674d519cff1379517e7b91d166dff7a7cc0e9af6e","features":{"alloc":[],"std":["alloc"]},"yanked":false,"links":null}
+{"name":"base64ct","vers":"1.1.1","deps":[],"cksum":"e6b4d9b1225d28d360ec6a231d65af1fd99a2a095154c8040689617290569c5c","features":{"alloc":[],"std":["alloc"]},"yanked":false,"links":null}
