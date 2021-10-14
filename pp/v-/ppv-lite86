@@ -12,4 +12,4 @@
 {"name":"ppv-lite86","vers":"0.2.9","deps":[],"cksum":"c36fa947111f5c62a733b652544dd0016a43ce89619538a8ef92724a6f501a20","features":{"std":[],"no_simd":[],"simd":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"ppv-lite86","vers":"0.2.10","deps":[],"cksum":"ac74c624d6b2d21f425f752262f42188365d7b8ff1aff74c82e45136510a4857","features":{"simd":[],"std":[],"default":["std"],"no_simd":[]},"yanked":false,"links":null}
 {"name":"ppv-lite86","vers":"0.2.11","deps":[],"cksum":"f209f69ad458a6495d2d867cce8117ca6360ac6edbc68930c5846544aaf39fd4","features":{"simd":[],"no_simd":[],"default":["std"],"std":[]},"yanked":true,"links":null}
-{"name":"ppv-lite86","vers":"0.2.12","deps":[],"cksum":"8aa20c0a8ac8d7f028e91a0a51be515de2d70db08764041ffa3c97f34e7b14c0","features":{"std":[],"default":["std"],"simd":[],"no_simd":[]},"yanked":false,"links":null}
+{"name":"ppv-lite86","vers":"0.2.12","deps":[],"cksum":"8aa20c0a8ac8d7f028e91a0a51be515de2d70db08764041ffa3c97f34e7b14c0","features":{"simd":[],"std":[],"no_simd":[],"default":["std"]},"yanked":true,"links":null}
