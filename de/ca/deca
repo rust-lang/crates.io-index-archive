@@ -2,3 +2,4 @@
 {"name":"deca","vers":"0.0.2","deps":[],"cksum":"e01c97da1ec95f564308d6f2fac6d40cc96737646e3bceb8ead91e628bc7bdff","features":{},"yanked":false,"links":null}
 {"name":"deca","vers":"0.0.3","deps":[],"cksum":"2f277905c2c83865a00d99c8f80d35a7187ee5b2bee284431fb51a13b095291c","features":{},"yanked":false,"links":null}
 {"name":"deca","vers":"0.0.4","deps":[],"cksum":"45efadf9836d62c19801756ed76afec29580257bfdb18c2cde45323b856e804e","features":{},"yanked":false,"links":null}
+{"name":"deca","vers":"0.0.5","deps":[{"name":"fastrand","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"itertools","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc701f3f448a5a2ad20be7b812bd97ece0b59ed0f261546d7d0da81199dd842c","features":{},"yanked":false,"links":null}
