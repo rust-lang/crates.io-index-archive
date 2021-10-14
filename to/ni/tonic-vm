@@ -1,1 +1,2 @@
 {"name":"tonic-vm","vers":"0.1.0","deps":[{"name":"tonic-parser","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba026dae597e76e52af40e00ada5dbf0c33c662ff5138eb50de74a83a167db03","features":{},"yanked":false,"links":null}
+{"name":"tonic-vm","vers":"0.1.1","deps":[{"name":"tonic-parser","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ca65ec20cbc9ff93acc48add198a6cebfc7c2ce8afba33e2bc7db7549b51d76","features":{},"yanked":false,"links":null}
