@@ -1,1 +1,2 @@
 {"name":"option-operations","vers":"0.1.0","deps":[],"cksum":"bab29a217945edf1b8968e4bd44530c52e7b6f49fd738d0978038b7b65257505","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"option-operations","vers":"0.2.0","deps":[],"cksum":"8b78ba0da0178b8d3a15fb8f96d37214dbcf442a147da7c51fcb3ebacc33c004","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
