@@ -1,0 +1,1 @@
+{"name":"fuzzypath","vers":"1.0.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ea2e916ac00a6edea51e1788104ee0cc719c6802b3766a81da3b05a311331bc","features":{},"yanked":false,"links":null}
