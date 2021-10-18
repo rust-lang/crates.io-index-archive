@@ -8,3 +8,4 @@
 {"name":"ruby-math","vers":"0.1.7","deps":[],"cksum":"181d70c9105f00ec60716d5b04d76df34a43627fc2401aa0e62cbfc7794b5084","features":{"ruby-assert":[],"default":["ruby-assert"],"debug-ruby-assert":[]},"yanked":false,"links":null}
 {"name":"ruby-math","vers":"0.2.0","deps":[],"cksum":"21ca737ac5021a657979dac4001cc42d4d89ef445cb083ec2b1638a72441b3c4","features":{"debug-ruby-assert":[],"default":["ruby-assert"],"ruby-assert":[]},"yanked":false,"links":null}
 {"name":"ruby-math","vers":"0.2.1","deps":[],"cksum":"c19e411577bf8726c2e1d91e7f3d4c33f0a9195a64bdaf441371d8640b6761c9","features":{"default":["ruby-assert"],"debug-ruby-assert":[],"ruby-assert":[]},"yanked":false,"links":null}
+{"name":"ruby-math","vers":"0.2.2","deps":[],"cksum":"174fbd93feed24f65776304aa6799b1a28c539eaf101dc303c41a17713b69d85","features":{"ruby-assert":[],"default":["ruby-assert"],"debug-ruby-assert":[]},"yanked":false,"links":null}
