@@ -1,0 +1,1 @@
+{"name":"hmac-sha1-compact","vers":"0.1.0","deps":[{"name":"digest","req":"^0.9","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8a027f029d21c427901b36f987072fcb8f6470ed08a1c7c73d53640a20e2e6a","features":{"traits":["digest"],"default":[]},"yanked":false,"links":null}
