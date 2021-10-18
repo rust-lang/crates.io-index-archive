@@ -1,0 +1,1 @@
+{"name":"dnpak","vers":"0.1.0","deps":[{"name":"flate2","req":"^1.0.22","features":["zlib-ng-compat"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c5643716649c23f9882095283623b13f5a1346bc50958ecd81069a39102d3401","features":{},"yanked":false,"links":null}
