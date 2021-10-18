@@ -1,0 +1,1 @@
+{"name":"marine-build-rs-generator","vers":"0.4.0","deps":[{"name":"marine-test-macro-impl","req":"=0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c81d725ea49f554e23d3a0eb9464fcdad0bc190e42bb5a5a27699fb56557177c","features":{},"yanked":false,"links":null}
