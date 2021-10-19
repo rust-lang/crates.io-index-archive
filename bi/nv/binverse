@@ -1,2 +1,3 @@
 {"name":"binverse","vers":"0.1.0","deps":[],"cksum":"4120c688d00b31bc9bd1ad756ab78c2dea9ab205aee8a2de9318c7a9ec169623","features":{},"yanked":false,"links":null}
 {"name":"binverse","vers":"0.2.0","deps":[],"cksum":"040b4b617b804cf01bdc393aeed5ced3a1d70035671e29e2f1ec8a83d841c824","features":{},"yanked":false,"links":null}
+{"name":"binverse","vers":"0.3.0","deps":[{"name":"binverse_derive","req":"^0.3.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e322888d84270d17a9f20f460a28be137c166061bfdde0e1d57d2e297fd9d3fd","features":{"derive":["binverse_derive"],"default_features":["binverse_derive"]},"yanked":false,"links":null}
