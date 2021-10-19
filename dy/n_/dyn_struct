@@ -1,0 +1,1 @@
+{"name":"dyn_struct","vers":"0.1.0","deps":[{"name":"dyn_struct_derive","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ade066dc46b56f23c6b92ed65e241a1f65592d42952b21202b3762bbb650718","features":{"default":["derive"],"derive":["dyn_struct_derive"]},"yanked":false,"links":null}
