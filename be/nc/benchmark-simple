@@ -1,1 +1,2 @@
 {"name":"benchmark-simple","vers":"0.1.0","deps":[{"name":"precision","req":"^0.1.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b16e34910fe4c8cc69472cfa7cc0e632f27d93f9596a557927a2c62df633d9a2","features":{},"yanked":false,"links":null}
+{"name":"benchmark-simple","vers":"0.1.1","deps":[{"name":"precision","req":"^0.1.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b3fd0864aba027f139bd0997ec6dc563bceb39a5db1bbf02acb6994e410235a","features":{},"yanked":false,"links":null}
