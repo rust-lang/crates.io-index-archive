@@ -1,1 +1,2 @@
 {"name":"val-test","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bff3bb4a77bd11fea8aec78c3ec66e0701e9f4571655b1d4556ef5249750c971","features":{},"yanked":false,"links":null}
+{"name":"val-test","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf230dd033130e66b55ac991d16117e4dc2209f7f7624388cb9e7482ca8fef1f","features":{},"yanked":false,"links":null}
