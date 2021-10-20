@@ -5,3 +5,4 @@
 {"name":"ckb-constant","vers":"0.100.0-rc4","deps":[],"cksum":"97996093b818483295c38966d982552061d3080937f4e1cd33c25df269fa6675","features":{},"yanked":false,"links":null}
 {"name":"ckb-constant","vers":"0.100.0-rc5","deps":[],"cksum":"c3caf59493c29c9d0434ec5a5fe8809a8dc77f04e0bb88fdebabd9c65876f986","features":{},"yanked":false,"links":null}
 {"name":"ckb-constant","vers":"0.100.0","deps":[],"cksum":"83f76e9b4af7840e31f786e13ac4e37848e92489c8f433e714b0e7af1aa2b94b","features":{},"yanked":false,"links":null}
+{"name":"ckb-constant","vers":"0.101.0","deps":[],"cksum":"80a2816784ac870354d759725df8ac548ca2197ff9354ec1756b429cad0b8562","features":{},"yanked":false,"links":null}
