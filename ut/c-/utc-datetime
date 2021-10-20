@@ -13,4 +13,4 @@
 {"name":"utc-datetime","vers":"0.1.12","deps":[],"cksum":"dd0189bd711a709a2c20bfeb254d54b8b85701d77e8dc43b6f8d180b57fddf1c","features":{},"yanked":false,"links":null}
 {"name":"utc-datetime","vers":"0.1.13","deps":[],"cksum":"a28e1ae62b31c2b3bd818c4c5d2876b84142060c63967c304971919545b23a52","features":{},"yanked":false,"links":null}
 {"name":"utc-datetime","vers":"0.1.14","deps":[],"cksum":"0dd5ae9f875c3e2ec331c86ff7083daf2841e8700ad939811efe324e5a359a01","features":{},"yanked":false,"links":null}
-{"name":"utc-datetime","vers":"0.1.15","deps":[],"cksum":"ad83aa185a1b8761782f785bdff0cf3aeb59b9e07165b2749fe749ef7e854330","features":{},"yanked":false,"links":null}
+{"name":"utc-datetime","vers":"0.1.15","deps":[],"cksum":"ad83aa185a1b8761782f785bdff0cf3aeb59b9e07165b2749fe749ef7e854330","features":{},"yanked":true,"links":null}
