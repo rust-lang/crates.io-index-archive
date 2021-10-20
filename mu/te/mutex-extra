@@ -1,1 +1,2 @@
 {"name":"mutex-extra","vers":"0.9.6","deps":[{"name":"owning_ref","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f85625d9d918cac355e9d4381f5bd44adf1c96b6749f620fc0eff64b9838acb2","features":{},"yanked":false,"links":null}
+{"name":"mutex-extra","vers":"0.9.7","deps":[],"cksum":"802f25df00dc1f5848c883c921de5edf0e245b9c546b64cfb0db6ec0d7217ba5","features":{},"yanked":false,"links":null}
