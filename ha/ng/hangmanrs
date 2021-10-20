@@ -1,1 +1,2 @@
 {"name":"hangmanrs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61f10e45d7617edad77211565af8239bac49fa418bb1cc9fced06112446886bd","features":{},"yanked":false,"links":null}
+{"name":"hangmanrs","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86d3f9521f51c21dee99cbe48bb7e50fb295c940fab1cb56aa74fa05ff390286","features":{},"yanked":false,"links":null}
