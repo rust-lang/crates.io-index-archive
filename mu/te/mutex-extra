@@ -1,0 +1,1 @@
+{"name":"mutex-extra","vers":"0.9.6","deps":[{"name":"owning_ref","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f85625d9d918cac355e9d4381f5bd44adf1c96b6749f620fc0eff64b9838acb2","features":{},"yanked":false,"links":null}
