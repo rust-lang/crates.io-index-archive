@@ -1,2 +1,3 @@
 {"name":"moveit","vers":"0.1.0","deps":[],"cksum":"7f52b97006f1c1b4d3af7cd14e4a810f05ad4c831caf24b21db589f510e5ad53","features":{"alloc":[],"default":["alloc"]},"yanked":false,"links":null}
 {"name":"moveit","vers":"0.2.0","deps":[],"cksum":"33f7142fc92944c98a49d554b825cd64d7be46d21492f7d839a8cc97ca4dae58","features":{"default":["alloc"],"alloc":[]},"yanked":false,"links":null}
+{"name":"moveit","vers":"0.3.0","deps":[],"cksum":"6057da3a5b9ed2136f77857cfa713d29442030006038406fa4b16de31c470f57","features":{"default":["alloc"],"alloc":[]},"yanked":false,"links":null}
