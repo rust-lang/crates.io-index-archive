@@ -2,3 +2,4 @@
 {"name":"abar","vers":"0.2.2","deps":[],"cksum":"0da103543409501457b2536e7249cb31d8865cfb5a8547c7b07ff95e3ddf66ed","features":{},"yanked":false,"links":null}
 {"name":"abar","vers":"0.3.1","deps":[],"cksum":"88b39edf01ec98780a9ab05c1a6afa394d877aa72e1f73b3dce939cba8332618","features":{},"yanked":false,"links":null}
 {"name":"abar","vers":"0.4.0","deps":[{"name":"spmc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ebfab2c7d6140e24ce03b6effe6b5d28c71db595ecb56ad55dd470f6a1dc7663","features":{},"yanked":false,"links":null}
+{"name":"abar","vers":"0.5.0","deps":[{"name":"spmc","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca07e8549abaaf63a3248f6bdc358b0686eb29315256d4235ed08c02228a81a6","features":{},"yanked":false,"links":null}
