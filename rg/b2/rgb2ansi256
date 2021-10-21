@@ -1,0 +1,1 @@
+{"name":"rgb2ansi256","vers":"0.1.0","deps":[{"name":"ansi_colours","req":"=1.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"57df9ea38d09bf37f678380bf9256f031e8542a063c75b8017efd62238baee6e","features":{},"yanked":false,"links":null}
