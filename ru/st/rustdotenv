@@ -1,0 +1,1 @@
+{"name":"rustdotenv","vers":"0.1.0","deps":[{"name":"envfile","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7785034eb30f8f52ef0a69d9e1774ae52acfbf7854ebc17316678fea62b4a29f","features":{},"yanked":false,"links":null}
