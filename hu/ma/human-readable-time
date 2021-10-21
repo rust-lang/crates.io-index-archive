@@ -1,1 +1,2 @@
 {"name":"human-readable-time","vers":"0.0.1","deps":[],"cksum":"7733e68651687ffc28d50033c5aab6d8e508f74988c9c26f6942d629f3e997df","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"human-readable-time","vers":"0.1.0","deps":[],"cksum":"327e244d904598a749029b830f4595fefc1f0f7a5ea2869ce42b3831077562e1","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
