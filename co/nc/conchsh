@@ -1,0 +1,1 @@
+{"name":"conchsh","vers":"0.1.0","deps":[{"name":"man","req":"^0.3.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd5409da1449149ecade2292a71af2c9357807278d540ed296c64ce37fcd734e","features":{"build_deps":["man"]},"yanked":false,"links":null}
