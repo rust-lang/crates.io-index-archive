@@ -13,3 +13,4 @@
 {"name":"lang-c","vers":"0.9.0","deps":[],"cksum":"5c4db1cb9a398cb3a595d3ffa2adb3d04368a09df33b16f4d49b30d1ead1bf70","features":{},"yanked":false,"links":null}
 {"name":"lang-c","vers":"0.10.0","deps":[],"cksum":"fe4fe7f25690d90eb5d3c80d8e82a6d4b61e81c19f474f993a9166f6b887001b","features":{"dev-pegviz":[]},"yanked":false,"links":null}
 {"name":"lang-c","vers":"0.10.1","deps":[],"cksum":"a597343db6f9affec95665270028e3113864b48a1a0ba9257c1553ade3840207","features":{"dev-pegviz":[]},"yanked":false,"links":null}
+{"name":"lang-c","vers":"0.11.0","deps":[],"cksum":"a402480a9a8d5a8b6348ddb87bc7e7d16a0899086b5c6ba9ff6df622e9f4692a","features":{"dev-pegviz":[]},"yanked":false,"links":null}
