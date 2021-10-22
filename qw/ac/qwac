@@ -3,3 +3,4 @@
 {"name":"qwac","vers":"0.1.2","deps":[],"cksum":"8a5de1161c5488fe3c2fb1dc725039069d21ead2aee5bacf3e465a6d59f45742","features":{"alloc":[]},"yanked":false,"links":null}
 {"name":"qwac","vers":"0.1.4","deps":[],"cksum":"0bdd107b73e43120fcfdabd4d733c5f0b65a3f6ed6e626f9db13ae3d1a696f8e","features":{"alloc":[]},"yanked":false,"links":null}
 {"name":"qwac","vers":"0.2.0","deps":[],"cksum":"22da326439718228fa2d12feb226a2904c2d8852f4e1dffb12a3eaec6e623959","features":{"alloc":[]},"yanked":false,"links":null}
+{"name":"qwac","vers":"0.3.0","deps":[],"cksum":"b3bbfdc4f01d93fca03091643eaf7a896928846cb55f8336e5c8243758b0106f","features":{"alloc":[]},"yanked":false,"links":null}
