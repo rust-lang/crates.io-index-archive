@@ -1,0 +1,1 @@
+{"name":"ext-trait","vers":"0.1.0-rc1","deps":[{"name":"ext-trait-proc_macros","req":"^0.1.0-rc1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"773f4aadbb0867b8cf451d859927c5e89dbb1e5120702f62b3dea2850087f917","features":{"ui-tests":["better-docs"],"better-docs":[]},"yanked":false,"links":null}
