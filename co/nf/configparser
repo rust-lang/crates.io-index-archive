@@ -30,3 +30,4 @@
 {"name":"configparser","vers":"2.0.0","deps":[],"cksum":"e2616d8c1fbf887d76dd8e067ec1bc3be7669994378428b4415a8e4ad57baae1","features":{},"yanked":false,"links":null}
 {"name":"configparser","vers":"2.0.1","deps":[],"cksum":"4aad39d76dbe45b809ef6d783b8c597732225b8f3d6c4d8ceb4a4f834a844ffe","features":{},"yanked":false,"links":null}
 {"name":"configparser","vers":"2.1.0","deps":[],"cksum":"f7201ee416d124d589a820111ba755930df8b75855321a9a1b87312a0597ec8f","features":{},"yanked":false,"links":null}
+{"name":"configparser","vers":"3.0.0","deps":[{"name":"indexmap","req":"^1.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06821ea598337a8412cf47c5b71c3bc694a7f0aed188ac28b836fab164a2c202","features":{},"yanked":false,"links":null}
