@@ -1,0 +1,1 @@
+{"name":"member-ref-vec","vers":"0.1.0","deps":[{"name":"smallvec","req":"^1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2b607bf4256d620b29cf63aac9655d23be9f152f7f3b5425bffa43ab000f5414","features":{},"yanked":false,"links":null}
