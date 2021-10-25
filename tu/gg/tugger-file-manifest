@@ -3,3 +3,4 @@
 {"name":"tugger-file-manifest","vers":"0.3.0","deps":[],"cksum":"1ed041f7eb90349d65655c20644fbfa180c388190197baf6df454b8239edba65","features":{},"yanked":false,"links":null}
 {"name":"tugger-file-manifest","vers":"0.4.0","deps":[],"cksum":"1ff990ffc253158eef6c3d75323a91887d9db9fd519cb802c2f99fbdcc6e49c9","features":{},"yanked":false,"links":null}
 {"name":"tugger-file-manifest","vers":"0.5.0","deps":[{"name":"tempfile","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e8c547e8873b1e3325c1e7ad517747b09d26ec36b13ab0d286a5ab349f261197","features":{},"yanked":false,"links":null}
+{"name":"tugger-file-manifest","vers":"0.6.0","deps":[{"name":"tempfile","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"29e91ac69050080a0a9fd50af05da5baa8562347ca7b8909f8ed3adbc6ef026f","features":{},"yanked":false,"links":null}
