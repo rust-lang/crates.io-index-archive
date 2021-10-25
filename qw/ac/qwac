@@ -5,3 +5,4 @@
 {"name":"qwac","vers":"0.2.0","deps":[],"cksum":"22da326439718228fa2d12feb226a2904c2d8852f4e1dffb12a3eaec6e623959","features":{"alloc":[]},"yanked":false,"links":null}
 {"name":"qwac","vers":"0.3.0","deps":[],"cksum":"b3bbfdc4f01d93fca03091643eaf7a896928846cb55f8336e5c8243758b0106f","features":{"alloc":[]},"yanked":false,"links":null}
 {"name":"qwac","vers":"0.4.0","deps":[],"cksum":"031917aa50de7c67c4b66f02f9b4661f421c708296e7c5db91aa0446b2f8943a","features":{"alloc":[]},"yanked":false,"links":null}
+{"name":"qwac","vers":"0.4.1","deps":[],"cksum":"80911e44b7added1432f306c239b9796804d0a4aad0bfd2dc6386e6b5555ca58","features":{"alloc":[]},"yanked":false,"links":null}
