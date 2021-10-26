@@ -1,0 +1,1 @@
+{"name":"gemachain-compute-budget-program","vers":"1.8.1","deps":[{"name":"gemachain-sdk","req":"=1.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d6ad86d42c2c42339c6a8f392655fd2e936e9761e76ab3203aad13ec67077a9","features":{},"yanked":false,"links":null}
