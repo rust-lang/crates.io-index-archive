@@ -1,0 +1,1 @@
+{"name":"base116","vers":"0.1.0","deps":[],"cksum":"a24c92445a22c7604a8fd05df2a3b1c7c63e0f2dd7d3820ec7a435ada94eef3a","features":{"default":["std"],"cli-panic":[],"doc_cfg":[],"alloc":[],"std":["alloc"]},"yanked":false,"links":null}
