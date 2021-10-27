@@ -1,1 +1,2 @@
 {"name":"ttvm","vers":"0.1.0","deps":[{"name":"ttvm_core","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbcc710435783b2ffd0dc01ace6f9e1ca7127b9dd0b8d87474c0867351b37e76","features":{},"yanked":false,"links":null}
+{"name":"ttvm","vers":"0.1.1","deps":[{"name":"ttvm_core","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d55c47b5885917110ac3f0394ac2c9e0042e09c9e885f97bf5930bc03e6650ef","features":{},"yanked":false,"links":null}
