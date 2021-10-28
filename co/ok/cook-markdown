@@ -1,0 +1,1 @@
+{"name":"cook-markdown","vers":"0.0.1","deps":[{"name":"cook-with-rust-parser","req":"^0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5445409ad7ad7092fe0998797df91c109aa142009670ed7d816bcb8f35bb2782","features":{},"yanked":false,"links":null}
