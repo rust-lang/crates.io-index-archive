@@ -1,0 +1,1 @@
+{"name":"unwrap_helpers","vers":"0.1.0","deps":[{"name":"loop_unwrap","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c8296eaedcb995a0c82d52df777e03f62214a1a8af9e744c22e7be1236c4bb4","features":{},"yanked":false,"links":null}
