@@ -1,1 +1,2 @@
 {"name":"ndshape","vers":"0.1.0","deps":[{"name":"static_assertions","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0bb7be9f20e8551856f2a1a157f34a364bbbdcc7c30310dd502b3acb7acf979","features":{},"yanked":false,"links":null}
+{"name":"ndshape","vers":"0.2.0","deps":[{"name":"static_assertions","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d3ed987d47ee67304e467529861ac8b3432a7d6cf9c9a14edcce1de4114b099","features":{},"yanked":false,"links":null}
