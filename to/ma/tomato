@@ -1,1 +1,2 @@
 {"name":"tomato","vers":"0.1.0","deps":[{"name":"indicatif","req":"^0.16.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0587c4ece755844f9d0c515fb3f3c90d8c02b387eda996de608d3765c16ec392","features":{},"yanked":false,"links":null}
+{"name":"tomato","vers":"0.1.1","deps":[{"name":"indicatif","req":"^0.16.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb668bf8e85d72b9706cee64d69e2ac8099412d702895b3ce2218eccca218880","features":{},"yanked":false,"links":null}
