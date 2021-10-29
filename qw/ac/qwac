@@ -8,3 +8,4 @@
 {"name":"qwac","vers":"0.4.1","deps":[],"cksum":"80911e44b7added1432f306c239b9796804d0a4aad0bfd2dc6386e6b5555ca58","features":{"alloc":[]},"yanked":false,"links":null}
 {"name":"qwac","vers":"0.4.2","deps":[],"cksum":"e0088c8c4c552d2b1199266a61e75a34e05e6142f5d025a0d5f92c89b07597f8","features":{"alloc":[]},"yanked":false,"links":null}
 {"name":"qwac","vers":"0.4.3","deps":[],"cksum":"afbc23782109a4a05e8de115bdd3707dbd2118634ccea63e26bc6acdafe6bc9a","features":{"alloc":[]},"yanked":false,"links":null}
+{"name":"qwac","vers":"0.5.0","deps":[],"cksum":"bfe5f1e37458f5ca3bc604ee1ee4e9179e321e58f3c28c5d71d000ef81b3ea2d","features":{"alloc":[]},"yanked":false,"links":null}
