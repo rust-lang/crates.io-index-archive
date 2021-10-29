@@ -19,7 +19,7 @@
 {"name":"surge-constants","vers":"0.1.31-alpha.0","deps":[],"cksum":"a36fef9d2da6bfffb36f30d72f384bbb17e88273462786fa8316c221c6dad08d","features":{},"yanked":false,"links":null}
 {"name":"surge-constants","vers":"0.1.32-alpha.0","deps":[],"cksum":"d06dd3644140ecb20c0dacb9c8c995869292e953daa66094d2a1be24cbd341c4","features":{},"yanked":false,"links":null}
 {"name":"surge-constants","vers":"0.1.33-alpha.0","deps":[],"cksum":"332952048699ff933080d26d99d147b68204a1107d108344ec910af57bc6b6bd","features":{},"yanked":false,"links":null}
-{"name":"surge-constants","vers":"0.1.36-alpha.0","deps":[],"cksum":"658ddb760497080ad70415a67613dfc55ab07da8c3917163eac453f4e86c88c6","features":{},"yanked":false,"links":null}
+{"name":"surge-constants","vers":"0.1.36-alpha.0","deps":[],"cksum":"658ddb760497080ad70415a67613dfc55ab07da8c3917163eac453f4e86c88c6","features":{},"yanked":true,"links":null}
 {"name":"surge-constants","vers":"0.1.37-alpha.0","deps":[],"cksum":"e1c7169db0eb7a5d8b094ee8883f19e978705dc92e1cce8f7c73f2d60604b6bc","features":{},"yanked":true,"links":null}
 {"name":"surge-constants","vers":"0.1.39-alpha.0","deps":[],"cksum":"9ec2a8d91091136915cb7b2b2022bd44995599fc7e8b23f76551243983b787db","features":{},"yanked":true,"links":null}
 {"name":"surge-constants","vers":"0.1.40-alpha.0","deps":[],"cksum":"ec5738e98b0bef4fe3138ff3cbe88de63647aa965edb48e64d800ad3fede6c1d","features":{},"yanked":true,"links":null}
