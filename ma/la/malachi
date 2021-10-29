@@ -1,1 +1,2 @@
 {"name":"malachi","vers":"0.1.0","deps":[{"name":"nom","req":"^7.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd7c81a6f0e487e8cde57918f2e6c74b142e54f51ffa1c1b539fdc257d51e3f4","features":{},"yanked":false,"links":null}
+{"name":"malachi","vers":"0.2.1","deps":[{"name":"nom","req":"^7.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9db63bff715e2102e87dc597cf1ad8cd656a55744a47fce0ed2998ff7748eee7","features":{},"yanked":false,"links":null}
