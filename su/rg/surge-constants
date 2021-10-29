@@ -13,7 +13,7 @@
 {"name":"surge-constants","vers":"0.1.24-alpha.0","deps":[],"cksum":"ed004a3ac847a4a473a3a6a6c2d69304466bb16cf0c888873a2421bdf8f621e8","features":{},"yanked":false,"links":null}
 {"name":"surge-constants","vers":"0.1.26-alpha.0","deps":[],"cksum":"5f52e29490c2e4698452c32388ea2600e925ad774bd5122d2b4a7e2f1efd2844","features":{},"yanked":false,"links":null}
 {"name":"surge-constants","vers":"0.1.27-alpha.0","deps":[],"cksum":"40c59d4d7588a64f8ee4e027aa0982eec8516aae604094d060150682c0dd6be7","features":{},"yanked":false,"links":null}
-{"name":"surge-constants","vers":"0.1.28-alpha.0","deps":[],"cksum":"5aec0c7768c434a92970dca39c2f76e85efcce2b1a0a8dd7b882559ccee03a1a","features":{},"yanked":false,"links":null}
+{"name":"surge-constants","vers":"0.1.28-alpha.0","deps":[],"cksum":"5aec0c7768c434a92970dca39c2f76e85efcce2b1a0a8dd7b882559ccee03a1a","features":{},"yanked":true,"links":null}
 {"name":"surge-constants","vers":"0.1.29-alpha.0","deps":[],"cksum":"5aab2c691651c96eaa4578da529ceca77eb03c28acda8c4a59767e1cb6450b19","features":{},"yanked":true,"links":null}
 {"name":"surge-constants","vers":"0.1.30-alpha.0","deps":[],"cksum":"2164bb4f458d14ecc0f3e7644247f633ff7dc18964d257959d1789ececaf7163","features":{},"yanked":true,"links":null}
 {"name":"surge-constants","vers":"0.1.31-alpha.0","deps":[],"cksum":"a36fef9d2da6bfffb36f30d72f384bbb17e88273462786fa8316c221c6dad08d","features":{},"yanked":true,"links":null}
