@@ -1,0 +1,1 @@
+{"name":"siamesedb","vers":"0.1.1","deps":[],"cksum":"a42ef8458afc2e33fdbe98ed72b117f993c54543b0b26fd6bf510926f14b5bfb","features":{"vf_vu64":[],"buf_lru":[],"default":["vf_vu64"],"buf_stats":[],"vf_u32u32":[],"vf_u64u64":[]},"yanked":false,"links":null}
