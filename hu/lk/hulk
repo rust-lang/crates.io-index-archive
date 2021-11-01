@@ -1,2 +1,2 @@
-{"name":"hulk","vers":"0.1.0","deps":[],"cksum":"24bc2504fbcc1383606911abbeb4ee58b37c0565a3e0d41fefc303c13a9db98a","features":{},"yanked":false,"links":null}
+{"name":"hulk","vers":"0.1.0","deps":[],"cksum":"24bc2504fbcc1383606911abbeb4ee58b37c0565a3e0d41fefc303c13a9db98a","features":{},"yanked":true,"links":null}
 {"name":"hulk","vers":"0.1.1","deps":[{"name":"comrak","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17c17023b3c54aa7c482f7b24db0f184d20f4739a86dfecab04ebb716e8c3cb7","features":{},"yanked":false,"links":null}
