@@ -1,1 +1,2 @@
 {"name":"virmin","vers":"0.1.0","deps":[{"name":"num","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"818ccd58dddec4aa5ef516d27f8a09e39ed946a60e5906c7cc021778b1655a3f","features":{},"yanked":false,"links":null}
+{"name":"virmin","vers":"0.2.0","deps":[{"name":"num","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccfa32118d9f5cd4781acd7ebb7b26b1f0b03b42917a1617d938dfb2b9510c9c","features":{},"yanked":false,"links":null}
