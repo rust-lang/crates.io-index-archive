@@ -1,1 +1,2 @@
 {"name":"occlum-pal","vers":"0.1.0","deps":[{"name":"bindgen","req":">=0.57","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6de573974142da27a85304fa788698a0049fddc9fba7e75751e6cd7b34c48b90","features":{},"yanked":false,"links":"occlum-pal"}
+{"name":"occlum-pal","vers":"0.1.1","deps":[],"cksum":"77ced011b695da0eeccba9bd49a562c9afa4e27336c5e17d322d6d9a29a4229d","features":{},"yanked":false,"links":"occlum-pal"}
