@@ -1,3 +1,4 @@
 {"name":"im_ternary_tree","vers":"0.0.1-a1","deps":[],"cksum":"77ccf021f46159eb3e6c98f04ab111d93183b8830298e848530c2023465ba89a","features":{},"yanked":false,"links":null}
 {"name":"im_ternary_tree","vers":"0.0.1-a2","deps":[],"cksum":"047ce6cd3066d45196d7b08e014547b36ab5ad64cd65fe9fa3aab07ddf31b8bf","features":{},"yanked":false,"links":null}
 {"name":"im_ternary_tree","vers":"0.0.1-a3","deps":[],"cksum":"ba6dabade3a7b2059ab2557052f8a6c9970d4f5aa4b1aab66a5b38205e0e1870","features":{},"yanked":false,"links":null}
+{"name":"im_ternary_tree","vers":"0.0.1-a4","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c4fa8823f84cd8522750074e30a82355d90ac0566da927d0a9f0c0127f608f53","features":{},"yanked":false,"links":null}
