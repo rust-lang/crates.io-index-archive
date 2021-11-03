@@ -1,0 +1,1 @@
+{"name":"indexvec","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1fad1fb5ebe6ca63a800f08fd08dc78f644030f8e3501f95766c2959528b28d","features":{},"yanked":false,"links":null}
