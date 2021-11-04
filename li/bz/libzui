@@ -1,0 +1,1 @@
+{"name":"libzui","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3573631049574d26d6e3bf08d8c78af6a2c6772df2f12c332b4448ad7052c061","features":{},"yanked":false,"links":null}
