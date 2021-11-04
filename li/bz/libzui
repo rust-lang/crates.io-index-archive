@@ -1,1 +1,2 @@
 {"name":"libzui","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3573631049574d26d6e3bf08d8c78af6a2c6772df2f12c332b4448ad7052c061","features":{},"yanked":false,"links":null}
+{"name":"libzui","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"788711a09c3a22cab9ea9fa05693c6fd557e4dccde177c2e67536ef7bf1d37e6","features":{},"yanked":false,"links":null}
