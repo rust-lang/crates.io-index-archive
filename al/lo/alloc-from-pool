@@ -1,0 +1,1 @@
+{"name":"alloc-from-pool","vers":"1.0.0","deps":[{"name":"bencher","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fdf5fcf900bfc8e03de8d723ce9ff931f5af7b2c3935f5e59d2837c9d941f226","features":{},"yanked":false,"links":null}
