@@ -1,1 +1,2 @@
 {"name":"callbag","vers":"0.1.0","deps":[],"cksum":"aca0342bb294b06cf3d9c0154675af11c3f7679cc0bd24805664b3d48bb9a861","features":{},"yanked":false,"links":null}
+{"name":"callbag","vers":"0.2.0","deps":[{"name":"never","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6f7fb1ee90ee5f83634d6765f87edb712318150931ad7174f87267fba095c36","features":{},"yanked":false,"links":null}
