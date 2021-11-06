@@ -1,0 +1,1 @@
+{"name":"rlp-iter","vers":"0.2.0","deps":[{"name":"bit-vec","req":"^0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0de345a4b8373aae6ad46f4dcfdb86040f6090df2da66f3557faafe810d5bc7f","features":{},"yanked":false,"links":null}
