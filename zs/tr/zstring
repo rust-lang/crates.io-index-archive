@@ -1,1 +1,2 @@
 {"name":"zstring","vers":"0.0.1","deps":[],"cksum":"abbb21570b623cd988045a2557d1f0538317e4904b52965213cab7896fa54305","features":{"default":[],"alloc":[]},"yanked":false,"links":null}
+{"name":"zstring","vers":"0.0.2","deps":[],"cksum":"02e7f13bfbab8006dedabfebcbfe6261543edce6021481327e10a9f64131fb8b","features":{"alloc":[],"default":[]},"yanked":false,"links":null}
