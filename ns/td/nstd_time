@@ -1,0 +1,1 @@
+{"name":"nstd_time","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9da9bb57a1ff4280ad18c458f3a977daccb0381db52ad1c6871de6caec95c543","features":{},"yanked":false,"links":null}
