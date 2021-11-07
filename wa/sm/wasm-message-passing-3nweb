@@ -1,0 +1,1 @@
+{"name":"wasm-message-passing-3nweb","vers":"0.1.0","deps":[{"name":"wasm-bindgen","req":"^0.2.78","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab4f7ce0698127e8cccf635e10a715f9e801fd170cfa62c3c4afba61ce434c90","features":{},"yanked":false,"links":null}
