@@ -1,1 +1,2 @@
 {"name":"robust-predicates","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.66","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7472e400f90175545ba66e71e084397980c7aa90585714e73c45dc8e2de8ce59","features":{},"yanked":false,"links":null}
+{"name":"robust-predicates","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0.66","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3c0e5379ab0867382e41904beb5b99d03f42b5cf674c8d2000418fd8da8bf73e","features":{},"yanked":false,"links":null}
