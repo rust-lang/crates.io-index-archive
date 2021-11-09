@@ -1,1 +1,1 @@
-{"name":"indentasy","vers":"1.0.0","deps":[{"name":"regex","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8cf863df87444ccb563f36c2d8be8c31882fc21acbdab1e8bbc0a208a34089d","features":{},"yanked":false,"links":null}
+{"name":"indentasy","vers":"1.0.0","deps":[{"name":"regex","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8cf863df87444ccb563f36c2d8be8c31882fc21acbdab1e8bbc0a208a34089d","features":{},"yanked":true,"links":null}
