@@ -1,2 +1,3 @@
 {"name":"digu","vers":"0.0.1","deps":[],"cksum":"6049564a237bb0c87dd248c296c9760042304fad5c8a1244ff62788f64290c5c","features":{},"yanked":false,"links":null}
 {"name":"digu","vers":"0.0.2","deps":[],"cksum":"eca5ae531010fe377e4ad5776e02cf2ee3b2d46a12faea840592e975ac4fe2a5","features":{},"yanked":false,"links":null}
+{"name":"digu","vers":"0.0.3","deps":[{"name":"dialoguer","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2d13a7088c9455937f6c0dc9565bd3c785523176d9d64399fc497cbba6f368f","features":{},"yanked":false,"links":null}
