@@ -2,3 +2,4 @@
 {"name":"windows_x86_64_msvc","vers":"0.23.0","deps":[],"cksum":"8c8c8e2d709fbc4e6ff5d75503cbad8241c5df62fd60f62c0f8eef6e86689e63","features":{},"yanked":false,"links":null}
 {"name":"windows_x86_64_msvc","vers":"0.24.0","deps":[],"cksum":"9bd8f062d8ca5446358159d79a90be12c543b3a965c847c8f3eedf14b321d399","features":{},"yanked":false,"links":null}
 {"name":"windows_x86_64_msvc","vers":"0.25.0","deps":[],"cksum":"c3c27bcbb33ddbed3569e36c14775c99f72b97c72ce49f81d128637fb48a061f","features":{},"yanked":false,"links":null}
+{"name":"windows_x86_64_msvc","vers":"0.26.0","deps":[],"cksum":"dc24ddac19a0cf02ad2b32d8897f202fc1a13ef285e2d4774e6610783cc8398f","features":{},"yanked":false,"links":null}
