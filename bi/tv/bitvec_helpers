@@ -1,1 +1,2 @@
 {"name":"bitvec_helpers","vers":"0.1.0","deps":[{"name":"bitvec","req":"^0.20.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72c8044d3388c7201657372b870f2f443256bb7c26c95a482fca79da833e0c5b","features":{},"yanked":false,"links":null}
+{"name":"bitvec_helpers","vers":"0.1.1","deps":[{"name":"bitvec","req":"^0.22.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"922da07b90f8225cebd34a5cd1cc8095c85b076c61471a72bc0f63911643ad95","features":{},"yanked":false,"links":null}
