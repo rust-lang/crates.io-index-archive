@@ -1,0 +1,1 @@
+{"name":"generic-str","vers":"0.2.1","deps":[{"name":"generic-vec","req":"^0.1.4","features":["nightly","alloc"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"cl-generic-vec"}],"cksum":"29b06df6ea1fb2ad242f9eb683a41a772a34ade357d164e96942115f63277488","features":{},"yanked":false,"links":null}
