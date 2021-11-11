@@ -1,0 +1,1 @@
+{"name":"lora-e5-bsp","vers":"0.2.0","deps":[{"name":"stm32wlxx-hal","req":"=0.2.0","features":["stm32wle5"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c70ada7faeb3ff6ab6646b6cf1391432f9a4d1542b66b5367d4be3f7e7038076","features":{"rt":["stm32wlxx-hal/rt"],"defmt":["stm32wlxx-hal/defmt"]},"yanked":false,"links":null}
