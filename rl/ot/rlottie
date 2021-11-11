@@ -1,1 +1,2 @@
 {"name":"rlottie","vers":"0.1.0","deps":[{"name":"rlottie-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1da69939a48bbbc4628db02b4f5d670505cd48250e5ce45c6837c3e20ccc37fd","features":{},"yanked":false,"links":null}
+{"name":"rlottie","vers":"0.2.0","deps":[{"name":"rlottie-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc045d3f69b39752eaeaf7ecb1bbc591dcc59e1d6e1942912ab2991f7d61e9ec","features":{},"yanked":false,"links":null}
