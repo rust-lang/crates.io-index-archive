@@ -1,2 +1,3 @@
 {"name":"treena","vers":"0.0.1","deps":[],"cksum":"8f010a45bf58818604292aa17db1b7f7aeaf79b60b381ba0d0a1d796785c2c30","features":{"default":["std"],"debug-print":[],"std":[]},"yanked":false,"links":null}
 {"name":"treena","vers":"0.0.2","deps":[],"cksum":"bf406f977f474b7d0985f877cf24b020cc845c72151077474fd353c1ffcf26bc","features":{"std":[],"debug-print":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"treena","vers":"0.0.3","deps":[],"cksum":"98d8132610652145fc316e6e321d5af16e362cfd220c05cc876cc30c9f3df149","features":{"default":["std"],"std":[],"debug-print":[]},"yanked":false,"links":null}
