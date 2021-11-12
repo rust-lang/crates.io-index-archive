@@ -1,0 +1,1 @@
+{"name":"associated","vers":"0.1.0","deps":[{"name":"associated-derive","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5f82ec3d1673fc72922c53960d7a05d44ea323ae190f0504d7ef0f6c9625055","features":{"derive":["associated-derive"],"default":["derive"]},"yanked":false,"links":null}
