@@ -1,0 +1,1 @@
+{"name":"magic_static","vers":"1.0.0","deps":[{"name":"magic_static_macro","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4677cc6adafaf474695da65bb3cc3a0c800536072aaa06e2715cfad852d10253","features":{"bare-metal":[]},"yanked":false,"links":null}
