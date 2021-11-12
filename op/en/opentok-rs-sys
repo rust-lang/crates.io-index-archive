@@ -1,0 +1,1 @@
+{"name":"opentok-rs-sys","vers":"1.0.0","deps":[{"name":"bindgen","req":"^0.58.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"eeefc044acc8be5c3ac145a1e9b657b168ea37df35874cf208a9b00298a8eb7d","features":{},"yanked":false,"links":"opentok"}
