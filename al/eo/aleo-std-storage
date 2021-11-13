@@ -1,0 +1,1 @@
+{"name":"aleo-std-storage","vers":"0.1.0","deps":[{"name":"dirs","req":"^4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2b0e216e47e31901ba23b7c1efe1909ab3d819cf29e168c1cfdde7219c746ef","features":{},"yanked":false,"links":null}
