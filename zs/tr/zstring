@@ -3,3 +3,4 @@
 {"name":"zstring","vers":"0.0.3","deps":[],"cksum":"d88581eb98dd766c3a1814183e3b62e598d50a40ab81614212b4ef7e945ffc08","features":{"alloc":[],"default":[]},"yanked":false,"links":null}
 {"name":"zstring","vers":"0.1.0","deps":[],"cksum":"e06aaa2a8cc738f9641ad63376e59da64939e8fa51d2292c7f9f4bb8a6235ea5","features":{"alloc":[],"default":[]},"yanked":false,"links":null}
 {"name":"zstring","vers":"0.1.1","deps":[],"cksum":"c9298f98f3869711d5cc68d81a4533b8683e7ed8780c4fd0108f2e1411274a5e","features":{"alloc":[],"default":[]},"yanked":false,"links":null}
+{"name":"zstring","vers":"0.1.2","deps":[],"cksum":"d3fa18a75105c414d61af4e992d73bbe03d39032f273e78996d20377c15b96c9","features":{"default":[],"alloc":[]},"yanked":false,"links":null}
