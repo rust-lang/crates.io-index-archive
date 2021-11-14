@@ -3,5 +3,5 @@
 {"name":"mtk","vers":"0.1.2","deps":[],"cksum":"d6bb322726e49110a625b24076a43412e77c6672a0b9fd7790fe87634421ef31","features":{},"yanked":false,"links":null}
 {"name":"mtk","vers":"0.1.3","deps":[{"name":"msgbox","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6681bc3930ead66b9714d60c6eaec5b17dcf5c091466b2c9034705fbbba6104","features":{},"yanked":false,"links":null}
 {"name":"mtk","vers":"0.1.4","deps":[],"cksum":"5868ebd5386d5c816943af131eb8c8da05cce6d2b9b94d9a1ddfa5539706fc2e","features":{},"yanked":false,"links":null}
-{"name":"mtk","vers":"0.1.5","deps":[],"cksum":"3008915e385a095ee325eb0ae415a1c7761209289fed438cac30564b1eadb59f","features":{},"yanked":false,"links":null}
+{"name":"mtk","vers":"0.1.5","deps":[],"cksum":"3008915e385a095ee325eb0ae415a1c7761209289fed438cac30564b1eadb59f","features":{},"yanked":true,"links":null}
 {"name":"mtk","vers":"0.1.6","deps":[],"cksum":"cc29ea89111f65b93b87fff3f4c6859edd876ac5eb218bb2fba2b37be4c74f1f","features":{},"yanked":true,"links":null}
