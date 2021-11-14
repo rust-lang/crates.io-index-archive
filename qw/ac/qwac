@@ -12,3 +12,4 @@
 {"name":"qwac","vers":"0.8.0","deps":[],"cksum":"f59c5bf1aa5e13bcb27e46cb91595c96994bd40285ca8bedbb269d94b6b43c09","features":{"f64-canvas":[],"alloc":[],"f32-canvas":[]},"yanked":false,"links":null}
 {"name":"qwac","vers":"0.8.1","deps":[],"cksum":"d260685965f2d6516d97bb468d44ba598504f4af53149e88600c44c160d5b56b","features":{"f64-canvas":[],"alloc":[],"f32-canvas":[]},"yanked":false,"links":null}
 {"name":"qwac","vers":"0.8.2","deps":[],"cksum":"6fb79ae5a41b2a05cd45abcdf51df5be09f84c578796f9a48778fc4efe598c6f","features":{"f32-canvas":[],"alloc":[],"f64-canvas":[]},"yanked":false,"links":null}
+{"name":"qwac","vers":"0.9.0","deps":[{"name":"euclid","req":"^0.22.6","features":["libm"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"62fb4563ae52a9afa55c95aa7f6131638021cb1b647542a50d3b2fe174fc0fdf","features":{"f64-canvas":[],"default":["std"],"f32-canvas":[],"std":["euclid/std"]},"yanked":false,"links":null}
