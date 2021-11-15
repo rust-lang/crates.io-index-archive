@@ -1,2 +1,2 @@
-{"name":"membrane_macro","vers":"0.1.0","deps":[],"cksum":"4671e00ae59f008cfdcff5895c40dd3f3a515231ae0c2dc3794432761b7da1bf","features":{},"yanked":false,"links":null}
+{"name":"membrane_macro","vers":"0.1.0","deps":[],"cksum":"4671e00ae59f008cfdcff5895c40dd3f3a515231ae0c2dc3794432761b7da1bf","features":{},"yanked":true,"links":null}
 {"name":"membrane_macro","vers":"0.3.0","deps":[{"name":"membrane_types","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47ad5b6357e5432bedb3ff9ee84df9ecab7dd31c581855e57ad15f713f03d549","features":{"skip-generate":[],"generate":[]},"yanked":false,"links":null}
