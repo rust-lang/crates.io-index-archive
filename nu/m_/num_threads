@@ -1,0 +1,1 @@
+{"name":"num_threads","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.107","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"freebsd\")","kind":"normal"}],"cksum":"37bccd0979face929b1077812e101be11b3f33cb8975212601f99e66bfbd67b3","features":{},"yanked":false,"links":null}
