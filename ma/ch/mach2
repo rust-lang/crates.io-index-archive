@@ -1,0 +1,1 @@
+{"name":"mach2","vers":"0.4.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":"cfg(any(target_os = \"macos\", target_os = \"ios\"))","kind":"normal"}],"cksum":"2c29a677a8db77a45ddd1370ac4fbd5187f827780000202079e28949f1a75cb1","features":{"unstable":[],"default":[]},"yanked":false,"links":null}
