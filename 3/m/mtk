@@ -5,3 +5,4 @@
 {"name":"mtk","vers":"0.1.4","deps":[],"cksum":"5868ebd5386d5c816943af131eb8c8da05cce6d2b9b94d9a1ddfa5539706fc2e","features":{},"yanked":true,"links":null}
 {"name":"mtk","vers":"0.1.5","deps":[],"cksum":"3008915e385a095ee325eb0ae415a1c7761209289fed438cac30564b1eadb59f","features":{},"yanked":true,"links":null}
 {"name":"mtk","vers":"0.1.6","deps":[],"cksum":"cc29ea89111f65b93b87fff3f4c6859edd876ac5eb218bb2fba2b37be4c74f1f","features":{},"yanked":true,"links":null}
+{"name":"mtk","vers":"0.1.7","deps":[{"name":"colored","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37c398be6f828b18a529c52c04d24aa2a0de76034964e41c46b387bfb303b0ae","features":{},"yanked":false,"links":null}
