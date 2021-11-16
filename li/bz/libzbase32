@@ -1,1 +1,2 @@
 {"name":"libzbase32","vers":"1.0.0","deps":[],"cksum":"2cd566e15627820f46a8635cf438dbfd563acc48be8e1f519917eac8cd78543c","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"libzbase32","vers":"1.1.0","deps":[],"cksum":"6292b86161a4a80be59312ebbff4e1f5c6231717df5eebcc510c4e9fc128542c","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
