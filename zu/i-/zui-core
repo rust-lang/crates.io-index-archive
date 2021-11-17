@@ -1,1 +1,2 @@
 {"name":"zui-core","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89838bf16cab8737eed7294fee7dfcfd620d6f90430e1e8412141bdc43312242","features":{},"yanked":false,"links":null}
+{"name":"zui-core","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"daf527aa6b5e8e385f428046ed5f24849af2ac31582f3804ab7c468acbf84a59","features":{},"yanked":false,"links":null}
