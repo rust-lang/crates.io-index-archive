@@ -7,3 +7,4 @@
 {"name":"httpdate","vers":"1.0.0-alpha","deps":[],"cksum":"7e2e3f03d1c995f74764c084cc01fa8a9b893c759e9a6ec6211349854d2bd26e","features":{},"yanked":false,"links":null}
 {"name":"httpdate","vers":"1.0.0","deps":[],"cksum":"05842d0d43232b23ccb7060ecb0f0626922c21f30012e97b767b30afd4a5d4b9","features":{},"yanked":false,"links":null}
 {"name":"httpdate","vers":"1.0.1","deps":[],"cksum":"6456b8a6c8f33fee7d958fcd1b60d55b11940a79e63ae87013e6d22e26034440","features":{},"yanked":false,"links":null}
+{"name":"httpdate","vers":"1.0.2","deps":[{"name":"criterion","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c4a1e36c821dbe04574f602848a19f742f4fb3c98d40449f11bcad18d6b17421","features":{},"yanked":false,"links":null}
