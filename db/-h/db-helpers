@@ -1,1 +1,2 @@
 {"name":"db-helpers","vers":"0.1.0","deps":[],"cksum":"663c32a071528396cc9d973792c0d68218fb9f4b59e846592429b20ec2740c51","features":{},"yanked":false,"links":null}
+{"name":"db-helpers","vers":"0.2.0","deps":[{"name":"tokio-postgres","req":"^0.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e02a6a21387cbc430fb3ddcb08252787b7cb024c4b4450e26a3974d3a3efb5de","features":{"default":["tokio_postgres"],"tokio_postgres":["tokio-postgres"]},"yanked":false,"links":null}
