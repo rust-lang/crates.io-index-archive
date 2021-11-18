@@ -1,0 +1,1 @@
+{"name":"stc","vers":"0.0.6","deps":[{"name":"clap","req":"^3.0.0-beta.5","features":["std","derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9cb40cbb13db74f4094d972e7c94ed46dc3edfd1adec7f569698084cc4188919","features":{},"yanked":false,"links":null}
