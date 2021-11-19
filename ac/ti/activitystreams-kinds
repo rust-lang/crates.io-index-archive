@@ -1,0 +1,1 @@
+{"name":"activitystreams-kinds","vers":"0.1.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a6e5f0d1e0012eb313cbbc0d8c93b8f33f14216d7907b19a2f9bcebb26eb7f4","features":{},"yanked":false,"links":null}
