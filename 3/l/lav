@@ -1,1 +1,2 @@
 {"name":"lav","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47b3a71642d19eb3dc8152cc54fed958f69924c7f689298dec3d374481cfd895","features":{},"yanked":false,"links":null}
+{"name":"lav","vers":"0.1.1","deps":[{"name":"libm","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c537ac72f47a8f043e35abc7933f7ec7cca50642f27be8b1f54b08aff25463d","features":{},"yanked":false,"links":null}
