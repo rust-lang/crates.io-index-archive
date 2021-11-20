@@ -1,1 +1,2 @@
 {"name":"humphrey_ws","vers":"0.1.0","deps":[{"name":"humphrey","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"074397edb40f80f866441a98ee07c5a435b9fe1da4289649901839125120543a","features":{},"yanked":false,"links":null}
+{"name":"humphrey_ws","vers":"0.1.1","deps":[{"name":"humphrey","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"101a3874df8728307cf99d12934e17e81b4b6e09742314f6c6a26418a8df6deb","features":{},"yanked":false,"links":null}
