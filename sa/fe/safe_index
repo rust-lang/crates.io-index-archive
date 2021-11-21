@@ -5,3 +5,4 @@
 {"name":"safe_index","vers":"0.9.6","deps":[],"cksum":"29ef0c54ebf2723c596ae710965f59edeb1e5bb4f6b73f652d7372447c524db2","features":{},"yanked":false,"links":null}
 {"name":"safe_index","vers":"0.9.9","deps":[],"cksum":"76d3d19713121fade4869212101329182546b02d6a81b19ebf83434fc9fb2782","features":{},"yanked":false,"links":null}
 {"name":"safe_index","vers":"0.9.11","deps":[],"cksum":"ce6cea52ac9d4597f79047b06626a45f70bcb642a176ca65f0bd212165209bf3","features":{},"yanked":false,"links":null}
+{"name":"safe_index","vers":"0.9.17","deps":[],"cksum":"7c0de7bbd1f196ed6d53ddad52dafd9b4df0871ebca615926a2c08d8145e6168","features":{"strict":[]},"yanked":false,"links":null}
