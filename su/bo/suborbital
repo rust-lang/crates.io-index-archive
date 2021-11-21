@@ -21,3 +21,4 @@
 {"name":"suborbital","vers":"0.11.1","deps":[],"cksum":"63d9848ca558a6cef624da595a78d781cf9f11a54c758a406020e2809dd647bc","features":{},"yanked":false,"links":null}
 {"name":"suborbital","vers":"0.12.0","deps":[],"cksum":"f8d5f8e52e72ce5628b65ec9f4cdfc26cd43b8c1111b6f1aa66f3b5bfbb60595","features":{},"yanked":false,"links":null}
 {"name":"suborbital","vers":"0.13.0","deps":[{"name":"suborbital-macro","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45cb4a8872995bea5c39bf2ef0200ea00537c7475dd55dfdbba6755f597097ed","features":{},"yanked":false,"links":null}
+{"name":"suborbital","vers":"0.13.1","deps":[{"name":"suborbital-macro","req":"^0.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f514bcf74ea1f22eb11231a375cf3c570466007547e62ad48460d5a8fb0c0380","features":{},"yanked":false,"links":null}
