@@ -2,3 +2,4 @@
 {"name":"singlyton","vers":"1.1.0","deps":[],"cksum":"bc5bc2c1ccc66389bc3ae1762a16bfa695a57f98d9bb4a27f99c652b5acb3bdb","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"singlyton","vers":"1.2.0","deps":[],"cksum":"217a83a62191ee751e6aa9a6de1e5fe5125ef45e5e9c406925df819f2dbc85f1","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"singlyton","vers":"1.2.1","deps":[],"cksum":"0192a726cb3d7bbce78e064ab310923886c8b082a293515bd7ff51a609061e24","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"singlyton","vers":"2.0.0","deps":[{"name":"atomic_refcell","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04db98355ec6370a521a426f44242c6df242eb6a15ca72cbbb1599d696bf3cc1","features":{},"yanked":false,"links":null}
