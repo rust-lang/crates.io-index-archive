@@ -1,0 +1,1 @@
+{"name":"bevy_tiled_camera","vers":"0.2.0","deps":[{"name":"bevy","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b237fadbdb68eca2a7b1b567d73f8c444591401e99ec79656fd06986ea6553be","features":{},"yanked":false,"links":null}
