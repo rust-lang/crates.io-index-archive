@@ -1,0 +1,1 @@
+{"name":"nvvm","vers":"0.1.0","deps":[{"name":"find_cuda_helper","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"50dc387ec60d3ee609715fdc82e69f4527a29d00b52d2c77adb0249493332274","features":{},"yanked":false,"links":null}
