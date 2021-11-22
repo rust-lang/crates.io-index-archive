@@ -1,0 +1,1 @@
+{"name":"cust_raw","vers":"0.11.2","deps":[{"name":"find_cuda_helper","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0c1323ca1d8721bec1f48956a5acb6b20dbc450dcb5e4034b515c88cfffb1dd6","features":{},"yanked":false,"links":null}
