@@ -14,3 +14,4 @@
 {"name":"emergent","vers":"1.5.6","deps":[],"cksum":"9855c45efdcbf916a3ee08e5764bdf056bd3e1889c71032133c49d04df701340","features":{"scalar64":[]},"yanked":false,"links":null}
 {"name":"emergent","vers":"1.5.7","deps":[],"cksum":"352cc144f7ffd5ce23daf94413b24ab5e0edd1f372cf6bd1553c4b82230593b5","features":{"scalar64":[]},"yanked":false,"links":null}
 {"name":"emergent","vers":"1.5.8","deps":[],"cksum":"232475026b2ad29b5550982e1ec9ad3f4018c15795dafdc8cf1e9c7504e91bfa","features":{"scalar64":[]},"yanked":false,"links":null}
+{"name":"emergent","vers":"1.5.9","deps":[],"cksum":"5d5fcf1bfb8e85a0e0256863311cd488dc5ff7d961a66579cc63e6f61c3bf946","features":{"scalar64":[]},"yanked":false,"links":null}
