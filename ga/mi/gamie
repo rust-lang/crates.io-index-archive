@@ -1,0 +1,1 @@
+{"name":"gamie","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0e6d37e99d9d7f5a7f2d2657538438f6bbafc6edf77da10f9bac49bb5fe19ea","features":{"default":[],"tictactoe":[]},"yanked":false,"links":null}
