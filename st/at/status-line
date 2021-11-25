@@ -1,1 +1,2 @@
 {"name":"status-line","vers":"0.1.0","deps":[{"name":"ansi-escapes","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de8d19e36d4b4ffe97c986681664e611392a73aa7e42804b9014b5b4d3ae7fac","features":{},"yanked":false,"links":null}
+{"name":"status-line","vers":"0.1.1","deps":[{"name":"ansi-escapes","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37f78e4d66f7a647acb4867331a45c8f35c4ccc538e27667414173835ddde928","features":{},"yanked":false,"links":null}
