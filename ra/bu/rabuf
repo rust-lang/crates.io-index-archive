@@ -1,2 +1,3 @@
 {"name":"rabuf","vers":"0.1.1","deps":[],"cksum":"eb985a0353cebecef0adfa2a26b7ca4bcd94ea9131dd850720f648ba321a6b45","features":{"default":[]},"yanked":false,"links":null}
 {"name":"rabuf","vers":"0.1.2","deps":[],"cksum":"b35450155b7cce9245c94cab1bcb728b1a63767bb6600ad442e4f5aec0475f8f","features":{"buf_lru":[],"default":[],"buf_stats":[]},"yanked":false,"links":null}
+{"name":"rabuf","vers":"0.1.3","deps":[],"cksum":"073936b30b3f6bbaf9ea81a35b026612b401cf0e51c395fb5ec8e9f9a9f1aa13","features":{"buf_overf_rem":[],"buf_lru":[],"buf_overf_rem_all":["buf_overf_rem"],"default":["buf_overf_rem_all"],"buf_stats":[],"buf_overf_rem_half":["buf_overf_rem","buf_lru"]},"yanked":false,"links":null}
