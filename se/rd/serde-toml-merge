@@ -1,1 +1,2 @@
 {"name":"serde-toml-merge","vers":"0.1.0","deps":[{"name":"toml","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3862171986838cd6cd01703572c4ffc28d9c4922196097692c6c161df6c39797","features":{},"yanked":false,"links":null}
+{"name":"serde-toml-merge","vers":"0.2.0","deps":[{"name":"toml","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb3dff5ebeeb667cfd6180fdcbd4afb28701ef29704e4dc66d7832af035e8342","features":{},"yanked":false,"links":null}
