@@ -15,3 +15,4 @@
 {"name":"solvent","vers":"0.8.0","deps":[],"cksum":"27ed86a27d080f2c5de9679b42e0302e9cc3f44ac343874f823ccf64448b7d19","features":{},"yanked":false}
 {"name":"solvent","vers":"0.8.1","deps":[],"cksum":"81f2aa187127373758077a9365b14aa9d262afca73a9629dbdffd1a00af72a6f","features":{},"yanked":false}
 {"name":"solvent","vers":"0.8.2","deps":[],"cksum":"89ad4183bade6e878d8ae18f9cf8e6a1625fe0ef29bfca8d55891eeb5e0a2776","features":{},"yanked":false,"links":null}
+{"name":"solvent","vers":"0.8.3","deps":[{"name":"indexmap","req":"^1.7.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14a50198e546f29eb0a4f977763c8277ec2184b801923c3be71eeaec05471f16","features":{"deterministic":["indexmap"]},"yanked":false,"links":null}
