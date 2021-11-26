@@ -1,2 +1,3 @@
 {"name":"vu64","vers":"0.1.0","deps":[],"cksum":"ad06d776ee7d0078e3f3373e38205286bc59aa38972e94c8b31c731dff961c72","features":{"default":["io"],"io":[]},"yanked":false,"links":null}
 {"name":"vu64","vers":"0.1.1","deps":[],"cksum":"718c85ca4a68e4d1cb539b649120ff49990645b3a00444d48876a9956157dd8e","features":{"default":["io"],"io":[]},"yanked":false,"links":null}
+{"name":"vu64","vers":"0.1.2","deps":[],"cksum":"563b5c94ea9dc90ba50307a6302bd5b8349e2918f24807025f30494a72653393","features":{"default":["io"],"io":[]},"yanked":false,"links":null}
