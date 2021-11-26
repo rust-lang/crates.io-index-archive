@@ -1,0 +1,1 @@
+{"name":"thirtyseconds","vers":"0.1.0","deps":[{"name":"cargo-husky","req":"^1","features":["user-hooks"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"cf7edb393b448b6bf0e10959ea3691b4c02dd2361720da1038057e5f835bd592","features":{},"yanked":false,"links":null}
