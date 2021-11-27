@@ -5,3 +5,4 @@
 {"name":"yap","vers":"0.4.0","deps":[],"cksum":"a23bd439a9aa9310037670a8b07b5b03cce877de48a5b79e5d8325415e63adf3","features":{},"yanked":false,"links":null}
 {"name":"yap","vers":"0.5.0","deps":[],"cksum":"9828d658866808bd8a991717e4b4601505935d022fd3d4409565a615f1aa54b9","features":{},"yanked":false,"links":null}
 {"name":"yap","vers":"0.6.0","deps":[],"cksum":"c2828b4e8385721a66703e58d74d1de2e9836a05210d0803438525ce9d5185d3","features":{},"yanked":false,"links":null}
+{"name":"yap","vers":"0.6.1","deps":[{"name":"logos","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ca4118df921d4770355590869de8890a6e9b05b9614e2c0a1c5e747318807a5d","features":{},"yanked":false,"links":null}
