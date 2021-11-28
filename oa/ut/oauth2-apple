@@ -1,1 +1,2 @@
 {"name":"oauth2-apple","vers":"0.0.0","deps":[],"cksum":"b353904875f01a54b2115d6fd6ecf1dfc8532f022e61b5651593dadcbfb7f6c5","features":{},"yanked":false,"links":null}
+{"name":"oauth2-apple","vers":"0.1.0","deps":[{"name":"oauth2-client","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"dd058559b12350ef80474aebd6ad0bd474279b4270110e1fce828c7654465eea","features":{},"yanked":false,"links":null}
