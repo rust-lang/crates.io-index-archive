@@ -1,2 +1,3 @@
 {"name":"paspio","vers":"0.1.0","deps":[{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e74ec4a7bff453d89e23beb534afde614e1c099fea1f12c72ed66020ed11ba8","features":{},"yanked":false,"links":null}
 {"name":"paspio","vers":"0.1.1","deps":[],"cksum":"e099ea6d7ec0b0c012dbe025c4312d582b5edd6b2861966380596dd43e3a88a2","features":{},"yanked":false,"links":null}
+{"name":"paspio","vers":"0.2.0","deps":[],"cksum":"290b9bcb67f8819c53383d75679c003699807c7985e4a760a42222b06181cfc1","features":{},"yanked":false,"links":null}
