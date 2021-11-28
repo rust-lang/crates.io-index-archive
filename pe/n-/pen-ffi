@@ -31,3 +31,4 @@
 {"name":"pen-ffi","vers":"0.3.8","deps":[],"cksum":"a83eab7b8b8ada4b9edfaa0edfc978ff7d64a85bc5b2c105077f3bafa64fd2f0","features":{},"yanked":false,"links":null}
 {"name":"pen-ffi","vers":"0.3.9","deps":[],"cksum":"d737092ddc92b20f8cbaede08a548d95e0c12243a54949309899932ca8eade95","features":{},"yanked":false,"links":null}
 {"name":"pen-ffi","vers":"0.3.10","deps":[],"cksum":"422d8fbff7ad348d93afda66a7d7b2143df468b31d37a8f71a27fe9f2fe72c34","features":{},"yanked":false,"links":null}
+{"name":"pen-ffi","vers":"0.3.11","deps":[{"name":"tokio","req":"^1","features":["macros","rt","rt-multi-thread"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5acebca9ff2d5bda9a5334e6420962ff1a02a388f24ec346c3b7f0f251c9d568","features":{},"yanked":false,"links":null}
