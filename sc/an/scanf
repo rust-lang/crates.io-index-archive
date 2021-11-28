@@ -1,1 +1,2 @@
 {"name":"scanf","vers":"0.0.0","deps":[],"cksum":"1e642ed209843e436b8d03e4f07336f4e7d5b8a00b3b5f81c7e07efd545739f6","features":{},"yanked":false,"links":null}
+{"name":"scanf","vers":"0.1.0","deps":[{"name":"nom","req":"^7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cf448354d85e57974736f11cb3db09d4446bff51e9d474c70e93efcdf353919","features":{},"yanked":false,"links":null}
