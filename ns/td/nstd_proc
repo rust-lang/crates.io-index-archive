@@ -1,1 +1,2 @@
 {"name":"nstd_proc","vers":"0.1.0","deps":[],"cksum":"b371725042979057e828eee81498637b3a2641c4f466bb0ea53b0153a1902e20","features":{},"yanked":false,"links":null}
+{"name":"nstd_proc","vers":"0.2.0","deps":[],"cksum":"15d4ce34feff4a7fa2c27e0976f2243ec8004748934e0bbfb28b04437e482308","features":{"clib":[]},"yanked":false,"links":null}
