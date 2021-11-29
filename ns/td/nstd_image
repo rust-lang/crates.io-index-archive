@@ -1,1 +1,2 @@
 {"name":"nstd_image","vers":"0.1.0","deps":[{"name":"image","req":"^0.23.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a26104f8a05cbca13430b765b37967bc346905b14c1cb50f2567fcf3c74e41d4","features":{},"yanked":false,"links":null}
+{"name":"nstd_image","vers":"0.2.0","deps":[{"name":"image","req":"^0.23.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94c0679f3579e4112d21294d84eb837b0115e2e97cfcd3b1be3b24f61e784108","features":{"clib":[]},"yanked":false,"links":null}
