@@ -1,1 +1,2 @@
 {"name":"nstd_thread","vers":"0.1.0","deps":[],"cksum":"8eb72f53a07a8c5c44e3a86c60882893de99ab5bc0923b61d0045442b09c1845","features":{},"yanked":false,"links":null}
+{"name":"nstd_thread","vers":"0.2.0","deps":[],"cksum":"05247be2d216b36bf4b07c39e9891eb867d974130bdebfd955bce01bd6e882e9","features":{"clib":[]},"yanked":false,"links":null}
