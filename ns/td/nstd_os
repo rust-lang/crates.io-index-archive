@@ -1,1 +1,2 @@
 {"name":"nstd_os","vers":"0.1.0","deps":[{"name":"platforms","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e11f78a19449efb07cafb471e40a5a0882ddd0402a295829dbb81df2ef58da0","features":{},"yanked":false,"links":null}
+{"name":"nstd_os","vers":"0.2.0","deps":[],"cksum":"7958dd7d0c96a2c5d73e48d4cccba85dbe2a0868b0053e85f0bbc0c56e8ba2f4","features":{"clib":[]},"yanked":false,"links":null}
