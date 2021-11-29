@@ -1,1 +1,2 @@
 {"name":"nstd_alloc","vers":"0.1.0","deps":[],"cksum":"2a6889f01f4c736b5788cb06dae2c218d8b758b0b0284c5d1d60896e40eff46b","features":{},"yanked":false,"links":null}
+{"name":"nstd_alloc","vers":"0.2.0","deps":[],"cksum":"b5498bf9dc90994d39c1db0fd9a66c5afe1a217e103d2befbda4f698f744c813","features":{"clib":[]},"yanked":false,"links":null}
