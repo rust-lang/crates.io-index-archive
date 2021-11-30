@@ -1,1 +1,2 @@
 {"name":"modern-terminal","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8ad30af646de043f154ab5551fa8771f934203cc5b87c7c346a3201f8860a46","features":{},"yanked":false,"links":null}
+{"name":"modern-terminal","vers":"0.2.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccb8e81814d33d1e217a32362417ac1ff137e6ed6a4014f9c8723457a4dd6e79","features":{},"yanked":false,"links":null}
