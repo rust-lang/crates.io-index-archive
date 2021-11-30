@@ -1,1 +1,2 @@
 {"name":"bit-struct","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5d4a4f6d991afae92ad3abbf94623b337242f66ab7bb6ae66dd2fc98fa5e49bd","features":{},"yanked":false,"links":null}
+{"name":"bit-struct","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6e173ff7882f3d29591ef7227a62b4e3d289f2c0b1a9b6234703176b6c59643a","features":{},"yanked":false,"links":null}
