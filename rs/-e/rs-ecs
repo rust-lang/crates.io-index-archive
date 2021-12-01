@@ -20,3 +20,4 @@
 {"name":"rs-ecs","vers":"0.3.7","deps":[],"cksum":"313c1e8a261d068cea49ca70b9de044a9c93ccbce0c83fa0ae3e040be2185131","features":{},"yanked":false,"links":null}
 {"name":"rs-ecs","vers":"0.3.8","deps":[],"cksum":"30589bff474c94c64f1aeebdf2fac093cbaf5dd57d9d65847e16777cdbbc7c77","features":{},"yanked":false,"links":null}
 {"name":"rs-ecs","vers":"0.3.9","deps":[{"name":"rayon","req":"^1.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c11105b8a43669a8b473bad60b729d9effe78e694659510aaad496543ac3081e","features":{},"yanked":false,"links":null}
+{"name":"rs-ecs","vers":"0.3.10","deps":[{"name":"rayon","req":"^1.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecbb8a3b27af0574fddc70fbddc4e4326db4091d40c16c328433294f9969c461","features":{},"yanked":false,"links":null}
