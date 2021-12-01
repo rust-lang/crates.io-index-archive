@@ -28,3 +28,4 @@
 {"name":"sub-strs","vers":"0.23.1","deps":[],"cksum":"cb92e72d2fcf2bf97528434112caed2901e73fe2e6d0051ab6f5fe6296e576b7","features":{"std":[]},"yanked":false,"links":null}
 {"name":"sub-strs","vers":"0.24.0","deps":[],"cksum":"78eff548104f6bdf18fc5a8eafb1538b101dbd5c4053714a39ea03ecc95e751d","features":{"std":[]},"yanked":false,"links":null}
 {"name":"sub-strs","vers":"0.25.0","deps":[],"cksum":"f5623d765d756d15d84e0bbf0ce997f7d56c6facab653c5d4e047cbd636cbe98","features":{"std":[]},"yanked":false,"links":null}
+{"name":"sub-strs","vers":"0.25.1","deps":[],"cksum":"e1662e52d5dece3416051e3de7a7b1643c1198b62be210c060de08c59cb02dc6","features":{"std":[]},"yanked":false,"links":null}
