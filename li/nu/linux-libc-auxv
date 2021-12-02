@@ -1,0 +1,1 @@
+{"name":"linux-libc-auxv","vers":"0.1.0","deps":[{"name":"enum-iterator","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9657b91f5cffe5e304e481284e8d06e594c1966b917b68a06d3b37fe8bce13e","features":{},"yanked":false,"links":null}
