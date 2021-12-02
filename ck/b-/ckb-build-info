@@ -15,3 +15,4 @@
 {"name":"ckb-build-info","vers":"0.101.0","deps":[],"cksum":"5b63e21ad4f1473b16394d9e3179c828a29455a9901a6c53d27fc45c7ddf6914","features":{},"yanked":false,"links":null}
 {"name":"ckb-build-info","vers":"0.101.1","deps":[],"cksum":"ce01a6569cae26a5a1b1f5a842705b8e7dff039c3c5501cf8fbeb4999a03bab8","features":{},"yanked":false,"links":null}
 {"name":"ckb-build-info","vers":"0.101.2-testnet1","deps":[],"cksum":"a03542ae5a47384389edc81cd63fd25eeac4a17c7996a391692662605af8999c","features":{},"yanked":false,"links":null}
+{"name":"ckb-build-info","vers":"0.101.2","deps":[],"cksum":"f9505467fde3a0138c242f6d7bb450a32dfc4e5c2bd3964942ae52812b25761f","features":{},"yanked":false,"links":null}
