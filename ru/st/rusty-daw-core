@@ -4,3 +4,4 @@
 {"name":"rusty-daw-core","vers":"0.1.3","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50a86b523faadaafaa2542670c56cabb60aea88a0bc1f7d7ce0095a156e73284","features":{},"yanked":false,"links":null}
 {"name":"rusty-daw-core","vers":"0.2.0","deps":[],"cksum":"e85d242cb3f7c513727ca0d338d1d5cf150732e0a7952941211f48d6a9cdc275","features":{},"yanked":false,"links":null}
 {"name":"rusty-daw-core","vers":"0.2.1","deps":[],"cksum":"d3a34e688fcfaa4777e77cb7902e6d1b86270bcf858fdba302726b4c3201d84c","features":{},"yanked":false,"links":null}
+{"name":"rusty-daw-core","vers":"0.2.2","deps":[],"cksum":"085079aa69274e5e3913b5b8aba82508986da3eceaf95d5c9863a470d86c658c","features":{},"yanked":false,"links":null}
