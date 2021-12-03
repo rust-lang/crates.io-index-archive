@@ -1,0 +1,1 @@
+{"name":"clang-format","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2454465949aac43a018ff89efaa7e404d0535b2045486fac90cd9ea12bfbbd60","features":{},"yanked":false,"links":null}
