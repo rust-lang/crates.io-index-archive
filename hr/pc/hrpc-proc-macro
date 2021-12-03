@@ -6,3 +6,4 @@
 {"name":"hrpc-proc-macro","vers":"0.30.0","deps":[],"cksum":"dc1ff545264e9c2be00be8893a9c873c49ecd9f267b07f023a13542167952b9d","features":{},"yanked":false,"links":null}
 {"name":"hrpc-proc-macro","vers":"0.31.0","deps":[],"cksum":"27fdc089af87902295fa04c5c93ff34ba8bc1d69e7e8fbea00a76032148f8f3f","features":{},"yanked":false,"links":null}
 {"name":"hrpc-proc-macro","vers":"0.32.0","deps":[],"cksum":"137c39df4fdf4ae5ca610b0fe44153f874676f04010f6d74ea72a1174347af50","features":{},"yanked":false,"links":null}
+{"name":"hrpc-proc-macro","vers":"0.33.0","deps":[],"cksum":"c4b491508ac546892d0218449993ca8def58c98e3cfffa7073fb0f67843ee461","features":{},"yanked":false,"links":null}
