@@ -1,1 +1,2 @@
 {"name":"cccedict","vers":"0.1.0","deps":[{"name":"nom","req":"^6.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7bb240f1a223e009c8f4f5a891b60fc3fd03ca05fbc4651cd4b24d6fce3dda7e","features":{},"yanked":false,"links":null}
+{"name":"cccedict","vers":"0.1.1","deps":[{"name":"nom","req":"^6.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed33c8d99688e0f391c05392d0e4ae19d302f89ca894ce13b217c2a5e8f5a457","features":{},"yanked":false,"links":null}
