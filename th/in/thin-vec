@@ -5,3 +5,4 @@
 {"name":"thin-vec","vers":"0.1.2","deps":[],"cksum":"3a93c9ade36a827a69257925808463db46ffcf193442fad01eb9bdc1d31aed81","features":{"gecko-ffi":[],"default":[],"unstable":[]},"yanked":false,"links":null}
 {"name":"thin-vec","vers":"0.2.2","deps":[],"cksum":"3a33c69726da418b3ee54fedf0adf26ae4bf2174539025b1df0819420b5a8417","features":{"default":[],"gecko-ffi":[],"unstable":[]},"yanked":false,"links":null}
 {"name":"thin-vec","vers":"0.2.3","deps":[],"cksum":"b06f88e13a7763c201a51245db79a61ede78e35ff8d4fc9375ef8de985cbca75","features":{"default":[],"gecko-ffi":[],"unstable":[]},"yanked":false,"links":null}
+{"name":"thin-vec","vers":"0.2.4","deps":[],"cksum":"0579a04d7334e62fa087222544f379bbe99d4c9b2f13f2b4737f717a1ea627ea","features":{"unstable":[],"gecko-ffi":[],"default":[]},"yanked":false,"links":null}
