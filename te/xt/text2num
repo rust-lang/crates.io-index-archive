@@ -1,0 +1,1 @@
+{"name":"text2num","vers":"1.7.0","deps":[{"name":"phf","req":"^0.8","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"721249b8ca368abad57b112f800159524f2b6c3ca4dbab5195e8a211758294f0","features":{},"yanked":false,"links":null}
