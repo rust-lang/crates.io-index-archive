@@ -10,3 +10,4 @@
 {"name":"msg-store","vers":"0.5.0","deps":[],"cksum":"37d21a05b580baca8220c298c33812790dc8b58b765f348f99fafc2907c12a7b","features":{},"yanked":false,"links":null}
 {"name":"msg-store","vers":"0.6.0","deps":[],"cksum":"e1cff9b86c1ba1d628c973e1d65c8e3d5095e4a51cc8a7e7aa4ad9d2f113b0a8","features":{},"yanked":false,"links":null}
 {"name":"msg-store","vers":"0.7.0","deps":[],"cksum":"5b25ce71f58d078d54a09f7cd461056208f8afa6b4943a0009a024fb8604d64d","features":{},"yanked":false,"links":null}
+{"name":"msg-store","vers":"0.7.1","deps":[],"cksum":"dba51a94bf0ac9b6b4db87ef450a5c2d196482a0131f3ed103a5b63ef668e8d2","features":{},"yanked":false,"links":null}
