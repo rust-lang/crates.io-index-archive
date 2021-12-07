@@ -1,1 +1,2 @@
 {"name":"eluna","vers":"0.1.0","deps":[{"name":"float_extras","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"725c1e38b423abf9d6550ab12b4b6c19f6f8a01697f47e9d0389d87d2d6adf80","features":{},"yanked":false,"links":null}
+{"name":"eluna","vers":"0.1.1","deps":[{"name":"float_extras","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00d8f6d3760418ae465477e6613229d7bfcbefa3f1f7d6fc2e2acfa0f0519054","features":{},"yanked":false,"links":null}
