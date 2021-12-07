@@ -7,3 +7,4 @@
 {"name":"topo_sort","vers":"0.2.2","deps":[],"cksum":"27163a9ec7b5b92adfa4c49e886c3c31ee1d53204cd8843677b41006a60c7317","features":{},"yanked":false,"links":null}
 {"name":"topo_sort","vers":"0.2.3","deps":[],"cksum":"f05a725f6c36012565dc51d3e562ccc57a8c3348d42125fa583595da1a84ba8a","features":{},"yanked":false,"links":null}
 {"name":"topo_sort","vers":"0.3.0","deps":[],"cksum":"a4a45f74367362a62fb2c501639e7644452a2f9b5ce1faaa5f546459b29783f1","features":{},"yanked":false,"links":null}
+{"name":"topo_sort","vers":"0.3.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f887d241c6b1292e4ee310d51e6b9463e66f0927d25d31bed69b9383db72756","features":{},"yanked":false,"links":null}
