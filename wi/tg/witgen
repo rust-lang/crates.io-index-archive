@@ -1,1 +1,2 @@
 {"name":"witgen","vers":"0.1.0","deps":[{"name":"witgen_macro","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8211f2739e000cfdae26320bd8a9cf54f03d7afb2881ebd375cae506de56a76c","features":{},"yanked":false,"links":null}
+{"name":"witgen","vers":"0.2.0","deps":[{"name":"witgen_macro","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c26fb20edc50c84a807a90dfdfe65033fdb4b61ae6856fbc6746b60af6566c38","features":{},"yanked":false,"links":null}
