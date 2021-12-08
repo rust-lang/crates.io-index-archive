@@ -1,0 +1,1 @@
+{"name":"aws-iot-device-sdk","vers":"0.0.1","deps":[{"name":"arrayvec","req":"^0.7","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"804aa454210699a0d43ffa73f2ecc6a62ffe81e41f30be49cd2348e1d2773979","features":{"std":[]},"yanked":false,"links":null}
