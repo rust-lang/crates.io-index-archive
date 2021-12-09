@@ -1,1 +1,2 @@
 {"name":"awaitable","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fab76564430a04fe33043570912134003865518f758769d230e1f5042f28aa62","features":{},"yanked":false,"links":null}
+{"name":"awaitable","vers":"0.1.1","deps":[{"name":"parking_lot","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c19c2986eb5b6429859e21e34226e6e1f208c86064ed09d67bfdbeb7e6b0794","features":{},"yanked":false,"links":null}
