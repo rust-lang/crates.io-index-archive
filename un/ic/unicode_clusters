@@ -1,0 +1,1 @@
+{"name":"unicode_clusters","vers":"0.1.0","deps":[{"name":"unicode-segmentation","req":"^1.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d72e7298f219b8655242bdc343557d12fc365b83f117fb10e58f442570618d26","features":{},"yanked":false,"links":null}
