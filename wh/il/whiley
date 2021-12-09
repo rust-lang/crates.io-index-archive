@@ -1,2 +1,3 @@
 {"name":"whiley","vers":"0.1.0","deps":[],"cksum":"cdc3d95401f7111ac39981fb2c4358c63c0df93d9922ee29e682a2363af6ad32","features":{},"yanked":false,"links":null}
 {"name":"whiley","vers":"0.2.0","deps":[],"cksum":"91f4d63c13108c456ef68000b19987d511d2a7c98ef1281f532455c8c65719b8","features":{},"yanked":false,"links":null}
+{"name":"whiley","vers":"0.3.0","deps":[{"name":"clap","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a3a454090d1e32494614cef781562a50b05ee5ae6bb0285d04523fd05b80d4b","features":{},"yanked":false,"links":null}
