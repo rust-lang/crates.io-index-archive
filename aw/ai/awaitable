@@ -1,0 +1,1 @@
+{"name":"awaitable","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fab76564430a04fe33043570912134003865518f758769d230e1f5042f28aa62","features":{},"yanked":false,"links":null}
