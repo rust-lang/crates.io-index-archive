@@ -1,0 +1,1 @@
+{"name":"morsels_lang_latin","vers":"0.0.0","deps":[{"name":"morsels_lang_ascii","req":"^0.0.0","features":["stemmer"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b544634f1c16dd65953aa32e744f71ac0a8662a543dfc0f41aaf97bca6281598","features":{},"yanked":false,"links":null}
