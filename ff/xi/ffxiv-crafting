@@ -1,0 +1,1 @@
+{"name":"ffxiv-crafting","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.130","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eac53b72d0e04392e8d05ecdf210a285cad6c74c6e37f92c732f10fb7d6f49dd","features":{"serde-support":["serde"]},"yanked":false,"links":null}
