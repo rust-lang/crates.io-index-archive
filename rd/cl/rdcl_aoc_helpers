@@ -27,3 +27,4 @@
 {"name":"rdcl_aoc_helpers","vers":"0.7.0","deps":[],"cksum":"fe3c2cbf923476562e44e4ecf98230b0a628fe8fc555241f1d69578c1969921e","features":{},"yanked":false,"links":null}
 {"name":"rdcl_aoc_helpers","vers":"0.8.0","deps":[],"cksum":"443114bd5512b75ec0a3fc1ff96c3799e199abddd9cd6767f02879e3a436a959","features":{},"yanked":false,"links":null}
 {"name":"rdcl_aoc_helpers","vers":"0.8.1","deps":[],"cksum":"961a82997b6840c691d2e4b718927aa35ebc0c5f709771da4985b7f88146c777","features":{},"yanked":false,"links":null}
+{"name":"rdcl_aoc_helpers","vers":"0.9.0","deps":[{"name":"grid","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"itertools","req":"^0.10.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3b936a89fbbde379b66111ce9cf1f4ce81840b7a2736675ef67d67136b9fe85","features":{},"yanked":false,"links":null}
