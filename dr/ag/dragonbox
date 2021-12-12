@@ -1,1 +1,2 @@
 {"name":"dragonbox","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"caf5931aa7c8dce56b2615369a83e00a45a925278ee43f24ea0545e58c10a93c","features":{},"yanked":false,"links":null}
+{"name":"dragonbox","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c88afe371b06f7e6e045c01db09fb757f9cdf08bf6951fd660d78e640d0f5547","features":{},"yanked":false,"links":null}
