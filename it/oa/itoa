@@ -17,3 +17,4 @@
 {"name":"itoa","vers":"0.4.7","deps":[],"cksum":"dd25036021b0de88a0aff6b850051563c6516d0bf53f8638938edbb9de732736","features":{"i128":[],"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"itoa","vers":"0.4.8","deps":[],"cksum":"b71991ff56294aa922b450139ee08b3bfc70982c6b2c7562771375cf73542dd4","features":{"std":[],"i128":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"itoa","vers":"1.0.0","deps":[],"cksum":"d2f3e61cf687687b30c9e6ddf0fc36cf15f035e66d491e6da968fa49ffa9a378","features":{},"yanked":false,"links":null}
+{"name":"itoa","vers":"1.0.1","deps":[],"cksum":"1aab8fc367588b89dcee83ab0fd66b72b50b72fa1904d7095045ace2b0c81c35","features":{},"yanked":false,"links":null}
