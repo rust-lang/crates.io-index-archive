@@ -1,2 +1,3 @@
 {"name":"as-any","vers":"0.1.0","deps":[],"cksum":"e71419bba6044faf892c85b58aad862f0fa122bdf5434d9157ff896f5cddd878","features":{"alloc":[]},"yanked":false,"links":null}
 {"name":"as-any","vers":"0.2.0","deps":[],"cksum":"0b564204d863976c470dbd0e41d1fcc351a8cd1b58222aaaae466f82c493fae4","features":{"alloc":[]},"yanked":false,"links":null}
+{"name":"as-any","vers":"0.2.1","deps":[],"cksum":"088ccb346677e658e7ccd9627c62576fba881f4db7fab71fa9e21bf31c0aa4cb","features":{"alloc":[]},"yanked":false,"links":null}
