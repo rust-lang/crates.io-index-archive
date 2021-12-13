@@ -1,1 +1,2 @@
 {"name":"podman-api","vers":"0.0.1","deps":[],"cksum":"3ec78b5d079128a5f3972a2c5a2f569506ac061beaa6f3b33144cf64c058ff05","features":{},"yanked":true,"links":null}
+{"name":"podman-api","vers":"0.0.1-alpha","deps":[{"name":"podman-api-stubs","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b81463bc014621dd7bcbe82d15827a93b323ac607623410207b9372be2f1c9c","features":{},"yanked":false,"links":null}
