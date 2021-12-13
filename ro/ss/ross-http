@@ -4,3 +4,4 @@
 {"name":"ross-http","vers":"1.2.0","deps":[],"cksum":"60789a5052d8e888f072f4b0f3a24545fd35622ee20291bc87eba7d8d2b1dbc4","features":{},"yanked":false,"links":null}
 {"name":"ross-http","vers":"1.3.0","deps":[],"cksum":"3bc6c122ac9474f8582be91104547ed82e07710a72db86f99c10614194ebaa70","features":{},"yanked":false,"links":null}
 {"name":"ross-http","vers":"1.4.0","deps":[],"cksum":"08a00f025c14ce11b9f1fe476af8733d2fee3ab855994ea8897a263791385416","features":{},"yanked":false,"links":null}
+{"name":"ross-http","vers":"1.5.0","deps":[{"name":"regex-automata","req":"^0.1.10","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5087704f2d50396314ba6368e309a5352a9f9c1dde077cdbb7d38cfada316644","features":{},"yanked":false,"links":null}
