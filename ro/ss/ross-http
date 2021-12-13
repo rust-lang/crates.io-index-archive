@@ -7,3 +7,4 @@
 {"name":"ross-http","vers":"1.5.0","deps":[{"name":"regex-automata","req":"^0.1.10","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5087704f2d50396314ba6368e309a5352a9f9c1dde077cdbb7d38cfada316644","features":{},"yanked":false,"links":null}
 {"name":"ross-http","vers":"1.6.0","deps":[],"cksum":"f667d6f9411496f7f32f63cfde80f56589071ada87b233fc335caee2afe3491f","features":{},"yanked":false,"links":null}
 {"name":"ross-http","vers":"1.7.0","deps":[],"cksum":"bdafe440dede29828bab4cbaaa9cff3ebcb2bfaffb716c2177820235a0519984","features":{},"yanked":false,"links":null}
+{"name":"ross-http","vers":"1.8.0","deps":[],"cksum":"8bf051f77127b0b926cf0ae7f508a0154de81ff21bc6cb37bdcd045fe7356721","features":{},"yanked":false,"links":null}
