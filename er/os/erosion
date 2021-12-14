@@ -1,1 +1,2 @@
 {"name":"erosion","vers":"0.1.0","deps":[{"name":"plotters","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc0e628dea7abddfe7e53f0611f0103beb1ea7109867bdf225f1fd6f3f3f9d54","features":{},"yanked":false,"links":null}
+{"name":"erosion","vers":"0.1.1","deps":[{"name":"plotters","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74058201c8abcb0e0509bb4ce4c5d47e930a56fcaaf04742cb6c7ee6f05891ce","features":{},"yanked":false,"links":null}
