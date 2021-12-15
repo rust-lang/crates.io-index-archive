@@ -1,1 +1,2 @@
 {"name":"cds","vers":"0.0.1","deps":[],"cksum":"f93d7a806ac5b25619df66a799d53ebdd3af8365acf0ed1db9e81aa772999daa","features":{},"yanked":false,"links":null}
+{"name":"cds","vers":"0.0.2","deps":[{"name":"heapless","req":"^0.7.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f6008456f049909e72155f7e69dffba8c6e14e9cd575d8b561205648ccf79f0f","features":{"default":[],"arrayvec":[],"std":[]},"yanked":false,"links":null}
