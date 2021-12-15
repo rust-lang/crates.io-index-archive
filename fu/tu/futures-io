@@ -21,4 +21,4 @@
 {"name":"futures-io","vers":"0.3.15","deps":[],"cksum":"acc499defb3b348f8d8f3f66415835a9131856ff7714bf10dadfc4ec4bdb29a1","features":{"unstable":[],"default":["std"],"std":[],"read-initializer":[]},"yanked":false,"links":null}
 {"name":"futures-io","vers":"0.3.16","deps":[],"cksum":"0b0e06c393068f3a6ef246c75cdca793d6a46347e75286933e5e75fd2fd11582","features":{"unstable":[],"default":["std"],"read-initializer":[],"std":[]},"yanked":false,"links":null}
 {"name":"futures-io","vers":"0.3.17","deps":[],"cksum":"522de2a0fe3e380f1bc577ba0474108faf3f6b18321dbf60b3b9c39a75073377","features":{"unstable":[],"std":[],"read-initializer":[],"default":["std"]},"yanked":false,"links":null}
-{"name":"futures-io","vers":"0.3.18","deps":[],"cksum":"e481354db6b5c353246ccf6a728b0c5511d752c08da7260546fc0933869daa11","features":{"default":["std"],"std":[],"read-initializer":[],"unstable":[]},"yanked":false,"links":null}
+{"name":"futures-io","vers":"0.3.18","deps":[],"cksum":"e481354db6b5c353246ccf6a728b0c5511d752c08da7260546fc0933869daa11","features":{"unstable":[],"std":[],"read-initializer":[],"default":["std"]},"yanked":true,"links":null}
