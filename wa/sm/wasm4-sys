@@ -1,0 +1,1 @@
+{"name":"wasm4-sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"271c3f35b9424c64bc0d210ee627a2542faa7592713061541b9fa70da7779666","features":{},"yanked":false,"links":null}
