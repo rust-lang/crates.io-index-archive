@@ -1,0 +1,1 @@
+{"name":"wasm4","vers":"0.0.2","deps":[{"name":"wasm4-sys","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd695713210de10ba2acdf92c22901eb765b72a41b9e77bb19ec83204c7bd7fe","features":{},"yanked":false,"links":null}
