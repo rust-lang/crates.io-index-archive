@@ -1,0 +1,1 @@
+{"name":"ors-sys","vers":"0.0.2","deps":[{"name":"bindgen","req":"^0.59.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9900145d5dcbe9bf7dfbdf4cb2d96ed798e88120a5d9860acfe8bd1ea6f37f84","features":{},"yanked":false,"links":"onnxruntime"}
