@@ -1,0 +1,1 @@
+{"name":"split-csv","vers":"1.0.0-alpha.0","deps":[{"name":"clap","req":"^3.0.0-rc.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9a64df22a36757f2fc7cb5bdc22fd7da0a6462a008edcccbeb7efede7ed4003","features":{},"yanked":false,"links":null}
