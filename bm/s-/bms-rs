@@ -1,1 +1,2 @@
 {"name":"bms-rs","vers":"0.1.0","deps":[{"name":"itertools","req":"^0.10.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"925fbdac3b9deedd562b40bcbc4cd1a04d3d75df1bf0d9e3719541c215c58804","features":{},"yanked":false,"links":null}
+{"name":"bms-rs","vers":"0.1.1","deps":[{"name":"itertools","req":"^0.10.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f45c8cd7581c31ff2031a9b041e2f61e1d461b03c6345f3e69e3cd5088614a6","features":{},"yanked":false,"links":null}
