@@ -1,0 +1,1 @@
+{"name":"intel_cache_server","vers":"1.0.0","deps":[{"name":"intel-cache-lib","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbd5a41881c4b493b89b27f896bf8f3a268ccddf89140c8110b1373f92048756","features":{},"yanked":false,"links":null}
