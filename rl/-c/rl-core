@@ -1,0 +1,1 @@
+{"name":"rl-core","vers":"0.0.0","deps":[{"name":"serde_derive","req":"^1.0.132","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1625a2eb242b2c3861382e090ecfd71c05e1a07e4e561eb3ca82865f0c103996","features":{"serde":["serde_derive"]},"yanked":false,"links":null}
