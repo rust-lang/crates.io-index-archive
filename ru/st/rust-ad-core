@@ -1,0 +1,1 @@
+{"name":"rust-ad-core","vers":"0.1.0","deps":[{"name":"syn","req":"^1.0.82","features":["full","extra-traits"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f07977ba8cfadd90c72141585b9d215e9d58392a15cf8808d61f553107debe58","features":{},"yanked":false,"links":null}
