@@ -1,1 +1,2 @@
 {"name":"spirv-layout","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"759773f2cd71821c8a1820e58435a518c55254db85424b5a808dbbe31faaf92c","features":{},"yanked":false,"links":null}
+{"name":"spirv-layout","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5add3b99024edc51e42388ea8c65381f08de9eac08210e931891042cb0f6cba4","features":{},"yanked":false,"links":null}
