@@ -1,0 +1,2 @@
+{"name":"bevy_screen_diags","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c624bab5745ba350127bc2a43db46ed51a6766020c05f8b57cc45966cc7cd8ec","features":{},"yanked":false,"links":null}
+{"name":"bevy_screen_diags","vers":"0.2.0","deps":[{"name":"bevy","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb93ea898196df39b0f6d83457d1a03dd031033e767f038d3fcc6d069437c681","features":{},"yanked":false,"links":null}

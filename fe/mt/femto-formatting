@@ -1,0 +1,1 @@
+{"name":"femto-formatting","vers":"0.1.0","deps":[{"name":"femtovg","req":">=0.1, <=0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af3a59a020c90b4f18160dd85b2fcaea615a6d1a0208cda2805493cf0dccf1cb","features":{},"yanked":false,"links":null}

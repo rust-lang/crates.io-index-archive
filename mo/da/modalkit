@@ -1,0 +1,1 @@
+{"name":"modalkit","vers":"0.0.1","deps":[{"name":"crossterm","req":"^0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9bd1c3d3a55347cc65de6492cd383c0b816cba8d46377e1021c7467e7f4cdc3","features":{},"yanked":false,"links":null}

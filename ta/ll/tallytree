@@ -1,0 +1,1 @@
+{"name":"tallytree","vers":"0.1.0","deps":[{"name":"sha2","req":"^0.9.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00d4d85d38e10a91dc4e78bc2e19dc8424d51ee06c5873384f732183fb088cd4","features":{"fail-on-warnings":[]},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"gmserverplugin","vers":"1.0.0","deps":[{"name":"gmod","req":"^8","features":["hax"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"481dc5ce867d0ac9c140b3c900e97ff532436045f3d29c8e5d51e8df3b64b336","features":{},"yanked":false,"links":null}

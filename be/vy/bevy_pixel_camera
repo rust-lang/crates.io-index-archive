@@ -1,0 +1,2 @@
+{"name":"bevy_pixel_camera","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8791462f50ceae97e85ac7db90f233f4c748ec8a14278553641f429b64532a82","features":{},"yanked":false,"links":null}
+{"name":"bevy_pixel_camera","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4825b4a00fdd7238d9e63b8c2ef4c45aded54f0f7b92b5a9d9d89c019e94fc06","features":{},"yanked":false,"links":null}

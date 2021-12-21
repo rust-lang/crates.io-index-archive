@@ -1,0 +1,1 @@
+{"name":"subxt-macro","vers":"0.1.0","deps":[{"name":"subxt-codegen","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d32e62c8826e325154a721e9a2a17ae36f00f7ea8d65f09645eab0873c48fd22","features":{},"yanked":false,"links":null}

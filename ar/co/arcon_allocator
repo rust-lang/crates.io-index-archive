@@ -1,0 +1,1 @@
+{"name":"arcon_allocator","vers":"0.2.0","deps":[{"name":"fxhash","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbe38d5f7efe8cb3902e5a51835a3a3c12c1a180cb2a0747380dcf7e5eddb931","features":{},"yanked":false,"links":null}

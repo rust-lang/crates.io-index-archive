@@ -1,0 +1,1 @@
+{"name":"cspice-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.56.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"6db1a27e9ae8e7a6c6fc718a2e1f2b43f7502680f7d91cbbe123032f08d55156","features":{"generate":["bindgen"]},"yanked":false,"links":"cspice"}

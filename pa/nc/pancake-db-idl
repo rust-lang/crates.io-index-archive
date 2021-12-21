@@ -1,0 +1,1 @@
+{"name":"pancake-db-idl","vers":"0.0.0-alpha.0","deps":[{"name":"protobuf","req":"^3.0.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41f4c8ce8992f4bc1e6230e8a4cedd767ce9066724396ea9a2126bf6d150f95d","features":{},"yanked":false,"links":null}

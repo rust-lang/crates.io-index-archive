@@ -1,0 +1,2 @@
+{"name":"watch","vers":"0.1.0","deps":[],"cksum":"653ebc509981c7544e969769c80ed7c887f28e2268ab9d8af943af04cd3eb2cd","features":{},"yanked":true,"links":null}
+{"name":"watch","vers":"0.2.0","deps":[{"name":"parking_lot","req":"^0.11","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a82447eecce4aeb9ad7bb3404cae3f869d5fdc6fb9beda2fed29ab9ccad439ac","features":{},"yanked":false,"links":null}

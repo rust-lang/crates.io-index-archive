@@ -1,0 +1,2 @@
+{"name":"stateloop","vers":"0.1.0","deps":[{"name":"glium","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88630f5a2c36836949355c092d81889f93fd8c5e6d9473683299721bf6adafca","features":{},"yanked":false}
+{"name":"stateloop","vers":"0.2.0","deps":[{"name":"glium","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71bd5efcfd42cf12fb64e79c1b7f39150562ef3189f6509a3375e0148541a836","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"kak-subvert","vers":"1.0.0","deps":[{"name":"Inflector","req":"^0.11.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e068e7a31e11f9dff24ea043d10a774ef361b049bd2464efc43dfb71963e5334","features":{},"yanked":false,"links":null}
+{"name":"kak-subvert","vers":"1.0.1","deps":[{"name":"Inflector","req":"^0.11.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75a9587f169615216b118b1f2e79f3fd7b4e06ed7b2c6d6c47853caf835fbc66","features":{},"yanked":false,"links":null}

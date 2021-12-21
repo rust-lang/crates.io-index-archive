@@ -1,0 +1,1 @@
+{"name":"set-cargo-version","vers":"1.0.0","deps":[{"name":"toml_edit","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d317e6a1b9c6b6aa8bad5b4fd290cc3ba2f929de1e4b065c59410eb4e2e4096","features":{},"yanked":false,"links":null}

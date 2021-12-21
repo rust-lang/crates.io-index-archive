@@ -1,0 +1,1 @@
+{"name":"spaceform","vers":"0.0.1","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"186e84fe4864dd2070e4d7581f10361d6996a2ea819032396a1ed5b24db9d4d8","features":{"simd":[],"default":["simd"]},"yanked":false,"links":null}

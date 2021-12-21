@@ -1,0 +1,2 @@
+{"name":"werror","vers":"0.0.0","deps":[{"name":"wtest_basic","req":"~0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2e53d1fcd178f0495810ec76f6a5c75988e419ecbbd78f3e5e0d7ff36e40d7a6","features":{},"yanked":false,"links":null}
+{"name":"werror","vers":"0.0.1","deps":[{"name":"wtest_basic","req":"~0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"76bb0e1c6e857a316a891c5a2ee492cc285877e33d163753af2957a2c24c015e","features":{},"yanked":false,"links":null}

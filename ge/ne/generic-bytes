@@ -1,0 +1,1 @@
+{"name":"generic-bytes","vers":"0.1.0","deps":[{"name":"generic-array","req":"^0.14.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6638d839bbd1cea640d8c5348dd82e0d545dbd364f3c2a251646eaf2ef0773b","features":{},"yanked":false,"links":null}

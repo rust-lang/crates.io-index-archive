@@ -1,0 +1,1 @@
+{"name":"hdk_unit_testing","vers":"0.1.1","deps":[{"name":"hdk","req":"^0.0.115","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07040cb2149b10a8ae55f14c33c979a4da105bd207fafaa9418c2933cfd6f406","features":{"mock":["hdk/mock","hdk/test_utils"],"default":["mock"]},"yanked":false,"links":null}
