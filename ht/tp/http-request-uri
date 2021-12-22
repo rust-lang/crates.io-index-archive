@@ -1,1 +1,2 @@
 {"name":"http-request-uri","vers":"0.1.0","deps":[{"name":"http","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"15302910eff60109f334749b86c101ebce9be8568395bc6d72fc51556ed0c030","features":{},"yanked":false,"links":null}
+{"name":"http-request-uri","vers":"0.1.1","deps":[{"name":"http","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f237a11549363b02d2377fb31916547a46956c206bb5151b03f23432ed200fb6","features":{},"yanked":false,"links":null}
