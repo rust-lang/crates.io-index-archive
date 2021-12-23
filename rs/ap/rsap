@@ -10,4 +10,4 @@
 {"name":"rsap","vers":"0.3.7","deps":[{"name":"mtk","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a32c2ea8ade271a80a2ca3f605c41a6edb20648ba3a0d4a41f5aa9c897b716b","features":{},"yanked":true,"links":null}
 {"name":"rsap","vers":"0.3.8","deps":[{"name":"mtk","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c18e4c0418a1f01e2226e9e5ab15b9493a5208d8c956d9d17aea650800e6d529","features":{},"yanked":true,"links":null}
 {"name":"rsap","vers":"0.3.9","deps":[{"name":"mtk","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df47e224295d0f4d2473d2f3fdd5f0dad6132a926e577dcb1dfb329dd203cc0c","features":{},"yanked":true,"links":null}
-{"name":"rsap","vers":"0.4.0","deps":[],"cksum":"e2a2ca8a99ec70f1c04f3fa22a8f2c563115d405e85755ad85febf987677f2aa","features":{},"yanked":false,"links":null}
+{"name":"rsap","vers":"0.4.0","deps":[],"cksum":"e2a2ca8a99ec70f1c04f3fa22a8f2c563115d405e85755ad85febf987677f2aa","features":{},"yanked":true,"links":null}
