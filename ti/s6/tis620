@@ -1,3 +1,4 @@
 {"name":"tis620","vers":"0.0.1","deps":[],"cksum":"3ed5826d7c23c7c9bbf1edabccf9c6ff511b75b05a69ab5e312c87ab8eb594ce","features":{},"yanked":false,"links":null}
 {"name":"tis620","vers":"0.0.2","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4eac8a0d8fd42d378444ed6ffb89aca832ceddb023cf3dd6903e2c86b7a58a9d","features":{},"yanked":false,"links":null}
 {"name":"tis620","vers":"0.0.3","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a4b6610a2ae3f4f9f6b60271534627d09df7c2ac7861a4dc527c86ad006e1a47","features":{},"yanked":false,"links":null}
+{"name":"tis620","vers":"0.0.4","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"139c7cfe9316a3e4ff85c256ace6c2f71292d9cc40d89afaa66b61850ef890f6","features":{},"yanked":false,"links":null}
