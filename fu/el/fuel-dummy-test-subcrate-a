@@ -1,1 +1,2 @@
 {"name":"fuel-dummy-test-subcrate-a","vers":"0.2.5","deps":[],"cksum":"accb4d09010b7b2043e7ed2970688ba9d6c67b540c0962232aa4606cc206fec1","features":{},"yanked":false,"links":null}
+{"name":"fuel-dummy-test-subcrate-a","vers":"0.2.6","deps":[{"name":"subcrate_b","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"fuel-dummy-test-subcrate-b"}],"cksum":"ee1a4fe9e589d395cd8a688503e5ee497284d785b5a3bf05f09139df9d2ee2f3","features":{},"yanked":false,"links":null}
