@@ -1,0 +1,1 @@
+{"name":"domainfo","vers":"0.1.0","deps":[{"name":"trust-dns-client","req":"^0.20.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"563532fefac6b6203b27e57ceea8fac5a68c1307740cf92c9d7e2f59bba0aa60","features":{},"yanked":false,"links":null}
