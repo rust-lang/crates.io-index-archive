@@ -6,3 +6,4 @@
 {"name":"q_compress","vers":"0.2.3","deps":[],"cksum":"92f909b7435127ee1b9ff0d8da594d8b962284fcaaf28b28bb7bca420e3ef115","features":{},"yanked":false,"links":null}
 {"name":"q_compress","vers":"0.3.0","deps":[],"cksum":"c607eb8fc4d0046b66ffe1220605ec3229c862aa5150a9a090347e05cde94d3f","features":{},"yanked":false,"links":null}
 {"name":"q_compress","vers":"0.3.1","deps":[],"cksum":"6b0c420884ad82995fb846e4efec99310344a790a0a61a9f164955129338b8a5","features":{},"yanked":false,"links":null}
+{"name":"q_compress","vers":"0.4.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"91cb012c38b74c2ad38a4cdfbd6dd7b42cafcae8c07935474a80743a38f11475","features":{},"yanked":false,"links":null}
