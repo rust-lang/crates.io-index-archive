@@ -1,1 +1,2 @@
 {"name":"all4art-authservice-cqrs","vers":"0.1.0","deps":[],"cksum":"0b4dd490e4ac4ad8cae9a91f4bff14cf80a6035ef861bc853d405083945d38dc","features":{},"yanked":false,"links":null}
+{"name":"all4art-authservice-cqrs","vers":"0.1.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"729761644ca45d1adabafd86395981af7eda0f99060fe4551c01c6410ffca282","features":{},"yanked":false,"links":null}
