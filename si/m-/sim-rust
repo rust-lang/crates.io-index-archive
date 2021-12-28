@@ -16,3 +16,4 @@
 {"name":"sim-rust","vers":"0.8.1","deps":[{"name":"num_cpus","req":"^1.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c26d068f0ed320371c7e9e7d24f095587718ff7c4811e8d269b8ec80966a79b","features":{},"yanked":false,"links":null}
 {"name":"sim-rust","vers":"0.8.2","deps":[{"name":"num_cpus","req":"^1.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08149c18ad945b7a247abb39cbb5e79b47370d616a9e9e6b66285366556018da","features":{},"yanked":false,"links":null}
 {"name":"sim-rust","vers":"0.8.3","deps":[],"cksum":"435f05e73bb278ae45f0a51b164abd8ad24fc33eb7a1a1fcd71dc3caaff7858b","features":{},"yanked":false,"links":null}
+{"name":"sim-rust","vers":"0.8.4","deps":[],"cksum":"7a02b3e0b029be7ff76080d8a8350bdb2849260ac10e57c5cb7567e8aaa3e9a7","features":{},"yanked":false,"links":null}
