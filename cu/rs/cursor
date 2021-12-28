@@ -1,2 +1,3 @@
 {"name":"cursor","vers":"1.0.0","deps":[],"cksum":"ae20d84a32b46fefdb7627bd1736f486ad910237addf474ab49f8c9306e22e22","features":{},"yanked":false,"links":null}
 {"name":"cursor","vers":"1.1.0","deps":[],"cksum":"79391ea3283aba02cac2493a4e9481f6881a86c72a161bd371b318c36743f554","features":{},"yanked":false,"links":null}
+{"name":"cursor","vers":"2.0.0","deps":[],"cksum":"8182a62def903a454e85afeedfe1f001608c5b56930941700f87a42a89682465","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
