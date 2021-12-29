@@ -1,0 +1,1 @@
+{"name":"torrent-common","vers":"0.1.0","deps":[{"name":"torrent-name-parser","req":"^0.9","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90cfcfaa54bebb50d5a35839422b566b120f2538522eb7aa68f85602ecf8dff3","features":{"parse-names":["torrent-name-parser"],"require-parse-names":["torrent-name-parser"]},"yanked":false,"links":null}
