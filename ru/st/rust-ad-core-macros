@@ -1,1 +1,2 @@
 {"name":"rust-ad-core-macros","vers":"0.1.0","deps":[],"cksum":"71d936eea5d9752fd62d84620dba00f3a02012becf8e6f0958ac52105dbd2b0b","features":{},"yanked":false,"links":null}
+{"name":"rust-ad-core-macros","vers":"0.7.0","deps":[{"name":"rust-ad-consts","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f204955ac2fa3fa806f163ae389a9c7b5de3977b30d7c518e2af4bc356210e5","features":{},"yanked":false,"links":null}
