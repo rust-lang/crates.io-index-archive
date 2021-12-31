@@ -1,0 +1,1 @@
+{"name":"kwap-common","vers":"0.2.6","deps":[{"name":"tinyvec","req":"^1.5","features":["rustc_1_55"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"dc93d3c232342a7fbeaea8117e269440da572b322cc9a1e2835411c079a50cc2","features":{},"yanked":false,"links":null}
