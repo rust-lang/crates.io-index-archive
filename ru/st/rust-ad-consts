@@ -1,0 +1,1 @@
+{"name":"rust-ad-consts","vers":"0.7.0","deps":[{"name":"const_format","req":"^0.2.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d68a943c622582059b59704dcbc292424a0f47ac646bee72727feb9fb4d43aaa","features":{},"yanked":false,"links":null}
