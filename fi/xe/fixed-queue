@@ -12,3 +12,4 @@
 {"name":"fixed-queue","vers":"0.3.9","deps":[],"cksum":"994e0249f4828d123b336cde91d0f650e7f43bd39d4ac175ae0875ba02a90e77","features":{},"yanked":false,"links":null}
 {"name":"fixed-queue","vers":"0.3.10","deps":[],"cksum":"9e119ada95c6a13b1e04edb8ef3a31b464f07009269903e05ace0d1b01ddac9a","features":{},"yanked":false,"links":null}
 {"name":"fixed-queue","vers":"0.3.11","deps":[],"cksum":"f2eac845e03e3450058487fae8d98bba27d5f8a90dba21674e1790b0b14254b1","features":{},"yanked":false,"links":null}
+{"name":"fixed-queue","vers":"0.4.0","deps":[{"name":"etime","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2e02daa2a13b515a28eaa4adaf6da3b4b37453cf1aaf81e21bb6610d5f289c4a","features":{},"yanked":false,"links":null}
