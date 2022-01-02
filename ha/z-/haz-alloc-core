@@ -1,0 +1,1 @@
+{"name":"haz-alloc-core","vers":"0.1.0","deps":[{"name":"haz-alloc-internal","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"810b4d6b148ca3e292d67c960d544e1a859ee96f576e430171de396f386f2a62","features":{},"yanked":false,"links":null}
