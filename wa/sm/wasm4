@@ -1,1 +1,2 @@
 {"name":"wasm4","vers":"0.0.2","deps":[{"name":"wasm4-sys","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd695713210de10ba2acdf92c22901eb765b72a41b9e77bb19ec83204c7bd7fe","features":{},"yanked":false,"links":null}
+{"name":"wasm4","vers":"0.0.3","deps":[{"name":"wasm4-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5e064895fd5fd0fea86e5432af39477d25d63ae6f4d02a212ef3aa15fde10f6","features":{},"yanked":false,"links":null}
