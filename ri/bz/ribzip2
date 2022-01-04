@@ -1,1 +1,2 @@
 {"name":"ribzip2","vers":"0.1.0","deps":[{"name":"structopt","req":"^0.3.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f87acb2995d0b373b5baedf1b1edd11533f9da7d077f06b153684e0aa9bf01a8","features":{},"yanked":false,"links":null}
+{"name":"ribzip2","vers":"0.1.1","deps":[{"name":"structopt","req":"^0.3.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"398aa56a56e45ec8e8fa73144a659d0fac15de2c0a4bddea26450a3293399258","features":{},"yanked":false,"links":null}
