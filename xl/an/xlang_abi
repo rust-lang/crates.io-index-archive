@@ -1,1 +1,1 @@
-{"name":"xlang_abi","vers":"0.1.0","deps":[{"name":"xlang_host","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3b26e5b2314310f30e48386737830d360d4a23119593623b0309f08f3271fe3","features":{},"yanked":false,"links":null}
+{"name":"xlang_abi","vers":"0.1.0","deps":[{"name":"xlang_host","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3b26e5b2314310f30e48386737830d360d4a23119593623b0309f08f3271fe3","features":{},"yanked":true,"links":null}
