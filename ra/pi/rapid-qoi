@@ -11,4 +11,4 @@
 {"name":"rapid-qoi","vers":"0.5.1","deps":[],"cksum":"cffab505552a8afceee0f61c0f6f6a68cd126b4c06c4165b9e6c5fa4174fb630","features":{"alloc":[],"io":["std"],"std":["alloc"],"default":["std"]},"yanked":true,"links":null}
 {"name":"rapid-qoi","vers":"0.5.2","deps":[],"cksum":"4b9da62000654703845a8da496972f477e23a93f43b3f045b87f80b7d5f09a2b","features":{"alloc":[],"default":["std"],"io":["std"],"std":["alloc"]},"yanked":true,"links":null}
 {"name":"rapid-qoi","vers":"0.5.3","deps":[],"cksum":"dd65c499ac50f53e7a41b15de324c4e0e701c4065d74fff852dee7b317c3f8c0","features":{"std":["alloc"],"default":["std"],"alloc":[],"io":["std"]},"yanked":true,"links":null}
-{"name":"rapid-qoi","vers":"0.5.4","deps":[],"cksum":"168633e787e735dd01edc5bb9db504d72297a0a32b50f25828bde4203fda847a","features":{"alloc":[],"default":["std"],"io":["std"],"std":["alloc"]},"yanked":false,"links":null}
+{"name":"rapid-qoi","vers":"0.5.4","deps":[],"cksum":"168633e787e735dd01edc5bb9db504d72297a0a32b50f25828bde4203fda847a","features":{"std":["alloc"],"alloc":[],"io":["std"],"default":["std"]},"yanked":true,"links":null}
