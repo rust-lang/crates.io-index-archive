@@ -1,0 +1,1 @@
+{"name":"owl_midi","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.59.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"82902956ad541c45258ec099db602e52827cced65509ed158b914e0f23686e47","features":{},"yanked":false,"links":null}
