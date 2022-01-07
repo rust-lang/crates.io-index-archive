@@ -1,3 +1,4 @@
 {"name":"kplayer-rust-wrap","vers":"1.0.0","deps":[],"cksum":"76426c7ebfbb5fc74a695edff0a6856e367e51a2e9294db6f5620c25fd8ed863","features":{},"yanked":false,"links":null}
 {"name":"kplayer-rust-wrap","vers":"1.1.1","deps":[],"cksum":"e82bf9b979425c1e2d581481100a28bcd03cbd6fea434a2313c68070f5aa22a4","features":{},"yanked":false,"links":null}
 {"name":"kplayer-rust-wrap","vers":"1.2.1","deps":[],"cksum":"616ccda01c1c134df30523fc1215ad2fed48a881aac7a4741dadd3d8b96c1fc5","features":{},"yanked":false,"links":null}
+{"name":"kplayer-rust-wrap","vers":"1.2.2","deps":[{"name":"protobuf","req":"^2.25.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d24f80b623aa6c4d4b3dac83532e32649148d4ab211a7a7fdf46f851b461e194","features":{},"yanked":false,"links":null}
