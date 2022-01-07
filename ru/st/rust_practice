@@ -1,0 +1,1 @@
+{"name":"rust_practice","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b5e55a0d9400051902de6b24fca326858060759f05e14613f5370ee26faf7ca","features":{},"yanked":false,"links":null}
