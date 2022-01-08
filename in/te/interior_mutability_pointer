@@ -6,3 +6,4 @@
 {"name":"interior_mutability_pointer","vers":"0.3.1","deps":[],"cksum":"5304484f6948c5389dd719cfbfbe67c84d4b5ee696b85ea127f7bf7512e4c49b","features":{"compile_failure":[]},"yanked":true,"links":null}
 {"name":"interior_mutability_pointer","vers":"0.3.2","deps":[],"cksum":"4c7d4b31660dcd7ad4a483a1b5230b732ed2f9fd31b54cd0e41b64f04415f8c3","features":{"compile_failure":[]},"yanked":false,"links":null}
 {"name":"interior_mutability_pointer","vers":"0.3.3","deps":[],"cksum":"b1ffaea884e8fe9ffb9c60af7fab14494e50dc17c48bf52812547bddd19723af","features":{"compile_failure":[]},"yanked":false,"links":null}
+{"name":"interior_mutability_pointer","vers":"0.3.4","deps":[],"cksum":"21f6826b0be8c6a7723ebb3741e6c8bbd6240a1d53252aa92e7f241c3fa3b166","features":{"compile_failure":[]},"yanked":false,"links":null}
