@@ -1,0 +1,1 @@
+{"name":"crossbow-permissions","vers":"0.1.0","deps":[{"name":"jni","req":"^0.19","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"android\")","kind":"normal"}],"cksum":"7bdbb848b5d45e3f48d3bad0d1fca8aa31936432ed5a14926c898d18d351a40b","features":{},"yanked":false,"links":null}
