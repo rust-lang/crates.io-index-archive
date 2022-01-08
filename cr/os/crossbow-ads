@@ -1,0 +1,1 @@
+{"name":"crossbow-ads","vers":"0.1.0","deps":[{"name":"jni","req":"^0.19","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"android\")","kind":"normal"}],"cksum":"db8318fbf1317dcc360cece295c78782707a1599e2787c9a0f9d2b2f67e5e6d8","features":{},"yanked":false,"links":null}
