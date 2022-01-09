@@ -2,4 +2,4 @@
 {"name":"contour_tracing","vers":"1.0.1","deps":[],"cksum":"24ad01dbf2b807ed5764e58f3b79ebaaeb78fb13d9da70af593e7208356ed9c3","features":{},"yanked":true,"links":null}
 {"name":"contour_tracing","vers":"1.0.2","deps":[],"cksum":"2443a233bfe86a3253a74c31a766ae832c59e25466b1674e8d6414ee01401113","features":{},"yanked":true,"links":null}
 {"name":"contour_tracing","vers":"1.0.3","deps":[],"cksum":"d15248c9ade22a7e283930562ed75ccd1524d6f8e5dd32bdae604c7844db8027","features":{},"yanked":false,"links":null}
-{"name":"contour_tracing","vers":"1.0.4","deps":[{"name":"image","req":"^0.23.14","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb7725c3fb126f4ebb92b61a60ec4e8a41bb15dcfbb875dcdd8e38c1b0479790","features":{},"yanked":false,"links":null}
+{"name":"contour_tracing","vers":"1.0.4","deps":[{"name":"image","req":"^0.23.14","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb7725c3fb126f4ebb92b61a60ec4e8a41bb15dcfbb875dcdd8e38c1b0479790","features":{},"yanked":true,"links":null}
