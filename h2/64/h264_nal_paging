@@ -1,1 +1,2 @@
 {"name":"h264_nal_paging","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["io-util"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"13883dc0e74a9e640adf138b91acfeb79c83bcec3b6567ca1a01a2c6b9957af0","features":{},"yanked":false,"links":null}
+{"name":"h264_nal_paging","vers":"0.1.1","deps":[{"name":"tokio","req":"^1","features":["io-util"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9a7b674546b6cbe0d0ff541e16a6f92c4077e03603f799cb0fdbafa5b1951e48","features":{},"yanked":false,"links":null}
