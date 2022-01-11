@@ -40,3 +40,4 @@
 {"name":"tagger","vers":"3.3.1","deps":[],"cksum":"3a9306f9298fff64bcd36370cb685e817973bad817d77d8b40e64c5d1816ec84","features":{},"yanked":true,"links":null}
 {"name":"tagger","vers":"3.3.2","deps":[],"cksum":"db3da51808b1db51c7a598654fbc224196c8f1a722c0cdb51f32b1dee3deeb13","features":{},"yanked":true,"links":null}
 {"name":"tagger","vers":"4.0.0","deps":[],"cksum":"1f258b08043b16d5193350a71c992331771450c1becb5453c67c76fd727e450d","features":{},"yanked":false,"links":null}
+{"name":"tagger","vers":"4.0.1","deps":[],"cksum":"7b6537e5b5279b9d2dd9de8c1a6679fe6d7652dccabd4d0cc752d76f1310a54c","features":{},"yanked":false,"links":null}
