@@ -1,0 +1,1 @@
+{"name":"wrflib_objc_sys","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"07f3c17be0daa226202741b63ca116f37bd2e0ce1dbb3b75441afa46a61e57e4","features":{},"yanked":false,"links":null}
