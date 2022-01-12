@@ -4,3 +4,4 @@
 {"name":"sd-notify","vers":"0.1.1","deps":[],"cksum":"aef40838bbb143707f8309b1e92e6ba3225287592968ba6f6e3b6de4a9816486","features":{},"yanked":false,"links":null}
 {"name":"sd-notify","vers":"0.2.0","deps":[],"cksum":"c9348c5ddb670ff69d94c7f9f3560fc95cb54377956f6960c9a4fd5bfebbfadc","features":{},"yanked":false,"links":null}
 {"name":"sd-notify","vers":"0.3.0","deps":[],"cksum":"0cd08a21f852bd2fe42e3b2a6c76a0db6a95a5b5bd29c0521dd0b30fa1712ec8","features":{},"yanked":false,"links":null}
+{"name":"sd-notify","vers":"0.4.0","deps":[],"cksum":"2fde85c94a50dc789df8ca7b39f6b8b1eaa6cd320cc729e9ce1e1e1104292719","features":{},"yanked":false,"links":null}
