@@ -6,5 +6,5 @@
 {"name":"vec-const","vers":"1.2.1","deps":[],"cksum":"b698ddf27346d31ca51e53458512d2de5daabf34a63370b10872aa01908ec5f7","features":{},"yanked":true,"links":null}
 {"name":"vec-const","vers":"2.0.0","deps":[],"cksum":"489def4fe3513a789c747e4031c5f4bd564c0328f9a71d296b36e52ccb8ec8ae","features":{},"yanked":true,"links":null}
 {"name":"vec-const","vers":"2.0.1","deps":[],"cksum":"9581b7199ab4f7812161952f6ed325f8668227e67f9e1e62de114aef56d14d1b","features":{},"yanked":true,"links":null}
-{"name":"vec-const","vers":"3.0.0","deps":[],"cksum":"3c2af50083589ef18e3cd911bf05e6e577f609527018dcb1e16216c404b9f622","features":{},"yanked":false,"links":null}
+{"name":"vec-const","vers":"3.0.0","deps":[],"cksum":"3c2af50083589ef18e3cd911bf05e6e577f609527018dcb1e16216c404b9f622","features":{},"yanked":true,"links":null}
 {"name":"vec-const","vers":"3.0.1","deps":[],"cksum":"7aed894cc0af4400cfc97ee1aa631e2cad78c61123bc872bbc734dd6d9ad02ff","features":{},"yanked":false,"links":null}
