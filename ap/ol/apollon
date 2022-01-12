@@ -1,0 +1,1 @@
+{"name":"apollon","vers":"0.0.2","deps":[{"name":"clap","req":"^3.0.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b89170ffa8f64fb6c1b2a0f91252a640a7dc58ffe880180dca7a5b7dcf97c11c","features":{},"yanked":false,"links":null}
