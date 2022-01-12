@@ -1,0 +1,1 @@
+{"name":"solrandhypn","vers":"0.1.4","deps":[{"name":"anchor-lang","req":"^0.18.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"782415da2cf5e561d03c817c0df990b32438f3de2c2fbf7b7780f38a382d197f","features":{"default":[],"no-entrypoint":[],"cpi":["no-entrypoint"],"no-idl":[]},"yanked":false,"links":null}
