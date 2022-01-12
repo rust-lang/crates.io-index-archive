@@ -1,0 +1,1 @@
+{"name":"dd_maths_traits","vers":"0.1.0","deps":[{"name":"num-bigint","req":"^0.4.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"125fff684dfa94ff8cf9cced4dbb08e04c5e9bb8c660e2467c678b0cb2765496","features":{"std":[],"default":["num-bigint"]},"yanked":false,"links":null}
