@@ -1,1 +1,2 @@
 {"name":"rmw_str","vers":"0.0.1","deps":[{"name":"anyhow","req":"^1.0.47","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad8b56fe60777f3371bc2e9780d2dae503425b08c22a8c137a5aca87d2255de0","features":{},"yanked":false,"links":null}
+{"name":"rmw_str","vers":"0.0.2","deps":[{"name":"anyhow","req":"^1.0.52","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bb566edfacb15bd96987d2ff5a7b8b895ba6b28241cc62de815c55665ba43ff","features":{},"yanked":false,"links":null}
