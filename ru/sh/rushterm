@@ -1,1 +1,1 @@
-{"name":"rushterm","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.22.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7fe4d10cdc64f6843651a75014d126edcfc9c4197bbdde33f6bbe5573754ee0","features":{},"yanked":true,"links":null}
+{"name":"rushterm","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.22.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7fe4d10cdc64f6843651a75014d126edcfc9c4197bbdde33f6bbe5573754ee0","features":{},"yanked":false,"links":null}
