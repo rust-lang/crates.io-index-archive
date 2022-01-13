@@ -3,3 +3,4 @@
 {"name":"basic_lexer","vers":"0.1.2","deps":[],"cksum":"8c734161ca865356aae7550d8ae8f0b8ca8cc5368ac858bb3f4964e731d009e6","features":{},"yanked":false,"links":null}
 {"name":"basic_lexer","vers":"0.1.3","deps":[],"cksum":"3eed7a0887515684ef511600fca62984fe03df1c64434b8dfc8a9bf6868fb799","features":{},"yanked":false,"links":null}
 {"name":"basic_lexer","vers":"0.2.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8537e3539f56ee8be3448340070dd051105abbed412de5d547e10300e1355f5e","features":{},"yanked":false,"links":null}
+{"name":"basic_lexer","vers":"0.2.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad6802c75aa94650ffe135dabc15520986c53a34b61662dee9f3314c79f40155","features":{},"yanked":false,"links":null}
