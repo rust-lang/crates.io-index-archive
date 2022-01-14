@@ -5,3 +5,4 @@
 {"name":"tendermint-std-ext","vers":"0.23.2","deps":[],"cksum":"639aa7d263d01da5ca847bae5453de683b28cc8070544c66ed60fce140cd7823","features":{},"yanked":false,"links":null}
 {"name":"tendermint-std-ext","vers":"0.23.3","deps":[],"cksum":"81c6ea80f51944c5c2433cf1921629c7ddd215197092f3d945bdefdd7b5d5e24","features":{},"yanked":false,"links":null}
 {"name":"tendermint-std-ext","vers":"0.23.4","deps":[],"cksum":"fc4b4b9093b65ae54ab82e7f56dbe5db349463a75d14ae1c5af8c9932321b9da","features":{},"yanked":false,"links":null}
+{"name":"tendermint-std-ext","vers":"0.23.5","deps":[],"cksum":"351c2aacb6c857d48041f165e00d90f7f9ae85db6539302f68a1f1eceac81749","features":{},"yanked":false,"links":null}
