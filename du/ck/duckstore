@@ -1,1 +1,2 @@
 {"name":"duckstore","vers":"0.1.0","deps":[{"name":"directories","req":"^4.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"86a9768f24dedef785a8c5522b3b47abe52fc6d9f152b2c52bfdc2f1aee52583","features":{},"yanked":false,"links":null}
+{"name":"duckstore","vers":"0.1.1","deps":[{"name":"directories","req":"^4.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99986b51e13cbe32cf0e21adbe562495873193b6a2825839a7b71d151e18f0cc","features":{},"yanked":false,"links":null}
