@@ -1,0 +1,1 @@
+{"name":"carli","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cbd6f58854f226579b8850274e06b3f767eaea64dab3bf1652de0bffd7c8b9f7","features":{},"yanked":false,"links":null}
