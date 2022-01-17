@@ -1,0 +1,1 @@
+{"name":"augmented-audio-volume","vers":"0.1.0-alpha.2","deps":[{"name":"audio-processor-testing-helpers","req":"^1.0.0-alpha.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"80e835d1d22c231c039629314909e917d9a5300f62d503132aad4419e44cd612","features":{"f64":[],"default":[]},"yanked":false,"links":null}
