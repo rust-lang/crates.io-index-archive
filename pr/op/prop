@@ -7,3 +7,4 @@
 {"name":"prop","vers":"0.6.0","deps":[],"cksum":"0d32a4e0f1783a39f7cb6ac39e61d0b932b8c58f47aaa5a94fcb3971d84f2096","features":{},"yanked":false,"links":null}
 {"name":"prop","vers":"0.7.0","deps":[],"cksum":"140b8a37e9449210da9ded887b7e421d5611d9a119851e0536927f19cbdfcb0d","features":{},"yanked":false,"links":null}
 {"name":"prop","vers":"0.8.0","deps":[],"cksum":"d035d74f4a0108fca218341d3dc4a97432878ab30b908014e7504f3dc41df38c","features":{},"yanked":false,"links":null}
+{"name":"prop","vers":"0.9.0","deps":[],"cksum":"68f5c40ba562d65d3291c6ba06a2f522d220dd8cbdac2fb0c1dfa0eeaf0f28ca","features":{"pure_platonism":[],"default":[]},"yanked":false,"links":null}
