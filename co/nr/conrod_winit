@@ -13,3 +13,4 @@
 {"name":"conrod_winit","vers":"0.74.0","deps":[],"cksum":"f2ef59479f5d5f8de09fa1c14a388bacf430e9713fc83a8a86d95facbc85edb5","features":{},"yanked":false,"links":null}
 {"name":"conrod_winit","vers":"0.75.0","deps":[],"cksum":"22fe806f7253b43dc123f906c124b2edf6ed477c02a87cc0c5f8edfb43036a78","features":{},"yanked":false,"links":null}
 {"name":"conrod_winit","vers":"0.76.0","deps":[],"cksum":"8ba80e6493619a9323b69710e92752a40705712f604096e99e8281a57fd7e781","features":{},"yanked":false,"links":null}
+{"name":"conrod_winit","vers":"0.76.1","deps":[],"cksum":"e4cbc630c9a424524653ba7ba6c9f896213dd8a6ef0940cbd2dabdaf02d6f0d0","features":{},"yanked":false,"links":null}
