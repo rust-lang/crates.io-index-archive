@@ -1,1 +1,2 @@
 {"name":"dims_core","vers":"0.2.1","deps":[],"cksum":"2f448b53910cdf61ab4d6e63a449bb54215cdef000930e6727f17be340c6fada","features":{"f64":[],"no_std":[],"default":["str"],"str":[]},"yanked":false,"links":null}
+{"name":"dims_core","vers":"0.3.0","deps":[],"cksum":"d868622cfd3d71773a221bd6f56967c81907a135f2457584b5997e8c32ff4ec2","features":{"f64":[],"no_std":[],"str":[],"default":["str"]},"yanked":false,"links":null}
