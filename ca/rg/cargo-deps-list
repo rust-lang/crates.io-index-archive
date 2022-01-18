@@ -1,0 +1,1 @@
+{"name":"cargo-deps-list","vers":"1.0.0","deps":[{"name":"itertools","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d31ed91835b7ad813a3201148ac7f559bd04f5e11666310e0e4ece15f61db5b","features":{},"yanked":false,"links":null}
