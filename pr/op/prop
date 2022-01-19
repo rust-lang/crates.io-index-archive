@@ -9,3 +9,4 @@
 {"name":"prop","vers":"0.8.0","deps":[],"cksum":"d035d74f4a0108fca218341d3dc4a97432878ab30b908014e7504f3dc41df38c","features":{},"yanked":false,"links":null}
 {"name":"prop","vers":"0.9.0","deps":[],"cksum":"68f5c40ba562d65d3291c6ba06a2f522d220dd8cbdac2fb0c1dfa0eeaf0f28ca","features":{"pure_platonism":[],"default":[]},"yanked":false,"links":null}
 {"name":"prop","vers":"0.9.1","deps":[],"cksum":"8d3452057bf866d60d64c63d8cd7182946646e51c71bb207131d0ff1456fa837","features":{"default":[],"pure_platonism":[]},"yanked":false,"links":null}
+{"name":"prop","vers":"0.9.2","deps":[],"cksum":"9c90e08c7def03a9e726ee949b6d8b74d0101a00b917dde70ccf6f9ad3ae76d3","features":{"default":[],"pure_platonism":[]},"yanked":false,"links":null}
