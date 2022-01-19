@@ -1,2 +1,3 @@
 {"name":"clock_source","vers":"0.1.0","deps":[],"cksum":"350fc393abe7e616f5acbc7c333664374eeb182c056ebf22ca65a90327f8407b","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"clock_source","vers":"0.1.1","deps":[],"cksum":"2c9ca3b6ee1f4eb47b9324b577883a7c919c2fa8504ac08e7dc51c1c1eab0f32","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"clock_source","vers":"0.2.0","deps":[{"name":"cfg-if","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ab60847a770d8871be22c911a62cad832a36c4c4b13befb88299ce7089da76c","features":{"custom":[],"default":["std"],"std":[]},"yanked":false,"links":null}
