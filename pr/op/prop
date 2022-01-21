@@ -12,3 +12,4 @@
 {"name":"prop","vers":"0.9.2","deps":[],"cksum":"9c90e08c7def03a9e726ee949b6d8b74d0101a00b917dde70ccf6f9ad3ae76d3","features":{"default":[],"pure_platonism":[]},"yanked":false,"links":null}
 {"name":"prop","vers":"0.10.0","deps":[],"cksum":"e8e677ec5065445135d45832d40ee82765c0055e13267aeb85c269495b74fa4b","features":{"default":[],"pure_platonism":[],"pure_seshatism":[]},"yanked":false,"links":null}
 {"name":"prop","vers":"0.11.0","deps":[],"cksum":"e4bf227bb3b964c4ef7f255886efddadbe62f41bc3b8e59e36f86b0b53d6f985","features":{"pure_seshatism":[],"pure_platonism":[],"default":[]},"yanked":false,"links":null}
+{"name":"prop","vers":"0.12.0","deps":[],"cksum":"8f16ecc8923a488ceb69bc790de87d73a4fa137ba2175753eb4e0822cfa23df7","features":{"pure_seshatism":[],"default":[],"pure_platonism":[]},"yanked":false,"links":null}
