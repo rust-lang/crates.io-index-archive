@@ -1,2 +1,3 @@
 {"name":"esrtool","vers":"0.1.0","deps":[],"cksum":"7ebc149ab6218ae748910ca03a218f315cfdfcc7ad54846c490b000ff4b8c410","features":{},"yanked":false,"links":null}
 {"name":"esrtool","vers":"0.1.1","deps":[{"name":"byteorder","req":"^1.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec237656e53588bff0fdbbf6f1ded38e406b6153edba7ef9000307694670785b","features":{},"yanked":false,"links":null}
+{"name":"esrtool","vers":"0.1.2","deps":[{"name":"byteorder","req":"^1.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23a2c80669702b267715940de4043ad474f78c895631b0585b3a0cef952b9a7f","features":{},"yanked":false,"links":null}
