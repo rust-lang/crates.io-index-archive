@@ -1,0 +1,1 @@
+{"name":"cap-std-ext","vers":"0.1.0","deps":[{"name":"rustix","req":"^0.31.0","features":["procfs"],"optional":false,"default_features":true,"target":"cfg(not(windows))","kind":"normal"}],"cksum":"1d30e1f8cc493e68faef3fc4567abfa6160fa770bf7d4ce4a8d1b81465767515","features":{},"yanked":false,"links":null}
