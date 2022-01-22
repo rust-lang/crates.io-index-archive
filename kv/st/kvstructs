@@ -1,0 +1,1 @@
+{"name":"kvstructs","vers":"0.0.1","deps":[{"name":"bytes","req":"^1.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"89ac6745a63154d6d1a51cddcf811f514087f40105d825786b00b08d3ea37ec1","features":{"default":["std"],"std":["bytes/std"]},"yanked":false,"links":null}
