@@ -7,3 +7,4 @@
 {"name":"unbounded","vers":"0.0.6-dev.0","deps":[],"cksum":"3282858f7ccaa7118b91ee2cef352a1c1e4cf252ef982fa3504a52f7f27051ff","features":{},"yanked":true,"links":null}
 {"name":"unbounded","vers":"0.0.6","deps":[],"cksum":"4c384adbf3808d134168e0bc1880d030e0a697d51774977fa709becd59edfbc5","features":{},"yanked":true,"links":null}
 {"name":"unbounded","vers":"0.0.7","deps":[],"cksum":"468fb937935873d6cf9fb8a3b0d3c1698c9cb1ec8ca89ad3127bc459832499aa","features":{},"yanked":false,"links":null}
+{"name":"unbounded","vers":"0.0.8","deps":[{"name":"you-can","req":">=0.0.8-dev","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"277f6222445dab7bc3db033b2b3616bcfaa68b55dc6d519bb26078704118ad18","features":{},"yanked":false,"links":null}
