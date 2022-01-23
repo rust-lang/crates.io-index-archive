@@ -1,1 +1,2 @@
 {"name":"dddk_core","vers":"0.1.0","deps":[],"cksum":"d30134a83951a3673866e10f979974b81abe6e260480a7dfc6ec39b766c5ab0d","features":{},"yanked":false,"links":null}
+{"name":"dddk_core","vers":"0.2.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"dddk_macro","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"abcd1a2186086fd6793d02c18b6e2f9f4c6672613a95a1a606322f2a10f9f02d","features":{},"yanked":false,"links":null}
