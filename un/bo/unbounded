@@ -4,3 +4,4 @@
 {"name":"unbounded","vers":"0.0.3","deps":[],"cksum":"3803542c2349e3a89bad2316f20c1594213950e8274f34a19bdee6ca90fac2b2","features":{},"yanked":true,"links":null}
 {"name":"unbounded","vers":"0.0.4","deps":[],"cksum":"ebd0ca125b49c262d810da13598a3dd70ae024ecaf56542554ee85ffc8cb79f8","features":{},"yanked":true,"links":null}
 {"name":"unbounded","vers":"0.0.5","deps":[],"cksum":"cd6b930c166f5bbd465f1e7e0d01cd26e71bf85e64dcb3a7108bc78ea6457dd9","features":{},"yanked":false,"links":null}
+{"name":"unbounded","vers":"0.0.6-dev.0","deps":[],"cksum":"3282858f7ccaa7118b91ee2cef352a1c1e4cf252ef982fa3504a52f7f27051ff","features":{},"yanked":false,"links":null}
