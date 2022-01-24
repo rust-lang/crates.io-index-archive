@@ -1,0 +1,1 @@
+{"name":"chunked_transfer_encoding","vers":"0.0.0","deps":[{"name":"http","req":"^0.2","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"444127b3d057959d3997b552fb8757f19402924713f8a6e612a7a40f09c48964","features":{},"yanked":false,"links":null}
