@@ -24,3 +24,4 @@
 {"name":"ra_ap_limit","vers":"0.0.90","deps":[],"cksum":"d9bdd64ec27edcd76d48f75197c22f4391180834259534170fa5b2a7b9446b55","features":{"tracking":[],"default":["tracking"]},"yanked":false,"links":null}
 {"name":"ra_ap_limit","vers":"0.0.91","deps":[],"cksum":"622302a9b4dd0fc2563975196466e5396cf50262ecaa4fbb857c13f864c0c11d","features":{"tracking":[],"default":["tracking"]},"yanked":false,"links":null}
 {"name":"ra_ap_limit","vers":"0.0.92","deps":[],"cksum":"d159e3c2b65bfb15774718ffcb29f5a74803f023b408146e8f5ab2c76a192d59","features":{"default":["tracking"],"tracking":[]},"yanked":false,"links":null}
+{"name":"ra_ap_limit","vers":"0.0.93","deps":[],"cksum":"7d85b97be71a8b72bdad900f47ceab5aeb2a74312d0ddd32c147d0f9045ccee6","features":{"default":["tracking"],"tracking":[]},"yanked":false,"links":null}
