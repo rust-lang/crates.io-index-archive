@@ -1,1 +1,2 @@
 {"name":"accounting","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"670a2d63276ece7cc7d2e4cc048ab86daa68058945111f7051215f2fedc3bf67","features":{},"yanked":false,"links":null}
+{"name":"accounting","vers":"0.1.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"933eeb62e42aa7e79eb30a96351e83a21ba82046e2b836daf2ee03582cad4b68","features":{},"yanked":false,"links":null}
