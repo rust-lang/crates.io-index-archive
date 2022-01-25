@@ -1,1 +1,2 @@
 {"name":"cli_select","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.22.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ea0c3934a8e471f00c3f7b2456652f20355b661c6e34b76897b2fddf476ad27","features":{},"yanked":false,"links":null}
+{"name":"cli_select","vers":"0.1.1","deps":[{"name":"crossterm","req":"^0.22.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bfc92f35b8ab06df2cf7ce9944bd8d4de17a2e1acedd5dad067aa7098583ed62","features":{},"yanked":false,"links":null}
