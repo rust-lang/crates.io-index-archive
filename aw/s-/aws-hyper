@@ -9,3 +9,4 @@
 {"name":"aws-hyper","vers":"0.4.1","deps":[],"cksum":"f86cd072f7aa4d51897518a3aa26c7a5e5a75177ac598dadefda3cdde702b734","features":{},"yanked":false,"links":null}
 {"name":"aws-hyper","vers":"0.5.1","deps":[],"cksum":"5cbdf51c509eb2366f43972de2ed6e60b3c2e136097766a70276625b6f1b8a67","features":{},"yanked":true,"links":null}
 {"name":"aws-hyper","vers":"0.5.2","deps":[],"cksum":"ec289cda41907c363cf0edadbe17bf1dd8a9a7dc978212fbb5e626fb8782156f","features":{},"yanked":false,"links":null}
+{"name":"aws-hyper","vers":"0.6.0","deps":[],"cksum":"76dcb564a2654bbe73218d2f07f549649e59e5b97d7be12f4d03ffa89907d346","features":{},"yanked":false,"links":null}
