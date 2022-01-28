@@ -1,1 +1,2 @@
 {"name":"rfid-debug","vers":"0.0.1","deps":[{"name":"bit_field","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98f9e4006d6c9c847f0eb21d2daf879c21f6c9c52b71dff4f6f6061196c26241","features":{},"yanked":true,"links":null}
+{"name":"rfid-debug","vers":"0.0.2","deps":[{"name":"bit_field","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a7d6b0f0b84a9a099e86c39c83fca9a92ed0739afefca93a32e79807f23d0dd","features":{},"yanked":false,"links":null}
