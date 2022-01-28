@@ -1,0 +1,1 @@
+{"name":"mqtt_packet_3_5","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af1ae865f7e334fda6ee051129a146953f2f0fdd3a9b5584045e90a01e8cf832","features":{},"yanked":false,"links":null}
