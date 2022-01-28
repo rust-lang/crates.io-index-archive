@@ -1,1 +1,2 @@
 {"name":"koval","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"188802ab8b932138a6623aaff053bc3e9a69db0a28727724b006699adb489b11","features":{},"yanked":false,"links":null}
+{"name":"koval","vers":"0.2.0","deps":[{"name":"thiserror","req":"^1.0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c112121ed12741aeff92a24b4c998b895febeb18032296c8ec5fd1e061b4c98b","features":{},"yanked":false,"links":null}
