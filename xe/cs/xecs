@@ -11,3 +11,4 @@
 {"name":"xecs","vers":"0.3.2","deps":[],"cksum":"52b2532f3d083a1505586ccc0a38d27ba3dabc2f57115d9083cb2962c11f3bf8","features":{},"yanked":false,"links":null}
 {"name":"xecs","vers":"0.3.3","deps":[],"cksum":"f60938366eb87c0fcfbb2bc678eec75bec857b28488cca58a8f317634865e129","features":{},"yanked":false,"links":null}
 {"name":"xecs","vers":"0.4.0","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1111fb9eeb2c63492a0caa72e23c7c389b99d8586412b931dcfd94e7776e62c9","features":{},"yanked":false,"links":null}
+{"name":"xecs","vers":"0.4.1","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6e2f7cd4257775435a710a74f54bea8a8dabd400552a7b2d88df755c6774d0a","features":{},"yanked":false,"links":null}
