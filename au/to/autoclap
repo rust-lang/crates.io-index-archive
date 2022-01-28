@@ -1,1 +1,2 @@
 {"name":"autoclap","vers":"0.0.1","deps":[],"cksum":"e7d8f854426f408331d2134999eb25534a02bc6993cd82cc4de1411a44c3ddd7","features":{},"yanked":false,"links":null}
+{"name":"autoclap","vers":"0.0.2","deps":[{"name":"clap","req":"^3.0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2eb379452c98c893724b3f2137b4d3e412c5efb6be2636ffbd46bd2f7695e20d","features":{},"yanked":false,"links":null}
