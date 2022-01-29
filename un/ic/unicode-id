@@ -1,0 +1,1 @@
+{"name":"unicode-id","vers":"0.3.0","deps":[{"name":"criterion","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4285d92be83dfbc8950a2601178b89ed36f979ebf51bfcf7b272b17001184e6c","features":{"bench":[],"default":[],"no_std":[]},"yanked":false,"links":null}
