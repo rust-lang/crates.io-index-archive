@@ -14,3 +14,4 @@
 {"name":"prop","vers":"0.11.0","deps":[],"cksum":"e4bf227bb3b964c4ef7f255886efddadbe62f41bc3b8e59e36f86b0b53d6f985","features":{"pure_seshatism":[],"pure_platonism":[],"default":[]},"yanked":false,"links":null}
 {"name":"prop","vers":"0.12.0","deps":[],"cksum":"8f16ecc8923a488ceb69bc790de87d73a4fa137ba2175753eb4e0822cfa23df7","features":{"pure_seshatism":[],"default":[],"pure_platonism":[]},"yanked":false,"links":null}
 {"name":"prop","vers":"0.13.0","deps":[],"cksum":"856b09e2725b285c63826bbe390cac68d9d6ac0b1d2ad307f0125f3550c7d33c","features":{"pure_seshatism":[],"pure_platonism":[],"default":[]},"yanked":false,"links":null}
+{"name":"prop","vers":"0.14.0","deps":[],"cksum":"b7f51714a17eedc73dc2c3493368896fd929df345d05e24568106ad6c78d5102","features":{"pure_seshatism":[],"default":[],"pure_platonism":[]},"yanked":false,"links":null}
