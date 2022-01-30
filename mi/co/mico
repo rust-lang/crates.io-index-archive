@@ -1,1 +1,2 @@
 {"name":"mico","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6afc9cb7bd7da701e8ccf5683a00122e6c6ca31179b6dde3fe6982a0ac0f084e","features":{},"yanked":false,"links":null}
+{"name":"mico","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"97aabf26216d8d4de663c84e12163ef94d574534604e3e4374134faa9452e17a","features":{},"yanked":false,"links":null}
