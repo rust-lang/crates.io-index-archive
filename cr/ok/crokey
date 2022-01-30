@@ -1,0 +1,1 @@
+{"name":"crokey","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.22.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b01f5c53d3b8f27269e925512a12048ad0267b8fce4d86f1543e85570f07d2af","features":{},"yanked":false,"links":null}
