@@ -1,1 +1,2 @@
 {"name":"stati","vers":"0.0.0-beta","deps":[{"name":"termion","req":"^1.5.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db9351d1e46546be95c28721f94624beddd0d4c67578acab9a8eaa748dd43437","features":{},"yanked":false,"links":null}
+{"name":"stati","vers":"0.0.1-beta","deps":[{"name":"termion","req":"^1.5.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2d230a9cee40558e1b6f84876e80120382cf4cb9c9f9ab457ab919882af8c0e","features":{},"yanked":false,"links":null}
