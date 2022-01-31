@@ -1,1 +1,2 @@
 {"name":"async_ach-waker","vers":"0.1.0","deps":[{"name":"ach-array","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9eae3855d92a3c0d72a20e7fc171c88f384665edd3f6da785d26a002dda55e7c","features":{},"yanked":false,"links":null}
+{"name":"async_ach-waker","vers":"0.1.1","deps":[{"name":"ach-array","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c51475d79159a15d3618058f333d2cd065ec29c9b5d562ecba0120d725ee5c8","features":{},"yanked":false,"links":null}
