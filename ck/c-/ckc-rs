@@ -1,1 +1,2 @@
 {"name":"ckc-rs","vers":"0.1.1","deps":[{"name":"log","req":"^0.4.14","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6dafe1fe1065aa3adf710a41c89db59e875f3e8da2565cdfaf6e09e446d5874e","features":{},"yanked":false,"links":null}
+{"name":"ckc-rs","vers":"0.1.2","deps":[{"name":"log","req":"^0.4.14","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a080bf4d30335cfedb8cfb20d09a2890e1576396ca9e40c0c299ca5a7b87a382","features":{},"yanked":false,"links":null}
