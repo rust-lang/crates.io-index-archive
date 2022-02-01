@@ -1,0 +1,1 @@
+{"name":"rsnltk","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.15.1","features":["auto-initialize"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c12d4ff4859c8114b5b9309894bc2f5de70919c2fee98a15473f7abd475c8c95","features":{},"yanked":false,"links":null}
