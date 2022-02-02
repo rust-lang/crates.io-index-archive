@@ -1,0 +1,1 @@
+{"name":"cargo-zaplib","vers":"0.0.1","deps":[{"name":"clap","req":"^3.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98ab0d2a2030cc2c7d82e1da4ff8b5d6bb69af22da16f51b60cfdc64e72387d2","features":{},"yanked":false,"links":null}
