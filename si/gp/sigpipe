@@ -1,0 +1,1 @@
+{"name":"sigpipe","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a2b98fe409dba71f327489cdad0b4f88871b734dfec777d892189a7deccd353","features":{},"yanked":false,"links":null}
