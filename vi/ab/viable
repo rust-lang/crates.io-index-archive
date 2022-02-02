@@ -1,1 +1,2 @@
 {"name":"viable","vers":"0.1.0","deps":[],"cksum":"6555f5fdcea13804c60770bfe7cf7f5c9ae6882534e0e0dadacf46b49fca07a6","features":{},"yanked":false,"links":null}
+{"name":"viable","vers":"0.1.1","deps":[{"name":"viable-impl","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"040b9c57ca9510b007fee1b8ee8426d3318432821b5daef1ef2c585327719c5c","features":{},"yanked":false,"links":null}
