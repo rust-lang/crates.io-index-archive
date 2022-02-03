@@ -1,0 +1,1 @@
+{"name":"rrm_xml","vers":"0.0.1-alpha.0","deps":[{"name":"xml-rs","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"677fa1ac3f63485dcd4a2bc70dd4e4cefbbf20e93d003d609f882017f68b999a","features":{},"yanked":false,"links":null}
