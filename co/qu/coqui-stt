@@ -1,0 +1,1 @@
+{"name":"coqui-stt","vers":"0.1.0","deps":[{"name":"coqui-stt-sys","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0308d76d4de61bd88706de9aec87a04d5ca9d7ce8d87554b361f46afccab9983","features":{"raw-bindings":[]},"yanked":false,"links":null}
