@@ -1,1 +1,2 @@
 {"name":"deser-debug","vers":"0.2.0","deps":[{"name":"deser","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3968e5ee6b72e6536d499bc717d9415f82d95a42c1e1a155a8784443f783c0bd","features":{},"yanked":false,"links":null}
+{"name":"deser-debug","vers":"0.3.0","deps":[{"name":"deser","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"325e29b4ae72a8a764ce8c4f543f35defbffde7dc984472677e1fc00893facb0","features":{},"yanked":false,"links":null}
