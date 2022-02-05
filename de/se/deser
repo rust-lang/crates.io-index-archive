@@ -2,3 +2,4 @@
 {"name":"deser","vers":"0.1.0","deps":[],"cksum":"adaed54b9bfb68f13dcc19d189ccbd8f2c56125b9f78e7112ef5991f6aaf8712","features":{},"yanked":false,"links":null}
 {"name":"deser","vers":"0.2.0","deps":[],"cksum":"1d0ea9c0933837ebf7e101aa3e607cb2a6c03442a9aa8ad3f7934587b75572ee","features":{},"yanked":false,"links":null}
 {"name":"deser","vers":"0.3.0","deps":[{"name":"deser-derive","req":"^0.3.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f269ff0bd75b5727494d05824665d152d97db0e785c32a838e85d35509aeb60","features":{"derive":["deser-derive"]},"yanked":false,"links":null}
+{"name":"deser","vers":"0.3.1","deps":[{"name":"deser-derive","req":"^0.3.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"558e737e52b1088b997c058f7eb192f4f558fb499f0e6f7e9aa59bbb72cb0f8a","features":{"derive":["deser-derive"]},"yanked":false,"links":null}
