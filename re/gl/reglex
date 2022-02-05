@@ -1,1 +1,2 @@
 {"name":"reglex","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f47aea69d95af37ab9ee528abde29211b475e833ba68db99edd6d695e79c0730","features":{},"yanked":false,"links":null}
+{"name":"reglex","vers":"1.0.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d26d0115744877f55967ea990f6b3a78312c3fe07144c5191dc6e50c392f6ec","features":{},"yanked":false,"links":null}
