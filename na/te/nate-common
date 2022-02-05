@@ -5,3 +5,4 @@
 {"name":"nate-common","vers":"0.1.6","deps":[],"cksum":"ae3dc7a500eb3038611c2c7f8df9cd61ff7e7ce664e8b50933f84480f1c94c85","features":{},"yanked":true,"links":null}
 {"name":"nate-common","vers":"0.1.7","deps":[],"cksum":"0e301e62bf1beffee82227fe1c9f975f0f1f768fd275d9cab80e299a8d23e7e4","features":{},"yanked":false,"links":null}
 {"name":"nate-common","vers":"0.1.8","deps":[],"cksum":"6716e9ce5b71972c840cfae87f2c3a4e8fd0f79ce805e34b81c04a4e498b1bb0","features":{"default":[],"alloc":[],"std":["alloc"]},"yanked":false,"links":null}
+{"name":"nate-common","vers":"0.1.9","deps":[{"name":"document-features","req":"=0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8fd933dd194b1574b399c9f65b5b44f33ec872df202d0c40bae82476914b403","features":{"alloc":[],"default":["std","alloc"],"docsrs":["document-features"],"std":["alloc"]},"yanked":false,"links":null}
