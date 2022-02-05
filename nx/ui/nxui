@@ -1,0 +1,1 @@
+{"name":"nxui","vers":"0.0.0","deps":[{"name":"winapi","req":"^0.3","features":["winuser"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"bf612d5a77de76f1a7c7b4494f1b59259656fbe263adac839e40a52322e5f9ac","features":{},"yanked":false,"links":null}
