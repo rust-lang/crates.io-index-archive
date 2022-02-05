@@ -1,1 +1,2 @@
 {"name":"vecs","vers":"0.1.0","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9027e36d301f3ca3b29c6c200c312a4dd06bc921bfba0983d958ad8c03d862b5","features":{},"yanked":false,"links":null}
+{"name":"vecs","vers":"0.1.1","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26565c4f0177784e32c24d8ac83e54fac929ca61a4ac59a1e4ff8f9a5d4c4730","features":{},"yanked":false,"links":null}
