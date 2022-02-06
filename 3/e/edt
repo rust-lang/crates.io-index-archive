@@ -1,1 +1,2 @@
 {"name":"edt","vers":"0.1.0","deps":[{"name":"image","req":"^0.24.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b3a57e10431a5a7982c1a91daccea2a8b21a8a4f3dd856f1b28b773bfabf1e86","features":{},"yanked":false,"links":null}
+{"name":"edt","vers":"0.1.1","deps":[{"name":"image","req":"^0.24.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"927ae376c65601711606a0bdc62920d653dacb4e8f1d0f531d36c944c9d7c3a9","features":{},"yanked":false,"links":null}
