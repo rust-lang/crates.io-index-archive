@@ -1,0 +1,1 @@
+{"name":"grove-matrix-led-my9221-rs","vers":"0.0.1","deps":[{"name":"embedded-hal","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0bed99da4c983add5bbf9e8aba65d3df5e0141f4b66d109a190efaeaf32e1ef","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
