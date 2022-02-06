@@ -23,3 +23,4 @@
 {"name":"futures-sink","vers":"0.3.18","deps":[],"cksum":"996c6442437b62d21a32cd9906f9c41e7dc1e19a9579843fad948696769305af","features":{"std":["alloc"],"default":["std"],"alloc":[]},"yanked":true,"links":null}
 {"name":"futures-sink","vers":"0.3.19","deps":[],"cksum":"e3055baccb68d74ff6480350f8d6eb8fcfa3aa11bdc1a1ae3afdd0514617d508","features":{"default":["std"],"std":["alloc"],"alloc":[]},"yanked":false,"links":null}
 {"name":"futures-sink","vers":"0.3.20","deps":[],"cksum":"8f8ca6a113a61188b08f27de9cf75185738b6d29764d4d5be3f93709a873e787","features":{"std":["alloc"],"alloc":[],"default":["std"]},"yanked":true,"links":null}
+{"name":"futures-sink","vers":"0.3.21","deps":[],"cksum":"21163e139fa306126e6eedaf49ecdb4588f939600f0b1e770f4205ee4b7fa868","features":{"alloc":[],"std":["alloc"],"default":["std"]},"yanked":false,"links":null}
