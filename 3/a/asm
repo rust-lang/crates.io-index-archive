@@ -1,0 +1,1 @@
+{"name":"asm","vers":"0.1.0","deps":[{"name":"bitflags","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"adfb0d02d92b17a35cd977736b37d0d6a1c035792cad814f2a73bf9ccec79661","features":{"encode":[],"decode":[],"6502":[]},"yanked":false,"links":null}
