@@ -5,6 +5,6 @@
 {"name":"assertables","vers":"3.2.2","deps":[],"cksum":"d84b91d63c67e6c0b1a74728dad0057c4a6124b74e671ff91b7fe9f8bbd671aa","features":{},"yanked":false,"links":null}
 {"name":"assertables","vers":"4.0.0","deps":[],"cksum":"256a209310a8da28bfaa3563132627cf9dbd9efbd274a57a1947024517e2ce3f","features":{},"yanked":true,"links":null}
 {"name":"assertables","vers":"4.0.1","deps":[],"cksum":"80de1403756ff142adbec17af633141d2f3b71cf140918e3806c19dd134d82da","features":{},"yanked":true,"links":null}
-{"name":"assertables","vers":"4.0.2","deps":[],"cksum":"f4a271a22964f9708ce60c2c758d6562b9059c07000f0bc64d6ad1d3422c6a4a","features":{},"yanked":false,"links":null}
+{"name":"assertables","vers":"4.0.2","deps":[],"cksum":"f4a271a22964f9708ce60c2c758d6562b9059c07000f0bc64d6ad1d3422c6a4a","features":{},"yanked":true,"links":null}
 {"name":"assertables","vers":"4.0.3","deps":[],"cksum":"942069f21bca6847c6a5c5ad23f4373e998ada5050fabc180eb8bd9ad95ac911","features":{},"yanked":true,"links":null}
 {"name":"assertables","vers":"4.0.4","deps":[],"cksum":"bf6ad2c382c43da8608d717ac9841dd1e8bb80f25795f00b9951d44651df42b9","features":{},"yanked":false,"links":null}
