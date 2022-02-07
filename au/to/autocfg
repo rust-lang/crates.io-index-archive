@@ -10,3 +10,4 @@
 {"name":"autocfg","vers":"1.0.0","deps":[],"cksum":"f8aac770f1885fd7e387acedd76065302551364496e46b3dd00860b2f8359b9d","features":{},"yanked":false,"links":null}
 {"name":"autocfg","vers":"1.0.1","deps":[],"cksum":"cdb031dd78e28731d87d56cc8ffef4a8f36ca26c38fe2de700543e627f8a464a","features":{},"yanked":false,"links":null}
 {"name":"autocfg","vers":"1.1.0","deps":[],"cksum":"d468802bab17cbc0cc575e9b053f41e72aa36bfa6b7f55e3529ffa43161b97fa","features":{},"yanked":false,"links":null}
+{"name":"autocfg","vers":"0.1.8","deps":[{"name":"autocfg","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0dde43e75fd43e8a1bf86103336bc699aa8d17ad1be60c76c0bdfd4828e19b78","features":{},"yanked":false,"links":null}
