@@ -1,0 +1,1 @@
+{"name":"wasm-peers-protocol","vers":"0.3.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"094e55f2380fa3ad9da8785b231c7783feed1941cb316b1d6c69ac69bbb2edb1","features":{},"yanked":false,"links":null}
