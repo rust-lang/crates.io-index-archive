@@ -1,0 +1,1 @@
+{"name":"mailbox_processor","vers":"0.1.0","deps":[{"name":"async-std","req":"^1.10.0","features":["attributes"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52980a63021e50bcb365c4a814bdd403ce69ab8282657bbd6570faa0b0618b7f","features":{},"yanked":false,"links":null}
