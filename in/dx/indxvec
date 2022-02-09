@@ -30,3 +30,4 @@
 {"name":"indxvec","vers":"1.0.6","deps":[],"cksum":"8ba1ef7000b4b5bed04f0cd2cce58714e327708ed51232ffa1ca690067f6dffc","features":{},"yanked":false,"links":null}
 {"name":"indxvec","vers":"1.0.7","deps":[],"cksum":"e58f96a96a0edc2a8a95927d47fb3bff970118e2394d7c9417c53c8452b097cf","features":{},"yanked":false,"links":null}
 {"name":"indxvec","vers":"1.0.8","deps":[{"name":"ran","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"97d251230436962f4660230189b5d8de6efed0e005dd728fc1309cd1738a5d15","features":{},"yanked":false,"links":null}
+{"name":"indxvec","vers":"1.0.9","deps":[{"name":"ran","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a34941f67bcbacb2909c5a5070c6c693b3a5d0660a14ff012fbdddcb631526d3","features":{},"yanked":false,"links":null}
