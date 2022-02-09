@@ -1,0 +1,1 @@
+{"name":"wolfram-library-link-sys","vers":"0.1.0","deps":[{"name":"wolfram-app-discovery","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7e208aad491a6a523791def13a366f83e10a8b4a700b1dc230dbbfa2184f9dab","features":{},"yanked":false,"links":null}
