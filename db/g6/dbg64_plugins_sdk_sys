@@ -1,0 +1,1 @@
+{"name":"dbg64_plugins_sdk_sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.59.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"930617dca098ac7ba0eba48c411298455188af3507bc806c3db150eb7bea197c","features":{},"yanked":false,"links":null}
