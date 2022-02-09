@@ -1,0 +1,1 @@
+{"name":"async_io_utilities","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71bcc35d03c830d5e65404368c74b389224613aba3d0723c148a5c686f99601e","features":{},"yanked":false,"links":null}
