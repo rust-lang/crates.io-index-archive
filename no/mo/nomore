@@ -1,1 +1,2 @@
 {"name":"nomore","vers":"0.1.0","deps":[{"name":"fastrand","req":"^1.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c6574605d8acd35118dd2e5cc4f08748316b30f11b840d94b4fbaa27d2622e3","features":{},"yanked":false,"links":null}
+{"name":"nomore","vers":"0.1.2","deps":[{"name":"fastrand","req":"^1.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb9d24df1a19f3991a41d72f495c7a7b9ede6d338f4bc323743ab4b64609fdeb","features":{},"yanked":false,"links":null}
