@@ -1,0 +1,1 @@
+{"name":"rauschen","vers":"0.1.0","deps":[{"name":"rodio","req":"^0.15.0","features":["symphonia-mp3"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33908b97a42724eddaa4af82426486cb53ef24429e53024529280295cbc072d6","features":{},"yanked":false,"links":null}
