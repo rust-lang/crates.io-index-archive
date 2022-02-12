@@ -1,0 +1,1 @@
+{"name":"streamduck-cli","vers":"0.0.1","deps":[{"name":"streamduck-client","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a7fb381a93c1a7a71eb64337c4f2cc250628f2eceb15380a731d8431b9f1a16","features":{},"yanked":false,"links":null}
