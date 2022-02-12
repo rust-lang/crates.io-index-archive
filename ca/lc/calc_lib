@@ -16,3 +16,4 @@
 {"name":"calc_lib","vers":"1.6.0","deps":[],"cksum":"7aaaf1d2f4d40fc1aef57aada3b31925fc2522916b2283012fadaf64d4350b93","features":{},"yanked":true,"links":null}
 {"name":"calc_lib","vers":"1.7.0","deps":[],"cksum":"ab96ac99b804c62a948b7df268796657b00dd9ec9ed49f663ee66e029b5f5c11","features":{},"yanked":false,"links":null}
 {"name":"calc_lib","vers":"2.0.0","deps":[],"cksum":"5fbad0d95634cb16e7dfa4dd1abfec72170b1b1488424a4d64f8ba37f1f8fc8e","features":{},"yanked":false,"links":null}
+{"name":"calc_lib","vers":"2.1.0","deps":[],"cksum":"744ed669e229346fa4eaa3d1a19fb0a6d28ee46bacf21a56a9735ea841b43dad","features":{},"yanked":false,"links":null}
