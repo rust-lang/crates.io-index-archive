@@ -1,0 +1,1 @@
+{"name":"metrics_server","vers":"0.1.0","deps":[{"name":"tiny_http","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0adaaab650879406ab7b77fcfda00ea4db580e30beb1dbe186be0a43c53c126","features":{},"yanked":false,"links":null}
