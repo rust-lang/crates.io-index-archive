@@ -8,3 +8,4 @@
 {"name":"selectme-macros","vers":"0.3.0","deps":[],"cksum":"3e4097fd74793d0c7dd5647431e3b9837ee8a11be00fa573c0458a16b778d29c","features":{"tokio-entry":[],"default":[]},"yanked":false,"links":null}
 {"name":"selectme-macros","vers":"0.4.0","deps":[],"cksum":"18ce49f229906205f9620b510391fd292c3d3e35ee9727705c833925356855fa","features":{"default":[],"tokio-entry":[]},"yanked":false,"links":null}
 {"name":"selectme-macros","vers":"0.4.1","deps":[],"cksum":"ee4175a69012d395f92867ffc8119206d6b5f2ce12e10ef8c857028dc0d98f86","features":{"default":[],"tokio-entry":[]},"yanked":false,"links":null}
+{"name":"selectme-macros","vers":"0.4.2","deps":[],"cksum":"9a63f5ac27ea3848cea57ade8b6711c51b670af521c33d6064671f822697d8b9","features":{"default":[],"tokio-entry":[]},"yanked":false,"links":null}
