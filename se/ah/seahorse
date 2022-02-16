@@ -29,5 +29,5 @@
 {"name":"seahorse","vers":"1.1.0","deps":[],"cksum":"56a7bece5e82e31cf291b081d270b950650a2b4db2ad8b36cd567c6eff7c0a85","features":{},"yanked":false,"links":null}
 {"name":"seahorse","vers":"1.1.1","deps":[],"cksum":"ce7d9440e2865cce0db733bdc530591b37d37a2d32badace34a1fc9ba5686d58","features":{},"yanked":false,"links":null}
 {"name":"seahorse","vers":"1.1.2","deps":[],"cksum":"8bee1fe454786f1d236a07cb3d3adcbaca96e9ba42d23bc58de059937bb059bd","features":{},"yanked":false,"links":null}
-{"name":"seahorse","vers":"1.2.0","deps":[],"cksum":"24202031a8f797ea7cd018e07fe6fc8b9bb591fb5428ee4cf6c6484ec5ac43d6","features":{},"yanked":false,"links":null}
+{"name":"seahorse","vers":"1.2.0","deps":[],"cksum":"24202031a8f797ea7cd018e07fe6fc8b9bb591fb5428ee4cf6c6484ec5ac43d6","features":{},"yanked":true,"links":null}
 {"name":"seahorse","vers":"2.0.0","deps":[],"cksum":"8dfc08bbde3ce4c9d10e69804e9599d5c2c5c60eb65b78bbffdcf46687654dca","features":{},"yanked":false,"links":null}
