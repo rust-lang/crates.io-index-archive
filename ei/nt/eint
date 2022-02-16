@@ -1,1 +1,2 @@
 {"name":"eint","vers":"0.1.0","deps":[],"cksum":"3555170d68a1a13f06c1737b4923150a76a96c81675b7a50634b73b09b4de4ea","features":{},"yanked":false,"links":null}
+{"name":"eint","vers":"0.1.1","deps":[{"name":"proptest","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8b349f3354911948d1446f16847fcba0bf595d09a4d1a481c1a5893425be3a94","features":{},"yanked":false,"links":null}
