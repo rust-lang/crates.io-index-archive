@@ -1,1 +1,1 @@
-{"name":"merge-rs","vers":"0.1.0","deps":[{"name":"derivative","req":"^2.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aebf57299f8fae0e3fe2848c04c371b96b5d99c83dfc140ebfad8437013c82b1","features":{},"yanked":false,"links":null}
+{"name":"merge-rs","vers":"0.1.0","deps":[{"name":"derivative","req":"^2.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aebf57299f8fae0e3fe2848c04c371b96b5d99c83dfc140ebfad8437013c82b1","features":{},"yanked":true,"links":null}
