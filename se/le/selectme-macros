@@ -12,3 +12,4 @@
 {"name":"selectme-macros","vers":"0.4.3","deps":[],"cksum":"abf9e57f6ca29a8c05a68cd1ead2098354e1ece36e6087937d1ec504e82d1769","features":{"default":[],"tokio-diagnostics":[],"tokio-entry":[]},"yanked":false,"links":null}
 {"name":"selectme-macros","vers":"0.4.4","deps":[],"cksum":"7894061e1213402fa71f5586f2ee56cecf60d6b970d24c26ac798fcc3ea1032b","features":{"default":[],"tokio-diagnostics":[],"tokio-entry":[]},"yanked":false,"links":null}
 {"name":"selectme-macros","vers":"0.5.0","deps":[],"cksum":"0d9cf70ecbb1be0ba8ee7ae618040ed1104272f8caabf238d39a3c689724755d","features":{"default":[],"tokio-diagnostics":[],"tokio-entry":[]},"yanked":false,"links":null}
+{"name":"selectme-macros","vers":"0.6.0","deps":[],"cksum":"1c8530193e15d74662e1451f70a30622d4f3dfd7dee47a8dcb55b4c0c7debe05","features":{"default":[],"tokio-diagnostics":[],"tokio-entry":[]},"yanked":false,"links":null}
