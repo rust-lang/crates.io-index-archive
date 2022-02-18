@@ -1,0 +1,1 @@
+{"name":"tailwind-ast","vers":"0.1.0","deps":[{"name":"nom","req":"^7.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a716c31a230cd7ca1dcb424e0b5ad927f4a939862c5c34101975a9fd1e33708","features":{"default":[]},"yanked":false,"links":null}
