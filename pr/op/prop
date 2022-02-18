@@ -19,3 +19,4 @@
 {"name":"prop","vers":"0.16.0","deps":[],"cksum":"74d23b17f7c140e52aa8a1136ffda9c4d2f9f700919cf994acb24d3bd3ad3c9f","features":{"pure_platonism":[],"default":[]},"yanked":false,"links":null}
 {"name":"prop","vers":"0.17.0","deps":[],"cksum":"aadc3f9f8b17f63459ef525a979fb0566f70351501bfefd466ad166a63a13452","features":{"default":[],"pure_platonism":[]},"yanked":false,"links":null}
 {"name":"prop","vers":"0.18.0","deps":[],"cksum":"d335c46ecef21d1686c169cee257a76c6156af73da8517c01c846e8a89a510ee","features":{"pure_platonism":[],"default":[]},"yanked":false,"links":null}
+{"name":"prop","vers":"0.19.0","deps":[],"cksum":"63e3cd56f73c7bdddd63af66dd78c23979fea045ff3a0329cdf9b875d01f47d6","features":{"default":[],"pure_platonism":[]},"yanked":false,"links":null}
