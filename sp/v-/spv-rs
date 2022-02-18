@@ -1,1 +1,2 @@
 {"name":"spv-rs","vers":"0.3.9","deps":[{"name":"glam","req":"^0.20.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6352d00a7d7beb195d8cedd1bd1cec09f4034d2acd1aaa2251b3cb7a1e4508e7","features":{},"yanked":false,"links":null}
+{"name":"spv-rs","vers":"0.3.10","deps":[{"name":"glam","req":"^0.20.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ca90e849da4c05f6de951c1cf073b196005f38d88a58108a6a793a8120ba508","features":{},"yanked":false,"links":null}
