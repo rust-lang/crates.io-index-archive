@@ -1,1 +1,1 @@
-{"name":"trollus_guessing_game","vers":"0.1.2","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f5e968cf5c1efa1c475eeb600c628a5fe4780dfcc26b2110c2d1023eb83cffc","features":{},"yanked":true,"links":null}
+{"name":"trollus_guessing_game","vers":"0.1.2","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f5e968cf5c1efa1c475eeb600c628a5fe4780dfcc26b2110c2d1023eb83cffc","features":{},"yanked":false,"links":null}
