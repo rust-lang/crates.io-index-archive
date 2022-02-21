@@ -1,0 +1,1 @@
+{"name":"cppvtbl","vers":"0.1.0","deps":[{"name":"cppvtbl-macros","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffa0df0a9699af29b0a7e365bbd443508ffa47b556910168048adb91dbeab97b","features":{"macros":["cppvtbl-macros"],"default":["macros"]},"yanked":false,"links":null}
