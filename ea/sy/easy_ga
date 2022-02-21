@@ -1,1 +1,2 @@
 {"name":"easy_ga","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00f8a641a906648c7dbb67b8e3f5061739b9ed77c65f6bd5a8a1771e6d6d8d2f","features":{},"yanked":false,"links":null}
+{"name":"easy_ga","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78822632b186631cfb68816b5d6df4fab020ae3a06c31372406ab7392c55ec57","features":{},"yanked":false,"links":null}
