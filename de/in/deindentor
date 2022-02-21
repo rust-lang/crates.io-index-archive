@@ -1,0 +1,1 @@
+{"name":"deindentor","vers":"1.0.0","deps":[{"name":"clap","req":"^3.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9b785452a9a339f2cbfb58b2aaf80268c6fe53fcc400c63eb281f886d8102fc","features":{},"yanked":false,"links":null}
