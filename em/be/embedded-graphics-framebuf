@@ -1,0 +1,1 @@
+{"name":"embedded-graphics-framebuf","vers":"0.0.1","deps":[{"name":"embedded-graphics","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8035d9e8972a84323603a85ac1bad5547fc0b4af4325403d8c37a78922dadf56","features":{},"yanked":false,"links":null}
