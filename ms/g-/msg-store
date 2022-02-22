@@ -12,3 +12,4 @@
 {"name":"msg-store","vers":"0.7.0","deps":[],"cksum":"5b25ce71f58d078d54a09f7cd461056208f8afa6b4943a0009a024fb8604d64d","features":{},"yanked":false,"links":null}
 {"name":"msg-store","vers":"0.7.1","deps":[],"cksum":"dba51a94bf0ac9b6b4db87ef450a5c2d196482a0131f3ed103a5b63ef668e8d2","features":{},"yanked":false,"links":null}
 {"name":"msg-store","vers":"0.8.0","deps":[],"cksum":"3932ea6750e5692ebff97152960fc7f970d57798673e7ea896c47e01cb6a941b","features":{},"yanked":false,"links":null}
+{"name":"msg-store","vers":"0.9.0","deps":[{"name":"msg_store_uuid","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0587479d40f44daa003cea24ccf4c553b3c9d77c1bb1cd9c42dcc690835b16c2","features":{},"yanked":false,"links":null}
