@@ -4,3 +4,4 @@
 {"name":"input-macro","vers":"0.1.3","deps":[],"cksum":"91688cd8be0187224c7db0b67a1aded50a4113ea2e1e10c804facf0df2583783","features":{"default":["emoji","alias"],"alias":[],"emoji":[]},"yanked":false,"links":null}
 {"name":"input-macro","vers":"0.1.4","deps":[],"cksum":"aa6069a5e172d85052729549eb4fd9422aae1bada864dc93c0e44834565bb83f","features":{"default":["emoji","alias"],"emoji":[],"alias":[]},"yanked":false,"links":null}
 {"name":"input-macro","vers":"0.1.5","deps":[],"cksum":"136810762e5546dca8fa3f597d5f1d3185ab7929b64587da0bd30788f02f3503","features":{"default":["emoji","alias"],"alias":[],"emoji":[]},"yanked":false,"links":null}
+{"name":"input-macro","vers":"0.2.0","deps":[],"cksum":"5041633149d292995d99bfa401ee51b4c96923a588c67e8948f5fa1a6dae76c1","features":{},"yanked":false,"links":null}
