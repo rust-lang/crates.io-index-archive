@@ -1,1 +1,2 @@
 {"name":"hmd","vers":"0.2.0","deps":[{"name":"syntect","req":"^4.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ec614e2622f3c4aa369d1cd7745fd4d8d4b24e9ede32161365e21727398c7f7","features":{},"yanked":false,"links":null}
+{"name":"hmd","vers":"0.2.1","deps":[{"name":"syntect","req":"^4.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f82a83ab2d3110bc8d0ec4aa8e888b879d1e0e4ea60a05c75d00b5af022bbb1","features":{},"yanked":false,"links":null}
