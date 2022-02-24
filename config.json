@@ -1,4 +1,4 @@
 {
-  "dl": "https://crates.io/api/v1/crates",
+  "dl": "https://static.crates.io/crates/{crate}/{crate}-{version}.crate",
   "api": "https://crates.io"
 }
