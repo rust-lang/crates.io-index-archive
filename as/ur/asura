@@ -1,1 +1,2 @@
 {"name":"asura","vers":"0.1.0","deps":[{"name":"oorandom","req":"^11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53c38b420e27e3fda50603884fc540fe99278c83e5fffd0a59a4dbda1fa61f15","features":{},"yanked":false,"links":null}
+{"name":"asura","vers":"0.2.0","deps":[{"name":"oorandom","req":"^11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2a43a8370057ff1cb9dc0e85b413487647ed9fc80efda79b31bda2bdff26e04","features":{},"yanked":false,"links":null}
