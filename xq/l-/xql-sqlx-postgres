@@ -1,0 +1,1 @@
+{"name":"xql-sqlx-postgres","vers":"0.1.0","deps":[{"name":"sqlx","req":"^0.5","features":["runtime-tokio-rustls","postgres"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"83d022b7f53902b9d7bf3467999efd77ca6666b904f29f197417c94eebf17311","features":{},"yanked":false,"links":null}
