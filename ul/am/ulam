@@ -1,3 +1,4 @@
 {"name":"ulam","vers":"0.1.0","deps":[],"cksum":"591b304d1a1703eb1119414323c8fff07be094761e02f49c8fee83222e870f30","features":{},"yanked":false,"links":null}
 {"name":"ulam","vers":"0.1.1","deps":[],"cksum":"79d6be21104bbcf16274eae737bd11766fac1576d51e950cbe1356fa63d6c05b","features":{},"yanked":false,"links":null}
 {"name":"ulam","vers":"0.2.0","deps":[],"cksum":"ea4feefc8ac2fb5de62ff0f719c936794d4228d4d3cb55e658c79ed80103b124","features":{},"yanked":false,"links":null}
+{"name":"ulam","vers":"0.2.1","deps":[{"name":"image","req":"^0.24.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"primal","req":"^0.3.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"124a100cd57eaf499de62e937781db920e4839f27984eef1fb073da111d517db","features":{"img":["image","primal"],"default":["img"]},"yanked":false,"links":null}
