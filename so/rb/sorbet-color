@@ -1,1 +1,2 @@
 {"name":"sorbet-color","vers":"0.0.1","deps":[{"name":"once_cell","req":"^1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f1ffb5009bad01472d56478d9cf4dc4faa1dc14e8ed2b1fed27a2bd84415a944","features":{},"yanked":false,"links":null}
+{"name":"sorbet-color","vers":"0.0.2","deps":[{"name":"once_cell","req":"^1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"71bca1527f639b23b4dc494c56f6d37ca502397e3ba35f93a900d125308c157e","features":{},"yanked":false,"links":null}
