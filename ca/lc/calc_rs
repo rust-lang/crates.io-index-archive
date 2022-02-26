@@ -1,1 +1,1 @@
-{"name":"calc_rs","vers":"0.1.1","deps":[{"name":"libloading","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b52ee843d5c61e4ade0cc3fe3406e41b228f77b7a94cf9a03248ae2cfce2148","features":{},"yanked":false,"links":null}
+{"name":"calc_rs","vers":"0.1.1","deps":[{"name":"libloading","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b52ee843d5c61e4ade0cc3fe3406e41b228f77b7a94cf9a03248ae2cfce2148","features":{},"yanked":true,"links":null}
