@@ -1,0 +1,1 @@
+{"name":"get-size","vers":"0.1.0","deps":[{"name":"get-size-derive","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24fdf6042146da70c6d78a6545fe7f19dd54a716a33b39bf96b2be5e61f1e54b","features":{"derive":["get-size-derive"],"default":[]},"yanked":false,"links":null}
