@@ -6,3 +6,4 @@
 {"name":"ioctl-sys","vers":"0.6.0","deps":[],"cksum":"1c429fffa658f288669529fc26565f728489a2e39bc7b24a428aaaf51355182e","features":{},"yanked":false,"links":null}
 {"name":"ioctl-sys","vers":"0.7.0","deps":[],"cksum":"eb7ee4e38b724c0dbad51eb3805a496a6919866c4c8d0b2e0bc7e73be7cd0260","features":{},"yanked":false,"links":null}
 {"name":"ioctl-sys","vers":"0.7.1","deps":[],"cksum":"7f9d0b6b23885487578d10590edc36fd95426257c7017973b20633e34df23b08","features":{},"yanked":false,"links":null}
+{"name":"ioctl-sys","vers":"0.8.0","deps":[],"cksum":"8bd11f3a29434026f5ff98c730b668ba74b1033637b8817940b54d040696133c","features":{},"yanked":false,"links":null}
