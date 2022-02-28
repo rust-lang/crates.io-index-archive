@@ -1,3 +1,4 @@
 {"name":"radians","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"164fdd3255e24549ac9b3297a33b2cd572c51b3909ab63cd86724d09830f8c8a","features":{},"yanked":false,"links":null}
 {"name":"radians","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b4506fce6d6ee3a89a56e15b215c6d3fbc49e877828515690738eef1497c95b0","features":{},"yanked":false,"links":null}
 {"name":"radians","vers":"0.2.0","deps":[],"cksum":"5444711d6b6d789518baa1094a2870d45fa3a8491232ddb248d2e954dd33d616","features":{},"yanked":false,"links":null}
+{"name":"radians","vers":"0.2.1","deps":[],"cksum":"bfe47edc6f502a60b93b9f4a8c4dfc174f10f458fcabe50bf321e3f8aad3bcef","features":{},"yanked":false,"links":null}
