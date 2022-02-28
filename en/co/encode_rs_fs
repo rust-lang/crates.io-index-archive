@@ -1,0 +1,1 @@
+{"name":"encode_rs_fs","vers":"0.1.0","deps":[{"name":"encoding_rs","req":"^0.8.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bfbd10d8461d2dd13617e387c387590b42f992ced358b578dd797ad21b366468","features":{},"yanked":false,"links":null}
