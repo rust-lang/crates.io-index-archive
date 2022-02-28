@@ -1,1 +1,2 @@
 {"name":"ordered-vecmap","vers":"0.0.1","deps":[],"cksum":"1f4b1ca858d4c3aec4db7c5eacb05ac8c476165da71907cb1c07a552066074c5","features":{},"yanked":false,"links":null}
+{"name":"ordered-vecmap","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c1ce890752aca4b59a5a88beaf09852023b108acede72b3394739b3992b886ef","features":{},"yanked":false,"links":null}
