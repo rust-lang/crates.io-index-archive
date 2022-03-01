@@ -4,3 +4,4 @@
 {"name":"emojis","vers":"0.1.2","deps":[{"name":"strsim","req":"^0.10.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbf85aeacc72b7b5d9e78b39399562a2846566936e41a6f59f9d96b3fa7c4f96","features":{"search":["std","strsim"],"std":[],"default":["search"]},"yanked":false,"links":null}
 {"name":"emojis","vers":"0.2.0","deps":[],"cksum":"d96c31408ebe9eb376592303fb165986d89e460a80aa6449373a012a04571b34","features":{},"yanked":false,"links":null}
 {"name":"emojis","vers":"0.2.1","deps":[],"cksum":"1be04652d8483e983771f6da2ef066988af461e1b16781543000b76999a02faa","features":{},"yanked":false,"links":null}
+{"name":"emojis","vers":"0.3.0","deps":[],"cksum":"2ac4fbb37eb4475f3d4dc48750c6864a330a6fa413bbe48fb5359db1fa71672c","features":{},"yanked":false,"links":null}
