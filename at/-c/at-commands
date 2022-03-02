@@ -5,3 +5,4 @@
 {"name":"at-commands","vers":"0.4.0","deps":[],"cksum":"9c0ee238fca0815148fa0b8972f8fce71e4495562f1651f39eb7a8fe0d390a74","features":{"parser":[]},"yanked":false,"links":null}
 {"name":"at-commands","vers":"0.4.1","deps":[],"cksum":"ede95b91a34a87863fd0ba7090e21e702d5966bb69ff1bdd6709242cded2c7c7","features":{},"yanked":true,"links":null}
 {"name":"at-commands","vers":"0.5.0","deps":[],"cksum":"c9134039de7200fc8ab728efd1b8c570befd771dbf4758d02f4a4a9d034cfda5","features":{},"yanked":false,"links":null}
+{"name":"at-commands","vers":"0.5.1","deps":[],"cksum":"11da94f3b4eb25448f8bb16d08bbc2cbd045d01c147c282bb6cea51bad5b6775","features":{},"yanked":false,"links":null}
