@@ -15,4 +15,4 @@
 {"name":"ckb-db-schema","vers":"0.101.2","deps":[],"cksum":"7c2a53247e26d70b787875fdca046621e8e439b1af627afdc2f5c3aef74250a6","features":{},"yanked":false,"links":null}
 {"name":"ckb-db-schema","vers":"0.101.3","deps":[],"cksum":"afb94522478982a783a2be43aaccf219f2ac710dfba1e1812284a12157cbbc2a","features":{},"yanked":false,"links":null}
 {"name":"ckb-db-schema","vers":"0.101.4","deps":[],"cksum":"f38208fac1632add3381cbbb7d2e882ed02819078db742cea63a058e3809b0d8","features":{},"yanked":false,"links":null}
-{"name":"ckb-db-schema","vers":"0.101.5","deps":[],"cksum":"ebf5c2f15c3fb37a2774ab7eb7747e2f67c6bb2be39eefdd97b46bcd4fcc8ce4","features":{},"yanked":false,"links":null}
+{"name":"ckb-db-schema","vers":"0.101.5","deps":[],"cksum":"ebf5c2f15c3fb37a2774ab7eb7747e2f67c6bb2be39eefdd97b46bcd4fcc8ce4","features":{},"yanked":true,"links":null}
