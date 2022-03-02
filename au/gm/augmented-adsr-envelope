@@ -1,0 +1,1 @@
+{"name":"augmented-adsr-envelope","vers":"0.1.0-alpha.2","deps":[{"name":"plotters","req":"^0.3","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_arch = \"wasm32\"))","kind":"dev"}],"cksum":"6ae00c398f9b1fee6db0a655bb1236aa642ad3e2c64859b933867d1d8dc1ac2c","features":{},"yanked":false,"links":null}

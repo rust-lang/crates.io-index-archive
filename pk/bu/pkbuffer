@@ -1,0 +1,2 @@
+{"name":"pkbuffer","vers":"0.1.0","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d6744c29c2c217b945673b310a7e6129cb44a64c6820491a20da4206e0b2f290","features":{},"yanked":false,"links":null}
+{"name":"pkbuffer","vers":"0.2.0","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6564fb1c62a7723eb3db6f7c00cdbfa31755ce4f06b26b27750365443f3ef0c2","features":{},"yanked":false,"links":null}

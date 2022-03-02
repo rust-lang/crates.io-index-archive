@@ -1,0 +1,1 @@
+{"name":"vga-emu","vers":"0.1.0","deps":[{"name":"sdl2","req":"^0.34.5","features":["ttf"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2b02850b4d0113fde8baa6e92dffa56ec581f6d0d121ff85a8e1e9c46470811d","features":{},"yanked":false,"links":null}

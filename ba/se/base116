@@ -1,0 +1,2 @@
+{"name":"base116","vers":"0.1.0","deps":[],"cksum":"a24c92445a22c7604a8fd05df2a3b1c7c63e0f2dd7d3820ec7a435ada94eef3a","features":{"alloc":[],"cli-panic":[],"default":["std"],"std":["alloc"],"doc_cfg":[]},"yanked":true,"links":null}
+{"name":"base116","vers":"0.1.1","deps":[],"cksum":"73aaea3b1e0518de3ec15393acd1441cff480ddd120bc803bf1bbedc264d43ed","features":{"default":["std"],"cli-panic":[],"alloc":[],"doc_cfg":[],"std":["alloc"]},"yanked":false,"links":null}

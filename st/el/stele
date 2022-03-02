@@ -1,0 +1,1 @@
+{"name":"stele","vers":"0.1.0","deps":[{"name":"loom","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"normal"}],"cksum":"84c5d2f4420cf4ff632418cee83d1a2ca0d472264f8cb6daf0ad99b8d940e767","features":{},"yanked":false,"links":null}

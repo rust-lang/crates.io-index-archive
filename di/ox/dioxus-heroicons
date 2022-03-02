@@ -1,0 +1,2 @@
+{"name":"dioxus-heroicons","vers":"0.1.0","deps":[{"name":"dioxus","req":"~0.1","features":["html"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b64f5d5d0449b6ee56a813ac5d853446cdd303e0214ae93ef622f7b1fcdf497a","features":{},"yanked":false,"links":null}
+{"name":"dioxus-heroicons","vers":"0.1.1","deps":[{"name":"dioxus","req":"~0.1","features":["html"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46184e74a846948feaa8d24bd1d2ed1e582a68a5951cc28f0ad6f8a76274311e","features":{},"yanked":false,"links":null}

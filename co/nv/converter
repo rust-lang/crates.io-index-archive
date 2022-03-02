@@ -1,0 +1,2 @@
+{"name":"converter","vers":"0.1.0","deps":[{"name":"stable-swap-math","req":"^1.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07494cc238896fb167ca3275295190a79a2ebb6132f8a200fb6c22a5c4b8c2f0","features":{},"yanked":false,"links":null}
+{"name":"converter","vers":"0.1.3","deps":[{"name":"stable-swap-math","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcdfa1da4f6dff5d12f42bc6eaa50f4468b88a3411c59b96311ab3c316a28d22","features":{},"yanked":false,"links":null}

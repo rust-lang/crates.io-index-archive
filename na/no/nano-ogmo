@@ -1,0 +1,2 @@
+{"name":"nano-ogmo","vers":"0.1.0","deps":[{"name":"nanoserde","req":"^0.1.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e3151f200a3caad66cc82d74957f265f9223e0468b236c1cb616b6f9fc99d6e","features":{},"yanked":false,"links":null}
+{"name":"nano-ogmo","vers":"0.1.1","deps":[{"name":"nanoserde","req":"^0.1.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b3af8d7169c78a167ba847436592d482f1aab333726cf2e869528971e3b8caa","features":{},"yanked":false,"links":null}

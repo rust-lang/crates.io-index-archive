@@ -1,0 +1,1 @@
+{"name":"intel_cache_native_client","vers":"1.0.0","deps":[{"name":"intel-cache-lib","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8dc022f10719ae52868ce65c77d9c90251e06b5ad5be15327621da62b4b9bb7","features":{},"yanked":false,"links":null}

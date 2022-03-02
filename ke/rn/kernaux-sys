@@ -1,0 +1,2 @@
+{"name":"kernaux-sys","vers":"0.0.0","deps":[{"name":"libc","req":"^0.2.113","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"658944a7cea2da011ab83e59d8236901bf4e57cd93a3dd3b99d2d22622326ddf","features":{},"yanked":false,"links":null}
+{"name":"kernaux-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.113","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1182ce22ad7a6470250e628fe1abc20097cc9fcc41575b56aa460ea9f48e8fda","features":{},"yanked":false,"links":null}

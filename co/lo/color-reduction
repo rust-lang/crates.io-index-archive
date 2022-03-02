@@ -1,0 +1,2 @@
+{"name":"color-reduction","vers":"0.1.0","deps":[{"name":"image","req":"^0.23.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbe1ad509ffaaf47a0fe0f70ed649ba8b4ce543c4d8d955016f7b9a8ae3caeec","features":{},"yanked":false,"links":null}
+{"name":"color-reduction","vers":"0.1.1","deps":[{"name":"image","req":"^0.23.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed6449e2c1b0ffe585c318cda687559a3efe195fe31d459ac874ef713e8d7b3f","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"xql-sqlx-mysql","vers":"0.1.0","deps":[{"name":"sqlx","req":"^0.5","features":["runtime-tokio-rustls","mysql"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8d78b6f91edee4ffe0eb13b07a693eaabcc17e2b30e1b73f166204db837342b6","features":{},"yanked":false,"links":null}

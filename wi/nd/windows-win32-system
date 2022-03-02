@@ -1,0 +1,1 @@
+{"name":"windows-win32-system","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4539e8cc3963acf0f40597dffec38462fa8738f0016acc79b6e1da97e8e2724c","features":{},"yanked":false,"links":null}

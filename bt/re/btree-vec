@@ -1,0 +1,1 @@
+{"name":"btree-vec","vers":"0.1.0","deps":[{"name":"tagged-pointer","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9afa9fec982ce1c9fbe299358f4e4cec42c55c19f71b2647367b20bb6b97d99e","features":{},"yanked":false,"links":null}

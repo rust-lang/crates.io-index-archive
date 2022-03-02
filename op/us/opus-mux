@@ -1,0 +1,1 @@
+{"name":"opus-mux","vers":"0.0.0","deps":[{"name":"ogg","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"826d360e2df8426622c29427146137d544489162f2c40ad52876052c4f9b372f","features":{"std":[],"default":["std"]},"yanked":false,"links":null}

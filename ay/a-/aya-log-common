@@ -1,0 +1,1 @@
+{"name":"aya-log-common","vers":"0.1.1","deps":[{"name":"aya","req":"^0.10.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c16f299720052468b5479e6602f6c162ece517e4fa6ef4e8d525afa0c99ff646","features":{"userspace":["aya"],"default":[]},"yanked":false,"links":null}

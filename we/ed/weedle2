@@ -1,0 +1,2 @@
+{"name":"weedle2","vers":"2.0.0-alpha0","deps":[{"name":"nom","req":"^5.0.0","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"86270e021fb0864ee1220f27c8d59909fa0cc84d32bb74fb7edbd63497cfd8fc","features":{},"yanked":false,"links":null}
+{"name":"weedle2","vers":"2.0.0","deps":[{"name":"nom","req":"^5.0.0","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8655cb807b9f5c665d199c735dae90e10230eae6ae5cf009d3506963214fe451","features":{},"yanked":false,"links":null}

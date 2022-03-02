@@ -1,0 +1,2 @@
+{"name":"git-bitmap","vers":"0.0.0","deps":[{"name":"quick-error","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c5c5c62cda2fcfca1b9fa83325593572329ee7a559ef60d23d245079fa26634","features":{},"yanked":false,"links":null}
+{"name":"git-bitmap","vers":"0.0.1","deps":[{"name":"quick-error","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c6c05bc1a4c71a47db9711900fde11705efcb1e112856283d6159446db80dab","features":{},"yanked":false,"links":null}

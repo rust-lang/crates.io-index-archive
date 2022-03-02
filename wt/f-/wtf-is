@@ -1,0 +1,1 @@
+{"name":"wtf-is","vers":"0.2.4","deps":[{"name":"phf","req":"^0.10","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49f5ce9340e0ab642b46a0692731119426ea3021955c9f71eed2c1a092244955","features":{},"yanked":false,"links":null}

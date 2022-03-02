@@ -1,0 +1,2 @@
+{"name":"lsm6ds33","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80eb5f51c3220bfd9beb9bd94c11299489e256101b255a8673a7bc906fcda980","features":{},"yanked":false,"links":null}
+{"name":"lsm6ds33","vers":"0.2.0","deps":[{"name":"embedded-hal","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96f8048a2646427724a7e728ec7a75b4bc2c1a3dc4eae6e25cbad5598ca017cd","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"amd","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7341dfc2ac1d9b528028f4d5821382ca0b9a82b518d1c31df15979ad817ce458","features":{"debug2":["debug1"],"debug1":[],"debug3":["debug2"],"debug4":["debug3"]},"yanked":false,"links":null}

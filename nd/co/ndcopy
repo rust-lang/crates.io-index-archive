@@ -1,0 +1,2 @@
+{"name":"ndcopy","vers":"0.1.0","deps":[{"name":"ndshape","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6038e80ceacfc686f4fbdc7eef948fceda19f77b1905669fb9f8d88f24cf0171","features":{},"yanked":false,"links":null}
+{"name":"ndcopy","vers":"0.2.0","deps":[{"name":"ndshape","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6afc977f2364b373136a0f8e25719059eea83b87619e5a02404c8332d7e4b868","features":{},"yanked":false,"links":null}

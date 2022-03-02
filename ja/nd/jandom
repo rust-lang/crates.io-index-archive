@@ -1,0 +1,2 @@
+{"name":"jandom","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b29e9238e34a5b11932e3bc5d5323b7558b6736b5aa68c21c815b1c6affca4ba","features":{},"yanked":false,"links":null}
+{"name":"jandom","vers":"0.2.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bf7e1649b2fb0947ad0eb28c292c3f7efd82ff8df71682adaf2d45830dbd3437","features":{},"yanked":false,"links":null}

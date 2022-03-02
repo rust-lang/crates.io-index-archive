@@ -1,0 +1,7 @@
+{"name":"rustlr","vers":"0.1.0","deps":[],"cksum":"a8e6e12b31b6987c0cba9a1be17a4e61ff199f0ba434ae0dee0e005eef0a0950","features":{},"yanked":false,"links":null}
+{"name":"rustlr","vers":"0.1.1","deps":[],"cksum":"353c1cdf3973df13a414b6ee5544ad6819a16f612117d45448a45dcde9a9a9b4","features":{},"yanked":false,"links":null}
+{"name":"rustlr","vers":"0.1.2","deps":[],"cksum":"2adbe3e59b7790bc275bb7dd70938c314125f6211e7e01b7671af43313c25710","features":{},"yanked":false,"links":null}
+{"name":"rustlr","vers":"0.1.3","deps":[],"cksum":"93e0449f7e1e4b45b27bd338e36ed60d573d515c32af488c7d16ad31a14a1b8d","features":{},"yanked":false,"links":null}
+{"name":"rustlr","vers":"0.1.4","deps":[],"cksum":"838a3ab9368687cdba68c88c7eb284e69eb004245c368787b9b12162f5cea1b7","features":{},"yanked":false,"links":null}
+{"name":"rustlr","vers":"0.2.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c411865ea0939a193446d89e4fee2ed03e84cc72a86728fea7a71a3ee59ab7e7","features":{},"yanked":false,"links":null}
+{"name":"rustlr","vers":"0.2.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61d307ffecc4068914f7b85a433c817fd275f04cc8d10a8047d651dafa334a5d","features":{},"yanked":false,"links":null}

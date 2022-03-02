@@ -1,0 +1,2 @@
+{"name":"flat_commands","vers":"0.2.0","deps":[{"name":"bevy","req":"^0.6.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4a41baac3a2aff19614ca937bba14ea1136b36c4844417c6ac8c7d7a53e77fb4","features":{},"yanked":false,"links":null}
+{"name":"flat_commands","vers":"0.2.1","deps":[{"name":"bevy","req":"^0.6.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"dac34aa080ab807757d12597d1bf1e8c00b16c38f23bfa96465a3d35583900fc","features":{},"yanked":false,"links":null}

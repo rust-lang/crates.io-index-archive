@@ -1,0 +1,2 @@
+{"name":"ach-spsc","vers":"0.1.0","deps":[{"name":"on_drop","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"289354e229c5d94eedf54eeab5f31c2bddbc83e1fcf12d6c41b25658540f2423","features":{},"yanked":false,"links":null}
+{"name":"ach-spsc","vers":"0.1.1","deps":[{"name":"on_drop","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1554fc4681ce4998c78067477c9d54bdbad3fec55190e65c1bb1d5cd791ce01b","features":{},"yanked":false,"links":null}
