@@ -15,3 +15,4 @@
 {"name":"flutter_rust_bridge_macros","vers":"1.21.0","deps":[],"cksum":"dc46969d119a62c24c85df373f922651c62cfcb9498036cd38da34dead59fbbd","features":{},"yanked":false,"links":null}
 {"name":"flutter_rust_bridge_macros","vers":"1.21.1","deps":[],"cksum":"631563935de398127a304d94f038c4517db83426c8f8ec30fdcb4876414205db","features":{},"yanked":false,"links":null}
 {"name":"flutter_rust_bridge_macros","vers":"1.22.0","deps":[],"cksum":"1f9a2f3edd4082480507154a1776eca9704cac8a78eef8b087f5122d6053c943","features":{},"yanked":false,"links":null}
+{"name":"flutter_rust_bridge_macros","vers":"1.22.1","deps":[],"cksum":"06b75afcce280dc87a329216586211c95eb7ac6045ed855f0791a3256da52936","features":{},"yanked":false,"links":null}
