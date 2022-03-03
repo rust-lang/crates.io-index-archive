@@ -1,1 +1,2 @@
 {"name":"smarty_pants","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72c6f9f0edf8abb59724abd2e1f9e18d2a6418bb86959f5f15f131cd3cb3209a","features":{},"yanked":false,"links":null}
+{"name":"smarty_pants","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e3fc168adc34f7099f9cbf54762a76ebbc563677ddff2c82b90b06b5f47031a","features":{},"yanked":false,"links":null}
