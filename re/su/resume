@@ -21,3 +21,4 @@
 {"name":"resume","vers":"0.2.17","deps":[],"cksum":"547a1b46131a27bbeda5e7b1101de4432e48653b635486c0604044e29cbaa788","features":{},"yanked":false,"links":null}
 {"name":"resume","vers":"0.2.18","deps":[],"cksum":"10b0a2ad01698a9cd00f120800229ed8294dbc4c830400a2e2ca4f1efd8cd243","features":{},"yanked":false,"links":null}
 {"name":"resume","vers":"0.2.19","deps":[],"cksum":"e4db41c59faf48ce96ce584e3b70f95e5f7830da843fb12050a90bf06531c649","features":{"default":["proc-macro"],"nightly":[],"proc-macro":[],"span-locations":[],"bar":[],"foo":[]},"yanked":false,"links":null}
+{"name":"resume","vers":"0.2.20","deps":[],"cksum":"1c74f3a6baf456702b49e7b59c3c8dba892d272e1f9d3a51096b641ee24d074a","features":{"bar":[],"span-locations":[],"nightly":[],"default":["proc-macro"],"foo":[],"proc-macro":[]},"yanked":false,"links":null}
