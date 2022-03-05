@@ -1,1 +1,2 @@
 {"name":"tegen","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e43f051b049fb4eaaa3a48acee00aeab4b5a4a40fab3065b16e1576eff52646","features":{},"yanked":false,"links":null}
+{"name":"tegen","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5a1fd41c64561bc804ec8f834463faea2386d0416b7563d67e1c706c4f2b037","features":{},"yanked":false,"links":null}
