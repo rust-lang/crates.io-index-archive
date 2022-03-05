@@ -1,1 +1,2 @@
 {"name":"sire","vers":"0.0.1-alpha","deps":[{"name":"assert_cmd","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"127671a988264484f67726b88b247a1d2129b7ac8d395f6fae0d09ce3f359db9","features":{},"yanked":false,"links":null}
+{"name":"sire","vers":"0.0.1-alpha1","deps":[{"name":"assert_cmd","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c985f1e89b54c86febf5614351dd38cc2c28f667c58343a1fe76e09d11f44573","features":{},"yanked":false,"links":null}
