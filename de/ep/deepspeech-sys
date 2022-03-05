@@ -10,3 +10,4 @@
 {"name":"deepspeech-sys","vers":"0.7.0","deps":[],"cksum":"9d746a3eb90e7053c7ef3dff7825c68bcf396a3124c164d4c4456a3954914deb","features":{},"yanked":false,"links":null}
 {"name":"deepspeech-sys","vers":"0.8.0","deps":[],"cksum":"04d2c89a4427cfd7117e09ba132f1b8355f20aa65a48a97f19784fff141ab1fa","features":{},"yanked":false,"links":null}
 {"name":"deepspeech-sys","vers":"0.9.0","deps":[],"cksum":"cd07a38938971f337ad9e6c1413123c3f51c024293dbe172e45bb611bde17bb1","features":{},"yanked":false,"links":null}
+{"name":"deepspeech-sys","vers":"0.9.1","deps":[],"cksum":"8b55ce8103e4cf6e6b79cb33fbab97af87ffaa9ed4b291319cba3f667c52c580","features":{},"yanked":false,"links":null}
