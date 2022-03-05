@@ -3,3 +3,4 @@
 {"name":"a11ywatch_cli","vers":"0.0.3","deps":[],"cksum":"a45420b9f8b8d93ada03988353428c36b208dc874707d7a0a79972b861488b4b","features":{},"yanked":false,"links":null}
 {"name":"a11ywatch_cli","vers":"0.0.4","deps":[],"cksum":"32162cf52d147b1747cdf779e5c9491c226019fe397d2d636af6234ce1700100","features":{},"yanked":false,"links":null}
 {"name":"a11ywatch_cli","vers":"0.0.5","deps":[{"name":"clap","req":"^3.1.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09073eac5ce3ef775b1adbd1dd193aceb6d44c72bbf4866991a9a7b25c63739c","features":{},"yanked":false,"links":null}
+{"name":"a11ywatch_cli","vers":"0.0.6","deps":[{"name":"clap","req":"^3.1.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa77b6a6250f033de2b5b27a8c6b4b6e83cb090c422a3f24bc8209b8ab3693ab","features":{},"yanked":false,"links":null}
