@@ -1,0 +1,1 @@
+{"name":"xrpl_cli","vers":"0.1.0","deps":[{"name":"clap","req":"^3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e55737b8c0daab3053bc5cca3360343194cde4d7bee57075f955558e29f909a8","features":{},"yanked":false,"links":null}
