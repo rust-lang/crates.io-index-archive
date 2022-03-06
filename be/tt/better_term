@@ -5,3 +5,4 @@
 {"name":"better_term","vers":"1.0.2","deps":[],"cksum":"eba02db211aa5ec37610f4f1cd8749bfab08ee88b2c002e3c96ec11ab6bf8270","features":{},"yanked":false,"links":null}
 {"name":"better_term","vers":"1.0.3","deps":[],"cksum":"75f59221a72a66a211b6d217c2e21f6af660d1cbd187ed9e9f4d249730424aea","features":{},"yanked":false,"links":null}
 {"name":"better_term","vers":"1.0.4","deps":[],"cksum":"44b34d99d7b4d3e42008a16d0de429e9ce662353277321897e50e3549de12c29","features":{},"yanked":false,"links":null}
+{"name":"better_term","vers":"1.2.0","deps":[],"cksum":"d3408f7298e55eba2294c6d09eaab68865c1e33b7ccc84f7097be19103ef4abb","features":{"input":[],"default":["input"]},"yanked":false,"links":null}
