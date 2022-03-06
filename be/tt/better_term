@@ -7,5 +7,5 @@
 {"name":"better_term","vers":"1.0.4","deps":[],"cksum":"44b34d99d7b4d3e42008a16d0de429e9ce662353277321897e50e3549de12c29","features":{},"yanked":false,"links":null}
 {"name":"better_term","vers":"1.2.0","deps":[],"cksum":"d3408f7298e55eba2294c6d09eaab68865c1e33b7ccc84f7097be19103ef4abb","features":{"input":[],"default":["input"]},"yanked":true,"links":null}
 {"name":"better_term","vers":"1.3.0","deps":[],"cksum":"89f0d77f1c9a7311458e0ab4878084616155cf58a9db79fd1faddfb4e419b28e","features":{"input":[],"default":["input"]},"yanked":true,"links":null}
-{"name":"better_term","vers":"1.4.0","deps":[],"cksum":"4e6e769a599fea84bac90402d979218dd386ee4d88f73385bc3ab55dc5fa2c0d","features":{"input":[],"default":["input"]},"yanked":false,"links":null}
+{"name":"better_term","vers":"1.4.0","deps":[],"cksum":"4e6e769a599fea84bac90402d979218dd386ee4d88f73385bc3ab55dc5fa2c0d","features":{"default":["input"],"input":[]},"yanked":true,"links":null}
 {"name":"better_term","vers":"1.5.0","deps":[],"cksum":"a1fbecb49a85289116f8d2bfd35c973aec612b3170a960e9cb5db313b70936fd","features":{"input":[],"default":["input"]},"yanked":false,"links":null}
