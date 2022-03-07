@@ -1,1 +1,2 @@
 {"name":"screenshots","vers":"0.0.1","deps":[],"cksum":"c2f0e9cf754f1f32b1e1e4783a159afc00a4bc1540cd4f0a3eec60a1340ab5cb","features":{},"yanked":false,"links":null}
+{"name":"screenshots","vers":"0.0.2","deps":[{"name":"core-graphics","req":"^0.22.3","features":[],"optional":false,"default_features":true,"target":"cfg(target_os = \"macos\")","kind":"normal"}],"cksum":"eac3cdbe5980536b8a36e88654f95646bab75de010861a909ea2cd5d824aae45","features":{},"yanked":false,"links":null}
