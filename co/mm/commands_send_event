@@ -1,0 +1,1 @@
+{"name":"commands_send_event","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2d10fea7838ad711ff2d67581310759407e12856a6e655747e0cda677dd2073","features":{},"yanked":false,"links":null}
