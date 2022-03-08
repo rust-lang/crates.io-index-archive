@@ -19,3 +19,4 @@
 {"name":"dsalgo","vers":"0.2.15","deps":[],"cksum":"e5ebb10aa85031109e84214ff2e3fdbf9ac6cc1ab2e994c842e5847a505a1d6a","features":{},"yanked":false,"links":null}
 {"name":"dsalgo","vers":"0.2.16","deps":[],"cksum":"79abd6830ab404ef894818b771c2ff9dba9e2d3765c61932422714040d596a90","features":{},"yanked":false,"links":null}
 {"name":"dsalgo","vers":"0.2.17","deps":[],"cksum":"161c4fd244d6c31ebf05372631c716cb3373337965376e1198cc3f239a4da01e","features":{},"yanked":false,"links":null}
+{"name":"dsalgo","vers":"0.2.18","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91c3aafa43b9185828a5d119931e63467943f1e49f6c0d904aea2bc8f35edfab","features":{},"yanked":false,"links":null}
