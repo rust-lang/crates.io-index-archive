@@ -9,3 +9,4 @@
 {"name":"data-view","vers":"4.0.0","deps":[],"cksum":"6053620951934b1cc25f0d8248ad8ac934120e7ef8d37d148d064de49a38a3a8","features":{"BE":[],"NE":[]},"yanked":false,"links":null}
 {"name":"data-view","vers":"4.0.1","deps":[],"cksum":"02fe980bc7b0caec9752decaf0befb62d526dfe54fe51fcababe6a63ca27a541","features":{"NE":[],"BE":[]},"yanked":false,"links":null}
 {"name":"data-view","vers":"4.1.0","deps":[],"cksum":"76dbed8c6c51893ccc0a033e1fe68ebe9175c9594e843b8b054e5e12d05249c6","features":{"BE":[],"NE":[]},"yanked":false,"links":null}
+{"name":"data-view","vers":"4.1.1","deps":[],"cksum":"705c8d3a71879d94cab7d903be49a75df0bdf6a9466927b356a1bf805377c9d0","features":{"BE":[],"NE":[]},"yanked":false,"links":null}
