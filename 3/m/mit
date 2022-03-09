@@ -1,1 +1,2 @@
 {"name":"mit","vers":"0.1.0","deps":[],"cksum":"e6b18d6bf9556f88e9b8f2923674999875ebebff872fc1a82e6ef163a87b6a2e","features":{},"yanked":false,"links":null}
+{"name":"mit","vers":"0.1.1","deps":[{"name":"handlebars","req":"^4.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f23349a964e60db27684cb726c744d4773cc7a6ef3015ca73d7d1c70e26a549b","features":{},"yanked":false,"links":null}
