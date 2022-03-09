@@ -1,0 +1,1 @@
+{"name":"cl-generic-read-buf","vers":"0.1.0","deps":[{"name":"cl-generic-vec","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a108d439e3a93e32184b452dc5b166f6de9022e5cecf005d531c3f60c7d35036","features":{},"yanked":false,"links":null}
