@@ -1,0 +1,1 @@
+{"name":"pi_lfstack","vers":"0.1.2","deps":[{"name":"crossbeam-channel","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7279b6a1bc9a08c2b0e15f13584663adf836448d0d19bc4bbf529c8b5efedfc","features":{},"yanked":false,"links":null}
