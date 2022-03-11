@@ -1,0 +1,1 @@
+{"name":"zinfo","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c469b0d9049e43088a406de7128126381b11401bfbde556a26d8d8108c828ae","features":{},"yanked":false,"links":null}
