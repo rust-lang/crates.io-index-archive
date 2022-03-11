@@ -1,1 +1,2 @@
 {"name":"libpcap","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb5cb9df3a390fde840c09d1408a14e50aa18557b51f407478ad8fa79db29160","features":{},"yanked":false,"links":null}
+{"name":"libpcap","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26eb3ef296d9978be864542af509c7fb14f933f0936bd8bfbfeb18e936fef299","features":{},"yanked":false,"links":null}
