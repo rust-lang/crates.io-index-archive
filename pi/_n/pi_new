@@ -1,1 +1,2 @@
 {"name":"pi_new","vers":"0.1.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6a695515a6d4f00fce515176c2acb1e0c63812da5cb8a52f7ee7098cbfb86ec","features":{},"yanked":false,"links":null}
+{"name":"pi_new","vers":"0.1.4","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6c5303dcb0ca19c00b47f2e3a1f3efe18a18d2f64b0100bccd84882337897e8","features":{},"yanked":false,"links":null}
