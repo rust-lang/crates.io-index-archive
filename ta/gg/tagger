@@ -44,3 +44,4 @@
 {"name":"tagger","vers":"4.1.0","deps":[],"cksum":"603c743efb39602d9087d9b194808210c8568b66cae1e5a3c29a91f0cbbda6b4","features":{},"yanked":true,"links":null}
 {"name":"tagger","vers":"4.2.0","deps":[],"cksum":"9193a1f8984f1d2a1f5d04cb27f7d85e642d832f638451e1e9b14544a7df06bf","features":{},"yanked":false,"links":null}
 {"name":"tagger","vers":"4.2.1","deps":[],"cksum":"784b8dc1bae576c9a5a30eab904fd61097ed86366b2a6f3b3cd4fe07037b835e","features":{},"yanked":false,"links":null}
+{"name":"tagger","vers":"4.3.1","deps":[],"cksum":"4851912a4b61b39f03bbb0fc26d8135b2f797ac23fccd19cc019da203bff4074","features":{},"yanked":false,"links":null}
