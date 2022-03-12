@@ -5,3 +5,4 @@
 {"name":"arc-cell","vers":"0.1.4","deps":[{"name":"spin","req":"^0.4.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c37b26707b58029974b212ae52f609ca4095f3bdac134ddaebe67b4f8d224c08","features":{},"yanked":false}
 {"name":"arc-cell","vers":"0.1.5","deps":[],"cksum":"613cfb8a55cb73ef5dd630d05cd9824165a0dfb4e7c96ab7501493caa9195802","features":{},"yanked":false}
 {"name":"arc-cell","vers":"0.2.0","deps":[],"cksum":"75d11eb22d8a3ca7c00c217a9f97b4269344de0c283b96926ea57c44758aa96c","features":{},"yanked":false,"links":null}
+{"name":"arc-cell","vers":"0.2.1","deps":[],"cksum":"e365ff8e55a77225ce45d6ca3b0ee51f8b9706a0d14b6c430e5bf3486e306554","features":{},"yanked":false,"links":null}
