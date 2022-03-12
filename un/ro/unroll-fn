@@ -1,1 +1,1 @@
-{"name":"unroll-fn","vers":"0.1.0","deps":[{"name":"seq-macro","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9baddd85829a78a03f672aced5dd19ff65a3ed225de12d98bdf7ce4be360e26b","features":{},"yanked":true,"links":null}
+{"name":"unroll-fn","vers":"0.1.0","deps":[{"name":"seq-macro","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9baddd85829a78a03f672aced5dd19ff65a3ed225de12d98bdf7ce4be360e26b","features":{},"yanked":false,"links":null}
