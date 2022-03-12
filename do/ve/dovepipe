@@ -1,0 +1,1 @@
+{"name":"dovepipe","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcf905c99146a47acff45bdc245a4b533bab0b4defaf27c4ab2d217daba62ded","features":{},"yanked":false,"links":null}
