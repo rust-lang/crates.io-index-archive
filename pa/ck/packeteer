@@ -4,3 +4,4 @@
 {"name":"packeteer","vers":"0.1.3","deps":[],"cksum":"bba683182b502cd85e1f81fd10d21ffd279ef672ae4ea40603f9102bf6bd63c7","features":{"http1":[]},"yanked":false,"links":null}
 {"name":"packeteer","vers":"0.1.4","deps":[],"cksum":"60ca4c123532be6f14fcc91043cfffd890eadabfd79c01772ef999099d512525","features":{"http1":[]},"yanked":false,"links":null}
 {"name":"packeteer","vers":"0.2.0","deps":[],"cksum":"34dc40bf0c1e34dc7047665c96e888006bf3819ca0c555c810ec679f3c332840","features":{"gemini":[],"http1":[]},"yanked":false,"links":null}
+{"name":"packeteer","vers":"0.2.1","deps":[],"cksum":"0100b85ecf85d34937d9e04421f4c91372bfb1fb725a955b488735d3ed97a234","features":{"gemini":[],"http1":[]},"yanked":false,"links":null}
