@@ -1,0 +1,1 @@
+{"name":"cat-box","vers":"0.1.0","deps":[{"name":"sdl2","req":"^0.35.2","features":["image"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf5e66dd6a8f7ef21c401497ff7c3ef36da05534e63c251fbaadf0a2ccc12d39","features":{},"yanked":false,"links":null}
