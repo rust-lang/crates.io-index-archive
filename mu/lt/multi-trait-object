@@ -1,1 +1,2 @@
 {"name":"multi-trait-object","vers":"0.1.0","deps":[{"name":"dyn-clone","req":"^1.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c4f304a278fba2e8151acf911f3ef799cca2e8d1a8c6d6f90547d9f80884d382","features":{},"yanked":false,"links":null}
+{"name":"multi-trait-object","vers":"0.1.1","deps":[],"cksum":"37eff6ac32c87462f19ef1637fbcdf25fabd4a97dd88b922e7aecbdc28dbf8a7","features":{},"yanked":false,"links":null}
