@@ -1,0 +1,1 @@
+{"name":"pallas-codec","vers":"0.7.0-alpha.0","deps":[{"name":"minicbor","req":"^0.15","features":["std","half","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e610b5c9027e83d95b1e11c4aeaf658b6ceacdab1d6cefb3dc2a0426c602486d","features":{},"yanked":false,"links":null}
