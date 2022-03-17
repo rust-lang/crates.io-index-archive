@@ -1,1 +1,1 @@
-{"name":"near-helper","vers":"0.1.0","deps":[{"name":"near-sdk","req":"=4.0.0-pre.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53a576384073b9106ab5743af620f4fcdafc11132ed16e601b72b006f9d8c82a","features":{},"yanked":false,"links":null}
+{"name":"near-helper","vers":"0.1.0","deps":[{"name":"near-sdk","req":"=4.0.0-pre.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53a576384073b9106ab5743af620f4fcdafc11132ed16e601b72b006f9d8c82a","features":{},"yanked":true,"links":null}
