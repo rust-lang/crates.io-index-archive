@@ -1,0 +1,1 @@
+{"name":"apds9151","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4095a3fb35ecbea6525533bdfb2b632c48edebd486002a1648c7a4301be80b8b","features":{},"yanked":false,"links":null}
