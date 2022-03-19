@@ -2,3 +2,4 @@
 {"name":"ydb-grpc-helpers","vers":"0.0.1","deps":[],"cksum":"701d0044ef0c238438fb0208e8830f8adc6a084785b1386d79c30e3f86f49665","features":{},"yanked":false,"links":null}
 {"name":"ydb-grpc-helpers","vers":"0.0.2","deps":[],"cksum":"479625122f06caef47e68036b386abd799dc824db056423352ac32f0230ef630","features":{},"yanked":false,"links":null}
 {"name":"ydb-grpc-helpers","vers":"0.0.3","deps":[],"cksum":"6f51b57aaa2d27359aff3b7a014546db83c6bfc7fb70a3f0d57e1cf3fc8fea29","features":{},"yanked":false,"links":null}
+{"name":"ydb-grpc-helpers","vers":"0.0.4","deps":[],"cksum":"0e51f5cd9fb6b576df6e629f3968bbb5c7aa8b73de2ac7260425da7cc7acccb0","features":{},"yanked":false,"links":null}
