@@ -1,0 +1,1 @@
+{"name":"cozad-union-find","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0.14","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8dc0f1af5af0e77156ae662e6ef1a44fbf714bc7eb4560a0e1d272fa11d7f98","features":{},"yanked":false,"links":null}
