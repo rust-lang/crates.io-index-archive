@@ -1,0 +1,1 @@
+{"name":"rusty-panther","vers":"0.0.0","deps":[{"name":"termion","req":"^1.5.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10a16ba3e26219df5b16f85816354c446c9874ef393c7997d074eefecd649977","features":{},"yanked":false,"links":null}
