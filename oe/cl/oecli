@@ -1,0 +1,1 @@
+{"name":"oecli","vers":"0.1.0","deps":[{"name":"clap","req":"^3.1.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6941cb251f5a946181cfcdfaa73e6856b169355703d590e311e8f66d4922ad91","features":{},"yanked":false,"links":null}
