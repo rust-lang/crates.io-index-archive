@@ -12,3 +12,4 @@
 {"name":"data-view","vers":"4.1.1","deps":[],"cksum":"705c8d3a71879d94cab7d903be49a75df0bdf6a9466927b356a1bf805377c9d0","features":{"BE":[],"NE":[]},"yanked":false,"links":null}
 {"name":"data-view","vers":"4.2.0","deps":[],"cksum":"471e59b7b228e4747a7de88ba1b2bd534006f4cca84cf105662dd7b3d9c1a2f9","features":{"BE":[],"NE":[]},"yanked":false,"links":null}
 {"name":"data-view","vers":"5.0.0","deps":[],"cksum":"d55aeaed7b40873b29762b00f2603416f3db8799255139f4c6ff6bf4394aa0dd","features":{"BE":[],"NE":[]},"yanked":false,"links":null}
+{"name":"data-view","vers":"5.1.0","deps":[],"cksum":"207d924a6b34d61bb594a9f7eaa1807adca03bbeff98472948f04f00bcaae4dc","features":{"NE":[],"BE":[]},"yanked":false,"links":null}
