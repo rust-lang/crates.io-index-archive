@@ -7,4 +7,4 @@
 {"name":"packeteer","vers":"0.2.1","deps":[],"cksum":"0100b85ecf85d34937d9e04421f4c91372bfb1fb725a955b488735d3ed97a234","features":{"gemini":[],"http1":[]},"yanked":false,"links":null}
 {"name":"packeteer","vers":"0.2.2","deps":[],"cksum":"72dfc9396c5398b0087ba9f746f3e29f8964517142a52f79d5a9ba72317e8a64","features":{"gemini":[],"http1":[]},"yanked":false,"links":null}
 {"name":"packeteer","vers":"0.3.0","deps":[],"cksum":"fc35d76efe88ab574f8e8a45466ded0104be24b8c30b1faea9d3cc764f8fd0c9","features":{"gemini":[],"ftp":[],"http1":[]},"yanked":false,"links":null}
-{"name":"packeteer","vers":"0.3.1","deps":[],"cksum":"3a74df819538aa5babda8cdb3510cdd5fe79a82d5d43f1a3df7c29ac1bf6dc6b","features":{"gemini":[],"http1":[],"ftp":[]},"yanked":false,"links":null}
+{"name":"packeteer","vers":"0.3.1","deps":[],"cksum":"3a74df819538aa5babda8cdb3510cdd5fe79a82d5d43f1a3df7c29ac1bf6dc6b","features":{"ftp":[],"gemini":[],"http1":[]},"yanked":true,"links":null}
