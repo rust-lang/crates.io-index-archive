@@ -1,1 +1,2 @@
 {"name":"cubob","vers":"0.1.0","deps":[],"cksum":"83fb945967c32e3ce16947bbb18bdc48d42ae8f50cc6419669e82aa9bddf2ede","features":{},"yanked":false,"links":null}
+{"name":"cubob","vers":"0.2.0","deps":[{"name":"maplit","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6d1b6fe3d353739af822758644930989a1ba7dd1a37791a6d36e6bc8498e016d","features":{},"yanked":false,"links":null}
