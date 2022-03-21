@@ -17,3 +17,4 @@
 {"name":"tz-rs","vers":"0.6.3","deps":[],"cksum":"326e255e65b84326e3840ec4b648e6a481907340300a2f6c931e6fb14c60fc75","features":{},"yanked":false,"links":null}
 {"name":"tz-rs","vers":"0.6.4","deps":[],"cksum":"a9553425bbffe9d7bd4ae89dd050ca8fc82aab7baf07dada880485addeba4552","features":{},"yanked":false,"links":null}
 {"name":"tz-rs","vers":"0.6.5","deps":[],"cksum":"7a9203bc748453a277c1fa18bbc148c664fbd9c89950b5a8087fa8803e3cfb00","features":{},"yanked":false,"links":null}
+{"name":"tz-rs","vers":"0.6.6","deps":[{"name":"const_fn","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8694f1edd5e0a101c6f4df800ff85bc73262ffdf0b788179dbc2ebba7b49671c","features":{"const":[],"default":["const"]},"yanked":false,"links":null}
