@@ -7,3 +7,4 @@
 {"name":"unchecked_unwrap","vers":"2.0.1","deps":[],"cksum":"83fda957624830e67236d867cc74782a2d873aa4878383bb1c95635e4f1c7200","features":{"debug_checks":[],"nightly":[],"default":["debug_checks"]},"yanked":false,"links":null}
 {"name":"unchecked_unwrap","vers":"2.0.2","deps":[],"cksum":"4da3758203a1b51dde0aa9ab4b8d75761cda72b1a467a0a47205491cf0942e4e","features":{"default":["debug_checks"],"nightly":[],"debug_checks":[]},"yanked":false,"links":null}
 {"name":"unchecked_unwrap","vers":"3.0.0","deps":[],"cksum":"3c24f3a206e040c2d1f2bc5987864f777cb807ad4f50bed46dbfa2af917be2d8","features":{"default":["debug_checks"],"nightly":[],"debug_checks":[]},"yanked":false,"links":null}
+{"name":"unchecked_unwrap","vers":"4.0.0","deps":[],"cksum":"3225965522cd8ec8a857c1496adf6c17ecb9c0de554a09dbdaa89080bbb74088","features":{"debug_checks":[],"default":["debug_checks"]},"yanked":false,"links":null}
