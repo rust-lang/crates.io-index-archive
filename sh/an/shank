@@ -1,1 +1,2 @@
 {"name":"shank","vers":"0.0.0","deps":[{"name":"shank_macro","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ca46ffd371862f5eb24546958882c77b1326e22c8630a324a4df00e11b233ce","features":{},"yanked":false,"links":null}
+{"name":"shank","vers":"0.0.1","deps":[{"name":"shank_macro","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"241e2bc30cdc50633ec58dafea6841a3764f5efca9dc17c9604d9e4c45288167","features":{},"yanked":false,"links":null}
