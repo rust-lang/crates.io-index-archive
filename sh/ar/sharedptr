@@ -3,3 +3,4 @@
 {"name":"sharedptr","vers":"0.2.0","deps":[],"cksum":"10527ee384c6e365b68d8132161f422c6fbe16b2e20eadf05e9831b7c00e1b55","features":{},"yanked":false,"links":null}
 {"name":"sharedptr","vers":"0.3.0","deps":[],"cksum":"b2f58f5aceb6c3975d7f0ac317b86f04bc75f17fe7cf819a7c58496eac2f17f5","features":{},"yanked":true,"links":null}
 {"name":"sharedptr","vers":"0.3.1","deps":[],"cksum":"fdd3918613fcf43d3b7cbe1481e22c5d3cbdc444150be16a21cf1397e1ee6ba4","features":{},"yanked":true,"links":null}
+{"name":"sharedptr","vers":"0.3.2","deps":[],"cksum":"35a661735bbc0ef3696499784873bbba3d819abd19e22d7ec7a05cbf0e29f1b0","features":{},"yanked":false,"links":null}
