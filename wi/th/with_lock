@@ -11,3 +11,4 @@
 {"name":"with_lock","vers":"0.4.2","deps":[],"cksum":"690b8f93c1cc8481ad0a8a7d2329a0151b9ab5e928b80664a9510bb5058a9522","features":{},"yanked":false,"links":null}
 {"name":"with_lock","vers":"0.5.0","deps":[],"cksum":"e6935d9aebb0584c477fcfd1ee2e2edf845423486ee3ccdeef40cc8d72811254","features":{},"yanked":false,"links":null}
 {"name":"with_lock","vers":"0.5.1","deps":[{"name":"parking_lot","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"100c5715f62569ba0d4246f6b7ce41a80b0c6ad3e267c5d8ca25baea5337ab4b","features":{},"yanked":false,"links":null}
+{"name":"with_lock","vers":"0.5.2","deps":[{"name":"parking_lot","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8a829786a6a9d351a2e41f1e85dbff30cf473f9cf6c8b4e8384a3d59f44925a","features":{},"yanked":false,"links":null}
