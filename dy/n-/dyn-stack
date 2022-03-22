@@ -1,0 +1,1 @@
+{"name":"dyn-stack","vers":"0.1.0","deps":[{"name":"reborrow","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"535fa11014b5dafdef1f90f6a3aeb3878cad70e3412b3107d1d040a2ed2ca8bc","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
