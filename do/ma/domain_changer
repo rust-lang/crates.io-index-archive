@@ -1,1 +1,2 @@
 {"name":"domain_changer","vers":"0.1.0","deps":[{"name":"url","req":"^2.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb4a90635320e32e63a2c7d39acf5ec70eb9e79582fc8cf19587f239a2cb783a","features":{},"yanked":false,"links":null}
+{"name":"domain_changer","vers":"0.1.1","deps":[{"name":"url","req":"^2.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd110ab14d72ba38baddc438ecf1099be886311943d65c58f8427e659e2f8636","features":{},"yanked":false,"links":null}
