@@ -9,3 +9,4 @@
 {"name":"arc-cell","vers":"0.2.2","deps":[],"cksum":"4c0c2707375f4d35d0c838b185b72175a7bb27863e380286eea332c244d3d3de","features":{},"yanked":false,"links":null}
 {"name":"arc-cell","vers":"0.3.0","deps":[],"cksum":"2903d3ff00deb21a136474fb64c6496771bdc7577d493e1768e23119c73ee23f","features":{},"yanked":false,"links":null}
 {"name":"arc-cell","vers":"0.3.1","deps":[],"cksum":"6db846ea31faf0120af216d4e292f802c512ff992ac9e65e24d38e5b1b48dbee","features":{},"yanked":false,"links":null}
+{"name":"arc-cell","vers":"0.3.3","deps":[],"cksum":"fec9da9adf9420d86def101bd5b4a227b0512d456b6a128b0d677fdf68e5f7b8","features":{"const-new":[]},"yanked":false,"links":null}
