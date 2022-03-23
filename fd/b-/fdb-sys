@@ -1,0 +1,1 @@
+{"name":"fdb-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.59.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"75111d58571ffff788d7f00bc919ee42839fcb6910d40ef4d5d0e4c35d60e49d","features":{"fdb-6_3":[],"default":[]},"yanked":false,"links":null}
