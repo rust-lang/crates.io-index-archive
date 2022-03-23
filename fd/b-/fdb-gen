@@ -1,0 +1,1 @@
+{"name":"fdb-gen","vers":"0.2.0","deps":[{"name":"xml-rs","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ed3e5dc6aed80fa4f34294754525fc8cd55cad7da2703ea821c935e14688623","features":{"fdb-6_3":[],"default":[]},"yanked":false,"links":null}
