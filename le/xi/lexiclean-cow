@@ -1,0 +1,1 @@
+{"name":"lexiclean-cow","vers":"0.1.0","deps":[{"name":"camino","req":"^1.0.7","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f96dffa92ae1abd43e3ffd76d549319543ffad0be347866040964b456c90c76","features":{"default":[]},"features2":{"camino":["dep:camino"]},"yanked":false,"links":null,"v":2}
