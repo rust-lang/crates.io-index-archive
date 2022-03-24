@@ -1,1 +1,2 @@
 {"name":"wolfssl-sys","vers":"0.0.1","deps":[],"cksum":"e4fa66f80e699d65dcc78fba84df299be538e5386aec40de7fe1043273013d21","features":{},"yanked":false,"links":null}
+{"name":"wolfssl-sys","vers":"0.1.0","deps":[{"name":"autotools","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"bindgen","req":"^0.59.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1b96464824cd9b54c55adf523c2bf689eee5a824bdad44623b07be2ac68c6377","features":{},"yanked":false,"links":null}
