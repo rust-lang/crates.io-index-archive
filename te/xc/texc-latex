@@ -1,1 +1,2 @@
 {"name":"texc-latex","vers":"0.1.0","deps":[{"name":"tex-rs","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e14182a561f1d7bc951b1ac4c698ee294b6cba8e414cde7c94d1a65611e9a61","features":{},"yanked":false,"links":null}
+{"name":"texc-latex","vers":"0.1.1","deps":[{"name":"tex-rs","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc59c04b25a3d277dee7df792aa61f47f2d293cb6e92b0136f3268be4e5202d0","features":{},"yanked":false,"links":null}
