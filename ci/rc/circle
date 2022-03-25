@@ -7,3 +7,4 @@
 {"name":"circle","vers":"0.1.5","deps":[],"cksum":"dd87105d22055c5fc2e9baa4fe70198909a8f7d3dbf3800797fc5dd31ca8fcba","features":{"f32":[],"default":["f32"],"f64":[]},"yanked":false,"links":null}
 {"name":"circle","vers":"0.1.6","deps":[],"cksum":"ef01c9a92b0fb2717dc078d43dd09c43fcfa8307a01ce98c23b869f12f9f7056","features":{"f64":[],"default":["f32"],"f32":[]},"yanked":false,"links":null}
 {"name":"circle","vers":"0.1.7","deps":[],"cksum":"0cfb2afa9edc2c1f28e9d649e792c4b4836b3c4ac2e52bde1f04f4695fdf346a","features":{"default":["f32"],"f64":[],"f32":[]},"yanked":false,"links":null}
+{"name":"circle","vers":"0.1.8","deps":[{"name":"wolfram_wxf","req":"^0.6.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9162151dc54bed04ff1d002e0f585a0c6b50db105d9872c42990f1813a1a6467","features":{"f32":[],"f64":[],"default":["f32"]},"yanked":false,"links":null}
