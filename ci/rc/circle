@@ -1,3 +1,4 @@
 {"name":"circle","vers":"0.0.0","deps":[],"cksum":"71d043f55869740c740e19cf18717f14a22f8a818d2ccfe44e4400ebcf3d398d","features":{"default":["f32"],"f64":[],"f32":[]},"yanked":false,"links":null}
 {"name":"circle","vers":"0.1.0","deps":[],"cksum":"eee2d5d6a18c336f38c5e89bf228b2104bd3b933b09fe951fb14027fe7425d1b","features":{"default":["f32"],"f32":[],"f64":[]},"yanked":false,"links":null}
 {"name":"circle","vers":"0.1.1","deps":[],"cksum":"7a74ce8500d4a3431e1bc7aef41af252eface789198edf539290acda8130bc7a","features":{"f64":[],"default":["f32"],"f32":[]},"yanked":false,"links":null}
+{"name":"circle","vers":"0.1.2","deps":[],"cksum":"884cd7e69e97a5f7e4a4477ad082ddb5c9f9b6b267ce3e233a458dbc0e618903","features":{"f64":[],"default":["f32"],"f32":[]},"yanked":false,"links":null}
