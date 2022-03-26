@@ -1,0 +1,1 @@
+{"name":"crispr_guessing_game","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e17a22f671265d37725b243b815b8b78689349b6c49d48e0ddb9a7d006949a6","features":{},"yanked":false,"links":null}
