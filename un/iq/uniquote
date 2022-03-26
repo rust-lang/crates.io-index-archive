@@ -5,3 +5,4 @@
 {"name":"uniquote","vers":"1.1.1","deps":[],"cksum":"a654eff1f3d06be1b682346da2ce19bdd024aec04bb25ccff220c4e6d8de3bfd","features":{"alloc":[],"default":["std"],"min_const_generics":[],"std":["alloc"],"const_generics":[]},"yanked":false,"links":null}
 {"name":"uniquote","vers":"2.0.0","deps":[],"cksum":"8b60d3b6242d02527306aff595919cd6487afd50866077a31d0fa40bfe9e57b1","features":{"std":["alloc"],"alloc":[],"default":["std"],"min_const_generics":[]},"yanked":false,"links":null}
 {"name":"uniquote","vers":"3.0.0","deps":[],"cksum":"c4182f041ca904c8c2a9b76d9733b9f67d8ec92ed549c4342e52b7bfe6c01c3f","features":{"default":["std"],"std":["alloc"],"alloc":[]},"yanked":false,"links":null}
+{"name":"uniquote","vers":"3.1.0","deps":[],"cksum":"aa6f5952e7f7fe9c7f6011b6b1acf6a6903cc9208b788b6b09446f1f880574ae","features":{"alloc":[],"std":["alloc"],"default":["std"]},"yanked":false,"links":null}
