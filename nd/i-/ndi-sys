@@ -1,0 +1,1 @@
+{"name":"ndi-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.59.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"3650012f996dd502868c26dd7e286619cd6eb60b2b87b0611c4fcd01441ead12","features":{"default":["dynamic_link"],"dynamic_link":[],"bindings":["bindgen"]},"yanked":false,"links":"ndi"}
