@@ -1,1 +1,2 @@
 {"name":"mica-hl","vers":"0.1.0","deps":[{"name":"mica-language","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e084669d6c4fd4ddcf344ace6b17353339271219ba73c80b206797e3abd53651","features":{},"yanked":false,"links":null}
+{"name":"mica-hl","vers":"0.2.0","deps":[{"name":"mica-language","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a664deb54afe7c49281a1bb79585eae237a1aaf258696dfe386ce60663099b2","features":{},"yanked":false,"links":null}
