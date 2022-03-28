@@ -1,0 +1,1 @@
+{"name":"min-sqlite3-sys","vers":"0.1.0","deps":[{"name":"sqlite3-builder","req":"^3.38.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"414a8b8c0c77aa73409e37c32efcfd668279fbbd2a5817ee49946edd6790e42d","features":{},"yanked":false,"links":null}
