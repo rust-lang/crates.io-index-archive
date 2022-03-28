@@ -1,1 +1,2 @@
 {"name":"sptr","vers":"0.1.0","deps":[],"cksum":"10910b8cc89f601d83d8b6c78166a60f9a1232cd4b4191edfee59095f0111e86","features":{"default":["deprecate_problems"],"deprecate_problems":[]},"yanked":false,"links":null}
+{"name":"sptr","vers":"0.1.1","deps":[],"cksum":"fdd0a5917a8abf3a332a3ce2afbfd37f5869409977e6134ca3f247ebf0c7864b","features":{"deprecate_problems":[],"default":["deprecate_problems"]},"yanked":false,"links":null}
