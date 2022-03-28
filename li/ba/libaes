@@ -7,3 +7,4 @@
 {"name":"libaes","vers":"0.5.0","deps":[],"cksum":"6b439288654837ace35af9092ffbed274263817d7ebe3fc1c1b31e31f0acecdd","features":{},"yanked":true,"links":null}
 {"name":"libaes","vers":"0.6.0","deps":[],"cksum":"ab69d8afb8912f589d8ccb71701b57ef7e3520318499ad7f986e613f1b06c6e0","features":{},"yanked":false,"links":null}
 {"name":"libaes","vers":"0.6.1","deps":[],"cksum":"418b4f9baffc036d77ba09a06a58dce71379fb8ea795bad33717eaa5aae1b406","features":{},"yanked":false,"links":null}
+{"name":"libaes","vers":"0.6.2","deps":[],"cksum":"db7c463b5db4448022fb5829e269bf3a0dd0da21ac18e8e03bf2c5a6e53cc2b8","features":{},"yanked":false,"links":null}
