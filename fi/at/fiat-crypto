@@ -11,3 +11,4 @@
 {"name":"fiat-crypto","vers":"0.1.10","deps":[],"cksum":"3f3e93d69acd19f5d32c9fc00c1bcba5caba37ffbd3c6962f7b471908b399349","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"fiat-crypto","vers":"0.1.11","deps":[],"cksum":"2176874104231d65f2dd4d0c2e027e78614170d356c8ccfa826aaef103c8fe89","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"fiat-crypto","vers":"0.1.12","deps":[],"cksum":"c187d1e46d3f2b4b7d3c246b2643dbf0446a14b24854ccdc9d8d8d7f5c7c1140","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"fiat-crypto","vers":"0.1.13","deps":[],"cksum":"35354cf6bf9d259374646f419a25c7dd0bb208d291e44dc73db557542fe017fc","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
