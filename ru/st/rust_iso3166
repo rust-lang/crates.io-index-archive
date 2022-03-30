@@ -1,0 +1,1 @@
+{"name":"rust_iso3166","vers":"0.1.0","deps":[{"name":"phf","req":"^0.10.1","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df7366dacdccc258988d8382dc91b1b8ca2adfd08bf31d0ef4858b82a453482d","features":{},"yanked":false,"links":null}
