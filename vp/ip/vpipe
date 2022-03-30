@@ -1,0 +1,1 @@
+{"name":"vpipe","vers":"0.2.1","deps":[{"name":"clap","req":"^3.1.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb15fce1af5e07f7bfa4317fecccfdba24cb7b17d4d7e78651b5b2a6dc36b973","features":{},"yanked":false,"links":null}
