@@ -7,3 +7,4 @@
 {"name":"stats_alloc","vers":"0.1.6","deps":[],"cksum":"7e5696c3f1860b9e8b41ce221f31a44d68df4d1431927e06e15d7db2467f36b7","features":{"nightly":[],"default":[],"docs-rs":["nightly"]},"yanked":false,"links":null}
 {"name":"stats_alloc","vers":"0.1.7","deps":[],"cksum":"0db122ef151255d3968635ade4b5582af93f47791aa545377072e517ccde6add","features":{"default":[],"docs-rs":["nightly"],"nightly":[]},"yanked":false,"links":null}
 {"name":"stats_alloc","vers":"0.1.8","deps":[],"cksum":"a260c96bf26273969f360c2fc2e2c7732acc2ce49d939c7243c7230c2ad179d0","features":{"docs-rs":["nightly"],"default":[],"nightly":[]},"yanked":false,"links":null}
+{"name":"stats_alloc","vers":"0.1.9","deps":[],"cksum":"90b02517817f0eef7f109f9417883f60a6bbb3c6a447de525aa47525ef59e295","features":{"nightly":[],"default":[]},"yanked":false,"links":null}
