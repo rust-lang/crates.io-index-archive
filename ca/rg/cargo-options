@@ -1,0 +1,1 @@
+{"name":"cargo-options","vers":"0.1.0","deps":[{"name":"clap","req":"^3.1.2","features":["derive","env","wrap_help"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90a2352b76c46a09c8b8e85fa30f7e7584a4881276d46c337ec9eb12443fcb1d","features":{},"yanked":false,"links":null}
