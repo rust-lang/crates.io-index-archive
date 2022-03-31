@@ -1,1 +1,2 @@
 {"name":"pz","vers":"0.0.0","deps":[{"name":"image","req":"^0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"itertools","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7cd75894664aef41709c1c3b7708b7739eb4e330f4b9a84b92e064323e8c46e","features":{"default":[]},"yanked":false,"links":null}
+{"name":"pz","vers":"0.0.1","deps":[],"cksum":"876b8e256759dce19a090fa2f1532c090d3807928f70afb60bb19573d002e70b","features":{"default":[]},"yanked":false,"links":null}
