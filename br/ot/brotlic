@@ -1,0 +1,1 @@
+{"name":"brotlic","vers":"0.1.0","deps":[{"name":"brotlic-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6304b687fb5e6fa527f83ebfafb68500a79f0130aa9ec5c2f699ef66dcfefb85","features":{},"yanked":false,"links":null}
