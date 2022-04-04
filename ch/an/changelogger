@@ -1,1 +1,2 @@
 {"name":"changelogger","vers":"0.1.0","deps":[],"cksum":"0430f5c92671b388aad758bc2c807ef9b4c35777bb93406874bc269ce18fb74a","features":{},"yanked":false,"links":null}
+{"name":"changelogger","vers":"0.1.1","deps":[{"name":"clap","req":"^3.1.8","features":["cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1893d25998374a92d310bca7ddad7fe9b32896f03dd7d6bb47f496e2f5467573","features":{},"yanked":false,"links":null}
