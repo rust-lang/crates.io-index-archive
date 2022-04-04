@@ -1,0 +1,1 @@
+{"name":"engarde","vers":"0.1.1","deps":[{"name":"syntect","req":"^4.5.0","features":["parsing","regex-fancy","assets","html","dump-load-rs"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bf20f26e17918f1acaf78758c7e34fd7baa077feb943b67ac24b5b81eb1164cf","features":{"syntax":["syntect"],"default":[]},"yanked":false,"links":null}
