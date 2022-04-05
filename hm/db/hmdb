@@ -1,1 +1,2 @@
 {"name":"hmdb","vers":"0.1.0","deps":[],"cksum":"542f3f792f517f82cd498c41416b8bfc217d81b87bd3cadd2255b152aeaf845c","features":{},"yanked":false,"links":null}
+{"name":"hmdb","vers":"0.1.1","deps":[{"name":"bincode","req":"^1.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8226bf5877217356284bda912dec1fa0ed3e29a2bb782ce39838d4cb5f0f99bd","features":{},"yanked":false,"links":null}
