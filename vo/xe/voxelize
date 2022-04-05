@@ -1,0 +1,1 @@
+{"name":"voxelize","vers":"0.1.0","deps":[{"name":"actix-web","req":"^4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52adccd989b4180d029b63086b904f914f2e94ffb385505aee9d73517e38dad6","features":{},"yanked":false,"links":null}
