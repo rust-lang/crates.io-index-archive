@@ -1,1 +1,2 @@
 {"name":"mmdbus","vers":"1.6.14","deps":[{"name":"dbus","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2be8d1c0a117b3016caba500f3355148cfa176242f4f045e93e63f7d57b3e0a7","features":{},"yanked":false,"links":null}
+{"name":"mmdbus","vers":"1.10.8","deps":[{"name":"dbus","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31ee11e1dd928dd12f2d258c5c43e7d763be712979a11ebbb02b5aa373cd2cfa","features":{},"yanked":false,"links":null}
