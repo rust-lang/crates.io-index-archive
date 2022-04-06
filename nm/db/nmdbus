@@ -1,0 +1,1 @@
+{"name":"nmdbus","vers":"1.10.14","deps":[{"name":"dbus","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"792f823a3ab38fef7e9111dc24707cdf7835ea0c62e22fef09eafc5f309a2794","features":{},"yanked":false,"links":null}
