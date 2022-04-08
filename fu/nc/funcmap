@@ -1,0 +1,1 @@
+{"name":"funcmap","vers":"0.1.0","deps":[{"name":"funcmap_derive","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"232b17e9194680f13eeeafd40da6f43bd57cca4e4519163edbe42be98c42f7e9","features":{"alloc":[],"std":["alloc"],"default":["std"]},"yanked":false,"links":null}
