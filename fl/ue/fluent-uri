@@ -1,0 +1,1 @@
+{"name":"fluent-uri","vers":"0.1.0","deps":[{"name":"beef","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4934df34c63bb35d94079261df657c21631a0861c482553a5e949696db05ce5e","features":{"ipv_future":[]},"yanked":false,"links":null}
