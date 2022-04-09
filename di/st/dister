@@ -1,1 +1,2 @@
 {"name":"dister","vers":"0.1.0","deps":[{"name":"toml","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"249b39b4c4b1256f87d4d4f7a2c980e273e3f76d8d966c1ae7dd59c7a41030ba","features":{},"yanked":false,"links":null}
+{"name":"dister","vers":"0.1.1","deps":[{"name":"toml","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9850d8800e8fb9c777f410fda69c0b7d8b7fbad70fc827d02f0514db05c204db","features":{},"yanked":false,"links":null}
