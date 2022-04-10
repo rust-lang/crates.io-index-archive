@@ -1,0 +1,1 @@
+{"name":"polyline-codec","vers":"0.1.0","deps":[{"name":"proptest","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"05d683a602abe3f1cab661c37e267d30fec59c2932547a8082616ed5475faaa2","features":{},"yanked":false,"links":null}
