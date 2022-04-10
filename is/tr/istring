@@ -14,3 +14,4 @@
 {"name":"istring","vers":"0.2.0","deps":[],"cksum":"996fe8521bab412598d84dab14619f213196e87adc289a7c8a139a28d0dc05b0","features":{},"yanked":false,"links":null}
 {"name":"istring","vers":"0.2.1","deps":[],"cksum":"defb2383c11cc064156fed33e61c7902df4f8ae44d29f0525bee68fc4471ce20","features":{},"yanked":false,"links":null}
 {"name":"istring","vers":"0.2.2","deps":[],"cksum":"4c70ca81dd4551d48bde3efdf31c144bc48468bf372dc4011277b04153e9cf19","features":{},"yanked":false,"links":null}
+{"name":"istring","vers":"0.3.0","deps":[{"name":"datasize","req":"^0.2.10","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"857751b922671dd2ce4fde7b1d9b780176e0993c4d1a788512c6280134e47495","features":{"size":["datasize"],"serialize":["serde"]},"yanked":false,"links":null}
