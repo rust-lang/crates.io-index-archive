@@ -1,0 +1,1 @@
+{"name":"libbf","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7bfb9cdb19562e5b734d936d1efe7300baac509b5757f1d9789249f013159f0d","features":{"ook":[],"all":["predefined"],"default":[],"bf":[],"predefined":["bf","ook"]},"yanked":false,"links":null}
