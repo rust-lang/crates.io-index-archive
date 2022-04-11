@@ -1,1 +1,2 @@
 {"name":"envloader","vers":"0.1.0","deps":[{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f84acef51c513854be3935d23e7d113be1333a52aa9889eaa5955c9558375576","features":{},"yanked":false,"links":null}
+{"name":"envloader","vers":"0.1.1","deps":[{"name":"tempdir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"da19cd6dc0b2246ee3e99826ab264aadadaf66ffa3002c5470894ef41d107ebb","features":{},"yanked":false,"links":null}
