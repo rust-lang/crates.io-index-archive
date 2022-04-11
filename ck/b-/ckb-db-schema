@@ -19,4 +19,4 @@
 {"name":"ckb-db-schema","vers":"0.101.6","deps":[],"cksum":"0dcbad6ad8e8f85ce84640ab15f9a0b2a86f605050718031103182d6dee00cb6","features":{},"yanked":false,"links":null}
 {"name":"ckb-db-schema","vers":"0.101.7","deps":[],"cksum":"77e8f8157fd43e7fcebb3f0c7f560012f1ebfd8685ad98b3434562e003a634b2","features":{},"yanked":false,"links":null}
 {"name":"ckb-db-schema","vers":"0.101.8","deps":[],"cksum":"c733be00944f301ead37808a2b2304a042142b666d4ac781e7e6acbb75e05791","features":{},"yanked":false,"links":null}
-{"name":"ckb-db-schema","vers":"0.102.0","deps":[],"cksum":"93e09b45813c07e955147db8e97e2db8d3421a04ce2b98f8702a29617fa72bf7","features":{},"yanked":false,"links":null}
+{"name":"ckb-db-schema","vers":"0.102.0","deps":[],"cksum":"93e09b45813c07e955147db8e97e2db8d3421a04ce2b98f8702a29617fa72bf7","features":{},"yanked":true,"links":null}
