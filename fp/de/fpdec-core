@@ -3,3 +3,4 @@
 {"name":"fpdec-core","vers":"0.2.0","deps":[],"cksum":"a4656948f9601daf79688969ace889aff0b9327382bc787d80c8da9dcf6d64fe","features":{},"yanked":false,"links":null}
 {"name":"fpdec-core","vers":"0.3.0","deps":[],"cksum":"9414f1126d51017dd63171c8a41627c725b6f76045c286556980aeff86ba325d","features":{},"yanked":false,"links":null}
 {"name":"fpdec-core","vers":"0.4.1","deps":[],"cksum":"7a1e975bed84534494c9eb5e32feed67929785ee8b1006954a95ed9416bc1738","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"fpdec-core","vers":"0.5.0","deps":[],"cksum":"adafb9cbc7aafef268d7d0a00465dc472b6375a189e0fd68744d1d9bfcbf3e64","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
