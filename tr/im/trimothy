@@ -1,0 +1,1 @@
+{"name":"trimothy","vers":"0.1.0","deps":[{"name":"brunch","req":"0.2.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e403967fabe1666d4bc9bd965297aaa8074362aceb4262f9571830a9eccde7e7","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
