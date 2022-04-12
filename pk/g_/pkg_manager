@@ -1,0 +1,1 @@
+{"name":"pkg_manager","vers":"0.1.0","deps":[{"name":"nix","req":"^0.23.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63539bbaca059031957145befccd0c69ef94af1df5818c69d8d24d30e018ac53","features":{},"yanked":false,"links":null}
