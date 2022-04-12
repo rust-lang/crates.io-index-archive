@@ -1,1 +1,2 @@
 {"name":"wasmedge-types","vers":"0.1.0","deps":[],"cksum":"3a6880a649a1840f43c14869ef49f477418e245fab342e43c90550e6d61bbac2","features":{},"yanked":false,"links":null}
+{"name":"wasmedge-types","vers":"0.1.1","deps":[{"name":"wat","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27e818f400f93c540a19002415d7182c972698cee7ed70c87682b2f924bd23eb","features":{},"yanked":false,"links":null}
