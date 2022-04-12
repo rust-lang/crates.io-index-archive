@@ -6,3 +6,4 @@
 {"name":"funlib","vers":"0.1.5","deps":[],"cksum":"985eb5e7ba9cf5736641cb87ae3479e5949843f2690abe6e3aefcce62213ce2f","features":{},"yanked":false,"links":null}
 {"name":"funlib","vers":"0.1.6","deps":[],"cksum":"24bb6fac5f7a8d335129ff02d4bfabe4f793b332d059a81ceee0a1479458cb3f","features":{},"yanked":false,"links":null}
 {"name":"funlib","vers":"0.1.7","deps":[],"cksum":"f298222d8a8808b803e837642a1cfa36959fd5694459f5ac1a6b4e5288ac6d62","features":{},"yanked":false,"links":null}
+{"name":"funlib","vers":"0.1.8","deps":[{"name":"funlib-macros","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55e541267ef47ca92ec42ec69bf7b923cfde65dde1d3c0c9589d1c7200d2006c","features":{},"yanked":false,"links":null}
