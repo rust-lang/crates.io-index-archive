@@ -1,0 +1,1 @@
+{"name":"disk_list","vers":"0.1.0","deps":[{"name":"systemstat","req":"^0.1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65193efedbaf53ea9359b7f71ec1f2584480ec9bd2b878b065db5e29f397b969","features":{},"yanked":false,"links":null}
