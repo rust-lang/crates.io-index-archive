@@ -1,0 +1,1 @@
+{"name":"hexchat-unsafe-plugin","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ec8357d3eefc066f2aa03d905de9f15a0ad6ad93b08043333d59bdee1989817","features":{},"yanked":false,"links":null}
