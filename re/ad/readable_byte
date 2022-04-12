@@ -1,0 +1,1 @@
+{"name":"readable_byte","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32ea59364bb820a820e799d3eed01ba670e6226ec8aad70cef5e7eb83ace4092","features":{},"yanked":false,"links":null}
