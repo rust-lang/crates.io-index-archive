@@ -10,3 +10,4 @@
 {"name":"packeteer","vers":"0.3.1","deps":[],"cksum":"3a74df819538aa5babda8cdb3510cdd5fe79a82d5d43f1a3df7c29ac1bf6dc6b","features":{"ftp":[],"gemini":[],"http1":[]},"yanked":true,"links":null}
 {"name":"packeteer","vers":"0.3.2","deps":[],"cksum":"7e1ab63f06764d308369c91dc5b06f16640201387c422f85341e86f8358e0515","features":{"http1":[],"ftp":[],"gemini":[]},"yanked":false,"links":null}
 {"name":"packeteer","vers":"0.4.0","deps":[],"cksum":"9b9bbcbd6b6a68ca8050c7f4d8ff8c29935760a0b90d80a980d0daa21a7f44a5","features":{"dns":[],"http1":[],"gemini":[],"ftp":[]},"yanked":false,"links":null}
+{"name":"packeteer","vers":"0.4.1","deps":[],"cksum":"bf823d65e34e7cd0d63d322304977d1ec785b5379522c4a7306228419358cb02","features":{"http1":[],"dns":[],"gemini":[],"ftp":[]},"yanked":false,"links":null}
