@@ -1,1 +1,2 @@
 {"name":"crawdad","vers":"0.1.0","deps":[],"cksum":"5f426315178bfd770107d58d2509681f2332580756d744e45635d58da0826316","features":{"alloc":[],"default":["alloc"]},"yanked":false,"links":null}
+{"name":"crawdad","vers":"0.1.1","deps":[],"cksum":"7457bee2366d9bd3f2a75f1f82f377f90749dc109667bdc4e6986ecc15dfc497","features":{"alloc":[],"default":["alloc"]},"yanked":false,"links":null}
