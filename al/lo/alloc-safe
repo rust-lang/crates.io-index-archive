@@ -1,1 +1,2 @@
 {"name":"alloc-safe","vers":"0.1.0","deps":[],"cksum":"33ab369166dc5f504313009f1e374c0f31a3b260dbfc024ca6957e3a82f70317","features":{},"yanked":false,"links":null}
+{"name":"alloc-safe","vers":"0.1.1","deps":[],"cksum":"ee4bb1ad3c76764cf8b490d48c32c97a80beafafa89f5546eb24e4c63c016c82","features":{"global-allocator":[],"default":["global-allocator"]},"yanked":false,"links":null}
