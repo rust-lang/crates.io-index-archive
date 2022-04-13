@@ -8,3 +8,4 @@
 {"name":"axum_static_macro","vers":"1.0.7","deps":[],"cksum":"2fd49abd4ba65a311bdb56af5896c6fb68e6a93e6a3ed977d4254a283304c01f","features":{},"yanked":false,"links":null}
 {"name":"axum_static_macro","vers":"1.0.8","deps":[],"cksum":"6f520ea4f0abf4261930a045470f37a5968461e0b48f4a109a514cafa513b291","features":{},"yanked":false,"links":null}
 {"name":"axum_static_macro","vers":"1.1.0","deps":[],"cksum":"cf767b81cc9e4ffa66065f8b0e68509404dbde0b66f07cdec803f9240aa82408","features":{},"yanked":false,"links":null}
+{"name":"axum_static_macro","vers":"1.1.1","deps":[{"name":"axum","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"tokio","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"afc64a5e377d88c6666064c9f938019c22b00e66b0f62764e303952268924c0c","features":{},"yanked":false,"links":null}
