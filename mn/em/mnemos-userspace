@@ -1,0 +1,1 @@
+{"name":"mnemos-userspace","vers":"0.0.1","deps":[{"name":"common","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"mnemos-common"}],"cksum":"3f4fcb04fa40e8fe4653a1cc1872c9b188a2fb2db1373e20e48588f718aa9c8e","features":{},"yanked":false,"links":null}
