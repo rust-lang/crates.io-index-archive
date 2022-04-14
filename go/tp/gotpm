@@ -1,0 +1,1 @@
+{"name":"gotpm","vers":"0.1.0","deps":[{"name":"clap","req":"^3.1.8","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3779e40861874a933e6ddf3abe02ad4c9d96b00f2b7b5a1076f04774c7f4407e","features":{},"yanked":false,"links":null}
