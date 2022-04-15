@@ -1,1 +1,2 @@
 {"name":"clap_lex","vers":"0.1.0","deps":[{"name":"os_str_bytes","req":"^6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d716edb7c26222b1b21de6e6d505b274f9f3db9e7bc2e06baf389d57ae842df8","features":{},"yanked":false,"links":null}
+{"name":"clap_lex","vers":"0.1.1","deps":[{"name":"os_str_bytes","req":"^6.0","features":["raw_os_str"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"189ddd3b5d32a70b35e7686054371742a937b0d99128e76dde6340210e966669","features":{},"yanked":false,"links":null}
