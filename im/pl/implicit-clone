@@ -1,0 +1,1 @@
+{"name":"implicit-clone","vers":"0.1.0","deps":[{"name":"indexmap","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fba3b1c7b1b713d10dd05faebd78a5392e2c88b29255ba90ff2a59332fbfb6e7","features":{"map":["indexmap"]},"yanked":false,"links":null}
