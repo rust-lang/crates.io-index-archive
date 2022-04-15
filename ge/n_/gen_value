@@ -1,0 +1,1 @@
+{"name":"gen_value","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8069730bd3031194ea99b0165b564239c1d59ad0ca283ebcc46874bd5ef2edd9","features":{"default":["std"],"std":[],"alloc":[]},"yanked":false,"links":null}
