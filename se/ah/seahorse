@@ -31,3 +31,4 @@
 {"name":"seahorse","vers":"1.1.2","deps":[],"cksum":"8bee1fe454786f1d236a07cb3d3adcbaca96e9ba42d23bc58de059937bb059bd","features":{},"yanked":false,"links":null}
 {"name":"seahorse","vers":"1.2.0","deps":[],"cksum":"24202031a8f797ea7cd018e07fe6fc8b9bb591fb5428ee4cf6c6484ec5ac43d6","features":{},"yanked":true,"links":null}
 {"name":"seahorse","vers":"2.0.0","deps":[],"cksum":"8dfc08bbde3ce4c9d10e69804e9599d5c2c5c60eb65b78bbffdcf46687654dca","features":{},"yanked":false,"links":null}
+{"name":"seahorse","vers":"2.1.0","deps":[],"cksum":"b3367111e93171f2f51f16fb46201bf6687f9da95eb1d409b6067cbc77af9c9c","features":{},"yanked":false,"links":null}
