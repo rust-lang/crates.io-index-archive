@@ -1,1 +1,2 @@
 {"name":"didyoumean","vers":"1.0.0","deps":[{"name":"clap","req":"^3.1.8","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b64bc69a2c24ff8d3a3276a58cf7cada26626d4e9445b4ff6cad8286958c8af4","features":{},"yanked":false,"links":null}
+{"name":"didyoumean","vers":"1.0.1","deps":[{"name":"clap","req":"^3.1.8","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51f74f1b3f2a7d22e7847dfdc9cdb309ba1dc61357ecbdb08a5ebda0911344d5","features":{},"yanked":false,"links":null}
