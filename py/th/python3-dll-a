@@ -2,3 +2,4 @@
 {"name":"python3-dll-a","vers":"0.1.1","deps":[],"cksum":"15b00b9796b078b0f259b80b6636b6548f57f4707c0bbb62a94c9cce8016bc1a","features":{},"yanked":false,"links":null}
 {"name":"python3-dll-a","vers":"0.1.2","deps":[],"cksum":"9690941d6ac9c56297825762ca413417742f0dc4b197f32e5c4a4eb7c3baaa85","features":{},"yanked":false,"links":null}
 {"name":"python3-dll-a","vers":"0.2.0","deps":[],"cksum":"0594facd5c8cbfb1845a1f99e50a6313712e1d3c7977395f33e3e95743b270b1","features":{},"yanked":false,"links":null}
+{"name":"python3-dll-a","vers":"0.2.1","deps":[{"name":"cc","req":"^1.0.73","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"c3b5b505af5f5e8925e62ec7ed2c13d990412c6bdabc682dffe08da6b9944c1a","features":{},"yanked":false,"links":null}
