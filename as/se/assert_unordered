@@ -3,3 +3,4 @@
 {"name":"assert_unordered","vers":"0.2.0","deps":[],"cksum":"4607088101adca871c59ddae5ad8fd63c40f123015242a0f22228daf6409b14a","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"assert_unordered","vers":"0.2.1","deps":[],"cksum":"4bc3e7ea80927e7fccbd0f0fe761bbe8552511900d6033868db51e2b4c6a7857","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"assert_unordered","vers":"0.3.0","deps":[],"cksum":"c5d62544285d511399d4786c6607ad7cee3df9e12f78d7ecf7985867bfcbdd42","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"assert_unordered","vers":"0.3.1","deps":[],"cksum":"515b91a6c99415c325bdb7ee08d25707c145ae74058b4e2b8eddaa9ba2f84250","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
