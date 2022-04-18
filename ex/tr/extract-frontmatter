@@ -7,3 +7,4 @@
 {"name":"extract-frontmatter","vers":"2.0.3","deps":[{"name":"version-sync","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ab98bf1aff1eb9dfa49aedc8ab2ef20eb3a5574db565e9316f2d711e2134e84c","features":{},"yanked":false,"links":null}
 {"name":"extract-frontmatter","vers":"2.1.0","deps":[],"cksum":"30b4c6ac125f7d6663c9bee567645050c9a164c4dbf5689bd5bdf344a1b39356","features":{},"yanked":false,"links":null}
 {"name":"extract-frontmatter","vers":"3.0.0","deps":[],"cksum":"21ac3994e2e1654a4d10eb25dedc2212e30391b9c911dfcf7ef11d3c0f7b1172","features":{},"yanked":false,"links":null}
+{"name":"extract-frontmatter","vers":"3.0.1","deps":[],"cksum":"8d36519d996033af90b048b70884d15edbd68271de692cb46b64750de60b7c6e","features":{},"yanked":false,"links":null}
