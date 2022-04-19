@@ -1,0 +1,1 @@
+{"name":"embedded-hal-async","vers":"0.1.0-alpha.0","deps":[{"name":"embedded-hal","req":"=1.0.0-alpha.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b9f684248ddba6d9f33c40386e7d8954ec13ad3c49705af3264cf995cce5abd","features":{},"yanked":false,"links":null}
