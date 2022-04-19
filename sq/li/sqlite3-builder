@@ -4,3 +4,4 @@
 {"name":"sqlite3-builder","vers":"3.38.4","deps":[],"cksum":"790267f468cba8f6fd1087563b58d03acb9019f6c9f05e6ccb0394a24256de11","features":{},"yanked":true,"links":null}
 {"name":"sqlite3-builder","vers":"3.38.5","deps":[],"cksum":"1caee50174a9c6854a73e3475684e34f3cd166acbc74f6ba784fb4d6590d56be","features":{},"yanked":false,"links":null}
 {"name":"sqlite3-builder","vers":"3.38.6","deps":[],"cksum":"08f8b4bc012bfe36d4c179534dd32422539dc2ce3763738777115b9979d04767","features":{},"yanked":false,"links":null}
+{"name":"sqlite3-builder","vers":"3.38.7","deps":[],"cksum":"159e409b9f7e659bcbd7a00d1190891387755cd3c0f5fcaa79cb88c48b7e1050","features":{},"yanked":false,"links":null}
