@@ -1,1 +1,2 @@
 {"name":"afch-logger","vers":"0.1.0-alpha.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57db440969298a154b0733deffdbbea8bdcfd0f4306d9504e73019f28cbea51a","features":{},"yanked":false,"links":null}
+{"name":"afch-logger","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78a6480b94229982421fbac6f3baa25b5bced7bfb8922f8a8d21312f8221684c","features":{},"yanked":false,"links":null}
