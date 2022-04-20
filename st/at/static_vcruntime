@@ -7,3 +7,4 @@
 {"name":"static_vcruntime","vers":"1.4.1","deps":[],"cksum":"2cc2c175f02106305516a337d93440cd88ac898383e57db5463426163d946b3e","features":{},"yanked":false,"links":null}
 {"name":"static_vcruntime","vers":"1.5.0","deps":[],"cksum":"83a66ac5e3d6efd5d6a19771a699d12772eaab6b1821342fbe2563ba0782396a","features":{},"yanked":false,"links":null}
 {"name":"static_vcruntime","vers":"1.5.1","deps":[],"cksum":"a88c15d6fe7210ea80c578b53855615fdea0188e1630b6d9c377e1b2f2c098fa","features":{},"yanked":false,"links":null}
+{"name":"static_vcruntime","vers":"2.0.0","deps":[],"cksum":"954e3e877803def9dc46075bf4060147c55cd70db97873077232eae0269dc89b","features":{},"yanked":false,"links":null}
