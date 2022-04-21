@@ -10,3 +10,4 @@
 {"name":"collate","vers":"0.1.9","deps":[],"cksum":"8a298011d90d326ac83a4b30ebefc9866ad724a5feed1e10413bf6b6fe95789b","features":{},"yanked":false,"links":null}
 {"name":"collate","vers":"0.1.10","deps":[],"cksum":"969719a0e6f949876ac05ba79bb84c8933afb007303a18ca8a021711db98f84a","features":{},"yanked":false,"links":null}
 {"name":"collate","vers":"0.2.0","deps":[{"name":"num-complex","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b2e34a081c1453111905ced46f0b7eba2f6bdf7c9ed02e7dd64d4029fd2fa01","features":{"complex":["num-complex"]},"yanked":true,"links":null}
+{"name":"collate","vers":"0.2.1","deps":[{"name":"num-complex","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00dafd084e05bc2e1e381efbb777d5598882aef924977db5fa2c5d62e629b789","features":{"complex":["num-complex"]},"yanked":false,"links":null}
