@@ -1,1 +1,2 @@
 {"name":"converge","vers":"0.0.1","deps":[{"name":"converge_derive","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0063a814d35d00f4e469e7c8bc4f2a2196b5c7dbcfb9956c05f91e301447989e","features":{},"yanked":false,"links":null}
+{"name":"converge","vers":"0.0.2","deps":[{"name":"converge_derive","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c854126c9fb25380725c38314382693eaca909c0e42fe39edbf0e962393de75d","features":{},"yanked":false,"links":null}
