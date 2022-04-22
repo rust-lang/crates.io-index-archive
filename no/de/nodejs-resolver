@@ -1,0 +1,1 @@
+{"name":"nodejs-resolver","vers":"0.0.1","deps":[{"name":"serde_json","req":"^1.0.79","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8680fbeafbe383968793a2c84731a1dd727309bd2c49fd279bd1d5b112eeb206","features":{},"yanked":false,"links":null}
