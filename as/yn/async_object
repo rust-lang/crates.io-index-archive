@@ -1,0 +1,1 @@
+{"name":"async_object","vers":"0.1.0","deps":[{"name":"futures","req":"^0.3.17","features":["thread-pool"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e213b413268caa9019616b01223d96553d8357731776f1b2071e193ce12eedc9","features":{},"yanked":false,"links":null}
