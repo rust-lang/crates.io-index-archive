@@ -1,0 +1,1 @@
+{"name":"blis-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.59.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"56183c1bb0698f7004c7fbb7315beaa77c9d9655fa160a3b78c96fbf739119a8","features":{"default":["openmp","static"],"pthreads":[],"static":[],"serial":[],"openmp":[]},"yanked":false,"links":null}
