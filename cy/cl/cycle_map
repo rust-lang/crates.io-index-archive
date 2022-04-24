@@ -1,0 +1,1 @@
+{"name":"cycle_map","vers":"0.1.0","deps":[{"name":"hashbrown","req":"^0.12.0","features":["raw","ahash"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8adcfb41c59164d64f1de4d85edbb25c519cd2ac549a111f4c4762d946570496","features":{},"yanked":false,"links":null}
