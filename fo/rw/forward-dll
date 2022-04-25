@@ -1,0 +1,1 @@
+{"name":"forward-dll","vers":"0.1.0","deps":[{"name":"windows-sys","req":"^0.35.0","features":["Win32_Foundation","Win32_System_Memory","Win32_System_LibraryLoader"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"034ea52f1e49f07d3a61d9af8387791dc0d9de81373c95c8d1098808aed60c9e","features":{},"yanked":false,"links":null}
