@@ -30,3 +30,4 @@
 {"name":"dylint_linting","vers":"1.0.13","deps":[],"cksum":"15ec587418bda2f8e0dc6a40e21b2878c3901647f7148d5f833b2d657f46ea17","features":{},"yanked":false,"links":null}
 {"name":"dylint_linting","vers":"1.0.14","deps":[],"cksum":"a8d78565000f6932d86e9f4e5001e35863d3d559db00360228aeebf665e3aafe","features":{},"yanked":false,"links":null}
 {"name":"dylint_linting","vers":"2.0.0","deps":[],"cksum":"73cb22931c057b6c7a93d945a22f12f9117ff5d8a6d47e4831ee617b3601bf4b","features":{},"yanked":false,"links":null}
+{"name":"dylint_linting","vers":"2.0.1","deps":[{"name":"paste","req":"^1.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c62aa310fef7ec82c31436f2873a5a89c385579495bb7611ff8194d8f1d5c6bb","features":{},"yanked":false,"links":null}
