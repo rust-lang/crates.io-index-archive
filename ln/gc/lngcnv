@@ -4,5 +4,5 @@
 {"name":"lngcnv","vers":"1.0.0","deps":[],"cksum":"80e442d5a0e70266f00c2094b71426127367b181e79acf700137161165c2aa43","features":{},"yanked":true,"links":null}
 {"name":"lngcnv","vers":"1.1.0","deps":[],"cksum":"46a15e40333c0d22f8996c49e286d9846454d55ec1be51c76331d2e2f03250d6","features":{},"yanked":true,"links":null}
 {"name":"lngcnv","vers":"1.2.0","deps":[],"cksum":"026e1ff12778ff21fc3a93437e4fd1faf7a683c1556136c84dffc5e0cf032dd4","features":{},"yanked":true,"links":null}
-{"name":"lngcnv","vers":"1.3.0","deps":[],"cksum":"3f109e87b7688bbcf8ef310f2cca7dc8d951588076a0d910f916fa7ce7024326","features":{},"yanked":false,"links":null}
+{"name":"lngcnv","vers":"1.3.0","deps":[],"cksum":"3f109e87b7688bbcf8ef310f2cca7dc8d951588076a0d910f916fa7ce7024326","features":{},"yanked":true,"links":null}
 {"name":"lngcnv","vers":"1.4.0-alpha","deps":[],"cksum":"6c955b109a000b02e9961183c896350b94775bc0041aabd97c2b4604bf3b4c70","features":{},"yanked":false,"links":null}
