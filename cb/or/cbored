@@ -6,3 +6,4 @@
 {"name":"cbored","vers":"0.1.5","deps":[],"cksum":"745db7c9348ff1aa18f0afcc445f216cdcd017c29e6573d7878d9c4410c9a532","features":{},"yanked":false,"links":null}
 {"name":"cbored","vers":"0.1.6","deps":[],"cksum":"5f4a2ece84aae5417db688951fd808c1b0d6bae66b18adb3d8d6a0a23af93349","features":{},"yanked":false,"links":null}
 {"name":"cbored","vers":"0.1.7","deps":[],"cksum":"165f77ce05c813e9c01bcb081fa4c6f52602bae2c71a299fe6815a4ea0dd69d3","features":{},"yanked":false,"links":null}
+{"name":"cbored","vers":"0.1.8","deps":[{"name":"cbored-derive","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d81e55c946889ea07aa8628b3d4a74894c90dc90fa6591ad733f71e77986b80e","features":{"derive":["cbored-derive"],"default":[]},"yanked":false,"links":null}
