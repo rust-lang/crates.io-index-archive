@@ -1,0 +1,1 @@
+{"name":"avrox-storage","vers":"0.0.0","deps":[{"name":"avr-oxide","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1c5e89730e046db23ff62bad7ce5d740c40edadbaa141558b86116655d6f1fa","features":{},"yanked":false,"links":null}
