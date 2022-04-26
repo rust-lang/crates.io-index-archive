@@ -12,3 +12,4 @@
 {"name":"windows_i686_msvc","vers":"0.33.0","deps":[],"cksum":"8cfdbe89cc9ad7ce618ba34abc34bbb6c36d99e96cae2245b7943cd75ee773d0","features":{},"yanked":false,"links":null}
 {"name":"windows_i686_msvc","vers":"0.34.0","deps":[],"cksum":"9cd9d32ba70453522332c14d38814bceeb747d80b3958676007acadd7e166956","features":{},"yanked":false,"links":null}
 {"name":"windows_i686_msvc","vers":"0.35.0","deps":[],"cksum":"1acdcbf4ca63d8e7a501be86fee744347186275ec2754d129ddeab7a1e3a02e4","features":{},"yanked":false,"links":null}
+{"name":"windows_i686_msvc","vers":"0.36.0","deps":[],"cksum":"7a0cee91bff283876711f91e7db0aa234438bc663a9d8304596df00b0a6fd6ef","features":{},"yanked":false,"links":null}
