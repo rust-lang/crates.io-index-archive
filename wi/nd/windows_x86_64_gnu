@@ -11,3 +11,4 @@
 {"name":"windows_x86_64_gnu","vers":"0.33.0","deps":[],"cksum":"b4dd9b0c0e9ece7bb22e84d70d01b71c6d6248b81a3c60d11869451b4cb24784","features":{},"yanked":false,"links":null}
 {"name":"windows_x86_64_gnu","vers":"0.34.0","deps":[],"cksum":"cfce6deae227ee8d356d19effc141a509cc503dfd1f850622ec4b0f84428e1f4","features":{},"yanked":false,"links":null}
 {"name":"windows_x86_64_gnu","vers":"0.35.0","deps":[],"cksum":"893c0924c5a990ec73cd2264d1c0cba1773a929e1a3f5dbccffd769f8c4edebb","features":{},"yanked":false,"links":null}
+{"name":"windows_x86_64_gnu","vers":"0.36.0","deps":[],"cksum":"51e8c6f778aa4383b033ff785191aea0f1ebeceedc160c2c92f944ef7e191476","features":{},"yanked":false,"links":null}
