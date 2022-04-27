@@ -1,0 +1,1 @@
+{"name":"topopt","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.30.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f863fa9ea7d08dd7976a605fa847f3eda3a4e193209a0798d6b17f0116bb0b40","features":{},"yanked":false,"links":null}
