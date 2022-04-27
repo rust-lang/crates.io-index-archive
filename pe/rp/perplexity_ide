@@ -1,0 +1,1 @@
+{"name":"perplexity_ide","vers":"0.0.1","deps":[{"name":"dioxus","req":"^0.2","features":["desktop"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5bca1e0175391f1187724dcbf64b75bbaa6748e74a58a94db74a4ecd1369297","features":{},"yanked":false,"links":null}
