@@ -1,0 +1,1 @@
+{"name":"mdiu","vers":"0.1.0","deps":[{"name":"http","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36c8435f5ead6460002901e441efe84114ed2da96010fbf473b3cd382ffd7e71","features":{"html":[],"markdown":[]},"yanked":false,"links":null}
