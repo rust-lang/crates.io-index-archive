@@ -1,2 +1,3 @@
 {"name":"polonius-the-crab","vers":"0.1.0-rc1","deps":[],"cksum":"60a36a88d7b1a9f17c796b857048c1ff35e82965d3436389f3ac752253b9d401","features":{"polonius":[],"docs-rs":[],"ui-tests":["docs-rs"]},"yanked":false,"links":null}
 {"name":"polonius-the-crab","vers":"0.1.0-rc2","deps":[],"cksum":"5f739614dce8f18798f7f7b9d69a8f510aa054293191ed3101cc5b1aa6693d9a","features":{"ui-tests":["docs-rs"],"polonius":[],"docs-rs":[]},"yanked":false,"links":null}
+{"name":"polonius-the-crab","vers":"0.1.0-rc3","deps":[],"cksum":"0abafa5d2da7e86d036a50584adc695a5ebc8862cdd7576139a1ff9713e65cd6","features":{"polonius":[],"ui-tests":["docs-rs"],"docs-rs":[]},"yanked":false,"links":null}
