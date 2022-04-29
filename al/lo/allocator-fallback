@@ -1,1 +1,2 @@
 {"name":"allocator-fallback","vers":"0.1.0","deps":[],"cksum":"726a3d785e1fd3057a5f5b2f76221a23f21e8b0616f44985c35a55943ddcd419","features":{"allocator_api":[],"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"allocator-fallback","vers":"0.1.1","deps":[],"cksum":"31fe7366792cb6a6ff1e0f22871a3e274b9e50d210935bf90b6b5d274d6f2589","features":{"std":[],"allocator_api":[],"default":["std"]},"yanked":false,"links":null}
