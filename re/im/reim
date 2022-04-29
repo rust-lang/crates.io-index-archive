@@ -6,3 +6,4 @@
 {"name":"reim","vers":"0.0.5","deps":[],"cksum":"a57590f1bc10edb14587247a4b7a87dc95d4cb3d2606a5877bfac0e903446e73","features":{},"yanked":false,"links":null}
 {"name":"reim","vers":"0.0.6","deps":[],"cksum":"c4170a993dcf86bc29b417cd86e05562d6b56b556668815ae00d412aa23398ea","features":{},"yanked":false,"links":null}
 {"name":"reim","vers":"0.0.7","deps":[],"cksum":"2748fd6d802382247dbbac640f53e7cd94ff6ae83f6fdfefc45eb0ff762bbcd0","features":{},"yanked":false,"links":null}
+{"name":"reim","vers":"0.0.8","deps":[{"name":"disp","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff9bb9d2a861e539098388ea76ec07f4ad6007b5e31af0ba1bb414b271eb7dd9","features":{},"yanked":false,"links":null}
