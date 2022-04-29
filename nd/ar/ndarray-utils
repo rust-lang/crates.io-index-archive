@@ -1,1 +1,2 @@
 {"name":"ndarray-utils","vers":"0.1.0","deps":[{"name":"ndarray","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b773ef2770673a9cf8bc54c8fab3886dc5487e4ee4cf161b885405619cc15ac3","features":{},"yanked":false,"links":null}
+{"name":"ndarray-utils","vers":"0.1.1","deps":[{"name":"ndarray","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0f8c822cb12cf082231705c773e429d0bc9a2322b07af6cb23ad2ebd49e12f6","features":{},"yanked":false,"links":null}
