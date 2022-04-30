@@ -1,0 +1,1 @@
+{"name":"rnrm","vers":"0.1.0","deps":[{"name":"clap","req":"^3.1.12","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68031a8409399f241857431e16471fe63c773a7591e4e03554747a018c01d4b7","features":{},"yanked":false,"links":null}
