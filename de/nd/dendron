@@ -1,1 +1,2 @@
 {"name":"dendron","vers":"0.1.0","deps":[],"cksum":"97fcac9f33e8407584bba651415cc75de877c514530bdef41664ee2cc34626f7","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"dendron","vers":"0.1.1","deps":[],"cksum":"477d7da0d0df7a1350687333f363a0250ba3d3102a3f7620e9b9e04a804e4794","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
