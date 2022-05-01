@@ -1,0 +1,1 @@
+{"name":"diamondfire-actiondump","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecbaaf4da56641a325193fe51077592d520c68261ca3e5692e34fbc6d277aa52","features":{},"yanked":false,"links":null}
