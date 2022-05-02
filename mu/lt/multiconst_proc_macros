@@ -1,0 +1,1 @@
+{"name":"multiconst_proc_macros","vers":"0.2.0","deps":[{"name":"proc-macro2","req":"^1.0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a0558dea17b1a6ca686e32cae3e505594070cb3ce3513443c89331612c2d2cf6","features":{"__dbg":[]},"yanked":false,"links":null}
