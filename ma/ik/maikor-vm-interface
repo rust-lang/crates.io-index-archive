@@ -1,0 +1,1 @@
+{"name":"maikor-vm-interface","vers":"0.1.0","deps":[{"name":"maikor-vm-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ccb4369ee6707765a22959f2aff96c4224bc061c8b83cbdaae1d7a616321ab6","features":{"argb":[],"rgba":[],"default":[]},"yanked":false,"links":null}
