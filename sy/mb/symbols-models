@@ -1,1 +1,2 @@
 {"name":"symbols-models","vers":"0.1.0","deps":[{"name":"sea-orm","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51317eaa0799ee6fe11c6b3f006bc5531699f2109668a17dc05862b6421942eb","features":{},"yanked":false,"links":null}
+{"name":"symbols-models","vers":"0.1.1","deps":[{"name":"sea-orm","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89785a040d530c9de15624400857ef0c5817f3a16e6548022a8e10b54a6ec61f","features":{},"yanked":false,"links":null}
