@@ -4,3 +4,4 @@
 {"name":"sql-parse","vers":"0.2.1","deps":[],"cksum":"9fd064413d2e101401157d4470496e29b9a808ea0dbd6f9e167293e6386bfab2","features":{},"yanked":false,"links":null}
 {"name":"sql-parse","vers":"0.3.0","deps":[],"cksum":"58ba1966ccb9ce147697a2ec7d53a44f5687a2ab1b4eee1ab9f96a1237d7a467","features":{},"yanked":false,"links":null}
 {"name":"sql-parse","vers":"0.4.0","deps":[],"cksum":"3a21d227deaba01c48dbf6ab2dfdb8609bb767d495a8eb85e3e42bfa9281613a","features":{},"yanked":false,"links":null}
+{"name":"sql-parse","vers":"0.5.0","deps":[],"cksum":"d5376c11dd6ee5d17128dfec38111b6f099cc6e610d5370c037a0ec46c5fd2b2","features":{},"yanked":false,"links":null}
