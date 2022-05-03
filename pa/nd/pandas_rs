@@ -1,1 +1,2 @@
 {"name":"pandas_rs","vers":"0.1.0","deps":[{"name":"useful_macro","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ceef049f42d167cfa8bd59e82251a4380e75b9264913b54a59e57f265b85652","features":{},"yanked":false,"links":null}
+{"name":"pandas_rs","vers":"0.1.1","deps":[{"name":"useful_macro","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ce4c7bc804c730742fb80f66bd58169313a80ef7ad01864636108ed1f2f69b6","features":{},"yanked":false,"links":null}
