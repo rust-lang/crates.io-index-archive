@@ -1,0 +1,1 @@
+{"name":"ch32v2","vers":"0.1.0","deps":[{"name":"ch32v3","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"219342a0c6d7aa63ecfbdab3b3dbe645f48e6b5c18817bb0224f7e89b751d134","features":{"rt":["ch32v3/rt"],"default":[]},"yanked":false,"links":null}
