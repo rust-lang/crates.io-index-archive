@@ -1,0 +1,1 @@
+{"name":"inputstat","vers":"0.1.0","deps":[{"name":"evdev","req":"^0.11.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccde534d5d59847c904c73764eff46125dd134e832b13d6aed0073ad62a8c2fe","features":{},"yanked":false,"links":null}
