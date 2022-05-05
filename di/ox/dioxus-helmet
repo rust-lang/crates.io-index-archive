@@ -1,0 +1,1 @@
+{"name":"dioxus-helmet","vers":"0.1.1","deps":[{"name":"dioxus","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04d51cec64bdd82ad07ef06870d94c054230f64d7f1ac95f29daedf3a6440099","features":{"default":["web"],"desktop":["dioxus/desktop"],"web":["dioxus/web"]},"yanked":false,"links":null}
