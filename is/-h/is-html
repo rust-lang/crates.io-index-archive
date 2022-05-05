@@ -1,1 +1,2 @@
 {"name":"is-html","vers":"0.1.0","deps":[],"cksum":"358d5ee31db2b3d95e969ab11859b48c6092ef29352965f788ac061d956ec8be","features":{},"yanked":false,"links":null}
+{"name":"is-html","vers":"0.1.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce745206e7def89b56e926a2caa26515ed69d0e89d57560fac2f5269f7fe3f96","features":{},"yanked":false,"links":null}
