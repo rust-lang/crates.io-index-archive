@@ -7,3 +7,4 @@
 {"name":"macro-attr-2018","vers":"1.1.0","deps":[{"name":"enum_derive","req":"^0.1.7","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"},{"name":"rustc-serialize","req":"^0.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a0cc4df1983efb660d579ca6a1531e13f5000eedbf3b5c32ca1a3eb599c0b513","features":{},"yanked":false,"links":null}
 {"name":"macro-attr-2018","vers":"1.1.1","deps":[],"cksum":"e7617acf97b6dc54a533ab057a702165ce2b9ae4fd5d1fcae95efe4b05dd6370","features":{},"yanked":false,"links":null}
 {"name":"macro-attr-2018","vers":"1.1.2","deps":[],"cksum":"b5b6ec031ba0231a2280cfc617b78f2db9153de4e1a81e071fd7b2a8e528de94","features":{},"yanked":false,"links":null}
+{"name":"macro-attr-2018","vers":"2.0.0","deps":[],"cksum":"4caebb41a92e98f14afdef8aa6addff0e32c100192b8f755c0088def0245b3f0","features":{},"yanked":false,"links":null}
