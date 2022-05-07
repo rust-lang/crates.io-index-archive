@@ -2,3 +2,4 @@
 {"name":"maikor-language","vers":"0.1.1","deps":[],"cksum":"90b0cd0b09bea18012ea21a9cea72a133bc840b1668eff87c08e6823ffc2306c","features":{},"yanked":false,"links":null}
 {"name":"maikor-language","vers":"0.1.2","deps":[],"cksum":"a83a9c6e5f7edd3bb1791184f4bc8dfc094c097a89b718bda7eb9aee553728c3","features":{},"yanked":false,"links":null}
 {"name":"maikor-language","vers":"0.1.3","deps":[],"cksum":"6cf2a415abbf0752e1c03276519fadf5b6e47c9109605720c61a733ce14d28c9","features":{},"yanked":false,"links":null}
+{"name":"maikor-language","vers":"0.1.4","deps":[{"name":"thiserror","req":"^1.0.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f25e96ea950e19c08329c0a9842f3b373fa6c9d4d702e3ff7436fbe6b9c73225","features":{},"yanked":false,"links":null}
