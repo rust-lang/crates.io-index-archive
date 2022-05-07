@@ -1,1 +1,2 @@
 {"name":"murray","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bab2f6344cbb7464a9aca7a93eba339344f72ecaf3a5a691cc8738efd836e6cb","features":{},"yanked":false,"links":null}
+{"name":"murray","vers":"0.1.1","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1208af275a7f6081173a21c959a3a706ef65adf5b1358c58d192c6c5fe6e342b","features":{},"yanked":false,"links":null}
