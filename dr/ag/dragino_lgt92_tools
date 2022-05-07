@@ -1,1 +1,2 @@
 {"name":"dragino_lgt92_tools","vers":"0.1.0","deps":[{"name":"bytes","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44242cf327a4a79467e08ebc89798f5b5adadbb7eddd924c4366af5de144ec97","features":{},"yanked":false,"links":null}
+{"name":"dragino_lgt92_tools","vers":"0.2.0","deps":[{"name":"bytes","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e760f87cfc303ab1a0f22adb7cfb9408951bf6b3c248b0dd6afa0a127c12e844","features":{},"yanked":false,"links":null}
