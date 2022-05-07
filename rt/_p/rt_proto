@@ -1,1 +1,2 @@
 {"name":"rt_proto","vers":"0.1.0","deps":[{"name":"rustc-serialize","req":"^0.3.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"566bc8521d0aae7ed938552ee93c2a482f38cb9bc71c60d62c7ec83e738c8daf","features":{},"yanked":false,"links":null}
+{"name":"rt_proto","vers":"0.1.1","deps":[{"name":"rustc-serialize","req":"^0.3.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"606e4de5bf1008b97b9cb1941d8fc2f2f11c3a5b894f6fb81c5c32e2ad208715","features":{},"yanked":false,"links":null}
