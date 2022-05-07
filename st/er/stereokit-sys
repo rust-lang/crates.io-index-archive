@@ -1,0 +1,1 @@
+{"name":"stereokit-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.59.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"26ff8a572d4779cd93ca8d1511f1920ff13c96cbc6ba00cf7ab4a632d97ffc0a","features":{},"yanked":false,"links":"StereoKitC"}
