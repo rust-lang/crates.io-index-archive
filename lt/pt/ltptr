@@ -1,1 +1,2 @@
 {"name":"ltptr","vers":"0.1.0","deps":[],"cksum":"7e6a057b2692ee0d8b155dbe27ff65d5dc71336854a5b7035c0f16d064e81463","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"ltptr","vers":"0.1.1","deps":[],"cksum":"d7e1f656cb6c61b85fdd248f19c8529caf5c218bb0bd303f43d46493cdf39dd3","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
