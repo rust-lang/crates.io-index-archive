@@ -1,0 +1,1 @@
+{"name":"rust_logging","vers":"1.0.0","deps":[{"name":"isatty","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4152cd49132c77ed2f9fc7c20723333de970196d157c2d9eb65647bc4999c85e","features":{},"yanked":false,"links":null}
