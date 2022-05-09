@@ -1,0 +1,1 @@
+{"name":"castle_input_cursor","vers":"0.3.2","deps":[{"name":"serde","req":"^1.0.117","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b4fd41747fbd39a7081252328f4838a86883e83bcc74b53c1ddcbfa18b3e786","features":{},"yanked":false,"links":null}
