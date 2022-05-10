@@ -1,0 +1,1 @@
+{"name":"near-contract-tools","vers":"0.1.0","deps":[{"name":"near-sdk","req":"^4.0.0-pre.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbb19f9020477f832d7bbcdcbe3519511dffb644b8b9350b151d237f8aa35b4b","features":{},"yanked":false,"links":null}
