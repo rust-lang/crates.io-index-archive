@@ -1,0 +1,1 @@
+{"name":"spellingbee","vers":"0.2.0","deps":[{"name":"clap","req":"^3.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1f71340a017a1e0f73b2f491af887838f3cef5621b686908da1d9f1cac4646a","features":{},"yanked":false,"links":null}
