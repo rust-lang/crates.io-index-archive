@@ -1,1 +1,2 @@
 {"name":"error-macro","vers":"0.1.0","deps":[],"cksum":"86db48450aa173df118471fdfa2e753b37160c008137344800dbbaf0e2643aa5","features":{"default":["std"],"std":["alloc"],"alloc":[]},"yanked":false,"links":null}
+{"name":"error-macro","vers":"0.1.1","deps":[],"cksum":"17f6cc264988b1db5462e50614cff571bfea113aa41bb0f91f81beee6af55b0d","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"links":null}
