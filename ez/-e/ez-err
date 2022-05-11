@@ -1,0 +1,1 @@
+{"name":"ez-err","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.17","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a081baefb493508fefea29360c8734625ed8645b7ba7557d2e8947ee8f1cf977","features":{"no_stacktrace":[],"default":[]},"features2":{"log":["dep:log"]},"yanked":false,"links":null,"v":2}
