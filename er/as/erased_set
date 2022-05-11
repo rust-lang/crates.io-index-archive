@@ -1,0 +1,1 @@
+{"name":"erased_set","vers":"0.6.0","deps":[{"name":"hashbrown","req":"^0.12.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e12bf7f0c9b190ab05019a76f6b7889fe5a0d8c96607769a46a1f704b9f29d0a","features":{"default":["send","sync"],"send":[],"sync":[]},"yanked":false,"links":null}
