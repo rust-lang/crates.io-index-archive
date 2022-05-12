@@ -1,0 +1,1 @@
+{"name":"fs1027-dg-hal","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e2285fbde465928c4f5824d5792927380c0ecf98785e1601a79c4385b781ab0","features":{},"yanked":false,"links":null}
