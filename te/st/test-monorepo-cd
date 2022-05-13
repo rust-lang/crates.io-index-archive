@@ -10,3 +10,4 @@
 {"name":"test-monorepo-cd","vers":"1.0.0","deps":[],"cksum":"c8823e9e190fb5ab3aa1f36a3ec0ed1675802e97ca1bd748f7f2c1aff844702d","features":{},"yanked":false,"links":null}
 {"name":"test-monorepo-cd","vers":"0.2.3-alpha.1","deps":[],"cksum":"f00e2a8b2a1ecbdc7f10ea816c35d5cfe730658c99ecf4260382dfbd6300cc4b","features":{},"yanked":false,"links":null}
 {"name":"test-monorepo-cd","vers":"0.2.3-alpha.2","deps":[],"cksum":"7751a9d63bbb1607ee498c7c24c3f5f259b67176c07d0fed9349ac0e20a76848","features":{},"yanked":false,"links":null}
+{"name":"test-monorepo-cd","vers":"0.2.3-alpha.3","deps":[],"cksum":"c12bfbcd7093ce37b93a5a903155a64dc222e189e22ad953d5d4adc5bcdd3096","features":{},"yanked":false,"links":null}
