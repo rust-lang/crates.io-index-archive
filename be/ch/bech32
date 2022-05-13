@@ -15,3 +15,4 @@
 {"name":"bech32","vers":"0.7.3","deps":[],"cksum":"2dabbe35f96fb9507f7330793dc490461b2962659ac5d427181e451a623751d1","features":{"strict":[]},"yanked":false,"links":null}
 {"name":"bech32","vers":"0.8.0","deps":[],"cksum":"6c7f7096bc256f5e5cb960f60dfc4f4ef979ca65abe7fb9d5a4f77150d3783d4","features":{"strict":[]},"yanked":false,"links":null}
 {"name":"bech32","vers":"0.8.1","deps":[],"cksum":"cf9ff0bbfd639f15c74af777d81383cf53efb7c93613f6cab67c6c11e05bbf8b","features":{"strict":[],"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"bech32","vers":"0.9.0","deps":[],"cksum":"c5738be7561b0eeb501ef1d5c5db3f24e01ceb55fededd9b00039aada34966ad","features":{"std":[],"strict":[],"default":["std"]},"yanked":false,"links":null}
