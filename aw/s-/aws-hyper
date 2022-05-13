@@ -16,3 +16,4 @@
 {"name":"aws-hyper","vers":"0.10.0","deps":[],"cksum":"2740275e03c45043908080653056cdeedfdc9b8da69f134c1b69b1b19a55e323","features":{},"yanked":true,"links":null}
 {"name":"aws-hyper","vers":"0.10.1","deps":[],"cksum":"ef42daa19a43710632c2ce8731b945aea2fc3bfd9135860c64a51f167c2cb784","features":{},"yanked":false,"links":null}
 {"name":"aws-hyper","vers":"0.11.0","deps":[],"cksum":"2a17a5c1ac6e361e00c4df08efb74bac4cff9bb037b016cb50b32a84e434bfb2","features":{},"yanked":false,"links":null}
+{"name":"aws-hyper","vers":"0.12.0","deps":[],"cksum":"39d1ed208a49e4107a9d84501359ad73d1ed38a633cfeecdce036b93b7295fa6","features":{},"yanked":false,"links":null}
