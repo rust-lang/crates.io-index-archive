@@ -1,0 +1,1 @@
+{"name":"sdp-rs","vers":"0.0.1","deps":[{"name":"nom","req":"^7.1.0","features":["alloc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a92c3c6b2390f34dc85d4283c76523c1e65d0fd2590013594cb751c39b3a4223","features":{},"yanked":false,"links":null}
