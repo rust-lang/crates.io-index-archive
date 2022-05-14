@@ -1,2 +1,2 @@
-{"name":"git-eq","vers":"0.1.0","deps":[],"cksum":"be18f85c9d02e557e1f37033e4b9dc289b628931c280a963e25e88391f81e1ff","features":{},"yanked":false,"links":null}
+{"name":"git-eq","vers":"0.1.0","deps":[],"cksum":"be18f85c9d02e557e1f37033e4b9dc289b628931c280a963e25e88391f81e1ff","features":{},"yanked":true,"links":null}
 {"name":"git-eq","vers":"0.1.1","deps":[{"name":"notify","req":"^4.0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4eb261b739cff7855715271050e9b48ea35c11873fb63e636c1ef2064aa61d7","features":{},"yanked":false,"links":null}
