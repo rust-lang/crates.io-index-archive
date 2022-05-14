@@ -1,0 +1,1 @@
+{"name":"tui_draw","vers":"0.0.0","deps":[{"name":"crossterm","req":"^0.23.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"646e55764d40878976cfd15a24b5dab3b53829d27634fa79a8481e3c1410cecc","features":{},"yanked":false,"links":null}
