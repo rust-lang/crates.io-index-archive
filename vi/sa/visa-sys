@@ -1,0 +1,1 @@
+{"name":"visa-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.59","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c61816fce18c8ce89f0ce78b68e75f2e5afbeac99bbcdd190f9f06dcc108a98f","features":{},"yanked":false,"links":null}
