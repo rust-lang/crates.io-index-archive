@@ -1,0 +1,1 @@
+{"name":"case-conv","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"13caddb5736f2ea71394585c393c16f1b2d3036fbf58137a0904db5afa07327f","features":{},"yanked":false,"links":null}
