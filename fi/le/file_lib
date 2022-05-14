@@ -1,0 +1,1 @@
+{"name":"file_lib","vers":"0.1.0","deps":[{"name":"rust-crypto","req":"^0.2.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9295d929b94adede2ee73230a9393e726e8de0f577e9109fe7aae32ea68d3774","features":{},"yanked":false,"links":null}
