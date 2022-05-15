@@ -1,1 +1,2 @@
 {"name":"ruint-macro","vers":"0.1.0","deps":[],"cksum":"94edd286557500478a74340fc9afc705604791cf4723ab5a78c00b3a11acb504","features":{},"yanked":false,"links":null}
+{"name":"ruint-macro","vers":"0.1.1","deps":[{"name":"ruint","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d342e44672ad81ccc43602c98a3a130c0f092030da8d297e93f87076eee951e9","features":{},"yanked":false,"links":null}
