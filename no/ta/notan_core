@@ -1,0 +1,1 @@
+{"name":"notan_core","vers":"0.4.0","deps":[{"name":"web-sys","req":"^0.3","features":[],"optional":true,"default_features":true,"target":"cfg(target_arch = \"wasm32\")","kind":"normal"}],"cksum":"7deaba5f35363f7b792c80d3a59713b135569a4d6d597eceab0563f32d9b4cc3","features":{"clipboard":[],"drop_files":["web-sys","web-sys/File"],"links":[]},"yanked":false,"links":null}
