@@ -1,0 +1,1 @@
+{"name":"sql_query_builder","vers":"0.1.0","deps":[{"name":"pretty_assertions","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"97352a57b7059ff89855a39668f2d8099abb61c20a3df7f0f8c959456c066e94","features":{},"yanked":false,"links":null}
