@@ -1,1 +1,2 @@
 {"name":"iron-ingot","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd8d4b933631459ecedecf62f57b31fcbb9fcd5b5b211df4353004a323b325c1","features":{},"yanked":false,"links":null}
+{"name":"iron-ingot","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c25b8f2509d6aeb8207bac585c56abc2d2bb284e65d4ffe0773a85c271ac0c2d","features":{},"yanked":false,"links":null}
