@@ -1,0 +1,1 @@
+{"name":"stf","vers":"0.1.0","deps":[{"name":"clap","req":"^3.1.8","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52426591e53dd71f03294bece023a082b4d53b1bcd4b2d9b5f6687077380d076","features":{},"yanked":false,"links":null}
