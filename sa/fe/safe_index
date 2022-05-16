@@ -7,3 +7,4 @@
 {"name":"safe_index","vers":"0.9.11","deps":[],"cksum":"ce6cea52ac9d4597f79047b06626a45f70bcb642a176ca65f0bd212165209bf3","features":{},"yanked":false,"links":null}
 {"name":"safe_index","vers":"0.9.17","deps":[],"cksum":"7c0de7bbd1f196ed6d53ddad52dafd9b4df0871ebca615926a2c08d8145e6168","features":{"strict":[]},"yanked":false,"links":null}
 {"name":"safe_index","vers":"0.9.19","deps":[],"cksum":"3bd4f3a92d0e24a15a2eb4fb30d024841de54788e25fd27ac21f5c6f37a2dffa","features":{"strict":[]},"yanked":false,"links":null}
+{"name":"safe_index","vers":"0.9.20","deps":[],"cksum":"8b987d7830a723c8780e0cb67c1e6ed53d3ad970c72e4da0a632356fad284bcf","features":{"strict":[]},"yanked":false,"links":null}
