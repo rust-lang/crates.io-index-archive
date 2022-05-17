@@ -5,3 +5,4 @@
 {"name":"point-nd","vers":"0.3.0","deps":[],"cksum":"b434a4f2d77d47024c46b9a6fb3e95f580551fa73e34bce5d967a6d7bf9fd480","features":{},"yanked":false,"links":null}
 {"name":"point-nd","vers":"0.4.0","deps":[],"cksum":"f0a3375ef79e1a6e55761fc290f3ab70175efbe802baaa5f5d5d03ebce54376b","features":{},"yanked":false,"links":null}
 {"name":"point-nd","vers":"0.4.1","deps":[],"cksum":"3260e2fdb244079f23bd4ecad1da06e86fb5ce93ebbda87311480355d55fbf30","features":{},"yanked":false,"links":null}
+{"name":"point-nd","vers":"0.5.0","deps":[{"name":"arrayvec","req":"^0.7.2","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"745e1ab7ed6f2660825fc4db1d7422f9d822125f3471f31fba96f8e0de7a61da","features":{"var-dims":["arrayvec"],"default":["conv_methods","appliers"],"y":[],"z":[],"x":[],"appliers":["arrayvec"],"conv_methods":["x","y","z","w"],"w":[],"full":["default","var-dims"]},"yanked":false,"links":null}
