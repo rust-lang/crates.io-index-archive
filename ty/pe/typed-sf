@@ -1,1 +1,2 @@
 {"name":"typed-sf","vers":"1.0.0","deps":[],"cksum":"c1cfd885549b26a8a753516c9b67bda447f70876e485b34967bd4b0aa91a0bb3","features":{"require_docs":[],"no_std":[],"default":["require_docs"]},"yanked":false,"links":null}
+{"name":"typed-sf","vers":"1.0.1","deps":[],"cksum":"d7cddfc228910d1fbe68aeb2323417fa8d3ee7df8dfacbf355d1fa0d2324845d","features":{"require_docs":[],"no_std":[],"default":["require_docs"]},"yanked":false,"links":null}
