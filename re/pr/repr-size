@@ -1,0 +1,1 @@
+{"name":"repr-size","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec9592f89dafc2775cf2fa2b56e0d97b8545b5917a5cfd8e39deee4ac2a18368","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"links":null,"v":2}
