@@ -1,1 +1,2 @@
 {"name":"git-path","vers":"0.1.0","deps":[{"name":"bstr","req":"^0.2.17","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"896019821ae67574c347d3278452e2401e9e1ef2474c376d4043d6acc76efeb9","features":{},"yanked":false,"links":null}
+{"name":"git-path","vers":"0.1.1","deps":[{"name":"bstr","req":"^0.2.17","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f2557400d97e5f2aa424f5446d94da6bdd3ee31f42f9d2a0006da3c2e34d6b66","features":{},"yanked":false,"links":null}
