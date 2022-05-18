@@ -1,2 +1,3 @@
 {"name":"panicking","vers":"0.0.1","deps":[],"cksum":"1ed2f867ce061831437173484828ccd6acf0c9f49d12376012fbcfe108f977b7","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"panicking","vers":"0.0.2","deps":[],"cksum":"1c5bc3b7fb14e5f69b1cb01e4c724535937777c1fe32c202a466fa191479523f","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"panicking","vers":"0.1.0","deps":[],"cksum":"e20e17c6374cb1786fbfa8b75fb3939b76fbcfde25a6b37f8af8455d19cd6eda","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
