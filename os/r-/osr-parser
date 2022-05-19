@@ -1,6 +1,6 @@
 {"name":"osr-parser","vers":"0.1.0","deps":[],"cksum":"e4e6aa4b87a7f5900b6280c350ca4af005fef559b2d9911911ca0af64ec32635","features":{},"yanked":true,"links":null}
 {"name":"osr-parser","vers":"0.2.0","deps":[],"cksum":"2a3092dc4db1406306c7cd5ec479599cde5a68b46c7e77d1835bdb02c4c6c39c","features":{},"yanked":true,"links":null}
-{"name":"osr-parser","vers":"0.3.0","deps":[],"cksum":"b0c8a16086387a9945a111e5a6351b91af51ceaf0b65d5bffdf54425af4a2399","features":{},"yanked":false,"links":null}
+{"name":"osr-parser","vers":"0.3.0","deps":[],"cksum":"b0c8a16086387a9945a111e5a6351b91af51ceaf0b65d5bffdf54425af4a2399","features":{},"yanked":true,"links":null}
 {"name":"osr-parser","vers":"0.4.0","deps":[],"cksum":"b99e8e8eb96ac7ecc8407c870c193545272c45c73fdcda1a3864e7f26251fd31","features":{},"yanked":false,"links":null}
 {"name":"osr-parser","vers":"0.5.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa6f178296853a823e8ff56be2cd5c6f65836d9040ce106351cd9dc9eccb715d","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"links":null,"v":2}
 {"name":"osr-parser","vers":"0.6.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d319e1e79afedfa551058cf7134ac1f14f35baa7c8bd6af2c54f114ef40f8ce","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"links":null,"v":2}
