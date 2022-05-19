@@ -9,3 +9,4 @@
 {"name":"macro-attr-2018","vers":"1.1.2","deps":[],"cksum":"b5b6ec031ba0231a2280cfc617b78f2db9153de4e1a81e071fd7b2a8e528de94","features":{},"yanked":false,"links":null}
 {"name":"macro-attr-2018","vers":"2.0.0","deps":[],"cksum":"4caebb41a92e98f14afdef8aa6addff0e32c100192b8f755c0088def0245b3f0","features":{},"yanked":false,"links":null}
 {"name":"macro-attr-2018","vers":"2.0.1","deps":[],"cksum":"517ae912935b0a7aae4528865510e15d33b60a8cf66cfcf891f479b61d585e45","features":{},"yanked":false,"links":null}
+{"name":"macro-attr-2018","vers":"2.1.0","deps":[{"name":"rustc_version","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c2bdc9656671b5a10ea3f33fea938a0bc90432cd444d30b8f95b5da31a71606b","features":{},"yanked":false,"links":null}
