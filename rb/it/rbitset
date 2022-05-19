@@ -1,1 +1,2 @@
 {"name":"rbitset","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.8","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bef07220d9333e17d5e1af3be1a86b6ade7f081ed9d168e57ac3876eb0dd5aa8","features":{},"yanked":false,"links":null}
+{"name":"rbitset","vers":"0.2.0","deps":[{"name":"num-traits","req":"^0.2.8","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"dcd1bd6690cccdde617c124ed8daeca47c5aa6c01d12d50f617a6a4bf9d7a2b4","features":{},"yanked":false,"links":null}
