@@ -13,3 +13,4 @@
 {"name":"windows_i686_gnu","vers":"0.35.0","deps":[],"cksum":"0343a6f35bf43a07b009b8591b78b10ea03de86b06f48e28c96206cd0f453b50","features":{},"yanked":false,"links":null}
 {"name":"windows_i686_gnu","vers":"0.36.0","deps":[],"cksum":"3b759cc6e3d97970c98cffe461739e89ab6d424ba5e2e7d3b9b05a2d56116057","features":{},"yanked":false,"links":null}
 {"name":"windows_i686_gnu","vers":"0.36.1","deps":[],"cksum":"180e6ccf01daf4c426b846dfc66db1fc518f074baa793aa7d9b9aaeffad6a3b6","features":{},"yanked":false,"links":null}
+{"name":"windows_i686_gnu","vers":"0.37.0","deps":[],"cksum":"d3925fd0b0b804730d44d4b6278c50f9699703ec49bcd628020f46f4ba07d9e1","features":{},"yanked":false,"links":null}
