@@ -1,0 +1,1 @@
+{"name":"libreoffice-rs","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.59","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8b356910500ab8e7c37b9e3d4220467ea9708d9f3413e0bf03730db31e4a0d35","features":{},"yanked":false,"links":null}
