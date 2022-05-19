@@ -1,1 +1,2 @@
 {"name":"anstyle","vers":"0.1.1","deps":[],"cksum":"6f77946ab7a1cc86dec56de0aeb19810983dda8fbf6664c9c975b18c4986f698","features":{},"yanked":false,"links":null}
+{"name":"anstyle","vers":"0.2.0","deps":[],"cksum":"9a6eb36530254bebb85107f6fac9884d290d65fa22ea07389ca0a1274b986438","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
