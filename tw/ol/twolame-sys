@@ -1,1 +1,1 @@
-{"name":"twolame-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2eb36412c397a52df1f64325563ea49257e89033a7925762281f9681bb6d1afa","features":{},"yanked":false,"links":"twolame"}
+{"name":"twolame-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2eb36412c397a52df1f64325563ea49257e89033a7925762281f9681bb6d1afa","features":{},"yanked":true,"links":"twolame"}
