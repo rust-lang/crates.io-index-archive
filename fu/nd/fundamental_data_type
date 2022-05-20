@@ -1,1 +1,2 @@
 {"name":"fundamental_data_type","vers":"0.1.0","deps":[{"name":"test_tools","req":"~0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f1841b7933c9fde9593366439e7c86a98e2b51860d30430045b8e208f085d476","features":{},"yanked":false,"links":null}
+{"name":"fundamental_data_type","vers":"0.1.1","deps":[{"name":"test_tools","req":"~0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fe8f349f787a81873cf6b99eae1a016d3ba8758d58f23913c879a0efe8fa4eb4","features":{},"yanked":false,"links":null}
