@@ -1,0 +1,1 @@
+{"name":"markov-flow","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.31.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b05fa3567c96883003e5db578d35bfda544ac2b629a7af1b3b401b5bdae469f4","features":{},"yanked":false,"links":null}
