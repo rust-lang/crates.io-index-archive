@@ -1,1 +1,2 @@
 {"name":"tunm_timer","vers":"0.1.0","deps":[{"name":"rbtree","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"520577e6ffecdf3e448ba454ac44e94718d27e16a68e21a0160a9519d327cf45","features":{},"yanked":false,"links":null}
+{"name":"tunm_timer","vers":"0.1.1","deps":[{"name":"rbtree","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90d93baaa8d2e4d93c9dab42249f6965cf10b51942ecbcca73a1042cbb182de6","features":{},"yanked":false,"links":null}
