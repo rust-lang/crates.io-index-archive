@@ -5,3 +5,4 @@
 {"name":"write-into","vers":"0.2.0","deps":[{"name":"leb128","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c991d1ab0081bbaf2424aea4cf04ecf6c8346ccd4b49c53fff01230f511d2dd8","features":{},"yanked":false,"links":null}
 {"name":"write-into","vers":"0.3.0","deps":[{"name":"leb128","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"99fec5c118490088e544af3a8165c33c87fdbefab2461246929781842d6bb3f9","features":{},"yanked":false,"links":null}
 {"name":"write-into","vers":"0.3.1","deps":[],"cksum":"9873487c4ffe8c6d0285ce2666dd6e94e3bdc8a91b78e286905abcc1e73fde5d","features":{},"yanked":false,"links":null}
+{"name":"write-into","vers":"0.3.2","deps":[],"cksum":"ecce11930435cc9195b447d02ac3cb832e59f167b84acc2bddd8dcd4179f9b04","features":{},"yanked":false,"links":null}
