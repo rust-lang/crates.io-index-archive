@@ -21,3 +21,4 @@
 {"name":"target-lexicon","vers":"0.12.1","deps":[],"cksum":"b0652da4c4121005e9ed22b79f6c5f2d9e2752906b53a33e9490489ba421a6fb","features":{"std":[],"default":[]},"yanked":false,"links":null}
 {"name":"target-lexicon","vers":"0.12.2","deps":[],"cksum":"d9bffcddbc2458fa3e6058414599e3c838a022abae82e5c67b4f7f80298d5bff","features":{"default":[],"std":[]},"yanked":false,"links":null}
 {"name":"target-lexicon","vers":"0.12.3","deps":[],"cksum":"d7fa7e55043acb85fca6b3c01485a2eeb6b69c5d21002e273c79e465f43b7ac1","features":{"default":[],"std":[]},"yanked":false,"links":null}
+{"name":"target-lexicon","vers":"0.12.4","deps":[],"cksum":"c02424087780c9b71cc96799eaeddff35af2bc513278cda5c99fc1f5d026d3c1","features":{"default":[],"std":[]},"yanked":false,"links":null}
