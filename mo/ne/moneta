@@ -1,0 +1,1 @@
+{"name":"moneta","vers":"0.1.0","deps":[{"name":"quantities","req":"^0.9.0","features":["fpdec"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f2830fa08ac368a0ce52e03687cfe7520ae7bc0c12b6444d8cfd2ad9a83eef7","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
