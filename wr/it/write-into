@@ -10,3 +10,4 @@
 {"name":"write-into","vers":"0.3.4","deps":[],"cksum":"7c4f4b93ecae318b633a55b01fce86348599e210ed632c4dd65dbe7d61439ff3","features":{},"yanked":false,"links":null}
 {"name":"write-into","vers":"0.3.5","deps":[],"cksum":"d201cb9da8ec74dba67052790aa2547e20b4c0aa1e1c99f92e0a2765ee51ec7c","features":{},"yanked":false,"links":null}
 {"name":"write-into","vers":"0.3.6","deps":[],"cksum":"43a07047c4fe29effe6cfe58426de1e4f8766ebc0b741428759795454c51ec63","features":{},"yanked":false,"links":null}
+{"name":"write-into","vers":"0.3.7","deps":[{"name":"test-case","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"924c91eacabe520ed1e17f545f207642a9962a61224bded424e9973853d60b19","features":{},"yanked":false,"links":null}
