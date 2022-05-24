@@ -1,0 +1,1 @@
+{"name":"byte-enum","vers":"0.1.1","deps":[{"name":"byte-enum-derive","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d41df37ca9c9df499de0452d7976b613383520cce518e5f4ed32a5a6508cc703","features":{"external_doc":[]},"yanked":false,"links":null}
