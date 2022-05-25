@@ -1,0 +1,1 @@
+{"name":"get-all-uri-protocols","vers":"0.1.0","deps":[{"name":"winreg","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f9c01aa4700df97061f015cdec7d6155e3d6bdc162361415fbde484ce899222","features":{},"yanked":false,"links":null}
