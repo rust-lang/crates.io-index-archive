@@ -1,0 +1,1 @@
+{"name":"rb-allocator","vers":"0.9.0","deps":[{"name":"rb-sys","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6cc0bb8162b8b8d346b5853fa4d75aececed14a590baaa1172a33ffda8b99fd","features":{},"yanked":false,"links":null}
