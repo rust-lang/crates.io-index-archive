@@ -1,0 +1,1 @@
+{"name":"cronos-pool","vers":"0.2.0-alpha1","deps":[{"name":"anchor-lang","req":"^0.24.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d18498e74f62c59899687e2eba27f9a630a8f9e89d99432025ee4f6325ff0ea","features":{"no-idl":[],"cpi":["no-entrypoint"],"default":[],"no-log-ix-name":[],"no-entrypoint":[]},"yanked":false,"links":null}
