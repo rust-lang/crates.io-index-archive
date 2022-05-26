@@ -1,0 +1,1 @@
+{"name":"aptos-metrics-core","vers":"0.1.0","deps":[{"name":"prometheus","req":"^0.13.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7c9328be8fc6dfc93b24dbb0fcc4b84c9aac7d5652881820ecdf0b8dca3ce680","features":{},"yanked":false,"links":null}
