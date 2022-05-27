@@ -1,1 +1,2 @@
 {"name":"composable-allocators","vers":"0.0.1","deps":[],"cksum":"afa4df6116e0a676c489241d5a64968f7300d3c2453179a801a3a0b35fa63ba8","features":{},"yanked":false,"links":null}
+{"name":"composable-allocators","vers":"0.0.2","deps":[],"cksum":"336dbcb6af65571de95c32d6e14515cc97376a5f7d65d67875d6a05fc8a6643a","features":{"default":["alloc"],"alloc":[]},"yanked":false,"links":null}
