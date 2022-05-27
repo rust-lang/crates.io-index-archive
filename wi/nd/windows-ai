@@ -5,3 +5,4 @@
 {"name":"windows-ai","vers":"0.22.3","deps":[{"name":"windows","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0bb349a78a7c3aef7bccaed6e81016c390434ccc859b4ffbd3e23efc4a6ce1a5","features":{},"yanked":true,"links":null}
 {"name":"windows-ai","vers":"0.22.4","deps":[],"cksum":"822fad91f3740c596fd1a33de702782f53a20aa1bf25181f209ba52ef6b0bb11","features":{},"yanked":false,"links":null}
 {"name":"windows-ai","vers":"0.22.5","deps":[],"cksum":"5a55123bf6ff6cf35053f5995b02d8ad2f04c53cedfc27a4b660fe299221aa93","features":{},"yanked":false,"links":null}
+{"name":"windows-ai","vers":"0.22.6","deps":[],"cksum":"75914d567008202c478a56bd897d71a116386889da095097c48acd70b5b36656","features":{},"yanked":false,"links":null}
