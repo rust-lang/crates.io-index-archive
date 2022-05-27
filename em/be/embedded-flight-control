@@ -1,0 +1,1 @@
+{"name":"embedded-flight-control","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.31.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b7f537f2d3cfdf16e48c76430170ce761a033f21f1efa089ef105dd4e46d25e","features":{},"yanked":false,"links":null}
