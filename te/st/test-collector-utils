@@ -1,0 +1,1 @@
+{"name":"test-collector-utils","vers":"0.1.0","deps":[{"name":"inventory","req":"^0.1.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0bf6df6eff1b0954390fb4aeae7b51fa636be6beae2955a310e194e921f7aa6f","features":{},"yanked":false,"links":null}
