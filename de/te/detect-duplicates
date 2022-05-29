@@ -1,0 +1,1 @@
+{"name":"detect-duplicates","vers":"0.1.0","deps":[{"name":"clap","req":"^3.1.18","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52b910ba2ec2775e1338fd116f0300c541a7ce3c212849afbdcb502830013716","features":{},"yanked":false,"links":null}
