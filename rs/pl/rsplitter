@@ -1,1 +1,1 @@
-{"name":"rsplitter","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e08d03db80ca80e7888f85d6424fd8188ec894b82625a280ce2a70e380fe8f3","features":{},"yanked":true,"links":null}
+{"name":"rsplitter","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e08d03db80ca80e7888f85d6424fd8188ec894b82625a280ce2a70e380fe8f3","features":{},"yanked":false,"links":null}
