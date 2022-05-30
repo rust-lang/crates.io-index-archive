@@ -1,1 +1,2 @@
 {"name":"dcsv","vers":"0.1.0","deps":[{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9456ee19e07355630df2cbb1cdc5edacbc7d85064d4629a33c6d0545b4a0c644","features":{},"yanked":false,"links":null}
+{"name":"dcsv","vers":"0.1.1","deps":[{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"399bd84e08922242c5ff18ee04bc216ec8dccf90e7eff8d6fe699e50dc6bf49f","features":{},"yanked":false,"links":null}
