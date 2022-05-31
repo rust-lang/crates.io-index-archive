@@ -2,3 +2,4 @@
 {"name":"rayimg","vers":"0.0.11","deps":[],"cksum":"5d57c06664333564b731cc622e6b6b0718572553072963a6ca083faeea5e369c","features":{},"yanked":true,"links":null}
 {"name":"rayimg","vers":"0.0.2","deps":[],"cksum":"fb87f8d36fcf266ee47ca4e55c0b5495dc2eb89cfa5a9b1f62a16844e7fe9a79","features":{},"yanked":false,"links":null}
 {"name":"rayimg","vers":"0.0.3","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb0b8822b6b2824de5d188cac032c1c6406a5f8b68c0a305c51a465b3c392927","features":{},"yanked":false,"links":null}
+{"name":"rayimg","vers":"0.0.4","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f2ca68522873b2f8a03c204292a6d3f1442b849406bd7b63f4a70fc0e871d05","features":{},"yanked":false,"links":null}
