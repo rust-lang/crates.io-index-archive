@@ -1,0 +1,1 @@
+{"name":"human-repr","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ee6d3c371762c7017314eea7fa225d3916907bb72f5ea2693b515d5a536e2e84","features":{"1024":[],"iec":["1024"],"nospace":[]},"yanked":false,"links":null}
