@@ -1,1 +1,2 @@
 {"name":"rb-allocator","vers":"0.9.0","deps":[{"name":"rb-sys","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6cc0bb8162b8b8d346b5853fa4d75aececed14a590baaa1172a33ffda8b99fd","features":{},"yanked":false,"links":null}
+{"name":"rb-allocator","vers":"0.9.1","deps":[{"name":"rb-sys","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f3686e3cb5a607a448e907afbca5fdd77d2e27d439a3e39b2ca78144eca5c40","features":{},"yanked":false,"links":null}
