@@ -1,0 +1,1 @@
+{"name":"embedded-flight-scheduler","vers":"0.1.0","deps":[{"name":"embedded-time","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1877805e84d9337fbb39ff04f44537a1e02590a6f24a44fe76f423f2a8778880","features":{},"yanked":false,"links":null}
