@@ -1,0 +1,1 @@
+{"name":"libesedb","vers":"0.1.0","deps":[{"name":"libesedb-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b8717bcc85d951ed3ea61ac293a06dee76f115cc5efa96c2e8cb5a8755a5cc75","features":{},"yanked":false,"links":null}
