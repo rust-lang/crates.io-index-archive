@@ -17,3 +17,4 @@
 {"name":"shrev","vers":"1.0.1","deps":[{"name":"derivative","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"parking_lot","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec60ed6f60a4b3cdc2ceacf57215db3408fbd8990f66a38686a31558cd9da482","features":{},"yanked":false,"links":null}
 {"name":"shrev","vers":"1.1.0","deps":[],"cksum":"8ccd98cfc3e335a5c7044b7e69dfbefb3e92a30400210bc9ed7ee550a0f5daab","features":{},"yanked":false,"links":null}
 {"name":"shrev","vers":"1.1.1","deps":[],"cksum":"b5752e017e03af9d735b4b069f53b7a7fd90fefafa04d8bd0c25581b0bff437f","features":{},"yanked":false,"links":null}
+{"name":"shrev","vers":"1.1.3","deps":[],"cksum":"a5ea33232fdcf1bf691ca33450e5a94dde13e1a8cbb8caabc5e4f9d761e10b1a","features":{},"yanked":false,"links":null}
