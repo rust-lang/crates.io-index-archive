@@ -1,0 +1,1 @@
+{"name":"aptos-fallible","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"836e0aeb8e93528d748ea7daeef42ee44c895deab82e4909d5906b5c5390b4b6","features":{},"yanked":false,"links":null}
