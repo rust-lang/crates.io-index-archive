@@ -1,1 +1,2 @@
 {"name":"xwiimote-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.59.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ded09905fec345e64149b6052adac5f33d2a4bab76797300e48778cf9c10c314","features":{},"yanked":false,"links":null}
+{"name":"xwiimote-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.59.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0399a15b411a0cb0d00fbbac2500fe2fd8274d115688d478e8259e601e9d6933","features":{},"yanked":false,"links":null}
