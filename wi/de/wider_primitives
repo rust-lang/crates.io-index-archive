@@ -1,0 +1,1 @@
+{"name":"wider_primitives","vers":"0.0.5","deps":[{"name":"cfg_aliases","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"109afb6d11b95f88cdbb5e423056494beb9209ac986936e57720e1672f62e18b","features":{"unstable":[],"internals-doc-visible":[]},"yanked":false,"links":null}
