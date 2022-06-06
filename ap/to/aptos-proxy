@@ -1,1 +1,2 @@
 {"name":"aptos-proxy","vers":"0.1.0","deps":[{"name":"ipnet","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f2b60c91f1d472989d35197db6fd91a110ea50f08f150a58f285ccd6c823b65","features":{},"yanked":false,"links":null}
+{"name":"aptos-proxy","vers":"0.1.1","deps":[{"name":"ipnet","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1529584e1f90f89c66936b1eb2520f75119f0b8e2a61efa8987518f1a685f38","features":{},"yanked":false,"links":null}
