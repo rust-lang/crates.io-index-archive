@@ -1,0 +1,1 @@
+{"name":"chess-turn-engine","vers":"0.1.0","deps":[{"name":"chess-notation-parser","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff8824ea5b514ffefc6a178a7587bb07da2ad97f17082fcd52018aad018c7e4a","features":{},"yanked":false,"links":null}
