@@ -39,3 +39,4 @@
 {"name":"ra_ap_limit","vers":"0.0.112","deps":[],"cksum":"3cb67048cd0a2a5928c586893f690798587a0b197b1b94ecc910f92b0721041f","features":{"tracking":[],"default":["tracking"]},"yanked":false,"links":null}
 {"name":"ra_ap_limit","vers":"0.0.113","deps":[],"cksum":"1deaad4b9c6fa3331830869078f6431e426dfd2e18147160b6eab2b9f8a23593","features":{"default":["tracking"],"tracking":[]},"yanked":false,"links":null}
 {"name":"ra_ap_limit","vers":"0.0.114","deps":[],"cksum":"a28e34ba9cedd47645508f5c443250e9fc2f6bf24ab84c762504237348b58350","features":{"default":["tracking"],"tracking":[]},"yanked":false,"links":null}
+{"name":"ra_ap_limit","vers":"0.0.115","deps":[],"cksum":"023bdfa9ef95f4f2448547111c35a438cd9fc644d8b7ed9baaaf786e952b6567","features":{"tracking":[],"default":["tracking"]},"yanked":false,"links":null}
