@@ -1,0 +1,1 @@
+{"name":"rail-lang","vers":"0.2.0","deps":[{"name":"rustyline","req":"^9.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8b98e413a073d97770057a972ae85407c22160cedb505c9145dd63d194a83f4","features":{},"yanked":false,"links":null}
