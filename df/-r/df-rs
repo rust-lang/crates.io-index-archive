@@ -1,1 +1,2 @@
 {"name":"df-rs","vers":"0.1.0","deps":[{"name":"argparse","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"364b3680ef3f38ec4c3de613f6c3bfac2e54383533631b4886b4bb0f060d8fc3","features":{},"yanked":false,"links":null}
+{"name":"df-rs","vers":"0.2.0","deps":[{"name":"argparse","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ac29dcdd55cb98cdca6d930892187e2a5d1764644361da167e7b1ac4fd79493","features":{},"yanked":false,"links":null}
