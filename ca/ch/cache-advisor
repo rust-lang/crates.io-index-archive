@@ -1,0 +1,1 @@
+{"name":"cache-advisor","vers":"1.0.8","deps":[{"name":"crossbeam-queue","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5199233e1860aa1afeb182f799bfba9ecdd20732d467a452720a0aa59c38fad","features":{},"yanked":false,"links":null}
