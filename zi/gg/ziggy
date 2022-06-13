@@ -1,0 +1,1 @@
+{"name":"ziggy","vers":"0.1.0","deps":[{"name":"clap","req":"^3.1.18","features":["cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"586e94339df4bffa2840649650131ddc35a1f0132737837b2635e50ade31b055","features":{},"yanked":false,"links":null}
