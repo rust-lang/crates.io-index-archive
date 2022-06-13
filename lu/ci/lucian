@@ -7,3 +7,4 @@
 {"name":"lucian","vers":"0.1.6","deps":[],"cksum":"abc457ac7a881e5a7e026e1fc5aea664667ff8f1a6e0ca6630b3481f954eafe9","features":{},"yanked":false,"links":null}
 {"name":"lucian","vers":"0.1.7","deps":[],"cksum":"78b61b1dd8b6ad93771e045b701d5b20d94892bb479e344d986ee8673ab74c35","features":{},"yanked":false,"links":null}
 {"name":"lucian","vers":"0.1.8","deps":[],"cksum":"a4f0edda41e86a8769ccca329edcee2891380b49700dd23a7b11e6c85ba155eb","features":{},"yanked":false,"links":null}
+{"name":"lucian","vers":"0.1.9","deps":[{"name":"mio","req":"^0.8","features":["os-poll","net"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1bf46ae0860c4b8be6aa2cd48c5a621372e19d9900aa8c23d20d1f8238998844","features":{},"yanked":false,"links":null}
