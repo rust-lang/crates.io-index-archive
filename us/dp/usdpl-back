@@ -1,0 +1,1 @@
+{"name":"usdpl-back","vers":"0.1.0","deps":[{"name":"usdpl-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84688a83cf000d6fa1b1255da37ade4af8dcd6acb0c11d1d4f402fa0623d4c18","features":{"decky":[],"default":[],"crankshaft":[]},"yanked":false,"links":null}
