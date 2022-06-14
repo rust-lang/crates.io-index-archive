@@ -1,0 +1,1 @@
+{"name":"uguid","vers":"0.5.0","deps":[{"name":"bytemuck","req":"^1.9.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4656cdcd9e2a4f7c3ce37fcdfc896e8380a9694bd0b6bd42d40e0c4f3ad1c88c","features":{"std":[]},"yanked":false,"links":null}
