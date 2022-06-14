@@ -1,0 +1,1 @@
+{"name":"esp-println","vers":"0.1.0","deps":[],"cksum":"56fd8f0b382909e0847e87cfb842df87fda71f3fb8bad7384892ad80cb19ac9f","features":{"default":["uart"],"esp32c3":[],"esp32s3":[],"esp8266":[],"jtag_serial":[],"uart":[],"esp32":[],"esp32s2":[],"rtt":[]},"yanked":false,"links":null}
