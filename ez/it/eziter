@@ -1,1 +1,2 @@
 {"name":"eziter","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a532b5871035c5f58550618636793482f1f151aae73f66f12de0d991ac36112","features":{},"yanked":false,"links":null}
+{"name":"eziter","vers":"0.1.1","deps":[{"name":"paste","req":"^1.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9225d8b64ed172f7b2e43c05c93cd632c0985ebf4a68ee0112d6a822b12c65fb","features":{},"yanked":false,"links":null}
