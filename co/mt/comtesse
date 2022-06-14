@@ -1,2 +1,3 @@
 {"name":"comtesse","vers":"0.1.0","deps":[],"cksum":"66a001d961131439eb4258c54d643d63d0f91bfbbc72c856d6190b470e111e42","features":{},"yanked":false,"links":null}
 {"name":"comtesse","vers":"0.1.1","deps":[],"cksum":"6906522a850b7429edcebbda8c2808d4dfdd921ffe40161b0b81150989897535","features":{},"yanked":false,"links":null}
+{"name":"comtesse","vers":"0.2.0","deps":[{"name":"num-traits","req":"^0.2.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69f59ece79dd518f9e0921261cd81bc27039f0fbdc3d9ecf42d568a8e2f73e20","features":{},"yanked":false,"links":null}
