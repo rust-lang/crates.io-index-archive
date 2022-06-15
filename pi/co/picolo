@@ -1,1 +1,1 @@
-{"name":"picolo","vers":"0.1.0","deps":[{"name":"image","req":"^0.24.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbf954b26a2f919f90851272a9525fc4b07af1378fcacc58844f3c765d4b9a44","features":{},"yanked":false,"links":null}
+{"name":"picolo","vers":"0.1.0","deps":[{"name":"image","req":"^0.24.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbf954b26a2f919f90851272a9525fc4b07af1378fcacc58844f3c765d4b9a44","features":{},"yanked":true,"links":null}
