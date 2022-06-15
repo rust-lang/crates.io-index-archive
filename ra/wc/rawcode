@@ -1,0 +1,1 @@
+{"name":"rawcode","vers":"0.1.0","deps":[{"name":"rawcode_derive","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a61511457253ca81c8256c9350372d998826d94b12b657c0c8c57e4d45de2a1c","features":{"derive":["rawcode_derive"],"no_std":[],"default":["derive"]},"yanked":false,"links":null}
