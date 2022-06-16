@@ -1,0 +1,1 @@
+{"name":"tiny-bench","vers":"0.1.0","deps":[],"cksum":"e4a19870d3f2b29a057cc6d2a87b30fee84a62903339fdd1fc24f36e0bcd7707","features":{"bench":[],"timer":[],"default":["timer","bench"]},"yanked":false,"links":null}
