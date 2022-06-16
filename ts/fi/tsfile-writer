@@ -1,1 +1,2 @@
 {"name":"tsfile-writer","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"258581a759f945a3ba8b6afd95db9a5fbbd2ff05c23332ac569266d6402b4206","features":{},"yanked":false,"links":null}
+{"name":"tsfile-writer","vers":"0.1.1","deps":[{"name":"log","req":"^0.4.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"889c47a60bbc0fa115c25ba1c8e3ab0b1e9abbee65c7eec06554cc3bc85b9f25","features":{},"yanked":false,"links":null}
