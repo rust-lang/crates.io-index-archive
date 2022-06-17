@@ -1,1 +1,2 @@
 {"name":"lily","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89699bbaa894a8f4b7c261875a1e17173f8c03a876608813cfabcf434ed4b858","features":{},"yanked":false,"links":null}
+{"name":"lily","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"adef0f66dc997f3eedee8a7b0e4055ac5db6fc4856772f44f7cb67f8d2c3b47c","features":{},"yanked":false,"links":null}
