@@ -1,1 +1,2 @@
 {"name":"offset-views","vers":"0.1.0","deps":[{"name":"cool_asserts","req":"^2.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fed6598bda974122032999a3c67d67ae1cd6ee23bb1355cbad26f6785369bffb","features":{},"yanked":false,"links":null}
+{"name":"offset-views","vers":"0.1.1","deps":[{"name":"cool_asserts","req":"^2.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e6aa8e82f0c20a728051ab1f0042dba52a54d31b0f01a728f0b6a26e9740df1a","features":{},"yanked":false,"links":null}
