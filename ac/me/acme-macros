@@ -6,3 +6,4 @@
 {"name":"acme-macros","vers":"0.1.5","deps":[],"cksum":"0fc8bb5f1e1c16dc9319a53157cc07dfcfa677e0e6b5fcd50d714c68b361820e","features":{},"yanked":false,"links":null}
 {"name":"acme-macros","vers":"0.1.6","deps":[],"cksum":"9d52af60cb5398531d0697a5223364c4a4949ffdf5df5845094876344562599f","features":{},"yanked":false,"links":null}
 {"name":"acme-macros","vers":"0.1.7","deps":[],"cksum":"38fcac3d5cd35a7626a55b01348ba983854128b24b896f36f14f6f14536c8e4c","features":{"default":[]},"yanked":false,"links":null}
+{"name":"acme-macros","vers":"0.1.8","deps":[{"name":"acme","req":"^0.1.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"713aa3a13292cd5133e0b2344b0b1f42d5229c71377080b9d3d7168f31e73ead","features":{"default":[]},"yanked":false,"links":null}
