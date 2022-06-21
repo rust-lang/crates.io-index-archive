@@ -1,1 +1,2 @@
 {"name":"adkfjakdjk","vers":"0.1.0","deps":[],"cksum":"7c0edc4186fc47e1b04353685d7e5c58c5dec4598ffc08ba87d73b908400a36e","features":{},"yanked":false,"links":null}
+{"name":"adkfjakdjk","vers":"0.2.0","deps":[{"name":"clap","req":"^3.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69b359064cde2a41729058e7f331b695ddc8a5846e7a059feb3e7d6a3fb64b8b","features":{},"yanked":false,"links":null}
