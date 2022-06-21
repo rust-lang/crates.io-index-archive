@@ -1,0 +1,1 @@
+{"name":"empty_type_traits","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d86629d1ad7bdeb3b761ae6a2f3244bcae684e239271972f8e64a3da4ef4d81e","features":{},"features2":{"serde":["dep:serde","serde/derive"]},"yanked":false,"links":null,"v":2}
