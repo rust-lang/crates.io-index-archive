@@ -1,0 +1,1 @@
+{"name":"acme-derive","vers":"0.1.0","deps":[{"name":"acme","req":"^0.1.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9fdd693f8380ab349f57ab88d5d38ea0a4bf35640691a5ede1539d319090cba9","features":{"default":[]},"yanked":false,"links":null}
