@@ -1,0 +1,1 @@
+{"name":"simple-life","vers":"0.1.0","deps":[{"name":"async-trait","req":"^0.1.56","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b18f04c3e96ca058318bf1051d4376a49725a6c407dfdbeaf4fe5d96e5b45f4","features":{"tracing":[]},"yanked":false,"links":null}
