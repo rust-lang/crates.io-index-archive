@@ -1,1 +1,2 @@
 {"name":"git-shell","vers":"0.1.0","deps":[{"name":"dia-semver","req":">=9, <10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0726dc21aa09c529425aee8a51f9d5632ea906ff4c544caa67d0da1437d0bdad","features":{},"yanked":false,"links":null}
+{"name":"git-shell","vers":"0.1.1","deps":[{"name":"dia-semver","req":">=9, <10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"faf75d7faf42c264abdd58db46c43785fb39fbaecadbf8c6b3410987711d0cb7","features":{},"yanked":false,"links":null}
