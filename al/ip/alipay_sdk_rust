@@ -1,0 +1,1 @@
+{"name":"alipay_sdk_rust","vers":"0.1.0","deps":[{"name":"gostd","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9aef03af0f0eb8d7ec46cb8d4c7d22daf5dc63ce7299c2f7db162abcfd689183","features":{},"yanked":false,"links":null}
