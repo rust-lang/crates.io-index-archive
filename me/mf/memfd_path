@@ -1,0 +1,1 @@
+{"name":"memfd_path","vers":"0.1.0","deps":[{"name":"memfd","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11b3750ade7e97568985f58553f5ac14b362543c1f75f1d765d8240a2b4278e4","features":{},"yanked":false,"links":null}
