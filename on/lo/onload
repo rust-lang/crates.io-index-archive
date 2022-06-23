@@ -1,0 +1,1 @@
+{"name":"onload","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.60","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bf04196188102e3abf3156337877bb2f57ecaae03783bf49f28c386811d95026","features":{"default":["release"],"debug":[],"release":[]},"yanked":false,"links":null}
