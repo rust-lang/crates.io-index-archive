@@ -1,0 +1,1 @@
+{"name":"mio-gate","vers":"0.1.1","deps":[{"name":"mio","req":"^0.8.4","features":["os-poll","net"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2335fd6be1ccf5fb14e9001e11fceee0b97193e7dd7b289627781ff5b6ce013e","features":{},"yanked":false,"links":null}
