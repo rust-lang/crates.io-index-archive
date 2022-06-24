@@ -1,0 +1,1 @@
+{"name":"mem_println","vers":"0.1.0","deps":[],"cksum":"8d37d16713e810ebcf35b2bff64db66c0efb9067dc5c717a56f8cd7ee6b0b5e4","features":{"default":["println_mem"],"println_mem":[]},"yanked":false,"links":null}
