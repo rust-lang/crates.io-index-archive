@@ -1,0 +1,1 @@
+{"name":"winterm","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5c2ae1ac4668d42ae7738c037bcc22e807341cd77abcd603240158ec81b520d","features":{},"yanked":false,"links":null}
