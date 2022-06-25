@@ -1,2 +1,3 @@
 {"name":"acme-derive","vers":"0.1.0","deps":[{"name":"acme","req":"^0.1.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9fdd693f8380ab349f57ab88d5d38ea0a4bf35640691a5ede1539d319090cba9","features":{"default":[]},"yanked":false,"links":null}
 {"name":"acme-derive","vers":"0.1.2","deps":[],"cksum":"8171506ecea3a8e12e2c730caebbc177027c7974b2fe96b2530e910c6e17f735","features":{},"yanked":false,"links":null}
+{"name":"acme-derive","vers":"0.1.12","deps":[],"cksum":"9e962b6962cbde12da7d32e0e2ed397a61eb2a866c83b9f0cba8b7a9828472b5","features":{},"yanked":false,"links":null}
