@@ -1,1 +1,2 @@
 {"name":"forgery","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.81","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c50d0be8a8840e55d0f39f38b8a4906634a51b8c25411518b34d95264181134f","features":{},"yanked":false,"links":null}
+{"name":"forgery","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1.0.81","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d02f30c622e410982c5b3fcfc897d0652735048b3588ebb41888275faeab163b","features":{},"yanked":false,"links":null}
