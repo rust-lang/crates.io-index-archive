@@ -1,0 +1,1 @@
+{"name":"rust-codegen","vers":"0.1.0","deps":[{"name":"indexmap","req":"^1.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e017684ddf1938425843cedb8d9bf6f76b8a9ad11429ced89e0550dc291b153","features":{},"yanked":false,"links":null}
