@@ -1,1 +1,2 @@
 {"name":"psf2","vers":"0.1.0","deps":[],"cksum":"43ac04cdd0e9afe251757bc0ea7b37316d9462edd6b54fe74f45a14ed3758841","features":{},"yanked":false,"links":null}
+{"name":"psf2","vers":"0.1.1","deps":[],"cksum":"b16923113c7fed7189d1c73b5b69f4b1f381bf41c94dc7729ec3e80586fc2227","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
