@@ -1,1 +1,2 @@
 {"name":"verify-call","vers":"0.1.0","deps":[{"name":"impls","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"81a7ddd84c68dca0face999fdb701e10ca3e30275ec07129e7ca3ec36efe02e9","features":{},"yanked":false,"links":null}
+{"name":"verify-call","vers":"0.1.1","deps":[{"name":"impls","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"26fd2115a2d58c14709ab043246174f2afa05412c0783b2a35471e0afd12a4a5","features":{},"yanked":false,"links":null}
