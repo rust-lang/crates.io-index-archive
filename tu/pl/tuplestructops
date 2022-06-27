@@ -1,0 +1,1 @@
+{"name":"tuplestructops","vers":"0.1.0","deps":[{"name":"seq-macro","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8af0ac56827650e6d3a1abbe198999e8a9268a445a91b320d6e7b79b2c51f0ca","features":{"tuple_32":[],"tuple_28":[],"tuple_20":[],"tuple_24":[]},"yanked":false,"links":null}
