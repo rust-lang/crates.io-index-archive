@@ -6,3 +6,4 @@
 {"name":"sptr","vers":"0.2.3","deps":[],"cksum":"5cdeee85371b1ec1f4b305c91787271a39f56b66e673bdbd73b7742150de5b0e","features":{"default":["deprecate_problems"],"deprecate_problems":[],"uptr":[],"opaque_fn":[]},"yanked":false,"links":null}
 {"name":"sptr","vers":"0.3.0","deps":[],"cksum":"ea71516a71ea6db9105c37f7ec07ad4fa8c823f13072b54e3f353f7ec1788abc","features":{"default":[],"uptr":[],"opaque_fn":[]},"yanked":false,"links":null}
 {"name":"sptr","vers":"0.3.1","deps":[],"cksum":"1e0d4365121b91e8522958da77ce29c004333daeaf0711225c4727c8c5f49941","features":{"uptr":[],"default":[],"opaque_fn":[]},"yanked":false,"links":null}
+{"name":"sptr","vers":"0.3.2","deps":[],"cksum":"3b9b39299b249ad65f3b7e96443bad61c02ca5cd3589f46cb6d610a0fd6c0d6a","features":{"opaque_fn":[],"uptr":[],"default":[]},"yanked":false,"links":null}
