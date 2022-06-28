@@ -1,0 +1,1 @@
+{"name":"fast-lru","vers":"0.1.0","deps":[{"name":"arrayvec","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67201b4da69ab2b8c8fd955d24398ca88496531ee95cf25237fbe5ce58114bef","features":{},"yanked":false,"links":null}
