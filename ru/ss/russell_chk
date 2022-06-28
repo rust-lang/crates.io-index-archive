@@ -5,3 +5,4 @@
 {"name":"russell_chk","vers":"0.2.0","deps":[],"cksum":"d6202bc93b1743977a7299b022c54e3af1d1677a30cc8add9b6a6a7510888558","features":{},"yanked":false,"links":null}
 {"name":"russell_chk","vers":"0.2.1","deps":[],"cksum":"b8173a6ae5e9c7b63708a69b6e2a58aa38549d50bbeb1b8540f46696e692308d","features":{},"yanked":false,"links":null}
 {"name":"russell_chk","vers":"0.3.0","deps":[{"name":"num-complex","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ddd1c17cf17dda6338c0b5429b624a8aeea9274235a1a86f0457cb05e23979fe","features":{},"yanked":false,"links":null}
+{"name":"russell_chk","vers":"0.4.1","deps":[{"name":"num-complex","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7243970e444d372d21c26db23662c1a24e3b64c9d7b558c7bd4c4fbcce8b663b","features":{},"yanked":false,"links":null}
