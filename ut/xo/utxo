@@ -5,3 +5,4 @@
 {"name":"utxo","vers":"0.1.4","deps":[],"cksum":"daccddb5cc641eaf91976583873f0eb4bbeee6aeca5d16c10c2bc1a64bfbba97","features":{},"yanked":false,"links":null}
 {"name":"utxo","vers":"0.2.0","deps":[],"cksum":"2b70e4cd6de55f7b9b747e52ca4717d0fa11d6a7943cbf904291d0f962d02c94","features":{},"yanked":false,"links":null}
 {"name":"utxo","vers":"0.2.1","deps":[],"cksum":"9cbde7e7a3e59f94528883c7284f9c740dcfee94130f405dc18039acf9622937","features":{},"yanked":false,"links":null}
+{"name":"utxo","vers":"0.2.2","deps":[],"cksum":"c02f4882f3f4500013f957f79c22ad147df0f271c2579f35b29bdb9c30ba1a12","features":{},"yanked":false,"links":null}
