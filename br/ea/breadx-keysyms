@@ -1,0 +1,1 @@
+{"name":"breadx-keysyms","vers":"0.1.0","deps":[{"name":"breadx","req":"^3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3d79434dcb7002ac18cf9e59a79773f6e39a7cff2592f7c75a05a9d80ffb019f","features":{"async":["breadx/async"],"default":[]},"yanked":false,"links":null}
