@@ -1,0 +1,1 @@
+{"name":"monotonic-time","vers":"1.0.0","deps":[],"cksum":"e11337a083649f711ce2b04d7a415018513f135b5b399b6e8af2b42db56dbfa1","features":{"no_std":[],"default":["no_std"],"std":[]},"yanked":false,"links":null}
