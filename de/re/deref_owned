@@ -5,3 +5,4 @@
 {"name":"deref_owned","vers":"0.5.0","deps":[],"cksum":"9dfa012b43074356a734e7316bbbee95f677d8ffd0ab1a6cc35fa42deea277d6","features":{},"yanked":true,"links":null}
 {"name":"deref_owned","vers":"0.6.0","deps":[],"cksum":"2d87b9015255022b58b578022f26e042cd7cd3d1418cc3fde60c3c7ca98618cf","features":{},"yanked":true,"links":null}
 {"name":"deref_owned","vers":"0.6.1","deps":[],"cksum":"24c6985e6c6705b836dadff7ca66ad7e7a5aff5403990839394109ee1af1e4e6","features":{},"yanked":false,"links":null}
+{"name":"deref_owned","vers":"0.7.0","deps":[],"cksum":"c141bf246298941b92268feaf71d83eec1724d42a87d504df5551f164e2c9bc1","features":{},"yanked":false,"links":null}
