@@ -6,3 +6,4 @@
 {"name":"app-world","vers":"0.1.6","deps":[],"cksum":"5dec416f722541ccff9ce9d2f1ba1d3eac1d395198398fa80e0ac73965a19901","features":{"send":[],"test-utils":[]},"yanked":false,"links":null}
 {"name":"app-world","vers":"0.1.7","deps":[],"cksum":"b9f38ead9d367c6e499ec398eb4cb51a94fc07e213a32c5f1bf359eaa97631d1","features":{"send":[],"test-utils":[]},"yanked":false,"links":null}
 {"name":"app-world","vers":"0.1.8","deps":[],"cksum":"4d928b10ac6b96d0314b57d09d00e113e511fec56d29348c108bff4be73d1be9","features":{"send":[],"test-utils":[]},"yanked":false,"links":null}
+{"name":"app-world","vers":"0.2.0","deps":[],"cksum":"c8f03948834ec5eb6fc12a261106f62ca2f63efd7485d9183f68ae763fbff80e","features":{"send":[],"test-utils":[]},"yanked":false,"links":null}
