@@ -3,5 +3,5 @@
 {"name":"deref_owned","vers":"0.3.0","deps":[],"cksum":"1ccf6f264ec92fc5f2eaaa42ef7977836859d34ea47dc5236963f23e9a782718","features":{},"yanked":false,"links":null}
 {"name":"deref_owned","vers":"0.4.0","deps":[],"cksum":"46e0bfcea4a3146ecd9c1bc25b593bebf21b5d68877358db0cdd17f08717201c","features":{},"yanked":false,"links":null}
 {"name":"deref_owned","vers":"0.5.0","deps":[],"cksum":"9dfa012b43074356a734e7316bbbee95f677d8ffd0ab1a6cc35fa42deea277d6","features":{},"yanked":false,"links":null}
-{"name":"deref_owned","vers":"0.6.0","deps":[],"cksum":"2d87b9015255022b58b578022f26e042cd7cd3d1418cc3fde60c3c7ca98618cf","features":{},"yanked":false,"links":null}
+{"name":"deref_owned","vers":"0.6.0","deps":[],"cksum":"2d87b9015255022b58b578022f26e042cd7cd3d1418cc3fde60c3c7ca98618cf","features":{},"yanked":true,"links":null}
 {"name":"deref_owned","vers":"0.6.1","deps":[],"cksum":"24c6985e6c6705b836dadff7ca66ad7e7a5aff5403990839394109ee1af1e4e6","features":{},"yanked":false,"links":null}
