@@ -6,3 +6,4 @@
 {"name":"panicking","vers":"0.2.0","deps":[],"cksum":"794ad665bf06ef2cfb44ff512fabadbd40e58eb868d8ebfd462a05d4593b6cf3","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"panicking","vers":"0.3.0","deps":[],"cksum":"74a387739bd6c32317a2f9591f86f9f1c9028aac631337e0468bdc1d67568e47","features":{"std":[],"default":["std"],"abort":[]},"yanked":true,"links":null}
 {"name":"panicking","vers":"0.3.1","deps":[],"cksum":"3fe471ee0c2ac25e0792d374d2821b630b8745d64f70976dfdc7cd6d1b917eff","features":{"abort":[],"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"panicking","vers":"0.4.0","deps":[],"cksum":"21eb594cd667adf943bf4617e74ca71e2f4041f2fa630d5fc7be9314a1b480de","features":{"std":[],"default":["std"],"abort":[]},"yanked":false,"links":null}
