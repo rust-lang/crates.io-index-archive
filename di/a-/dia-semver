@@ -33,3 +33,4 @@
 {"name":"dia-semver","vers":"8.3.2","deps":[],"cksum":"1b574b71fd7a11d8b062f5dd2b7dae6c7302d2d26b82030888a91a4bc724116d","features":{"std":[]},"yanked":false,"links":null}
 {"name":"dia-semver","vers":"8.3.3","deps":[],"cksum":"3f3f25aa1d97de66390d561c26fbc3acbd9f9f852c16676f2a06de0e5fb8759b","features":{"std":[]},"yanked":false,"links":null}
 {"name":"dia-semver","vers":"9.0.0","deps":[],"cksum":"5e54d0c7ae86943f5e2d4cb3b7a2f54e60d17a3b85b63ef8bfdfadba8edee726","features":{"std":[]},"yanked":false,"links":null}
+{"name":"dia-semver","vers":"9.0.1","deps":[],"cksum":"cfbda1a27e9a419aaa41214b578782fe7b079f9353283e3e078e9a5e54a09779","features":{"std":[]},"yanked":false,"links":null}
