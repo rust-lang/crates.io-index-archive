@@ -8,3 +8,4 @@
 {"name":"parsley-rs","vers":"0.0.8","deps":[],"cksum":"d7ba254d727f26f6899c964a6f779d2c759b9dfe29f6ea07d8989acd9ac57126","features":{},"yanked":false,"links":null}
 {"name":"parsley-rs","vers":"0.0.9","deps":[],"cksum":"0860e2fd955e889c970147c68efee4c6bb9969e81e9f9b64c436cf759e1187cb","features":{},"yanked":false,"links":null}
 {"name":"parsley-rs","vers":"0.0.10","deps":[],"cksum":"47d880b0253eb0408ec617254826377a5a97768714d620ffb22a280f5f6776cd","features":{},"yanked":false,"links":null}
+{"name":"parsley-rs","vers":"0.0.11","deps":[{"name":"character-stream","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b64f63bebb5d718e7dfd281f4db02b008cc2debe3157947a8e846c79d9ae9a67","features":{},"yanked":false,"links":null}
