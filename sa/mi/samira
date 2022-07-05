@@ -1,1 +1,2 @@
 {"name":"samira","vers":"0.1.0","deps":[],"cksum":"f932b52f8c02889aa4c93e6f69788d959ef461e6979b8cd715e6459c1e85d503","features":{},"yanked":false,"links":null}
+{"name":"samira","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.137","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ureq","req":"^2.4.0","features":["json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6e7bbd80ee6231aed37734888edcd43a6690719871e3a55f4d32918aa1574e6","features":{},"yanked":false,"links":null}
