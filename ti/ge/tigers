@@ -1,1 +1,2 @@
 {"name":"tigers","vers":"0.1.0","deps":[{"name":"csv","req":"^1.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d670df5d337f8de80ab939eb5430b746e35e68523ecf7d9e914b20d17b8d1098","features":{},"yanked":false,"links":null}
+{"name":"tigers","vers":"0.1.1","deps":[{"name":"csv","req":"^1.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3bd7545e95809b2a160ca67bbdc67774f3f1896155546fbd70d25d917e28a3a4","features":{},"yanked":false,"links":null}
