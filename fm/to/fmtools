@@ -1,0 +1,1 @@
+{"name":"fmtools","vers":"0.1.0","deps":[{"name":"obfstr","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f72bf9b67dc241cfd88d91c2303966c3487fe0112d342a9628dd2dc9d6d2f4f8","features":{"default":["std"],"std":[]},"yanked":false,"links":null}

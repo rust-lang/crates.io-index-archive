@@ -1,0 +1,2 @@
+{"name":"mytrie","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"15bbd92fe5ea1727fcf9e2859782a7b10e3f9d8bf9dc0877562eb58e44320013","features":{},"yanked":false,"links":null}
+{"name":"mytrie","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"db88c4900d9fcc9572571ce2c02e9b7afce7bbd83d54517f3b30f76e06ac7281","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"dos-uid","vers":"0.1.0","deps":[{"name":"uid-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev","package":"dos-uid-derive"}],"cksum":"c38636bf93f78de9bdc9618ba9790bbe79a9d2cdb4fb78404d79291182ad3e34","features":{},"yanked":false,"links":null}

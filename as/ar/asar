@@ -1,0 +1,1 @@
+{"name":"asar","vers":"0.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73c04526ee5c6b2792526a6b2256ecf4f7e9a114418b323f4c19b1795ac9128f","features":{},"yanked":false,"links":null}

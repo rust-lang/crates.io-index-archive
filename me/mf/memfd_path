@@ -1,0 +1,2 @@
+{"name":"memfd_path","vers":"0.1.0","deps":[{"name":"memfd","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11b3750ade7e97568985f58553f5ac14b362543c1f75f1d765d8240a2b4278e4","features":{},"yanked":false,"links":null}
+{"name":"memfd_path","vers":"0.1.1","deps":[{"name":"memfd","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d50cfbe50b8682fdd41e921cbaf7a9807ec12207b946586528ae91b34596869","features":{},"yanked":false,"links":null}

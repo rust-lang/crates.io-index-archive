@@ -1,0 +1,3 @@
+{"name":"datamars","vers":"0.1.0","deps":[],"cksum":"2e2bc1f4a976ec8f41cc03ef104cf14648501e0e160983e73972f7b10d2eb000","features":{},"yanked":false,"links":null}
+{"name":"datamars","vers":"0.2.0","deps":[{"name":"clap","req":"^3.1.18","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"814ebe3deb8b3ed5e557b916c3a2df4b5d86d1459e398c53132a99865c0188ba","features":{},"yanked":false,"links":null}
+{"name":"datamars","vers":"0.2.1","deps":[{"name":"clap","req":"^3.1.18","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f03ade8b3c8f6a412ebabdeba73bf2861c32739dd2ba90a818ea31bcd26756bb","features":{},"yanked":false,"links":null}

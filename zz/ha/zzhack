@@ -1,0 +1,1 @@
+{"name":"zzhack","vers":"0.0.1","deps":[{"name":"clap","req":"^3.1.12","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0639926f3c1a5096b8f22563cabf303007b2d33d219b5d5991ca913b24b9ddeb","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"pomsky-macro","vers":"0.5.0","deps":[{"name":"pomsky","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05415e9086cf67db526284b9bca398a394250af838f089c87953e5f88d4cd2e7","features":{"default":[],"diagnostics":[]},"yanked":false,"links":null}

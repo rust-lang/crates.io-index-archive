@@ -1,0 +1,2 @@
+{"name":"register-bits","vers":"0.1.0","deps":[],"cksum":"1ff65aa0a2f475b9146615ab90b0afa3ae5741ffd8d2c0303c5f73a3051732a4","features":{"default":["32bit"],"32bit":[],"no-std":[],"all-regs":["8bit","16bit","32bit","64bit"],"8bit":[],"64bit":[],"16bit":[]},"yanked":false,"links":null}
+{"name":"register-bits","vers":"0.2.0","deps":[],"cksum":"7578d2aa3148e58d385dd0ce538bc202b14c21b7af55e1ad56032521c53e9b39","features":{"16bit":[],"8bit":[],"all-regs":["8bit","16bit","32bit","64bit"],"default":["32bit"],"64bit":[],"no-std":[],"32bit":[]},"yanked":false,"links":null}

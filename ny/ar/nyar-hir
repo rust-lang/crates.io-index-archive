@@ -1,0 +1,1 @@
+{"name":"nyar-hir","vers":"0.1.1","deps":[{"name":"lsp-types","req":"^0.89","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d3d4b519053c96fda7cb6c15aa672c4dd613c1e9adb4419f8e63c3b2c0c83f5","features":{"default":[]},"yanked":false,"links":null}

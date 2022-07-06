@@ -1,0 +1,2 @@
+{"name":"dioxus-free-icons","vers":"0.1.0","deps":[{"name":"dioxus","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"246b8cd8ab609dff6b9a933368ec82b2613bca91040ca5154b5751a791e8f648","features":{},"yanked":false,"links":null}
+{"name":"dioxus-free-icons","vers":"0.1.1","deps":[{"name":"dioxus","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f71ccef78539e9203e84ebbbf3ece5885a049e16ff63847b02f4e42c4259f64f","features":{},"yanked":false,"links":null}

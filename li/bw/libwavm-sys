@@ -1,0 +1,1 @@
+{"name":"libwavm-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.126","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13bcc4592c28c55e650b9cca499a7619b96b5af1e0d11236516847cc7931021c","features":{},"yanked":false,"links":"wavm"}
