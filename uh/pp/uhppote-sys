@@ -1,0 +1,1 @@
+{"name":"uhppote-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.60.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"74e385d15eb0b3ac142910ed401b380ab2a9f46ac20810c89496a3fafc182e32","features":{},"yanked":false,"links":null}
