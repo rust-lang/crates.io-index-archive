@@ -1,0 +1,1 @@
+{"name":"orca-rs","vers":"0.1.1","deps":[{"name":"ndarray","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b231086e8f08c78e08bed45914c00c735bf9250781278072164cd1c086dc189","features":{"default":["participant_obstacles"],"participant_obstacles":[]},"yanked":false,"links":null}
