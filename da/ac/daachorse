@@ -7,3 +7,4 @@
 {"name":"daachorse","vers":"0.4.1","deps":[],"cksum":"96cc885f4286070f147ac1359bcd6d21eabe792074cfea05886744e57c81a82f","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"daachorse","vers":"0.4.2","deps":[],"cksum":"f2be8022ee4f1cb91a1fc35283b6ac8b1a517fe279f6fa34499067516058967e","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"daachorse","vers":"0.4.3","deps":[],"cksum":"048e6559119e79b1d2964ddc0afdaaf583af18b6e3e1ab09ee5fb5e0b83fe7a5","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"daachorse","vers":"1.0.0-rc.1","deps":[],"cksum":"9dee1cd6e1f1e56a73c6f35106a670659a0aaefac2c27f4771263a52971b9a1c","features":{"default":["alloc"],"alloc":[]},"yanked":false,"links":null}
