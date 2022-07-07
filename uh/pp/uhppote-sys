@@ -1,1 +1,2 @@
 {"name":"uhppote-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.60.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"74e385d15eb0b3ac142910ed401b380ab2a9f46ac20810c89496a3fafc182e32","features":{},"yanked":false,"links":null}
+{"name":"uhppote-sys","vers":"0.0.2","deps":[{"name":"bindgen","req":"^0.60.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fdbb964f975333f6885d90750af38b0eff6932456de6955adce2b048b9ec08c1","features":{},"yanked":false,"links":null}
