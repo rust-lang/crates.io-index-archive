@@ -1,1 +1,2 @@
 {"name":"fj-interop","vers":"0.6.0","deps":[{"name":"fj-math","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6eeb966ab7b52707800aeff293924e9c16fb5e037d6040eb8b0034abe9dd511b","features":{},"yanked":false,"links":null}
+{"name":"fj-interop","vers":"0.7.0","deps":[{"name":"fj-math","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0917bc312b37a45a61629366cbb1f36a064615a276085174a020db8eabbd1d05","features":{},"yanked":false,"links":null}
