@@ -1,0 +1,1 @@
+{"name":"boytacean","vers":"0.1.1","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c99b475bf4c9b910739cdb827d923e052c8c9f2cf0c62e17feb421bcaefa82fd","features":{"wasm":["wasm-bindgen"]},"yanked":false,"links":null}
