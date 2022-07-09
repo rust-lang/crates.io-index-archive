@@ -1,0 +1,1 @@
+{"name":"sadikkuzu","vers":"0.1.0","deps":[{"name":"clap","req":"^3.2.8","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7967238266480f6dd419e992e621ea9cea479cf64ee41d01d0a51defaa57fc8","features":{},"yanked":false,"links":null}
