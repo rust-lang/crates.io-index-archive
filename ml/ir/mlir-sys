@@ -1,1 +1,2 @@
 {"name":"mlir-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.59.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"527a5d2c6dc3e3c6b5ce0058aa7a5dda883b459e97db996b910f37f1d5d04976","features":{},"yanked":false,"links":"MLIR"}
+{"name":"mlir-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.60.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ab1f191bf4f6dd4b4ae594a49211efbadf4e01ec95dc52ae8d8b135d623b3ff8","features":{},"yanked":false,"links":"MLIR"}
