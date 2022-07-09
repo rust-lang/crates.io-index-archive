@@ -1,0 +1,1 @@
+{"name":"wasi-tcp-server","vers":"0.1.0","deps":[{"name":"wasmedge_wasi_socket","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9bc3bbf05f920c71bb87311a715fbe13cddcc099c3a1c5196724a66bf8d3c74","features":{},"yanked":false,"links":null}
