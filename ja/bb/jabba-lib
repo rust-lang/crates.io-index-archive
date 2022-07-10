@@ -1,1 +1,2 @@
 {"name":"jabba-lib","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dfb88dabe7144a93b3e20eadcb088091c7539381d07bcd9c2440cc6affb48da2","features":{},"yanked":false,"links":null}
+{"name":"jabba-lib","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7cad95fc85e3a965dec7a3b450ebbc5d45bbe6fed180f5ea96782af11a1eef1c","features":{},"yanked":false,"links":null}
