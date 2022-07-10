@@ -1,1 +1,2 @@
 {"name":"nvapi_sys_new","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.60.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d6627b20a497174a63f95c854ae32ab140810d813865ffd8490bb9c0c686272a","features":{},"yanked":false,"links":null}
+{"name":"nvapi_sys_new","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.60.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"082dbce9ec514791111865d4cfa245ce202168a528637318f589a6712c1df013","features":{},"yanked":false,"links":null}
