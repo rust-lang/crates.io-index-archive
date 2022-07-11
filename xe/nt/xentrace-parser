@@ -30,6 +30,6 @@
 {"name":"xentrace-parser","vers":"0.9.0","deps":[],"cksum":"491f7d58a181489d0abbd765318c4098d017e96a87a55db60a7041cd9d7b6e97","features":{},"yanked":false,"links":null}
 {"name":"xentrace-parser","vers":"0.9.1","deps":[],"cksum":"0f2dfdd75d1101638bc3b1fda2f59f31a2e69c77266988c8d12ff7e9446c75cb","features":{},"yanked":false,"links":null}
 {"name":"xentrace-parser","vers":"0.10.0","deps":[],"cksum":"b3e2178612a37e49441beb6fa775ac10b877b299d09acb33143be10b9a5e1b4a","features":{},"yanked":false,"links":null}
-{"name":"xentrace-parser","vers":"0.10.1","deps":[],"cksum":"2c8493e5c8d9c66907cb4145448d418a47079f16897d132a63588ffc3cdf9f6a","features":{},"yanked":true,"links":null}
+{"name":"xentrace-parser","vers":"0.10.1","deps":[],"cksum":"2c8493e5c8d9c66907cb4145448d418a47079f16897d132a63588ffc3cdf9f6a","features":{},"yanked":false,"links":null}
 {"name":"xentrace-parser","vers":"0.10.2","deps":[],"cksum":"82bebef7e4b05cc11d619b601a7d747b9189856d24e9f32f7d5fcd6248bd238c","features":{},"yanked":true,"links":null}
 {"name":"xentrace-parser","vers":"0.10.3","deps":[],"cksum":"b40441b2bb42def81a26cfd3712532c92203d4adf9bceb4330d487918efa585f","features":{},"yanked":false,"links":null}
