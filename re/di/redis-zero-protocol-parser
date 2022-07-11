@@ -4,3 +4,4 @@
 {"name":"redis-zero-protocol-parser","vers":"0.3.0","deps":[],"cksum":"f43e8ff2a1286c4cd959893d43409250680975923e159c536fc9b98a48bbf2b5","features":{},"yanked":false,"links":null}
 {"name":"redis-zero-protocol-parser","vers":"0.3.1","deps":[],"cksum":"51d547c0ffa75913ec400fc63b54dc4dad9cea8b6deb627e648084db15a26fd5","features":{},"yanked":false,"links":null}
 {"name":"redis-zero-protocol-parser","vers":"0.3.2","deps":[],"cksum":"9932e3d9e00ee403f4417a5e831fbb39584159dc4bdd75073fccbdd45d926629","features":{},"yanked":false,"links":null}
+{"name":"redis-zero-protocol-parser","vers":"0.3.3","deps":[],"cksum":"3a6816141aa20c0569f7752fd2e0390f59b887a60797422633f57d47c2271fe8","features":{},"yanked":false,"links":null}
