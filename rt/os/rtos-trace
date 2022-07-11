@@ -1,0 +1,1 @@
+{"name":"rtos-trace","vers":"0.1.0","deps":[],"cksum":"7654f5319b92e87234211e5d9553267432240c5f27bbfbec2c659347bbcaa7d0","features":{"default":["trace_impl"],"trace_impl":[]},"yanked":false,"links":null}
