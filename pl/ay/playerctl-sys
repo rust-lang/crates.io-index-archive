@@ -1,0 +1,1 @@
+{"name":"playerctl-sys","vers":"2.4.1","deps":[{"name":"bindgen","req":"^0.60.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"eebf860369cc67be62b065bd0bf76c0c68aadba4c767934c4ce1c2dd47a61588","features":{},"yanked":false,"links":null}
