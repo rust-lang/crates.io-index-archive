@@ -12,3 +12,4 @@
 {"name":"deref_owned","vers":"0.8.2","deps":[],"cksum":"a9502b0fddd1a5818c83f66213fbc1b9d6e609363980473593745eaa2ab3d40b","features":{},"yanked":false,"links":null}
 {"name":"deref_owned","vers":"0.10.0","deps":[],"cksum":"5f2a8cdf5311adc19d940c853f538a928a6c9771661325d51b526ea1a07fc6bd","features":{},"yanked":false,"links":null}
 {"name":"deref_owned","vers":"0.10.1","deps":[],"cksum":"0511926c3c6cd2f3e60ba5c5f7ef42cd4eac4d4746a1d9420d3271834ce06089","features":{},"yanked":false,"links":null}
+{"name":"deref_owned","vers":"0.10.2","deps":[],"cksum":"ea5d487726350c45d2805d005f4381a9cc60b405707674e4b72ec748d008e3d8","features":{},"yanked":false,"links":null}
