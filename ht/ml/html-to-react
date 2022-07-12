@@ -1,1 +1,2 @@
 {"name":"html-to-react","vers":"0.1.1","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1c172065bc414fd01d765c67479717389e2ecebd5f58774eb02bef52531c666","features":{},"yanked":false,"links":null}
+{"name":"html-to-react","vers":"0.1.2","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c9a9db6b9854ada9b1268941e4be987fed399517264f24f9ec5710b70f151349","features":{},"yanked":false,"links":null}
