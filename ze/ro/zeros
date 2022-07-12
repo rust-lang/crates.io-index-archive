@@ -30,3 +30,4 @@
 {"name":"zeros","vers":"10.0.2","deps":[],"cksum":"a74cd2ba0125c23fb2e8263b4839f0e5b314f4f5cc512221df909db7f3cdb8da","features":{"std":[]},"yanked":false,"links":null}
 {"name":"zeros","vers":"11.0.0","deps":[],"cksum":"e23e307f2257700e2a9462b7c80f3cef7ef6fbddac035848000d3a069983f649","features":{"std":[]},"yanked":false,"links":null}
 {"name":"zeros","vers":"11.1.0","deps":[],"cksum":"0d4c732088b0c4dcac5e5d37e7efd6aa30d02c1998708b617f181a4254e3cae4","features":{"std":[]},"yanked":false,"links":null}
+{"name":"zeros","vers":"11.2.0","deps":[],"cksum":"4247fc0290e56876b9beeaea9ca5d3ff661c9ee3b83fc6cd558ad7d05667312e","features":{"std":[]},"yanked":false,"links":null}
