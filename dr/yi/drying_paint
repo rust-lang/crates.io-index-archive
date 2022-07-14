@@ -15,3 +15,4 @@
 {"name":"drying_paint","vers":"0.4.6","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47e782e3d264dd80a58523d2e37c04c15b16bef5d76d5496d16cb11430df879f","features":{},"yanked":true,"links":null}
 {"name":"drying_paint","vers":"0.4.7","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e566c7863f571f92fdd4f5c1a351dd0f2e0706a8723566633253ade6d609d4e","features":{},"yanked":true,"links":null}
 {"name":"drying_paint","vers":"0.5.0","deps":[],"cksum":"df976e7b813bfcecaba79b248b46f60c03de7f115d85c6e936f8e52a1c9220f4","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"drying_paint","vers":"0.5.1","deps":[],"cksum":"e897334daf23d4552e03bb452e07da7a02a474f36236c0527c7df295c7879291","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
