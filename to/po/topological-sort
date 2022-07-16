@@ -9,3 +9,4 @@
 {"name":"topological-sort","vers":"0.0.9","deps":[],"cksum":"b157707c5c15b745d3410cb2a91516c6073ebaa9eca3ed90102185cad56f661d","features":{},"yanked":false}
 {"name":"topological-sort","vers":"0.0.10","deps":[],"cksum":"49c90878c637f6d876b64a57ed5a753d26d72e50106c55964ea89f3ce2a0f6cd","features":{},"yanked":false}
 {"name":"topological-sort","vers":"0.1.0","deps":[],"cksum":"aa7c7f42dea4b1b99439786f5633aeb9c14c1b53f75e282803c2ec2ad545873c","features":{},"yanked":false}
+{"name":"topological-sort","vers":"0.2.0","deps":[{"name":"quickcheck","req":"^1.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"quickcheck_macros","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c637fcfb5af16fcb9665969a8724d7ce06f811cb8a90cf514fefadf20922ead5","features":{},"yanked":false,"links":null}
