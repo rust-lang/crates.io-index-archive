@@ -1,1 +1,2 @@
 {"name":"new_york_utils","vers":"0.1.0","deps":[],"cksum":"d52977ed5f6ed88d5c202493fb9215e4aebf372bd91135587aa4554d3d07c735","features":{},"yanked":false,"links":null}
+{"name":"new_york_utils","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4df52c591366dfe4a26de308e22af138c535d2ea4d14ca0d96c20e88d6ee0f9","features":{},"yanked":false,"links":null}
