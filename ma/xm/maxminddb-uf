@@ -1,0 +1,1 @@
+{"name":"maxminddb-uf","vers":"0.1.0","deps":[{"name":"maxminddb","req":"^0.23.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3380dbe441218e39311de5e70b91d2e1ac716c4e8d59990c6b9626bc6bb80300","features":{},"yanked":false,"links":null}
