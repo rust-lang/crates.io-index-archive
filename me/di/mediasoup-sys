@@ -16,3 +16,4 @@
 {"name":"mediasoup-sys","vers":"0.3.3","deps":[],"cksum":"4475c581332565ff35669f3dbb155a4dbbe227932759c281d78d3d1adbb7f98d","features":{},"yanked":false,"links":null}
 {"name":"mediasoup-sys","vers":"0.4.0","deps":[],"cksum":"dcc0774cb025efa1c0d68a16d7f470cdaa062a3f0c4a781cb1e1077cab2c187f","features":{},"yanked":false,"links":null}
 {"name":"mediasoup-sys","vers":"0.4.1","deps":[],"cksum":"bf2955c324b13907bf147715fb3aace6ea7e33c810581d8c25ec88b773204bf3","features":{},"yanked":false,"links":null}
+{"name":"mediasoup-sys","vers":"0.4.2","deps":[],"cksum":"0d4335e6b96074f2d9c864958878ffe3fa5037ee3e62c16a858592888d5d70df","features":{},"yanked":false,"links":null}
