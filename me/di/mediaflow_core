@@ -1,0 +1,1 @@
+{"name":"mediaflow_core","vers":"0.6.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4419cfebfa11e39b33e0b38eb4f427f2fb07cadad9f324f0fd3f1a357d2cff97","features":{},"yanked":false,"links":null}
