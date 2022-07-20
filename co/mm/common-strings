@@ -1,0 +1,1 @@
+{"name":"common-strings","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0370565e88c73c60d9028fc294180e0e1e43d586ca553a3388e28a51a69fab3b","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"links":null,"v":2}
