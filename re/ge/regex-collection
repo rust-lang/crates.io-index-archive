@@ -1,1 +1,2 @@
 {"name":"regex-collection","vers":"0.1.0","deps":[{"name":"regex","req":"^1.5.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3696483d49c2972bcf3e83e0aa5868baae6d27f779cbec01785de2539a7345e8","features":{},"yanked":true,"links":null}
+{"name":"regex-collection","vers":"0.1.1","deps":[{"name":"regex","req":"^1.5.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b2180911889124a8309d2754fe9ac9d76f9af788e98e341ef265e33632f41c2","features":{},"yanked":false,"links":null}
