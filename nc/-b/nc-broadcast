@@ -1,0 +1,1 @@
+{"name":"nc-broadcast","vers":"0.1.0","deps":[{"name":"clap","req":"^3.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"91d2a791535021333b653075466b1e991d378e213dd55048fbbfd144234b3396","features":{},"yanked":false,"links":null}
