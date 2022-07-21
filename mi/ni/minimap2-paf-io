@@ -1,1 +1,2 @@
 {"name":"minimap2-paf-io","vers":"0.1.0","deps":[],"cksum":"9b9862be97fd01c0d3fd6cca5264826dc85b304b10b865a57f2ea21de56cfea6","features":{},"yanked":false,"links":null}
+{"name":"minimap2-paf-io","vers":"1.0.0","deps":[{"name":"log","req":"^0.4.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c4e0f2b5df6556ec379a8c58ca5fbcd002203b4306014d9c17464fd04ffbbc7","features":{},"yanked":false,"links":null}
