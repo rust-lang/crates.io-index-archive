@@ -1,1 +1,2 @@
 {"name":"hpn-client","vers":"0.1.0","deps":[{"name":"hpn","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74f8f47ab332055e07eb23002eccb5981666157418022510f695ed2c870470fd","features":{},"yanked":false,"links":null}
+{"name":"hpn-client","vers":"0.1.1","deps":[{"name":"hpn","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e2c981b9b626581723c39baf97b3c72e12be7d809b037752c3f65e82a76b2b3","features":{},"yanked":false,"links":null}
