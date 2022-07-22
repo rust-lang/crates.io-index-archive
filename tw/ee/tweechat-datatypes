@@ -1,0 +1,1 @@
+{"name":"tweechat-datatypes","vers":"0.0.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f3e265e4d8044a51b011b2bbf32aa26d7846ae450b3964bd6a5132a8fd4bbed","features":{},"yanked":false,"links":null}
