@@ -1,0 +1,1 @@
+{"name":"rusty-chromaprint","vers":"0.1.0","deps":[{"name":"rustfft","req":"^6.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a838e792aefdd927e41be34af57c86023d8743169daaef840813531b622fb218","features":{},"yanked":false,"links":null}
