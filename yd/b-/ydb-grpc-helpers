@@ -8,3 +8,4 @@
 {"name":"ydb-grpc-helpers","vers":"0.0.7","deps":[],"cksum":"673bd91af6e3f5ef7e5ad0258c2d8667679b4d402f22e2f85f56d8093322f917","features":{},"yanked":false,"links":null}
 {"name":"ydb-grpc-helpers","vers":"0.0.8","deps":[],"cksum":"83c0a5a796cf669cd2421debeb1514c778795902322ac94bf0ee5c300362c6e3","features":{},"yanked":false,"links":null}
 {"name":"ydb-grpc-helpers","vers":"0.0.9","deps":[],"cksum":"72b7229816c8da2fb676c0cf385319dc16ac91cf9b7a9171ed656aa67b07db81","features":{},"yanked":false,"links":null}
+{"name":"ydb-grpc-helpers","vers":"0.0.10","deps":[],"cksum":"07d1f292d18b6e0565bf4ae81768993531b9f9f553694744fa76343adf3fc70e","features":{},"yanked":false,"links":null}
