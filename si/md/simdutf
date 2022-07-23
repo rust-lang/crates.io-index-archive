@@ -1,1 +1,2 @@
 {"name":"simdutf","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3f7f52a5d9a3757c16af0171699458f6c1c47fb2654c2f407c2b13656b6e9b61","features":{},"yanked":false,"links":null}
+{"name":"simdutf","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"8b862fb21cc2cb1b2ed3ef87554d1b3c366fc613e250d21fbac4d765e27dc045","features":{},"yanked":false,"links":null}
