@@ -1,0 +1,1 @@
+{"name":"vl53l4cd","vers":"0.1.0","deps":[{"name":"i2cdev","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"301a2e66cf24cfaeb1fd4ba25820ad9babb25844cf431c72b5c0c813ed0f3105","features":{},"yanked":false,"links":null}
