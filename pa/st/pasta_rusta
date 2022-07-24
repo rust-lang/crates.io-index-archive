@@ -7,3 +7,4 @@
 {"name":"pasta_rusta","vers":"0.1.5-hello","deps":[],"cksum":"d4360c33f5e80205b60f2937aa779a9fb168fdf5439131dbc3cbdbe5b463ddeb","features":{},"yanked":false,"links":null}
 {"name":"pasta_rusta","vers":"0.1.6","deps":[],"cksum":"aa6b09bab051374c8558e210a0286912102d787e1faf8192642e705aeb5df8df","features":{},"yanked":true,"links":null}
 {"name":"pasta_rusta","vers":"0.1.6-release","deps":[],"cksum":"1f667eb1dc8facb34724e93df5d88eebd94b9c12b0726d79330ce63ec514d678","features":{},"yanked":false,"links":null}
+{"name":"pasta_rusta","vers":"0.1.6+elad-2","deps":[],"cksum":"45ce5460df3e2db27f5178db691c354e887405336c3cd3421bc0f78fc475316d","features":{},"yanked":false,"links":null}
