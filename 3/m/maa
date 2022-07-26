@@ -1,0 +1,1 @@
+{"name":"maa","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"glob","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"21f428c03e7042260b1d66f257fd03f09f64abaa3abc8c0f44218687cdb1deb0","features":{},"yanked":false,"links":null}
