@@ -1,1 +1,2 @@
 {"name":"dec-number-sys","vers":"0.0.1","deps":[],"cksum":"f1bc95e2df91188115022feb6d3534c7465f4a63a99337199aa7c547ba9cb9b6","features":{},"yanked":false,"links":null}
+{"name":"dec-number-sys","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2.126","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7163b604bdc52846e8426ca7c71ba0448e285002c4cd4e2119b24c16b4adb6f","features":{},"yanked":false,"links":"decNumber64"}
