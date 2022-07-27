@@ -1,0 +1,1 @@
+{"name":"roost-lang","vers":"1.2.0","deps":[{"name":"rust_decimal","req":"^1.20.0","features":["maths"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14b09312dbeb7abe30d5c7ef4c46953cb54e65868aedd7cfae4cf4036c94736e","features":{"no_std_io":[]},"yanked":false,"links":null}
