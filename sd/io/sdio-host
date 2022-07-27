@@ -6,3 +6,4 @@
 {"name":"sdio-host","vers":"0.6.0","deps":[],"cksum":"355c411b00ad0634aa29824b37d0755e931a349b3230ffdef846c140eeed9c09","features":{},"yanked":false,"links":null}
 {"name":"sdio-host","vers":"0.7.0","deps":[],"cksum":"5b0b821f42c22b64804b9ec4c5066ab88dd06e5df580b65ecc63eeadfe1c4214","features":{},"yanked":false,"links":null}
 {"name":"sdio-host","vers":"0.8.0","deps":[],"cksum":"fb66204c829d4894d14a69979e0d954acdfa2821f0d2094e510753ba46f984c8","features":{},"yanked":false,"links":null}
+{"name":"sdio-host","vers":"0.9.0","deps":[],"cksum":"b328e2cb950eeccd55b7f55c3a963691455dcd044cfb5354f0c5e68d2c2d6ee2","features":{},"yanked":false,"links":null}
