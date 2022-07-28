@@ -6,3 +6,4 @@
 {"name":"format_xml","vers":"0.1.5","deps":[],"cksum":"a97a952ce7feb5c0a276d8d8d25bbbddbc306b4694d544b6c67cec518ba52306","features":{},"yanked":false,"links":null}
 {"name":"format_xml","vers":"0.1.6","deps":[],"cksum":"5097a466b5aedccef20567540dccd03b831a9cf1a30970c491b8a2aef2528bd4","features":{},"yanked":false,"links":null}
 {"name":"format_xml","vers":"0.2.0","deps":[],"cksum":"6ac03920da0ad9ec675db4e85b057da1cce6dcab97840e6299efbc80e3b27ca8","features":{},"yanked":false,"links":null}
+{"name":"format_xml","vers":"0.3.0","deps":[{"name":"fmtools","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f38d7f026d70f5b9ab93c958b2d7261618b076c6115008ea19fde31dc123cb24","features":{"std":[],"obfstr":["fmtools/obfstr"],"default":["std"]},"yanked":false,"links":null}
