@@ -1,0 +1,1 @@
+{"name":"snailshell","vers":"0.1.0","deps":[{"name":"clap","req":"^3.2.15","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1293423c84c213b3151e85a64451aa8be950f384d55f800894076785d4e81627","features":{},"yanked":false,"links":null}
