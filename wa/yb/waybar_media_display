@@ -1,2 +1,3 @@
 {"name":"waybar_media_display","vers":"0.1.0","deps":[],"cksum":"7848fc1474f343c5a2a6d08c7b345a3c1e4fb2a7bb8dac41c8b71d752a393d26","features":{},"yanked":false,"links":null}
 {"name":"waybar_media_display","vers":"1.0.0","deps":[{"name":"clap","req":"^3.2.15","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13b8a43e907a20fe61840464092e67fc8aba1a2d5bae6f3b2dab29c346744a48","features":{},"yanked":false,"links":null}
+{"name":"waybar_media_display","vers":"1.0.1","deps":[{"name":"clap","req":"^3.2.15","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bef12a71af8f6dc4a07c4c6e0cd5a41ce2705b85b0c15804bd2f753cab82b0c9","features":{},"yanked":false,"links":null}
