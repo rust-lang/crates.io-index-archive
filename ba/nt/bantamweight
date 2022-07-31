@@ -1,0 +1,1 @@
+{"name":"bantamweight","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5d26c696e4d4759f34540785f8a1b3431da4531ad3e5c750f76cc6ae6d2af36","features":{},"yanked":false,"links":null}
