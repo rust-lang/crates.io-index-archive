@@ -1,1 +1,2 @@
 {"name":"com-croftsoft","vers":"0.1.0","deps":[],"cksum":"57a6e881cd1dd5aba25bd1907486f108211e6ad349fe5804b5853b873c0cdf17","features":{},"yanked":false,"links":null}
+{"name":"com-croftsoft","vers":"0.1.1","deps":[{"name":"com-croftsoft-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"438e855d6d48b008234ef8d7669122eec2f9a4b50fec73b7ab8ea9e1e692eaae","features":{},"yanked":false,"links":null}
