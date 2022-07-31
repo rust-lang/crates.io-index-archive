@@ -1,2 +1,3 @@
 {"name":"vnetod","vers":"0.1.0","deps":[],"cksum":"bbd5fcb35dcfb8267f11423f174d76fef70a3a12a732b93150a9d3e5c7983f05","features":{},"yanked":false,"links":null}
 {"name":"vnetod","vers":"0.2.0","deps":[{"name":"clap","req":"^3.2.15","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06146a0c8d6e82bfc394a1438525227ca5b0d18f15e50d54b34ce83e344be3b1","features":{},"yanked":false,"links":null}
+{"name":"vnetod","vers":"0.2.1","deps":[{"name":"clap","req":"^3.2.15","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e7507453b002ec42ac8cc0b09cd633c4a9f8b012fc93f0a874b49a5c8688dc5","features":{},"yanked":false,"links":null}
