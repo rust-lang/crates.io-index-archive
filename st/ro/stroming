@@ -1,1 +1,2 @@
 {"name":"stroming","vers":"0.0.1","deps":[{"name":"uuid","req":"^1.1.2","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"215df08c96f30eb14b2853ab5a20bf0dea70a3d0fe17ca1fabaa9ed2a5897b49","features":{},"yanked":false,"links":null}
+{"name":"stroming","vers":"0.0.2","deps":[{"name":"uuid","req":"^1.1.2","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b61a2f89273dbafa2e622166716c662ed8049e5b8ef04bfbf3c7d902d8bf2ebe","features":{},"yanked":false,"links":null}
