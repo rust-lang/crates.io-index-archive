@@ -1,0 +1,1 @@
+{"name":"clockwork-pool","vers":"1.0.0","deps":[{"name":"anchor-lang","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"964f7804ca8b568d2c070323b37efedf9a23fc6d3372a70f6dddbe22dbfcd2c8","features":{"cpi":["no-entrypoint"],"default":[],"no-idl":[],"no-entrypoint":[],"no-log-ix-name":[]},"yanked":false,"links":null}
