@@ -1,1 +1,2 @@
 {"name":"ircparser","vers":"0.1.0","deps":[{"name":"collection_macros","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b6f9f9a715411f5cc181ef41b717dfc1740013ea97b6b4d31122bf060ef42c72","features":{},"yanked":false,"links":null}
+{"name":"ircparser","vers":"0.2.0","deps":[{"name":"collection_macros","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6ffad4ecae9e3c4c5b4615a477cebbe34b1f20d27e7631be91d9340364f2dc63","features":{},"yanked":false,"links":null}
