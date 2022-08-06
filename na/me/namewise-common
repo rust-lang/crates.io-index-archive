@@ -1,1 +1,2 @@
 {"name":"namewise-common","vers":"1.2.0","deps":[{"name":"strum","req":"^0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfda2db7efb208c1dd8426ea2d07c3717c61d17036fee2714301300387e2de29","features":{},"yanked":false,"links":null}
+{"name":"namewise-common","vers":"1.2.1","deps":[{"name":"strum","req":"^0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"549475feb15d44a3fdf3f238ce30aea4937459ac637bcfe9c3272141bd76e072","features":{},"yanked":false,"links":null}
