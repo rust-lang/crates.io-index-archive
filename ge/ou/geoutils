@@ -4,3 +4,4 @@
 {"name":"geoutils","vers":"0.4.0","deps":[],"cksum":"4635c5c079227d2e54fe0f69b3f1ac9376a517608762267975ee1603fa0800bf","features":{},"yanked":false,"links":null}
 {"name":"geoutils","vers":"0.4.1","deps":[],"cksum":"9e006f616a407d396ace1d2ebb3f43ed73189db8b098079bd129928d7645dd1e","features":{},"yanked":false,"links":null}
 {"name":"geoutils","vers":"0.5.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36c15207f7ac48cfd8fd3320c0b396fc907026f8b1d36674056ffe96b5c6a760","features":{"default":[]},"yanked":false,"links":null}
+{"name":"geoutils","vers":"0.5.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36d244a08113319b5ebcabad2b8b7925732d15eec46d7e7ac3c11734f3b7a6ad","features":{"default":[]},"yanked":false,"links":null}
