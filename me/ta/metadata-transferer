@@ -1,0 +1,1 @@
+{"name":"metadata-transferer","vers":"0.1.0","deps":[{"name":"clap","req":"^3.2.16","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a4dd8324e0d9f1fe9903f861ca92923c2b1b63f5e0bbbd2ad209d0ff68846ff","features":{},"yanked":false,"links":null}
