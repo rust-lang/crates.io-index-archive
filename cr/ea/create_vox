@@ -6,3 +6,4 @@
 {"name":"create_vox","vers":"0.5.0","deps":[],"cksum":"9747644cd9a84c90a6ff08e20d24526c7f9bc3275887ed6888adfa1cd11da249","features":{},"yanked":false,"links":null}
 {"name":"create_vox","vers":"0.6.0","deps":[],"cksum":"9850c2280a038cec1c5d5c939ba5ca8f805efeb46e693b1f54e6050909d0a873","features":{},"yanked":false,"links":null}
 {"name":"create_vox","vers":"1.0.0","deps":[{"name":"easybench","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"391bdec70d486d708000270490fa35e45635248956c7f2336779f47ba6abaa10","features":{},"yanked":false,"links":null}
+{"name":"create_vox","vers":"1.0.1","deps":[{"name":"easybench","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a23b522bd0363980ed101b7fd2c2ad110fc982126a527c4e247dd7fcf0b65047","features":{},"yanked":false,"links":null}
