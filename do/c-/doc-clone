@@ -1,0 +1,1 @@
+{"name":"doc-clone","vers":"0.0.1-rc.1","deps":[{"name":"clap","req":"^3.2.16","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6cf5006e83102e0a8053734642ab164c295b5990e79b263348a3302422101f79","features":{},"yanked":false,"links":null}
