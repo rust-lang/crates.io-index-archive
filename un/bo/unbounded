@@ -11,4 +11,4 @@
 {"name":"unbounded","vers":"0.0.9","deps":[{"name":"you-can","req":"^0.0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb513a4dde55a4a959506ef05e4cd2db99c885754ce087351647650ba77795e2","features":{},"yanked":true,"links":null}
 {"name":"unbounded","vers":"0.0.13","deps":[{"name":"you-can","req":"^0.0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f1341ca31e82d371223dc2222400aaa736ebe902438ee2c94d730ff07fd8ca9","features":{},"yanked":true,"links":null}
 {"name":"unbounded","vers":"0.0.0--","deps":[],"cksum":"e29aa7dd394172a47e96106d33e834cb59ab981a04f07d853cb6bfeab772d16d","features":{},"yanked":true,"links":null}
-{"name":"unbounded","vers":"0.0.0-removed","deps":[],"cksum":"de191f19daee10afc586e8a480a89839d1db926a91db1c285d554827930e4241","features":{},"yanked":false,"links":null}
+{"name":"unbounded","vers":"0.0.0-removed","deps":[],"cksum":"de191f19daee10afc586e8a480a89839d1db926a91db1c285d554827930e4241","features":{},"yanked":true,"links":null}
