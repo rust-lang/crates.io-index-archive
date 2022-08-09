@@ -5,3 +5,4 @@
 {"name":"actox","vers":"0.1.4","deps":[{"name":"etrace","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cede8bd57eabffaad03e84517147f1e5e5388190d1f393d5799dcc3a6a254f60","features":{},"yanked":false,"links":null}
 {"name":"actox","vers":"0.1.5","deps":[{"name":"etrace","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e232845e43d7f5aabf8dee067d6364ef6fec28c039f191ab2eebb13951688c8c","features":{},"yanked":false,"links":null}
 {"name":"actox","vers":"0.2.0","deps":[],"cksum":"74b6c37670bf00a72972bef37b0a7c80bf63d4f09533a9477f2eb5473fd8c3e2","features":{"default":[]},"yanked":false,"links":null}
+{"name":"actox","vers":"0.2.1","deps":[],"cksum":"ec2d6c64ecbf28e6873440042d92474d147e771d02cfe8f9e7c07d6d695661d7","features":{"default":[]},"yanked":false,"links":null}
