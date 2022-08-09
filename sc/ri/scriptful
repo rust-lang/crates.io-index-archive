@@ -5,3 +5,4 @@
 {"name":"scriptful","vers":"0.2.1","deps":[],"cksum":"30ede51b50e2502b7a92db5b5a6f2f647488917a0fc0a358ad0d7dee3c57287f","features":{},"yanked":false,"links":null}
 {"name":"scriptful","vers":"0.3.0","deps":[],"cksum":"f235a71a0a848761e0726fd6935cb7bd1ce8550b3b66fd829fb81dd17118ac1c","features":{"codecs":[],"default":["codecs"]},"yanked":false,"links":null}
 {"name":"scriptful","vers":"0.3.1","deps":[],"cksum":"29ec64415916dafaa464786b60488cd6080ac662682a4918f7333ca8373906e2","features":{"codecs":[],"default":["codecs"]},"yanked":false,"links":null}
+{"name":"scriptful","vers":"0.4.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"17a12890a80b39eaeb902ebadb73a4e61942aefebfc48c1ffaf226e926679731","features":{"use_serde":["serde"],"codecs":[],"default":["codecs"]},"yanked":false,"links":null}
