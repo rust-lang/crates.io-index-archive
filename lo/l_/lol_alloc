@@ -1,0 +1,1 @@
+{"name":"lol_alloc","vers":"0.1.0","deps":[{"name":"wasm-bindgen-test","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"08b960c98eb63ef0e0708a531794451318fa52842ad336247df69eba4d9fe179","features":{},"yanked":false,"links":null}
