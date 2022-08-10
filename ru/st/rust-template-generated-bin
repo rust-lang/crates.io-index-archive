@@ -5,3 +5,4 @@
 {"name":"rust-template-generated-bin","vers":"0.3.2","deps":[],"cksum":"236c18f02787a418d8758762aba1ca2ebcffb72e5b15449a8d0cb612365b4d1c","features":{},"yanked":false,"links":null}
 {"name":"rust-template-generated-bin","vers":"0.3.3","deps":[],"cksum":"0aa6939360ddc1f27e361fe0cacd8660163aeb3172ab45bc4df44439a3dd6ab1","features":{},"yanked":false,"links":null}
 {"name":"rust-template-generated-bin","vers":"0.3.4","deps":[{"name":"clap","req":"^3.2.16","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c6d146ecc3a9278617e187b95610f454e5eff05c22ab77ff897c5fa80c3dc32","features":{},"yanked":false,"links":null}
+{"name":"rust-template-generated-bin","vers":"0.3.5","deps":[{"name":"clap","req":"^3.2.16","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ede774bd79dddb2efea8d77e8e5990d8458435e249b3502131823bdab530c716","features":{},"yanked":false,"links":null}
