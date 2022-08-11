@@ -1,1 +1,2 @@
 {"name":"erg_common","vers":"0.1.0","deps":[],"cksum":"3c0c3402f109f4aea11e5ad000bd137f38a4fa2a5b12e7609f76566c7e046204","features":{"japanese":[],"debug":[]},"yanked":false,"links":null}
+{"name":"erg_common","vers":"0.1.1","deps":[],"cksum":"e12e81ae0f92f5c29e44d596995fec7b2fbb5af6bb94d6a432cb6ba99d6f032d","features":{"debug":[],"japanese":[]},"yanked":false,"links":null}
