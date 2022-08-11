@@ -1,0 +1,1 @@
+{"name":"deno_node","vers":"0.2.0","deps":[{"name":"deno_core","req":"^0.147.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"323502bc8611380abf239ec98cbba8320be0ddc6261c377c8534c5aeeed01a18","features":{},"yanked":false,"links":null}
