@@ -1,0 +1,1 @@
+{"name":"ffly","vers":"0.0.0","deps":[{"name":"tokio","req":"^1.20.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69cda98c8929f4d175b44d75a57339960e274fd864edeae6ac5d0780c673f528","features":{},"yanked":false,"links":null}
