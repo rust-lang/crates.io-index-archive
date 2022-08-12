@@ -1,0 +1,1 @@
+{"name":"concordium-cis2","vers":"1.0.0","deps":[{"name":"concordium-std","req":"^3.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7c792ed6d3c18ddee80de2802134438ba970f8c44d4ff78ce623123967cc32ac","features":{"default":["std"],"std":["concordium-std/std"]},"yanked":false,"links":null}
