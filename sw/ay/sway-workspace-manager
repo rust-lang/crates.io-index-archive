@@ -1,0 +1,1 @@
+{"name":"sway-workspace-manager","vers":"0.1.0","deps":[{"name":"swayipc","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb4aabf156829345e13eeec23aa6eae0f158485ac3b6d1573ad808207455b191","features":{},"yanked":false,"links":null}
