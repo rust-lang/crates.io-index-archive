@@ -12,3 +12,4 @@
 {"name":"powershell_script","vers":"1.0.0","deps":[],"cksum":"db8c1ed56fef1b9fad2f207f13693f1162853b197110a57f9e1fd825c2476f1b","features":{"core":[]},"yanked":false,"links":null}
 {"name":"powershell_script","vers":"1.0.1","deps":[],"cksum":"afa07737f58c2d280a8fb7dd209b6df2af68cf01ee9e4a8ff887109ea1d9c26d","features":{"core":[]},"yanked":false,"links":null}
 {"name":"powershell_script","vers":"1.0.2","deps":[],"cksum":"9d5c8599ccb442b80c8c04437bcbcac2f76ff34d7b658b759fb26744dcab6c03","features":{"core":[]},"yanked":false,"links":null}
+{"name":"powershell_script","vers":"1.0.3","deps":[],"cksum":"818737f49137d3f9ccc32316a639fc580f90ceede0077b776a901984cb16c56a","features":{"core":[]},"yanked":false,"links":null}
