@@ -1,3 +1,4 @@
 {"name":"upcast-arithmetic","vers":"0.0.0","deps":[],"cksum":"b4cb82a86f34f76402bd8903d2d98698952a775d2955fc4aa5dc8fc24bc45b1e","features":{},"yanked":false,"links":null}
 {"name":"upcast-arithmetic","vers":"0.0.1","deps":[],"cksum":"3fa047a8e286a1d1c56fca254f36d8099b5cad4af1a704bb79d48d9e746d8083","features":{},"yanked":false,"links":null}
 {"name":"upcast-arithmetic","vers":"0.0.2","deps":[],"cksum":"e5e15d085d0919652fb693616c43f0d685ecba64a1d9928a932073a309d9f2c0","features":{},"yanked":false,"links":null}
+{"name":"upcast-arithmetic","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5e9a78d598b0b93e7fa3359671b63a94d3bcc3b2dee70dcdef8c47e286273d19","features":{},"yanked":false,"links":null}
