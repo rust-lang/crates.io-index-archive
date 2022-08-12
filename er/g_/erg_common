@@ -2,3 +2,4 @@
 {"name":"erg_common","vers":"0.1.1","deps":[],"cksum":"e12e81ae0f92f5c29e44d596995fec7b2fbb5af6bb94d6a432cb6ba99d6f032d","features":{"debug":[],"japanese":[]},"yanked":false,"links":null}
 {"name":"erg_common","vers":"0.1.2","deps":[],"cksum":"e6c41a9ef70118ba6d41e9da326a7073853e9b0a6f52570bcc66d077062230ea","features":{"japanese":[],"debug":[]},"yanked":false,"links":null}
 {"name":"erg_common","vers":"0.1.3","deps":[],"cksum":"1a2997798a17dab85839df2239aceb59488de7e1cc00d960c2b68ebd3bfadcb8","features":{"debug":[],"japanese":[]},"yanked":false,"links":null}
+{"name":"erg_common","vers":"0.1.4","deps":[],"cksum":"74567d143d7bcedfe6ab3c621c37f64923559acbbb05126c3d2af070ee29144a","features":{"debug":[],"japanese":[]},"yanked":false,"links":null}
