@@ -1,1 +1,2 @@
 {"name":"urlchecker","vers":"0.1.0","deps":[{"name":"regex","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e3a6712d7b320c5a77da2b299d76a130658c02e01e59421644c14228a3f2911","features":{},"yanked":false,"links":null}
+{"name":"urlchecker","vers":"0.2.0","deps":[{"name":"regex","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50db37471c4566118c7f61378cc81408450a63228aa35514989d318a04ae4eb1","features":{},"yanked":false,"links":null}
