@@ -1,1 +1,2 @@
 {"name":"libgunslinger-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"21d4409b929e52088a1b794e0b3955a2b7b8abd572823abd00d8c55295c8971d","features":{},"yanked":false,"links":null}
+{"name":"libgunslinger-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a854206592d969cef080ff91606aeebbb67d38ec98528b214d973ddea8ae7eba","features":{},"yanked":false,"links":null}
