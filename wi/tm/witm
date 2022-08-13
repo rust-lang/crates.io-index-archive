@@ -1,1 +1,1 @@
-{"name":"witm","vers":"0.1.0","deps":[{"name":"clap","req":"^3.2.16","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"932f266b3b320fc55d601a29ce86f5f87258098b7970e0624911b706415afdd4","features":{},"yanked":false,"links":null}
+{"name":"witm","vers":"0.1.0","deps":[{"name":"clap","req":"^3.2.16","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"932f266b3b320fc55d601a29ce86f5f87258098b7970e0624911b706415afdd4","features":{},"yanked":true,"links":null}
