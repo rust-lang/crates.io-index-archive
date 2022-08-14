@@ -1,2 +1,2 @@
-{"name":"log-cli","vers":"0.0.0","deps":[],"cksum":"4e26e36d323ff0b8880678ffeb9b6bcb544db72fcf7f04a9f0f29c6856d9a8bf","features":{},"yanked":false,"links":null}
+{"name":"log-cli","vers":"0.0.0","deps":[],"cksum":"4e26e36d323ff0b8880678ffeb9b6bcb544db72fcf7f04a9f0f29c6856d9a8bf","features":{},"yanked":true,"links":null}
 {"name":"log-cli","vers":"0.0.1-alpha.1","deps":[{"name":"chrono","req":"^0.4.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^3.2.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42f424a9f2f5ec2e5b971a905c71b1dd541b11511ce920ce5bd375b6233eb5a3","features":{},"yanked":false,"links":null}
