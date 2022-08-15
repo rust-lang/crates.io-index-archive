@@ -2,3 +2,4 @@
 {"name":"fs-tree","vers":"0.1.1","deps":[],"cksum":"8d953a55e17cc301150d8d821b41f48cd4d5244e00e8f0adc3340dda9238a57e","features":{},"yanked":false,"links":null}
 {"name":"fs-tree","vers":"0.1.2","deps":[],"cksum":"97e1491d8f0aea9e1df674147f6703bf82fb67fcdfa72ccc85dd9dfb9ef2d921","features":{},"yanked":false,"links":null}
 {"name":"fs-tree","vers":"0.1.3","deps":[],"cksum":"3e177638ff33cb7c052b1156da94e18ddde7a3bee29213b62b9a39c58ee19cb3","features":{},"yanked":false,"links":null}
+{"name":"fs-tree","vers":"0.2.0","deps":[{"name":"file_type_enum","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c14a9262762368d5a32f530b61a5770140e777dcf029c64ea8f1f26fcbd9da45","features":{},"yanked":false,"links":null}
