@@ -1,1 +1,2 @@
 {"name":"nyar-error","vers":"0.1.0","deps":[],"cksum":"627215364444b7e3e2d885acdb3493848c87631f651ebcad3d5ae0a580dd42c6","features":{"default":[]},"yanked":false,"links":null}
+{"name":"nyar-error","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.143","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51397ed31d9592b7a32184e6e4c80b3ee478a309616b6072e3b145358d62b1ea","features":{"default":[]},"yanked":false,"links":null}
