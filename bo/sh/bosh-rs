@@ -1,1 +1,2 @@
 {"name":"bosh-rs","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecde8c362475b107306c36d22d841ed8c89b2dc7b11ebca3052f2b0a8d28e4ca","features":{},"yanked":false,"links":null}
+{"name":"bosh-rs","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bb73e098c432feb024dfd9361163d83c5e81425df1efb8d4400405fc1e9a469","features":{},"yanked":false,"links":null}
