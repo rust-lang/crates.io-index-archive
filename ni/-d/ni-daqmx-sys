@@ -1,0 +1,1 @@
+{"name":"ni-daqmx-sys","vers":"20.7.0","deps":[{"name":"bindgen","req":"^0.60","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"be69c15f7e640867f531fd5edb08616f94e4623f97b5d94141bb3fd1875d85e9","features":{},"yanked":false,"links":"nidaqmx"}
