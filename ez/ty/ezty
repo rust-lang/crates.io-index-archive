@@ -1,0 +1,1 @@
+{"name":"ezty","vers":"0.1.0","deps":[{"name":"mopa","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0beb16d93d569bb203e1a5f7e04d3aa0122287e757bbe04b70c2bf4406aaab36","features":{"layout":[],"default":["any_debug"]},"features2":{"any_debug":["dep:mopa"]},"yanked":false,"links":null,"v":2}
