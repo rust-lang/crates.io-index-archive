@@ -14,3 +14,4 @@
 {"name":"noodles-core","vers":"0.5.0","deps":[{"name":"noodles-sam","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"315bd1041c73bb5e6b6e9ddadc23e700f290077c940d81806aa3959c524d9c27","features":{},"yanked":false,"links":null}
 {"name":"noodles-core","vers":"0.6.0","deps":[],"cksum":"f371b47c55f4c10ae10a821a261b2a5c49c4d312eb6b61ceda0d1879018a08c3","features":{},"yanked":false,"links":null}
 {"name":"noodles-core","vers":"0.7.0","deps":[],"cksum":"502dcc885ec04d54df137f5a4b15100418a4af72702606fc78087dd34c9338e7","features":{},"yanked":false,"links":null}
+{"name":"noodles-core","vers":"0.8.0","deps":[],"cksum":"ba58b998fe20d6e7f0c67386c1901daaf8fd2d2c4e7cfb5cf5f47ed22d96a8c8","features":{},"yanked":false,"links":null}
