@@ -1,1 +1,2 @@
 {"name":"betacode","vers":"0.1.0","deps":[{"name":"regex","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"876923346ef0079b698bff2e5e658ab42f969be6405bf1705aaa644b93f76fcb","features":{},"yanked":false,"links":null}
+{"name":"betacode","vers":"0.1.1","deps":[{"name":"regex","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23c89ba8979f3fa33d9809dad8157c53f0eaa5262449867fbead35391088498d","features":{},"yanked":false,"links":null}
