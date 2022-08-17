@@ -1,0 +1,1 @@
+{"name":"libspm-rs","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.132","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"624b6999ceaddd810cf6f0f1770d01e4b61bfbfced9e046c17eb6ffd0326bb6b","features":{},"yanked":false,"links":null}
