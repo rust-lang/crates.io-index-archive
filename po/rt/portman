@@ -1,0 +1,1 @@
+{"name":"portman","vers":"0.1.0","deps":[{"name":"clap","req":"= 2.27.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ae19729e5a2d19e90420467b0157489d5f42a33a84ecd214fea04d61f11dfd2","features":{},"yanked":false,"links":null}
