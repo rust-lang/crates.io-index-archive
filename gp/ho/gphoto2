@@ -1,0 +1,1 @@
+{"name":"gphoto2","vers":"0.1.0","deps":[{"name":"libgphoto2_sys","req":"^2.5.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41d91fc49872ca25d92ef520a13d46166165873f84fd7d1de124221403157102","features":{},"yanked":false,"links":null}
