@@ -1,0 +1,1 @@
+{"name":"iyes_scene_tools","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.8","features":["bevy_scene","bevy_asset"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3335e683eceb2192dca7d548d74a8b1e468845bcb8627dca32621296a03747d0","features":{},"yanked":false,"links":null}
