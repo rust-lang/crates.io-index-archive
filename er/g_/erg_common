@@ -7,3 +7,4 @@
 {"name":"erg_common","vers":"0.2.3","deps":[],"cksum":"5e9e3745e913a62a380fe83b367ab881ed111928963f696a9b00e3c10fadf57e","features":{"debug":[],"japanese":[]},"yanked":false,"links":null}
 {"name":"erg_common","vers":"0.2.4","deps":[],"cksum":"a68bf32ca644898bd7d0e8d336f4f4c6e22f880450ed0e6b0d4b3a316f99a2f4","features":{"japanese":[],"debug":[]},"yanked":false,"links":null}
 {"name":"erg_common","vers":"0.2.5","deps":[],"cksum":"a6cee3616a75f2f24e45d08749994c666c8dc463b3593765c73d8489068df5e9","features":{"debug":[],"japanese":[]},"yanked":false,"links":null}
+{"name":"erg_common","vers":"0.2.6","deps":[{"name":"atty","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd5ed162ce807ae3bbd7f34462d24b505ea0d227e78dc54aac6684630ae35eb9","features":{"japanese":[],"traditional_chinese":[],"simplified_chinese":[],"debug":[]},"yanked":false,"links":null}
