@@ -1,1 +1,2 @@
 {"name":"randomizer","vers":"0.1.0","deps":[{"name":"fastrand","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e080f4aaeda7b9eb6669ffa80da4d8e47dc437e7a1cc533913964d7eec703d2a","features":{},"yanked":false,"links":null}
+{"name":"randomizer","vers":"0.1.1","deps":[{"name":"fastrand","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"844af093ea31629b2527b77aebc5bf0223146a6139b251edf93af00644a039e2","features":{},"yanked":false,"links":null}
