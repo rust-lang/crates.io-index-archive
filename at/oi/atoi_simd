@@ -2,3 +2,4 @@
 {"name":"atoi_simd","vers":"0.0.2","deps":[],"cksum":"18bab22267fb69d784ce42b6ae9f0ee87e5e0551e83200354a59ed712543bded","features":{},"yanked":false,"links":null}
 {"name":"atoi_simd","vers":"0.0.3","deps":[],"cksum":"1cf298965d67775aa759e93f97509ffd189128672440c33772e23e467119284e","features":{},"yanked":false,"links":null}
 {"name":"atoi_simd","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9f799b613d2869e90d37bbc466d1b0ba7c0ea16ee3e96f2c049db5abee598d77","features":{},"yanked":false,"links":null}
+{"name":"atoi_simd","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e427c15c76043f3217fd6b269480c1fb90402ff3ac5a3d39372d7a5ad7cb1d95","features":{},"yanked":false,"links":null}
