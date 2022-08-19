@@ -7,5 +7,5 @@
 {"name":"submap","vers":"0.1.6","deps":[],"cksum":"00b65c0dfd044dc0d8239549ae8d201a8d3bfc5ea3d79f6412d5f82ff97c0ca0","features":{},"yanked":false,"links":null}
 {"name":"submap","vers":"0.1.7","deps":[],"cksum":"7732e5fcc849d94fbd54cae5edc876e5929a6e853bbcff126647208e45419857","features":{},"yanked":false,"links":null}
 {"name":"submap","vers":"0.1.8","deps":[],"cksum":"f9b576785f97f6213fef7e63c2aa63c81b0df69f674ebfad1a37552ae8d61194","features":{},"yanked":false,"links":null}
-{"name":"submap","vers":"0.1.9","deps":[],"cksum":"46471ff0e0ed1b8f314e16c3f8e2d616eed30bc86f7a1b582c5cb943c2491eea","features":{"fewc":[]},"yanked":false,"links":null}
+{"name":"submap","vers":"0.1.9","deps":[],"cksum":"46471ff0e0ed1b8f314e16c3f8e2d616eed30bc86f7a1b582c5cb943c2491eea","features":{"fewc":[]},"yanked":true,"links":null}
 {"name":"submap","vers":"0.1.10","deps":[],"cksum":"3d8a37d55d376e0276535d072f2211b4983649d37eb83fa13546056c4a3670dd","features":{},"yanked":true,"links":null}
