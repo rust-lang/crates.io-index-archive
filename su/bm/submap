@@ -10,3 +10,4 @@
 {"name":"submap","vers":"0.1.9","deps":[],"cksum":"46471ff0e0ed1b8f314e16c3f8e2d616eed30bc86f7a1b582c5cb943c2491eea","features":{"fewc":[]},"yanked":true,"links":null}
 {"name":"submap","vers":"0.1.10","deps":[],"cksum":"3d8a37d55d376e0276535d072f2211b4983649d37eb83fa13546056c4a3670dd","features":{},"yanked":true,"links":null}
 {"name":"submap","vers":"0.1.11","deps":[],"cksum":"c21ac9e78a813afef54a5bae6b1e9c6a62282747639bdb2ded2d6d6269016732","features":{},"yanked":false,"links":null}
+{"name":"submap","vers":"0.2.0","deps":[],"cksum":"f9f355c87f08d480c9cafb7f1c66fb3d9b8c2bdee2e86bd562d910b9d45c932a","features":{},"yanked":false,"links":null}
