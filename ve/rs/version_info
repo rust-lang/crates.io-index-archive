@@ -1,0 +1,1 @@
+{"name":"version_info","vers":"0.0.1","deps":[{"name":"winapi","req":"^0.3","features":["winver"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da903b36a0bb601f78937a0ee7e3e67d53307d9dccd69aba827c2e37ddf8d26f","features":{},"yanked":false,"links":null}
