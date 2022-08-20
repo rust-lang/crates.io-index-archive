@@ -34,3 +34,4 @@
 {"name":"sub-strs","vers":"0.26.0","deps":[],"cksum":"7219eb693fd9da7f8d3c000ee2c3911b70def66fbb7c2c8b04c821e5f5cde4e5","features":{"std":[]},"yanked":false,"links":null}
 {"name":"sub-strs","vers":"0.26.1","deps":[],"cksum":"b5ca1b5ed27676ec6d5620db32bb374825137438db5515e65ff4ca1c00233648","features":{"std":[]},"yanked":false,"links":null}
 {"name":"sub-strs","vers":"0.26.2","deps":[],"cksum":"dfe0c6500002cfede2202c9421fd7e77f40b2e52bea06abc529dc4cd205efe1c","features":{"std":[]},"yanked":false,"links":null}
+{"name":"sub-strs","vers":"0.26.3","deps":[],"cksum":"df51ae306c7bb36af671ba6ad8c58136b6ee8892440f2fa96733776914a9b2b0","features":{"std":[]},"yanked":false,"links":null}
