@@ -5,3 +5,4 @@
 {"name":"aligned-vec","vers":"0.4.0","deps":[],"cksum":"055ad36603634c1d3f66ca4fa7b2482d75f6f3cc8ffc0fa09cb8a56ce374e433","features":{},"yanked":false,"links":null}
 {"name":"aligned-vec","vers":"0.4.1","deps":[],"cksum":"e20e655b5711dad6118bdfd79fa1f58a4a3db97584a6fc133fc79f1f79158f07","features":{},"yanked":false,"links":null}
 {"name":"aligned-vec","vers":"0.4.2","deps":[],"cksum":"8f430961cb99460d033c67a14ade33a24f5284f2132c6d4488ca44f4f05aa3ff","features":{},"yanked":false,"links":null}
+{"name":"aligned-vec","vers":"0.5.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4aa90d7ce82d4be67b64039a3d588d38dbcc6736577de4a847025ce5b0c468d1","features":{"default":["std"],"std":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"links":null,"v":2}
