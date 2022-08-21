@@ -1,0 +1,1 @@
+{"name":"kgen","vers":"0.1.0","deps":[{"name":"clap","req":"^3.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9525a9c487aeb841bb97ba29805912012c6557cf80f90584f71ee877b68e7648","features":{},"yanked":false,"links":null}
