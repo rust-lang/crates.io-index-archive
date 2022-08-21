@@ -1,1 +1,2 @@
 {"name":"tc_save_monger","vers":"0.1.0","deps":[{"name":"snap","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ffededb8702ca4ef382db644b0ab1e0f9e41148fa473007a1ffbf5af3e8bdce","features":{},"yanked":false,"links":null}
+{"name":"tc_save_monger","vers":"0.1.1","deps":[{"name":"snap","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbf62cb117bbb9377f8fcd0d95849dd0be8968f7dd9e53d3a56bb339caffb278","features":{},"yanked":false,"links":null}
