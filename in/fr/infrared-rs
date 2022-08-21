@@ -1,0 +1,1 @@
+{"name":"infrared-rs","vers":"0.1.0","deps":[{"name":"rppal","req":"^0.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b9edb8aa7092b8e63df53196932c50103b8f9f1c938b415a190784e685c04bc","features":{},"yanked":false,"links":null}
