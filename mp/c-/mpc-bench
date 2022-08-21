@@ -1,3 +1,4 @@
 {"name":"mpc-bench","vers":"0.0.1","deps":[],"cksum":"00a1c3059bd6dc414ec5ae9881a70989b4176953792eebe899ea7c05f31e5dfc","features":{},"yanked":false,"links":null}
 {"name":"mpc-bench","vers":"0.1.0","deps":[],"cksum":"7e0eb581a61314e7b2ea57d1db78531274897a5dc5687e6540c601bb7ffa9ded","features":{},"yanked":false,"links":null}
 {"name":"mpc-bench","vers":"0.2.0","deps":[{"name":"queues","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11e041b17a624e76829cda8454a7eb656bb3e7cb1f0ce9441086e84ed4798f29","features":{},"yanked":false,"links":null}
+{"name":"mpc-bench","vers":"0.3.0","deps":[{"name":"queues","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a7f1aa52eb095541c584244046f90e7c41fb17ef1bffd3c6c58d3fcf899a160","features":{},"yanked":false,"links":null}
