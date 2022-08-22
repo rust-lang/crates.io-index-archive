@@ -10,3 +10,4 @@
 {"name":"defaultdict","vers":"0.10.0","deps":[],"cksum":"e5094c56f9898e3a04160913636f547fbf9e2d972357b4e752e61fb4d9bf980d","features":{},"yanked":false,"links":null}
 {"name":"defaultdict","vers":"0.11.0","deps":[],"cksum":"d4d69f98426e76aaa181e9e0a58384ddf14d58d1cc9d00cdf879b52a0224b411","features":{},"yanked":false,"links":null}
 {"name":"defaultdict","vers":"0.12.0","deps":[],"cksum":"6d43a6ae1f6656afecb6497ca890b71cb22684e9769b59b5c9513c9c0dd052f0","features":{},"yanked":false,"links":null}
+{"name":"defaultdict","vers":"0.12.1","deps":[],"cksum":"6f8f1ce36485778822edb4685de0f9968ab2767ff46901134d6c9ecdd5d08e81","features":{},"yanked":false,"links":null}
