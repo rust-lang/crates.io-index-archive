@@ -12,3 +12,4 @@
 {"name":"radix-tree","vers":"0.0.12","deps":[],"cksum":"f6b1c2d90291d332f02d31e42957908ca927f9b5b9407f891d9480cc532ad147","features":{},"yanked":false,"links":null}
 {"name":"radix-tree","vers":"0.0.13","deps":[],"cksum":"d9211091d4bf57172f0494fa9db8c12272b1be241ee40269fac2544ba827f8c4","features":{},"yanked":false,"links":null}
 {"name":"radix-tree","vers":"0.1.0","deps":[],"cksum":"d29f77b58a6d2959b0bee5516602e1534cc3c39361fc13c2842c16db50c1c491","features":{},"yanked":false,"links":null}
+{"name":"radix-tree","vers":"0.2.0","deps":[],"cksum":"742010e7132d1a480149cff942ddb6c339e6ae01ffeffb1a63f6bff2fa76c23a","features":{},"yanked":false,"links":null}
