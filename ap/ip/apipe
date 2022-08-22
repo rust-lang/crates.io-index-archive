@@ -1,1 +1,2 @@
 {"name":"apipe","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.62","features":["backtrace"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a66e799aff366d486aaee7986b293903c8b9d84aed88ad38faa2bd3187fa4d46","features":{},"yanked":false,"links":null}
+{"name":"apipe","vers":"0.1.1","deps":[{"name":"anyhow","req":"^1.0.62","features":["backtrace"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f9a95a417970ea3906533cb58c102aa819c1cb27f0884254540a7740902f612","features":{},"yanked":false,"links":null}
