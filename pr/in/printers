@@ -1,0 +1,1 @@
+{"name":"printers","vers":"1.0.0","deps":[{"name":"uuid","req":"^1.1.2","features":["v4","v5"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2306dfdd19aef9088040c886d7ee25571dc41968b489fa974db2e01905619dd3","features":{},"yanked":false,"links":null}
