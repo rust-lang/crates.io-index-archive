@@ -13,3 +13,4 @@
 {"name":"polonius-the-crab","vers":"0.3.0-rc1","deps":[],"cksum":"c5e9605e1e9ca34dfdb5514415a19d43d982e94df9e7c80d87ff77527baeb7fa","features":{"ui-tests":["better-docs"],"better-docs":[],"polonius":[]},"yanked":false,"links":null}
 {"name":"polonius-the-crab","vers":"0.3.0-rc2","deps":[],"cksum":"8c489de2eee22a438202fe9bded4d4397618af514495fdaa2806c40ac6efc4c9","features":{"better-docs":[],"polonius":[],"ui-tests":["better-docs"]},"yanked":false,"links":null}
 {"name":"polonius-the-crab","vers":"0.3.0","deps":[],"cksum":"434ee3bf254a57f09811c553aaacf0c5fdfa19fddfa44f14951d66220f3f0d81","features":{"better-docs":[],"polonius":[],"ui-tests":["better-docs"]},"yanked":false,"links":null}
+{"name":"polonius-the-crab","vers":"0.3.1","deps":[],"cksum":"b0119ad75060c93b2017796396280ab9c1870738bf3b66a8cb20deb3c9075426","features":{"better-docs":[],"polonius":[],"ui-tests":["better-docs"]},"yanked":false,"links":null}
