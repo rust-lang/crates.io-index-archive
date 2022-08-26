@@ -1,1 +1,2 @@
 {"name":"dfp-number","vers":"0.0.1","deps":[{"name":"dfp-number-sys","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f63f9dfb54a0116af4f6e825781b0ed4ca83ddaa21f30ecd328179fec686842","features":{},"yanked":false,"links":null}
+{"name":"dfp-number","vers":"0.0.2","deps":[{"name":"dfp-number-sys","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2982abf83928510c7eb044f1b109bba1a5fb5515a2dfe2b97a8b6e59c0aef080","features":{},"yanked":false,"links":null}
