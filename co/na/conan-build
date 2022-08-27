@@ -1,1 +1,2 @@
 {"name":"conan-build","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eff8b0ad3cdcf9a75b49c38cfd792543988a2cee197cc49f3d0b71d7e1879455","features":{},"yanked":false,"links":null}
+{"name":"conan-build","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a8d65ed6dfc3b5cdd444b2fb1772790b3ee3400cc8a44095046c33ae3ed66f8","features":{},"yanked":false,"links":null}
