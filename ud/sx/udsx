@@ -10,3 +10,4 @@
 {"name":"udsx","vers":"0.8.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1eb53f2acb2d8c0f2c623810b5e148ce11fed262d73a0bfc618ddeafc29d25f4","features":{},"yanked":false,"links":null}
 {"name":"udsx","vers":"0.8.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f18b9fe27654260463666bbe5239cf7d306b1244de774924b7daa5ab112136be","features":{},"yanked":false,"links":null}
 {"name":"udsx","vers":"0.9.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f64184655107c4a3b943e055f0a0e0fd62cb7593ef51e8b53f5551fb09856cc","features":{},"yanked":false,"links":null}
+{"name":"udsx","vers":"0.10.0","deps":[],"cksum":"f6efea0d88f4315c1e7a33156387069a50f6ed89959181b143cd035d211e133d","features":{},"yanked":false,"links":null}
