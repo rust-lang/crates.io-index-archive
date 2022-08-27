@@ -1,0 +1,1 @@
+{"name":"maths-rs","vers":"0.1.0","deps":[],"cksum":"7def4198d9c92c2301ac7466d71f493a352d45bc9cd35fbaf2a61523100efe3c","features":{"casts":[],"default":["short_hand_constructors","lhs_scalar_vec_ops","casts","short_types"],"lhs_scalar_vec_ops":[],"short_hand_constructors":[],"short_types":[]},"yanked":false,"links":null}
