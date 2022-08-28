@@ -12,5 +12,5 @@
 {"name":"lists","vers":"2.0.0","deps":[],"cksum":"240b4dd34bb7af07e57992353327bbb8b55fe25f1f19381054afcd38a584d857","features":{},"yanked":false,"links":null}
 {"name":"lists","vers":"2.1.0","deps":[],"cksum":"b9d0f6aa236a44c77da114fc6333e93f30bead66663223b33848db9990bf74f3","features":{},"yanked":false,"links":null}
 {"name":"lists","vers":"2.2.0","deps":[],"cksum":"608859e8dac8aab0f2f9ae222ba4f833a95361a7a3b8747508a8a3d85c93178a","features":{},"yanked":false,"links":null}
-{"name":"lists","vers":"2.2.1","deps":[],"cksum":"ffdac62f7f51667bb41b9ffb2f3816be0edd80e57aad0f8c753d6ea0d83df36c","features":{},"yanked":false,"links":null}
+{"name":"lists","vers":"2.2.1","deps":[],"cksum":"ffdac62f7f51667bb41b9ffb2f3816be0edd80e57aad0f8c753d6ea0d83df36c","features":{},"yanked":true,"links":null}
 {"name":"lists","vers":"2.3.0","deps":[],"cksum":"27be6728853348e85483753f53c07865ca553c949eb48e3e82ef67e7d0ba214f","features":{},"yanked":true,"links":null}
