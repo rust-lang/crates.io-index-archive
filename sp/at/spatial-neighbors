@@ -1,0 +1,1 @@
+{"name":"spatial-neighbors","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.4.0","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"116bdf27c9d111cb9094ff5de8614ee766e13c1457458e9e39ec98d32c6ae862","features":{},"yanked":false,"links":null}
