@@ -8,4 +8,4 @@
 {"name":"magnesia","vers":"0.3.1","deps":[],"cksum":"a5c693496496165b7166dc9e6c2877ff6410c3e8c0639868b1f9fd43b9e7bd90","features":{},"yanked":false,"links":null}
 {"name":"magnesia","vers":"0.3.2","deps":[],"cksum":"0aa0c6feca4a4ddcfda1ca0fa88347d193e6ba37fea749bf49db8b4689819454","features":{},"yanked":false,"links":null}
 {"name":"magnesia","vers":"0.3.3","deps":[],"cksum":"ebfb36106b7077c51cc27350655f9dd4c6ea6f30c2d1e9144a72eb70f1823ee4","features":{},"yanked":false,"links":null}
-{"name":"magnesia","vers":"0.4.0","deps":[],"cksum":"463e13b3594b2d4255d4289d29b5b285246aee23f7e1954b50ee0b6fbbbe06bf","features":{},"yanked":false,"links":null}
+{"name":"magnesia","vers":"0.4.0","deps":[],"cksum":"463e13b3594b2d4255d4289d29b5b285246aee23f7e1954b50ee0b6fbbbe06bf","features":{},"yanked":true,"links":null}
