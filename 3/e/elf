@@ -18,3 +18,4 @@
 {"name":"elf","vers":"0.5.0","deps":[],"cksum":"2245748bd175cc7ef5e596cd9228e6b5aa4146d6a8e26752b12672f8fc36a90b","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
 {"name":"elf","vers":"0.6.0","deps":[],"cksum":"6b957e922f072996cf047b3380a7dc4a0263d7df376a76193700d9261b15d83f","features":{"default":["std","to_str"],"std":[],"to_str":[]},"yanked":false,"links":null}
 {"name":"elf","vers":"0.6.1","deps":[],"cksum":"6c09b5bbd5d4c1318fd4825d697b8117506fc36ab9680bdd792f65a2acbdf1ed","features":{"default":["std","to_str"],"std":[],"to_str":[]},"yanked":false,"links":null}
+{"name":"elf","vers":"0.7.0","deps":[],"cksum":"6de42b0529467fc9a2692fd91585c84dd255fb15b0df0f80299724a9456986c6","features":{"default":["std","to_str"],"std":[],"to_str":[]},"yanked":false,"links":null}
