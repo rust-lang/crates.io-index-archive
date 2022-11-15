@@ -1,0 +1,1 @@
+{"name":"file-ext","vers":"1.0.0","deps":[{"name":"rust-web-server","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e68bbb4fee45067096550d0f709c8bbdad1b55f3a056806bfad05a2baaef76e","features":{},"yanked":false,"links":null}
