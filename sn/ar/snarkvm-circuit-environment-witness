@@ -5,3 +5,4 @@
 {"name":"snarkvm-circuit-environment-witness","vers":"0.9.4","deps":[],"cksum":"78638a4dda036c49611434ec5bf619126c04f80062009cb69f52a589bdd4680b","features":{},"yanked":false,"links":null}
 {"name":"snarkvm-circuit-environment-witness","vers":"0.9.5","deps":[],"cksum":"bbc5ea009139c3212694b272c8cbd81d92e689769dc517acf3e7279c2377bc34","features":{},"yanked":false,"links":null}
 {"name":"snarkvm-circuit-environment-witness","vers":"0.9.6","deps":[],"cksum":"90ec1b1753e3729ac48da880a436569767184950ac26e69a04a1b8dcec2d9301","features":{},"yanked":false,"links":null}
+{"name":"snarkvm-circuit-environment-witness","vers":"0.9.7","deps":[],"cksum":"bd81919f5f104dd355c4e6ddff134cc95a438ceba159a2e80acee8cf6d5aeedd","features":{},"yanked":false,"links":null}
