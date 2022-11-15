@@ -1,0 +1,1 @@
+{"name":"mach_ports","vers":"0.1.0-alpha","deps":[{"name":"mach2","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c9452e63398de24a33aa828bea2348872bdd1773a5e4aec9a3a54dfbe4ac3ce","features":{},"yanked":false,"links":null}
