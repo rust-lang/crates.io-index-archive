@@ -1,0 +1,1 @@
+{"name":"bevier","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0.25","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04d0b4243a5de21836a3fed4f59e61edb7eaf4253082e3d2dc2cb64938059c63","features":{},"yanked":false,"links":null}
