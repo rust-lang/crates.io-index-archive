@@ -1,1 +1,2 @@
 {"name":"linkedbytes","vers":"0.0.0","deps":[],"cksum":"fa5ae564fb0f53b95a9eff8062e9200b51d13118921da6cbbcd2bba01622c220","features":{},"yanked":false,"links":null}
+{"name":"linkedbytes","vers":"0.1.0","deps":[{"name":"bytes","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"823529f94338ed512e913b61a4b3f062376e5e2011ee0f4524e6dc3d870d61a6","features":{},"yanked":false,"links":null}
