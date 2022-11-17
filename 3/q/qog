@@ -1,0 +1,1 @@
+{"name":"qog","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b7a7d291083f84a49336ebc06b89215f1c700933309d0fb6fb294a84f636e5c7","features":{},"yanked":false,"links":null}
