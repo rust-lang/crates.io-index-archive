@@ -1,1 +1,2 @@
 {"name":"ev-protobufs","vers":"0.1.0","deps":[{"name":"tonic-build","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cbc45c3ac9392b45afdb8763a0a7c40abfc491871a9a4241e0711e0b3daa3e1e","features":{},"yanked":true,"links":null}
+{"name":"ev-protobufs","vers":"0.1.1","deps":[{"name":"tonic-build","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cf748de1f7c576c8362ae9a142438b365837e3c8aa6071107e9a7a585eb2a35b","features":{},"yanked":false,"links":null}
