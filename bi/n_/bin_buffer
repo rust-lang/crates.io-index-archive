@@ -10,3 +10,4 @@
 {"name":"bin_buffer","vers":"0.1.9","deps":[{"name":"fnrs","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"772486ef407762324a9fbeb56cefa1dd7574d38995963e001de95e98c2ab94f1","features":{},"yanked":true,"links":null}
 {"name":"bin_buffer","vers":"0.1.10","deps":[],"cksum":"6c226fe39adce670778368398cfbcd559c42a98583bd64ab56f70be3d0bf33ac","features":{},"yanked":true,"links":null}
 {"name":"bin_buffer","vers":"0.1.11","deps":[],"cksum":"46c92d1684d4472df224f8a4222462dee581c15742a6f63e2ad0800ca82d9bcd","features":{},"yanked":true,"links":null}
+{"name":"bin_buffer","vers":"0.1.12","deps":[],"cksum":"ed01cda1417668260ab52d94b3566c3ed3c0cb5b77422dbd815d3571f5a9f171","features":{},"yanked":false,"links":null}
