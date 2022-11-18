@@ -37,3 +37,4 @@
 {"name":"sj","vers":"0.23.1","deps":[],"cksum":"1c1324aa06d37eefedd09840f3e5e41d2bd9c14dec0d0a4a8e9cb271c3fe7556","features":{"hash-map":[],"std":[],"x-unicode":[]},"yanked":false,"links":null}
 {"name":"sj","vers":"0.24.0","deps":[],"cksum":"22f8189cd027affb8b21c132b91f59715a14df9e3f0d377c022b61bc6b0bab89","features":{"std":[],"x-unicode":[]},"yanked":false,"links":null}
 {"name":"sj","vers":"0.25.0","deps":[],"cksum":"feb5199184019135b3a891de6189c6ccad3c52183b425cfa5744fe34889caca3","features":{"std":[],"x-unicode":[]},"yanked":false,"links":null}
+{"name":"sj","vers":"0.25.1","deps":[],"cksum":"135751ea472f010ddc9653763695d5bbbdb98b91dabf2929ff1826f0e4827147","features":{"std":[],"x-unicode":[]},"yanked":false,"links":null}
