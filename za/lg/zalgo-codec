@@ -6,3 +6,4 @@
 {"name":"zalgo-codec","vers":"0.2.0","deps":[],"cksum":"c51c73146ed2fb8cdec730dc7618a865a314bc24fc00f34de834e73dfdb2bf00","features":{},"yanked":false,"links":null}
 {"name":"zalgo-codec","vers":"0.2.1","deps":[],"cksum":"6de98e1d204a3c9a3ccc21bccb9198badbee6477ad92a36e833799218a112fa8","features":{},"yanked":false,"links":null}
 {"name":"zalgo-codec","vers":"0.2.2","deps":[],"cksum":"99891e1c70829e6bbc7148e03547762efc452c0f389c09ff68eb264cf2c7efb2","features":{},"yanked":false,"links":null}
+{"name":"zalgo-codec","vers":"0.3.0","deps":[{"name":"zalgo-codec-common","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"zalgo-codec-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0dc6d887cc83c614cc7a302bdce0ad7ae353b313cdd9ae1491ea1b619db51bfc","features":{},"yanked":false,"links":null}
