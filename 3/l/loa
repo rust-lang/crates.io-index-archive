@@ -1,1 +1,2 @@
 {"name":"loa","vers":"0.1.0","deps":[],"cksum":"48ba86adfe6385bc9ab969667446b51a70fd664e1a0878c792645aecffb336f8","features":{},"yanked":false,"links":null}
+{"name":"loa","vers":"0.1.1","deps":[{"name":"libc-print","req":"^0.1.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbdff78db6d287ad45d2e018457602956932813f56c6e85928073ad6fb26051d","features":{},"yanked":false,"links":null}
