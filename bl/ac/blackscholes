@@ -1,1 +1,2 @@
 {"name":"blackscholes","vers":"0.10.0","deps":[{"name":"statrs","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4787923e0cfcb16414bf6dc9926c1a9fa76278418181f2438c6e73c91b5b3d8","features":{},"yanked":false,"links":null}
+{"name":"blackscholes","vers":"0.10.1","deps":[{"name":"statrs","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1c8cd5b43d75cf0c8986637e7408b6ed4efc9d5c155a74a8d441fbbb9c9d1df","features":{},"yanked":false,"links":null}
