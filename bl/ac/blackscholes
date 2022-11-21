@@ -1,0 +1,1 @@
+{"name":"blackscholes","vers":"0.10.0","deps":[{"name":"statrs","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4787923e0cfcb16414bf6dc9926c1a9fa76278418181f2438c6e73c91b5b3d8","features":{},"yanked":false,"links":null}
