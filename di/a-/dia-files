@@ -24,3 +24,4 @@
 {"name":"dia-files","vers":"0.16.1","deps":[],"cksum":"ea5fc6f9e3775e2bbb6f3e90056037122ef5019bf238af4d092769fea795b6af","features":{},"yanked":false,"links":null}
 {"name":"dia-files","vers":"0.16.2","deps":[],"cksum":"c7e8c7bce01b11f63bdc19c54d364a2fc128795e32e02be1dbc2e3919dfed7f8","features":{},"yanked":false,"links":null}
 {"name":"dia-files","vers":"0.17.0","deps":[{"name":"libc","req":">=0.2, <0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0fe28028ce433f2b42ebf6719e9e9caa2c719c07a673f8c707be47a181a91a3","features":{"lib-c":["libc"]},"yanked":false,"links":null}
+{"name":"dia-files","vers":"0.17.1","deps":[{"name":"libc","req":">=0.2, <0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"112381c0ef8e632378714b31f0d405b223e198df478dcc60a6cf608bdf676f6e","features":{"lib-c":["libc"]},"yanked":false,"links":null}
