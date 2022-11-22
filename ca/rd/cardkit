@@ -1,1 +1,2 @@
 {"name":"cardkit","vers":"0.1.0-alpha.1","deps":[{"name":"ultraviolet","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"affbb18c347abfaf1dca182078d9bd08b38dde7383bda1f780551b329cd9ce5f","features":{},"yanked":false,"links":null}
+{"name":"cardkit","vers":"0.1.0-alpha.2","deps":[{"name":"ultraviolet","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6c55222669abe0609e7657f95550855bb9a1e8330946cfd7e9dd468b51fa783","features":{},"yanked":false,"links":null}
