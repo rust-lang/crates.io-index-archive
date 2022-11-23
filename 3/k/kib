@@ -13,3 +13,4 @@
 {"name":"kib","vers":"4.0.0","deps":[],"cksum":"f283b673e214ea89f909980d62335eb6897d56aeacdae0958bbdd07b99ea6226","features":{},"yanked":false,"links":null}
 {"name":"kib","vers":"5.0.0","deps":[],"cksum":"535228468601065fada4ae2c5beb52834e92a909a31b6e35d68df3771cb54f66","features":{"std":[]},"yanked":false,"links":null}
 {"name":"kib","vers":"6.0.0","deps":[],"cksum":"9653060e280c3ab4a792a3ff1fcf4de1e8c116a134322b637b2df828363a2719","features":{"std":[]},"yanked":false,"links":null}
+{"name":"kib","vers":"7.0.0","deps":[],"cksum":"180f264ec0de268eeccd88264622aa0830b9c5f69b68ae8fdd700089203b4663","features":{},"yanked":false,"links":null}
