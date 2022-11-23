@@ -1,0 +1,1 @@
+{"name":"pk_parser","vers":"0.0.1-dev.0","deps":[{"name":"pk_lexer","req":"^0.0.1-dev.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50d2cd4c9acb11f6a5aee1b65aabf7b66b42c721ed0d6bbdddffbb57f711d0e2","features":{},"yanked":false,"links":null}
