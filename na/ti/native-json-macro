@@ -1,0 +1,1 @@
+{"name":"native-json-macro","vers":"1.0.0","deps":[{"name":"syn","req":"^1.0.103","features":["parsing"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73c93d1d7868152793225099d8338a7537c40451719caf27fd1a5857de29b418","features":{},"yanked":false,"links":null}
