@@ -1,0 +1,1 @@
+{"name":"rustiny_fixed_point","vers":"0.0.1","deps":[{"name":"rustiny_number","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e16de660125a73ecea4372612d74efe4a46082cb1598026edbce4db0def092a9","features":{},"yanked":false,"links":null}
