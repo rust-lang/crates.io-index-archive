@@ -1,1 +1,2 @@
 {"name":"masker","vers":"0.0.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"040f7247b65af96e21a6faf2272a74ceb5c3dc9095b126a07cf64da219a85b76","features":{},"yanked":false,"links":null}
+{"name":"masker","vers":"0.0.2","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"be9a3cefef8c9c48b429beb964c75734dcfba0df67a51489290f36b939c030c2","features":{},"yanked":false,"links":null}
