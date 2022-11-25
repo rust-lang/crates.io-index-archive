@@ -1,0 +1,1 @@
+{"name":"image-to-oled","vers":"0.1.0","deps":[{"name":"image","req":"^0.23.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce64f2c5e04b81c5a845bf7d3c205d5520f03d5b9421c904ebf5589790ae1d08","features":{},"yanked":false,"links":null}
