@@ -1,0 +1,1 @@
+{"name":"checked-float","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":["libm"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9e60cd8f988978fd7c89062f06a74329195c7b6150d45828e812a9f199eb7faf","features":{},"yanked":false,"links":null}
