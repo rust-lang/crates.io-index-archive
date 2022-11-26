@@ -1,1 +1,2 @@
 {"name":"naan","vers":"0.1.0","deps":[],"cksum":"a2a468b87955121eb13367c1d4dfb05e73fa8c6de7d7cdd53add3e1fd107cda4","features":{},"yanked":false,"links":null}
+{"name":"naan","vers":"0.1.1","deps":[],"cksum":"bc0694f6210aec6b5960dfc33a5562b39d40d9454d444ecba500008a53a4865d","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false,"links":null}
