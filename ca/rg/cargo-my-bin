@@ -1,0 +1,1 @@
+{"name":"cargo-my-bin","vers":"0.1.0","deps":[{"name":"dirs","req":"^4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50a23a635d89858d573aac34dc220ca15721bfbaa69d553c3b6c7a66b767713b","features":{},"yanked":false,"links":null}
