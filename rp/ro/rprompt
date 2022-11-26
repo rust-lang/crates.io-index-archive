@@ -5,3 +5,4 @@
 {"name":"rprompt","vers":"1.0.4","deps":[],"cksum":"0c23d2631221b859cf159015b973516ff554d7736ee88a5ef2b9faf6de4fdd64","features":{},"yanked":false,"links":null}
 {"name":"rprompt","vers":"1.0.5","deps":[],"cksum":"b386f4748bdae2aefc96857f5fda07647f851d089420e577831e2a14b45230f8","features":{},"yanked":false,"links":null}
 {"name":"rprompt","vers":"2.0.0","deps":[{"name":"rtoolbox","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04a4b95cfbeaa319738cc4ecf811e6a6823fb498a8784019364c30ae438b8b02","features":{},"yanked":false,"links":null}
+{"name":"rprompt","vers":"2.0.1","deps":[{"name":"rtoolbox","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"887698eb0d69262fc5eb4f5bc1196bea79cde9d04e42c5855b6f7b3559d51618","features":{},"yanked":false,"links":null}
