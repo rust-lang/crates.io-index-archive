@@ -6,3 +6,4 @@
 {"name":"zetik","vers":"0.0.5","deps":[{"name":"num-integer","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7bcf0e4432dbd308caccb33b58ea0ba603fd1a088291a3afc97787bfdecd4c7d","features":{},"yanked":false,"links":null}
 {"name":"zetik","vers":"0.0.6","deps":[{"name":"num-integer","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"071a29e055e055e541109cfd06a49a3d7c7e8c7a821185febc59438d21dc9753","features":{},"yanked":false,"links":null}
 {"name":"zetik","vers":"0.0.7","deps":[],"cksum":"ab4780cd900f0374e5eab8fef6e03d10ea1d2812eed7510d7c47274b5fa4c77a","features":{},"yanked":false,"links":null}
+{"name":"zetik","vers":"0.0.8","deps":[],"cksum":"20402b4bbb3b7c2272de27f410b5da19e0a8249fd80e90aa0e6535e28fec6fe1","features":{},"yanked":false,"links":null}
