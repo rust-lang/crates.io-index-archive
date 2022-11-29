@@ -7,3 +7,4 @@
 {"name":"zetik","vers":"0.0.6","deps":[{"name":"num-integer","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"071a29e055e055e541109cfd06a49a3d7c7e8c7a821185febc59438d21dc9753","features":{},"yanked":false,"links":null}
 {"name":"zetik","vers":"0.0.7","deps":[],"cksum":"ab4780cd900f0374e5eab8fef6e03d10ea1d2812eed7510d7c47274b5fa4c77a","features":{},"yanked":false,"links":null}
 {"name":"zetik","vers":"0.0.8","deps":[],"cksum":"20402b4bbb3b7c2272de27f410b5da19e0a8249fd80e90aa0e6535e28fec6fe1","features":{},"yanked":false,"links":null}
+{"name":"zetik","vers":"0.0.8-walter","deps":[],"cksum":"0b70ee44d8e699750767d1adb310959c5412e8878756c08721a9af3974595ad0","features":{},"yanked":false,"links":null}
