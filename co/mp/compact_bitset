@@ -1,1 +1,2 @@
 {"name":"compact_bitset","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d11b0b6c513ef894effeff7edcd462ab7e30cd919f29cb9bd22798b95ea7e57","features":{},"yanked":false,"links":null}
+{"name":"compact_bitset","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"adbb31720ada8dc32133627ae91793936b27d0e0b7c89fa186fa1001984533d8","features":{},"yanked":false,"links":null}
