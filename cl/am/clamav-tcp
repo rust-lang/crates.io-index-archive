@@ -1,1 +1,2 @@
 {"name":"clamav-tcp","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f67a3c62fdbc510047fb40ec60c9ca20e2575fe45a490dc4131c770505110e7a","features":{},"yanked":false,"links":null}
+{"name":"clamav-tcp","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c72bd254266ffe3ecf84fab61898a9d77fe5590de0d5a48c2fdeb854461bb9f","features":{},"yanked":false,"links":null}
