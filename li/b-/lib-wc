@@ -1,2 +1,3 @@
 {"name":"lib-wc","vers":"0.1.0","deps":[],"cksum":"77bedb65cf3a4cdc99b001afc654d7406794dfe719223c90074d007c7e56f429","features":{},"yanked":false,"links":null}
 {"name":"lib-wc","vers":"0.1.1","deps":[],"cksum":"25ac91d8e4063429dad3509f7755fb4e116fcabd622dacd0b02f81099083d28c","features":{},"yanked":false,"links":null}
+{"name":"lib-wc","vers":"0.1.3","deps":[{"name":"atomic-wait","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"criterion","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7f99837fe71706ca8e65594157307c2bc75d4a74b507ad101b4b1f1d4ce5c6b2","features":{},"yanked":false,"links":null}
