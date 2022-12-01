@@ -1,3 +1,4 @@
 {"name":"bootloader-x86_64-bios-common","vers":"0.1.0-beta","deps":[],"cksum":"8707019fa2454a0cf44925eec6d7de5cbf6c496c63a1593202bc7b30446814fc","features":{"debug":[],"default":["debug"]},"yanked":false,"links":null}
 {"name":"bootloader-x86_64-bios-common","vers":"0.11.0-beta.2","deps":[],"cksum":"dee335bf9cc9f4e957ee991b1f76de0fd178b1bcd7c53efde6d84458244d146f","features":{"debug":[],"default":["debug"]},"yanked":false,"links":null}
 {"name":"bootloader-x86_64-bios-common","vers":"0.11.0-beta.4","deps":[],"cksum":"697ea3c81da718d516a028d4b9fd8aa46270a2daaf55463d299a65993c6308dd","features":{"debug":[],"default":["debug"]},"yanked":false,"links":null}
+{"name":"bootloader-x86_64-bios-common","vers":"0.11.0-beta.5","deps":[],"cksum":"c1c7b1a66a47eec0b4eeb0483122c3e1fcebaeddf5fcbfbf063efd80427cb031","features":{"debug":[],"default":["debug"]},"yanked":false,"links":null}
