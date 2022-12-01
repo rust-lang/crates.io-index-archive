@@ -1,0 +1,1 @@
+{"name":"tomb","vers":"0.1.0","deps":[{"name":"fastrand","req":"^1.8.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9494d422421b42df2e6474a63045482d41308915ceaef074406de1af6406408c","features":{"default":["fastrand"]},"features2":{"fastrand":["dep:fastrand"]},"yanked":false,"links":null,"v":2}
