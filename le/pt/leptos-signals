@@ -1,0 +1,1 @@
+{"name":"leptos-signals","vers":"0.0.1","deps":[{"name":"leptos","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab378df9bae4178ae5dd21d3415e483c20be051427fb5cc8c5e6a3fc35ef2d68","features":{"stable":["leptos/stable"]},"yanked":false,"links":null}
