@@ -11,3 +11,4 @@
 {"name":"quoted_printable","vers":"0.4.3","deps":[],"cksum":"1238256b09923649ec89b08104c4dfe9f6cb2fea734a5db5384e44916d59e9c5","features":{},"yanked":false,"links":null}
 {"name":"quoted_printable","vers":"0.4.4","deps":[],"cksum":"86546b8e1521f891d44da8a4580032c1bea375b7725023f8b2443b7878962420","features":{"std":[],"default":["std"]},"yanked":true,"links":null}
 {"name":"quoted_printable","vers":"0.4.5","deps":[],"cksum":"3fee2dce59f7a43418e3382c766554c614e06a552d53a8f07ef499ea4b332c0f","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"quoted_printable","vers":"0.4.6","deps":[],"cksum":"20f14e071918cbeefc5edc986a7aa92c425dae244e003a35e1cdddb5ca39b5cb","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
