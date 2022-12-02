@@ -1,0 +1,1 @@
+{"name":"mproxy-socket_dispatch","vers":"0.1.0","deps":[{"name":"socket2","req":"^0.4.7","features":["all"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16057d0035ed94e9aedb94d39660aeaf9947944adb0e936b25f42c40c367ae80","features":{},"yanked":false,"links":null}
