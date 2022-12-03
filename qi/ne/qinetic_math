@@ -14,3 +14,4 @@
 {"name":"qinetic_math","vers":"0.4.2","deps":[],"cksum":"b3c1a4c809c7cc2e00f6e6fe01c3f2e52895d49a0fb17c86405ed1a020b7f863","features":{},"yanked":false,"links":null}
 {"name":"qinetic_math","vers":"0.4.3","deps":[],"cksum":"2f129e700801641f00d73ac26ac7de1dab9d628c40e152a3a80e57650366965e","features":{},"yanked":false,"links":null}
 {"name":"qinetic_math","vers":"0.4.4","deps":[],"cksum":"ad4387a52e9905d5eb137ae15cd20deeec5e1903cd1d659d1d8c81556f5e5d42","features":{},"yanked":false,"links":null}
+{"name":"qinetic_math","vers":"0.5.0","deps":[{"name":"qinetic_app","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"qinetic_ecs","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"468fccb46dd33a697bb4b5f2c6f79bc22fe36ac26592b7640308035fe039f145","features":{},"yanked":false,"links":null}
