@@ -1,1 +1,2 @@
 {"name":"svg_path_ops","vers":"0.2.0","deps":[{"name":"svgtypes","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ece99af4861939191c988942ce5a3ee6a240c99b320da86c081901760eeb484","features":{},"yanked":false,"links":null}
+{"name":"svg_path_ops","vers":"0.4.0","deps":[{"name":"svgtypes","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c6e76e8caaa6ffb5ec9418e35e2c3e62b9a3683e1079eacd6051225ddf03be8","features":{},"yanked":false,"links":null}
