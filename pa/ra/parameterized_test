@@ -1,1 +1,2 @@
 {"name":"parameterized_test","vers":"0.1.0","deps":[],"cksum":"f1fc5322b3eee32612f95d7740ca559b42251f3ba6e29862bbf6f1ea854751df","features":{},"yanked":false,"links":null}
+{"name":"parameterized_test","vers":"0.2.0","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e64336c776e2f915bf4cf1095c78941fc2d9b764b5663273aa5f7eba1ea8248","features":{"default":["propagation"],"propagation":["anyhow"]},"yanked":false,"links":null}
