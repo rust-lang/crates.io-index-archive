@@ -1,0 +1,1 @@
+{"name":"flatbuffers-retained","vers":"0.1.0","deps":[{"name":"flatbuffers","req":"~22.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cce56e99221232e592649444d497189a3e6de4f9f6e5b91cb226d94519595af1","features":{},"yanked":false,"links":null}
