@@ -14,3 +14,4 @@
 {"name":"data-encoding","vers":"2.3.0","deps":[],"cksum":"d4d0e2d24e5ee3b23a01de38eefdcd978907890701f08ffffd4cb457ca4ee8d6","features":{"std":["alloc"],"alloc":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"data-encoding","vers":"2.3.1","deps":[],"cksum":"993a608597367c6377b258c25d7120740f00ed23a2252b729b1932dd7866f908","features":{"default":["std"],"std":["alloc"],"alloc":[]},"yanked":false,"links":null}
 {"name":"data-encoding","vers":"2.3.2","deps":[],"cksum":"3ee2393c4a91429dffb4bedf19f4d6abf27d8a732c8ce4980305d782e5426d57","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"links":null}
+{"name":"data-encoding","vers":"2.3.3","deps":[],"cksum":"23d8666cb01533c39dde32bcbab8e227b4ed6679b2c925eba05feabea39508fb","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"links":null}
