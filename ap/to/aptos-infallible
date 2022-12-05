@@ -7,6 +7,6 @@
 {"name":"aptos-infallible","vers":"0.1.6","deps":[],"cksum":"db92eb5553188a1f149172c97feeb3517961976f9f52fea59ff973a1f3040b59","features":{},"yanked":false,"links":null}
 {"name":"aptos-infallible","vers":"0.1.7","deps":[],"cksum":"43cac5deb55b2c0c46a4d39876ff80cc5d6cc214d928fdc31ae0243378fd85ea","features":{},"yanked":false,"links":null}
 {"name":"aptos-infallible","vers":"0.2.1","deps":[],"cksum":"ff06a244b75fde74902a9c9bf44a997505015a35bfe62791ca68eca5a9c8e684","features":{},"yanked":false,"links":null}
-{"name":"aptos-infallible","vers":"0.2.2","deps":[],"cksum":"1c7a95852f72db92d8b4bde0b8dceedd83c8a5d4194db6e133f6d8e9a6283dd3","features":{},"yanked":false,"links":null}
+{"name":"aptos-infallible","vers":"0.2.2","deps":[],"cksum":"1c7a95852f72db92d8b4bde0b8dceedd83c8a5d4194db6e133f6d8e9a6283dd3","features":{},"yanked":true,"links":null}
 {"name":"aptos-infallible","vers":"0.2.6","deps":[],"cksum":"21d29c1eab1dda4e4537b23f78861810bcf2c5d1809defae13515c8754757b44","features":{},"yanked":true,"links":null}
 {"name":"aptos-infallible","vers":"0.2.7","deps":[],"cksum":"a9ef4c34fd7cfa8a6f2175285bfdd7ecf9121655ec1ecbd95d2223cc8862db94","features":{},"yanked":true,"links":null}
