@@ -7,6 +7,6 @@
 {"name":"aptos-global-constants","vers":"0.1.6","deps":[],"cksum":"13c004d52a32edf6ee01f6270fe4dff7c9b7654bc85586d65654134f35c318da","features":{},"yanked":false,"links":null}
 {"name":"aptos-global-constants","vers":"0.1.7","deps":[],"cksum":"2fec3e42db84f3a4be0dc36a31225de13b86e410a0d36bb48f6974c6a127dc1b","features":{},"yanked":false,"links":null}
 {"name":"aptos-global-constants","vers":"0.2.1","deps":[],"cksum":"8bd4787844d0a9c4c4b7ce449debff40e4a3b62b5e00ba513ffd17d69d0c8456","features":{},"yanked":false,"links":null}
-{"name":"aptos-global-constants","vers":"0.2.2","deps":[],"cksum":"6bb30ac19a555c2e4c0f06b37bc5554800bed5b327d358b586361b14155e2247","features":{},"yanked":false,"links":null}
+{"name":"aptos-global-constants","vers":"0.2.2","deps":[],"cksum":"6bb30ac19a555c2e4c0f06b37bc5554800bed5b327d358b586361b14155e2247","features":{},"yanked":true,"links":null}
 {"name":"aptos-global-constants","vers":"0.2.6","deps":[],"cksum":"348d48737df3e23e4718df85109f10ad03f05034484c65b65d0d7287463737a6","features":{},"yanked":true,"links":null}
 {"name":"aptos-global-constants","vers":"0.2.7","deps":[],"cksum":"a92aa0a158823d361de5ffc2c786d117d89d3defe062dac2d1b3bcb8e0c95a3a","features":{},"yanked":true,"links":null}
