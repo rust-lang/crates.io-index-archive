@@ -38,3 +38,4 @@
 {"name":"avltriee","vers":"0.25.0","deps":[],"cksum":"05c297dba0a4a20c169cf08071809fdbb0d3344324003d9cd0eb6049d743ab07","features":{},"yanked":true,"links":null}
 {"name":"avltriee","vers":"0.26.0","deps":[],"cksum":"9584f5f605b7bed950765d59aa8ef1515f60d81dc05b12c4a0c677c0cf210a23","features":{},"yanked":true,"links":null}
 {"name":"avltriee","vers":"0.27.0","deps":[],"cksum":"a90b9155b1603826a72e32b016ca0b3422632401ef1936d2bf5a5427327dda4b","features":{},"yanked":false,"links":null}
+{"name":"avltriee","vers":"0.27.1","deps":[],"cksum":"b6e43c2d5fc154ca87f34d35524ec4b6ed92223492a8dd175f45355706deef60","features":{},"yanked":false,"links":null}
