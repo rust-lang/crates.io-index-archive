@@ -1,0 +1,1 @@
+{"name":"rbfs","vers":"0.1.0","deps":[{"name":"rust-format","req":"^0.3.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83066d0a5055201596e7bcbff53b04180ae5c76cbed6fa28dcf7fe7238f4570c","features":{},"features2":{"format":["dep:rust-format"]},"yanked":false,"links":null,"v":2}
