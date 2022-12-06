@@ -1,1 +1,2 @@
 {"name":"cw-address-like","vers":"1.0.0","deps":[{"name":"cosmwasm-std","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14ef7f3d37fafbec268627246833a99aaff99c22d4b96112cd2b6e2eab3e8856","features":{},"yanked":false,"links":null}
+{"name":"cw-address-like","vers":"1.0.1","deps":[{"name":"cosmwasm-std","req":"^1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca0c95ebe220b088f1a8affc5c932774329e87b288e6459cd10523cbd0f24536","features":{},"yanked":false,"links":null}
