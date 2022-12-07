@@ -1,1 +1,2 @@
 {"name":"idgenerator-thin","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe172e2469c649d570a4cf4792c13cc2beab8131bb6d53e30b7759e3ac9d3b9d","features":{},"yanked":false,"links":null}
+{"name":"idgenerator-thin","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90cc133b97a9d1ad0ca5aa8953c058bc66409d6c5b00c0c19612acd6479263cd","features":{},"yanked":false,"links":null}
