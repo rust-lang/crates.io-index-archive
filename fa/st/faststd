@@ -1,1 +1,2 @@
 {"name":"faststd","vers":"0.1.0","deps":[],"cksum":"1d07466d60c907c94770a2904c98708a638470d278382f0e6a47368285cdbd45","features":{},"yanked":false,"links":null}
+{"name":"faststd","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7652b9c25458915c14592b7129323c97117ed009925614f1c17cf1a31bdaf2f3","features":{"rand_nobias":[]},"yanked":false,"links":null}
