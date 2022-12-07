@@ -1,0 +1,1 @@
+{"name":"sea_orm_newtype_id_domain","vers":"0.1.1-alpha.0","deps":[{"name":"nanoid","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a5382fab512c51f0dae710b8eab3c27b8ded60dba26fbd5cfaa9a193c4efb55","features":{},"yanked":false,"links":null}
