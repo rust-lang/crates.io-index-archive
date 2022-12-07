@@ -1,1 +1,2 @@
 {"name":"codes-common","vers":"0.1.0","deps":[{"name":"tera","req":"^1.17.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78d486f9c9270ed18db4ed7d5a58dc7e6c35b19015e41343286cffe1c582a8d8","features":{},"yanked":false,"links":null}
+{"name":"codes-common","vers":"0.1.1","deps":[{"name":"tera","req":"^1.17.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2634e6cb7fd740e9c2d91a8406cc1c51b664644f0cdd316973432297305b7f15","features":{},"yanked":false,"links":null}
