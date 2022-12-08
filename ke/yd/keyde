@@ -1,0 +1,1 @@
+{"name":"keyde","vers":"0.1.0","deps":[{"name":"glam","req":"^0.22","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cef4cbb5bc42982319c5d162d6c627ab76a5915e722861b10446d962a6345198","features":{"default":[]},"features2":{"glam":["dep:glam"]},"yanked":false,"links":null,"v":2}
