@@ -1,1 +1,2 @@
 {"name":"sum-calc","vers":"0.0.0","deps":[{"name":"aoko","req":"^0.3.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acfb61aace8105be01accf109c727332f91d95cb26e003b90ebac839938f16b6","features":{},"yanked":false,"links":null}
+{"name":"sum-calc","vers":"0.0.1","deps":[{"name":"aoko","req":"^0.3.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b16678a30e146f5dffc32527740c25be10d04c4a4d3accb14bcdafede89ecae1","features":{},"yanked":false,"links":null}
