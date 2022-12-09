@@ -1,1 +1,2 @@
 {"name":"ilog","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3499423c4dd82f3757c9c0f4ca4079a72ecf22081215ec19c3b9e33892ae3f7","features":{},"yanked":false,"links":null}
+{"name":"ilog","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4add50c60f9c7cb9764a52df40a1639f468b0689f1224e84f9c0950e19dec4e7","features":{},"yanked":false,"links":null}
