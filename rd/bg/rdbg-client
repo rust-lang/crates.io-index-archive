@@ -1,1 +1,2 @@
 {"name":"rdbg-client","vers":"0.1.0","deps":[],"cksum":"bac960b430a7b27a891591a8e9891ba13678293154add29935c95711c496b426","features":{},"yanked":false,"links":null}
+{"name":"rdbg-client","vers":"0.1.2","deps":[{"name":"rdbg","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"01f82547bd1e1b35f5b51de22c00ef8c0ca123988246a83529feb10812511a91","features":{},"yanked":false,"links":null}
