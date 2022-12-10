@@ -2,3 +2,4 @@
 {"name":"rdbg","vers":"0.1.1","deps":[],"cksum":"f7b2865577a9d2c3a4db34996230ed0f5148b7aa0833acaca903053bf4ed8694","features":{"default":["enabled"],"enabled":[],"insecure-remote":[]},"yanked":false,"links":null}
 {"name":"rdbg","vers":"0.1.2","deps":[],"cksum":"0c069b1c11368a098d18a728e291272475239d111fc5d60556431d49136ba37f","features":{"default":["enabled"],"enabled":[],"insecure-remote":[]},"yanked":false,"links":null}
 {"name":"rdbg","vers":"0.1.3","deps":[],"cksum":"5de27bc67178ee2f8d9ac82ca20f786adbb1033436772da40922c40146bca89d","features":{"default":["enabled"],"enabled":[],"insecure-remote":[]},"yanked":false,"links":null}
+{"name":"rdbg","vers":"0.1.4","deps":[],"cksum":"dc988b35d7ae9c75eb1aa660f523da3378c077daa11abe23565cc1855da4d889","features":{"default":["enabled"],"enabled":[],"insecure-remote":[]},"yanked":false,"links":null}
