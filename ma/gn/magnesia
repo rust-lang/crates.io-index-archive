@@ -21,3 +21,4 @@
 {"name":"magnesia","vers":"0.7.5","deps":[],"cksum":"3e023bc8d512b853afe2f25828a8fefd83ce38e00f82f647834fb2ef2e962732","features":{},"yanked":false,"links":null}
 {"name":"magnesia","vers":"0.7.6","deps":[],"cksum":"9d982993997d0071189afaddd65c1d5dc8296d853c64b44d2411311f06afda82","features":{},"yanked":false,"links":null}
 {"name":"magnesia","vers":"0.7.7","deps":[],"cksum":"e6a5badb34d1c4f8fa087c572f33f3a3647b329ccd7fbf01dc28e6a19af0eb57","features":{},"yanked":false,"links":null}
+{"name":"magnesia","vers":"0.7.8","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f67a6d1d7a8008a62a1fd1b038082251d90b2cdb2bb3ce21d834daa57a708770","features":{},"yanked":false,"links":null}
