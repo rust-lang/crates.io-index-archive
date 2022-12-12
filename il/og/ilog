@@ -1,3 +1,4 @@
 {"name":"ilog","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3499423c4dd82f3757c9c0f4ca4079a72ecf22081215ec19c3b9e33892ae3f7","features":{},"yanked":false,"links":null}
 {"name":"ilog","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4add50c60f9c7cb9764a52df40a1639f468b0689f1224e84f9c0950e19dec4e7","features":{},"yanked":false,"links":null}
 {"name":"ilog","vers":"0.1.2","deps":[],"cksum":"0aec4711142ccda3f645e0e8596ff21d6198280517fa5083f77e8c27412b3e31","features":{},"yanked":false,"links":null}
+{"name":"ilog","vers":"0.1.3","deps":[],"cksum":"ace7e5373f52e0d048c9d4b65baef5c89b4a36e596fc8663accd18ef1b75f413","features":{},"yanked":false,"links":null}
