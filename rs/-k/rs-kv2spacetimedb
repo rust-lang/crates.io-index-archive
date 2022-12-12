@@ -25,3 +25,4 @@
 {"name":"rs-kv2spacetimedb","vers":"2.8.1","deps":[],"cksum":"8d96beea3e67098254e999051cde16e7f7e020469e1cc94cc83d851a95995a01","features":{},"yanked":false,"links":null}
 {"name":"rs-kv2spacetimedb","vers":"2.8.2","deps":[],"cksum":"53724b7dc35aacff8e691b5f5fad4bf0c57feeb17c6a3e6d64b5fa61b7e5cc78","features":{},"yanked":false,"links":null}
 {"name":"rs-kv2spacetimedb","vers":"2.9.0","deps":[],"cksum":"d8b74434068651eaccf584ade760f4538b40093aeb6440b9bb251bde4b2a3888","features":{},"yanked":false,"links":null}
+{"name":"rs-kv2spacetimedb","vers":"2.9.1","deps":[],"cksum":"9c7e44da95173d8e0a506fd0210812f6f14ca9862e5a9cb44e784c5c9fbe91ef","features":{},"yanked":false,"links":null}
