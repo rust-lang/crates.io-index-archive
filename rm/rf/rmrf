@@ -1,0 +1,1 @@
+{"name":"rmrf","vers":"0.1.0","deps":[{"name":"trash","req":"^3.0","features":["coinit_speed_over_memory"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"abcaa27a4f7eb2e9bed41fc2846298a2e5b6052548c4e56cf81c1904f25272e3","features":{},"yanked":false,"links":null}
