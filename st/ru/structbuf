@@ -1,0 +1,1 @@
+{"name":"structbuf","vers":"0.1.0","deps":[{"name":"smallvec","req":"^1.10.0","features":["const_generics","const_new","union"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7be372c1be8895b4b1a0c0d05b0bf0b24a8e690672f966df0a8ba3145bca1f0","features":{},"yanked":false,"links":null}
