@@ -1,2 +1,3 @@
 {"name":"memacc","vers":"0.1.0","deps":[],"cksum":"08d0831b1eaf7f0f478dc006f1c5dd85bdeac04f885502655b95282ae5bcb21a","features":{},"yanked":false,"links":null}
 {"name":"memacc","vers":"0.1.1","deps":[],"cksum":"4402600d80f570efe7647a50dacb090286b30b3187d4f6a655607989457f9e9e","features":{},"yanked":false,"links":null}
+{"name":"memacc","vers":"0.1.2","deps":[],"cksum":"7eee81d02e0956a4e0c5b97f7b1e563b1f4b9c9f98e22ff6c2d9796edf8e092b","features":{"no-std":[]},"yanked":false,"links":null}
