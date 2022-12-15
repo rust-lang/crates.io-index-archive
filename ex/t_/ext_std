@@ -1,1 +1,2 @@
 {"name":"ext_std","vers":"0.1.0","deps":[],"cksum":"9fa5fc04e65c11d429caffda0b7b6b8f776ba26e942c65121ecc1549f2684a9e","features":{},"yanked":false,"links":null}
+{"name":"ext_std","vers":"0.2.0","deps":[{"name":"anyhow","req":"^1.0.53","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1.0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85ea5dc146d4ad5d16f01ebbefc836e842f2139f13826376b0eb58d67e699aba","features":{},"yanked":false,"links":null}
