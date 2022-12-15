@@ -2,3 +2,4 @@
 {"name":"scale_signature","vers":"0.0.2","deps":[],"cksum":"04181f15b3d1624c7c9cd5a52a1e3b49d4bc3bd3ef9209584340e75414f02138","features":{},"yanked":false,"links":null}
 {"name":"scale_signature","vers":"0.0.3","deps":[],"cksum":"17ce96bcf1457d8b77eb51d01f3ff597d33768fa53fd392ee88e111ce5a8230f","features":{},"yanked":false,"links":null}
 {"name":"scale_signature","vers":"0.0.4","deps":[],"cksum":"285c3a699e2d5252a586418da037e8ffc38696defb887a29b71847341ea91e4d","features":{},"yanked":false,"links":null}
+{"name":"scale_signature","vers":"0.0.5","deps":[{"name":"scale_signature_http","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a34a8678aea95f39435bab1e8a951669cc5a64908b637d202a7e3a966bb9e81","features":{},"yanked":false,"links":null}
