@@ -1,2 +1,3 @@
 {"name":"yonsei-flexible","vers":"0.1.0","deps":[],"cksum":"fbfab760a8363161476fc4febb7ae5b221a38de0cd619ce753a2ba96026e0a34","features":{},"yanked":false,"links":null}
 {"name":"yonsei-flexible","vers":"0.1.1","deps":[],"cksum":"5927e805665e0145e2e0eeb310e838e4a3b676c277adc047587ba5b2f0f964d5","features":{},"yanked":false,"links":null}
+{"name":"yonsei-flexible","vers":"0.2.0","deps":[{"name":"dialoguer","req":"^0.10.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8dbe1b06723e8125e97c792a0472f52d2376be02fcd1cc37c77e9b3e42040d4","features":{},"yanked":false,"links":null}
