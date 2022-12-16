@@ -3,3 +3,4 @@
 {"name":"arbitrary-int","vers":"1.2.0","deps":[],"cksum":"7690508f4ffda2fe76816f130a60eca7f465aa586d6e1ba0f6effba6d629f0e3","features":{},"yanked":false,"links":null}
 {"name":"arbitrary-int","vers":"1.2.1","deps":[],"cksum":"80170076c400dc50b4e6b9edb90b8dc145388e0747db6cb0d1fab1b155cda824","features":{},"yanked":false,"links":null}
 {"name":"arbitrary-int","vers":"1.2.2","deps":[{"name":"num-traits","req":"^0.2.15","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9f1ecab2315ab32c00b27d72c3f88be7e32aade84f216a9bc26c336c09957f75","features":{"std":[]},"yanked":false,"links":null}
+{"name":"arbitrary-int","vers":"1.2.3","deps":[{"name":"num-traits","req":"^0.2.15","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2967dc82d90be9986876ba8ec7a7d89f5cc64930cc576a683089caae12134ee2","features":{"std":[]},"yanked":false,"links":null}
