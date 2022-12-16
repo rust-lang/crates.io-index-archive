@@ -7,3 +7,4 @@
 {"name":"tagged-pointer","vers":"0.2.2","deps":[],"cksum":"86ba9af7921418b0c721a39bc3a340c542371af3f50e24deb654779e871f9d2d","features":{"fallback":[]},"yanked":false,"links":null}
 {"name":"tagged-pointer","vers":"0.2.3","deps":[],"cksum":"a09d2ea46920507a64d0fab424a72d994d9ab3f2d743e593a524a9510830ce15","features":{"fallback":[]},"yanked":false,"links":null}
 {"name":"tagged-pointer","vers":"0.2.4","deps":[],"cksum":"c4ad674c56e84c9d851c2c4c6a1a9584c29b9b4c8e809d83905333b4d1084841","features":{"fallback":[]},"yanked":false,"links":null}
+{"name":"tagged-pointer","vers":"0.2.5","deps":[],"cksum":"57637f6ba9344b123e09e2f9ac3e937567bba50df5319ae72bc69cc2398880c0","features":{"fallback":[]},"yanked":false,"links":null}
