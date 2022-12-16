@@ -1,2 +1,3 @@
 {"name":"micro_ndarray","vers":"0.1.0","deps":[],"cksum":"00bb52f61a0405d545dd7907413144a613679bb0839d8e69d3759db63a1dfa84","features":{},"yanked":false,"links":null}
 {"name":"micro_ndarray","vers":"0.2.0","deps":[],"cksum":"93c5a6ba96c83dd85a481c44bf2ac9c329e89b8365a7bc3229b0596aa7afa6eb","features":{},"yanked":false,"links":null}
+{"name":"micro_ndarray","vers":"0.2.1","deps":[{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"ndarray","req":"^0.15.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f3e2c204739fb72c37bdc399da2a278bba2b6254632928562d13d33c98b09cf6","features":{},"yanked":false,"links":null}
