@@ -1,0 +1,1 @@
+{"name":"libaquestalk-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.138","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d6a01dc2c6d35b21317b7d56081ed9cb42e4eef6b43c1956d99045ef78d02c6","features":{},"yanked":false,"links":null}
