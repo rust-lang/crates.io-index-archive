@@ -1,0 +1,1 @@
+{"name":"rspl","vers":"0.1.0","deps":[{"name":"crossbeam","req":"^0.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b2733a9ac98941b06256f88b9735dec1def3842e5baaef72d8929af1373aeff","features":{"default":["std"],"std":["crossbeam"]},"yanked":false,"links":null}
