@@ -1,1 +1,2 @@
 {"name":"nom-errors","vers":"0.0.1","deps":[{"name":"nom","req":"^7.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aeb265acc551287ce5f2e1ef7828c79d98c409dff4d3631e44e74ec87994f4d8","features":{},"yanked":false,"links":null}
+{"name":"nom-errors","vers":"0.0.2","deps":[{"name":"nom","req":"^7.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc9139b79927cd1299832eea16ce9c0d441a603b6cf4c9267f1e313ea959fe7d","features":{},"yanked":false,"links":null}
