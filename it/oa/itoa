@@ -21,3 +21,4 @@
 {"name":"itoa","vers":"1.0.2","deps":[],"cksum":"112c678d4050afce233f4f2852bb2eb519230b3cf12f33585275537d7e41578d","features":{},"yanked":false,"links":null}
 {"name":"itoa","vers":"1.0.3","deps":[],"cksum":"6c8af84674fe1f223a982c933a0ee1086ac4d4052aa0fb8060c12c6ad838e754","features":{},"yanked":false,"links":null}
 {"name":"itoa","vers":"1.0.4","deps":[{"name":"no-panic","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4217ad341ebadf8d8e724e264f13e593e0648f5b3e94b3896a5df283be015ecc","features":{},"yanked":false,"links":null}
+{"name":"itoa","vers":"1.0.5","deps":[{"name":"no-panic","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fad582f4b9e86b6caa621cabeb0963332d92eea04729ab12892c2533951e6440","features":{},"yanked":false,"links":null}
