@@ -10,3 +10,4 @@
 {"name":"cowstr","vers":"0.8.1","deps":[],"cksum":"7208dc5e31a2d686528eae836a74c7de7904a6563272036f719d5613ef3b1889","features":{"default":[],"singlethreaded":[]},"yanked":false,"links":null}
 {"name":"cowstr","vers":"0.8.2","deps":[],"cksum":"86cddd731b93cf193b46ea800038610dd4d1b2fa1c5fb52d96c161162231b76b","features":{"default":[],"singlethreaded":[]},"yanked":false,"links":null}
 {"name":"cowstr","vers":"0.9.0","deps":[],"cksum":"b7df0c57134ad167582a65a19d9940afc43130f5a7bd827f55e67f98d915bcb3","features":{"default":[],"singlethreaded":[]},"yanked":false,"links":null}
+{"name":"cowstr","vers":"0.10.0","deps":[],"cksum":"68d400bad993c52e0d7fe6aecf6a7d48c85adbc69c0b974760067d0bd1593ec1","features":{"default":[],"singlethreaded":[]},"yanked":false,"links":null}
