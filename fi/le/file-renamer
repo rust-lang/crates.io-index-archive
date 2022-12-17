@@ -1,1 +1,2 @@
 {"name":"file-renamer","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d47f4cc7074baa5a8223e9fa3f15aa65c0562f7fdd4f930e921cd76db0bbdb09","features":{},"yanked":false,"links":null}
+{"name":"file-renamer","vers":"2.0.0","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea3dc78a73fc786b9b44445d546ffcb5f1e8332eecd3240365853b2ec9bfdb6a","features":{},"yanked":false,"links":null}
