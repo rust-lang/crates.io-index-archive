@@ -1,0 +1,1 @@
+{"name":"fibril_core","vers":"0.0.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a454cd3a5ed3f872db236b8cba453ec2afa84e413d35da6c68e710f96dba31b1","features":{},"yanked":false,"links":null}
