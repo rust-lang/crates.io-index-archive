@@ -1,3 +1,4 @@
 {"name":"string-sharp","vers":"0.1.0","deps":[],"cksum":"0834479f5ed808e1c16b15eb9ba3a4ea5bf61e90f38ce570e47b194a184a078c","features":{},"yanked":false,"links":null}
 {"name":"string-sharp","vers":"0.1.1","deps":[],"cksum":"e1e2dae822f8cf52e39557ec6e5d06a56cdfcb1e3358beaea559d3d19f27bfa1","features":{},"yanked":false,"links":null}
 {"name":"string-sharp","vers":"0.1.2","deps":[{"name":"chrono","req":"^0.4.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d24351901fbece90e2bcba08003d026ff710732b4993939039b40e56fed8adc","features":{},"yanked":false,"links":null}
+{"name":"string-sharp","vers":"0.1.3","deps":[{"name":"chrono","req":"^0.4.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4458fd05060ed9aafbd6271bccf8f6dd1ea9d89242928d298994f226686208d","features":{},"yanked":false,"links":null}
