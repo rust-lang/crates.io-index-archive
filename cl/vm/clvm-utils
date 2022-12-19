@@ -1,0 +1,2 @@
+{"name":"clvm-utils","vers":"0.1.14","deps":[{"name":"clvmr","req":"=0.1.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"077b25ba32be12cad0b1d04f744ea11d60ab7059ad55566038f8b3716591564c","features":{},"yanked":false,"links":null}
+{"name":"clvm-utils","vers":"0.1.15","deps":[{"name":"clvmr","req":"=0.1.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b14503c1f94412cddb0bae2dc8814ce042c2ae4b1a9c3977169ee75588552f9","features":{},"yanked":false,"links":null}

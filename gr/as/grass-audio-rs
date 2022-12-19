@@ -1,0 +1,1 @@
+{"name":"grass-audio-rs","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.61.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a274afddddea3d858f72fc5d4e336c6abdabbb2dbdc620745607ea4c14d2e810","features":{},"yanked":false,"links":null}

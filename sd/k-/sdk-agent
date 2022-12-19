@@ -1,0 +1,1 @@
+{"name":"sdk-agent","vers":"0.1.0","deps":[{"name":"anchor-lang","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38159dd2ed89b69fb3916b0403b8d6d4c09c8e55901630e04069df1b53ef0f2b","features":{"cpi":["no-entrypoint"],"default":[],"no-entrypoint":[],"no-idl":[],"no-log-ix-name":[]},"yanked":false,"links":null}
