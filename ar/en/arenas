@@ -1,0 +1,1 @@
+{"name":"arenas","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.151","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcd1ea974d709a0fe69388d373b9da735ce908edfe39b283e73dc7366afaffa7","features":{},"yanked":false,"links":null}
