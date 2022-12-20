@@ -1,0 +1,1 @@
+{"name":"ton_smart_contract_address","vers":"0.0.0","deps":[{"name":"base64","req":"^0.20.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f74311cbcd961609b499ad22e01b6e3ffbe4f12ba45ad8413d9981db9a1343ed","features":{},"yanked":false,"links":null}
