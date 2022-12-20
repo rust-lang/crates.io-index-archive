@@ -17,3 +17,4 @@
 {"name":"udf-sys","vers":"0.4.5","deps":[],"cksum":"1da0788f29c94e6fdda0241b9ea8f0da46a78d640321dfdbac16c914d950ca82","features":{},"yanked":false,"links":null}
 {"name":"udf-sys","vers":"0.5.0-rc.1","deps":[],"cksum":"1ff294741b8997b5f693097732f63f4b69fee12e470ad18facae74122f1d0d8c","features":{},"yanked":false,"links":null}
 {"name":"udf-sys","vers":"0.5.0-rc.2","deps":[],"cksum":"ac4512a50619824760dde29d3a197af3f38d57f7e9d35545dae3ffc4658b24d5","features":{},"yanked":false,"links":null}
+{"name":"udf-sys","vers":"0.5.0","deps":[],"cksum":"e5d2594c41cf66a28a76c511af346252250d592f69bfa4c3f8d445f209288204","features":{},"yanked":false,"links":null}
