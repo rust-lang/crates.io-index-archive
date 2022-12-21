@@ -1,0 +1,1 @@
+{"name":"interface-builder","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ea389e5f82e8375e5c126903b5c8d459a5e3f900e69146debf78ceb2b6931f7","features":{},"yanked":false,"links":null}
