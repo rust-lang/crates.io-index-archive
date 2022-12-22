@@ -1,0 +1,1 @@
+{"name":"linked_list_c","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44ec376da223579bcf7ccd4cd7474a734296a8a74fb1a437d2e197d3e211e994","features":{},"yanked":false,"links":null}
