@@ -1,1 +1,2 @@
 {"name":"branch_hints","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"89c3737bb4be87cd31784326eaf7cb65521a5e201af25f84313363b233cb4904","features":{},"yanked":false,"links":null}
+{"name":"branch_hints","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2f7d5de6b91864408283df962cb70aa61a47cb694afce50ac2eb9d59a1578db8","features":{},"yanked":false,"links":null}
