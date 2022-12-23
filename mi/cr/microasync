@@ -8,3 +8,4 @@
 {"name":"microasync","vers":"0.2.6","deps":[],"cksum":"3d9461360d0dd47f8a35a8b69268dd06ab83cf997905ae3c0f63339fb33a58c5","features":{},"yanked":false,"links":null}
 {"name":"microasync","vers":"0.2.7","deps":[],"cksum":"426f9fdaf09f8b0105b96c01dc0120663c3bf46334aeddb4da123a2e84d27b6d","features":{"no_std":[]},"yanked":false,"links":null}
 {"name":"microasync","vers":"0.3.0","deps":[],"cksum":"6c1b8483a19c397cba9e2cd8b522c04ad56b44890ba1177aab909500bc587d8c","features":{"no_joiner":[],"no_std":[]},"yanked":false,"links":null}
+{"name":"microasync","vers":"0.3.1","deps":[],"cksum":"1f5996d4364a3687a62ec956920ff64c80fef9e391b204f266bdc40db8879aa3","features":{"no_joiner":[],"no_std":[]},"yanked":false,"links":null}
