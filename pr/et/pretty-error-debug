@@ -1,1 +1,2 @@
 {"name":"pretty-error-debug","vers":"0.1.0","deps":[],"cksum":"b0b299c9f92a2115f9053080d02881261a103a9c49aec7533689136a8c7c5c91","features":{},"yanked":false,"links":null}
+{"name":"pretty-error-debug","vers":"0.1.1","deps":[{"name":"pretty-error-debug-derive","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b98c5481e19b8154e9c1519d53018136ea19aab5c208406de99b7bdb05002e0f","features":{"default":["derive"],"derive":["pretty-error-debug-derive"]},"yanked":false,"links":null}
