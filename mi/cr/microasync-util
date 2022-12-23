@@ -1,0 +1,1 @@
+{"name":"microasync-util","vers":"0.1.0","deps":[{"name":"microasync","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18d5ff2cfdb8957531bfdbe515aa49fa30fcf234fc09c9d1d09f64ce2d09e047","features":{"no_std":["microasync/no_std"]},"yanked":false,"links":null}
