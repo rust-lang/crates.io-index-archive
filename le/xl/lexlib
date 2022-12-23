@@ -1,1 +1,2 @@
 {"name":"lexlib","vers":"0.4.0","deps":[],"cksum":"9caff7563cdd489684adcabb3c7cce12773d936b2f711406392f9d7036df1190","features":{},"yanked":false,"links":null}
+{"name":"lexlib","vers":"0.5.0","deps":[{"name":"egui","req":"^0.20.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5524af123d378fd5d81599cd053e77d1d4fdab5639575d155d68d17fb025a67","features":{},"features2":{"egui":["dep:egui"]},"yanked":false,"links":null,"v":2}
