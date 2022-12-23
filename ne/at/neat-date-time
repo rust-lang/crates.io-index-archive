@@ -7,3 +7,4 @@
 {"name":"neat-date-time","vers":"0.1.6","deps":[{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2edb09586fb5d60a803126c31f27ceb01fb604cdfe931de3b214386cb2c5972","features":{},"yanked":true,"links":null}
 {"name":"neat-date-time","vers":"0.1.7","deps":[],"cksum":"482ef27697f551e7b0a2fbc3023a36a548110d1684d48b5151b9cca99d722d9f","features":{},"yanked":true,"links":null}
 {"name":"neat-date-time","vers":"0.1.8","deps":[],"cksum":"a30d98f8e6eeaebfdad969062f61597070cf9dcb82d0ddb3d88c08c29959ce50","features":{},"yanked":false,"links":null}
+{"name":"neat-date-time","vers":"0.1.9","deps":[],"cksum":"212abb716fe6b51e425cb344131c1ff5fce71a8f7985ccb50ca0eb79f3fbfb0d","features":{},"yanked":false,"links":null}
