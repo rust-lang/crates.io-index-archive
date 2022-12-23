@@ -1,0 +1,1 @@
+{"name":"dxrs","vers":"0.0.0","deps":[],"cksum":"7f1bcf438e0f89d492309c5a0f2b117dd0e98104ccfef823bfe79898af37c49a","features":{"common":[],"default":["common","parse"],"html":["parse"],"parse":[],"tex":["parse"]},"yanked":false,"links":null}
