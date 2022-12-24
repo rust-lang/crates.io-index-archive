@@ -1,0 +1,1 @@
+{"name":"databuf","vers":"0.1.0","deps":[{"name":"databuf-derive","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a667fe96a36d0bcd7e0a4a37721e0a47cfe82d10e2b668a2b23ec940a21a8c4a","features":{"BE":[],"L2":[],"NE":[]},"yanked":false,"links":null}
