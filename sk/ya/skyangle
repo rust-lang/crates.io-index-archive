@@ -3,3 +3,4 @@
 {"name":"skyangle","vers":"0.1.2","deps":[],"cksum":"14f0f0e12026f389b18e71af142c337bccab8a569f44853460ace72bea066544","features":{},"yanked":false,"links":null}
 {"name":"skyangle","vers":"0.2.0","deps":[],"cksum":"490c19b66f281dd20d3ec2a4cc42857dae28dfc612e14d788a2b379d2afcd64c","features":{},"yanked":false,"links":null}
 {"name":"skyangle","vers":"0.2.1","deps":[],"cksum":"f1f8ac6d965a6060841bee126f936350f1c90f0feeb5d844e79a3f28fe5cae88","features":{},"yanked":false,"links":null}
+{"name":"skyangle","vers":"0.2.2","deps":[{"name":"serde","req":"^1.0.151","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0.91","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"99c2d45de41adca77991fd923b90a06c1cd8643ca316a6f2199e0de80e18bcfe","features":{},"yanked":false,"links":null}
