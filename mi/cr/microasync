@@ -10,3 +10,4 @@
 {"name":"microasync","vers":"0.3.0","deps":[],"cksum":"6c1b8483a19c397cba9e2cd8b522c04ad56b44890ba1177aab909500bc587d8c","features":{"no_joiner":[],"no_std":[]},"yanked":false,"links":null}
 {"name":"microasync","vers":"0.3.1","deps":[],"cksum":"1f5996d4364a3687a62ec956920ff64c80fef9e391b204f266bdc40db8879aa3","features":{"no_joiner":[],"no_std":[]},"yanked":false,"links":null}
 {"name":"microasync","vers":"0.4.0","deps":[],"cksum":"2d892acb615552294e669f7a6ad7fe3e98a634f783ed363eddc30b311b9efe6f","features":{"no_joiner":[],"no_std":[]},"yanked":false,"links":null}
+{"name":"microasync","vers":"0.4.1","deps":[],"cksum":"5a8f50171874f2d88ad43ac680fe36d0201e8c9a054d220e4a2d1f97dffe0aff","features":{"no_joiner":[],"no_std":[]},"yanked":false,"links":null}
