@@ -20,3 +20,4 @@
 {"name":"naan","vers":"0.1.19","deps":[],"cksum":"b48822b5684211d03a6e1ad2cba4728c89e92d44df4f5dff145b79963ce0f5f8","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false,"links":null}
 {"name":"naan","vers":"0.1.20","deps":[],"cksum":"c23b6272acb708294d06acbefa7ea17ebf99dcdfcd5c203cd0b9bc59e42f82e8","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false,"links":null}
 {"name":"naan","vers":"0.1.21","deps":[],"cksum":"f1c8f9235345243b85b6dccef38016507b28e6f8ebe7c48ab22fa68193995fb1","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false,"links":null}
+{"name":"naan","vers":"0.1.22","deps":[],"cksum":"2b3627d6ee74ee6d284d32c4b6e854b7747ec1b2a28fbba1e307fcf06d3040b1","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false,"links":null}
