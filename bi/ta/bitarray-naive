@@ -1,1 +1,2 @@
 {"name":"bitarray-naive","vers":"0.1.0","deps":[],"cksum":"b7ebd868c4065bb78b1389f83225b4f14ea47fceec4e066ba228779b3e71f822","features":{},"yanked":false,"links":null}
+{"name":"bitarray-naive","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.151","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8844a407cb56856729fff67fed1b1802be56e7c606afeb0e1a31967dede2773","features":{},"yanked":false,"links":null}
