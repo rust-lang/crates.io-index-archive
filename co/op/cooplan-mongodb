@@ -1,0 +1,1 @@
+{"name":"cooplan-mongodb","vers":"0.1.0","deps":[{"name":"mongodb","req":"^2.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6536676aa8d7198defd6f76bdd67665e0e4b20cc5313de31588e95d110f31a1d","features":{},"yanked":false,"links":null}
