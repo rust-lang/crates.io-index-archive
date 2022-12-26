@@ -1,1 +1,2 @@
 {"name":"num_convert","vers":"0.3.2","deps":[{"name":"paste","req":"^1.0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12e8024f325e289a3f54a6bb18c59cde7f16df4484410f9abeb5ea902f5afea6","features":{},"yanked":false,"links":null}
+{"name":"num_convert","vers":"0.4.0","deps":[{"name":"paste","req":"^1.0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bcd0ebb7a0353558bcae8c14e9807dc602df77cf69db03a8045ce4511265651d","features":{},"yanked":false,"links":null}
