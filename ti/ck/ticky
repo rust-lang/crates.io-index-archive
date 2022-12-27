@@ -1,0 +1,1 @@
+{"name":"ticky","vers":"0.1.0","deps":[{"name":"derive_more","req":"^0.99.17","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1421269e4be2af1cd5a936daf780f0ec10103c693d247aed04c24c6312d4c8e9","features":{},"features2":{"derive_more":["dep:derive_more"]},"yanked":false,"links":null,"v":2}
