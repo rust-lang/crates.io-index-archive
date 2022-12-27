@@ -1,1 +1,1 @@
-{"name":"rtodo","vers":"0.1.0","deps":[{"name":"colored","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84cfe92d1bf22e5f01d3031d10f19509307e11f9eca16b087de7d4dec5ec7de7","features":{},"yanked":false,"links":null}
+{"name":"rtodo","vers":"0.1.0","deps":[{"name":"colored","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"84cfe92d1bf22e5f01d3031d10f19509307e11f9eca16b087de7d4dec5ec7de7","features":{},"yanked":true,"links":null}
