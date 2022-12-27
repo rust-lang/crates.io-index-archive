@@ -3,3 +3,4 @@
 {"name":"file-ext","vers":"8.0.0","deps":[{"name":"rust-web-server","req":"^8.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c97ee2d3b9df50768025ddb6ab4bf03eb27497bb0654a72684c5a4a253f7c6c6","features":{},"yanked":false,"links":null}
 {"name":"file-ext","vers":"8.0.1","deps":[{"name":"rust-web-server","req":"^8.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f820097052247ab75d90c9ba2fef6a41364a6a06b26cb9f9109bd8fd2fb64806","features":{},"yanked":false,"links":null}
 {"name":"file-ext","vers":"9.0.0","deps":[],"cksum":"fc4300d378887762c88caca638eb52bd507b7d56f295f649bfd39fc202ac3d58","features":{},"yanked":false,"links":null}
+{"name":"file-ext","vers":"8.0.3","deps":[],"cksum":"78ee2722cdc6a756a9fb5ed87c48a6135c5a640c6fe39ca98d5aefc94df305c4","features":{},"yanked":false,"links":null}
