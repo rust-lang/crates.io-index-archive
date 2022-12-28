@@ -1,0 +1,1 @@
+{"name":"enum-collections-macros","vers":"0.1.0","deps":[{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3971a5f9363aaf0c3b3e9b5d51f262c14c9fda553a253b73a2ec98358db2358a","features":{},"yanked":false,"links":null}
