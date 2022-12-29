@@ -1,1 +1,2 @@
 {"name":"stagiaire","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3c1d574e2795192f6f6d5a4b9c50ab79b90071b3a0a3a3997e5d3a5727146a29","features":{},"yanked":false,"links":null}
+{"name":"stagiaire","vers":"0.2.1","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e64cd76c35c1ac254b312749bc11f3c793be1569c77aad748a94369adf7c04cb","features":{},"yanked":false,"links":null}
