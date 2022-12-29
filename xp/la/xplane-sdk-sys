@@ -1,0 +1,1 @@
+{"name":"xplane-sdk-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.63.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"fe1e6b50c6b44cf70f75301c63890f97591e6194fdce03c89917c01127592b0a","features":{},"features2":{"generate-bindings":["dep:bindgen"]},"yanked":false,"links":null,"v":2}
