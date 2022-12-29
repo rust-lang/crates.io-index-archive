@@ -1,1 +1,2 @@
 {"name":"devone","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0.32","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9f4e37646eee9a639bbfc56be0212c6b7899e5582230b15b203751895afe189","features":{},"yanked":false,"links":null}
+{"name":"devone","vers":"0.1.1","deps":[{"name":"clap","req":"^4.0.32","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"087b1e29c95c6c183bcfe8504772f2893aa2f34c5610eec08090e9b487b3281a","features":{},"yanked":false,"links":null}
