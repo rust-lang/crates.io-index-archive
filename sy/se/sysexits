@@ -8,3 +8,4 @@
 {"name":"sysexits","vers":"0.3.2","deps":[],"cksum":"c1569182c734bec75e863247ebbc4423493a46525314245426f48082e72674a0","features":{},"yanked":false,"links":null}
 {"name":"sysexits","vers":"0.3.3","deps":[],"cksum":"36535fe907a90e02866dd181c99e188e26abb25c5b237d3a6e11f1cc854ace43","features":{},"yanked":false,"links":null}
 {"name":"sysexits","vers":"0.3.4","deps":[],"cksum":"913b6c9c3fdc55ec78e76e281706cecfe0cfb4ba07545cbce8342ed943dcfa72","features":{},"yanked":false,"links":null}
+{"name":"sysexits","vers":"0.4.0","deps":[],"cksum":"bcd4eff4cf271fec7d946fbe865aac5eb005e0d42d57db4cad420b6f5bcf743d","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
