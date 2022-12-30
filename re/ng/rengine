@@ -1,0 +1,1 @@
+{"name":"rengine","vers":"0.0.0","deps":[{"name":"sdl2","req":"^0.35.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d135c3d9dc00d8c6265d7c3c318d75f1d48e7248b04370906826dcb940909d4","features":{},"yanked":false,"links":null}
