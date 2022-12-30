@@ -1,2 +1,3 @@
 {"name":"bevy_wasm_shared","vers":"0.9.5","deps":[],"cksum":"f99acc9e267380c7617ab5548cb459ec1f4b80e83b3dafc6f98e7e5978abce4d","features":{},"yanked":false,"links":null}
 {"name":"bevy_wasm_shared","vers":"0.9.6","deps":[],"cksum":"5413a17965ec64cfa2021d3047a89f7314e4160c7a804182ee1a7a04b6fcd55b","features":{},"yanked":false,"links":null}
+{"name":"bevy_wasm_shared","vers":"0.9.7","deps":[],"cksum":"7f4fd0d634430e67ffda2828fafd420953bbbedb88989e71021598678018bccf","features":{},"yanked":false,"links":null}
