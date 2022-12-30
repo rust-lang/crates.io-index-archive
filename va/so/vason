@@ -1,1 +1,1 @@
-{"name":"vason","vers":"0.0.1","deps":[{"name":"minifb","req":"^0.23.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4a43bb33c9a4002921cd4fdd7b6612b8d35f030cb0a8cbafa262a9e8c6ddf302","features":{},"yanked":false,"links":null}
+{"name":"vason","vers":"0.0.1","deps":[{"name":"minifb","req":"^0.23.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4a43bb33c9a4002921cd4fdd7b6612b8d35f030cb0a8cbafa262a9e8c6ddf302","features":{},"yanked":true,"links":null}
