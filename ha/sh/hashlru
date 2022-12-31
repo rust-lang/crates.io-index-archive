@@ -7,3 +7,4 @@
 {"name":"hashlru","vers":"0.5.0","deps":[],"cksum":"fef26b492dc8bf2a14e940af87a4c09b5f493a531ed2bd98e5da0683e8712f3b","features":{},"yanked":false,"links":null}
 {"name":"hashlru","vers":"0.5.1","deps":[],"cksum":"e624c4094f12b19ec9f9748ffa4722c0d0b223b59e0402449bef6eb9b0530444","features":{},"yanked":false,"links":null}
 {"name":"hashlru","vers":"0.6.0","deps":[],"cksum":"b5357e1e15d48994b30de630429e67451ab5254ad84eab4b63f30dce1716e837","features":{},"yanked":false,"links":null}
+{"name":"hashlru","vers":"0.6.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6d2575bd906cf5112ed98b99c788ded2db3ba58d4bbbe8b75825c3930d297254","features":{},"yanked":false,"links":null}
