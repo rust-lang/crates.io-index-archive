@@ -5,3 +5,4 @@
 {"name":"osrs-buffer","vers":"0.4.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcd93ab8807158cada11575375cf23a34f036d7189fb8055f7b3cbe754475e6b","features":{},"yanked":false,"links":null}
 {"name":"osrs-buffer","vers":"0.5.0","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63ba87a9710bd642fd0663e9ef0bb9d00fc60f60198d0e06879a8456a2fbf272","features":{},"yanked":false,"links":null}
 {"name":"osrs-buffer","vers":"0.6.0","deps":[],"cksum":"3d9a80960d4700806365b1f4e1e645ac2d976189b073f502be552504c9fc2b33","features":{},"yanked":false,"links":null}
+{"name":"osrs-buffer","vers":"0.7.0","deps":[],"cksum":"93953f71b5589051011ee004c110c4bf04fa168c8cdf0e6d1f14ff5dde073038","features":{},"yanked":false,"links":null}
