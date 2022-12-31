@@ -1,2 +1,3 @@
 {"name":"top-english-words","vers":"1.0.0","deps":[],"cksum":"e5f7858443082238ae557ea427cd6e38773e2fb0cc1abc5167efe1243ad64ea9","features":{},"yanked":false,"links":null}
 {"name":"top-english-words","vers":"1.0.1","deps":[],"cksum":"4cafb47d1c6a382c539284a362d6ece74c63063c5a3f5ab26e09b988f6c630b7","features":{},"yanked":false,"links":null}
+{"name":"top-english-words","vers":"1.0.2","deps":[{"name":"include-lines","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa7713e4bef7be370a926645cdd543ebf23b5df4133db1695a8000b9b79bd864","features":{},"yanked":false,"links":null}
