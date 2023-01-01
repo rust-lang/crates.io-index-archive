@@ -1,1 +1,2 @@
 {"name":"miscmath","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2aa46de68ce601d8798f4a32112d5a58c8e8d818c74e9f6aeeb57392564900ff","features":{},"yanked":false,"links":null}
+{"name":"miscmath","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e411172396a6f986216472e7301d91a6530abc45799ad3213968cb9515318d77","features":{},"yanked":false,"links":null}
