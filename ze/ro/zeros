@@ -41,3 +41,4 @@
 {"name":"zeros","vers":"13.0.0","deps":[],"cksum":"fda94f1acbf36ec9f8d609406b63ec2b8a878f926f6b0417ae245a40c0503a77","features":{"std":[]},"yanked":false,"links":null}
 {"name":"zeros","vers":"13.1.0","deps":[],"cksum":"d1e891d92069d859dc21aeac68605bcfa5821101af916ec2458d2fbdd480388a","features":{"std":[]},"yanked":false,"links":null}
 {"name":"zeros","vers":"13.2.0","deps":[{"name":"openssl","req":">=0.10, <0.11","features":["vendored"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6c05667fb30acd0eb96ede587388ea31fccacd3fcdec93c4bbc4087f5bce2b3c","features":{"simd":[],"std":[]},"yanked":false,"links":null}
+{"name":"zeros","vers":"13.2.1","deps":[{"name":"openssl","req":">=0.10, <0.11","features":["vendored"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2b23abee2fd5e109af225b408ef17e093c51cb6499709d8b90271ec4e999f0b7","features":{"simd":[],"std":[]},"yanked":false,"links":null}
