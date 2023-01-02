@@ -14,3 +14,4 @@
 {"name":"selectme-macros","vers":"0.5.0","deps":[],"cksum":"0d9cf70ecbb1be0ba8ee7ae618040ed1104272f8caabf238d39a3c689724755d","features":{"default":[],"tokio-diagnostics":[],"tokio-entry":[]},"yanked":false,"links":null}
 {"name":"selectme-macros","vers":"0.6.0","deps":[],"cksum":"1c8530193e15d74662e1451f70a30622d4f3dfd7dee47a8dcb55b4c0c7debe05","features":{"default":[],"tokio-diagnostics":[],"tokio-entry":[]},"yanked":false,"links":null}
 {"name":"selectme-macros","vers":"0.7.0","deps":[],"cksum":"0c269919f761c407700126067aa6fa3e44742b6d1566bccf3cc3fbc020662e5c","features":{"tokio-entry":[]},"yanked":false,"links":null}
+{"name":"selectme-macros","vers":"0.7.1","deps":[],"cksum":"a600e971eae6363c92a479ea505913a60dadf33a1da90e570c73dde627720302","features":{"tokio-entry":[]},"yanked":false,"links":null}
