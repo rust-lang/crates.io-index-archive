@@ -1,0 +1,1 @@
+{"name":"process-sync","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.139","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f917010994b4f1076e07a795449f87e95c48dc5eaa9b94de450bb9dfb809ae9d","features":{},"yanked":false,"links":null}
