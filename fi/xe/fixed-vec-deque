@@ -8,3 +8,4 @@
 {"name":"fixed-vec-deque","vers":"0.1.7","deps":[],"cksum":"8bd98b18ab9060299f07dcf5ba58635a7f4cb56a442544d06f7080045184880f","features":{"unstable":[]},"yanked":false,"links":null}
 {"name":"fixed-vec-deque","vers":"0.1.8","deps":[],"cksum":"02e36842ebc7fbe443d67ee1dafcab81103d5566b03c336a73439620d3723743","features":{"unstable":[]},"yanked":false,"links":null}
 {"name":"fixed-vec-deque","vers":"0.1.9","deps":[],"cksum":"14c0bc0a5a14538da76b4127910be3eca0df0fb8fd6dc893fe620ecf583dda71","features":{"unstable":[]},"yanked":false,"links":null}
+{"name":"fixed-vec-deque","vers":"0.1.10","deps":[],"cksum":"a9fa9285c4a9c7deb62eb0fb23b7bff501629f0179b0d1944f4fd2cb6a753900","features":{"unstable":[]},"yanked":false,"links":null}
