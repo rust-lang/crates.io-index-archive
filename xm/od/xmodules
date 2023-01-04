@@ -1,0 +1,1 @@
+{"name":"xmodules","vers":"0.1.0","deps":[{"name":"elrond-wasm","req":"^0.38.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60254ea4f9bb1cf44f67a77614382871a0c7bb16861b608562b60bfc971cfe5a","features":{},"yanked":false,"links":null}
