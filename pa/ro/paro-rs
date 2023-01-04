@@ -1,2 +1,3 @@
 {"name":"paro-rs","vers":"0.0.1","deps":[],"cksum":"4904006ba70d46cdf9c9dc84e5d60853a031f81dd7315420076dc7b4893aca2a","features":{},"yanked":false,"links":null}
 {"name":"paro-rs","vers":"0.0.2","deps":[],"cksum":"d8c9448c5b80d55ffa9d0ad74ead7c46e94555aa3fe37f7648ab87afa4533272","features":{},"yanked":false,"links":null}
+{"name":"paro-rs","vers":"0.0.3","deps":[{"name":"uuid","req":"^1.2","features":["v4","fast-rng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bb6fe001d6030593b7226376d0af3babeff5837d74c243319adb566f0c9f535","features":{},"yanked":false,"links":null}
