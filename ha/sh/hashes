@@ -3,3 +3,4 @@
 {"name":"hashes","vers":"0.1.2","deps":[],"cksum":"8ef7cf71412bf9be03f9f9171f57a4dc3835cbf8a63485ad00e1dc5798b4421b","features":{"test_big_data":[]},"yanked":false,"links":null}
 {"name":"hashes","vers":"0.1.3","deps":[],"cksum":"32d5bc637bb77ca923d9cc223b62b60f51fa8529c26da38d4a5dfd07dacce0d1","features":{"test_big_data":[]},"yanked":false,"links":null}
 {"name":"hashes","vers":"0.1.4","deps":[],"cksum":"a6ce6b737b4845dc6dbc2332b8aad45d305ac6cf0d648e0b705979f1b7d0216e","features":{"test_big_data":[]},"yanked":false,"links":null}
+{"name":"hashes","vers":"0.1.5","deps":[],"cksum":"53f9749e729d5cc5eabc859551126709e3eee080bb183a69de4deafdb8e234ac","features":{"test_big_data":[]},"yanked":false,"links":null}
