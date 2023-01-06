@@ -1,0 +1,1 @@
+{"name":"cpucycles-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7b4a7204e6099962efc777574543795becfc8364ae419e14e466ed4bc4e04ebd","features":{},"yanked":false,"links":null}
