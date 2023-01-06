@@ -1,1 +1,2 @@
 {"name":"constime","vers":"0.1.0","deps":[],"cksum":"25414eeb7e2251cbee9c9d0058a3d56d4da6a89170e45387a0f323668cda7570","features":{},"yanked":false,"links":null}
+{"name":"constime","vers":"0.2.0","deps":[{"name":"ureq","req":"^2.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"58f038dd228ec5cb03aa2d06beba429e31c216762a988702f8bf37ff8e72fbee","features":{},"yanked":false,"links":null}
