@@ -1,0 +1,1 @@
+{"name":"lb","vers":"0.1.0","deps":[{"name":"image","req":"^0.24.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"termion","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b3028f76ab7da7f7be5212702841ee1b696c67d6721ab55c8714cfb8efda51ac","features":{},"yanked":false}
