@@ -1,0 +1,1 @@
+{"name":"slice-cell","vers":"0.0.1","deps":[],"cksum":"a4f009fce80ad3dbf771603bd20561b9d4f6271db817dd4ef245e603b595b8de","features":{"alloc":[],"assume_cell_layout":[],"default":["std","assume_cell_layout","rc"],"rc":["alloc"],"std":["alloc"]},"yanked":false}
