@@ -7,3 +7,4 @@
 {"name":"pc-ints","vers":"0.1.4","deps":[],"cksum":"422b0cc3a966f6e0987d2f948c234585bd917a1f16df1470e60c56ad6de2c085","features":{},"yanked":false,"links":null}
 {"name":"pc-ints","vers":"0.2.0","deps":[],"cksum":"e7e2082c07341ee32ddc9896ff7132d3fc63b1d3957fa463711cb7b7e47c4768","features":{},"yanked":false,"links":null}
 {"name":"pc-ints","vers":"0.2.1","deps":[],"cksum":"bf2cddb86eccbfcdbeb0f10adedcbb2d1d1a272b33911abf8e81332c828dc1b4","features":{},"yanked":false,"links":null}
+{"name":"pc-ints","vers":"0.3.0","deps":[{"name":"memoffset","req":"^0.8.0","features":["unstable_const"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"800e2098562e54ce70ce575d1a5e7ee9b4133d3f18e1cce26b9487f66167ad17","features":{},"yanked":false}
