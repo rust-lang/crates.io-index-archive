@@ -1,1 +1,2 @@
 {"name":"bytes_parser","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"197cd3b6836ee89856fa77c0a529d3a29cc4cb7ccb1902a340edc4ff0a6c1145","features":{},"yanked":false}
+{"name":"bytes_parser","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78473cdb82d4244b02c31fdbd852c65533ce89ea57ec629a636743276c4d41a7","features":{},"yanked":false}
