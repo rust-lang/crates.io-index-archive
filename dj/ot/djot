@@ -1,0 +1,1 @@
+{"name":"djot","vers":"0.0.1","deps":[{"name":"phf","req":"^0.11.1","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2472faace1db4ee71b1258ca703ce2bca45ab6c6dac8cf1487a44b22030c0a4e","features":{},"yanked":false}
