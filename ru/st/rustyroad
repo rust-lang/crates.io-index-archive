@@ -1,0 +1,1 @@
+{"name":"rustyroad","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15c486d7a2acb59d16d73ceb0de48dfb86d52fd2d4f0c9ea9aa871116beab224","features":{},"yanked":false}
