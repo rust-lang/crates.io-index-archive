@@ -1,1 +1,2 @@
 {"name":"n8henrie","vers":"0.1.0","deps":[],"cksum":"43de6e13890f5a623896b9f198ee1964accbfb0816681c265da32e51daa86af3","features":{},"yanked":false,"links":null}
+{"name":"n8henrie","vers":"0.1.1","deps":[],"cksum":"0bf476073bcda865c5c04d2c7819b34d1adeabedb2a764ce90278dcccde9b41e","features":{"pola-rs-polars-issues-6123":[]},"yanked":false}
