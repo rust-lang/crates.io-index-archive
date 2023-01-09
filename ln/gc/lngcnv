@@ -37,3 +37,4 @@
 {"name":"lngcnv","vers":"1.6.1","deps":[],"cksum":"b18b9dd997db2b35d9572e44b6ed9340f3cea0d22484b9b556ddf5c23277bb02","features":{},"yanked":false,"links":null}
 {"name":"lngcnv","vers":"1.7.0","deps":[],"cksum":"44c44cc935f6d78ae1218fa00bf96c8dda7aacbcaf6bc6dfb8ff7bd92da6375a","features":{},"yanked":false,"links":null}
 {"name":"lngcnv","vers":"1.8.0","deps":[],"cksum":"c7a940e4e4fe0598e0fc7bb1aa7d183206b56ec21f4625ad3f097bbeb278911f","features":{},"yanked":false,"links":null}
+{"name":"lngcnv","vers":"1.8.1","deps":[],"cksum":"2f329c62a456bdbed44d4adbeb052c68ed7825559e57b2d6e7a0676255ed4c4d","features":{},"yanked":false}
