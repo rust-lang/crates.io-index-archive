@@ -1,0 +1,1 @@
+{"name":"see-through","vers":"0.0.1","deps":[{"name":"see_derive","req":"^0.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce805f0ff11f54a7ae30da29c465c2755c97d4e937ae90031cd5f3c8d2150843","features":{"default":[]},"features2":{"macros":["dep:see_derive"]},"yanked":false,"v":2}
