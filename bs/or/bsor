@@ -1,1 +1,1 @@
-{"name":"bsor","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c2c2ee1e54358fe14e4398f8d1d2c2bedb029816f363ceea0d8da6665bd663f1","features":{},"yanked":false}
+{"name":"bsor","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c2c2ee1e54358fe14e4398f8d1d2c2bedb029816f363ceea0d8da6665bd663f1","features":{},"yanked":true}
