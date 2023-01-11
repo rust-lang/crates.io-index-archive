@@ -1,0 +1,1 @@
+{"name":"tuple_length","vers":"0.1.1","deps":[{"name":"tuple_macro","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a3568be03b81f53646ba6b1abe7bf5be491b655f75f2cec3ef92a85dd48c67e","features":{"16":["tuple_macro/16"],"32":["tuple_macro/32"],"64":["tuple_macro/64"]},"yanked":false}
