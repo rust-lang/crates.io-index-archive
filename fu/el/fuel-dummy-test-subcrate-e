@@ -1,0 +1,1 @@
+{"name":"fuel-dummy-test-subcrate-e","vers":"0.2.20","deps":[{"name":"fuel-dummy-test-subcrate-d","req":"^0.2.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11492f7d7b3ae895853d4c7f97983a0067c098e72bff10c1105ade3eeca5ea72","features":{},"yanked":false}
