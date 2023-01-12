@@ -1,0 +1,1 @@
+{"name":"SomeWithImage","vers":"0.1.0","deps":[{"name":"image","req":"^0.24.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38b4cf81212636012a9a73f903a0dfd1ccba339846ac05d1820a10256a58d056","features":{},"yanked":false}
