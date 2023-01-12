@@ -4,5 +4,5 @@
 {"name":"sbrain","vers":"0.3.2","deps":[],"cksum":"b911c988d26f7bdf6c84b3debad9ab8fbfd84d092d75ba3fba5f01b54d384864","features":{},"yanked":false}
 {"name":"sbrain","vers":"0.4.1","deps":[],"cksum":"3bcfc0493d14439e8836fa7e5ae5f8ab0c16eb2cbfdd9a3305b33ecf5f88d707","features":{},"yanked":false}
 {"name":"sbrain","vers":"0.4.2","deps":[],"cksum":"a79320af22258344bbe54beed3becf10647f0e63a65271cb650a0e40e36f51eb","features":{},"yanked":false}
-{"name":"sbrain","vers":"0.5.0","deps":[],"cksum":"f1e03af8095032466c0f07fb130d8bd33598bd3b0e68c6691d168495609cb718","features":{},"yanked":false,"links":null}
-{"name":"sbrain","vers":"0.99.0","deps":[],"cksum":"4267c9a4cb3597fd2e49d7bbc60c2ea46b0568847a38f337849c1472ee4664c9","features":{},"yanked":false,"links":null}
+{"name":"sbrain","vers":"0.5.0","deps":[],"cksum":"f1e03af8095032466c0f07fb130d8bd33598bd3b0e68c6691d168495609cb718","features":{},"yanked":false}
+{"name":"sbrain","vers":"0.99.0","deps":[],"cksum":"4267c9a4cb3597fd2e49d7bbc60c2ea46b0568847a38f337849c1472ee4664c9","features":{},"yanked":false}

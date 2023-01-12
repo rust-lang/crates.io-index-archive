@@ -1,8 +1,8 @@
-{"name":"inane","vers":"1.0.0","deps":[],"cksum":"4358476b7264ab6ccc54c6be91455eb53aad4086ca085013698d5d2a14a387b8","features":{},"yanked":false,"links":null}
-{"name":"inane","vers":"1.0.5","deps":[],"cksum":"1048e6999a31dc8272534888b0f0672d1e7579c4aa58e52086965fb3b1f180f1","features":{},"yanked":false,"links":null}
-{"name":"inane","vers":"1.0.6","deps":[],"cksum":"7207ab1a6e1bdf94de30fc58dcca7c6047e4b17162a50e8c7565a8455ed2e8d6","features":{},"yanked":false,"links":null}
-{"name":"inane","vers":"1.0.8","deps":[],"cksum":"66e8e0137e3c88bf4b6b859c8b20eafec9a0eff6f200bcc226d0af901d0759fd","features":{},"yanked":false,"links":null}
-{"name":"inane","vers":"1.0.9","deps":[],"cksum":"5d77f010b6aed72e5358752257be4200cf67b7b326775923c6a86a26dbce4f94","features":{},"yanked":false,"links":null}
-{"name":"inane","vers":"1.0.10","deps":[],"cksum":"a676263e00976b18d2d28337e9226a504c969bdad09687222742882f7b700312","features":{},"yanked":false,"links":null}
-{"name":"inane","vers":"1.0.11","deps":[],"cksum":"98c6f6dd9097d565f707c6ab635ccdff286f5eb77e4cc4619b388dac72e16f95","features":{},"yanked":false,"links":null}
-{"name":"inane","vers":"1.0.12","deps":[],"cksum":"8f15e3901ae0dbd9c2d4e4e5989593300f7b88a23670bedd16127c17842571a2","features":{},"yanked":false,"links":null}
+{"name":"inane","vers":"1.0.0","deps":[],"cksum":"4358476b7264ab6ccc54c6be91455eb53aad4086ca085013698d5d2a14a387b8","features":{},"yanked":false}
+{"name":"inane","vers":"1.0.5","deps":[],"cksum":"1048e6999a31dc8272534888b0f0672d1e7579c4aa58e52086965fb3b1f180f1","features":{},"yanked":false}
+{"name":"inane","vers":"1.0.6","deps":[],"cksum":"7207ab1a6e1bdf94de30fc58dcca7c6047e4b17162a50e8c7565a8455ed2e8d6","features":{},"yanked":false}
+{"name":"inane","vers":"1.0.8","deps":[],"cksum":"66e8e0137e3c88bf4b6b859c8b20eafec9a0eff6f200bcc226d0af901d0759fd","features":{},"yanked":false}
+{"name":"inane","vers":"1.0.9","deps":[],"cksum":"5d77f010b6aed72e5358752257be4200cf67b7b326775923c6a86a26dbce4f94","features":{},"yanked":false}
+{"name":"inane","vers":"1.0.10","deps":[],"cksum":"a676263e00976b18d2d28337e9226a504c969bdad09687222742882f7b700312","features":{},"yanked":false}
+{"name":"inane","vers":"1.0.11","deps":[],"cksum":"98c6f6dd9097d565f707c6ab635ccdff286f5eb77e4cc4619b388dac72e16f95","features":{},"yanked":false}
+{"name":"inane","vers":"1.0.12","deps":[],"cksum":"8f15e3901ae0dbd9c2d4e4e5989593300f7b88a23670bedd16127c17842571a2","features":{},"yanked":false}

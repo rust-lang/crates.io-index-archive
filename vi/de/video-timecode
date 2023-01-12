@@ -9,6 +9,6 @@
 {"name":"video-timecode","vers":"0.5.0","deps":[],"cksum":"c127e92cd31a3bef8ba92cb316cf6e06db313f438c295a78c07a67f464150a8a","features":{},"yanked":false}
 {"name":"video-timecode","vers":"0.5.1","deps":[],"cksum":"ceeb0964dc3ad7239b8296dd5f325ff2664034b241baba278badbfa7aff1c971","features":{},"yanked":false}
 {"name":"video-timecode","vers":"0.5.2","deps":[],"cksum":"e0501bb9ea773490f02611ebb98ae3b14ac2f61016bd3213fd5dcfb6d114a3b2","features":{},"yanked":false}
-{"name":"video-timecode","vers":"0.5.3","deps":[],"cksum":"08cbc57a1034ace5c64599621afca6493ca86a5325cf5694b8ea336c43d7a10e","features":{},"yanked":false,"links":null}
-{"name":"video-timecode","vers":"0.6.0","deps":[],"cksum":"3f5050aab243c9b016d1f0a9ffaa1bab0d27e014ec9600217a1269e4a94e9861","features":{},"yanked":false,"links":null}
-{"name":"video-timecode","vers":"0.6.1","deps":[],"cksum":"ee51943d711d36e0605c75f09ce323c6ac5b5580148b08d23933dc70af19ff45","features":{},"yanked":false,"links":null}
+{"name":"video-timecode","vers":"0.5.3","deps":[],"cksum":"08cbc57a1034ace5c64599621afca6493ca86a5325cf5694b8ea336c43d7a10e","features":{},"yanked":false}
+{"name":"video-timecode","vers":"0.6.0","deps":[],"cksum":"3f5050aab243c9b016d1f0a9ffaa1bab0d27e014ec9600217a1269e4a94e9861","features":{},"yanked":false}
+{"name":"video-timecode","vers":"0.6.1","deps":[],"cksum":"ee51943d711d36e0605c75f09ce323c6ac5b5580148b08d23933dc70af19ff45","features":{},"yanked":false}

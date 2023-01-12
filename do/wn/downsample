@@ -1,1 +1,1 @@
-{"name":"downsample","vers":"0.0.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ecf02e8b658493a71c4f343b960c42bd305f95399ecf14b731eb9f0ccdabebe0","features":{},"yanked":false,"links":null}
+{"name":"downsample","vers":"0.0.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ecf02e8b658493a71c4f343b960c42bd305f95399ecf14b731eb9f0ccdabebe0","features":{},"yanked":false}

@@ -4,4 +4,4 @@
 {"name":"crockford","vers":"1.0.0-beta.3","deps":[],"cksum":"2a606f191737c5e68dc7c886c9ceb380dbd94394fe7bed2f2bc4d9191fd992cd","features":{},"yanked":false}
 {"name":"crockford","vers":"1.0.0","deps":[],"cksum":"bcc792cd43274e6f6e0e731d7971604d62b31c5d4ffe5c35dbb26cb3fb270846","features":{},"yanked":false}
 {"name":"crockford","vers":"1.0.1","deps":[],"cksum":"479393b2138a406a7f33473708988550bee3fd1effbb6a8c997a18ef421cfdec","features":{},"yanked":false}
-{"name":"crockford","vers":"1.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2a9eed012e40bdf938b79d21ee0d59f24e8d75d80f172528385b9755c4202f57","features":{},"yanked":false,"links":null}
+{"name":"crockford","vers":"1.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2a9eed012e40bdf938b79d21ee0d59f24e8d75d80f172528385b9755c4202f57","features":{},"yanked":false}

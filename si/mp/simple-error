@@ -9,10 +9,10 @@
 {"name":"simple-error","vers":"0.1.8","deps":[],"cksum":"240f6492b4a4c0105151b0607ff6b100dfc0e56bec9927002b2124a1b33c9de4","features":{},"yanked":false}
 {"name":"simple-error","vers":"0.1.9","deps":[],"cksum":"b6792953acb40b3c09eefd063b9944fec3126ff6611cba9bfe2b657eecb05a67","features":{},"yanked":false}
 {"name":"simple-error","vers":"0.1.10","deps":[],"cksum":"e9300f5f78b6753353c2a5b3025149e2fbe3cd182f997c97b626e978d432356c","features":{},"yanked":false}
-{"name":"simple-error","vers":"0.1.11","deps":[],"cksum":"7779d1977a9e1e50bebb430a57114acc64bc4c40d6d8efb3e57893531d5fd895","features":{},"yanked":false,"links":null}
-{"name":"simple-error","vers":"0.1.12","deps":[],"cksum":"01c1c2ededd95f93b1d65e7f8b5b17670e926bf9cbb55f8b91b26b0bd40d3259","features":{},"yanked":false,"links":null}
-{"name":"simple-error","vers":"0.1.13","deps":[],"cksum":"c00e871264295428089fb278c4b225be3ca92c227c918857f2e562bac973257b","features":{},"yanked":true,"links":null}
-{"name":"simple-error","vers":"0.2.0","deps":[],"cksum":"30dec844a00c634b23676fa33f9833610148e13fbd679ec5ecce11d25fb1d213","features":{},"yanked":false,"links":null}
-{"name":"simple-error","vers":"0.2.1","deps":[],"cksum":"339844c9af2d844b9230bb28e8f819a7790cbf20a29b5cbd2b59916a03a1ef51","features":{},"yanked":false,"links":null}
-{"name":"simple-error","vers":"0.2.2","deps":[],"cksum":"634bf7bc1315698154cb1b45c1db17fcd2e5ce41f925b7b4063e971536714bf1","features":{},"yanked":false,"links":null}
-{"name":"simple-error","vers":"0.2.3","deps":[],"cksum":"cc47a29ce97772ca5c927f75bac34866b16d64e07f330c3248e2d7226623901b","features":{},"yanked":false,"links":null}
+{"name":"simple-error","vers":"0.1.11","deps":[],"cksum":"7779d1977a9e1e50bebb430a57114acc64bc4c40d6d8efb3e57893531d5fd895","features":{},"yanked":false}
+{"name":"simple-error","vers":"0.1.12","deps":[],"cksum":"01c1c2ededd95f93b1d65e7f8b5b17670e926bf9cbb55f8b91b26b0bd40d3259","features":{},"yanked":false}
+{"name":"simple-error","vers":"0.1.13","deps":[],"cksum":"c00e871264295428089fb278c4b225be3ca92c227c918857f2e562bac973257b","features":{},"yanked":true}
+{"name":"simple-error","vers":"0.2.0","deps":[],"cksum":"30dec844a00c634b23676fa33f9833610148e13fbd679ec5ecce11d25fb1d213","features":{},"yanked":false}
+{"name":"simple-error","vers":"0.2.1","deps":[],"cksum":"339844c9af2d844b9230bb28e8f819a7790cbf20a29b5cbd2b59916a03a1ef51","features":{},"yanked":false}
+{"name":"simple-error","vers":"0.2.2","deps":[],"cksum":"634bf7bc1315698154cb1b45c1db17fcd2e5ce41f925b7b4063e971536714bf1","features":{},"yanked":false}
+{"name":"simple-error","vers":"0.2.3","deps":[],"cksum":"cc47a29ce97772ca5c927f75bac34866b16d64e07f330c3248e2d7226623901b","features":{},"yanked":false}

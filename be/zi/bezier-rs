@@ -1,1 +1,1 @@
-{"name":"bezier-rs","vers":"0.1.0","deps":[{"name":"glam","req":"^0.22","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4836612ec60fcf1fd769c9b4f6fe2c6247726c4a76e35256d825fcdf24c45ad0","features":{},"yanked":false,"links":null}
+{"name":"bezier-rs","vers":"0.1.0","deps":[{"name":"glam","req":"^0.22","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4836612ec60fcf1fd769c9b4f6fe2c6247726c4a76e35256d825fcdf24c45ad0","features":{},"yanked":false}

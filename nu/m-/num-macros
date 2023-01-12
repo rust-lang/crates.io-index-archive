@@ -1,7 +1,7 @@
 {"name":"num-macros","vers":"0.1.22","deps":[],"cksum":"7f852cc032310cf38899da76d1150e2f007da4555ed34e6297b7982ba13ec21c","features":{},"yanked":false}
 {"name":"num-macros","vers":"0.1.23","deps":[],"cksum":"96ddf44bfde617046ee85a8e998899ea407bdd58abdd89e52d8e7e6cdf5d3412","features":{},"yanked":false}
 {"name":"num-macros","vers":"0.1.24","deps":[],"cksum":"3b66e78f15d67c90061b47e0fd9dcfb475cf4d80409a261d5af4b6f2a2f17dbc","features":{},"yanked":false}
-{"name":"num-macros","vers":"0.1.25","deps":[{"name":"num","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d78dc8873c76fb9905b083be762747f245b342d22bad969a06ed8d305868b705","features":{},"yanked":false}
+{"name":"num-macros","vers":"0.1.25","deps":[{"name":"num","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d78dc8873c76fb9905b083be762747f245b342d22bad969a06ed8d305868b705","features":{},"yanked":false}
 {"name":"num-macros","vers":"0.1.26","deps":[{"name":"num","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a56ac9d4498d70799a3fd5c77ab7ed2ebdf47f21f42586b638948700cb0c1997","features":{},"yanked":false}
 {"name":"num-macros","vers":"0.1.27","deps":[{"name":"num","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"152ca44b2042f88fcefa89300117f548c1bd6b2eced5d62eaf8d6b52f8e8b423","features":{},"yanked":false}
 {"name":"num-macros","vers":"0.1.28","deps":[{"name":"num","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"155790e082bdc3ad5eabda21c5a5e8bac690273e1d39df0a86074f9920b5f917","features":{},"yanked":false}

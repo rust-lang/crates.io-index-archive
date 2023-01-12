@@ -7,8 +7,8 @@
 {"name":"sc","vers":"0.2.0","deps":[],"cksum":"995936d3c1cc20df6723f1818dd9ffccc08ca99768bccd8f63e15a714653aba4","features":{},"yanked":false}
 {"name":"sc","vers":"0.2.1","deps":[],"cksum":"c10c4c9bfc088a568c51577054c6febc74afe229a039bd3d604001a6b8fb7f30","features":{},"yanked":false}
 {"name":"sc","vers":"0.2.2","deps":[],"cksum":"4ebbb026ba4a707c25caec2db5ef59ad8b41f7ad77cad06257e06229c891f376","features":{},"yanked":false}
-{"name":"sc","vers":"0.2.3","deps":[],"cksum":"176365c8253e381ad147774b6d9730a1b3fe2d7db498af521ed7d968674a55b3","features":{},"yanked":false,"links":null}
-{"name":"sc","vers":"0.2.4","deps":[],"cksum":"d6c362b5ec9cd8c12544e0ad4a610855204a0f127163d122e1d2f51f249d8404","features":{},"yanked":false,"links":null}
-{"name":"sc","vers":"0.2.5","deps":[],"cksum":"b61ce59196c76187e25a58b978ca88c3cae56d2a1c52dffe2d276726f842b597","features":{},"yanked":false,"links":null}
-{"name":"sc","vers":"0.2.6","deps":[],"cksum":"7502841977ed89ca99709ad39e29f026a2f2924fbd5377fed019ba90d9dc0f6b","features":{},"yanked":false,"links":null}
-{"name":"sc","vers":"0.2.7","deps":[],"cksum":"010e18bd3bfd1d45a7e666b236c78720df0d9a7698ebaa9c1c559961eb60a38b","features":{},"yanked":false,"links":null}
+{"name":"sc","vers":"0.2.3","deps":[],"cksum":"176365c8253e381ad147774b6d9730a1b3fe2d7db498af521ed7d968674a55b3","features":{},"yanked":false}
+{"name":"sc","vers":"0.2.4","deps":[],"cksum":"d6c362b5ec9cd8c12544e0ad4a610855204a0f127163d122e1d2f51f249d8404","features":{},"yanked":false}
+{"name":"sc","vers":"0.2.5","deps":[],"cksum":"b61ce59196c76187e25a58b978ca88c3cae56d2a1c52dffe2d276726f842b597","features":{},"yanked":false}
+{"name":"sc","vers":"0.2.6","deps":[],"cksum":"7502841977ed89ca99709ad39e29f026a2f2924fbd5377fed019ba90d9dc0f6b","features":{},"yanked":false}
+{"name":"sc","vers":"0.2.7","deps":[],"cksum":"010e18bd3bfd1d45a7e666b236c78720df0d9a7698ebaa9c1c559961eb60a38b","features":{},"yanked":false}

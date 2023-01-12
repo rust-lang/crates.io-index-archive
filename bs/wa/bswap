@@ -7,4 +7,4 @@
 {"name":"bswap","vers":"0.2.1","deps":[],"cksum":"b76ad55c0aff828cc7f6c46868e3154d98093df96f9cda4f46f3a9b6eae3961a","features":{},"yanked":false}
 {"name":"bswap","vers":"0.2.2","deps":[],"cksum":"521b4609d52cb75bc95d868d49dbd8ad20900d07fa6bb524d773b3c118beef03","features":{},"yanked":false}
 {"name":"bswap","vers":"0.4.0","deps":[],"cksum":"1adc2e63da20123aa621f16f382c51711af7b3577fe585afe0b8106231b48eea","features":{},"yanked":false}
-{"name":"bswap","vers":"1.0.0","deps":[],"cksum":"e3acc5ce9c60e68df21b877f13f908ef95c89f01cb6c656cf76ba95f10bc72f5","features":{},"yanked":false,"links":null}
+{"name":"bswap","vers":"1.0.0","deps":[],"cksum":"e3acc5ce9c60e68df21b877f13f908ef95c89f01cb6c656cf76ba95f10bc72f5","features":{},"yanked":false}

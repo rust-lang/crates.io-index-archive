@@ -6,4 +6,4 @@
 {"name":"bit_reverse","vers":"0.1.5","deps":[],"cksum":"5c2374c1c5bc3000cb14605cbea443ad2c1e0462a0cedf41286f860326d296de","features":{"default":["use_std"],"use_std":[]},"yanked":false}
 {"name":"bit_reverse","vers":"0.1.6","deps":[],"cksum":"96e8b45b8bb256b800d9c023179a51a53c262fd414bd7661d397ee45b42453fa","features":{"default":["use_std"],"use_std":[]},"yanked":false}
 {"name":"bit_reverse","vers":"0.1.7","deps":[],"cksum":"5e97e02db5a2899c0377f3d6031d5da8296ca2b47abef6ed699de51b9e40a28c","features":{"default":["use_std"],"use_std":[]},"yanked":false}
-{"name":"bit_reverse","vers":"0.1.8","deps":[],"cksum":"99528ca30abb9495c7e106bf7c3177b257c62040fc0f2909fe470b0f43097296","features":{"default":["use_std"],"use_std":[]},"yanked":false,"links":null}
+{"name":"bit_reverse","vers":"0.1.8","deps":[],"cksum":"99528ca30abb9495c7e106bf7c3177b257c62040fc0f2909fe470b0f43097296","features":{"default":["use_std"],"use_std":[]},"yanked":false}

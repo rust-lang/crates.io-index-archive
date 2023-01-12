@@ -4,5 +4,5 @@
 {"name":"gregor","vers":"0.2.2","deps":[],"cksum":"bfe6e2d2a738ceb2c075e2b59eb5a7b61ead8eb5a45877ffeddb2d71bdefb8aa","features":{"system_time":[]},"yanked":false}
 {"name":"gregor","vers":"0.3.0","deps":[],"cksum":"6f60d70ced77bf81a74eb6e404ff21916ddae3c549d955637e81a51875bad42f","features":{"system_time":[]},"yanked":false}
 {"name":"gregor","vers":"0.3.1","deps":[],"cksum":"dc13b8aef66bfc5605b2b8062160aa98300d0b88c24bb423f828a572e940d657","features":{"system_time":[]},"yanked":false}
-{"name":"gregor","vers":"0.3.2","deps":[],"cksum":"de4ee4a087922af7d55ecbcd41a95cc79b40844924bec1af547b75773d22397a","features":{"system_time":[]},"yanked":false,"links":null}
-{"name":"gregor","vers":"0.3.3","deps":[],"cksum":"cc7525eba1cc37cb8c4afc225bf4de0b472332740dab28adbfd9d9676bb24d3e","features":{"system_time":[]},"yanked":false,"links":null}
+{"name":"gregor","vers":"0.3.2","deps":[],"cksum":"de4ee4a087922af7d55ecbcd41a95cc79b40844924bec1af547b75773d22397a","features":{"system_time":[]},"yanked":false}
+{"name":"gregor","vers":"0.3.3","deps":[],"cksum":"cc7525eba1cc37cb8c4afc225bf4de0b472332740dab28adbfd9d9676bb24d3e","features":{"system_time":[]},"yanked":false}

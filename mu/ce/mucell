@@ -22,6 +22,6 @@
 {"name":"mucell","vers":"0.3.0","deps":[],"cksum":"5b8e051a12e7cbb972fe4d315f1b58878e13d1e968374923e332619147680a96","features":{"const_fn":[],"no_std":[]},"yanked":true}
 {"name":"mucell","vers":"0.3.1","deps":[],"cksum":"d00a70d8d3c3e56ce4f420f0482c4b085e19c217952fb0dc10464ca4cd476601","features":{"const_fn":[],"no_std":[]},"yanked":false}
 {"name":"mucell","vers":"0.3.2","deps":[],"cksum":"63b5b992c802a21020cc9fac38dc76b0a0339b2d2b31e4e7c3406aaf1d49ad83","features":{"const_fn":[],"no_std":[]},"yanked":false}
-{"name":"mucell","vers":"0.3.3","deps":[],"cksum":"9d562decfc3919717f9cb8505dad039bf2504f25c15f4f3bb0c8e5c77eb4a058","features":{"no_std":[],"const_fn":[]},"yanked":false}
+{"name":"mucell","vers":"0.3.3","deps":[],"cksum":"9d562decfc3919717f9cb8505dad039bf2504f25c15f4f3bb0c8e5c77eb4a058","features":{"const_fn":[],"no_std":[]},"yanked":false}
 {"name":"mucell","vers":"0.3.4","deps":[],"cksum":"8eb0e9de5416995c9f2b8d6c08c76195fcf8dafed7b1f5050745932685282897","features":{"const_fn":[],"no_std":[]},"yanked":false}
 {"name":"mucell","vers":"0.3.5","deps":[],"cksum":"6c9385b24a8dc7cf8c273d7b24156d50d5bad6945047b74c5f1c6d28c401e28b","features":{"const_fn":[],"no_std":[]},"yanked":false}

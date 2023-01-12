@@ -15,9 +15,9 @@
 {"name":"termbox-sys","vers":"0.2.2","deps":[],"cksum":"223ed0b143a044f11d219f6ad76d55022966f8369177df111f5c6ea6376fd068","features":{},"yanked":false}
 {"name":"termbox-sys","vers":"0.2.3","deps":[],"cksum":"07c600d3ca9a3f18dfd39f2bf19fec037a2e9c3725f106063a426409f49d1e73","features":{},"yanked":false}
 {"name":"termbox-sys","vers":"0.2.4","deps":[],"cksum":"01e9c0b3c13773cafcd013e4195614bd86dcdbe7f7f07f6ee038e47bfb8bebbe","features":{},"yanked":false}
-{"name":"termbox-sys","vers":"0.2.5","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3814e75514024b93f4081e36bddd7aaa41f401a70f72879c736914967115c75d","features":{},"yanked":false}
-{"name":"termbox-sys","vers":"0.2.6","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07c19ce74e59bc271bc5c9952e7be763fa5b99679f18937a1f248ed099c5affe","features":{},"yanked":false}
-{"name":"termbox-sys","vers":"0.2.7","deps":[{"name":"libc","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d70ebd8eeb5dfabde4ce7231c3344ba96b623d7667b332338358653eede810b9","features":{},"yanked":false}
+{"name":"termbox-sys","vers":"0.2.5","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3814e75514024b93f4081e36bddd7aaa41f401a70f72879c736914967115c75d","features":{},"yanked":false}
+{"name":"termbox-sys","vers":"0.2.6","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07c19ce74e59bc271bc5c9952e7be763fa5b99679f18937a1f248ed099c5affe","features":{},"yanked":false}
+{"name":"termbox-sys","vers":"0.2.7","deps":[{"name":"libc","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d70ebd8eeb5dfabde4ce7231c3344ba96b623d7667b332338358653eede810b9","features":{},"yanked":false}
 {"name":"termbox-sys","vers":"0.2.8","deps":[],"cksum":"29aa00ad68d9b07e55e2a264ae08173c8e4c520ff4ab7e093b0e0f64131c43f2","features":{},"yanked":false}
 {"name":"termbox-sys","vers":"0.2.9","deps":[],"cksum":"10d9d43ebd02bf98d71923b11cb20575aecb877b80793cba9b5e383144db7c36","features":{},"yanked":false}
 {"name":"termbox-sys","vers":"0.2.10","deps":[],"cksum":"e32daa27881ea4b2ef36e4972d6cdefb241c19ac48d318381b688d1a631b8760","features":{},"yanked":false}

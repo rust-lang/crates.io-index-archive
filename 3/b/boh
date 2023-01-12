@@ -1,1 +1,1 @@
-{"name":"boh","vers":"0.0.1","deps":[{"name":"wasmtime","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d78f9c6292d8b8d6f179bffbe8c6282571488db644d51e8eeba8d739c5864037","features":{},"yanked":false,"links":null}
+{"name":"boh","vers":"0.0.1","deps":[{"name":"wasmtime","req":"^3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d78f9c6292d8b8d6f179bffbe8c6282571488db644d51e8eeba8d739c5864037","features":{},"yanked":false}

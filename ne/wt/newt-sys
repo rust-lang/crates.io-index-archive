@@ -1,4 +1,4 @@
-{"name":"newt-sys","vers":"0.0.0","deps":[],"cksum":"6c38e5a77071b60cf5143a642fc0bae556baf5e18c029adea5166441f4b53397","features":{},"yanked":false,"links":null}
+{"name":"newt-sys","vers":"0.0.0","deps":[],"cksum":"6c38e5a77071b60cf5143a642fc0bae556baf5e18c029adea5166441f4b53397","features":{},"yanked":false}
 {"name":"newt-sys","vers":"0.1.0","deps":[{"name":"pkg-config","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7809fc2f3367eded2efe9d37ca5902edbcf286bb3c17f9ab6be613d4a857c5a2","features":{},"yanked":false,"links":"newt"}
 {"name":"newt-sys","vers":"0.1.1","deps":[{"name":"pkg-config","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"aaf80690e942f28e8d45d49ea4fa453d751568f627da5b20d1155ea1710fc802","features":{},"yanked":false,"links":"newt"}
 {"name":"newt-sys","vers":"0.1.2","deps":[{"name":"pkg-config","req":"^0.3.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1dde8a45314dab466c6a933425b8905eadcf01ac0cd24430a690de4719d46f33","features":{},"yanked":false,"links":"newt"}

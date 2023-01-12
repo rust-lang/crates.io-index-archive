@@ -6,9 +6,9 @@
 {"name":"quoted_printable","vers":"0.3.2","deps":[],"cksum":"d49fc198a4e3670b31dc9904c84540444a633d1c553f37d3e4693c45014c74f7","features":{},"yanked":false}
 {"name":"quoted_printable","vers":"0.3.3","deps":[],"cksum":"ec1a063e17beecae242623379d30100975588fb3d2a4bf1df8550d872268a89f","features":{},"yanked":false}
 {"name":"quoted_printable","vers":"0.4.0","deps":[],"cksum":"4126fa98c6d7b166e6a29a24ab96721d618759d803df6a8cb35d6140da475b5a","features":{},"yanked":false}
-{"name":"quoted_printable","vers":"0.4.1","deps":[],"cksum":"86cedf331228892e747bb85beb130b6bb23fc628c40dde9ea01eb6becea3c798","features":{},"yanked":false,"links":null}
-{"name":"quoted_printable","vers":"0.4.2","deps":[],"cksum":"47b080c5db639b292ac79cbd34be0cfc5d36694768d8341109634d90b86930e2","features":{},"yanked":false,"links":null}
-{"name":"quoted_printable","vers":"0.4.3","deps":[],"cksum":"1238256b09923649ec89b08104c4dfe9f6cb2fea734a5db5384e44916d59e9c5","features":{},"yanked":false,"links":null}
-{"name":"quoted_printable","vers":"0.4.4","deps":[],"cksum":"86546b8e1521f891d44da8a4580032c1bea375b7725023f8b2443b7878962420","features":{"std":[],"default":["std"]},"yanked":true,"links":null}
-{"name":"quoted_printable","vers":"0.4.5","deps":[],"cksum":"3fee2dce59f7a43418e3382c766554c614e06a552d53a8f07ef499ea4b332c0f","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
-{"name":"quoted_printable","vers":"0.4.6","deps":[],"cksum":"20f14e071918cbeefc5edc986a7aa92c425dae244e003a35e1cdddb5ca39b5cb","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
+{"name":"quoted_printable","vers":"0.4.1","deps":[],"cksum":"86cedf331228892e747bb85beb130b6bb23fc628c40dde9ea01eb6becea3c798","features":{},"yanked":false}
+{"name":"quoted_printable","vers":"0.4.2","deps":[],"cksum":"47b080c5db639b292ac79cbd34be0cfc5d36694768d8341109634d90b86930e2","features":{},"yanked":false}
+{"name":"quoted_printable","vers":"0.4.3","deps":[],"cksum":"1238256b09923649ec89b08104c4dfe9f6cb2fea734a5db5384e44916d59e9c5","features":{},"yanked":false}
+{"name":"quoted_printable","vers":"0.4.4","deps":[],"cksum":"86546b8e1521f891d44da8a4580032c1bea375b7725023f8b2443b7878962420","features":{"default":["std"],"std":[]},"yanked":true}
+{"name":"quoted_printable","vers":"0.4.5","deps":[],"cksum":"3fee2dce59f7a43418e3382c766554c614e06a552d53a8f07ef499ea4b332c0f","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"quoted_printable","vers":"0.4.6","deps":[],"cksum":"20f14e071918cbeefc5edc986a7aa92c425dae244e003a35e1cdddb5ca39b5cb","features":{"default":["std"],"std":[]},"yanked":false}
