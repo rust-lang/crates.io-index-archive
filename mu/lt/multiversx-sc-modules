@@ -1,0 +1,1 @@
+{"name":"multiversx-sc-modules","vers":"0.39.0","deps":[{"name":"multiversx-sc","req":"^0.39.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bb2c8aedcf36cbd4d779d8561e93284d5e221b7c82d5c778194d21953f7a51b4","features":{"alloc":["multiversx-sc/alloc"]},"yanked":false}
