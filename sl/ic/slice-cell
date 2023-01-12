@@ -1,0 +1,3 @@
+{"name":"slice-cell","vers":"0.0.1","deps":[],"cksum":"a4f009fce80ad3dbf771603bd20561b9d4f6271db817dd4ef245e603b595b8de","features":{"alloc":[],"assume_cell_layout":[],"default":["std","assume_cell_layout","rc"],"rc":["alloc"],"std":["alloc"]},"yanked":false}
+{"name":"slice-cell","vers":"0.0.2","deps":[],"cksum":"b418f384db1be891865f60b398a73095ef1da45ba5a8b46591acc9fdaeb0df3b","features":{"alloc":[],"assume_cell_layout":[],"default":["std","assume_cell_layout","rc"],"rc":["alloc"],"std":["alloc"]},"yanked":false}
+{"name":"slice-cell","vers":"0.0.3","deps":[],"cksum":"b3a759cad43329a696e059e0ffdf0dad8db9eb2d8f34c7198e41333bb9c71d28","features":{"alloc":[],"assume_cell_layout":[],"default":["std","assume_cell_layout","rc"],"rc":["alloc"],"std":["alloc"]},"yanked":false}

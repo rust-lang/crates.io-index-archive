@@ -1,0 +1,2 @@
+{"name":"chobitlibs","vers":"0.3.1","deps":[{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"48cd734344db78ed26a16111374ecbdd6b96237ecc819e2c5b997973728c9b97","features":{},"yanked":false}
+{"name":"chobitlibs","vers":"0.3.2","deps":[{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"94e042c541def5dd6a4dd12e4d4611f13b80158eaa11cea7b52c1cb72eb77207","features":{},"yanked":false}

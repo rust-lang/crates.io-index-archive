@@ -1,0 +1,1 @@
+{"name":"rust_book_code","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00d5c8a1d52eeba333452356970bb8a731da3479973773c35fa5afad4c216b1e","features":{},"yanked":false}

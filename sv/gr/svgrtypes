@@ -1,0 +1,2 @@
+{"name":"svgrtypes","vers":"0.8.2","deps":[{"name":"siphasher","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3992a35ce04d9ebcbacdfe996d583c3ddab31ffb4f9ac965fcd2f906cc01eec3","features":{},"yanked":false}
+{"name":"svgrtypes","vers":"0.8.3","deps":[{"name":"siphasher","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b33af61cff282f8f6f9fa5ce7e6ed2b697c9dfe4916ac3d6db0a0e85ea056d02","features":{},"yanked":false}

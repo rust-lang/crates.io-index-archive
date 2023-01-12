@@ -1,0 +1,5 @@
+{"name":"rspy","vers":"0.1.0","deps":[],"cksum":"c57312694c892fa708eccd640232ecfa82a79e4151ba392de951cc3d84d9c9cd","features":{},"yanked":false}
+{"name":"rspy","vers":"0.1.1","deps":[],"cksum":"cc51231f8b235f7913bacb4e798e2dd1ee8fe9d0a28ceb23b156721106466930","features":{},"yanked":false}
+{"name":"rspy","vers":"0.1.2","deps":[{"name":"pretty_assertions","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6d62022f9ec9efe5363bca9dbbc0877075034b8491e9502e6475a7f89933b0dd","features":{},"yanked":false}
+{"name":"rspy","vers":"0.1.3","deps":[{"name":"pretty_assertions","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"59aa9b8bd7c353ad0a0e62f04f43f3a996ce58e0701c058cde6f3120e0b26a56","features":{},"yanked":false}
+{"name":"rspy","vers":"0.1.4","deps":[{"name":"pretty_assertions","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"37f62d699033e8691c51f2121972781957b880dec420ff6448325bb3cd22244e","features":{},"yanked":false}

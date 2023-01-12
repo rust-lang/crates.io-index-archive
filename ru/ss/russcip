@@ -1,0 +1,1 @@
+{"name":"russcip","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.60.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.0.73","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ff1a1c87b916e4c3a7bdb657448dbe218181da54fe81657478b56d1aa09d60e6","features":{},"yanked":false}

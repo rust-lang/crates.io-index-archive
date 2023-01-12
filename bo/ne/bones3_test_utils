@@ -1,0 +1,1 @@
+{"name":"bones3_test_utils","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.9.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3f6e9d9bc8996850faab8a49034f03d649f06e03202f44afca7d8695da96bea7","features":{"default":[]},"yanked":false}
