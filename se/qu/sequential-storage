@@ -1,1 +1,2 @@
 {"name":"sequential-storage","vers":"0.1.0","deps":[{"name":"embedded-storage","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f87969565865dd8bb793eecb6fa530246e11644640024ce7ea4af01fecca2158","features":{},"yanked":false}
+{"name":"sequential-storage","vers":"0.2.0","deps":[{"name":"embedded-storage","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2f174428b85a8f76775f22604a0d2c181985feb4311c66cad0fba01ee5857f2","features":{},"yanked":false}
