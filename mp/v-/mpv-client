@@ -8,3 +8,4 @@
 {"name":"mpv-client","vers":"0.3.1","deps":[],"cksum":"66a2f6c58ae565186568b854d44c66033aa15a04e5a80ed611d2a90d48b648b5","features":{},"yanked":true}
 {"name":"mpv-client","vers":"0.3.2","deps":[],"cksum":"a74266e9af492b5237fe41ae972f360b506a477ca5d2e085045a1495b2703fb0","features":{},"yanked":false}
 {"name":"mpv-client","vers":"0.3.3","deps":[],"cksum":"b79ade183d3eec357cde7251595cc747c8e5e5a41ea7085ecf7492254dd2a1fb","features":{},"yanked":false}
+{"name":"mpv-client","vers":"0.4.0","deps":[],"cksum":"20fb1ccc5c56ab57cd7f09072f82e1db9cf7038a57d2b50f85147661ee9545be","features":{},"yanked":false}
