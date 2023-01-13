@@ -1,2 +1,3 @@
 {"name":"nxml","vers":"0.1.0","deps":[{"name":"print_return_values","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc1f294055d1ceefb79a4da69a98525845c9977d6a2ec61ac8c3f38fd763389b","features":{},"yanked":false}
 {"name":"nxml","vers":"1.0.0","deps":[],"cksum":"f09e066efcbdd5940b0f57f5d44a4ab0ed70079e97ee766119781f016aaadd88","features":{},"yanked":false}
+{"name":"nxml","vers":"1.0.1","deps":[],"cksum":"765802766a8475e28295f215520bfcf98f7d409595e8d9c456d51a1fd66e0dce","features":{},"yanked":false}
