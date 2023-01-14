@@ -1,0 +1,1 @@
+{"name":"rustsynth","vers":"0.1.0","deps":[{"name":"rustsynth-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8efed7f14802e6f4df23d8ead7540d572af7581ae7a23033ec7f6e3e59029d40","features":{},"yanked":false}
