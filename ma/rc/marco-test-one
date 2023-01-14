@@ -5,3 +5,4 @@
 {"name":"marco-test-one","vers":"0.1.4","deps":[],"cksum":"77407710a715c52ffe673a0fa084f16cc7f533be57efdc41efeb2a7816984c2a","features":{},"yanked":false}
 {"name":"marco-test-one","vers":"0.1.5","deps":[],"cksum":"cf29f2326cb7788c3b134959252a63b81a7ac5506bd7cf060dde1838169516ee","features":{},"yanked":false}
 {"name":"marco-test-one","vers":"0.1.6","deps":[{"name":"serde","req":"^1.0.150","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9234950bd83fc94f7e51275812a605d2ca82eec83a2a69edf09766556e2ac403","features":{},"yanked":false}
+{"name":"marco-test-one","vers":"0.1.7","deps":[{"name":"serde","req":"^1.0.150","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0bb07cef232946ba3cbbbac7c41876672ae4ea6b14d934d2cf16b76abf8a1291","features":{},"yanked":false}
