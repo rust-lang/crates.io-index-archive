@@ -1,0 +1,1 @@
+{"name":"portable-atomic-util","vers":"0.1.0","deps":[{"name":"portable-atomic","req":"^1.0.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c5bb03eac373374466eb3d0e167e1abe02f34cb9c3e6d16f751c89bed5c0ddbc","features":{"alloc":[],"default":[],"std":["alloc"]},"yanked":false}
