@@ -1,0 +1,1 @@
+{"name":"fltk-extras","vers":"0.1.0","deps":[{"name":"fltk","req":"^1.3.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60013988ea4aaff6fd1001b2cb66008fbfa89610fce739c3cc820ef37dc66bbb","features":{},"yanked":false}
