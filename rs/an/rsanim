@@ -1,1 +1,2 @@
 {"name":"rsanim","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b3b3a79920e90530a92fa808159a2225c4c40293b1a389c1f3005f4df84d5059","features":{},"yanked":false}
+{"name":"rsanim","vers":"0.2.0","deps":[{"name":"bevy","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e34e66d2a5c43ddf3f0e1f91d86bf9dd2c54c9a3e75b6e8bae8dda68d3a67075","features":{},"yanked":false}
