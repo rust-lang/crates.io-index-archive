@@ -10,3 +10,4 @@
 {"name":"sql-parse","vers":"0.8.0","deps":[],"cksum":"741682811f723ed69fd5640c56a4aa91e2dea768c3acf899da7155d64fa27086","features":{},"yanked":false}
 {"name":"sql-parse","vers":"0.9.0","deps":[],"cksum":"1e716e5e97ae04d202d332fb54fa24c6aba6101002d55deff5601e08e190f77c","features":{},"yanked":false}
 {"name":"sql-parse","vers":"0.10.0","deps":[],"cksum":"fca84979eae83d933ebf66115264620600a0b73d71d85140e24471efe0a01493","features":{},"yanked":false}
+{"name":"sql-parse","vers":"0.10.1","deps":[],"cksum":"3be922f0c88c9d057853923ae073cb7b0d87f499f2c6d4e567d5b9479b2368bf","features":{},"yanked":false}
