@@ -1,2 +1,3 @@
 {"name":"wasmi_arena","vers":"0.1.0","deps":[],"cksum":"a1ea379cbb0b41f3a9f0bf7b47036d036aae7f43383d8cc487d4deccf40dee0a","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"wasmi_arena","vers":"0.2.0","deps":[],"cksum":"79428274e80ba3ff99c7c675f10973409dc639b07cc2fcc71e114b8d3a414f58","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"wasmi_arena","vers":"0.3.0","deps":[],"cksum":"cf5581c09dbb8d5c8b0b219c840db487d0ebc2decff86ab0f658bf7f598d0efc","features":{"default":["std"],"std":[]},"yanked":false}
