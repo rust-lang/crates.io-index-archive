@@ -1,1 +1,2 @@
 {"name":"myfind","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0.32","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a4585be02b21a744dc86c3c27af70ea2d9abdebd6215b811315f8a625270168","features":{},"yanked":false}
+{"name":"myfind","vers":"0.1.1","deps":[{"name":"clap","req":"^4.0.32","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47e86ac040253a43595eb972398e548896904ef92e101c4e36dfe193cd0802a9","features":{},"yanked":false}
