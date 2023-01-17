@@ -6,3 +6,4 @@
 {"name":"arpfloat","vers":"0.1.5","deps":[],"cksum":"ad87f9288b6aea7847aa78bf1c27682c09969a598cb27b5c2f0460c5b7fa37a3","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"arpfloat","vers":"0.1.6","deps":[],"cksum":"931c69aca8ac8e06163442bc47fb0201c8dab3837fcf758f6fa2b25147622250","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"arpfloat","vers":"0.1.7","deps":[],"cksum":"5825cb83fc7be064a4dd46faf1642dd1ec9ebe37180563b558804a991f69ff2f","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"arpfloat","vers":"0.1.8","deps":[],"cksum":"dad3efaf9f71917ad025408bdf406e588b6b329c2764002f8996b1e5c8cd3c52","features":{"default":["std"],"std":[]},"yanked":false}
