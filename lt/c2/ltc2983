@@ -1,0 +1,1 @@
+{"name":"ltc2983","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"=1.0.0-alpha.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"564b47f3c62e5db984aabeaf2a8700c13e353ce999dc62720f1c79c8eebef9e4","features":{},"yanked":false}
