@@ -44,3 +44,4 @@
 {"name":"prop","vers":"0.39.0","deps":[],"cksum":"770106f045a0bf213fba4e3a0a477d5e7ab8fdd5a4d9c888bacd35e44800b397","features":{"avatar_extensions":[],"default":[],"quantify":[]},"yanked":false}
 {"name":"prop","vers":"0.40.0","deps":[],"cksum":"6cb2ab2538f54635d1cea247fa71ed81aa4be6fcb87fa3647f13fc36f305dab3","features":{"avatar_extensions":[],"default":[],"quantify":[]},"yanked":false}
 {"name":"prop","vers":"0.41.0","deps":[],"cksum":"78ea866247c2e426341c5b4d1060df2c6b05864e71dc0cb5be694f7e9e0085c0","features":{"avatar_extensions":[],"default":[],"quantify":[]},"yanked":false}
+{"name":"prop","vers":"0.42.0","deps":[],"cksum":"5510db6620e2b0e1710d3bcfee3f2f34082aa9bf3fb9a1a9f7ec589da8617e8c","features":{"avatar_extensions":[],"default":[],"quantify":[]},"yanked":false}
