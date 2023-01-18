@@ -1,0 +1,1 @@
+{"name":"sparql-smith","vers":"0.1.0-alpha.1","deps":[{"name":"arbitrary","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e237593e76f58597d22b83d326595e02cf19799a02c4801a0651619a55fd7815","features":{"default":[],"sep-0006":[]},"yanked":false}
