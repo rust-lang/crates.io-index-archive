@@ -1,1 +1,2 @@
 {"name":"beetle_bits","vers":"0.1.0","deps":[],"cksum":"650f421715f4acf7c2ed995fa99b686bca58d53a756e34131c98c98cddcb8cb4","features":{},"yanked":false}
+{"name":"beetle_bits","vers":"0.2.0","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b3be0d257411fa961ad000127ba297839e80dcf77ac2ef1760e50ac11d365a72","features":{},"yanked":false}
