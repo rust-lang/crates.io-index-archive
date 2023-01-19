@@ -3,6 +3,6 @@
 {"name":"rtml","vers":"0.2.1","deps":[],"cksum":"48aa1ffbd447397228b5335a796a0790f62dfb1a247ec6f8b6c3322dc90ee72f","features":{},"yanked":false}
 {"name":"rtml","vers":"0.3.0","deps":[],"cksum":"b5e19746aa81770f601e2e40bcceef60501cccb1911e7414f9c8cc9b9057ca72","features":{},"yanked":true}
 {"name":"rtml","vers":"0.3.1","deps":[],"cksum":"6bcbb828e789a91ce1e19fdaddde85b1420159054bde765e433e6b9c45213f6a","features":{},"yanked":true}
-{"name":"rtml","vers":"0.3.2","deps":[],"cksum":"273e619e708662373a316da3879c68d839b53986874e1a70455b629509df5d94","features":{},"yanked":false}
+{"name":"rtml","vers":"0.3.2","deps":[],"cksum":"273e619e708662373a316da3879c68d839b53986874e1a70455b629509df5d94","features":{},"yanked":true}
 {"name":"rtml","vers":"0.4.0","deps":[],"cksum":"8bf55c46c9be40c29060e5d43a750b94738c2f9dd983f005d13f40c7834ecbf6","features":{},"yanked":false}
 {"name":"rtml","vers":"0.5.0","deps":[],"cksum":"e8ab4a04678d3b5ce9e6b4da2e94b76fafb099ef77a129ef2dacdc1e37a792a8","features":{},"yanked":false}
