@@ -1,1 +1,2 @@
 {"name":"onefetch-ascii","vers":"2.15.0","deps":[{"name":"owo-colors","req":"^3.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ec5e2a208d0d30c7e0731b4526744100bc9d21fb2cdcd844ca9625a6ac7cab1","features":{},"yanked":false}
+{"name":"onefetch-ascii","vers":"2.15.1","deps":[{"name":"owo-colors","req":"^3.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"121f8ef68720b4ca1c92f8a64c7d714a37f27469c95ddc9b42f19c798a01e994","features":{},"yanked":false}
