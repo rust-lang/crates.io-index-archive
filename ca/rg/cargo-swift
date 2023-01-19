@@ -1,0 +1,1 @@
+{"name":"cargo-swift","vers":"0.0.0","deps":[{"name":"clap","req":"^4.1.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c867beda080c596c44e7ae27735b34866c1402e7a23877f2a9f1252b06775d1b","features":{},"yanked":false}
