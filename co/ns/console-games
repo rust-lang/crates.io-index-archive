@@ -1,1 +1,2 @@
 {"name":"console-games","vers":"0.1.0","deps":[{"name":"eff-wordlist","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54532e1aa1ef4bd4fa3a1dd48c722670b3f0dd005734ce1315b926d1f5a0b44d","features":{},"yanked":false}
+{"name":"console-games","vers":"0.1.1","deps":[{"name":"eff-wordlist","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df48184e785a0466db0b72dd1007145ea5835a5f5cddcf0f839cc3453f9cfbc1","features":{},"yanked":false}
