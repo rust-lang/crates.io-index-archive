@@ -1,0 +1,1 @@
+{"name":"ceres-solver-src","vers":"0.1.0+ceres2.1.0-eigen3.4.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"15ce6e65279d59e81dc1a7867f12dd5bed2a35c202890dc5a73fdb958b620694","features":{},"yanked":false,"links":"ceres"}
