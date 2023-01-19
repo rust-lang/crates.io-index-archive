@@ -1,0 +1,1 @@
+{"name":"hyperdb-rs","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.11","features":["blocking","json"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d6f195297aedce8ec1a869ecb2b28a37c29496e5b604f960ae37c1c33f41179","features":{},"yanked":false}
