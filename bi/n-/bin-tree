@@ -6,3 +6,4 @@
 {"name":"bin-tree","vers":"0.5.0","deps":[],"cksum":"e3cd0f2df919d60ae29021af5dcc35210e64e69ccfe1d84922c4b275bec3f0ba","features":{},"yanked":false}
 {"name":"bin-tree","vers":"0.6.0","deps":[{"name":"uints","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d851d2811749959eaf1eda9a677ca6e56d9848b676110060459358ef5e572109","features":{},"yanked":false}
 {"name":"bin-tree","vers":"0.6.1","deps":[{"name":"uints","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4feda290651b87564a185c16c57e29d8f4d7a44fe20d6fbe8234f4cf66a18bc1","features":{},"yanked":false}
+{"name":"bin-tree","vers":"0.6.2","deps":[{"name":"uints","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8bb21500d77b3a9d38dd85393267e5421bf187492126b53963933ce12bc8c71f","features":{},"yanked":false}
