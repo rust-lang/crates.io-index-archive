@@ -1,0 +1,1 @@
+{"name":"serde_spanned","vers":"0.6.0","deps":[{"name":"serde","req":"^1.0.145","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c68e921cef53841b8925c2abadd27c9b891d9613bdc43d6b823062866df38e8","features":{},"yanked":false}
