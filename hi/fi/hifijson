@@ -1,0 +1,1 @@
+{"name":"hifijson","vers":"0.1.0","deps":[{"name":"memmap2","req":"^0.5.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"290be89b0965d834fdd094a87669b0b3557dc25b956b2f609f393f0a90161fb0","features":{"alloc":[],"default":["std","alloc"],"std":[]},"yanked":false}
