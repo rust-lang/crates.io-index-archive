@@ -1,0 +1,1 @@
+{"name":"emstr","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.38","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a16622b87b857f7478981d48365e2dc2bf9e70b9648e478a9929b5fffa408fe8","features":{"default":["std"],"std":["thiserror"]},"yanked":false}
