@@ -1,0 +1,1 @@
+{"name":"tongsuo-src","vers":"832.0.1+8.3.2","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2d73e9af787bcaf20a21a06575d9befaeb91e06a2b12e304c4079988ee27f53","features":{"camellia":[],"default":[],"force-engine":[],"idea":[],"seed":[],"weak-crypto":[]},"yanked":false}
