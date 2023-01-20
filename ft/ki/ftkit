@@ -4,3 +4,4 @@
 {"name":"ftkit","vers":"0.1.8","deps":[{"name":"getrandom","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78e2fb33fc952b29ee43080a9212ab5d19d6d25fc14565ba41a2e970ecc6c15a","features":{},"yanked":false}
 {"name":"ftkit","vers":"0.1.9","deps":[{"name":"getrandom","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09fc9a7ee3d3ffbc5034519d0ade1e7d8093e24797fd698596dd31260b2a0ddf","features":{},"yanked":false}
 {"name":"ftkit","vers":"0.1.10","deps":[],"cksum":"78dc0dde4d88448c6bfd38380d9e2ad9c00f7ae0f52f457a2dbb9e15d0d27ff9","features":{},"yanked":false}
+{"name":"ftkit","vers":"0.1.11","deps":[],"cksum":"d19b1cdce99029341d3c3ba28283650d81eb91a7f3a531ff961f679e9e79f936","features":{},"yanked":false}
