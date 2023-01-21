@@ -15,3 +15,4 @@
 {"name":"scilib","vers":"0.4.3","deps":[],"cksum":"70190cc0ff89484b29178934356ca82551d74720e942f1e24cda0c91b5361e58","features":{},"yanked":false}
 {"name":"scilib","vers":"0.4.4","deps":[],"cksum":"2c16277eb81a43c301261e1593f3ebd48565d7ae722915109454a8fd733b83ff","features":{},"yanked":false}
 {"name":"scilib","vers":"0.5.0","deps":[{"name":"num-complex","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec28607741e0a222f6dff6ae105b5e31dedee96818be7bb78416aaaa767e34d5","features":{},"yanked":false}
+{"name":"scilib","vers":"0.6.0","deps":[{"name":"num-complex","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5087b113083f4eeaf0a0b4b2ee01e2e639cad517efd6ab42436210678f87a005","features":{},"yanked":false}
