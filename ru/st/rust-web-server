@@ -12,3 +12,4 @@
 {"name":"rust-web-server","vers":"8.0.4","deps":[],"cksum":"b049070b04f00364a6bc82e3c13e337838344b6fb798b0a9bdbc9973d7235e30","features":{},"yanked":false}
 {"name":"rust-web-server","vers":"8.0.5","deps":[],"cksum":"bdf8dd53556ed5794a605a804c4c03472c7066a83f0f22ec8ea0edcaf5f69053","features":{},"yanked":false}
 {"name":"rust-web-server","vers":"8.0.6","deps":[],"cksum":"d0ff8fad7d5f3bfc0ae3b06c705649a368efb3371fb7ed947def13a7c351a863","features":{},"yanked":false}
+{"name":"rust-web-server","vers":"9.0.0","deps":[{"name":"file-ext","req":"^9.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1dc523f7ae3ad81f25d013029fa249a8b8fca5844bdcdb7fa260291eae9540e","features":{},"yanked":false}
