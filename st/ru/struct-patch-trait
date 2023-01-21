@@ -3,3 +3,4 @@
 {"name":"struct-patch-trait","vers":"0.1.2","deps":[],"cksum":"2c7cdcb14b66f5a689b521d916ef85150277bd33dbd7f629cb384efd76489db6","features":{},"yanked":false}
 {"name":"struct-patch-trait","vers":"0.1.3","deps":[],"cksum":"17e83205121079c1499a72eaca77d7985d15caac1fa9e47936beff0cc14994e6","features":{},"yanked":false}
 {"name":"struct-patch-trait","vers":"0.1.4","deps":[],"cksum":"4d2ef9dc917395bfc7aba1aff543e237ba96992785a4de0f11d2f24e1c7c24f8","features":{"status":[]},"yanked":false}
+{"name":"struct-patch-trait","vers":"0.1.5","deps":[],"cksum":"548a3712b1b0b52ddd94052fb96e62473a1b841c334db76deb358d8f979c38d2","features":{"status":[]},"yanked":false}
