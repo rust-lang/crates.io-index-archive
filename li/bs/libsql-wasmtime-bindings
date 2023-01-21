@@ -1,0 +1,1 @@
+{"name":"libsql-wasmtime-bindings","vers":"0.1.0","deps":[{"name":"wasmtime","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8478ca7544bb9af6db74b039b7ade536e4b6063db728d09480a38e456c541ac","features":{},"yanked":false}
