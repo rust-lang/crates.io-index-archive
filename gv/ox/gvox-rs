@@ -4,3 +4,4 @@
 {"name":"gvox-rs","vers":"0.1.3","deps":[],"cksum":"77d6a8339f75ca87cb93e57a0d4561a6c67701de45d657e7f6cced41ea7bafc0","features":{},"yanked":false}
 {"name":"gvox-rs","vers":"0.1.4","deps":[{"name":"cmake","req":"^0.1.49","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"18c000156589483f74520819279b2d9060412f9e48453c4f27829f507e9648fa","features":{},"yanked":false}
 {"name":"gvox-rs","vers":"0.1.5","deps":[{"name":"gvox-sys","req":"^0.0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3445a90bd537ddc5114b3b6ccc18cab5d7509a8e3aa5f5a8e4c65a19a96b7fbc","features":{},"yanked":false}
+{"name":"gvox-rs","vers":"0.1.6","deps":[{"name":"gvox-sys","req":"^0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"aa107482ab78aac04a9a1544d2a722d72c180a173ea3b165866fe4a65e4936f7","features":{},"yanked":false}
