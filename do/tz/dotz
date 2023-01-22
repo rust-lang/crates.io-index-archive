@@ -1,1 +1,2 @@
 {"name":"dotz","vers":"1.0.0","deps":[{"name":"assert_cli","req":"^0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8a4c46e84d700e9cd9ef6adb8621ec68c15f0587522cc7e6519135502f30fdc1","features":{},"yanked":false}
+{"name":"dotz","vers":"1.0.1","deps":[{"name":"assert_cli","req":"^0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"72c6deecb5f30c8504db6c26063bb43223f0c084a434d020e9a393614101986b","features":{},"yanked":false}
