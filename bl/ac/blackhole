@@ -21,3 +21,4 @@
 {"name":"blackhole","vers":"0.19.0","deps":[{"name":"libc","req":">=0.2, <0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"965ac390dc9143ec76a5e30de71045b923d7cec639ed3621c2fa6ffb8f868473","features":{},"yanked":false}
 {"name":"blackhole","vers":"0.19.1","deps":[{"name":"libc","req":">=0.2, <0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"799c3dd52041f867fbf724a3700a6f4bd233919deda96040bff1ec45d70c66a7","features":{},"yanked":false}
 {"name":"blackhole","vers":"0.20.0","deps":[],"cksum":"ead2ac40bf382a4423597aec4d29c693d9c75bc15158189c3dab424b2eb22194","features":{},"yanked":false}
+{"name":"blackhole","vers":"0.20.1","deps":[],"cksum":"136cf3fa42da91e7f4b87df4736b69200cd21c84f63482c3cbd56b1c8142b68d","features":{},"yanked":false}
