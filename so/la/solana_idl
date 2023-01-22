@@ -1,0 +1,1 @@
+{"name":"solana_idl","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0.130","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b99e7fbfdb635483093b72c8f253fce6cc14888a213fb7d91d9192041174481","features":{},"yanked":false}
