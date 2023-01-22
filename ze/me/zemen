@@ -1,1 +1,1 @@
-{"name":"zemen","vers":"0.1.0","deps":[{"name":"time","req":"^0.3.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9ce3f738c4c67e39b7ed3a2e7dca95e6e4c7b47fad828db8ae160cb4a603b22","features":{},"yanked":false}
+{"name":"zemen","vers":"0.1.0","deps":[{"name":"time","req":"^0.3.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9ce3f738c4c67e39b7ed3a2e7dca95e6e4c7b47fad828db8ae160cb4a603b22","features":{},"yanked":true}
