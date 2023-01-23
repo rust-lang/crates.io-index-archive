@@ -1,0 +1,1 @@
+{"name":"kosh","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2.137","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c519a92dfcb6e06618a10d8675b4e717641f0515385ef7401c27880f2633d9f","features":{},"yanked":false}
