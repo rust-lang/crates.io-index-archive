@@ -1,0 +1,1 @@
+{"name":"tongsuo-p832-src","vers":"832.0.1+8.3.2","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88f92d65f848c314a277b2aa732fa6589c9da4f82047d82044d19e740e12b170","features":{"camellia":[],"default":[],"force-engine":[],"idea":[],"seed":[],"weak-crypto":[]},"yanked":false}
