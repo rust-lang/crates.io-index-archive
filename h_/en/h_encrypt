@@ -1,2 +1,3 @@
 {"name":"h_encrypt","vers":"0.1.0","deps":[],"cksum":"9d13662612958a2b1742412bc48c87f13ceb1cfc383010c3dcf8ecbb1026c6a5","features":{},"yanked":false}
 {"name":"h_encrypt","vers":"0.1.1","deps":[],"cksum":"7431ca40c72a46e219aa71d2fef857163f4b9cac72386a618290926aa406d21a","features":{},"yanked":false}
+{"name":"h_encrypt","vers":"0.2.0","deps":[{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b34a654cd7933f8669d1e9e2dd578e824bae2e116fb74e4f90bc826136e744e","features":{},"yanked":false}
