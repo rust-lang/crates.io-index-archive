@@ -1,0 +1,1 @@
+{"name":"stylers","vers":"0.1.0","deps":[{"name":"proc-macro2","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a44bf4c86714ba12a298e828cba1760897993c8b3fc5f02ad2e108bcf9b8ac41","features":{},"yanked":false}
