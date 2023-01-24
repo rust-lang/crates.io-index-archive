@@ -1,1 +1,2 @@
 {"name":"windows_audio","vers":"0.1.0","deps":[{"name":"rodio","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b41dfe7ad9423f715d430f3af46622d9ea3294fc8e8877029de184773c2f08a","features":{},"yanked":false}
+{"name":"windows_audio","vers":"0.1.1","deps":[{"name":"rodio","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3fa20e95d46e8162b6a30cfe331a9513ba7ce4eb7a200a8c85ad4380f15c9b7","features":{},"yanked":false}
