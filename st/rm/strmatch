@@ -1,0 +1,1 @@
+{"name":"strmatch","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c6c7c6d7ed74f9e01de9c42bf1902db4a702c40a82876a43bd672f9ad673267","features":{},"yanked":false}
