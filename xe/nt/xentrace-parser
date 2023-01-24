@@ -35,3 +35,4 @@
 {"name":"xentrace-parser","vers":"0.10.3","deps":[],"cksum":"b40441b2bb42def81a26cfd3712532c92203d4adf9bceb4330d487918efa585f","features":{},"yanked":false}
 {"name":"xentrace-parser","vers":"0.10.4","deps":[],"cksum":"30728a5a15f9890de1233fcffbf0f4e44d147a25481989a6f52d029e2f8fce34","features":{},"yanked":false}
 {"name":"xentrace-parser","vers":"1.0.0","deps":[],"cksum":"914e3f9032076c7f851a76c5c3305dd1c7c89f7773c83b3587810e380b53057c","features":{},"yanked":false}
+{"name":"xentrace-parser","vers":"1.1.0","deps":[],"cksum":"23403c11ae7162320f436610263a0339ed6393e915eb3c310b7a518ed7dc8b65","features":{},"yanked":false}
