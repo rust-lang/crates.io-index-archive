@@ -1,1 +1,2 @@
 {"name":"libtz-sys","vers":"0.0.0","deps":[],"cksum":"97a91972ae0462da9d8677d89c83fe112124628965fb1a7cc77169493e2ffc76","features":{},"yanked":false}
+{"name":"libtz-sys","vers":"0.1.0","deps":[{"name":"version-sync","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"make-cmd","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b9e4a02b99a407f6df7dc70e4a262b7b578f8f0c372464037081ceeebb414b7e","features":{},"yanked":false,"links":"tz"}
