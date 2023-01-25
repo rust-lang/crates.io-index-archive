@@ -1,0 +1,1 @@
+{"name":"runtime-format","vers":"0.1.0","deps":[{"name":"tinyvec","req":"^1.6","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"160857c8b9e4e5449e42e4033f3976e46263d7e5ed1e004d475d06c6b8518838","features":{"default":["std"],"std":["tinyvec/alloc"]},"yanked":false}
