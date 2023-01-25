@@ -1,0 +1,1 @@
+{"name":"raw-window-handle-extensions","vers":"0.5.0","deps":[{"name":"raw-window-handle","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a521cc4f82dad2f64337421e344d72544611c13be1e3a20ecf21baeffd67888","features":{},"yanked":false}
