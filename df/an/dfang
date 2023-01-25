@@ -1,0 +1,1 @@
+{"name":"dfang","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"facd6dbb945241510ed00f2ea5d2d2107349998aee986ddfbeb94870adac0b3a","features":{},"yanked":false}
