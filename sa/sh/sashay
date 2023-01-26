@@ -6,3 +6,4 @@
 {"name":"sashay","vers":"0.3.1","deps":[{"name":"erasable","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"371a2c71510434f143ca2d5e231eb642e9b3979e7722cff98dd8ba4801dcfc7c","features":{},"yanked":false}
 {"name":"sashay","vers":"0.3.2","deps":[{"name":"erasable","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a79e0abf380aa45de28b25d75ff82d0657e70e3b7009c974489416d9ee3b6d2","features":{},"yanked":false}
 {"name":"sashay","vers":"0.4.0","deps":[],"cksum":"c44d0f1efe29201ca7de8d90a71cdc0387b8031ccaf2a167394ec7df96875278","features":{},"yanked":false}
+{"name":"sashay","vers":"0.5.0","deps":[],"cksum":"c83ccfefea85cce4dcedcbda99285f3bacf462025cdca17e1f4da31e040479ae","features":{},"yanked":false}
