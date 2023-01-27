@@ -1,0 +1,1 @@
+{"name":"keyz_rust_client","vers":"1.0.0","deps":[{"name":"tokio","req":"^1.21.2","features":["full","time"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4dbf7804ff7074b42d09c3eb4b3f70894fc3ec763d907f3f746735da82e7b1b4","features":{},"yanked":false}
