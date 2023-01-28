@@ -1,1 +1,2 @@
 {"name":"sour","vers":"0.1.0","deps":[{"name":"clap","req":"^4.1.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34a2176141fe887fed42c642eda52d601db9fc47eb1dfcdac18a130f4787ec6f","features":{},"yanked":false}
+{"name":"sour","vers":"0.2.0","deps":[{"name":"clap","req":"^4.1.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4dcc0102198a39361a5f009460bb977b5233758dd2799bcf36078d8a052ee0ec","features":{},"yanked":false}
