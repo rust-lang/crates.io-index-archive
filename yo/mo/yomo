@@ -1,0 +1,1 @@
+{"name":"yomo","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccae887fc192f344c28887a2fbd6cfbff3867d211fd94052913b51d975becdae","features":{},"yanked":false}
