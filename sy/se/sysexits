@@ -9,3 +9,4 @@
 {"name":"sysexits","vers":"0.3.3","deps":[],"cksum":"36535fe907a90e02866dd181c99e188e26abb25c5b237d3a6e11f1cc854ace43","features":{},"yanked":false}
 {"name":"sysexits","vers":"0.3.4","deps":[],"cksum":"913b6c9c3fdc55ec78e76e281706cecfe0cfb4ba07545cbce8342ed943dcfa72","features":{},"yanked":false}
 {"name":"sysexits","vers":"0.4.0","deps":[],"cksum":"bcd4eff4cf271fec7d946fbe865aac5eb005e0d42d57db4cad420b6f5bcf743d","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"sysexits","vers":"0.4.1","deps":[],"cksum":"c02b4068e6e6551e290df467a3c5984fc5d37060e9ff796493e16ecd8fb6e822","features":{"default":["std"],"std":[]},"yanked":false}
