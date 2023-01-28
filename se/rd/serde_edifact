@@ -1,1 +1,2 @@
 {"name":"serde_edifact","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2c529579a4c84857d4480bbd82d23cda9a1c7c524ef319cf3e79d3ef7cb3af9","features":{"debug":[]},"yanked":false}
+{"name":"serde_edifact","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46c27ee3faf49f414ce2076716d762927f8f80291ddfe29fac5e67f0946f8ba2","features":{"debug":[]},"yanked":false}
