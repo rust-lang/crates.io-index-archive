@@ -1,0 +1,1 @@
+{"name":"circular-buffer","vers":"0.1.0","deps":[{"name":"drop-tracker","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e8bad251b99848e101d0f4f4f8a72c51a7af30515716d56761ddc373e9a43544","features":{"default":["use_std"],"use_std":[]},"yanked":false}
