@@ -5,3 +5,4 @@
 {"name":"rdbg","vers":"0.1.4","deps":[],"cksum":"dc988b35d7ae9c75eb1aa660f523da3378c077daa11abe23565cc1855da4d889","features":{"default":["enabled"],"enabled":[],"insecure-remote":[]},"yanked":false}
 {"name":"rdbg","vers":"0.1.5","deps":[],"cksum":"222b5c11cb3d85feceb425e8eede766e54ab773877cdad74be338aaa0065937d","features":{"default":["enabled"],"enabled":[],"insecure-remote":[]},"yanked":false}
 {"name":"rdbg","vers":"0.2.0","deps":[],"cksum":"c733433d1beecc6671a12c1e84ff31746018055d4e49bab7a330ede283fd5ef7","features":{"default":["enabled"],"enabled":[],"insecure-remote":[]},"yanked":false}
+{"name":"rdbg","vers":"0.2.1","deps":[],"cksum":"b8646c38d1bb35582ac1fd9741cfa5b86f4dcd157c2a525f15f74e5d09e91173","features":{"default":["enabled"],"enabled":[],"insecure-remote":[]},"yanked":false}
