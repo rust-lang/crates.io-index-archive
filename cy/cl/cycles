@@ -1,0 +1,1 @@
+{"name":"cycles","vers":"0.1.0","deps":[{"name":"num-rational","req":"^0.4","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8a7a5811662db99213c232a1791c4044ad60858566ac877fadf524f6aa0b29b6","features":{},"yanked":false}
