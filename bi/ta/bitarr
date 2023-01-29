@@ -1,0 +1,1 @@
+{"name":"bitarr","vers":"0.1.1","deps":[],"cksum":"5cdfde474bd269f361ebf8c3d903f7dde0f8d89c19163d64bc9d499b94493c0e","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
