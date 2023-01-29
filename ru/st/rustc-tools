@@ -1,0 +1,1 @@
+{"name":"rustc-tools","vers":"0.1.0","deps":[{"name":"term","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"864810ceb475b9586fb5043479ca4843158c8bee87a3851e25cf4a4f9b2190cf","features":{},"yanked":false}
