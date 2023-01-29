@@ -11,3 +11,4 @@
 {"name":"rtml","vers":"0.7.0","deps":[],"cksum":"3f7407321f651642ac2c28b08d2f07a6753272cfe88f38839282ef4a6515828e","features":{},"yanked":false}
 {"name":"rtml","vers":"0.8.0","deps":[{"name":"paste","req":"^1.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89b49e4d861fc6081f25018ce0be2168bb8f65f7fa719c7c21edaf15f698403e","features":{},"yanked":false}
 {"name":"rtml","vers":"0.8.1","deps":[{"name":"paste","req":"^1.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5571a2203fd83edecec0e7512707ae78c59c9c6436a394009339f03dc02d54cf","features":{},"yanked":false}
+{"name":"rtml","vers":"0.9.0","deps":[{"name":"paste","req":"^1.0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea2621e6b2e9966af395c0bbedd28f960b23a5c63a62cc03c134dc7d97580c8a","features":{},"yanked":false}
