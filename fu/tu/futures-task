@@ -25,3 +25,4 @@
 {"name":"futures-task","vers":"0.3.23","deps":[],"cksum":"842fc63b931f4056a24d59de13fb1272134ce261816e063e634ad0c15cdc5306","features":{"alloc":[],"cfg-target-has-atomic":[],"default":["std"],"std":["alloc"],"unstable":[]},"yanked":false}
 {"name":"futures-task","vers":"0.3.24","deps":[],"cksum":"a6508c467c73851293f390476d4491cf4d227dbabcd4170f3bb6044959b294f1","features":{"alloc":[],"cfg-target-has-atomic":[],"default":["std"],"std":["alloc"],"unstable":[]},"yanked":false}
 {"name":"futures-task","vers":"0.3.25","deps":[],"cksum":"2ffb393ac5d9a6eaa9d3fdf37ae2776656b706e200c8e16b1bdb227f5198e6ea","features":{"alloc":[],"cfg-target-has-atomic":[],"default":["std"],"std":["alloc"],"unstable":[]},"yanked":false}
+{"name":"futures-task","vers":"0.3.26","deps":[],"cksum":"dcf79a1bf610b10f42aea489289c5a2c478a786509693b80cd39c44ccd936366","features":{"alloc":[],"cfg-target-has-atomic":[],"default":["std"],"std":["alloc"],"unstable":[]},"yanked":false}
