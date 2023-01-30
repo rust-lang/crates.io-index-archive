@@ -4,3 +4,4 @@
 {"name":"scope_gc","vers":"0.2.0","deps":[],"cksum":"5aaf9f9affea97a5939243d0b42f158bdec1fb9c7ffa296dd4d1162e1c5c5963","features":{},"yanked":false}
 {"name":"scope_gc","vers":"0.2.1","deps":[],"cksum":"1b18ea5288ce1aebde977f55d6cc9ba00cd0427d4b4305b31aea735f13c878c7","features":{},"yanked":false}
 {"name":"scope_gc","vers":"0.2.2","deps":[],"cksum":"f84bc5976d0082dbf3a82670d16d0b297e70e70742f6e9ad9340f1088cc2ff58","features":{"_nightly":[],"root_ref_coerce_unsized":["_nightly"]},"yanked":false}
+{"name":"scope_gc","vers":"0.2.3","deps":[],"cksum":"2285fa4395af120accb15da750a37289436ece28a37275351d0223a419d84200","features":{"_coerce_unsized":[],"_unsize":[],"root_ref_coerce_unsized":["_unsize","_coerce_unsized"]},"yanked":false}
