@@ -1,0 +1,1 @@
+{"name":"zigc","vers":"0.0.0-alpha0.1","deps":[{"name":"osstrtools","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f17a5dc3c25d4059e3e995d8b5686578a24c78b308479982e3545e01bcdc1708","features":{},"yanked":false}
