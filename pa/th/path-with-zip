@@ -1,0 +1,1 @@
+{"name":"path-with-zip","vers":"0.0.2","deps":[{"name":"zip","req":"^0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48d02b415cc75482234b31ba021b8bd7a1b3cd0be8b7ad57f95b8b9c878fb81c","features":{},"yanked":false}
