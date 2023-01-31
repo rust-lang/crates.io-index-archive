@@ -1,0 +1,1 @@
+{"name":"cosmian_ffi","vers":"1.0.0","deps":[{"name":"thiserror","req":"^1.0.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4032ec32d5f388ec0e1b268179ea8210a336f2f093c6c4148bdd66b16b2aedd","features":{},"yanked":false}
