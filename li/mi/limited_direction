@@ -1,0 +1,1 @@
+{"name":"limited_direction","vers":"0.1.0","deps":[{"name":"macroquad","req":"^0.3.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"eb51e8f8fd4a06f87e95a15c31d20551bc6068b5cbf48206de0cbb6ff6ff5cc9","features":{},"yanked":false}
