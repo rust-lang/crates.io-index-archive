@@ -1,0 +1,1 @@
+{"name":"fmty","vers":"0.1.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"test-strategy","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b02102c7be05655e26ac6e7e2ed6484077a81ebee0582797c9b94289d800fcbc","features":{},"yanked":false}
