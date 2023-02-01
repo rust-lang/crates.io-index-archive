@@ -5,3 +5,4 @@
 {"name":"scale_signature","vers":"0.0.5","deps":[{"name":"scale_signature_http","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a34a8678aea95f39435bab1e8a951669cc5a64908b637d202a7e3a966bb9e81","features":{},"yanked":false}
 {"name":"scale_signature","vers":"0.1.4","deps":[],"cksum":"19b41d86a402d0738db8f7244ab437a4740e3711fb1a077f510d00bf35be4f27","features":{},"yanked":false}
 {"name":"scale_signature","vers":"0.1.5","deps":[],"cksum":"5310a149bb9c4cd63583b07b3328a62a1a9aeb9361b2ac464cf4970893f3c14e","features":{},"yanked":false}
+{"name":"scale_signature","vers":"0.1.6","deps":[],"cksum":"1037a1af642a25ed7dcd1ac3125a02fc52b8e66f385a1443cf8b17ce8143971b","features":{},"yanked":false}
