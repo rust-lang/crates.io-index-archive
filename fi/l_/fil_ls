@@ -1,0 +1,1 @@
+{"name":"fil_ls","vers":"0.1.2","deps":[{"name":"regex","req":"^1.7","features":["std","unicode-perl"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"da1b86d1523e437d373a3353ced386f505faf734e4a7df2be0d81d41d54b710b","features":{},"yanked":false}
