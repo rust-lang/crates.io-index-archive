@@ -5,3 +5,4 @@
 {"name":"mkcd","vers":"0.7.0","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4ee8e94ec75094593340edf78e45e865860c0b2194926e0ec98cafa4a120222","features":{},"yanked":false}
 {"name":"mkcd","vers":"0.8.0","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9edf38a6ea5357c4c9e47673a08b49609e19c59904c50efa7427693778497f7f","features":{},"yanked":false}
 {"name":"mkcd","vers":"0.8.5","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"638612dfcc5c1ccefd4a459f76ed845b8914ce2f7846ac933c94189532e54654","features":{},"yanked":false}
+{"name":"mkcd","vers":"0.8.6","deps":[],"cksum":"434aa3599fac177e3b859bdc1873b746219fb6665428fa3ee4ae4481170f7dbc","features":{},"yanked":false}
