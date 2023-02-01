@@ -1,0 +1,1 @@
+{"name":"circadian_tools","vers":"0.1.0","deps":[{"name":"float-cmp","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2166236d15fcd0ba855bad2cca10c18cb8f396333087dc9ed2a68389e25e180b","features":{},"yanked":false}
