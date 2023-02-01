@@ -1,0 +1,1 @@
+{"name":"fundu","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rstest","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"69b219004537a83f138522f9e578f83870b6dc05d968262532fa3a43b7717b86","features":{},"yanked":false}
