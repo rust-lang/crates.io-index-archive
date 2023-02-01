@@ -1,1 +1,2 @@
 {"name":"mkcd","vers":"0.1.0","deps":[],"cksum":"cc8f7f56042dcdf9f37b7bfffc8af76bbf86c3698fc772b15c7bc0c5043de385","features":{},"yanked":false}
+{"name":"mkcd","vers":"0.5.0","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13e1b7e9e0749a7204a5fbc5ab576a0865effaa5772343b1764c75b7a6c85a9f","features":{},"yanked":false}
