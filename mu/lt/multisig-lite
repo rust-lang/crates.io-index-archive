@@ -1,0 +1,1 @@
+{"name":"multisig-lite","vers":"0.0.1","deps":[{"name":"anchor-lang","req":"^0.26.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1538b821ac2cfe0708533af3f6673a63ca0b14df349cb6508d056d665c420f5","features":{"cpi":["no-entrypoint"],"default":[],"no-entrypoint":[],"no-idl":[],"no-log-ix-name":[]},"yanked":false}
