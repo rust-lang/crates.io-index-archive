@@ -1,0 +1,1 @@
+{"name":"number_range","vers":"0.1.0","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rstest","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"32bb12c2b48da153ac06a2a19956ef906e122e464ddd4f1d2d8c870e80ce10f1","features":{},"yanked":false}
