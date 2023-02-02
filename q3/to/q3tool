@@ -6,3 +6,4 @@
 {"name":"q3tool","vers":"0.2.0","deps":[],"cksum":"3f11b130bfb15368fbbc9a9cc5419c2b3370404257d8bd193ed76c3e452b63c1","features":{},"yanked":false}
 {"name":"q3tool","vers":"0.3.0","deps":[{"name":"format-bytes","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24e37150096effb0c224edaa9ae3a3767aef615fd6468327ca24e6e7b4b7fac0","features":{},"yanked":false}
 {"name":"q3tool","vers":"0.3.1","deps":[{"name":"format-bytes","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"357b625a506c07167dd44735ae82a280ec091a3b54819eed39497f9d2b2f7778","features":{},"yanked":false}
+{"name":"q3tool","vers":"0.3.2","deps":[{"name":"format-bytes","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1eb9eb1b0b9fac8bc201aeb86e5af9dfd5a61928cf583d09b86d9ca15ac21c13","features":{},"yanked":false}
