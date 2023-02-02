@@ -1,1 +1,2 @@
 {"name":"ju","vers":"0.1.0","deps":[],"cksum":"1bbf22d2f56ee0f3900b0cefe726cb5d437fb621b2c8a8a04d2c8f18642c65b9","features":{},"yanked":false}
+{"name":"ju","vers":"0.1.1","deps":[{"name":"inquire","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bebf4d1b853a2595ecad0768972dcf6475ca11efd1a30cd0a0c1ed6d4f8b6b66","features":{},"yanked":false}
