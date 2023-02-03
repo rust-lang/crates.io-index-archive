@@ -1,0 +1,1 @@
+{"name":"ggegui","vers":"0.3.2","deps":[{"name":"egui","req":"^0.20.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ggez","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee56bf29d57c0045e9eca7617e23c60c6748ccd31734fd9fd0dee862a3281670","features":{},"yanked":false}
