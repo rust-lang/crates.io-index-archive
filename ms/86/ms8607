@@ -1,0 +1,1 @@
+{"name":"ms8607","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fb2cdedce4267175b3e1f1033ed04bb3ebdf20518dd798c07a6da7cd67f2404","features":{},"yanked":false}
