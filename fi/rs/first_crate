@@ -8,3 +8,4 @@
 {"name":"first_crate","vers":"0.1.7","deps":[],"cksum":"4b0b3ff4844afed40ea4ca37b03d35804c9262e01df30c28f165679e1755a594","features":{},"yanked":true}
 {"name":"first_crate","vers":"0.1.8","deps":[],"cksum":"2c7dbb7e86325093d680cd3a0e0833e3c67b19534f1506a03403898734b699ae","features":{},"yanked":true}
 {"name":"first_crate","vers":"0.1.9","deps":[],"cksum":"7b87c282fee6d61c0e25f7345b566c1a5cc30899a15331203d334c6fda990eae","features":{},"yanked":false}
+{"name":"first_crate","vers":"0.2.0","deps":[],"cksum":"ea3a6faec46681d1846574f9cb0c9605de5b89ca284e2f0b08169ba93cde77fa","features":{},"yanked":false}
