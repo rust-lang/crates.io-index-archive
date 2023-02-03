@@ -4,3 +4,4 @@
 {"name":"zalgo-codec-common","vers":"0.2.6","deps":[],"cksum":"7600e95cd47800d4f48a6d7ad895978d585366262135234d9218950187fb314b","features":{},"yanked":false}
 {"name":"zalgo-codec-common","vers":"0.3.0","deps":[],"cksum":"fc45e8abc7af970b97385ed17030451c2aaf918d65aa3c6c5cb582c30f06a71f","features":{},"yanked":false}
 {"name":"zalgo-codec-common","vers":"0.4.0","deps":[],"cksum":"e48029b62024c556226a96a3a3e7e66cca11e26098e80f0783e1f2db38a3a471","features":{},"yanked":false}
+{"name":"zalgo-codec-common","vers":"0.5.0","deps":[],"cksum":"6d5a6d010506cf426129cce5642cfeba21cb654afa3758b724ff4d07d6a9aee9","features":{"default":["files"],"files":[]},"yanked":false}
