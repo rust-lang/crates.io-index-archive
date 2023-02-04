@@ -1,0 +1,1 @@
+{"name":"associative_positional_list","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7a0f3c1d45aa5af8e7061fe0032423916311ad46d81661cbab875246be990dfc","features":{},"yanked":false}
