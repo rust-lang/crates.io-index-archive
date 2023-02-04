@@ -1,0 +1,1 @@
+{"name":"replay_filter","vers":"0.1.1","deps":[{"name":"honggfuzz","req":"^0.5","features":[],"optional":false,"default_features":true,"target":"cfg(fuzzing)","kind":"normal"}],"cksum":"2ba36b95f065bdf01a0e3cd6b7ba14afee8bc140527d49b3e4bdf219dea62a4a","features":{},"yanked":false}
