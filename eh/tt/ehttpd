@@ -2,3 +2,4 @@
 {"name":"ehttpd","vers":"0.2.0","deps":[],"cksum":"2071083c5fec20f11b1e306acd21a28a1700abf1fecef148b606c4606ec6b776","features":{"default":[]},"yanked":true}
 {"name":"ehttpd","vers":"0.2.1","deps":[],"cksum":"a333d741cf2ff3119a4247b114ec7b51cc7ede3dd8276bd1e17303bc9b1c1f56","features":{"default":[]},"yanked":false}
 {"name":"ehttpd","vers":"0.3.0","deps":[{"name":"flume","req":"^0.10.14","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d6124b3fef15467de913b7c76989896c9ef9cb3898ace7e12a227f53d30cd0cb","features":{"default":[]},"yanked":false}
+{"name":"ehttpd","vers":"0.3.1","deps":[{"name":"flume","req":"^0.10.14","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0f8dcdc382f198677dab5f8fcc5b7da5d3cd887133e484543b484e5c557e5abd","features":{"default":[]},"yanked":false}
