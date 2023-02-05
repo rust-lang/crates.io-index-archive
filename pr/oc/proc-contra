@@ -1,0 +1,1 @@
+{"name":"proc-contra","vers":"1.0.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ae477727ce69e8484a210a5b1f2338397e6d5bfe2b43e6ddd2a669e9477fee7","features":{},"yanked":false}
