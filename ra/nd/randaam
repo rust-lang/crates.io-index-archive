@@ -1,1 +1,2 @@
 {"name":"randaam","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfd84065aee4bea497e000b2e37ad3638cf52f2927d3692df6e1e127b9c60b68","features":{},"yanked":false}
+{"name":"randaam","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4d8a579060e96ecc07ba8d4fb669636c4739f39b19836a1707183756f82af8a","features":{},"yanked":false}
