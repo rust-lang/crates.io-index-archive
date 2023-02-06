@@ -1,0 +1,1 @@
+{"name":"hash-file","vers":"0.0.1","deps":[{"name":"sha256","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5cb8406358bd0f5bbbabb773abbaabc3d2a9c2fc8e95782ca891695cd35ea2bc","features":{},"yanked":false}
