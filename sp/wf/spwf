@@ -1,1 +1,2 @@
 {"name":"spwf","vers":"0.0.0","deps":[],"cksum":"5575ab88c60fc2bbebe68d980b88364647947b06a1819aa68cf9f2cd2cf7bffd","features":{},"yanked":false}
+{"name":"spwf","vers":"0.0.1","deps":[{"name":"aoko","req":"^0.3.0-alpha.22","features":["async"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^1.24","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b7c1adff199735a70b1ffe65c3edf578386e876e267dff6619116d3f11637511","features":{},"yanked":false}
