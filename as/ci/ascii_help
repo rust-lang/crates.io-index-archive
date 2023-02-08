@@ -1,0 +1,1 @@
+{"name":"ascii_help","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0.26","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ff4f439886f0506c5910fce5c870ad1cb3ab605d2819ab2e406f748c5a8ba2b","features":{},"yanked":false}
