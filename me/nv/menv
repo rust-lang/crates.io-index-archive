@@ -6,3 +6,4 @@
 {"name":"menv","vers":"0.2.4","deps":[],"cksum":"3a3fa507e6fde16b60daa584d3907ca0df0df590314d4f01491cfad4d7235743","features":{},"yanked":false}
 {"name":"menv","vers":"0.2.5","deps":[],"cksum":"9a8937b283d64d396a67433e7cf8ff2fe0930dda34425abacad8435105e138a1","features":{},"yanked":false}
 {"name":"menv","vers":"0.2.6","deps":[{"name":"menv_proc_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e360d2ae142f490972fea86f01e34ac1405183d571824dcb06cf8fd118cc7a2","features":{},"yanked":false}
+{"name":"menv","vers":"0.2.7","deps":[{"name":"menv_proc_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec049f8395cf822c890b7e7b9857ca19fe105496ff8a307fe312cc8b65d408e6","features":{},"yanked":false}
