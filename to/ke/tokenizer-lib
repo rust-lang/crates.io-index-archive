@@ -10,3 +10,4 @@
 {"name":"tokenizer-lib","vers":"1.2.1","deps":[],"cksum":"4fe585de5f7916de42661ee475fae9edb1824571863743ffdf52128f8129f932","features":{},"yanked":false}
 {"name":"tokenizer-lib","vers":"1.3.0","deps":[],"cksum":"7ff9904a8c63e460d3396bcbe8b5fdcb0c59321c087aebf7b8b4ddd0c8f44ffe","features":{},"yanked":false}
 {"name":"tokenizer-lib","vers":"1.4.0","deps":[],"cksum":"95354a91d6aad2b555a830ca4254b1e72094388135166581ab5a8b345ff85840","features":{},"yanked":false}
+{"name":"tokenizer-lib","vers":"1.5.0","deps":[],"cksum":"921ae88b4cdbf7aa5bc708c9d02d37c194c3fc4189c9698320ef19968354d36a","features":{"buffered":[],"default":["parallel","buffered","generator"],"generator":[],"parallel":[]},"yanked":false}
