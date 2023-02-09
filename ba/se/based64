@@ -1,0 +1,1 @@
+{"name":"based64","vers":"0.1.0","deps":[{"name":"getrandom","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"23afaa471696a8f32a7df6b9464d960336b84713ed36b41c0133bb0fb9bbce16","features":{"alloc":[]},"yanked":false}
