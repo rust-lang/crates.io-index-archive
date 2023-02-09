@@ -39,3 +39,4 @@
 {"name":"dsalgo","vers":"0.3.7","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"799ae77a8177288915aefa557f1d015b312f19d379efdb6bd5de173d59bf2a6b","features":{},"yanked":false}
 {"name":"dsalgo","vers":"0.3.8","deps":[],"cksum":"365d4540685db63ee8589f644b3bac32180cdb0de73cfa3e00bdbc8987e6b56d","features":{},"yanked":false}
 {"name":"dsalgo","vers":"0.3.9","deps":[],"cksum":"643ea32edf733ad5cda48d07f9e957325ae50595c88e722b769075f5a819f6c4","features":{},"yanked":false}
+{"name":"dsalgo","vers":"0.3.10","deps":[],"cksum":"1fe622fe2fbb3bb4a9383c204d23c33d39cce2a2d815470f4935c2a030447015","features":{},"yanked":false}
