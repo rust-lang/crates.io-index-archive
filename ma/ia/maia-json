@@ -1,0 +1,1 @@
+{"name":"maia-json","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc7531970b553b04d9d865598ae9c505c126818166d0e51a608d6d74a7309081","features":{},"yanked":false}
