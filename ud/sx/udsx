@@ -15,5 +15,5 @@
 {"name":"udsx","vers":"0.11.0","deps":[],"cksum":"1db4f857cf370bfd0b3da7906b37d89dbea0c166ed50b0a7c874f063e723dd34","features":{},"yanked":true}
 {"name":"udsx","vers":"0.12.0","deps":[],"cksum":"75a383eae627b7771f48ba525ee9f7b1ad1dfe53660173b8c39bce49740ffbfb","features":{},"yanked":true}
 {"name":"udsx","vers":"0.12.1","deps":[],"cksum":"dd9c4687d894f998de1c64f95afb1f5251b6e5c2b98b17ddb35334d7ea4a080a","features":{},"yanked":true}
-{"name":"udsx","vers":"0.13.0","deps":[],"cksum":"9fb18e24a3c87358191a6ab6b142f6dcc162fa2be4672f8f57034da140382cdd","features":{},"yanked":false}
+{"name":"udsx","vers":"0.13.0","deps":[],"cksum":"9fb18e24a3c87358191a6ab6b142f6dcc162fa2be4672f8f57034da140382cdd","features":{},"yanked":true}
 {"name":"udsx","vers":"0.14.0","deps":[],"cksum":"ade25d472a183d1776b494b3773e5c60b00710443bcd0c799680a50d107b0782","features":{},"yanked":false}
