@@ -1,0 +1,1 @@
+{"name":"matlab-sys","vers":"0.1.0","deps":[],"cksum":"3096e74efeceaa0333dde34a8bd049fd35c31f37075248011eafc047e9a5c4c0","features":{"default":["interleaved-complex","link-lib"],"interleaved-complex":[],"link-lib":[],"separate-complex":[]},"yanked":false}
