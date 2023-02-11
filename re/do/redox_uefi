@@ -6,3 +6,4 @@
 {"name":"redox_uefi","vers":"0.1.5","deps":[],"cksum":"0c483e82899e79d50a4ad1a5eb8f3fc918e9b37b0387d85510fa4cf21d2e3dda","features":{},"yanked":false}
 {"name":"redox_uefi","vers":"0.1.8","deps":[],"cksum":"8b317cf652e12b060987e810efe95d61d8bcd157943731c7fa66897934d92d24","features":{},"yanked":false}
 {"name":"redox_uefi","vers":"0.1.9","deps":[],"cksum":"41b62fcb91f21639dc1f36e478fa7bb6cea939282f5c7d0f9190c62ee7b8d286","features":{},"yanked":false}
+{"name":"redox_uefi","vers":"0.1.10","deps":[],"cksum":"4143e69d22c9f79fd22cb37859a06af4936741c8ef70b5d6338953717feb68a5","features":{},"yanked":false}
