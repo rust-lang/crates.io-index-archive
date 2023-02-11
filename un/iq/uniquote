@@ -9,3 +9,4 @@
 {"name":"uniquote","vers":"3.1.1","deps":[],"cksum":"9ca06e1667f2f21ec0ef8b0ea24c26a85c2c692d5ba721a1d473f6cba5b7737b","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
 {"name":"uniquote","vers":"3.2.0","deps":[],"cksum":"2890f8bc197bdd492c2f89bd62912b08d22d52e4dfda6a35d091d77d280ba23d","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
 {"name":"uniquote","vers":"3.2.1","deps":[],"cksum":"c4cf928bac801da70013650f4a44c512692d5755bbd8df8ee4db4e43cd3d6d1d","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"uniquote","vers":"3.3.0","deps":[],"cksum":"54a900eeb2aef304818fb781cf422a42c2f67f760c25927ccc83edc6b0fdfd0c","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
