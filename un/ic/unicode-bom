@@ -9,3 +9,4 @@
 {"name":"unicode-bom","vers":"1.1.4","deps":[],"cksum":"63ec69f541d875b783ca40184d655f2927c95f0bffd486faa83cd3ac3529ec32","features":{},"yanked":false}
 {"name":"unicode-bom","vers":"2.0.0","deps":[],"cksum":"9cff71504aeba3c1c74cac1557a2a686343eade411a132740c94c64a0c08a41a","features":{},"yanked":false}
 {"name":"unicode-bom","vers":"2.0.1","deps":[],"cksum":"acc5307bde9ede2baa0bdf588ba0de91f2cfc80582cdb299ba27b4caa65b8256","features":{},"yanked":false}
+{"name":"unicode-bom","vers":"2.0.2","deps":[],"cksum":"98e90c70c9f0d4d1ee6d0a7d04aa06cb9bbd53d8cfbdd62a0269a7c2eb640552","features":{},"yanked":false}
