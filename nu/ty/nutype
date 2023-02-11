@@ -1,1 +1,2 @@
 {"name":"nutype","vers":"0.1.0","deps":[],"cksum":"3b50b3e98af0d54ec5f9fe79d535006dbf0334dd7d8cbd15f48c0117bb82331e","features":{},"yanked":false}
+{"name":"nutype","vers":"0.1.1","deps":[{"name":"nutype_macros","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a9d7240ff1fd77d3efca29efbd1be0a1ee3308b14d01b61240cafbd3072082c","features":{"serde1":["nutype_macros/serde1"]},"yanked":false}
