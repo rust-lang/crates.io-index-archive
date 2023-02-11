@@ -1,0 +1,1 @@
+{"name":"micrograd-rs","vers":"0.0.2","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"378c06014d9b6b6c72e192d5e9125d0761ffb77955f03a8b0c05f15dae46cf70","features":{},"yanked":false}
