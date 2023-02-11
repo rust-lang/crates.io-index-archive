@@ -8,3 +8,4 @@
 {"name":"unicode-bom","vers":"1.1.3","deps":[],"cksum":"a9403ef17bb1f3452eadf8fb2adb1bcc75d4ae94494055052843c794ebd66cf3","features":{},"yanked":false}
 {"name":"unicode-bom","vers":"1.1.4","deps":[],"cksum":"63ec69f541d875b783ca40184d655f2927c95f0bffd486faa83cd3ac3529ec32","features":{},"yanked":false}
 {"name":"unicode-bom","vers":"2.0.0","deps":[],"cksum":"9cff71504aeba3c1c74cac1557a2a686343eade411a132740c94c64a0c08a41a","features":{},"yanked":false}
+{"name":"unicode-bom","vers":"2.0.1","deps":[],"cksum":"acc5307bde9ede2baa0bdf588ba0de91f2cfc80582cdb299ba27b4caa65b8256","features":{},"yanked":false}
