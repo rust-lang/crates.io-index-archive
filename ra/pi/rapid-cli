@@ -1,0 +1,1 @@
+{"name":"rapid-cli","vers":"0.0.1","deps":[{"name":"clap","req":"^4.1.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f083c722c652320056490e5f51da8d492337fa3b45f5fb3f19f1b3cbb44fd792","features":{},"yanked":false}
