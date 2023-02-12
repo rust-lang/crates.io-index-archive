@@ -1,0 +1,1 @@
+{"name":"mrml-common-macros","vers":"0.1.0","deps":[{"name":"syn","req":"^1.0","features":["full","fold"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"646bbe56cd666665355ddc095162c603c64511e897bd5033376abdcf8b9be623","features":{},"yanked":false}
