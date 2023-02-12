@@ -12,3 +12,4 @@
 {"name":"marco-test-one","vers":"0.1.11","deps":[{"name":"serde","req":"^1.0.150","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1fb1635774ad7f6aac84ffb77e39c60a409026848b202acb9a51003871a3d595","features":{},"yanked":false}
 {"name":"marco-test-one","vers":"0.1.12","deps":[],"cksum":"069c8cace575caeebde14f33131672d7feeed0a1c4c658a7724e358788c1c285","features":{},"yanked":false}
 {"name":"marco-test-one","vers":"0.1.13","deps":[],"cksum":"c41c780cb25926fb7da787d2fbb642a3666b203c981cd2c9b8f3a769d020ace2","features":{},"yanked":false}
+{"name":"marco-test-one","vers":"0.1.14","deps":[],"cksum":"5026152f2af0701f0c71a1ffb6a1257b0b913f7b066107293cd1cd5fa09b5d88","features":{},"yanked":false}
