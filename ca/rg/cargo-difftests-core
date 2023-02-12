@@ -1,0 +1,1 @@
+{"name":"cargo-difftests-core","vers":"0.1.0-alpha.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08fb6aa3aac6248fca35723c53d388f01e2e7d72e6407a1618528f60cfa0f0a4","features":{},"yanked":false}
