@@ -1,0 +1,1 @@
+{"name":"pretty-csv","vers":"0.1.0","deps":[{"name":"csvstream","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"918d0f14a03ae90a46529799d65ffc236acd9eab7307abb6dd8b9ee2b7143286","features":{},"yanked":false}
