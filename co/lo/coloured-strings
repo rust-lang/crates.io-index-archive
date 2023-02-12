@@ -6,4 +6,4 @@
 {"name":"coloured-strings","vers":"0.1.5","deps":[],"cksum":"5a8e3fa70f0b0d3c7668f29f09a5c1442fee6e6a8991bc57a3469a13a41d2c27","features":{},"yanked":false}
 {"name":"coloured-strings","vers":"0.1.6","deps":[],"cksum":"7f21df4b5d7dd21ad7be3d168977039ea62662200bffd6c1317718de8f01e5a9","features":{},"yanked":false}
 {"name":"coloured-strings","vers":"0.1.7","deps":[],"cksum":"414b51753291d6b901408434a9deaf0eef0c4ec1176d6d05cd69065560e21ffb","features":{},"yanked":false}
-{"name":"coloured-strings","vers":"0.1.8","deps":[],"cksum":"ed25f84e7dcfc1588c22684f7cce3a17b23cb7806576beb4530dc72cf8296f86","features":{},"yanked":false}
+{"name":"coloured-strings","vers":"0.1.8","deps":[],"cksum":"ed25f84e7dcfc1588c22684f7cce3a17b23cb7806576beb4530dc72cf8296f86","features":{},"yanked":true}
