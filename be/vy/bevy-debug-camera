@@ -1,0 +1,1 @@
+{"name":"bevy-debug-camera","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2acc759dbd21f2ca406601a964cb4cc1f5a6744a62574633f453efc90f5a9935","features":{},"yanked":false}
