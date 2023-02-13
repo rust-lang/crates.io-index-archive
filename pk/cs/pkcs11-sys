@@ -1,1 +1,2 @@
 {"name":"pkcs11-sys","vers":"0.0.0","deps":[],"cksum":"d61ca1322727ad3bdfed72744d7fd05d87cad2eba2a345ee0ceef956066d8e1a","features":{},"yanked":false}
+{"name":"pkcs11-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.64.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d5db890b84cba2a6b513e05739c6161fdf9d2475b41a38bdeb9270a5d9a23e0f","features":{},"yanked":false}
