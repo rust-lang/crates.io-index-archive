@@ -1,1 +1,2 @@
 {"name":"tuple_macro","vers":"0.1.1","deps":[],"cksum":"7a371eddad8e06f71ea90d650220d35e787f614253860636e75333566417171a","features":{"16":[],"32":[],"64":[]},"yanked":false}
+{"name":"tuple_macro","vers":"0.2.0","deps":[],"cksum":"cbffd725338992be71ff9abb3a8d373845bdff0254e5187cd9ca4497c2296453","features":{"tup_len_16":[],"tup_len_32":[],"tup_len_64":[]},"yanked":false}
