@@ -10,3 +10,4 @@
 {"name":"perm","vers":"0.9.0","deps":[],"cksum":"8f64f6969fb42d3d2c7263b46d9394db76c2ce1f77795f16c46e06f605fdb2b6","features":{"std":[]},"yanked":false}
 {"name":"perm","vers":"0.9.1","deps":[],"cksum":"e33ca5d9f1ff54cb7e416ec777e08ca0a94eacd0b49121001fc5a66d9122bc47","features":{"std":[]},"yanked":false}
 {"name":"perm","vers":"0.9.2","deps":[],"cksum":"3a5884c604482042f72dddf6c5604577198c7955e7bcf009e04f20419db53e18","features":{"std":[]},"yanked":false}
+{"name":"perm","vers":"0.9.3","deps":[],"cksum":"e100b0d56ee572e9c8217487ff39d020ebd2457d2a1928a6aa97956aafe3e6fc","features":{"std":[]},"yanked":false}
