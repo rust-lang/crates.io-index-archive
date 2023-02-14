@@ -1,3 +1,4 @@
 {"name":"pkcs11-sys","vers":"0.0.0","deps":[],"cksum":"d61ca1322727ad3bdfed72744d7fd05d87cad2eba2a345ee0ceef956066d8e1a","features":{},"yanked":false}
 {"name":"pkcs11-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.64.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d5db890b84cba2a6b513e05739c6161fdf9d2475b41a38bdeb9270a5d9a23e0f","features":{},"yanked":false}
 {"name":"pkcs11-sys","vers":"0.2.1","deps":[{"name":"bindgen","req":"^0.64.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c001b6edf29382802b7841fc2eb3f40c7c09c4e94b67dc93c87ff3804109449f","features":{},"yanked":false}
+{"name":"pkcs11-sys","vers":"0.2.2","deps":[{"name":"bindgen","req":"^0.64.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"3077b7ae279e69df8398abba836b8c727567b8e56ebebe2022f5bd7e434b93fe","features":{},"yanked":false}
