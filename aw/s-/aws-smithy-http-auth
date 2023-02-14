@@ -1,1 +1,2 @@
 {"name":"aws-smithy-http-auth","vers":"0.0.0","deps":[],"cksum":"8c71b36d21606c06f29f395e6ce2289c0f8a8d4810baf7880ccea89109ce300b","features":{},"yanked":false}
+{"name":"aws-smithy-http-auth","vers":"0.54.3","deps":[{"name":"zeroize","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e61fef7e8c40e14b73770b034fad04e03caca2d5026e33c0f7440cc05afb1ff1","features":{},"yanked":false}
