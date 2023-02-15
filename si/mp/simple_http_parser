@@ -2,3 +2,4 @@
 {"name":"simple_http_parser","vers":"0.2.1","deps":[],"cksum":"5cd0c7387cee086eb8f8e55a98cf471abfc7d032e1e705a8483bea9a30d38c88","features":{},"yanked":false}
 {"name":"simple_http_parser","vers":"0.2.2","deps":[],"cksum":"6fc5d28f0896ebe7dc15fe033f603c703e73d772e4c62344db42ff76d6235736","features":{},"yanked":false}
 {"name":"simple_http_parser","vers":"0.2.3","deps":[],"cksum":"7ed48ae18acb7d7a68004fc5afa3a5475b5fdddc8539377d0f996e8758c2f28e","features":{},"yanked":false}
+{"name":"simple_http_parser","vers":"0.2.4","deps":[],"cksum":"87e95ac84fb18e68f32657294c5e755d7c527ea03b6b5edefc4bbc42dd029bdf","features":{},"yanked":false}
