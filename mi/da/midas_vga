@@ -1,1 +1,2 @@
 {"name":"midas_vga","vers":"0.1.0","deps":[{"name":"vga","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8fe3f4aa8bccf1128d2f81d4d0b781af287789a4e8a44c83f6ea8b0094c54d20","features":{},"yanked":false}
+{"name":"midas_vga","vers":"0.1.1","deps":[{"name":"vga","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad434bb9745b202531fdb0679558ea2f421ea4d6205cc4a164416d8a46b58e04","features":{},"yanked":false}
