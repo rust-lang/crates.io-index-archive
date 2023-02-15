@@ -79,3 +79,4 @@
 {"name":"sway-utils","vers":"0.33.1","deps":[],"cksum":"b0a9b74566d51689272fee66a6dcfd1fb2a903dc43b9b8170c5c5236e895f87a","features":{},"yanked":false}
 {"name":"sway-utils","vers":"0.34.0","deps":[],"cksum":"aad9360b7a26b0538329c718887fa4afcc580ef87d00c4ebe4c3e648a8c82f30","features":{},"yanked":false}
 {"name":"sway-utils","vers":"0.35.0","deps":[],"cksum":"65c5fd834986946b1535eb3abea325970ae2fc8de9a82e01ceee565bd7822d2f","features":{},"yanked":false}
+{"name":"sway-utils","vers":"0.35.1","deps":[],"cksum":"4cdaf9f79f5ff290868608c6919c269b188f143d09c8edbad6ffb2aacb4e96dc","features":{},"yanked":false}
