@@ -20,3 +20,4 @@
 {"name":"elf","vers":"0.6.1","deps":[],"cksum":"6c09b5bbd5d4c1318fd4825d697b8117506fc36ab9680bdd792f65a2acbdf1ed","features":{"default":["std","to_str"],"std":[],"to_str":[]},"yanked":false}
 {"name":"elf","vers":"0.7.0","deps":[],"cksum":"6de42b0529467fc9a2692fd91585c84dd255fb15b0df0f80299724a9456986c6","features":{"default":["std","to_str"],"std":[],"to_str":[]},"yanked":false}
 {"name":"elf","vers":"0.7.1","deps":[],"cksum":"2ace2c81c1832d02208b8317b90b2de5b3b4f55024b86d3f2ae800353e348fd7","features":{"default":["std","to_str"],"std":[],"to_str":[]},"yanked":false}
+{"name":"elf","vers":"0.7.2","deps":[],"cksum":"e2b183d6ce6ca4cf30e3db37abf5b52568b5f9015c97d9fbdd7026aa5dcdd758","features":{"default":["std","to_str"],"nightly":[],"std":[],"to_str":[]},"yanked":false}
