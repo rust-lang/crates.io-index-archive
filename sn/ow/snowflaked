@@ -7,3 +7,4 @@
 {"name":"snowflaked","vers":"0.1.6","deps":[],"cksum":"da66adbeb4a5ec5428efc6decf10705e8da171a6c63f0ffc48d62c821d19d3c2","features":{"default":[],"sync":[]},"yanked":false}
 {"name":"snowflaked","vers":"0.1.7","deps":[],"cksum":"93b457d87730796024fd5fa7cb4d26ec9bbca71881f671f452dffac495802eb3","features":{"default":[],"sync":[]},"yanked":false}
 {"name":"snowflaked","vers":"0.1.8","deps":[],"cksum":"96ecc61394233b17f53c24956ad558e55dfeb1417526be762feaaa5e3933ba6d","features":{"default":[],"sync":[]},"yanked":false}
+{"name":"snowflaked","vers":"1.0.0","deps":[],"cksum":"a31a8ec97e45358cf0997805ba4e75ef1f94837e642d94773a2df85ed7a9ac5f","features":{"default":[],"sync":[]},"yanked":false}
