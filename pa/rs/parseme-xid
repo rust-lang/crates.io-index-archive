@@ -1,0 +1,1 @@
+{"name":"parseme-xid","vers":"0.1.0-alpha","deps":[{"name":"unicode-xid","req":"^0.2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eedb9a1a5beeafb5ab99344bf5224860c3c205ab54bcd73b3061e0ceb984f80c","features":{},"yanked":false}
