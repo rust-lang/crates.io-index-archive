@@ -19,3 +19,4 @@
 {"name":"number-theory","vers":"0.0.18","deps":[],"cksum":"5e0a6a23cf185005300307f568c325576c75173d3aff3b8e367ad4fc7c80f456","features":{"parallel":[]},"yanked":false}
 {"name":"number-theory","vers":"0.0.19","deps":[],"cksum":"a28248d271439d917c6facbcaf3b9555001a587c46260ef81c70f8fc1c4af35a","features":{"parallel":[]},"yanked":false}
 {"name":"number-theory","vers":"0.0.20","deps":[],"cksum":"156afd8d051715b61d6ed13714263a978867a9e408e0ecfe1bf584a7746281cf","features":{"parallel":[]},"yanked":true}
+{"name":"number-theory","vers":"0.0.21","deps":[],"cksum":"5d4546db21aadb58ae0cbf2223752560b58f309241fccbbe82ec092b3b774e27","features":{"parallel":[]},"yanked":false}
