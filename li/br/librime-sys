@@ -1,0 +1,1 @@
+{"name":"librime-sys","vers":"0.3.0","deps":[{"name":"bindgen","req":"^0.64.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7d59d66b1eb601c4db31ac10a06fd19b1d5525dd0002141b095075f0098f82bd","features":{},"yanked":false}
