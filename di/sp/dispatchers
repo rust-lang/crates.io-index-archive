@@ -1,1 +1,2 @@
 {"name":"dispatchers","vers":"0.1.0","deps":[],"cksum":"19ef092baf1b61db2448dacdb898ece8c47991e6c70e74d52b1f34c180b3bf1c","features":{},"yanked":false}
+{"name":"dispatchers","vers":"0.2.0","deps":[{"name":"async-trait","req":"^0.1.64","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^1.25.0","features":["full"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfa3759f09e5f9eebff3afcb327f6941499f578f4b6bbeb2440a1460e6da061f","features":{"shared":["async-trait","tokio"]},"yanked":false}
