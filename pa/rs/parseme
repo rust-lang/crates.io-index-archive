@@ -1,0 +1,1 @@
+{"name":"parseme","vers":"0.1.0-alpha","deps":[{"name":"parseme-xid","req":"^0.1.0-alpha","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa94ea273bdfa8059ca7e27ca5d6bd5514e20523ed18f53955aedec9c3d56cb0","features":{"default":["xid"],"xid":["parseme-xid"]},"yanked":false}
