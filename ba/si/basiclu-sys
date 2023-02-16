@@ -1,0 +1,1 @@
+{"name":"basiclu-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.58","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"56823ba12fd905ca12e55cd88dfc16748306c92dfa1d46fb81ed04a26e1f4681","features":{},"yanked":false}
