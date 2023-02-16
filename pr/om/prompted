@@ -1,0 +1,1 @@
+{"name":"prompted","vers":"0.2.2","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"version-sync","req":"^0.9.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a84780fd83ae1b133455e9eb55b854f9720451d91c4bd4ccce1e022afc529a63","features":{},"yanked":false}
