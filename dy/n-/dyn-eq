@@ -1,1 +1,2 @@
 {"name":"dyn-eq","vers":"0.1.0","deps":[],"cksum":"f573ecf9922cb3492544f3a9e3b30cfd1172f325220e669c91913b987b0e1df2","features":{},"yanked":false}
+{"name":"dyn-eq","vers":"0.1.1","deps":[],"cksum":"4f4adbba95eb9c71fa3baa177fa22be41f584d593d841d83c4c757b2a2bfc694","features":{"alloc":[],"default":["alloc"]},"yanked":false}
