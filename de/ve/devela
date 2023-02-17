@@ -1,3 +1,4 @@
 {"name":"devela","vers":"0.1.0","deps":[],"cksum":"23b6d54f6fc7ce62dc6df6eef4674d21a96b6e170336b2c83c19c51bc3602261","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"devela","vers":"0.1.1","deps":[],"cksum":"fb46185bd449d4cf1f8781d22e69f292a7d6234d00c09ea4d81ce6e753f3530a","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"devela","vers":"0.1.2","deps":[],"cksum":"c8b16b4168646c1d5eb62670574b683a01e34226c34b840ec578a6b835219c6a","features":{"default":["std","safe"],"safe":[],"std":[]},"yanked":false}
+{"name":"devela","vers":"0.1.3","deps":[],"cksum":"71fe1cb919dd828ec87da6d172e0c7f9fb865784f78a17a0afc636cd696b892a","features":{"default":["std","safe"],"safe":[],"std":[]},"yanked":false}
