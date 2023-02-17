@@ -1,0 +1,1 @@
+{"name":"gix-command","vers":"0.2.3","deps":[{"name":"bstr","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94361dd657304ce572162fbee6172bf6521c0babf2f53aeaac298b99f2ac4ac5","features":{},"yanked":false}
