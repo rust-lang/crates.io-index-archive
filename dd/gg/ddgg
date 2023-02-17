@@ -1,0 +1,1 @@
+{"name":"ddgg","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive","alloc"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"21c326cf9a21a1d2318540ea079d6ec2bcdba3608c3ea302256b072ea67a516c","features":{"default":["serde"]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
