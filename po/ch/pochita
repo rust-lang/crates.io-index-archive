@@ -1,1 +1,2 @@
 {"name":"pochita","vers":"0.1.0","deps":[{"name":"sptr","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd2703accd12f6511d521852bbe7ec6719b2d8005fb95abde817b34da3d98d1f","features":{},"yanked":false}
+{"name":"pochita","vers":"0.1.1","deps":[{"name":"sptr","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a45d32a39d867ebc02ed10a5a3832f49a0b61b67557c39db80a2f4000cb1de6c","features":{},"yanked":false}
