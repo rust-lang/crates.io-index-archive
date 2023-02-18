@@ -1,0 +1,1 @@
+{"name":"haussmann","vers":"0.0.1","deps":[{"name":"sdl2","req":"^0.35.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"svg","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1d8d7576fa5718be42b8e34e30a19b87f7683761da5d9e0871c7096f3f082346","features":{},"yanked":false}
