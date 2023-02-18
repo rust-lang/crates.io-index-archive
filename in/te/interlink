@@ -1,1 +1,2 @@
 {"name":"interlink","vers":"0.1.0","deps":[],"cksum":"553cb3410198cca428ea968161b4cec16967a422698f1221fba3c4566580afc5","features":{},"yanked":false}
+{"name":"interlink","vers":"0.1.0-alpha","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8dbe08d825b634cfdbca0e34a574213d029dcf58ba9adafcb7970ad1b96d47c","features":{},"yanked":false}
