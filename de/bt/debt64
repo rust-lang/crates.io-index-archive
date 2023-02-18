@@ -14,3 +14,4 @@
 {"name":"debt64","vers":"6.0.0","deps":[],"cksum":"f54027b265787075d0d59cf91040873f85dec16e4c0f1cd650fa6503bc03e1a2","features":{"std":[]},"yanked":false}
 {"name":"debt64","vers":"7.0.0","deps":[],"cksum":"368345c6c660f82ba62d8949fd74362182644d35fc49ab1a5fbfdfec26d3023e","features":{"std":[]},"yanked":false}
 {"name":"debt64","vers":"8.0.1","deps":[],"cksum":"52173d43df36c6f88d4ae6e5aac38cda7aa423efbc429a379a831eb6257c1ef5","features":{"std":[]},"yanked":false}
+{"name":"debt64","vers":"8.0.2","deps":[],"cksum":"b539aebe5be24a2b7bc575e619422559b192f3cfda59713ee8c0ce18dfca9033","features":{"std":[]},"yanked":false}
