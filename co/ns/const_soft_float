@@ -1,2 +1,3 @@
 {"name":"const_soft_float","vers":"0.1.0","deps":[],"cksum":"4f2bd36a250a00de230ddf0bb781d7dfb1bbb39142f90a4988266a754ef290b7","features":{"const_mut_refs":[],"const_trait_impl":[],"no_std":[]},"yanked":false}
 {"name":"const_soft_float","vers":"0.1.1","deps":[],"cksum":"700b3273e3c58317614e8cb056e4e956951aa98182a7cede7e3bb2860b35474c","features":{"const_mut_refs":[],"const_trait_impl":[],"no_std":[]},"yanked":false}
+{"name":"const_soft_float","vers":"0.1.2","deps":[],"cksum":"5b534a2ec71e8718741954a95ca78d0cc61cb26e810968bef5d7e6a1a3c9cc84","features":{"const_mut_refs":[],"const_trait_impl":[],"no_std":[]},"yanked":false}
