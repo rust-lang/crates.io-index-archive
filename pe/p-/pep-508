@@ -1,0 +1,1 @@
+{"name":"pep-508","vers":"0.1.0","deps":[{"name":"chumsky","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"insta","req":"^1.28.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0337b387109ebb3f7e0d9d777060a627d68eea1ff2334f0d2ce7c1aa5acee39f","features":{},"yanked":false}
