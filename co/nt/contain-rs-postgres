@@ -1,0 +1,1 @@
+{"name":"contain-rs-postgres","vers":"0.2.0-alpha.3","deps":[{"name":"contain-rs","req":"^0.2.0-alpha.0","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f77e6f2f622e952c3687349a2a98d906942f431fd64b6ef219eb330ac9432e4","features":{},"yanked":false}
