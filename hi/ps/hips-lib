@@ -1,0 +1,1 @@
+{"name":"hips-lib","vers":"0.1.0","deps":[{"name":"image","req":"^0.24.5","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a6ae2fc63c44f7ad655725d14d666f3ec25efd7c2dd0ed04b2c287555fa33b2","features":{},"features2":{"image":["dep:image"]},"yanked":false,"v":2}
