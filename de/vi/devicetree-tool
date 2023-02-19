@@ -1,0 +1,1 @@
+{"name":"devicetree-tool","vers":"0.1.0","deps":[{"name":"argh","req":"^0.1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bac0e8a54327e5549c3c75979722738401800a2d91c829c266d63dcb6d4f72b6","features":{},"yanked":false}
