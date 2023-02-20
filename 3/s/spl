@@ -1,0 +1,1 @@
+{"name":"spl","vers":"0.0.1","deps":[{"name":"once_cell","req":"^1.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"readformat","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b6059c5006fafa4ba52ad6e30de219bfcf04762c597eef39f07fe6f480215d48","features":{},"yanked":false}
