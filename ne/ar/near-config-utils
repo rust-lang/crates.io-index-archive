@@ -1,1 +1,2 @@
 {"name":"near-config-utils","vers":"0.15.0","deps":[{"name":"json_comments","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4bd32d1b7d960a9bb44f53fd29bf77c8d8600e8afd49a8a1eab249dd52499f67","features":{},"yanked":false}
+{"name":"near-config-utils","vers":"0.16.0","deps":[{"name":"json_comments","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"983f97adc4ff870436005d8af9b8fde2c3dc575abe7b6043cc8504c9add3fe30","features":{},"yanked":false}
