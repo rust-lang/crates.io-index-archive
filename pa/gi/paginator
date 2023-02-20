@@ -9,3 +9,4 @@
 {"name":"paginator","vers":"0.2.2","deps":[],"cksum":"8df1002b494d6fb3ff13aba5467cfddcbd1278a3e3abcc92f286b6ff4431701c","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"paginator","vers":"0.2.3","deps":[],"cksum":"e19336da4808048855feaf55ec55b4a0dec4651a16328331b8cfff8a3094469b","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"paginator","vers":"0.2.4","deps":[],"cksum":"212f4c97c35a3b62568bb14d6a3d551bdae036046d6cfd638b2a05cf2e6985cc","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"paginator","vers":"0.2.5","deps":[],"cksum":"3d1490013606204654e6c2f0571a5143d90b5b99569ff21fe55de768eb0fc62d","features":{"default":["std"],"std":[]},"yanked":false}
