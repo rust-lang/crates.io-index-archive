@@ -1,0 +1,1 @@
+{"name":"dioxus-class","vers":"0.1.0","deps":[{"name":"dioxus","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7976550423289448beada437751e0cd605736fced37949beac712d875e53d424","features":{"components":[],"default":["components"]},"yanked":false}
