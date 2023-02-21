@@ -1,1 +1,2 @@
 {"name":"qook","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4ac09bcd1bd3ecf2401b702e6aec5975975f049b3dae7d8a03c7ca0a332f9050","features":{},"yanked":false,"links":"qrack_invoke"}
+{"name":"qook","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"64910555fe7a247b3dcc98accdf644169e8ad5cf1d9535282b76e20ba5551520","features":{},"yanked":false,"links":"qrack_invoke"}
