@@ -1,2 +1,2 @@
-{"name":"rfa","vers":"0.1.0","deps":[{"name":"erfa-sys","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"655d3e12574e4acf9b4a96619c4940a25cf01c26d96a2a0b40fbdca2a6ea1417","features":{},"yanked":false}
+{"name":"rfa","vers":"0.1.0","deps":[{"name":"erfa-sys","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"655d3e12574e4acf9b4a96619c4940a25cf01c26d96a2a0b40fbdca2a6ea1417","features":{},"yanked":true}
 {"name":"rfa","vers":"0.1.1","deps":[{"name":"erfa-sys","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"37417b0c4574a90ae30a11a7d1cd028006ca2de6cfd2044ba8ebab2765e46379","features":{},"yanked":false}
