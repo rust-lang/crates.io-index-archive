@@ -1,0 +1,1 @@
+{"name":"libtetris","vers":"0.0.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd7328546b63364ce7b19de0c986a2a2b4564689e20ba332bfe4748ee93489a4","features":{},"yanked":false}
