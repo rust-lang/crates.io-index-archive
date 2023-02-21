@@ -2,3 +2,4 @@
 {"name":"traiter","vers":"0.1.0","deps":[],"cksum":"b67018a14d5ff8a6b95563c8ebfc50cb9f4402539083751063863987faa4523a","features":{"collections":[],"numbers":[],"std":[]},"yanked":false}
 {"name":"traiter","vers":"1.0.0","deps":[],"cksum":"e349a96813315384bcbc3cce1a9e538c026e93be43f5306571303be6094ae28b","features":{"collections":[],"numbers":[],"std":[]},"yanked":false}
 {"name":"traiter","vers":"1.1.0","deps":[],"cksum":"254da3f72c6505d4aeb5245c2803e0919cc06dd8522e286d3edc93fcc4c60434","features":{"collections":[],"numbers":[],"std":[]},"yanked":false}
+{"name":"traiter","vers":"2.0.0","deps":[],"cksum":"c78f8c0326c369a0a7961c2d67ba26f53f58d051870b80a44aa7e12e1cf51500","features":{"collections":[],"numbers":[],"std":[]},"yanked":false}
