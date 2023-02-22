@@ -1,0 +1,1 @@
+{"name":"sevseg_3642bs","vers":"0.3.1","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a2c2d10dfab6056a0f070e17508ba1ca44dc226c78768f05a111cc781c09002","features":{},"yanked":false}
