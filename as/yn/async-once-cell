@@ -6,3 +6,4 @@
 {"name":"async-once-cell","vers":"0.4.1","deps":[],"cksum":"11721f5882b9b721f2e7a740ea85cbbd7b21d972be3b625fdbea124e7ee075aa","features":{"unpin":[]},"yanked":false}
 {"name":"async-once-cell","vers":"0.4.2","deps":[],"cksum":"f61305cacf1d0c5c9d3ee283d22f8f1f8c743a18ceb44a1b102bd53476c141de","features":{"unpin":[]},"yanked":false}
 {"name":"async-once-cell","vers":"0.4.3","deps":[],"cksum":"390a110411bbc7c93b77a736cbd694f64cb06dfa2702173f63169d7a1e1b5298","features":{"unpin":[]},"yanked":false}
+{"name":"async-once-cell","vers":"0.4.4","deps":[{"name":"critical-section","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b49bd4c5b769125ea6323601c39815848972880efd33ffb2d01f9f909adc699","features":{"std":[],"unpin":["std"]},"features2":{"critical-section":["dep:critical-section"]},"yanked":false,"v":2}
