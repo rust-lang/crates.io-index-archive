@@ -6,3 +6,4 @@
 {"name":"cld","vers":"0.4.1","deps":[],"cksum":"9ce3655c23ebf9cdeed9a0cb47fd2f2f6b3333cb520fd6f8e852fae983ccbaae","features":{"std":[]},"yanked":false}
 {"name":"cld","vers":"0.4.2","deps":[],"cksum":"642b8c05700b4b4f207c0c80797324288471868d82f890369116c4a7920b1ddf","features":{"std":[]},"yanked":false}
 {"name":"cld","vers":"0.5.0","deps":[],"cksum":"6a78c5223c7966b3f7c4ecacae340d1ef303e2d4e4466063002c68e0d7a4cdde","features":{"std":[]},"yanked":false}
+{"name":"cld","vers":"0.5.1","deps":[],"cksum":"021080b0a3dbefcf1c1f0b3ad6a923b81f16801d874ec338c168ac0b0762baf5","features":{"std":[]},"yanked":false}
