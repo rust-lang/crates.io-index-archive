@@ -1,0 +1,1 @@
+{"name":"ftc","vers":"0.1.0","deps":[{"name":"forgedthoughts","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"png","req":"^0.17.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24c734eea3b24121bac5a018a9ea7fc4b50da0d55397d4822c5dd1e99b3a2745","features":{},"yanked":false}
