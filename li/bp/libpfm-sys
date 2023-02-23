@@ -1,0 +1,1 @@
+{"name":"libpfm-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.64.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1e75fb29f19e00b01a9aabe5162b96de16c9efdd5bf7323c6becdd98c54349f2","features":{},"yanked":false}
