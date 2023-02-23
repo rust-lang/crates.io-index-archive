@@ -1,0 +1,1 @@
+{"name":"gl_struct_loader","vers":"0.1.0","deps":[{"name":"gl_types","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce74d55973dbd661687a595fe53930a6b12dfb0d19328aa2966612e83359b752","features":{"alloc":[],"default":["std"],"std":["alloc"],"track_caller":[]},"yanked":false}
