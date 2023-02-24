@@ -1,0 +1,1 @@
+{"name":"plrust-trusted-pgx","vers":"0.0.0-do-not-use","deps":[{"name":"pgx","req":"=0.7.2","features":["no-schema-generation"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5df51ec0945613e28ac15f3d644aa3a23f3ff9157520c68d01d8c219d7327db3","features":{"pg13":["pgx/pg13"],"pg14":["pgx/pg14"],"pg15":["pgx/pg15"]},"yanked":false}
