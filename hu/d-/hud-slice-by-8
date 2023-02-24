@@ -1,1 +1,2 @@
 {"name":"hud-slice-by-8","vers":"1.0.3","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"88f8539703af88e01dd73fee2d312f20cd70ed5bbe61502b5a331c68184e29be","features":{},"yanked":true}
+{"name":"hud-slice-by-8","vers":"1.0.5","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"0fe94747995b03bf5b164b5c1f481a5f67c30f44e66f95b830ccd7590bea7e2e","features":{},"yanked":false}
