@@ -1,1 +1,1 @@
-{"name":"openai_bootstrap","vers":"1.0.0-alpha.3","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f00e099a1ad36b7415d98def33de631bee27b07bbf75c66c05650d938dc1d32","features":{},"yanked":false}
+{"name":"openai_bootstrap","vers":"1.0.0-alpha.3","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f00e099a1ad36b7415d98def33de631bee27b07bbf75c66c05650d938dc1d32","features":{},"yanked":true}
