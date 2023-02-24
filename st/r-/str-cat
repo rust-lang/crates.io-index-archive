@@ -1,1 +1,2 @@
 {"name":"str-cat","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"94375fa5cc4a057a18a8ac30ea2d38c43fe3dbf96978042fc3881c17a292ca2d","features":{},"yanked":false}
+{"name":"str-cat","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"94e2d6dc10a7401263dd0d51f7e8e9c4470a09853cb1d31dac89fcc81cf2d096","features":{},"yanked":false}
