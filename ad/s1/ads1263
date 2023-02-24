@@ -1,3 +1,4 @@
 {"name":"ads1263","vers":"0.1.0","deps":[],"cksum":"be0d99ccdf99493e1c9276d627cab5d4cb9ad8e389d22bce61c5c650ce172614","features":{},"yanked":false}
 {"name":"ads1263","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22158db26ef584449bbfc1821118e7dcae36b48849a28f9aacf94f3f67b6eaeb","features":{},"yanked":false}
 {"name":"ads1263","vers":"0.1.2","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10f3b7360bccaf773ea34caa7755131872bb13cf5f62bf6723266ce02055ee82","features":{},"yanked":false}
+{"name":"ads1263","vers":"0.1.3","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad47aa2b1e5412160bc47196e41f966f0ec38388d7d5a4f1e17725876b299fee","features":{},"yanked":false}
