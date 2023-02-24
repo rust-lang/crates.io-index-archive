@@ -1,2 +1,3 @@
 {"name":"sgb_wrobel","vers":"0.1.0","deps":[],"cksum":"8954278db68b770a0207e127e355ddaade1bab03dcf37f3a7c99d96d15b39d9b","features":{},"yanked":true}
 {"name":"sgb_wrobel","vers":"0.1.1","deps":[],"cksum":"dd2ceeb59dc0531eb85657cb6f4a6fb60de209724ed3b497bffc23658794b5db","features":{},"yanked":false}
+{"name":"sgb_wrobel","vers":"0.1.2","deps":[{"name":"yew","req":"^0.20","features":["csr"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7eef19a15a392ac365faf406155a00a71bdea6b1d427efdc09db6e4c2fd7fc2f","features":{},"yanked":false}
