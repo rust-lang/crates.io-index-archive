@@ -1,0 +1,1 @@
+{"name":"stream_limiter","vers":"1.0.0","deps":[{"name":"tempfile","req":"^3.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"68f9a002ae68e14522bc1c80f4e55cd6a56976bda0634cc3c0d06c267a600016","features":{},"yanked":false}
