@@ -1,1 +1,2 @@
 {"name":"checkito","vers":"0.1.0","deps":[{"name":"fastrand","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ad20bb63108fdfd17f92105e3c5fadfc70c64d4f0b7fcdb2b7fe8ce5756cbc7","features":{},"yanked":false}
+{"name":"checkito","vers":"0.1.1","deps":[{"name":"fastrand","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92863b3254658ff638466fa0e3fe0a3c28d4089888924e144f15f875b31aa20d","features":{},"yanked":false}
