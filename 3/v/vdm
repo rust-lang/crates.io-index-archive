@@ -1,2 +1,3 @@
 {"name":"vdm","vers":"1.0.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8541663c6cce1e5d072347ec6e868c2bfcd9c18e8df87ce5557abf99cb571e41","features":{},"yanked":false}
 {"name":"vdm","vers":"1.0.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96bb52c6e2441fc17b1697e1a24d835fbee51a74ff969780c3387e6c8f253e91","features":{},"yanked":false}
+{"name":"vdm","vers":"1.0.2","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d605aa72ddc7df6bcbf0e8ac82b84a35757784fcc4cb44310a23cedb0bcf85c7","features":{},"yanked":false}
