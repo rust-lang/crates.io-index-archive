@@ -1,0 +1,1 @@
+{"name":"wl-tools","vers":"0.0.0-alpha.1","deps":[{"name":"test-case","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"0f332013f454563f7fd4e8391674d030b24cc4efa656ce1d0a94de063a19164f","features":{"default":[]},"yanked":false}
