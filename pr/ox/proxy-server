@@ -1,1 +1,2 @@
 {"name":"proxy-server","vers":"0.1.0","deps":[{"name":"regex","req":"^1.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02519a96077efcd9506b65bfc7bf89a87feb4c904a3735d86e4e845ab141c6b7","features":{},"yanked":false}
+{"name":"proxy-server","vers":"0.1.1","deps":[{"name":"regex","req":"^1.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2e351f750d4b2a77c6b549ba15e7375a8602869cb1126826560a768653b259a","features":{},"yanked":false}
