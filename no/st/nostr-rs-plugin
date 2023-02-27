@@ -1,1 +1,2 @@
 {"name":"nostr-rs-plugin","vers":"0.1.0","deps":[{"name":"nostr-rs-proto","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1255cb54385c07c036884fee33c59cda43317a266625dfe424e8712e5e7f8d22","features":{},"yanked":false}
+{"name":"nostr-rs-plugin","vers":"0.1.1","deps":[{"name":"nostr-rs-proto","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46b83a6bae1a899611eae96aae46b46538b1e52c6182d0e0b38175993ac4cb80","features":{},"yanked":false}
