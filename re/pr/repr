@@ -1,0 +1,1 @@
+{"name":"repr","vers":"0.0.0","deps":[{"name":"regex","req":"^1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex-syntax","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cec31470ffbe26c23f72486113f8985d1d4de4e89d6d5b70621d92b19a45e234","features":{},"yanked":false}
