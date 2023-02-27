@@ -1,0 +1,1 @@
+{"name":"allocator-api2","vers":"0.0.0","deps":[{"name":"sptr","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9161e92002f826a6dc00e1a897cbabfa62a20d115cdbfec72d8fe23f373ce85f","features":{"alloc":[],"default":["std"],"nightly":[],"std":["alloc"]},"yanked":false}
