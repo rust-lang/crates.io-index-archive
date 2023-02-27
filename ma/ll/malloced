@@ -1,3 +1,4 @@
 {"name":"malloced","vers":"1.0.0","deps":[],"cksum":"0bff315479ea9c7f1cb0b603077030832f7841cfcf8de7ba3badc9b17b27451a","features":{"default":["std"],"pin":[],"std":[]},"yanked":false}
 {"name":"malloced","vers":"1.0.1","deps":[],"cksum":"16e64984de525a83b51a44f6561cba03cd22d9c4b7ad67913edc60cacdf525b8","features":{"default":["std"],"pin":[],"std":[]},"yanked":false}
 {"name":"malloced","vers":"1.1.0","deps":[],"cksum":"d1f1986e0c53fe06cc6ae463b1c2bb325cf13ad4d4aeca9fe567a0dd974e04c9","features":{"default":["std"],"pin":[],"std":[]},"yanked":false}
+{"name":"malloced","vers":"1.1.1","deps":[],"cksum":"05ded96cdb6fb20a136e12d15453d82617361197d584f7546b737a5e7cb22c52","features":{"default":["std"],"pin":[],"std":[]},"yanked":false}
