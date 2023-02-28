@@ -1,1 +1,2 @@
 {"name":"csbindgen","vers":"0.1.0","deps":[{"name":"syn","req":"^1.0.109","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"846def7807ffa8e263f4d5f51477021bad2ae515b71c21974fabe46bf8fa5324","features":{},"yanked":false}
+{"name":"csbindgen","vers":"0.1.1","deps":[{"name":"syn","req":"^1.0.109","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"633bceaf2f8a6cdaba6b5745bf1ac5f00aa059d7e29cc16188b50ac75a387be1","features":{},"yanked":false}
