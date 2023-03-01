@@ -3,4 +3,4 @@
 {"name":"threshold-dict","vers":"0.1.4","deps":[],"cksum":"ddff9b77d23836fadc9effaa026876b5529baf81d5145a9ce37b217c179e24a7","features":{},"yanked":false}
 {"name":"threshold-dict","vers":"0.2.0","deps":[],"cksum":"9048e33ed3aeaea024c78981de35d63625ba45196fee436cc70720fadb8c1947","features":{},"yanked":false}
 {"name":"threshold-dict","vers":"0.3.0","deps":[],"cksum":"6d604994f186634cad095daf3b6f201f967e276fbd720dd4269f8fa6921a9924","features":{},"yanked":false}
-{"name":"threshold-dict","vers":"0.4.0","deps":[],"cksum":"24eed22ba02e77a9781a10175e08bd2bfedd8183ce5a810d8b5e55f0904b6395","features":{},"yanked":false}
+{"name":"threshold-dict","vers":"0.4.0","deps":[],"cksum":"24eed22ba02e77a9781a10175e08bd2bfedd8183ce5a810d8b5e55f0904b6395","features":{},"yanked":true}
