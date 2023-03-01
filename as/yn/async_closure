@@ -1,0 +1,1 @@
+{"name":"async_closure","vers":"0.1.0","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"667ade48389e533d850abece72354e6cc032159ea90d24b37b7f0da77d93065f","features":{},"yanked":false}
