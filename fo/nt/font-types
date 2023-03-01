@@ -2,3 +2,4 @@
 {"name":"font-types","vers":"0.0.2","deps":[],"cksum":"90262164e3adddbec5a0de7c35b2c19423e066162587d189255d0646a2e92ff2","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"font-types","vers":"0.0.3","deps":[],"cksum":"d8a29d385c5ec3ebfdc16229260562aeed1b83d72563d211773087a6daf970d7","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"font-types","vers":"0.0.5","deps":[],"cksum":"c1e732be1df9237f6ee23b525b5bb360bd3a6773d6253cac0c955ce341bf93fc","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"font-types","vers":"0.0.6","deps":[],"cksum":"011771d19c76ca41e6916700d7eb71b41a185c9de82db3f27d340d1e3a3338b2","features":{"default":["std"],"std":[]},"yanked":false}
