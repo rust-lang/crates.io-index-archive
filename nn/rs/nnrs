@@ -1,1 +1,1 @@
-{"name":"nnrs","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.69","features":["std","backtrace"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d826921196145cfa46feb6101c47f5f0503cbcc6a83312b8b865fb48850d883","features":{},"yanked":false}
+{"name":"nnrs","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.69","features":["std","backtrace"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d826921196145cfa46feb6101c47f5f0503cbcc6a83312b8b865fb48850d883","features":{},"yanked":true}
