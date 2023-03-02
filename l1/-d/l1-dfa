@@ -9,3 +9,4 @@
 {"name":"l1-dfa","vers":"0.0.9","deps":[],"cksum":"bfc936b2a242b5e047414c73a15c33979b157441d894101c81b90a222b16bddf","features":{},"yanked":false}
 {"name":"l1-dfa","vers":"0.0.10","deps":[{"name":"regex-syntax","req":"^0.6.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff7b2c8e560a14c81349b1f2bdb72a9eda0bb385dfd4d15d65df366be9b1da15","features":{},"yanked":false}
 {"name":"l1-dfa","vers":"0.1.0","deps":[{"name":"regex-syntax","req":"^0.6.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a82440b53f3390b3f84b33ae0c8245631086ec225b7c3441e5021d223b6205f","features":{},"yanked":false}
+{"name":"l1-dfa","vers":"0.1.1","deps":[{"name":"regex-syntax","req":"^0.6.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66904dee2586ea0371f4cd6e163381b26b62ca642e7690b2c3a1181913aaf00e","features":{},"yanked":false}
