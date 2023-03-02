@@ -1,0 +1,1 @@
+{"name":"caffe2op-crash","vers":"0.1.3-alpha.0","deps":[{"name":"caffe2-imports","req":"^0.1.3-alpha.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d039fc4609b3f76278851a8fdfd6d22bfbe1c9c977943e733c5f5eb10de7b03","features":{},"yanked":false}
