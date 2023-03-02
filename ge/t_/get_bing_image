@@ -1,1 +1,1 @@
-{"name":"get_bing_image","vers":"0.1.0","deps":[{"name":"http_req","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96e0ce9e928a15135374856f368308c1522ad2e07a4ff3a16b9dfcc4af14f534","features":{},"yanked":false}
+{"name":"get_bing_image","vers":"0.1.0","deps":[{"name":"http_req","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96e0ce9e928a15135374856f368308c1522ad2e07a4ff3a16b9dfcc4af14f534","features":{},"yanked":true}
