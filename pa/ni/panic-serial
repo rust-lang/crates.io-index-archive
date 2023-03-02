@@ -1,0 +1,1 @@
+{"name":"panic-serial","vers":"0.1.0","deps":[{"name":"ufmt","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9163d387cc4824a04659a20cb3c295cf9b6eb8fa8676978d5f20669c6c6d6b20","features":{"full":["location","message"],"location":[],"message":[]},"yanked":false}
