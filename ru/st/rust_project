@@ -1,0 +1,1 @@
+{"name":"rust_project","vers":"0.1.0","deps":[{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbac3784aac2acc2e0b809ce8f5e49b8b7d2f8d84fc20adb110e92dd191ba650","features":{},"yanked":false}
