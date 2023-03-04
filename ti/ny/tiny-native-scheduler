@@ -1,0 +1,1 @@
+{"name":"tiny-native-scheduler","vers":"0.1.0","deps":[{"name":"time","req":"^0.3","features":["local-offset","formatting"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"a772840dae5a211bcc8fc053ec14737e2da6a1d339d41cabf4e1c90c08fd2f5f","features":{},"yanked":false}
