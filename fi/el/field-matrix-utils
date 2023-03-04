@@ -1,0 +1,1 @@
+{"name":"field-matrix-utils","vers":"0.1.0","deps":[{"name":"ark-ff","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d9eeb6a9aa5754db0f2d526b32a9422fe2f259c635822c990dc15f6b98b19e3","features":{},"yanked":false}
