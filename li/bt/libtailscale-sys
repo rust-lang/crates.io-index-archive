@@ -1,3 +1,4 @@
 {"name":"libtailscale-sys","vers":"0.1.0","deps":[],"cksum":"43fe249ffa3e9aaca35a540fe0338140c89c494c4159a9a878ee14eee6da4428","features":{},"yanked":false}
 {"name":"libtailscale-sys","vers":"0.1.1","deps":[],"cksum":"4debef0e7513e1ff35000ea0e502c316eca01231b380ec6f56c66c61c11c90e2","features":{},"yanked":false}
 {"name":"libtailscale-sys","vers":"0.1.2","deps":[],"cksum":"951f387e767e7fb06b833402a119b73b79d1f26861912727307e85d174925156","features":{},"yanked":false}
+{"name":"libtailscale-sys","vers":"0.1.3","deps":[{"name":"cc","req":"^1.0.79","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a34937ab69c6e65aa051315d6ccdefa7639dfa3f8bf40667a44105f26030052c","features":{},"yanked":false}
