@@ -1,1 +1,2 @@
 {"name":"propparse","vers":"0.1.0","deps":[{"name":"linked-hash-map","req":"^0.5.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a6293690f783aa8ba42a306ad481f2ab126dccabce7427cd5ba1fc031ad1f2e","features":{},"yanked":false}
+{"name":"propparse","vers":"0.1.1","deps":[],"cksum":"f14c6560051e5ddb5cbad094ef2a14bdbd49b4adeb657bd2c5b1937bf9978b34","features":{},"yanked":false}
