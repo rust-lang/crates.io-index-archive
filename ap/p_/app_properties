@@ -1,0 +1,1 @@
+{"name":"app_properties","vers":"0.1.0","deps":[{"name":"serde_yaml","req":"^0.9.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82e1366fa38e36eb66ed6702716250dd36ea86ac74172f07c116099e6cea18c9","features":{},"yanked":false}
