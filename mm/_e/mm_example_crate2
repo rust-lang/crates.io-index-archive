@@ -1,0 +1,1 @@
+{"name":"mm_example_crate2","vers":"0.1.1","deps":[{"name":"macro_magic","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c63c63d834fd6fb7b7a37304193c8471959b72198bba3cd31ac8c39f799bb920","features":{"default":[],"indirect":["macro_magic/indirect"]},"yanked":false}
