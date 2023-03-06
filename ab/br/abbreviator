@@ -6,3 +6,4 @@
 {"name":"abbreviator","vers":"0.1.5","deps":[],"cksum":"1062469057e03e9323c9164cbb884de82f94806ebf183c54e4265c93f9e23002","features":{},"yanked":false}
 {"name":"abbreviator","vers":"0.1.6","deps":[],"cksum":"9cb913ac9bdc5033aea7da1cfce847ce66d48891f195e9d514902d73d76d096d","features":{},"yanked":false}
 {"name":"abbreviator","vers":"0.1.7","deps":[{"name":"unicode-segmentation","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a82d270c6c2d75411aac08106e391aec5216abd56b7bbd0b73dc9c9ab244c78a","features":{},"yanked":false}
+{"name":"abbreviator","vers":"0.1.8","deps":[{"name":"unicode-segmentation","req":"^1.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad3f908d472e77a612054746b56ae0c72f3cee0a627277f3174f0623eeb40b85","features":{},"yanked":false}
