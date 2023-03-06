@@ -1,0 +1,1 @@
+{"name":"lsip","vers":"0.0.1","deps":[{"name":"rayon","req":"^1.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d9cfe3a09a1a8873c2df8af10d7f8c017c790766ac9ca11f575692fd4c7b999","features":{},"yanked":false}
