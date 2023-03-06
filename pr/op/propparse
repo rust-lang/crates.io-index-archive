@@ -1,5 +1,5 @@
 {"name":"propparse","vers":"0.1.0","deps":[{"name":"linked-hash-map","req":"^0.5.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a6293690f783aa8ba42a306ad481f2ab126dccabce7427cd5ba1fc031ad1f2e","features":{},"yanked":false}
 {"name":"propparse","vers":"0.1.1","deps":[],"cksum":"f14c6560051e5ddb5cbad094ef2a14bdbd49b4adeb657bd2c5b1937bf9978b34","features":{},"yanked":false}
 {"name":"propparse","vers":"0.1.2","deps":[],"cksum":"7e99396b7278ecfebef6a4038f6a0e0a921b2cf58535629feaa5266e0d7a9b50","features":{},"yanked":false}
-{"name":"propparse","vers":"0.1.3","deps":[],"cksum":"bad5808e92c6fdbde39833f93561d4230a149e2c6503cb104bb7fe6dbd1cb29c","features":{},"yanked":true}
+{"name":"propparse","vers":"0.1.3","deps":[],"cksum":"bad5808e92c6fdbde39833f93561d4230a149e2c6503cb104bb7fe6dbd1cb29c","features":{},"yanked":false}
 {"name":"propparse","vers":"0.2.0","deps":[],"cksum":"3d3224f8f346b8020993fdf18a82832438522afaecedc91909db38a68afdacc0","features":{},"yanked":false}
