@@ -1,2 +1,2 @@
-{"name":"memgraph","vers":"0.1.0","deps":[],"cksum":"6d4a640c33cb9e0452c9d071d9639530e39ef0d7412d99e499efb89d435def4f","features":{},"yanked":false}
+{"name":"memgraph","vers":"0.1.0","deps":[],"cksum":"6d4a640c33cb9e0452c9d071d9639530e39ef0d7412d99e499efb89d435def4f","features":{},"yanked":true}
 {"name":"memgraph","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.152","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e76aa12d53c7942fb45b908cb0f73a1386d27606fa6252ba0e3ea54af4bc005","features":{},"yanked":false}
