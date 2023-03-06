@@ -1,1 +1,1 @@
-{"name":"guitar","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.17.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d72a06f01194812cb46904cfffa543958ad27faad637588dd19896b59b8d73dc","features":{},"yanked":false}
+{"name":"guitar","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.17.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d72a06f01194812cb46904cfffa543958ad27faad637588dd19896b59b8d73dc","features":{},"yanked":true}
