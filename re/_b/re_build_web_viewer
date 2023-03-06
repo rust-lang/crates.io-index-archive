@@ -1,0 +1,1 @@
+{"name":"re_build_web_viewer","vers":"0.3.0-alpha.1","deps":[{"name":"cargo_metadata","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4f7e3f67e3b16a5cfe6ed8b5fd4e169a478de462487b946af056f0e08a85f8d","features":{},"yanked":false}
