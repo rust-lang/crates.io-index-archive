@@ -6,3 +6,4 @@
 {"name":"coredb","vers":"15.1.0-coredb.6","deps":[],"cksum":"3d16939438abce8e34f582852840bc5d2a3b0b35c579a8949474198a81f74a29","features":{},"yanked":false}
 {"name":"coredb","vers":"15.1.0-coredb.7","deps":[],"cksum":"69b985eb8743be658c7d65b219db9f26014c13e6f3dd9fc591aeeaa0a7e01fce","features":{},"yanked":false}
 {"name":"coredb","vers":"15.1.0-coredb.8","deps":[],"cksum":"0a3e20a32a43a06b2c275f19c1ea6e9baf37a618847caa0778591637c8d3be34","features":{},"yanked":false}
+{"name":"coredb","vers":"15.1.0-coredb.9","deps":[],"cksum":"f53a92c11fc2eb62c92930b03eaca8faa3360fc7d07d75089d3bd921a087c232","features":{},"yanked":false}
