@@ -1,0 +1,1 @@
+{"name":"bevy_mod_billboard","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.9.1","features":["bevy_core_pipeline","bevy_render","bevy_asset","bevy_text","bevy_sprite"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"54b4a1859284d3fb982a8802a7ed62b97387c2ab837fba52bb2dcf8ca1b9db53","features":{},"yanked":false}
