@@ -5,3 +5,4 @@
 {"name":"anstyle","vers":"0.2.3","deps":[],"cksum":"1ec2736434cf236ccb1d19b4fd660f329125cca6fe0e8510231377b9b8f3b99d","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"anstyle","vers":"0.2.4","deps":[],"cksum":"a14a192897f8e90c08a67fd5d079b30a882b00ab7e4bff6ddaacb2a021f36b17","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"anstyle","vers":"0.2.5","deps":[],"cksum":"58bb0ec944fe041c41e32dcd60b49327fcb7ff761433838878cc97ddecf16db7","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"anstyle","vers":"0.2.6","deps":[{"name":"lexopt","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1d00b40fa212dc80cdfbba3fa02d51662b46c8388f105b0a65ac5a5d13b02f75","features":{"default":["std"],"std":[]},"yanked":false}
