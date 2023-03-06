@@ -1,0 +1,1 @@
+{"name":"promise_out","vers":"0.1.0","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1dfbf4c269fb4405cfc33ac6f3913ad175197afcf5cd0a9c988d10c046ea3f74","features":{},"yanked":false}
