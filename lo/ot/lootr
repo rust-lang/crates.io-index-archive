@@ -1,0 +1,1 @@
+{"name":"lootr","vers":"0.3.0","deps":[{"name":"ascii_tree","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2541b8762103a657e85e6d31e8b56e5c5998fed56d793fb4227395286a806037","features":{},"yanked":false}
