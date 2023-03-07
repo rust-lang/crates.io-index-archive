@@ -1,1 +1,2 @@
 {"name":"leaf-spread","vers":"0.1.0","deps":[{"name":"itertools","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0606478e5239a47cac5a0892794d9534072d1fe5090c9644170e4098e2b27185","features":{},"yanked":false}
+{"name":"leaf-spread","vers":"0.1.1","deps":[{"name":"itertools","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69b9e76e9a57b921073edf282ea282f7dd5b11124bf0c9209af80b8a85a70e5e","features":{},"yanked":false}
