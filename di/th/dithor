@@ -1,1 +1,2 @@
 {"name":"dithor","vers":"0.1.0","deps":[{"name":"image","req":"^0.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34e4f6db2afb2dde15166ca3d5d978a452081241d07f63dca44edd795379b70f","features":{},"yanked":false}
+{"name":"dithor","vers":"0.2.0","deps":[{"name":"image","req":"^0.24.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"da1c4eb4e88b5b330f1ddd66df6823dd9a2bcd2d7283f3e3d6af8214089af8be","features":{},"yanked":false}
