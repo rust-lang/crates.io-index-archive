@@ -1,1 +1,2 @@
 {"name":"leptos-tracked","vers":"0.1.0","deps":[{"name":"leptos_reactive","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c620fcd7bfece9fc492b103ae1250291a9cebb696db6def7ba99ccc39fc8a448","features":{},"yanked":false}
+{"name":"leptos-tracked","vers":"0.1.1","deps":[{"name":"leptos_reactive","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a8cd2e95412eb5858afd9006ae5891ee2f2f37784210696938bb34e8082ad442","features":{},"yanked":false}
