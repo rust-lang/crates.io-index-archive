@@ -1,0 +1,1 @@
+{"name":"seckoo","vers":"0.0.0-alpha0.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b1e14471df9f1197b43eb5505c4cc17f762fc7698ae6aba43719b634d842068b","features":{},"yanked":false}
