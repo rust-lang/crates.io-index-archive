@@ -1,2 +1,3 @@
 {"name":"cxx-qt-lib-headers","vers":"0.4.0","deps":[],"cksum":"4c7883919d7a06074cd192e215e779a3e2efbc060683a98624d3221133236297","features":{},"yanked":false}
 {"name":"cxx-qt-lib-headers","vers":"0.4.1","deps":[],"cksum":"e74805ac9bd18d2907d158aa2696033c22a209146941bc3142df190d65a31414","features":{},"yanked":false}
+{"name":"cxx-qt-lib-headers","vers":"0.5.0","deps":[],"cksum":"c7de5660192b973df3fd6f9999b966004308bc29429aea0f4a8dfdcebe7d220b","features":{"default":[],"qt_gui":[],"qt_qml":[]},"yanked":false}
