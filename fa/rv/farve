@@ -1,1 +1,2 @@
 {"name":"farve","vers":"0.1.0","deps":[{"name":"owo-colors","req":"^3.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"403c5f6c312a23a5451df67486c69cb2bada48772bcbda79f6fd395e69d976e1","features":{},"yanked":false}
+{"name":"farve","vers":"0.1.1","deps":[{"name":"owo-colors","req":"^3.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d02d75f19c8d23ca96b0bf7e69c29031eb7e0d836bff6027d2ca83fa4e675027","features":{},"yanked":false}
