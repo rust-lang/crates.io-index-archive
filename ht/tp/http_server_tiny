@@ -1,0 +1,1 @@
+{"name":"http_server_tiny","vers":"0.1.0","deps":[{"name":"tiny_http","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2be4bacdbc24b126110599d76fa451e82341e5d6065d7b221c89e47270d5bab","features":{},"yanked":false}
