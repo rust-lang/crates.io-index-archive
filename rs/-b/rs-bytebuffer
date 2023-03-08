@@ -1,0 +1,1 @@
+{"name":"rs-bytebuffer","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64eb011a0769b5cdec396622cd25391521de557fdc3eb3a1d71c2d04611914b1","features":{},"yanked":false}
