@@ -4,3 +4,4 @@
 {"name":"concolor-query","vers":"0.0.4","deps":[],"cksum":"ad159cc964ac8f9d407cbc0aa44b02436c054b541f2b4b5f06972e1efdc54bc7","features":{"windows":[]},"yanked":false}
 {"name":"concolor-query","vers":"0.0.5","deps":[],"cksum":"d6417fe6fc03a8b533fd2177742eeb39a90c7233eedec7bac96d4d6b69a09449","features":{"windows":[]},"yanked":false}
 {"name":"concolor-query","vers":"0.1.0","deps":[],"cksum":"82a90734b3d5dcf656e7624cca6bce9c3a90ee11f900e80141a7427ccfb3d317","features":{"windows":[]},"yanked":false}
+{"name":"concolor-query","vers":"0.2.0","deps":[{"name":"windows-sys","req":"^0.45.0","features":["Win32_System_Console","Win32_Foundation"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"71cd70b9f86dd588a4a08471ebbd5847cb25f0116aaddeace95470cce096ff7d","features":{},"yanked":false}
