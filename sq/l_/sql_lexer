@@ -15,3 +15,4 @@
 {"name":"sql_lexer","vers":"0.9.1","deps":[],"cksum":"f036db89abb880a62d48fc13459aa132ffa6cac8312a07dbcd6a1ac1910e2057","features":{},"yanked":false}
 {"name":"sql_lexer","vers":"0.9.2","deps":[],"cksum":"56b1e431f024689091a412d6e6d5b51a4c0b00d9962f14e760bf7519e773241c","features":{},"yanked":false}
 {"name":"sql_lexer","vers":"0.9.3","deps":[],"cksum":"6cfc81dbbac5c55cc92508f1272b2d9401b7576fbfcc786d507680baa03397d0","features":{},"yanked":false}
+{"name":"sql_lexer","vers":"0.9.4","deps":[],"cksum":"d2053a1b4c7ed721c7fa79dca4d82c28dfe132e0785366303558dbafe216e29c","features":{},"yanked":false}
