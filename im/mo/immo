@@ -1,0 +1,1 @@
+{"name":"immo","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"png","req":"^0.17.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2f188a184b896d4db60507328b28efb7fd29a9ba7136453ad3a6d18f97f1768e","features":{},"yanked":false}
