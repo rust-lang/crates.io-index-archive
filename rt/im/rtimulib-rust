@@ -1,0 +1,1 @@
+{"name":"rtimulib-rust","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.64.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"158e591ae107a1003133596db00fdd8fa70f0c0bbedaf8791cf5e4a57847ec61","features":{},"yanked":false}
