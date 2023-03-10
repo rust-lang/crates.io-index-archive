@@ -1,0 +1,1 @@
+{"name":"lycopersicum","vers":"0.1.0","deps":[{"name":"clap","req":"^4.1.8","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e926887c5abd904e0d7b3fa0ade21216f29c5388fb0ed7b5f89f93748dfb9ba0","features":{},"yanked":false}
