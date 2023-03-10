@@ -1,0 +1,1 @@
+{"name":"time_period","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"svg","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"84d242d514927ee389ab2c255bfad2ac1563c529246650cda460b9f9b61d4d9e","features":{},"yanked":false}
