@@ -1,0 +1,1 @@
+{"name":"spacerocks","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.32.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"750c753965655bf38961126c7cad59282d54579fa6c6a37532bf459469c9894f","features":{},"yanked":false}
