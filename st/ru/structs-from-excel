@@ -1,1 +1,2 @@
 {"name":"structs-from-excel","vers":"0.1.0","deps":[{"name":"calamine","req":"^0.19.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9170c3b781309f8f100d9fcf25e6b442acc2f0c7d4932a6a50063b4c2cc0e18a","features":{},"yanked":false}
+{"name":"structs-from-excel","vers":"0.2.0","deps":[{"name":"calamine","req":"^0.19.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec469cc150d1fe3de61ed8214d487b002321fbd70441824a12af31babea9f076","features":{},"yanked":false}
