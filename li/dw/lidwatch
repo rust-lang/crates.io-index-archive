@@ -1,1 +1,2 @@
 {"name":"lidwatch","vers":"0.1.0","deps":[{"name":"evdev","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"939156ddaaccf69f06bf4e4493077092334551b33522ee397192f78bfdbc84be","features":{},"yanked":false}
+{"name":"lidwatch","vers":"0.1.1","deps":[{"name":"evdev","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f211ae9441e6694f3997fb7842340d2d7f7b97c6f348174b027313b780964ce2","features":{},"yanked":false}
