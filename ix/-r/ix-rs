@@ -1,6 +1,6 @@
 {"name":"ix-rs","vers":"0.1.0","deps":[],"cksum":"d841d2ea341410e0b294a28b194982b1927a3dabb4b6b8fd8e5bebc9b94b265d","features":{},"yanked":true}
 {"name":"ix-rs","vers":"0.2.0","deps":[],"cksum":"d186169f005e97f6d848619073cf7bf64ba224c805c4b5bdca693bad20091fa4","features":{},"yanked":true}
 {"name":"ix-rs","vers":"0.3.0","deps":[],"cksum":"e60c8d2fdde60d2e6b9daf22005c11a6e8e17efee28997ab3c1522f8dc4e7180","features":{},"yanked":false}
-{"name":"ix-rs","vers":"0.3.1","deps":[],"cksum":"11da5a323a1cd68fd945a6d68f136cb3f48fcea90c91343f7fa2d1356e93b7c7","features":{},"yanked":false}
+{"name":"ix-rs","vers":"0.3.1","deps":[],"cksum":"11da5a323a1cd68fd945a6d68f136cb3f48fcea90c91343f7fa2d1356e93b7c7","features":{},"yanked":true}
 {"name":"ix-rs","vers":"0.4.0","deps":[],"cksum":"fe443c78889bcbeb4a35ff75f3fe74a4440bd0a4c756020bb87007e7417ebfdf","features":{},"yanked":true}
 {"name":"ix-rs","vers":"0.5.0","deps":[{"name":"paste","req":"^1.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"proptest","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f1f2c420c7c855c1a6d66fd58833d1d1e5b63f079f93c556109f505baa8d9fb4","features":{},"yanked":false}
