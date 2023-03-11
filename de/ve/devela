@@ -5,3 +5,4 @@
 {"name":"devela","vers":"0.1.4","deps":[],"cksum":"10a44b39c7959056109067056ce82e95c13c17caf2a5763effb0bf11e20d0fe2","features":{"default":["std","safe"],"nightly":[],"safe":[],"std":[]},"yanked":false}
 {"name":"devela","vers":"0.1.5","deps":[],"cksum":"c1ed2f9142e2013e2c14a8caa41168f5deed9727e92c0078893c6111c8c13e87","features":{"default":["std","safe"],"nightly":[],"safe":[],"std":[]},"yanked":false}
 {"name":"devela","vers":"0.1.6","deps":[],"cksum":"292dc818da3a2022f5d71dc8b78e1609e63bbabdcb75fd54cfe4df63dd3cda38","features":{"default":["std","safe"],"nightly":[],"safe":[],"std":[]},"yanked":false}
+{"name":"devela","vers":"0.1.7","deps":[],"cksum":"2b189a5c7a62a0d065f6afaf1bc2409554d607c8a57ecee7f825288b8dcc31bd","features":{"default":["std","safe"],"nightly":[],"safe":[],"std":[]},"yanked":false}
