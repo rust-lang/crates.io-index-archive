@@ -1,0 +1,1 @@
+{"name":"rn-run","vers":"0.1.0","deps":[{"name":"clap","req":"^4.1.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0f02b96e022ef95e2dc0c31287a117308735ea8a50762217225a040e7336c66","features":{},"yanked":false}
