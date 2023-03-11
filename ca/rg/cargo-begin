@@ -2,3 +2,4 @@
 {"name":"cargo-begin","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4b4245a7bbceec5c7cd854347ff990d020b6950890eda0534428325330998e7","features":{},"yanked":false}
 {"name":"cargo-begin","vers":"0.1.2","deps":[{"name":"thiserror","req":"^1.0.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea19aee5cfd89744bc478e4fd3df97d41469ea8f4c7613b5d10b0b2d604c8658","features":{},"yanked":false}
 {"name":"cargo-begin","vers":"0.1.3","deps":[{"name":"thiserror","req":"^1.0.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"338a568a5592ff7e11625ce85ad47bebe51d0330a57cc9cbf4b01c2d6202a7b1","features":{},"yanked":false}
+{"name":"cargo-begin","vers":"0.1.4","deps":[],"cksum":"d65770bfbbc07970367c8c60ac18eb27b5fd003c3a41be734471817651b676c7","features":{},"yanked":false}
