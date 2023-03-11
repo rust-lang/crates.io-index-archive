@@ -1,1 +1,2 @@
 {"name":"cargo-begin","vers":"0.1.0","deps":[],"cksum":"b667088e4502ac42c1361ddf9f0b06dc718137d67b4390a05e88033ae68fdd8d","features":{},"yanked":false}
+{"name":"cargo-begin","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4b4245a7bbceec5c7cd854347ff990d020b6950890eda0534428325330998e7","features":{},"yanked":false}
