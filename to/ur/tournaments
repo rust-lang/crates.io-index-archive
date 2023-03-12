@@ -1,0 +1,1 @@
+{"name":"tournaments","vers":"0.1.0-alpha0","deps":[{"name":"itertools","req":"^0.10.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"625dd46405960f84bfc9b3d0422141297b705819d9b11cffbf828c13c963d111","features":{},"yanked":false}
