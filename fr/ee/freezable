@@ -1,1 +1,2 @@
 {"name":"freezable","vers":"0.1.0","deps":[],"cksum":"daccc3389dcd609d281b84d2bd5423af190cc64c1c2ac508e1bd289d73285a63","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"freezable","vers":"0.1.1","deps":[],"cksum":"026153ace1c9a47f2ca9007403295553bea4470f2b6b3d36499595a346093560","features":{"default":["std"],"std":[]},"yanked":false}
