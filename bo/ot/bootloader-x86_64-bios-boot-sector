@@ -5,3 +5,4 @@
 {"name":"bootloader-x86_64-bios-boot-sector","vers":"0.11.0-beta.5","deps":[],"cksum":"a48f78e8ad929c1874228572a9ba81e849c63c7d663f245459d4f51c7da6380a","features":{},"yanked":false}
 {"name":"bootloader-x86_64-bios-boot-sector","vers":"0.11.0-beta.8","deps":[],"cksum":"4aeb94b57bc4e02a57df0d16c46bdd3550ff792724473bdca1b191ac1cb66f98","features":{},"yanked":false}
 {"name":"bootloader-x86_64-bios-boot-sector","vers":"0.11.0","deps":[],"cksum":"f951d32168c1289b93cda822faf67c0b8f2543c9c6128bc4fbb88723d02f2cb0","features":{},"yanked":false}
+{"name":"bootloader-x86_64-bios-boot-sector","vers":"0.11.1","deps":[],"cksum":"f0373b455916d8ad4732cb84c36a210ed5965930250cc71bdd3c9b529e253bf1","features":{},"yanked":false}
