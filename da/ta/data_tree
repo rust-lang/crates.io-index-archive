@@ -1,0 +1,1 @@
+{"name":"data_tree","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.154","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"464f9e34214c0251edbe0e862fddb9ebd1b4051c8ff5103168a133ba59fb452b","features":{},"yanked":false}
