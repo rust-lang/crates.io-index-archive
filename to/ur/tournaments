@@ -1,1 +1,2 @@
 {"name":"tournaments","vers":"0.1.0-alpha0","deps":[{"name":"itertools","req":"^0.10.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"625dd46405960f84bfc9b3d0422141297b705819d9b11cffbf828c13c963d111","features":{},"yanked":false}
+{"name":"tournaments","vers":"0.1.0-alpha1","deps":[{"name":"itertools","req":"^0.10.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74f2efeaf5a3162bba0db1bd6f13879e23761337004710bc7cde0dcdfca4badc","features":{},"yanked":false}
