@@ -1,2 +1,3 @@
 {"name":"audiobook_tts","vers":"0.0.1","deps":[],"cksum":"e603b0c7899c4a5316ef92e100c5dbcc476974f33f92e9ee2576ef38c78a16a6","features":{},"yanked":false}
 {"name":"audiobook_tts","vers":"1.0.0","deps":[{"name":"pyo3","req":"^0.18.1","features":["auto-initialize"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e38387e7bb732920cc1b23bdea8b8e9261d13dca65e1d479e10d97d647985295","features":{},"yanked":false}
+{"name":"audiobook_tts","vers":"1.0.1","deps":[{"name":"pyo3","req":"^0.18.1","features":["auto-initialize"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4da5b76d6b88d15e9ddbeff203052a92e165858e190ea1410c642c9c40f912e2","features":{},"yanked":false}
