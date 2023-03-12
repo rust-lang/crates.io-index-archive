@@ -1,0 +1,1 @@
+{"name":"bundle-lua","vers":"0.1.0","deps":[{"name":"clap","req":"^4.1.8","features":["cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab32122dd08a2805d10d3d6f745d242344cbdb0d19961e4581ddb50870a82c48","features":{},"yanked":false}
