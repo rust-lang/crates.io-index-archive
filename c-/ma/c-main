@@ -1,0 +1,1 @@
+{"name":"c-main","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"159d8b6d459cb5cbd30a76f8c92136c19932ab4b3741cc0a2a08fc97b568f410","features":{},"yanked":false}
