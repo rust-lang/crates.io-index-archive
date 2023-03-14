@@ -1,0 +1,1 @@
+{"name":"nearly","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3539168cb529cb9b8699eb4a2e3d13e7d01dbbd1873a16f3633fdcc52af9c8fb","features":{"default":["std"],"std":[]},"yanked":false}
