@@ -1,1 +1,2 @@
 {"name":"joestar-html","vers":"0.1.0","deps":[{"name":"joestar","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c060164ac48adf3e70808b3dd443a60d2cbd5ae0ff4731cb6fb7b8e3e1eab540","features":{},"yanked":false}
+{"name":"joestar-html","vers":"0.1.1","deps":[{"name":"joestar","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed787ce5a74bd74037a837130b23eb6fabd2d6158529774dc77e8be7c35beddc","features":{},"yanked":false}
