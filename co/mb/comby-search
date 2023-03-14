@@ -1,1 +1,2 @@
 {"name":"comby-search","vers":"0.1.0","deps":[{"name":"colored","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"699b2a70dc442f97e135e367a3bf656a9026f1a0395eb9917a9b09ecdc685a52","features":{},"yanked":false}
+{"name":"comby-search","vers":"0.1.1","deps":[{"name":"colored","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c27919d3682b0511efbab3006ae5611db01de62985363ce229da7c87936d3517","features":{},"yanked":false}
