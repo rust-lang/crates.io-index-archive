@@ -8,3 +8,4 @@
 {"name":"hash-db","vers":"0.15.0","deps":[],"cksum":"32c87fec93c4a2d264483ef843ac1930ae7c7999d97d73721305a5188b4c23a4","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"hash-db","vers":"0.15.1","deps":[],"cksum":"f1c58b6c17c21f7b9611bc119630ebc124df48257c9f1dce28b306bbe29e913a","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"hash-db","vers":"0.15.2","deps":[],"cksum":"d23bd4e7b5eda0d0f3a307e8b381fdc8ba9000f26fbe912250c0a4cc3956364a","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"hash-db","vers":"0.16.0","deps":[],"cksum":"8e7d7786361d7425ae2fe4f9e407eb0efaa0840f5212d109cc018c40c35c6ab4","features":{"default":["std"],"std":[]},"yanked":false}
