@@ -1,0 +1,1 @@
+{"name":"cd_env","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.155","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aef3c3bf92fbd27bdaa148fd94129f6624e1270decee56e9958b8e73becbfac5","features":{},"yanked":false}
