@@ -1,1 +1,2 @@
 {"name":"ink-analyzer","vers":"0.1.0","deps":[{"name":"ra_ap_syntax","req":"^0.0.149","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3bf781cd6b2cd001406d0c9eaa417f6723deb1e8e25319121e66bf527c96d93","features":{},"yanked":false}
+{"name":"ink-analyzer","vers":"0.1.1","deps":[{"name":"ra_ap_syntax","req":"^0.0.149","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20cb10ec75af673f8b14b0ad54152b65293a59afde7422e70364954cdd8c12e8","features":{},"yanked":false}
