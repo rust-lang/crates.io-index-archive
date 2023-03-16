@@ -1,1 +1,2 @@
 {"name":"prefstore","vers":"0.1.0","deps":[{"name":"dirs","req":"^4.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8bf1d27065b05a9cafe9ba15bcae7f05db1b671625ed6905a1bc206fcfefc1d4","features":{},"yanked":false}
+{"name":"prefstore","vers":"0.2.0","deps":[{"name":"dirs","req":"^4.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ec718b26ee25a30b63348439b0b642e2e09748e7d86fb83def7501b64b7052e","features":{},"yanked":false}
