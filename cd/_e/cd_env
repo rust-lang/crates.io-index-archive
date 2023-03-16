@@ -1,1 +1,2 @@
 {"name":"cd_env","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.155","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aef3c3bf92fbd27bdaa148fd94129f6624e1270decee56e9958b8e73becbfac5","features":{},"yanked":false}
+{"name":"cd_env","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.155","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08a91cc18015c41dd5d117c356b1708a23a0469c3256403af09dc2a48a7879ce","features":{},"yanked":false}
