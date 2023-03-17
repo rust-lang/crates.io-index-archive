@@ -1,1 +1,2 @@
 {"name":"wpress-oxide","vers":"1.1.0","deps":[{"name":"clean-path","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3e658a816770d4351e41e3c0c48c44fc91ae5baf533cac54631ad976289f936","features":{},"yanked":false}
+{"name":"wpress-oxide","vers":"1.1.1","deps":[{"name":"clean-path","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb0c1ef1565f8a73308508234f652709ae87ea8819178e98ba903df326093526","features":{},"yanked":false}
