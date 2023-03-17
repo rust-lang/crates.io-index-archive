@@ -1,0 +1,1 @@
+{"name":"binview","vers":"0.1.0","deps":[{"name":"clap","req":"^4.1.9","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"123a51cc23e0f22c92e1a8820ed34cc38ebd034f359bcb5c91287aa91e53baef","features":{},"yanked":false}
