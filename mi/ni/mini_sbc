@@ -5,3 +5,4 @@
 {"name":"mini_sbc","vers":"0.1.4","deps":[],"cksum":"9de3ae077c3f84c1adefbe27a4a97b8e7fc28c9ce7b2e4b37ea907cb3bc879a5","features":{},"yanked":false}
 {"name":"mini_sbc","vers":"0.1.5","deps":[{"name":"crunchy","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01e637df886708f14bc3771f202006ed721ff112ea206784a6d863d8e13f5549","features":{},"yanked":false}
 {"name":"mini_sbc","vers":"0.1.6","deps":[{"name":"crunchy","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02dd56ec7b0eaeaba00f81ccc8b97d8773e38d6953abbe1644ff5437cdaa1b13","features":{},"yanked":false}
+{"name":"mini_sbc","vers":"0.1.7","deps":[{"name":"crunchy","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0522eb0199121b29e0ef8d3f3ff595914353173c116655c5f7b96ebb7458b830","features":{},"yanked":false}
