@@ -1,0 +1,1 @@
+{"name":"project-creator","vers":"0.1.0","deps":[{"name":"rand_word","req":"^0.1.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10ab4fe35ce8a266dd655c14d37965f99a65463aa822e598054271eb8a01433d","features":{},"yanked":false}
