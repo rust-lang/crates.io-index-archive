@@ -1,1 +1,2 @@
 {"name":"mutex-timeouts","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["sync"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2482fcf88a81fe1f9690fdff102f92176b87b6fe41e7a379ef92e6bf0b17e0cc","features":{},"yanked":false}
+{"name":"mutex-timeouts","vers":"0.1.1","deps":[{"name":"tokio","req":"^1","features":["sync"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f3c49e0d9cd81db7cc03c58806b86d2202750cbdbcaef56e1248772c42afedd","features":{},"yanked":false}
