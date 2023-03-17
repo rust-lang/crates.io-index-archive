@@ -1,0 +1,1 @@
+{"name":"timpl-proc","vers":"0.1.0-alpha.1","deps":[{"name":"timpl-internal","req":"^0.1.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d60f571053cd1abde4d596309e2e51a1fcf944ef7c20ae0f32c1f568131c8203","features":{},"yanked":false}
