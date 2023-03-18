@@ -1,3 +1,4 @@
 {"name":"yeter","vers":"0.1.0","deps":[],"cksum":"3a10495d7449f2d4d75e2284e53be7dcc0d609fa2eb6c5b7c5d10b1185102a8a","features":{},"yanked":false}
 {"name":"yeter","vers":"0.2.0","deps":[],"cksum":"fd0dad31113269036d42bd898ad48455f319b0687979e8fc1acf7ce0b87998fb","features":{},"yanked":false}
 {"name":"yeter","vers":"0.3.0","deps":[{"name":"state","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"222d62b3880aebadcc26413d19c39c9ed61eb003e72615a7237797c0c74224f1","features":{},"yanked":false}
+{"name":"yeter","vers":"0.4.0","deps":[{"name":"state","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"yeter-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"841ae69683743a75bfa7d8526cc7c5a2697a45a5d2d162ceecf8e77d22d58b04","features":{},"yanked":false}
