@@ -1,1 +1,2 @@
 {"name":"multi_iter","vers":"0.1.0","deps":[],"cksum":"a9a7c38f04c8467d962b62cc336ce8a542c5a9ea5885a3a3463e88062aa1fe54","features":{"default":["std"],"std":[],"unstable":[]},"yanked":false}
+{"name":"multi_iter","vers":"0.1.1","deps":[],"cksum":"8b5cd66705218aff7523337607f18f4e07d120595269fe1b351bae2586fea314","features":{"default":["std"],"std":[],"unstable":[]},"yanked":false}
