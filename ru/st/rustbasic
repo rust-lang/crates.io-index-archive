@@ -1,2 +1,2 @@
-{"name":"rustbasic","vers":"0.0.1","deps":[],"cksum":"79a9047bb20fad1b38b6e2e57b77372cfad431fa52bc61a1b09dbe9eb7175531","features":{},"yanked":false}
+{"name":"rustbasic","vers":"0.0.1","deps":[],"cksum":"79a9047bb20fad1b38b6e2e57b77372cfad431fa52bc61a1b09dbe9eb7175531","features":{},"yanked":true}
 {"name":"rustbasic","vers":"0.0.2","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6db85cd4122e40ee98b7d5319c792d2f3ccf22598e40a35b98d575a7ec142523","features":{},"yanked":false}
