@@ -3,3 +3,4 @@
 {"name":"chisel-decoders","vers":"0.1.3","deps":[],"cksum":"c1e288b49c3cd9f05d6b3c459926420a2612b2db80b32bb7827275bdffaeb439","features":{},"yanked":true}
 {"name":"chisel-decoders","vers":"0.1.4","deps":[],"cksum":"c13c25160ced997bcfc1391577b82d6a6cdcd1d1441a07cbe77d470aa5d57a87","features":{},"yanked":false}
 {"name":"chisel-decoders","vers":"0.1.5","deps":[],"cksum":"9a5155cf405cf75d9ad1e2ad49d36def934aa7c3b9562d2ac08a79f7a42cd4aa","features":{},"yanked":false}
+{"name":"chisel-decoders","vers":"0.1.6","deps":[],"cksum":"f8d98a182ce7b2486d26d3196d532ccf96db750d3c3d9afe5c4ff50721dea7c1","features":{},"yanked":false}
