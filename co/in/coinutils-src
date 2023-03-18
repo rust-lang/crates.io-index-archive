@@ -1,0 +1,1 @@
+{"name":"coinutils-src","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c128faeb2b2e7553c753e1192e18f828b5c762b24c0dc7862376edbfb79df009","features":{"default":[]},"yanked":false}
