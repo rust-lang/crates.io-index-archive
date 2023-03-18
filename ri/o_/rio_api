@@ -16,3 +16,4 @@
 {"name":"rio_api","vers":"0.7.1","deps":[],"cksum":"9f6196ea9fb6791ce3dcd1cfc0d7f1074972aec0572db73dfb7396fcd9c3bc76","features":{"default":[],"generalized":[]},"yanked":false}
 {"name":"rio_api","vers":"0.8.0","deps":[],"cksum":"64bce58dd4aed6d706bd628c24076d9e88f6a8dd90a75fd0627b7440044b5975","features":{"default":[],"generalized":[]},"yanked":false}
 {"name":"rio_api","vers":"0.8.2","deps":[],"cksum":"399f133da00f40a6be2d54b1c57e4a9004e68637530f76350bd02ea8dffef54e","features":{"default":[],"generalized":[]},"yanked":false}
+{"name":"rio_api","vers":"0.8.3","deps":[],"cksum":"42e121c6d7cd351521b2f18d9443ffadc622ff4941cb9a332755fceaf22f8d2a","features":{"default":[],"generalized":[]},"yanked":false}
