@@ -13,3 +13,4 @@
 {"name":"defaultdict","vers":"0.12.1","deps":[],"cksum":"6f8f1ce36485778822edb4685de0f9968ab2767ff46901134d6c9ecdd5d08e81","features":{},"yanked":false}
 {"name":"defaultdict","vers":"0.13.0","deps":[],"cksum":"33c4cd538d39923f9f66a0e0327562adfdb0964258bdd105caefd2e4f1de6f96","features":{},"yanked":false}
 {"name":"defaultdict","vers":"0.14.0","deps":[],"cksum":"882e4bbb3accb5a9da79e7cf2f575847eef0c2fe82966673e868abd77f9b4074","features":{},"yanked":false}
+{"name":"defaultdict","vers":"0.15.0","deps":[],"cksum":"a2ebd405b584c5a347c6f0881eb5933e40d3f98ee421d60a81b30bfce1799103","features":{},"yanked":false}
