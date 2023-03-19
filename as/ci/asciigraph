@@ -9,3 +9,4 @@
 {"name":"asciigraph","vers":"0.5.0","deps":[],"cksum":"c034d45eeee59f390ce2b961808e1e32b5e06b942d3e71aac1fdc5ae4a621496","features":{},"yanked":false}
 {"name":"asciigraph","vers":"0.5.1","deps":[],"cksum":"e3ebe2dbaaac54b88d25ecb15e54e164342b4f7eeacea57f709a315c0122c34b","features":{},"yanked":false}
 {"name":"asciigraph","vers":"0.5.2","deps":[{"name":"asciibox","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1bba5f99540b351b5b68503bcb3243c21b9d0652b2a7c0e274387bf21e6386f","features":{},"yanked":false}
+{"name":"asciigraph","vers":"0.5.3","deps":[{"name":"asciibox","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5955e098006cee9ffe370d864f9f42d89f90cc97f3927aeaf13dccdebbea06cb","features":{},"yanked":false}
