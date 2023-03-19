@@ -1,0 +1,1 @@
+{"name":"chisel-stringtable","vers":"0.1.0","deps":[{"name":"fxhash","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab2db1718c6f7fe2ffe371c537ba81a91b697532b1544261b331a51cbc5b3c3c","features":{"default":[]},"yanked":false}
