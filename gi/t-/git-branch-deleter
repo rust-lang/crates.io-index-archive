@@ -1,1 +1,2 @@
 {"name":"git-branch-deleter","vers":"0.1.0","deps":[{"name":"termion","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e4e786ba3e42e407fd4f087e62fecc250cab0a7e7fa4d21992f9b1ad1ab7c3d","features":{},"yanked":false}
+{"name":"git-branch-deleter","vers":"0.1.1","deps":[{"name":"termion","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9338f887ab6c001926a2c6db90e0fe5cd7e29ccbac339c4a11b3c2455c659de7","features":{},"yanked":false}
