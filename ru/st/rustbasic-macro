@@ -1,0 +1,1 @@
+{"name":"rustbasic-macro","vers":"0.0.1","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f63d23b3954e194845af5001d4c1c0ce0cc4351b7e61b2a89b9e05ce305ad0b","features":{},"yanked":false}
