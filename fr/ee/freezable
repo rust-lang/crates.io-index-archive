@@ -4,4 +4,4 @@
 {"name":"freezable","vers":"0.1.3","deps":[],"cksum":"0e3528cedea5f53521d5ad97c73e89c00943710de24a48adc1f4c77d9279ca3c","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"freezable","vers":"0.1.4","deps":[],"cksum":"b33a10720836b8887be719532f6c417be22120d6479a8e981954fd0fcda2db2a","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"freezable","vers":"0.1.5","deps":[],"cksum":"11e9c93b7b88f8029457efbcf679e1034d6a98e18355d455676dc03f00ebd6a6","features":{"default":["std"],"std":[]},"yanked":false}
-{"name":"freezable","vers":"0.1.6","deps":[],"cksum":"362c12f5078c4795d3b6b84e7325294f71edf7d90bef027123ec4a4a0048b83d","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"freezable","vers":"0.1.6","deps":[],"cksum":"362c12f5078c4795d3b6b84e7325294f71edf7d90bef027123ec4a4a0048b83d","features":{"default":["std"],"std":[]},"yanked":true}
