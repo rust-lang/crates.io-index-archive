@@ -1,1 +1,2 @@
 {"name":"tooey","vers":"0.1.0","deps":[{"name":"keyboard-types","req":"^0.6.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af44bddd9adfa61759c0238c7d90b6aadf338463313e36068a2fc0b9b089a1ef","features":{"no_std":[],"std":[]},"yanked":true}
+{"name":"tooey","vers":"0.1.1","deps":[{"name":"keyboard-types","req":"^0.6.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3227cf22b99d4f92d497035bc79403e5e36120a161591bb1ac113679108047b6","features":{"no_std":[],"std":[]},"yanked":false}
