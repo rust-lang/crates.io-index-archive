@@ -1,1 +1,2 @@
 {"name":"text_manipulation_rs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1a5d422636ecf354e951c3da2ab70be846a01ce3c0702381f7973945f87b9aa","features":{},"yanked":false}
+{"name":"text_manipulation_rs","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93c42a5da704047de4334bb73743c08f554ac0586bcab6d36a20b61bf523b2c0","features":{},"yanked":false}
