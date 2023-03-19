@@ -1,1 +1,2 @@
 {"name":"phoron_asm","vers":"0.1.0","deps":[],"cksum":"d712cad30c35d36fb35c8c33d7348a32251d87bcd229ba4a6f881fff6d12c94c","features":{},"yanked":false}
+{"name":"phoron_asm","vers":"1.0.0","deps":[{"name":"phoron_core","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d84eda874dba515c1544dad9490bbad6ba40d36522a96f608540e62014f00138","features":{},"yanked":false}
