@@ -1,3 +1,4 @@
 {"name":"sorbus","vers":"0.5.0","deps":[],"cksum":"e1497866250aac7fc95756274a8feb7c2b40b143601c3b589dc8e164715b8c36","features":{},"yanked":false}
 {"name":"sorbus","vers":"0.7.0","deps":[],"cksum":"84cc734227552210e0aa270a6bab33ea938c31742ebbf0b737c1b67d081d44d6","features":{},"yanked":false}
 {"name":"sorbus","vers":"0.8.0","deps":[],"cksum":"7c5af6777f5dcb157973b88d7aa18623af87b2f01183c14828719b11a43b1b42","features":{},"yanked":false}
+{"name":"sorbus","vers":"0.8.1","deps":[{"name":"identity-hash","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be15f752caedcce05edd052ab31b4d2f5aed6fdd9afeea5ca89fddb775cc1e9e","features":{},"yanked":false}
