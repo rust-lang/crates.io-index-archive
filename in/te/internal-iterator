@@ -4,3 +4,4 @@
 {"name":"internal-iterator","vers":"0.1.1","deps":[],"cksum":"7b6426ccbbd070e6323ef45c2d11c4ef8f84f5fb7ec4bceeec633555ea9bd80c","features":{"alloc":[],"default":["alloc","std"],"std":["alloc"]},"yanked":false}
 {"name":"internal-iterator","vers":"0.1.2","deps":[],"cksum":"849c225ff5a15ae887c092bb8746832cb0ef5eb29ffee2f0e66d95cf7033d71a","features":{"alloc":[],"default":["alloc","std"],"std":["alloc"]},"yanked":false}
 {"name":"internal-iterator","vers":"0.2.0","deps":[],"cksum":"b77471b1846878dce1acb1327a81a1893f2a1071eaff273802a290db55e36e6c","features":{"alloc":[],"default":["alloc","std"],"std":["alloc"]},"yanked":false}
+{"name":"internal-iterator","vers":"0.2.1","deps":[],"cksum":"a668ef46056a63366da9d74f48062da9ece1a27958f2f3704aa6f7421c4433f5","features":{"alloc":[],"default":["alloc","std"],"std":["alloc"]},"yanked":false}
