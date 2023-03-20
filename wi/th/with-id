@@ -1,0 +1,1 @@
+{"name":"with-id","vers":"1.0.0","deps":[{"name":"with-id-derive","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5edf2920887cf115c937e112db87ea36f9dc2e1ba3849355c7fc71f08fe58ee","features":{},"features2":{"derive":["dep:with-id-derive"]},"yanked":false,"v":2}
