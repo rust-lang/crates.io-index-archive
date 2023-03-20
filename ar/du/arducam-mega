@@ -1,0 +1,1 @@
+{"name":"arducam-mega","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^1.0.0-alpha.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"809820ba5d5224dd31ced9af3eac5371712516fdb1a38b702e78b5d0c88ec93c","features":{"3mp":[],"5mp":[],"default":["3mp","5mp"]},"yanked":false}
