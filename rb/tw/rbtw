@@ -1,0 +1,1 @@
+{"name":"rbtw","vers":"1.0.0","deps":[{"name":"efibootnext","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sudo","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d00f58f771c6ead5708da8d301c37eec19eaad62e1bfc29ef482fe483d6a6d5","features":{},"yanked":false}
