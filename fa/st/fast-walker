@@ -1,0 +1,1 @@
+{"name":"fast-walker","vers":"0.0.0","deps":[{"name":"tokio","req":"^1.26.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d07f65b756aacc2f64f53b728109831bca1a444c5506be8db4090ecc2ef90d9d","features":{"default":[]},"yanked":false}
