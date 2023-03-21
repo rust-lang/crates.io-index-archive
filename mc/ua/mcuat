@@ -1,0 +1,1 @@
+{"name":"mcuat","vers":"0.1.0","deps":[{"name":"serialport","req":"^4.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e61b816a0bb323c1fae90d33af83f3eb1fe28c099880dc2c58d6caefa4a290d1","features":{},"yanked":false}
