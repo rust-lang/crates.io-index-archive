@@ -1,1 +1,2 @@
 {"name":"pgbar","vers":"0.1.0","deps":[{"name":"termion","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c6f6b56c6e1b48d432e7db59d61caff0ae3148af9f40fd2c8bf5d7598e2fd5d","features":{},"yanked":false}
+{"name":"pgbar","vers":"0.2.0","deps":[{"name":"termion","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a072e52606346cfe9bb7695241132aff152d102a2d53109fe72f1903d3b36cc8","features":{},"yanked":false}
