@@ -1,0 +1,1 @@
+{"name":"nvbit-model","vers":"0.0.18","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f042ca7671505f544e72d7d004c1fca945603324b3bb1e6c2b124b3b292ce48f","features":{},"yanked":false}
