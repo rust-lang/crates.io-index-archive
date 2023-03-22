@@ -1,0 +1,1 @@
+{"name":"cudd","vers":"0.1.0","deps":[{"name":"cudd-sys","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2837e47c1cd33c1088ca173b6f2bfc81539f405c548b375063be2d73083edd47","features":{},"yanked":false}
