@@ -1,0 +1,1 @@
+{"name":"macbinary","vers":"0.1.0-alpha","deps":[{"name":"crc","req":"^3.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efdedd15cfa541bb9945cf4ccbd1ec81c9c86de4d88893666790cd47b4ac66a6","features":{},"yanked":false}
