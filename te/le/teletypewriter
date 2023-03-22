@@ -1,0 +1,1 @@
+{"name":"teletypewriter","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2.140","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa5cce3fc0cc76460b0e76debd54b1053c3447d5edc2a3f920fb2042f3757382","features":{},"yanked":false}
