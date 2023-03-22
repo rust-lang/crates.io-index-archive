@@ -1,0 +1,1 @@
+{"name":"humanize-bytes","vers":"0.1.0","deps":[{"name":"smartstring","req":"^1.0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"44385d7102a9b5ac9829a787c04531536d87d0bc0c7b2f357c8478189402764f","features":{"binary":[],"decimal":[],"default":["binary","decimal"]},"yanked":false}
