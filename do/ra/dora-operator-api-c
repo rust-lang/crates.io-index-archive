@@ -1,0 +1,1 @@
+{"name":"dora-operator-api-c","vers":"0.2.1-rc","deps":[{"name":"dora-operator-api-types","req":"^0.2.1-rc","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b19e7b39c69da7e151e9911a0ef26072ab8ac505a482748273431ed1f0a007be","features":{},"yanked":false}
