@@ -1,0 +1,1 @@
+{"name":"polaris-config","vers":"0.1.2","deps":[{"name":"polaris-specification","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc936792c237177a7b5ea8ec89b1bb04cc1a09756bd23d60c7d50501a5585d78","features":{},"yanked":false}
