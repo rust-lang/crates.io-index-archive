@@ -1,1 +1,2 @@
 {"name":"mapwords","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7fcb1794deaab9e78c9158b8e23aee66ef3f38e709691c35b60c72c10b3ccb13","features":{},"yanked":false}
+{"name":"mapwords","vers":"0.1.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"899a0178ad73af6760ee0e301cb0f25bf3a9c932c5018596312c8e205466be7d","features":{},"yanked":false}
