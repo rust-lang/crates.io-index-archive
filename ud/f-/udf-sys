@@ -19,3 +19,4 @@
 {"name":"udf-sys","vers":"0.5.0-rc.2","deps":[],"cksum":"ac4512a50619824760dde29d3a197af3f38d57f7e9d35545dae3ffc4658b24d5","features":{},"yanked":false}
 {"name":"udf-sys","vers":"0.5.0","deps":[],"cksum":"e5d2594c41cf66a28a76c511af346252250d592f69bfa4c3f8d445f209288204","features":{},"yanked":false}
 {"name":"udf-sys","vers":"0.5.1","deps":[],"cksum":"59d499a763b8fdedf4f7020cb86c213e742ef10972042270c5294272b61479d4","features":{},"yanked":false}
+{"name":"udf-sys","vers":"0.5.2","deps":[],"cksum":"766a4b95dd0c480db85d1b0ab0925e77d5023825d1fc59ea5a4b080ac921c5a0","features":{},"yanked":false}
