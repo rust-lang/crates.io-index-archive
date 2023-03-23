@@ -1,1 +1,2 @@
 {"name":"mcuvisa","vers":"0.1.0","deps":[],"cksum":"86e001cab9cc994a7b5812f8d49381e26ce37f9dcaaedf37e92f41ffa85a2ada","features":{},"yanked":false}
+{"name":"mcuvisa","vers":"0.1.2","deps":[{"name":"visa-rs","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6b3ec5af820830c16ad1a29b69fb2931ff6e7dc498d4a5be823cf16482c7f71","features":{},"yanked":false}
