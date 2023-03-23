@@ -1,0 +1,1 @@
+{"name":"rationalize","vers":"0.0.0","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe679de88fab92ecba2d0fb06618ca8694b1cdbad100f932711166d13bc6429a","features":{"default":[]},"yanked":false}
