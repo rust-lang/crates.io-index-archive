@@ -1,1 +1,2 @@
 {"name":"tools-2048","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04b559535ec1aedfe6eb91453abd10a63cd386bcefb304a51faeef335d14909c","features":{},"yanked":false}
+{"name":"tools-2048","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1e36ed307b9f01558b435162b083cb94123662f2858301a6a925c8d0a027805d","features":{},"yanked":false}
