@@ -1,0 +1,1 @@
+{"name":"ma734","vers":"0.0.1","deps":[{"name":"embedded-hal","req":"^0.2.5","features":["unproven"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c86041b97c479a752a1addaa62c84b5ab8cebc4e090368a6eee42a2826c2da7","features":{},"yanked":false}
