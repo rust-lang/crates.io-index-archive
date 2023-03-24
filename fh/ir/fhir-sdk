@@ -1,0 +1,1 @@
+{"name":"fhir-sdk","vers":"0.1.0","deps":[{"name":"fhir-model","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea1a2a76c22872b24436382e0b6418150b7646d3881a189eea09639319566be5","features":{"default":["r4b"],"r4b":["fhir-model/r4b"]},"yanked":false}
