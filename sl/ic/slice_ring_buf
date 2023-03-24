@@ -9,3 +9,4 @@
 {"name":"slice_ring_buf","vers":"0.2.4","deps":[],"cksum":"fc44d9da608fee735ae07e08fef0be2cfbbc43e0f0560c213ea3a5145b6325e1","features":{},"yanked":false}
 {"name":"slice_ring_buf","vers":"0.2.5","deps":[],"cksum":"c5d59662bc38ba7414f5d12704c131c7a62ffcb15ce1bd7079928d4b41f66717","features":{},"yanked":false}
 {"name":"slice_ring_buf","vers":"0.2.6","deps":[],"cksum":"c8c1ea0e279f6af0db5d71609fa2361c956e4bf3b942db9f1934bb783b755459","features":{},"yanked":false}
+{"name":"slice_ring_buf","vers":"0.2.7","deps":[],"cksum":"b8c4361c250fd000889a89f4ca721808588f0eaeb3b1d6efd7201a21ae8ee469","features":{},"yanked":false}
