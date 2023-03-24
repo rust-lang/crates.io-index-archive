@@ -1,0 +1,1 @@
+{"name":"embargo","vers":"0.0.1","deps":[{"name":"toml","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"walkdir","req":"^2.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecb26c66da131109365212690050d1ef9b2fc9c56109c5f02d7169a3803abbdf","features":{},"yanked":false}
