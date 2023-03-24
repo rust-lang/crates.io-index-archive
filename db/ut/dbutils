@@ -1,0 +1,1 @@
+{"name":"dbutils","vers":"0.2.0","deps":[{"name":"bytes","req":"^1.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"67ecd9dc7dea60ef8fc432d4594b2ade0dcfca0580d41e65090dea47210bb8e1","features":{"default":["std"],"std":[]},"yanked":false}
