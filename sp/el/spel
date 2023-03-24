@@ -1,0 +1,1 @@
+{"name":"spel","vers":"0.1.0","deps":[{"name":"clap","req":"^4.1.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74e043eb2e631dbf9166612722ad9ec9058d7165117d8408e09c5e2edb14a5b4","features":{},"yanked":false}
