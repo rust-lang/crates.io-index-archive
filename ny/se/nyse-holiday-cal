@@ -1,0 +1,1 @@
+{"name":"nyse-holiday-cal","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d378c607de1e1b2dbd2d893ac6c14d7e2862d35f403e277c4c1d660b816b7162","features":{},"yanked":false}
