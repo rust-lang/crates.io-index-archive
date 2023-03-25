@@ -1,0 +1,1 @@
+{"name":"param_builder","vers":"0.1.0","deps":[{"name":"tokio-postgres","req":"^0.7.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88831a32f3fdc4fc83753982e69a3e7e3a94fb5d7712c5567de2dec3dbbe7abe","features":{},"yanked":false}
