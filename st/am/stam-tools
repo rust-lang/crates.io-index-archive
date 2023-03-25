@@ -1,0 +1,1 @@
+{"name":"stam-tools","vers":"0.1.0","deps":[{"name":"clap","req":"^3.2.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"stam","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d9e63cff13b7f3d31e91009a9797f5b305d42d3265555328f22f9d861de4f79","features":{},"yanked":false}
