@@ -1,1 +1,2 @@
 {"name":"keyphrases","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7264461ae1410309dd02675988d478033a4c95bdc543ea45230a07df1e49160c","features":{},"yanked":false}
+{"name":"keyphrases","vers":"0.1.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"552c6552cc4953ec3323d9293bd8d87d7cd027d51381712d769fced83d22d15e","features":{},"yanked":false}
