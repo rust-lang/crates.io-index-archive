@@ -1,0 +1,1 @@
+{"name":"color-gradient","vers":"0.0.0","deps":[{"name":"color-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f85534972533065a83c758c9b9ab03b7d9bd8f67d5c97fe3c0619009cf907e3","features":{"default":[],"strict":[]},"yanked":false}
