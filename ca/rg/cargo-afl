@@ -1,0 +1,1 @@
+{"name":"cargo-afl","vers":"0.0.0","deps":[{"name":"build-alert","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b7c2ac06c84ff353dcbca571117095a3c94db95037d56713526d61f8ed3e0a00","features":{},"yanked":false}
