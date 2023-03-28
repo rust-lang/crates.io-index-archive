@@ -1,1 +1,2 @@
 {"name":"lexify","vers":"0.1.0","deps":[{"name":"chomper","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a178965d2e36f6db2eb98e5ff1ba27bdc03fa15851186ce5891471d92656f66f","features":{},"yanked":false}
+{"name":"lexify","vers":"0.1.1","deps":[{"name":"chomper","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21cf6f096e29c6de5fc6f985b09e55d39f8ca1548252186a485b0028887957d2","features":{},"yanked":false}
