@@ -1,0 +1,1 @@
+{"name":"ldenv","vers":"0.0.1","deps":[{"name":"clap","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"dotenvy","req":"^0.15.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a71c855c895d93f458c2919432bc401c81f4dc150d7c56acd92ccaa2cbd4959f","features":{},"yanked":false}
