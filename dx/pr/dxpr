@@ -1,1 +1,2 @@
 {"name":"dxpr","vers":"0.1.0","deps":[],"cksum":"9ea654c3dfd4ff2802b0576ada0803c48c7cb6bc525d0adb1805133a9f11c66b","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"dxpr","vers":"0.2.0","deps":[],"cksum":"0bf3ed91fdb42466df755e1605a59c8c65b90508feaf08bfd5bc049c7f33bb81","features":{"default":["std"],"std":[]},"yanked":false}
