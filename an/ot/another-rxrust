@@ -1,0 +1,1 @@
+{"name":"another-rxrust","vers":"0.0.10","deps":[{"name":"anyhow","req":"^1","features":["backtrace"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a857f73cf1e59f6a12845b082b0a46d84cee7f93a0058eff2ed45c0a406d1af","features":{},"yanked":false}
