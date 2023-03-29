@@ -8,3 +8,4 @@
 {"name":"devela","vers":"0.1.7","deps":[],"cksum":"2b189a5c7a62a0d065f6afaf1bc2409554d607c8a57ecee7f825288b8dcc31bd","features":{"default":["std","safe"],"nightly":[],"safe":[],"std":[]},"yanked":false}
 {"name":"devela","vers":"0.1.8","deps":[],"cksum":"35e47bed6a0fa0967d13808be0718eb4162128c9e14c88f4fdfca369abc40536","features":{"alloc":[],"default":["std","safe"],"nightly":[],"no-std":[],"safe":[],"std":["alloc"]},"yanked":false}
 {"name":"devela","vers":"0.1.9","deps":[],"cksum":"5374e883bf5eab3b990addf196ed86d21d17401ccce2c90dba7c0191b7a99ad1","features":{"alloc":[],"default":["std","safe"],"nightly":[],"no-std":[],"safe":[],"std":["alloc"]},"yanked":false}
+{"name":"devela","vers":"0.1.10","deps":[],"cksum":"0f68f5a9efbaa1d50522646ef8918db3ba44ff2fee524b3d2373e64ad1ad1a5d","features":{"alloc":[],"default":["std","safe"],"nightly":[],"no-std":[],"safe":[],"std":["alloc"]},"yanked":false}
