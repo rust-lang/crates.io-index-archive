@@ -1,0 +1,1 @@
+{"name":"parsy","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.152","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9302ccc005e1085192eaa93629719e022462ec2840f5c42f5235b02330af8fdb","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
