@@ -1,0 +1,1 @@
+{"name":"thread_runner","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db998d26473bb4eeebd4a0bb24060237cf38f71a049f69ac5d8b077676c3ff6f","features":{},"yanked":false}
