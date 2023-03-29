@@ -1,0 +1,1 @@
+{"name":"libpwquality-sys","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"612a2d441b9855fce6d2927d997285e60685f32c57240f96a3652ad0f746a4e8","features":{"crack":[],"default":["vendored"],"vendored":[]},"yanked":false,"links":"pwquality"}
