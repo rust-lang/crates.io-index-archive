@@ -29,3 +29,4 @@
 {"name":"paris","vers":"1.5.12","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f557695a2208ab7caf4755c7933e76bb6dfb4fc39220245dce8f107d1f4524da","features":{"macros":[],"no_logger":[],"timestamps":["chrono"]},"yanked":false}
 {"name":"paris","vers":"1.5.13","deps":[],"cksum":"2eaf2319cd71dd9ff38c72bebde61b9ea657134abcf26ae4205f54f772a32810","features":{"macros":[],"no_logger":[],"timestamps":[]},"yanked":false}
 {"name":"paris","vers":"1.5.14","deps":[],"cksum":"312e95e92a83959a472903c9af995710c52f76166f35c6c5e9af78eed589cb01","features":{"macros":[],"no_logger":[],"timestamps":[]},"yanked":false}
+{"name":"paris","vers":"1.5.15","deps":[],"cksum":"8fecab3723493c7851f292cb060f3ee1c42f19b8d749345d0d7eaf3fd19aa62d","features":{"macros":[],"no_logger":[],"timestamps":[]},"yanked":false}
