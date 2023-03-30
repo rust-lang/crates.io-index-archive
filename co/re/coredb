@@ -9,3 +9,4 @@
 {"name":"coredb","vers":"15.1.0-coredb.9","deps":[],"cksum":"f53a92c11fc2eb62c92930b03eaca8faa3360fc7d07d75089d3bd921a087c232","features":{},"yanked":false}
 {"name":"coredb","vers":"15.1.0-coredb.10","deps":[],"cksum":"531b27bc482e59c3964e2ff4dd7b6ede6929d3453894d758e77e584151edbe74","features":{},"yanked":false}
 {"name":"coredb","vers":"15.1.0-coredb.11","deps":[],"cksum":"52b012408e6a7cf90a7140c815fd44817f2402a60be4c6c2f2a5f124022ba305","features":{},"yanked":false}
+{"name":"coredb","vers":"15.2.0-coredb.1","deps":[],"cksum":"79306f64830bd22daaf8cd982a2eda46df872de2bcad22d70420afbe4f112930","features":{},"yanked":false}
