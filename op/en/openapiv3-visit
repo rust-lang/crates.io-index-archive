@@ -1,1 +1,2 @@
 {"name":"openapiv3-visit","vers":"0.1.0","deps":[{"name":"openapiv3","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffdd3d50a37292c3c7c02748cf2ba5cc31df813ee6179f501de688a91e5b12bc","features":{},"yanked":false}
+{"name":"openapiv3-visit","vers":"0.2.0","deps":[{"name":"openapiv3","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d403fbce05970b342725f465f9cd8987a607103f818bb7d0e37aa76ab16e2c0","features":{},"yanked":false}
