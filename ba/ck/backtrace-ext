@@ -1,1 +1,2 @@
 {"name":"backtrace-ext","vers":"0.1.0","deps":[{"name":"backtrace","req":"^0.3.67","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb6384b60b9ad5cb7c25189b89a4ee753550e7beba85d18400a73bf27cbdd23c","features":{},"yanked":false}
+{"name":"backtrace-ext","vers":"0.2.0","deps":[{"name":"backtrace","req":"^0.3.67","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"09b4ea77cd412fb7a185d512e61861295732b3d031be7c0fb8c1860ed103daca","features":{},"yanked":false}
