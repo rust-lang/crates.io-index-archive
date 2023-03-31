@@ -1,0 +1,1 @@
+{"name":"async-unsync","vers":"0.1.0","deps":[{"name":"futures-lite","req":"^1.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2c9039fa96d82d22c5dd863bcc26da0f1df9bf0c1bc054aade77e2fff27c9b86","features":{"default":["std"],"std":[]},"yanked":false}
