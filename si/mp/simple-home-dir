@@ -1,0 +1,1 @@
+{"name":"simple-home-dir","vers":"0.1.0","deps":[{"name":"windows-sys","req":"^0.48.0","features":["Win32_System_Com_CallObj","Win32_Foundation","Win32_Globalization","Win32_UI_Shell_Common"],"optional":false,"default_features":false,"target":"cfg(windows)","kind":"normal"}],"cksum":"203c0959d910286547804d818d58cbd61ac3f706108e2d86539fd9a3d31d96b6","features":{},"yanked":false}
