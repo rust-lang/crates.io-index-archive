@@ -1,0 +1,1 @@
+{"name":"shproto-rs","vers":"0.1.0","deps":[{"name":"heapless","req":"^0.7.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc5cb48f065d8b6e0b79d869ca11015dcfb29d5b9c613cd54a4390141df2b8a1","features":{},"yanked":false}
