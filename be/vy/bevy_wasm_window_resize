@@ -1,0 +1,1 @@
+{"name":"bevy_wasm_window_resize","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"440e91e3e87900fae8b9706106255760ed7b978ccbf3952c83c0d79bfe485f5a","features":{},"yanked":false}
