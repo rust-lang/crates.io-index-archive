@@ -10,3 +10,4 @@
 {"name":"flipperzero-sys","vers":"0.7.0","deps":[],"cksum":"fc12c964bee55c03f7e873c3439ada3c51fc7eb70dfc012ddca5a3d43f0928b8","features":{},"yanked":false}
 {"name":"flipperzero-sys","vers":"0.7.1","deps":[],"cksum":"2df6b0cacad4d67c7f7e9fd86ec2c77db01cb3a90b70ebddbb34318cc20a208e","features":{},"yanked":false}
 {"name":"flipperzero-sys","vers":"0.7.2","deps":[],"cksum":"2315b8e57847c5f69dea5e22e844320fd988f6090f563e504303069c808fc33a","features":{},"yanked":false}
+{"name":"flipperzero-sys","vers":"0.8.0","deps":[{"name":"ufmt","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc1f8726fee3bc8040c130f210224089a31866b353ac163f6e12cfead9d0abe0","features":{},"yanked":false}
