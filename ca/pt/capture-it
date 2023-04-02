@@ -2,3 +2,4 @@
 {"name":"capture-it","vers":"0.1.1","deps":[],"cksum":"01ad4ee262be8c24a9f999605b124a0a80bd03c33fc06398f97b47b974eaeaac","features":{},"yanked":false}
 {"name":"capture-it","vers":"0.2.0","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cbc02719a0f1fbcfa235a8a5130438574a1ec88e42843db4eb3f47735a4d9b81","features":{},"yanked":false}
 {"name":"capture-it","vers":"0.3.0","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6e02ce35759b483f073e34a5622a5722ee2ef99edbe69abe3a1029b441dd3e76","features":{},"yanked":false}
+{"name":"capture-it","vers":"0.3.1","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1be5835c8bbb276c3e5bc2dbe442745a360eca25e41ea64ec420e1b6499e643f","features":{},"yanked":false}
