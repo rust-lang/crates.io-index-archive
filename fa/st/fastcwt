@@ -1,0 +1,1 @@
+{"name":"fastcwt","vers":"0.1.0","deps":[{"name":"rustfft","req":"^6.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5a7c7db65e19c76b4e8e88c7f49a741159257be48c4e069042dc994e33e5d359","features":{},"yanked":false}
