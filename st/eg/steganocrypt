@@ -1,1 +1,2 @@
 {"name":"steganocrypt","vers":"0.1.0","deps":[{"name":"steganography","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d7979ef96c327d31c5d2bb52c92d515062311e0f028baeee4d54966c65b1199","features":{},"yanked":false}
+{"name":"steganocrypt","vers":"0.1.1","deps":[{"name":"steganography","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a447108ed14a4252fee335a119cb8441f4e7bbce7eb36fa78f79e683565eea8","features":{},"yanked":false}
