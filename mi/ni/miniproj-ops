@@ -1,0 +1,1 @@
+{"name":"miniproj-ops","vers":"0.1.0","deps":[{"name":"assert_float_eq","req":"^1.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"24e5f4bff5bb506776f111f779a1373348976d6f1e8cc557a7365e191912d8ff","features":{},"yanked":false}
