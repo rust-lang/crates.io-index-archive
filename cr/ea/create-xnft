@@ -1,0 +1,1 @@
+{"name":"create-xnft","vers":"0.1.0","deps":[{"name":"clap","req":"^4.1.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3681b84f5da7aec3d04f6adca49de200b81f12fade6afc1a787442d55211f6b","features":{},"yanked":false}

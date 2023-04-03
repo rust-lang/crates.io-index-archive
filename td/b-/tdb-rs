@@ -1,0 +1,3 @@
+{"name":"tdb-rs","vers":"0.1.0","deps":[],"cksum":"fb5c3a3810a9c775cedc333017d117895624e93395e1dc4b113c8b90fd340382","features":{},"yanked":false}
+{"name":"tdb-rs","vers":"0.1.1","deps":[],"cksum":"12b136aef762e5e8cac2c1174b473a796b0a06ae879dc9f415ded638e2facf0a","features":{},"yanked":false}
+{"name":"tdb-rs","vers":"0.1.2","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"100a25458e6e0016028d13ed9d0f700268ea85f7109eafe567e811c38a7f82b8","features":{},"yanked":false}

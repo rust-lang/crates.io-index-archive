@@ -1,0 +1,1 @@
+{"name":"benri","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.17","features":["std"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3f8d2822978266940a5f05f140d2c9d98f04c7a5dac084f0da5a4fabea0a87a","features":{"default":[]},"yanked":false}

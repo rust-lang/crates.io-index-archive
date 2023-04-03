@@ -1,0 +1,1 @@
+{"name":"rustmex_core","vers":"0.1.0","deps":[{"name":"num-complex","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bbbd6fce9f0501f4ffbb9260ccb0cb16bd07526d0df5c770829065bab8ec6926","features":{},"yanked":false}

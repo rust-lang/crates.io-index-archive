@@ -1,0 +1,1 @@
+{"name":"sdl3-sys","vers":"0.0.1+sdl3-dev-2023-01-23","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f147286ec61bb44c538e435bdfd9f92d53b79fda9f3ee0878f40963826c46e6c","features":{"const_trait_impl":[]},"yanked":false}

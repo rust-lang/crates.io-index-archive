@@ -1,0 +1,1 @@
+{"name":"axolotlsay","vers":"0.0.0","deps":[{"name":"clap","req":"^4.1.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5f576e8bebbf1e7de34b1a4f29a2fae6b252441f49e8ec638f8c7d2a0954e87","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"wasefire-store","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"01de51b40ba92db590b7d7f4784fc2cb80bce6060401a276834e5ce687a3dea5","features":{"std":[]},"yanked":false}
+{"name":"wasefire-store","vers":"0.1.1","deps":[{"name":"tempfile","req":"^3.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e37dfcc2ab774a8fdef959016b65ff3442f1f0f05e2b4b3be3cca177610803f0","features":{"std":[]},"yanked":false}

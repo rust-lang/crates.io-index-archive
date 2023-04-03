@@ -1,0 +1,1 @@
+{"name":"chainfile","vers":"0.1.0","deps":[{"name":"flate2","req":"^1.0.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"989a219b74fa5a4328e41598faf3ded7b5d62d56d9b37784e8c25ad8456995da","features":{},"yanked":false}

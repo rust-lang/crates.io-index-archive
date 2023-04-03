@@ -1,0 +1,2 @@
+{"name":"priority-expiry-cache","vers":"0.1.0","deps":[],"cksum":"7909e45691d696c9aab02d1fa96ac45924baca41f2bc8e806b2bb0103f5c17d0","features":{},"yanked":true}
+{"name":"priority-expiry-cache","vers":"0.1.1","deps":[{"name":"ahash","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45c01abcf8494c3aeacee6f39dab2e919b5edc9f1e6bd103af55c02246a2998c","features":{},"yanked":false}

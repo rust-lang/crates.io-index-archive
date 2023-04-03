@@ -1,0 +1,1 @@
+{"name":"intel-tee-quote-verification-sys","vers":"0.2.0","deps":[{"name":"bindgen","req":"^0.60.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"89c04fd039b6bbb5ed4e34251d642e0128a082c8ca0a8197106f93130310e07c","features":{},"yanked":false,"links":"sgx_dcap_quoteverify"}

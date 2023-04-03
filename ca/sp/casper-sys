@@ -1,0 +1,1 @@
+{"name":"casper-sys","vers":"0.1.0","deps":[{"name":"libnv-sys","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a301fa9fcd17d497244e16d189e4543267617d954e82000b5bb23e6380ccc3d","features":{},"yanked":false}

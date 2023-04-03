@@ -1,0 +1,2 @@
+{"name":"lightning-custom-message","vers":"0.0.1","deps":[],"cksum":"aa603413d669de42f259a03865554af900bec76df34521e7c3afb522eb8bfb6d","features":{},"yanked":false}
+{"name":"lightning-custom-message","vers":"0.0.114","deps":[{"name":"bitcoin","req":"^0.29.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"lightning","req":"^0.0.114","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7fa86f8621df56678f12850bee84f4180cab0e68f8bd8e32202b44439c95a17f","features":{},"yanked":false}

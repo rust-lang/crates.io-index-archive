@@ -1,0 +1,2 @@
+{"name":"azamcodec","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.4","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a764069113183f7a59f7bc2455081c20b980718263689ba5e303036a8220d999","features":{},"yanked":false}
+{"name":"azamcodec","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.4","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"12ef7f87439eea40b0d574199c2da2216d81b57cbedbec6d067037f770e2954a","features":{},"yanked":false}

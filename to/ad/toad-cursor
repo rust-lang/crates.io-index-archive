@@ -1,0 +1,1 @@
+{"name":"toad-cursor","vers":"0.2.0","deps":[],"cksum":"0dee8dde5a719faedaf8509f68a8ae1b72e6f0d96bcdbcd59b92de074fe7c33e","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false}

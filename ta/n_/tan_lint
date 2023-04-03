@@ -1,0 +1,1 @@
+{"name":"tan_lint","vers":"0.5.0","deps":[{"name":"lsp-types","req":"^0.94","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tan","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7abae171d22012352b1f02533bd43151bfbc67f2ec7ede33dbc9aaceb07aea1","features":{},"yanked":false}

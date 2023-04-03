@@ -1,0 +1,4 @@
+{"name":"unwrap_or_panic","vers":"0.1.0","deps":[],"cksum":"759374c22af08442f7cd392e6b9b3e71da75d6366ae94ffe7b0f1c896b7a689b","features":{"default":[],"std":[]},"yanked":false}
+{"name":"unwrap_or_panic","vers":"0.1.1","deps":[],"cksum":"f3d21f522a6bc70091914929a935cb9e24b8b75de8fe47a6238919e3c029e953","features":{"default":[]},"yanked":false}
+{"name":"unwrap_or_panic","vers":"0.2.0","deps":[],"cksum":"e633b05a2dc56133dfe4003c7070537c7e159e6add2aa7c883bce130a64c62b7","features":{"default":[],"panic_location":[]},"yanked":false}
+{"name":"unwrap_or_panic","vers":"0.2.1","deps":[],"cksum":"e613debd9578e5d12433ffaec8bf141354b11bf660778a8d527e87ffafd0c48e","features":{"default":["panic_location"],"panic_location":[]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"jast_lib","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.93","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07c68aa3253d2c5ca4566393364578e4d5fa49f611c3923eda901505816c091c","features":{},"yanked":false}

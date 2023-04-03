@@ -1,0 +1,2 @@
+{"name":"nobcd","vers":"0.1.0","deps":[{"name":"defmt","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80ccd849003e316f7b6779504f529225821388321228ba87f62f34322058fa24","features":{},"yanked":false}
+{"name":"nobcd","vers":"0.1.1","deps":[{"name":"defmt","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2a7b6dd49dc29e237b3e891153272b6f737405cc45bff708c3e8f5124cd6081","features":{},"yanked":false}

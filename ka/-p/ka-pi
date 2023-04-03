@@ -1,0 +1,1 @@
+{"name":"ka-pi","vers":"0.0.1","deps":[{"name":"jni","req":"^0.20.0","features":["invocation"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c63c56d2af09e69e8dc0600c02eb57ead8be2814764fe79e455a835dce56207","features":{},"yanked":false}
