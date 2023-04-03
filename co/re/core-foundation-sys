@@ -24,3 +24,4 @@
 {"name":"core-foundation-sys","vers":"0.8.1","deps":[],"cksum":"c0af3b5e4601de3837c9332e29e0aae47a0d46ebfa246d12b82f564bac233393","features":{"mac_os_10_7_support":[],"mac_os_10_8_features":[]},"yanked":false}
 {"name":"core-foundation-sys","vers":"0.8.2","deps":[],"cksum":"ea221b5284a47e40033bf9b66f35f984ec0ea2931eb03505246cd27a963f981b","features":{"mac_os_10_7_support":[],"mac_os_10_8_features":[]},"yanked":false}
 {"name":"core-foundation-sys","vers":"0.8.3","deps":[],"cksum":"5827cebf4670468b8772dd191856768aedcb1b0278a04f989f7766351917b9dc","features":{"mac_os_10_7_support":[],"mac_os_10_8_features":[]},"yanked":false}
+{"name":"core-foundation-sys","vers":"0.8.4","deps":[],"cksum":"e496a50fda8aacccc86d7529e2c1e0892dbd0f898a6b5645b5561b89c3210efa","features":{"mac_os_10_7_support":[],"mac_os_10_8_features":[]},"yanked":false}
