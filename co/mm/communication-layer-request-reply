@@ -7,3 +7,4 @@
 {"name":"communication-layer-request-reply","vers":"0.2.1-rc","deps":[],"cksum":"ff96d46161ccccc9447a329e1439f187b8d771dd7fa1c3a0bebb8326863ee251","features":{},"yanked":false}
 {"name":"communication-layer-request-reply","vers":"0.2.1","deps":[],"cksum":"4eb0e4311374a8c87d1badb255c73a64448567173895f0002b76ae4b29041ad3","features":{},"yanked":false}
 {"name":"communication-layer-request-reply","vers":"0.2.2-rc","deps":[],"cksum":"5570d1352bac0133531cf46dfa6f8fa2051d005dc3a151f1e2c083472b0e0b65","features":{},"yanked":false}
+{"name":"communication-layer-request-reply","vers":"0.2.2-rc-2","deps":[],"cksum":"0f7341ec9f0fcb7c368309a340ce96f9bdc12eed717495f00c749226de765a15","features":{},"yanked":false}
