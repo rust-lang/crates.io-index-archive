@@ -1,1 +1,2 @@
 {"name":"matrixes","vers":"1.0.0","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19a9ea55b8f23f5685da3bbce6df02316f5601ce78c7b6a9970e8b861e8e2684","features":{},"yanked":false}
+{"name":"matrixes","vers":"1.1.0","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29cdb20c11e021123cd1a5992557fb33ebcb16c693aba84a82310e011e3ad9d3","features":{},"yanked":false}
