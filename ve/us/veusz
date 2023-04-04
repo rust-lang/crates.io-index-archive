@@ -1,0 +1,1 @@
+{"name":"veusz","vers":"0.1.0","deps":[{"name":"derive_more","req":"^0.99.17","features":["from"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9a550f4967670d8390bbf0913021633b8d4786dbe40d651729c63a6aff867f9","features":{},"yanked":false}
