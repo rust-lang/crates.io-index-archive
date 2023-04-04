@@ -17,3 +17,4 @@
 {"name":"marc","vers":"1.4.0","deps":[{"name":"error-chain","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"198cf801382ebf5f1058de4e1923359751f5e2c5454c75075996cbb4314f5fd0","features":{"default":[],"nightly":[]},"yanked":false}
 {"name":"marc","vers":"1.5.0","deps":[{"name":"error-chain","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34b85323615196dc73f6532aebde32e733a8b427e68fd3b03a882323b1b0864c","features":{"default":[],"nightly":[]},"yanked":false}
 {"name":"marc","vers":"2.0.0","deps":[],"cksum":"fe64e04162cf64d8498413d3b89be57ca8ac067d08405097205bc6cec43b054b","features":{"default":[],"nightly":[]},"yanked":false}
+{"name":"marc","vers":"3.0.0","deps":[],"cksum":"0fa197b92dfca18e1e0662e49c3716ab5077791e637f283d707514162f9fb54f","features":{"default":[],"nightly":[]},"yanked":false}
