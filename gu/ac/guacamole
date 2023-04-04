@@ -1,0 +1,1 @@
+{"name":"guacamole","vers":"0.1.0","deps":[{"name":"clap","req":"^2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59c9707f6c67afe98d0c09f37ee726adfe2f903532103cffb812d92f1946996f","features":{},"yanked":false}
