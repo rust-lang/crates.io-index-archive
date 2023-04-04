@@ -1,0 +1,1 @@
+{"name":"load-env","vers":"0.1.0","deps":[{"name":"dotenvy","req":"^0.15.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42962202ede6ecd3e15e6a097a07098a9a5b51800ea5b79f3f16f53280e570c5","features":{},"yanked":false}
