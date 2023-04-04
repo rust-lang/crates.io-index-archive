@@ -1,1 +1,2 @@
 {"name":"kaspa-utils","vers":"0.0.0","deps":[],"cksum":"1fba3f6644a10d430cb3e1b5bab01bcfe47708c94cd1b46c598b59ebd8b02163","features":{},"yanked":false}
+{"name":"kaspa-utils","vers":"0.0.1","deps":[{"name":"async-channel","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"triggered","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0426e68455fdcbe9d3803e4cd1536b66911cfba71e4e8ffa89cc7486f0af9e5b","features":{},"yanked":false}
