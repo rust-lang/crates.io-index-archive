@@ -1,0 +1,1 @@
+{"name":"perfect_rand","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a247f113223f08026a313702d0df30c3521c2718d241950a861192ca266c58c","features":{},"yanked":false}
