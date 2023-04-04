@@ -1,1 +1,2 @@
 {"name":"load-env","vers":"0.1.0","deps":[{"name":"dotenvy","req":"^0.15.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42962202ede6ecd3e15e6a097a07098a9a5b51800ea5b79f3f16f53280e570c5","features":{},"yanked":false}
+{"name":"load-env","vers":"0.2.0","deps":[{"name":"dotenvy","req":"^0.15.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78e335ea01194d4b8232a33f4fcd591755bafc24c0753f14707d0951602cb148","features":{},"yanked":false}
