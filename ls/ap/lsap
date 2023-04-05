@@ -1,0 +1,1 @@
+{"name":"lsap","vers":"1.0.0","deps":[{"name":"approx","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"ndarray","req":"^0.15.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d7fb2e5b9ce6d8ebf748487f081adc680fb8431f7995e9fa8d8b4447657cfe5c","features":{},"yanked":false}
