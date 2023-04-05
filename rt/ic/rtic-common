@@ -1,0 +1,1 @@
+{"name":"rtic-common","vers":"1.0.0-alpha.0","deps":[{"name":"critical-section","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e39633693d25d7b93f0e6945a7b0190eb6164725749408f9ada0c2d335a2799f","features":{"default":[],"testing":["critical-section/std"]},"yanked":false}
