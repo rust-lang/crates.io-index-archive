@@ -9,4 +9,4 @@
 {"name":"scriptkit","vers":"0.1.8","deps":[],"cksum":"81de492c7c5425b991e91a75c033eae93809eae07f118c3955c08818a0f6c989","features":{},"yanked":false}
 {"name":"scriptkit","vers":"0.1.9","deps":[],"cksum":"64a831229f033b42c3846e4bb77c252178d22c49c3e4fd32467f680ac5982f64","features":{},"yanked":false}
 {"name":"scriptkit","vers":"1.0.0","deps":[],"cksum":"6019068496af13930c89857b40596c56cf3b252c4d6a1918352ea9a854d64ae2","features":{},"yanked":false}
-{"name":"scriptkit","vers":"1.0.1","deps":[],"cksum":"775a35faad47f9aa81a9afdd06ce1b2d0938cf26ce85100f9661530c7f21730f","features":{},"yanked":false}
+{"name":"scriptkit","vers":"1.0.1","deps":[],"cksum":"775a35faad47f9aa81a9afdd06ce1b2d0938cf26ce85100f9661530c7f21730f","features":{},"yanked":true}
