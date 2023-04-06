@@ -1,1 +1,2 @@
 {"name":"gmres","vers":"0.1.0","deps":[{"name":"rsparse","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db62edf6c0f8c7cf2e91d08a1cba0c4b94a86eaae666e9cedfa4ac83747e5e05","features":{},"yanked":false}
+{"name":"gmres","vers":"0.1.1","deps":[{"name":"rsparse","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee3782e6955a6539cd3b3aece859831a302ca8b513499638669d9abb74ee3b9f","features":{},"yanked":false}
