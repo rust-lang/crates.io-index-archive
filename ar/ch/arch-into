@@ -1,0 +1,1 @@
+{"name":"arch-into","vers":"0.0.1-alpha.1","deps":[],"cksum":"bb6d4a1b65284df7040e0537efdae8ee643ede65d4e5f33acccd65f662faaea5","features":{"arch-32":[],"arch-64":["arch-32"],"default":[]},"yanked":false}
