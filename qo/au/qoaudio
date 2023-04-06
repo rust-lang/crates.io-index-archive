@@ -1,1 +1,2 @@
 {"name":"qoaudio","vers":"0.1.0","deps":[{"name":"rodio","req":"^0.17.1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c4f217cb1fab041a641591c650f165dbea34c35ef86ddb4682646f0885c937b4","features":{"default":[]},"yanked":false}
+{"name":"qoaudio","vers":"0.2.0","deps":[{"name":"rodio","req":"^0.17.1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"c487a5c07e38675407c7e4dafbcb4b87bbbcd06756e7e56d9acb15e5a7bcf3bd","features":{"default":[]},"yanked":false}
