@@ -1,0 +1,1 @@
+{"name":"salvo-otel","vers":"0.38.0","deps":[{"name":"tokio","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7e26914ef1da1aeb6b99da516b141719efa05f226b7aacd6659576433d7b68d5","features":{},"yanked":false}
