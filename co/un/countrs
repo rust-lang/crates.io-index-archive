@@ -1,0 +1,1 @@
+{"name":"countrs","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.24","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d969367dd1b206b459be61159ee83b2344d8b944eb8879532560d8f867cc864c","features":{"default":["types","chrono"],"types":["chrono"]},"features2":{"chrono":["dep:chrono"]},"yanked":false,"v":2}
