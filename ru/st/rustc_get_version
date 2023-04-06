@@ -1,0 +1,1 @@
+{"name":"rustc_get_version","vers":"0.1.0","deps":[{"name":"regex","req":"^1.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69cfff2550bccda8234ed1f474223232c0e33d593d455ac4d2aee897469bd074","features":{},"yanked":false}
