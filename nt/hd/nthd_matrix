@@ -1,1 +1,2 @@
 {"name":"nthD_Matrix","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08a728f3f83f36fe0cbb2e5918934dd9ddd3c9e0697e52296e099541ed8b480b","features":{},"yanked":false}
+{"name":"nthD_Matrix","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.2.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f82f8bb565c7700db5b9295cec502edc72f4d0a6d1c197bb2438c9ef0a27d365","features":{},"yanked":false}
