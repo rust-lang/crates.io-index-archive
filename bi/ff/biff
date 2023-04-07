@@ -1,0 +1,1 @@
+{"name":"biff","vers":"0.0.1","deps":[{"name":"clap","req":"^4.1.6","features":["cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1d902fc6c6ef8c6775607090b720fd6b352eb3434be1398dbe567d9a652362e","features":{},"yanked":false}
