@@ -11,3 +11,4 @@
 {"name":"fuel-storage","vers":"0.27.0","deps":[],"cksum":"74a7045bb1c6020dc463e6e8f9f159ca973d5fbd3169d5bb3949d49cbfeb34ef","features":{},"yanked":false}
 {"name":"fuel-storage","vers":"0.28.1","deps":[],"cksum":"e7e8e9acd44322908b00a6d922f5d8ae54db73e9c69409843ab787892a1c13bc","features":{},"yanked":false}
 {"name":"fuel-storage","vers":"0.29.0","deps":[],"cksum":"528d5c6f23e77e13767987c90158ac713afaf1485a891122dceaa0adde016dea","features":{},"yanked":false}
+{"name":"fuel-storage","vers":"0.30.0","deps":[],"cksum":"173212ca99bac6274446c79338d09cacd496c5e67a16e58a242d5e0e49b506c2","features":{},"yanked":false}
