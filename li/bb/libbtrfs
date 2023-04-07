@@ -1,0 +1,1 @@
+{"name":"libbtrfs","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.140","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"uuid","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51cff855fd7a72b43cc5dd31e2420d81ff9145fc60b4ff85aead641108ad9422","features":{},"yanked":false}
