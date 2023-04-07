@@ -1,0 +1,1 @@
+{"name":"way-lib-rust","vers":"0.0.1","deps":[{"name":"ulid","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"071cbf650eeb5678b74d5fd98952ba1a633a066dd604e65e2e8a324b0fe24aa1","features":{},"yanked":false}
