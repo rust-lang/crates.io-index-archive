@@ -1,0 +1,1 @@
+{"name":"csv-merger","vers":"0.1.0","deps":[{"name":"csv","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"47b4414ee2eb73634ebc4fb5231cd97d395a4528d6ec47ef1e29be034718617c","features":{},"yanked":false}
