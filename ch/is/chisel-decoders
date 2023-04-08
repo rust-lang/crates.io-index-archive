@@ -9,7 +9,7 @@
 {"name":"chisel-decoders","vers":"0.1.9","deps":[],"cksum":"4086372686ac22fc56f04a5b8d28aa605bb4e6c399c54e0e17d208aec332bb5e","features":{},"yanked":false}
 {"name":"chisel-decoders","vers":"0.1.10","deps":[],"cksum":"9b4447abf97eb7f39dc7f90da47869ec257321a897b21815fcec36539d66d063","features":{},"yanked":false}
 {"name":"chisel-decoders","vers":"0.1.11","deps":[],"cksum":"5c52a71b1f702e369b81f6d47194a1d908b6837f36df397935e0f3a85b456f4c","features":{},"yanked":false}
-{"name":"chisel-decoders","vers":"0.1.12","deps":[],"cksum":"f20e3855ecd805bc30c7a9937c73f8017c2ada67d0035c2cc1340f663ef97cd6","features":{},"yanked":false}
+{"name":"chisel-decoders","vers":"0.1.12","deps":[],"cksum":"f20e3855ecd805bc30c7a9937c73f8017c2ada67d0035c2cc1340f663ef97cd6","features":{},"yanked":true}
 {"name":"chisel-decoders","vers":"0.1.13","deps":[],"cksum":"ab7fdfcea0c641e32b60ef8a99d1088cc44ee94899792d69c059eb4916dab8ca","features":{},"yanked":true}
 {"name":"chisel-decoders","vers":"0.1.14","deps":[{"name":"criterion","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ec906930b648503f2d5c13341d1dc06ad6fedd9ec132e7be2468ce5726423e38","features":{},"yanked":true}
 {"name":"chisel-decoders","vers":"0.1.15","deps":[{"name":"criterion","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e549e2539a9a12daf9f53706d569e3b3dc14ea367a165ec6b9aedf6ad4c75b66","features":{},"yanked":true}
