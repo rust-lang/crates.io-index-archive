@@ -1,0 +1,1 @@
+{"name":"graphlib_rust","vers":"0.0.1","deps":[{"name":"ordered_hashmap","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb079ca57b4c8d1b5f957855eb804ef7f4f6be42479b64e60ef3f8fe3e378112","features":{},"yanked":false}
