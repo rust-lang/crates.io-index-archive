@@ -1,2 +1,3 @@
 {"name":"fnstack-cf-macro","vers":"0.1.0","deps":[],"cksum":"395f0cbbcd96b2c657138766a594a8d43e48c04da53ff1bcbf417c88822d9cb3","features":{},"yanked":false}
 {"name":"fnstack-cf-macro","vers":"0.2.0","deps":[],"cksum":"2c12069080fcb322fb4414dd6d5488fb3a4d4575f7212e0bfea617d366a8ae12","features":{},"yanked":false}
+{"name":"fnstack-cf-macro","vers":"0.2.1","deps":[],"cksum":"48c417dee38f1e973e6f716d42886d142863f8b89d30d852263aa988a8aec2d2","features":{"axum":[]},"yanked":false}
