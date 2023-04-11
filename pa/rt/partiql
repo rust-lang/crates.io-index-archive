@@ -1,3 +1,4 @@
 {"name":"partiql","vers":"0.0.0","deps":[],"cksum":"a00313422f1a80cd73587d371356b312cdd501395d45af760f889d7268873829","features":{},"yanked":false}
 {"name":"partiql","vers":"0.1.0","deps":[],"cksum":"8734149086b7a9c7b5585091a8671f8a6480def43c14fc2d38043e5711082142","features":{},"yanked":false}
 {"name":"partiql","vers":"0.2.0","deps":[],"cksum":"bae3b6b81f710f10348db8c01266c8bb9fb6abfbeb640c7da293f45df0118f7f","features":{},"yanked":false}
+{"name":"partiql","vers":"0.3.0","deps":[{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"itertools","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ddd71f7b09d74f1037833318d6980a82821c9907efc2b6b94f9c753a1df15030","features":{},"yanked":false}
