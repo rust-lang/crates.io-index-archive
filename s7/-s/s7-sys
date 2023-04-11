@@ -1,0 +1,1 @@
+{"name":"s7-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.65.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.0.79","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a1599fe50405807b3fcf70fccfc03ace515ac30480366cafb5b5df771ef1da30","features":{},"yanked":false}
