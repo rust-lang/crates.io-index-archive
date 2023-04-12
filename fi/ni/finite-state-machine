@@ -1,1 +1,2 @@
 {"name":"finite-state-machine","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d68c68c51a7334f36f960ab43af9b06d43609fa5f0401b1cd060d9208cd2d895","features":{"verbose":[]},"yanked":false}
+{"name":"finite-state-machine","vers":"0.1.1","deps":[{"name":"paste","req":"^1.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8591487c1ce54a38ded3dcbe288847467b939e83a588f928bfe487f351b2e257","features":{"verbose":[]},"yanked":false}
