@@ -1,1 +1,2 @@
 {"name":"dst-init","vers":"0.1.0","deps":[{"name":"dst-init-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"300cc1bcc8cf010056b6188cd9848a9d9f05be8d1a4ab5f54c02d39f338019ab","features":{},"yanked":false}
+{"name":"dst-init","vers":"0.1.1","deps":[{"name":"dst-init-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0543e158c1b9451ef04ac06b7c068617a9f5c15aee0fd4abbe4bb2d85dd16517","features":{},"yanked":false}
