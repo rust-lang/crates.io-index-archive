@@ -1,0 +1,1 @@
+{"name":"finite-state-machine","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d68c68c51a7334f36f960ab43af9b06d43609fa5f0401b1cd060d9208cd2d895","features":{"verbose":[]},"yanked":false}
