@@ -1,0 +1,1 @@
+{"name":"ownable","vers":"0.5.0","deps":[{"name":"ownable-macro","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b1d873db05278129ab7e366dbfc530fe875793140dee66578e31ee91abdc612","features":{"default":["std"],"std":[]},"yanked":false}
