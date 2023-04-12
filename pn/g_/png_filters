@@ -1,0 +1,1 @@
+{"name":"png_filters","vers":"0.1.0","deps":[{"name":"getrandom","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7dbe5c5e6c81f19e0af619ae751e835cc023992f2823ab242bf70d265cb0a62e","features":{},"yanked":false}
