@@ -1,0 +1,1 @@
+{"name":"hrs","vers":"0.1.0","deps":[{"name":"clap","req":"^4.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"dirs","req":"^5.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"352b375609ebe8f506902ab4bac38187b8b989d00803195f89c0134907f3d813","features":{},"yanked":false}
