@@ -1,0 +1,1 @@
+{"name":"aleph-solana-contract","vers":"0.1.0","deps":[{"name":"anchor-lang","req":"^0.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"309127fd347d1e2a04ec1a2042e84ff323538b8ac20c968189c0194e0214a52e","features":{"cpi":["no-entrypoint"],"default":[],"no-entrypoint":[],"no-idl":[],"no-log-ix-name":[]},"yanked":false}
