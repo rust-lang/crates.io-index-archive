@@ -1,0 +1,1 @@
+{"name":"multrix","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rayon","req":"^1.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01a363ed94785148eaaefb3d2b5bf98100033a0648d5e808fbd53dae9a6a1764","features":{},"yanked":false}
