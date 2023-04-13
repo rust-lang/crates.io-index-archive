@@ -1,1 +1,2 @@
 {"name":"mdbook-combiner","vers":"0.1.0","deps":[{"name":"mdbook","req":"^0.4.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea87aa58db65f827e2562b373197fef805a88dac8d39c7f2ae2c19fa588956b7","features":{},"yanked":false}
+{"name":"mdbook-combiner","vers":"0.1.1","deps":[{"name":"mdbook","req":"^0.4.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e91d6aa557f52c051d1ac6f979c0af88764f7759d2e7af9aabbaebff76e9165","features":{},"yanked":false}
