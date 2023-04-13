@@ -23,3 +23,4 @@
 {"name":"demo-app-asi","vers":"1.4.0","deps":[],"cksum":"270b32728e2493e57030c01ff837e1ab278dd0df546568a8334fc11725d0dfa1","features":{},"yanked":false}
 {"name":"demo-app-asi","vers":"1.4.1-alpha.1","deps":[],"cksum":"68d3c53b45c9f03712c65ee2fb27e093e3384635fa9f52e2dcedef49a7500402","features":{},"yanked":false}
 {"name":"demo-app-asi","vers":"1.4.1-beta.1","deps":[],"cksum":"3808ea46fd0bb9fbca9aeac431d90c423f91144e4a306a88b3de687239c16dfc","features":{},"yanked":false}
+{"name":"demo-app-asi","vers":"1.4.1","deps":[],"cksum":"c319b39794dea827795853d2bd84b4f7f51c9c6cf4975bb5b5958a05e894258f","features":{},"yanked":false}
