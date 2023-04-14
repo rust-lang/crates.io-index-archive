@@ -1,0 +1,1 @@
+{"name":"tlmcmddb","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.150","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"affcc0641eccb04893b42afc39907cd1468a3f99d0ae554a2285441b6c15afe7","features":{},"yanked":false}
