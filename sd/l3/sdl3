@@ -1,0 +1,1 @@
+{"name":"sdl3","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.141","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sdl3-sys","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b41b0fa1cebf9fb8db30549cc980d4d8d542c9c99e1e7e72d3dd873d46051d2","features":{},"yanked":false}
