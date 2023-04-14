@@ -19,3 +19,4 @@
 {"name":"triangle","vers":"0.1.351","deps":[],"cksum":"748f8f1b253318a94b947e29f3553c2d0a0b24ad510d6ba550e6a0206d00f34a","features":{},"yanked":false}
 {"name":"triangle","vers":"0.1.352","deps":[],"cksum":"88dc5fa3addc3eee8677e432a8a7f408a8e986f1e2d7c2d554e9c7ddb815da9f","features":{},"yanked":true}
 {"name":"triangle","vers":"0.1.353","deps":[],"cksum":"613891ad05813443d64a920fcb9769a41ba447613260cc3888d23e463ec9fd85","features":{},"yanked":false}
+{"name":"triangle","vers":"0.2.0","deps":[{"name":"num-traits","req":"^0.2.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b8d99f3a4f45676212c580c96744539cd121f71357568abe709c2ef4658042d","features":{},"yanked":false}
