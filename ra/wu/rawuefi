@@ -11,3 +11,4 @@
 {"name":"rawuefi","vers":"0.1.4","deps":[],"cksum":"d51502f89d15f945ed51e10d83db6fbdda66f4f3a334a259602cf8f526555550","features":{},"yanked":false}
 {"name":"rawuefi","vers":"0.1.5-dev.1","deps":[],"cksum":"0be9e4f359882014cedcd0585d36cb73b69209f39a43c64461d976b6debbe7df","features":{},"yanked":false}
 {"name":"rawuefi","vers":"0.1.5-dev.2","deps":[],"cksum":"a174f7a49b2947e67f6b9ae49c8946897cbe18a8fe581bf78240814fb8cced53","features":{},"yanked":false}
+{"name":"rawuefi","vers":"0.1.5-dev.3","deps":[],"cksum":"2620b10b7fa1e5df0e3ccb647b713d6cfc8eca3c1e0eee996c1f5011c9dbe581","features":{},"yanked":false}
