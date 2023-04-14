@@ -3,3 +3,4 @@
 {"name":"wasm-vfs","vers":"0.0.3","deps":[],"cksum":"bbe9b659505f68fbe86ba484e9840dc75f01fa0ce5c04acd3360ae435af35c12","features":{},"yanked":false}
 {"name":"wasm-vfs","vers":"0.0.4","deps":[],"cksum":"cd5227034af62d23cdd4b81db86be46317e0f16cd49051fd578cfeb714b0f2d5","features":{},"yanked":false}
 {"name":"wasm-vfs","vers":"0.0.5","deps":[],"cksum":"bc8b385ee77e99bd6a19faf77d17989b9228386ed5607d2330bbb84a67b1c3f6","features":{},"yanked":false}
+{"name":"wasm-vfs","vers":"0.0.6","deps":[],"cksum":"849a4ed9673ee2c11e47660449b1e7a682cc6664c9c6ea351d3c398ec00b9600","features":{},"yanked":false}
