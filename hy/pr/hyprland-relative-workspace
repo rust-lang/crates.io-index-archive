@@ -1,1 +1,2 @@
 {"name":"hyprland-relative-workspace","vers":"1.0.0","deps":[{"name":"hyprland","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee47cf90d65beb59ebb74985a289bce2ea27841a58b76f6b8a7ea466c4d95f08","features":{},"yanked":false}
+{"name":"hyprland-relative-workspace","vers":"1.0.1","deps":[{"name":"hyprland","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df694aa921c02c0838737267cc06e61c4fa0e323dee5cd64dc28524605843ae6","features":{},"yanked":false}
