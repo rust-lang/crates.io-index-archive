@@ -1,0 +1,1 @@
+{"name":"modm","vers":"0.1.0","deps":[{"name":"clap","req":"^4.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^1.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f301bf5d2e3b0e53c4992b281cd0b3f74b6f821150325cbb52c0cef410cdb43d","features":{},"yanked":false}
