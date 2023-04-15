@@ -1,0 +1,1 @@
+{"name":"static-slicing","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.4","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"043c7c1cca5371e405061de36e43461d3fa24d0da9b1731d453e6a42c786b9bc","features":{"default":["std"],"std":[]},"yanked":false}
