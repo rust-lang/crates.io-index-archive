@@ -1,0 +1,1 @@
+{"name":"matricks_plugin","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.160","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95d12f599a2e511d53eb915638efcdf5a96dea8662101c1bad58250ec188c680","features":{},"yanked":false}
