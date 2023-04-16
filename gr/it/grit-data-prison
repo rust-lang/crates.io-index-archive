@@ -3,3 +3,4 @@
 {"name":"grit-data-prison","vers":"0.1.2","deps":[],"cksum":"faaeeb9ae8cb4f718f1d457e8a287ed6702178ab43441b8e10dd2be7730fc630","features":{"no_std":[]},"yanked":false}
 {"name":"grit-data-prison","vers":"0.2.0","deps":[],"cksum":"33b768588953e07e43e629a87e31d606926c562e4bbbbf2f9b77d3ae89a90abe","features":{"no_std":[]},"yanked":false}
 {"name":"grit-data-prison","vers":"0.2.1","deps":[],"cksum":"dc46a91ed5d33c6c9dcc07c32b0122893c45f313e62d7a7a7954707d24265566","features":{"no_std":[]},"yanked":false}
+{"name":"grit-data-prison","vers":"0.2.2","deps":[],"cksum":"cd105f272f6481f6b9bcbd86c4a10024113a265e616639f213f332e946fce8b3","features":{"no_std":[]},"yanked":false}
