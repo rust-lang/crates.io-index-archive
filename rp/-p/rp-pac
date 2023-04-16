@@ -1,1 +1,2 @@
 {"name":"rp-pac","vers":"0.0.0","deps":[],"cksum":"a3e43ef2165afbd510cdf408559ff78c0667ae4eda85223b7461ab3f3e35fce6","features":{},"yanked":false}
+{"name":"rp-pac","vers":"1.0.0","deps":[{"name":"cortex-m","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cortex-m-rt","req":">=0.6.15, <0.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d28d12e49c90ec20a3f0d98cdea6204fb4d7186ade6f8cc0a52c32aaf931692","features":{"rt":["cortex-m-rt/device"]},"yanked":false}
