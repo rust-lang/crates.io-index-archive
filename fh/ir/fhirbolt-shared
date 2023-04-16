@@ -3,3 +3,4 @@
 {"name":"fhirbolt-shared","vers":"0.1.2","deps":[],"cksum":"55a2dd74db7f0b718f778103c18773690a33d7dfdab7668f14665c69b5b16c3c","features":{},"yanked":false}
 {"name":"fhirbolt-shared","vers":"0.1.3","deps":[],"cksum":"9730fc80b8b1cc36151e49f5ed585592e70c7b0c7d3ce6d34455d981f8e0b52d","features":{},"yanked":false}
 {"name":"fhirbolt-shared","vers":"0.2.0","deps":[{"name":"phf","req":"^0.11","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d59a14ece2c71d9eb3d0e54753dc9833118c5d2255283cdc657d9d031d1b0a3","features":{},"yanked":false}
+{"name":"fhirbolt-shared","vers":"0.2.1","deps":[{"name":"phf","req":"^0.11","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd80c2a504d37d8cbb504118ab55b733029d93e8363e61d5dd754d8d326e5b5b","features":{},"yanked":false}
