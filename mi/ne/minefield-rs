@@ -1,0 +1,1 @@
+{"name":"minefield-rs","vers":"0.1.4","deps":[{"name":"rand","req":"^0.8.5","features":["getrandom"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32b28f3c3231084b29c2bf7d182ef81be3bb733fd814940b32471f51d5562040","features":{},"yanked":false}
