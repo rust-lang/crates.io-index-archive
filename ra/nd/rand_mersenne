@@ -1,5 +1,5 @@
 {"name":"rand_mersenne","vers":"0.0.1","deps":[],"cksum":"1a4049d5bb61a048bff134c9abd269f2361f4ef27265f2f17baee17fcec7a255","features":{},"yanked":false}
-{"name":"rand_mersenne","vers":"0.0.2","deps":[],"cksum":"b429638f582fbdbcac963ee1044eb8bc0d7febb923b1dc17bf92e52b92aadb92","features":{},"yanked":false}
+{"name":"rand_mersenne","vers":"0.0.2","deps":[],"cksum":"b429638f582fbdbcac963ee1044eb8bc0d7febb923b1dc17bf92e52b92aadb92","features":{},"yanked":true}
 {"name":"rand_mersenne","vers":"0.0.3","deps":[],"cksum":"b57f62fe9e36764a3ba31908f4336ab0779ee4429469f66e81acac1d47ef4be2","features":{},"yanked":true}
 {"name":"rand_mersenne","vers":"0.0.4","deps":[],"cksum":"0683f886a1211468138a90e436ed97f4ce6dae97ccf1d92caad07447e31cebc4","features":{},"yanked":true}
 {"name":"rand_mersenne","vers":"0.0.5","deps":[],"cksum":"486fc7afd9d4e209dd80a90ce3e7ff32c1f1ff13433b24d250f6ffb642291d35","features":{},"yanked":true}
