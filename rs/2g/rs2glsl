@@ -1,1 +1,2 @@
 {"name":"rs2glsl","vers":"0.1.0","deps":[{"name":"rs2glsl-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0144183bcd65e4194a9efdcbfc0271c560dda5be9df26d92391478d80b7a57f3","features":{},"yanked":false}
+{"name":"rs2glsl","vers":"0.2.0","deps":[{"name":"rs2glsl-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b8be9d3f825c432a505cf1cf70d88b604284bacf25ded3183f48d4404d1d9e6e","features":{},"yanked":false}
