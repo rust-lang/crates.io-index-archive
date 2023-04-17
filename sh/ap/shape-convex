@@ -1,0 +1,1 @@
+{"name":"shape-convex","vers":"0.0.0","deps":[{"name":"shape-core","req":"^0.1.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cebeb61f542eb074148290b583eb55ed0348b4e01b31ef5e7dc620f1d82f92a6","features":{"default":[]},"yanked":false}
