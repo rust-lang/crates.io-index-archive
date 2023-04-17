@@ -1,0 +1,1 @@
+{"name":"altv_internal_core_shared","vers":"0.3.1","deps":[{"name":"altv_sdk","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"altv_internal_sdk"}],"cksum":"aa726277f700f4bdd9a3c23fca2c78b8f95a3af1c7aaffcd209de009ae8f0618","features":{},"yanked":false}
