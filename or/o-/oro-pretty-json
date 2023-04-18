@@ -1,0 +1,1 @@
+{"name":"oro-pretty-json","vers":"0.3.20","deps":[{"name":"serde_json","req":"^1.0.93","features":["preserve_order"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d780f179bacc4f9962b59c8ee48172324a25f8b1cc1b720aadc93254563908be","features":{},"yanked":false}
