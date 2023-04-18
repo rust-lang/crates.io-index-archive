@@ -1,1 +1,2 @@
 {"name":"ember-rs","vers":"0.1.0","deps":[{"name":"minifb","req":"^0.24.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37e15797ae2927e61fe8de8092ed7bdb7f1ed510ff9fcce89bc2396ce8ec0278","features":{},"yanked":false}
+{"name":"ember-rs","vers":"0.1.1","deps":[{"name":"minifb","req":"^0.24.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"791ac9b4be4ef27f2c5720a0470cbaf602c3c4f237bdacdcdaec26f2373129fc","features":{},"yanked":false}
