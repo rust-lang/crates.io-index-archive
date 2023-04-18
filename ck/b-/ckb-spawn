@@ -29,3 +29,4 @@
 {"name":"ckb-spawn","vers":"0.107.0","deps":[],"cksum":"287afd199a154e792db7b4a0e95ed69cf4ae83fe7845af3c35c02bdd0d9eb297","features":{},"yanked":false}
 {"name":"ckb-spawn","vers":"0.108.0","deps":[],"cksum":"79a04f7b522b9f374c43b407c935a7e6104a3427193a56998c3580db43d1cd8a","features":{},"yanked":false}
 {"name":"ckb-spawn","vers":"0.108.1","deps":[],"cksum":"26c4db71605e31ef4ce3d0e45a539fbe00d4c8b3f153a0efe28eec6351d361ff","features":{},"yanked":false}
+{"name":"ckb-spawn","vers":"0.109.0","deps":[],"cksum":"1bc6f71ac72dffde0fa235512f6aadd7ef80c4fb7aef46392937af5d9d70baaa","features":{},"yanked":false}
