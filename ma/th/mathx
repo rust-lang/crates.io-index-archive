@@ -1,0 +1,1 @@
+{"name":"mathx","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0.160","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a4b3018d0ae11b033b6c85f67b6e73365ef60a592f073c42d4ca3df675d058f","features":{"default":[],"no_std":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
