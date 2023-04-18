@@ -9,3 +9,4 @@
 {"name":"html-tags","vers":"0.0.9","deps":[],"cksum":"a5bddcbc044c82f26376a12458feb20bb20a8eed718f4bb6ac8fc1e6f131de3a","features":{"alloc":[],"default":["alloc"]},"yanked":false}
 {"name":"html-tags","vers":"0.0.10","deps":[],"cksum":"70ae5b6cd885f8976a685041cdf794bacc687b443885f26b2525e7776a9cc0d9","features":{"alloc":[],"default":["alloc"]},"yanked":false}
 {"name":"html-tags","vers":"0.0.11","deps":[],"cksum":"4ae02906a28a911d6b750205a7d0278faf07944ee9ebe6dc2492bc9aadc73f8c","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"html-tags","vers":"0.0.12","deps":[{"name":"tendril","req":"^0.4.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e2afeb66be7bcb8ee1459a38f00f773a52d040ca71d521c22cf181d8145f95b","features":{"alloc":[],"default":["alloc","tendril"]},"features2":{"tendril":["dep:tendril","alloc"]},"yanked":false,"v":2}
