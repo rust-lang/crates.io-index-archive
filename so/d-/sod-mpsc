@@ -1,1 +1,2 @@
 {"name":"sod-mpsc","vers":"0.1.0","deps":[{"name":"sod","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"889682349ffa80092756feb99f2dbe5e401142a240c6fe9ba3c583fd7a30bc94","features":{},"yanked":true}
+{"name":"sod-mpsc","vers":"0.1.1","deps":[{"name":"sod","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bfd0d3692feb13f740a1cfe58bb62359a80f4f505441db3c88ec88bf0dfcf408","features":{},"yanked":false}
