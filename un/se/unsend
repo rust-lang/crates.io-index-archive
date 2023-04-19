@@ -1,0 +1,1 @@
+{"name":"unsend","vers":"0.0.1","deps":[{"name":"futures-lite","req":"^1.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"218470e7ac9399a9b9d3fa3e536ee9d41eced84d9cbbec3578322311d2c8f0f4","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
