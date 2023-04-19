@@ -1,0 +1,1 @@
+{"name":"gix-utils","vers":"0.1.0","deps":[{"name":"fastrand","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57dc81fb047f44f121c375bc29c2f15a6a2bc4bc0c2308eaf11c34505dde0e1c","features":{},"yanked":false}
