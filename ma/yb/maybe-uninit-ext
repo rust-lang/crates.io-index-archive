@@ -1,2 +1,3 @@
 {"name":"maybe-uninit-ext","vers":"0.1.0","deps":[],"cksum":"155394055effaa6a62c8a3cafeb68e9395943165750254e75ee73327eab529fd","features":{},"yanked":false}
 {"name":"maybe-uninit-ext","vers":"0.2.0","deps":[],"cksum":"88c3c5b37deabdd82491af6342e9d1f2a57dc354a2b618e6722600aafb4cd8d4","features":{},"yanked":false}
+{"name":"maybe-uninit-ext","vers":"0.3.0","deps":[{"name":"qualifier_attr","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7aac1e7af6033dbfe18c86a60617d38456c88d5c1167aa94555326dae964a31","features":{},"features2":{"nightly":["dep:qualifier_attr"]},"yanked":false,"v":2}
