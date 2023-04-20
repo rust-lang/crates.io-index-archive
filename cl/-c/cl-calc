@@ -1,0 +1,1 @@
+{"name":"cl-calc","vers":"1.0.0","deps":[{"name":"anyhow","req":"^1.0.70","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"559206a02b9c74d50c58fa525183873a5be391e25a4f01f8ffc4936f5d1d345d","features":{},"yanked":false}
