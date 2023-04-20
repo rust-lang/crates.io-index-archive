@@ -48,3 +48,4 @@
 {"name":"sj","vers":"0.27.5","deps":[],"cksum":"75589e5f57a4438c59b522bbedc584d7ba60eb57f37ac2a838e6dcbd6fc37c40","features":{"std":[],"x-unicode":[]},"yanked":false}
 {"name":"sj","vers":"0.27.6","deps":[],"cksum":"bc8d96eaadfcc9472942ee9514db963e3ab4b652c5aca85ba8cbe5481eacf7a2","features":{"std":[],"x-unicode":[]},"yanked":false}
 {"name":"sj","vers":"0.27.7","deps":[],"cksum":"cd54b8dcbec17fb8b3f3dae281b6b421ac62edd1afa61963fce82c7c9870a5e0","features":{"std":[],"x-unicode":[]},"yanked":false}
+{"name":"sj","vers":"0.27.8","deps":[],"cksum":"dbfdda26ff04e53a4b8c6ba84a1dc7f5ab75dfda466875f806bcb76d92e9de94","features":{"std":[],"x-unicode":[]},"yanked":false}
