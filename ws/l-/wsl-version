@@ -1,1 +1,2 @@
 {"name":"wsl-version","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.17.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"872962484523aac8c3f3f24db3d2a0c16e70892d27645835697878be72b0b92e","features":{},"yanked":false}
+{"name":"wsl-version","vers":"0.1.1","deps":[{"name":"once_cell","req":"^1.17.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e2bd66914ae489a9c47759ed996c9fceae1f6ec38cd006a0caa6cb9e958bbd7","features":{},"yanked":false}
