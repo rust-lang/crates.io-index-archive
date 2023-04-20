@@ -23,3 +23,4 @@
 {"name":"nairud","vers":"0.5.9","deps":[],"cksum":"4fea4c700b933d06c333de0cf76ec474633d01276b1d04c0479529d1a2287878","features":{"std":[]},"yanked":false}
 {"name":"nairud","vers":"0.5.10","deps":[],"cksum":"a2f9c8b4c707c7a06fffe71a4f03931460b3afa64c979badc33d4fc0e23ca82d","features":{"std":[]},"yanked":false}
 {"name":"nairud","vers":"0.5.11","deps":[],"cksum":"229a267d9cc5b858d55ab174e5a432e5b6c2f32bc4bfd6b7ee76109693a2534a","features":{"std":[]},"yanked":false}
+{"name":"nairud","vers":"0.5.12","deps":[],"cksum":"c7550157b7d38b5cb3af68e3cb4657bef63a11e5d62c440f660896f26d810c9d","features":{"std":[]},"yanked":false}
