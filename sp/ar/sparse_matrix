@@ -2,4 +2,4 @@
 {"name":"sparse_matrix","vers":"0.1.1","deps":[],"cksum":"915f125bbc601b51aea99e3d9974bad07c9ec8fb725e7ad32d13b9503e7e2c5b","features":{},"yanked":false}
 {"name":"sparse_matrix","vers":"0.1.2","deps":[],"cksum":"8ddff7a08158aaf0fecefdc19d50b937f0d1b5858aae56d05802a2340c350fab","features":{},"yanked":false}
 {"name":"sparse_matrix","vers":"0.1.3","deps":[],"cksum":"bbc05b92bea301efc77fa27a39f9f87cbe1c40464ebb4cc5f03a193291a52f6b","features":{},"yanked":false}
-{"name":"sparse_matrix","vers":"0.2.0","deps":[],"cksum":"53b716407fd1345bc1d2b26884102710e5afa9452f222850f8a3244c44a56d1c","features":{},"yanked":false}
+{"name":"sparse_matrix","vers":"0.2.0","deps":[],"cksum":"53b716407fd1345bc1d2b26884102710e5afa9452f222850f8a3244c44a56d1c","features":{},"yanked":true}
