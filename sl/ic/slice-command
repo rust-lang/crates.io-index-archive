@@ -1,0 +1,1 @@
+{"name":"slice-command","vers":"0.0.0","deps":[{"name":"clap","req":"^4.2.3","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72b17eb5acace2a5580726cf2cd68626be48170756b1097d483a61519a7a121d","features":{},"yanked":false}
