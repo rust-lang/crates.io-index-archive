@@ -1,0 +1,1 @@
+{"name":"satlog","vers":"0.0.1","deps":[{"name":"log","req":"^0.4.17","features":["std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f3e0ae973eb4e3587186e0237b38ef3146bcf676e0d210c5801289f1aff3560","features":{},"yanked":false}
