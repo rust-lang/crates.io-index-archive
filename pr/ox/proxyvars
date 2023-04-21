@@ -1,0 +1,1 @@
+{"name":"proxyvars","vers":"0.1.0","deps":[{"name":"http","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ipnet","req":"^2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e29092c2a23bacad57ecdc7efbafcbd05897a4424878a8aadf3dba2decd2717a","features":{},"yanked":false}
