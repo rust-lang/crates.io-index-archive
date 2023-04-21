@@ -1,0 +1,1 @@
+{"name":"jxl-bitstream","vers":"0.1.0","deps":[{"name":"tracing","req":"^0.1.37","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"969b5d96075e150f9d15b4abafac6ec9f4aeeb37e2681436fab52ab5fdb2c102","features":{},"yanked":false}
