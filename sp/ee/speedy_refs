@@ -5,3 +5,4 @@
 {"name":"speedy_refs","vers":"0.2.3","deps":[],"cksum":"7222649b17428e18ed77b6f882538bcec5ac8db0b553571e8b1a1658d7f648e0","features":{},"yanked":false}
 {"name":"speedy_refs","vers":"0.2.4","deps":[],"cksum":"fa68ce117b16a53cfebd6a38e36954fb6a4a913d231e1d93df46eb34168ac32c","features":{},"yanked":false}
 {"name":"speedy_refs","vers":"0.2.5","deps":[],"cksum":"5a5144e29b2a24368f68b241527ab74b6e7e5c02c66d8332cb7fd5e0eb07b6b6","features":{},"yanked":false}
+{"name":"speedy_refs","vers":"0.2.6","deps":[{"name":"serde","req":"^1.0.160","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0.96","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"49a85b7c4bea79b2faaf533d158a3c22a8139a6d3d3e6e2eb13b8c2c1b8e5a1e","features":{},"yanked":false}
