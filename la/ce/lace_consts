@@ -1,0 +1,1 @@
+{"name":"lace_consts","vers":"0.1.0","deps":[{"name":"rv","req":"^0.15.0","features":["serde1","arraydist"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"651c8bdfa2876b56c208e603708ebda20b1e42561a60786969315432dca2d935","features":{},"yanked":false}
