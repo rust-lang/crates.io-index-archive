@@ -8,4 +8,4 @@
 {"name":"auto_vec","vers":"0.1.7","deps":[],"cksum":"b56649e3980db24c51461086b04b355f358dff4002ffac8664bf4830f5c7f4c0","features":{},"yanked":true}
 {"name":"auto_vec","vers":"0.1.8","deps":[],"cksum":"5a0952b3a009faa0890a731baf5861e81840ea84d6899fd620611d595bf7352e","features":{},"yanked":true}
 {"name":"auto_vec","vers":"0.1.9","deps":[],"cksum":"959320f989de75873040ad15a4d572a4d107ecb6501ac08122e69c82f4fe231f","features":{},"yanked":true}
-{"name":"auto_vec","vers":"0.2.0","deps":[],"cksum":"8de6d1bf7e58b0ecb26f43e353e58130e8294a9d4f056fb6e382eb09623fb201","features":{},"yanked":false}
+{"name":"auto_vec","vers":"0.2.0","deps":[],"cksum":"8de6d1bf7e58b0ecb26f43e353e58130e8294a9d4f056fb6e382eb09623fb201","features":{},"yanked":true}
