@@ -5,3 +5,4 @@
 {"name":"simple_http_parser","vers":"0.2.4","deps":[],"cksum":"87e95ac84fb18e68f32657294c5e755d7c527ea03b6b5edefc4bbc42dd029bdf","features":{},"yanked":false}
 {"name":"simple_http_parser","vers":"0.2.5","deps":[],"cksum":"e30ef4da79450e40d37a2ac8a07ee4dcc45eddc6c0382a113fff4f47b139768e","features":{},"yanked":false}
 {"name":"simple_http_parser","vers":"0.3.0","deps":[],"cksum":"97e2e10bf98bf4e8fcd79a883beb0adcaccf0c114cf2b202fc34e1050aded9cb","features":{},"yanked":false}
+{"name":"simple_http_parser","vers":"0.3.1","deps":[],"cksum":"50210f9bfe60c19b9ce37c6a29912144d9843c68ada7201fc1007800ff08a5ea","features":{},"yanked":false}
