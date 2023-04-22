@@ -1,1 +1,2 @@
 {"name":"tiny-interner","vers":"0.1.1","deps":[{"name":"hashbrown","req":"^0.13.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"106a32e9ba69e33e1544d18efa3a72d92825ef43411cae022be2a88ead1a665c","features":{},"yanked":false}
+{"name":"tiny-interner","vers":"0.1.2","deps":[{"name":"hashbrown","req":"^0.13.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e92ec96c99723aa081a0deddb01900b5d463c05dc4cbef4f6c68b0293796aa55","features":{},"yanked":false}
