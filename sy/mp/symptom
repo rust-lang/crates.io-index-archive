@@ -1,1 +1,2 @@
 {"name":"symptom","vers":"0.0.0","deps":[],"cksum":"cc16a6a3508f3710cdc9a2ccd2c6f07c46c123059933b7c226aef65945b60f69","features":{},"yanked":false}
+{"name":"symptom","vers":"0.0.1","deps":[{"name":"gtk","req":"^0.17.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87e29adab9965fca8a86b757dbcea1a3a8124058a5378441dd5f3ddfaa5c70be","features":{},"yanked":false}
