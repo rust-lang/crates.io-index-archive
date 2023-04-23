@@ -1,0 +1,1 @@
+{"name":"nes-ppu","vers":"0.1.0","deps":[{"name":"bytemuck","req":"^1.13.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98e0d9c1fb50cb2ae9c406264c3aebc08591f7c491fc28945bf01d49372ffa4a","features":{},"yanked":false}
