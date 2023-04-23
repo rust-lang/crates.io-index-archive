@@ -1,0 +1,1 @@
+{"name":"aiha","vers":"0.1.0","deps":[{"name":"rust-gpu-tools","req":"^0.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7143cff6d423ffb3bf325444f66f50015d177d4e1168dbef566e17095c9b677","features":{},"yanked":false}
