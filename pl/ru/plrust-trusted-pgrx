@@ -1,0 +1,1 @@
+{"name":"plrust-trusted-pgrx","vers":"1.0.0","deps":[{"name":"pgrx","req":"=0.7.4","features":["no-schema-generation"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4fb8822f123e7d0be94a4c85c03ff5e4ae9e68672cc6500900b44b6073365061","features":{"pg13":["pgrx/pg13"],"pg14":["pgrx/pg14"],"pg15":["pgrx/pg15"]},"yanked":false}
