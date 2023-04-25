@@ -1,1 +1,2 @@
 {"name":"condtype","vers":"1.0.0","deps":[],"cksum":"fc577992efb62223f4d2a8b76e060a1ab0a8f0303f0e1eb435d5354db4303de7","features":{},"yanked":false}
+{"name":"condtype","vers":"1.1.0","deps":[{"name":"cfg-if","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"libc","req":"^0.2.141","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1d36f48241d8e9a6a3a04b92f0b35d531d4b110984c915ce2701b8089e16185c","features":{},"yanked":false}
