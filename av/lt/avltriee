@@ -49,5 +49,5 @@
 {"name":"avltriee","vers":"0.30.4","deps":[],"cksum":"3c670b0dd296ed7bef02abb82ff87ce7ec45d435670492cd9bc4d88d731d54ab","features":{},"yanked":true}
 {"name":"avltriee","vers":"0.30.5","deps":[],"cksum":"002bc5de60f8c8c9339827f9d191c72cae4938a1b40552a825752f4c8b28a66f","features":{},"yanked":true}
 {"name":"avltriee","vers":"0.31.0","deps":[],"cksum":"7252ed6e9c6baab3e2fa3f59109d466312732fc6ad46b30423b8f3a359bc39ed","features":{},"yanked":true}
-{"name":"avltriee","vers":"0.31.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"648c826dc78278696df1dc86a5bee9480d65af4cf898eae40e08509167e06191","features":{},"yanked":false}
+{"name":"avltriee","vers":"0.31.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"648c826dc78278696df1dc86a5bee9480d65af4cf898eae40e08509167e06191","features":{},"yanked":true}
 {"name":"avltriee","vers":"0.32.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4aa9ffc96ed81bc3d7239051610f52360eda93ec967d0190ed61dd1acf0b41a0","features":{},"yanked":false}
