@@ -18,3 +18,4 @@
 {"name":"marc","vers":"1.5.0","deps":[{"name":"error-chain","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34b85323615196dc73f6532aebde32e733a8b427e68fd3b03a882323b1b0864c","features":{"default":[],"nightly":[]},"yanked":false}
 {"name":"marc","vers":"2.0.0","deps":[],"cksum":"fe64e04162cf64d8498413d3b89be57ca8ac067d08405097205bc6cec43b054b","features":{"default":[],"nightly":[]},"yanked":false}
 {"name":"marc","vers":"3.0.0","deps":[],"cksum":"0fa197b92dfca18e1e0662e49c3716ab5077791e637f283d707514162f9fb54f","features":{"default":[],"nightly":[]},"yanked":false}
+{"name":"marc","vers":"3.1.0","deps":[{"name":"xml-rs","req":"^0.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de4eeed871ae1c896c6a8b3ff59a1fb5a5f20189948ffd730265bdb1b6dcf780","features":{"default":[],"nightly":[]},"features2":{"xml":["dep:xml-rs"]},"yanked":false,"v":2}
