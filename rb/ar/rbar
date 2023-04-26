@@ -1,0 +1,1 @@
+{"name":"rbar","vers":"1.0.0","deps":[{"name":"terminal_size","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29cb184f2a4cb265a283aa4ae60f12474fbf1d4edec87500b6a466f8dd33b320","features":{},"yanked":false}
