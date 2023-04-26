@@ -7,3 +7,4 @@
 {"name":"armc","vers":"1.3.3","deps":[],"cksum":"f8fb7b859eda3e66577806619fd61b79ef2e346c368f2c2841b895852fa2ff61","features":{},"yanked":false}
 {"name":"armc","vers":"1.4.3","deps":[{"name":"paste","req":"^1.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6239e20cd24de697eea34c4f417f562f9d9338e92f0bd3bf4e30449d06faf881","features":{},"yanked":false}
 {"name":"armc","vers":"1.4.4","deps":[{"name":"paste","req":"^1.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0f5aeb2065de3343dd89a44630345a1275221ba926f29792ce2341817b7d725","features":{},"yanked":false}
+{"name":"armc","vers":"1.4.5","deps":[{"name":"paste","req":"^1.0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4a4586930d38aba987a44a4b2a7e116a287ade4499d312d93a0b72ed61f01ef","features":{},"yanked":false}
