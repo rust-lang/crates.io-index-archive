@@ -1,0 +1,1 @@
+{"name":"ambient_friendly_id","vers":"0.2.0-rc1","deps":[{"name":"rand","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a2ec6cbcb59b01f2f19acc55091eeb72061a6e1e48c953d17ba297a75bc5362","features":{},"yanked":false,"rust_version":"1.67"}
