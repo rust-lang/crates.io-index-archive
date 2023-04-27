@@ -1,1 +1,2 @@
 {"name":"libdots","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.65.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6839cd2455221e6a51f64dbc7ce96fb9d95750c486445fb2a27fc1b809026c76","features":{},"yanked":false}
+{"name":"libdots","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.65.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b381dfde691316bece24b5f1298e653297386f4900dabba303c154af979073bf","features":{},"yanked":false}
