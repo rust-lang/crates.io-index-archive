@@ -1,0 +1,1 @@
+{"name":"kak-tree-sitter","vers":"0.0.0","deps":[{"name":"clap","req":"^4.2.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40d090936aab3ff29993e859c79e9514ab97cdc0980161e5ef12cdf9d7756aee","features":{},"yanked":false}
