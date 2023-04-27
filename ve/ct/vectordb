@@ -1,0 +1,1 @@
+{"name":"vectordb","vers":"0.0.1","deps":[{"name":"lance","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a5bedf93179f3d8b6b1bd795a3ee42b4bad9c5a4386d596b3a7d4cdbdbd13d1","features":{},"yanked":false}
