@@ -1,0 +1,1 @@
+{"name":"dialog-expect","vers":"1.0.0","deps":[{"name":"native-dialog","req":"^0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a8c5b1502fd1927fa25fcf7da3b7316b386e660b6cb9c4b758a58856bf290dc","features":{},"yanked":false}
