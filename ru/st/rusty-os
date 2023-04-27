@@ -1,1 +1,2 @@
 {"name":"rusty-os","vers":"0.1.0","deps":[],"cksum":"431de809a96b7a3d127191e702e6ddc3a62ded509b50d76e511473289e8834ab","features":{},"yanked":false}
+{"name":"rusty-os","vers":"1.0.0","deps":[{"name":"bootloader","req":"^0.9.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"940a0a30be018af60628b94a8fbe0897bfa407b5f149e61ed7bd5663cd5fcc9b","features":{},"yanked":false}
