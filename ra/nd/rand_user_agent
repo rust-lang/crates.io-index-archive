@@ -1,0 +1,1 @@
+{"name":"rand_user_agent","vers":"0.0.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd63f994754b05618d2662dee40f4f9b9672e6ff49c310231214d40e9b6504d9","features":{},"yanked":false}
