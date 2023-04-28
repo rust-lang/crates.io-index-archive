@@ -1,0 +1,1 @@
+{"name":"micronfig","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b0921d8600cf85b173cdc3b7d8d6fb130495babadaeeb2803f8e430813c729de","features":{},"yanked":false}
