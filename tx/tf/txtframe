@@ -1,1 +1,2 @@
 {"name":"txtframe","vers":"0.1.0","deps":[{"name":"smallstr","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c98d01237bec3818e72424ed481380a3b4a869def313e3fbc86839828985f6c7","features":{},"yanked":false}
+{"name":"txtframe","vers":"0.1.1","deps":[{"name":"smallstr","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6050d52c3b0a17af679a208baaa5a61038d9e567e2cdce7e504ad4506900b951","features":{},"yanked":false}
