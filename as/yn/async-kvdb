@@ -1,0 +1,1 @@
+{"name":"async-kvdb","vers":"0.1.0","deps":[{"name":"bytes","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"smol_str","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72347f024bd113e4388df8c5c7dfc3de75fa8b23dabd3b389490d617df2921be","features":{},"yanked":false}
