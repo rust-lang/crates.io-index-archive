@@ -1,1 +1,2 @@
 {"name":"asyncified","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.28.0","features":["rt-multi-thread","macros"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4d1bb3c286cc121eb8db8959d22abf173fced85d26b7324ea2f1b8708f05fd5d","features":{},"yanked":false}
+{"name":"asyncified","vers":"0.2.0","deps":[{"name":"tokio","req":"^1.28.0","features":["rt-multi-thread","macros"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"342cbb3ce92e1003b266f0ab3e1efba862b7d1561bd9cce702e9856c767b357d","features":{},"yanked":false}
