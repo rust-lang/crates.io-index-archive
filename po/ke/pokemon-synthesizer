@@ -1,0 +1,1 @@
+{"name":"pokemon-synthesizer","vers":"0.1.0","deps":[{"name":"rodio","req":"^0.17.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"e98e7117f74d4b38b32bdc22c80a4d6b7fdd40e1328d2afda4f07fb28554372c","features":{},"yanked":false,"rust_version":"1.66"}
