@@ -1,0 +1,1 @@
+{"name":"bevy-fps-counter","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3ea0f535cbe4d087df382ec28c7e54babb62980bee25c47908f1704d166902d","features":{},"yanked":false}
