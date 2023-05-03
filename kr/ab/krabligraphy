@@ -1,0 +1,1 @@
+{"name":"krabligraphy","vers":"0.1.0","deps":[{"name":"clap","req":"^4.2.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57ecaf45f802e9bc3c9cb75cb8c57fd614107c1c9a245a192c47f2039906691b","features":{},"yanked":false}
