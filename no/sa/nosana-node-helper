@@ -1,1 +1,2 @@
 {"name":"nosana-node-helper","vers":"0.1.0","deps":[{"name":"clap","req":"^4.2","features":["derive","env"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"799c9ba5391cf62e406fe866156cc8d66205bf8ef50e4cf7333e6e5a5dad5a3a","features":{},"yanked":false}
+{"name":"nosana-node-helper","vers":"0.1.1","deps":[{"name":"clap","req":"^4.2","features":["derive","env"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7586bc4adef120e9a13ff37af2f6969c58575460dec03b5e06b668a47f26bf9b","features":{},"yanked":false}
