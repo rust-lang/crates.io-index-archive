@@ -1,0 +1,1 @@
+{"name":"ialloc","vers":"0.0.0-2023-05-03","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1a072a28f5626a96719ce12db4aee3ef035733c8db79d68b607fb065b009c8b3","features":{"default":[],"nightly":[]},"yanked":false}
