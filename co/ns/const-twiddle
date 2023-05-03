@@ -1,1 +1,2 @@
 {"name":"const-twiddle","vers":"0.0.1","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed36734b84bff40c8b13c9d36d9dd396abfcc9972734c491427dbff12ab06704","features":{},"yanked":false}
+{"name":"const-twiddle","vers":"0.0.2","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"184f83449e08c3b1370b5e737ad05bfea9b751a08b3056ac9257d6ce43b57aa8","features":{},"yanked":false}
