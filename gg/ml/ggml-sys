@@ -1,0 +1,1 @@
+{"name":"ggml-sys","vers":"0.1.0-rc1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"57f3071c65aef6b920db8a9f5b7d3f9194cc4b0c3f2019e1813afdfe9d6231d4","features":{},"yanked":false}
