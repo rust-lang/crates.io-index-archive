@@ -1,1 +1,2 @@
 {"name":"mathml-core","vers":"0.0.0","deps":[{"name":"html-escape","req":"^0.2.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f1e884bfded668b4f5790c83274ebef4e5090cfaf0ea5edc1aed50f8c3b187f","features":{"default":[]},"yanked":false}
+{"name":"mathml-core","vers":"0.0.1","deps":[{"name":"html-escape","req":"^0.2.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c25e3922bcf2ec0bce8dc4c30ba1d3538e75e0899efb0b1681ad5176f1d6c393","features":{"default":[]},"yanked":false}
