@@ -1,3 +1,4 @@
 {"name":"prime-checker","vers":"0.1.0","deps":[],"cksum":"2ffe134b428a9525b2203188fcb9b3867ffdda78683c7b5e36ef7ca4427bf640","features":{},"yanked":true,"rust_version":"1.69.0"}
 {"name":"prime-checker","vers":"0.1.2","deps":[],"cksum":"7b4417527a58df0c39349a7b17162e7ff1df1fc05d1cd0a29cf1aa96e181408d","features":{},"yanked":true,"rust_version":"1.69.0"}
 {"name":"prime-checker","vers":"0.1.22","deps":[],"cksum":"02979ba0eae08b979379dd9c4f72799817f7acc06cf05cb372a57d6974bd3ac6","features":{},"yanked":false,"rust_version":"1.69.0"}
+{"name":"prime-checker","vers":"0.1.24","deps":[],"cksum":"72eabcb60f285261794b4fc7623a7cc12487585f1515cb6e3b00ab2cace4ccb7","features":{},"yanked":false,"rust_version":"1.69.0"}
