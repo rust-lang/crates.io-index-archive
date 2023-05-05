@@ -1,0 +1,1 @@
+{"name":"jawohl","vers":"0.1.0-dev","deps":[{"name":"serde_json","req":"^1.0.96","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"742c2ca3ab5f6b5fb164febdb94859379211cc5b6cf53d9adc1b65da1743f742","features":{},"yanked":false}
