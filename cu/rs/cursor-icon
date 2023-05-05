@@ -1,0 +1,1 @@
+{"name":"cursor-icon","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.162","features":["derive"],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"77716d0cc19fc921322d0c55032da2e74f90241fc9dd9ec02ec4bb77a88eb855","features":{},"yanked":false,"rust_version":"1.64.0"}
