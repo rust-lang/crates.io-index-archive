@@ -1,0 +1,1 @@
+{"name":"async_message_dispatcher","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.28.0","features":["rt","macros"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e247c6cdbdab0ad7a7212dedf0d6f5c7fc2bda7258880b875a02c2d3302f00ef","features":{},"yanked":false}
