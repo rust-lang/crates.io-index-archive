@@ -1,1 +1,2 @@
 {"name":"galeshapley","vers":"0.0.2","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"edf8f08ece1ea4c74d3800a5ea12cf43fb1e7202cf55922e48f0d5efc90c63ed","features":{},"yanked":false}
+{"name":"galeshapley","vers":"0.0.3","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b86411c269af5830d0d7b72a5fc815bf6768c4d7d1e449292cd8c46382e5aad5","features":{},"yanked":false}
