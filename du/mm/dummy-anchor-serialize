@@ -1,1 +1,2 @@
 {"name":"dummy-anchor-serialize","vers":"0.1.0","deps":[{"name":"anchor-lang","req":"^0.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdc4024131e665da7eee8a95eda6a00dc0b77856e28b3f8961ea39e4670fa36d","features":{},"yanked":false}
+{"name":"dummy-anchor-serialize","vers":"0.1.1","deps":[{"name":"anchor-lang","req":"^0.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f4a6417435ac4b255b7f036f5a1974a96aad745826932d2aef768b82bc65681","features":{},"yanked":false}
