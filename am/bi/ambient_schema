@@ -5,3 +5,4 @@
 {"name":"ambient_schema","vers":"0.2.0-rc8","deps":[],"cksum":"078ef294a03ed16c45fc2bfcd58c0b0ba3ad0f2f3712e4ef58e73ae14cd87c69","features":{},"yanked":false,"rust_version":"1.67.0"}
 {"name":"ambient_schema","vers":"0.2.0-rc9","deps":[],"cksum":"e0d8d71e83cb9e136ef143b0b3dc0ad57a882d5324a288948cd411c3b9b04fad","features":{},"yanked":false,"rust_version":"1.67.0"}
 {"name":"ambient_schema","vers":"0.2.0","deps":[],"cksum":"b4edf10a92cb687cabab6e8a47aae412a506996f395ba6a4b5420e2db943597b","features":{},"yanked":false,"rust_version":"1.67.0"}
+{"name":"ambient_schema","vers":"0.2.1","deps":[],"cksum":"1b66e54718e69e684358df544d1106ca24083c7d24b009e2a305a1c799749821","features":{},"yanked":false,"rust_version":"1.67.0"}
