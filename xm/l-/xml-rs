@@ -1,5 +1,5 @@
 {"name":"xml-rs","vers":"0.1.2","deps":[],"cksum":"f2d1f1da7156b52f35867785ce8c3451aab938439804aa0fbb3764dd84f40073","features":{},"yanked":true}
-{"name":"xml-rs","vers":"0.1.3","deps":[],"cksum":"4d8101512b87571a59d2f62100c16381df0127e4ce60790ae1ec995b81f169e3","features":{},"yanked":false}
+{"name":"xml-rs","vers":"0.1.3","deps":[],"cksum":"4d8101512b87571a59d2f62100c16381df0127e4ce60790ae1ec995b81f169e3","features":{},"yanked":true}
 {"name":"xml-rs","vers":"0.1.4","deps":[],"cksum":"47b5df0f36f7c8a1bbe6a7609aa76b26f39d169aff2920204e3acc866eafb199","features":{},"yanked":false}
 {"name":"xml-rs","vers":"0.1.5","deps":[],"cksum":"58743154c6886a691bb5e7a430617eec8a8fb2e5809c5ff8259c1a542c47be34","features":{},"yanked":false}
 {"name":"xml-rs","vers":"0.1.6","deps":[],"cksum":"3ee48848503fed52a564681b969f8b2cccf62f04b21fa8ee9516de84b81d1d61","features":{},"yanked":false}
@@ -21,8 +21,8 @@
 {"name":"xml-rs","vers":"0.1.22","deps":[{"name":"bitflags","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87a27659ceab74b039df58599133b7a89f04ba5a02e944bc5f5021767c469ee3","features":{},"yanked":true}
 {"name":"xml-rs","vers":"0.1.23","deps":[{"name":"bitflags","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"918f99347f49830e3f8b28d730ccc31d0e88218ee37b957bdd54a06465f17191","features":{},"yanked":true}
 {"name":"xml-rs","vers":"0.1.24","deps":[{"name":"bitflags","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04dda0fdf35ef82c3b7dd9b23937b4eb00d454249ae0bec82d98330ec4699c91","features":{},"yanked":true}
-{"name":"xml-rs","vers":"0.1.25","deps":[{"name":"bitflags","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"441a1a84649512ec950b4f52efea67b8af6c1baccb33cf708cff26c53e1272d7","features":{},"yanked":false}
-{"name":"xml-rs","vers":"0.1.26","deps":[{"name":"bitflags","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4bac8fd82b24db2dd3b54aa7b29f336d8b5ca1830065ce3aada71bce6f661519","features":{},"yanked":false}
+{"name":"xml-rs","vers":"0.1.25","deps":[{"name":"bitflags","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"441a1a84649512ec950b4f52efea67b8af6c1baccb33cf708cff26c53e1272d7","features":{},"yanked":true}
+{"name":"xml-rs","vers":"0.1.26","deps":[{"name":"bitflags","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4bac8fd82b24db2dd3b54aa7b29f336d8b5ca1830065ce3aada71bce6f661519","features":{},"yanked":true}
 {"name":"xml-rs","vers":"0.2.0","deps":[{"name":"bitflags","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c310eb22868a2925069cd06cbcf27834a6fa42d14d37e07596dcbff2875edd83","features":{},"yanked":true}
 {"name":"xml-rs","vers":"0.2.1","deps":[{"name":"bitflags","req":"*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52fb4f8b686e9d017f9c52b7ef6f837e72c2723284d3207dc4a66b1bebcb9406","features":{},"yanked":false}
 {"name":"xml-rs","vers":"0.2.2","deps":[{"name":"bitflags","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d7c34f934fa02d71d33e03f2eceecd0adfe881d9acddbbd908318e12d449ebf","features":{},"yanked":false}
