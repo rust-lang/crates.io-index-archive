@@ -1,1 +1,1 @@
-{"name":"fake_user_agent","vers":"0.1.0","deps":[{"name":"fastrand","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc4fc41b5d5182aa45f64f8fffc81c1280aab53428c9eb726af5aa74999875ca","features":{},"yanked":false}
+{"name":"fake_user_agent","vers":"0.1.0","deps":[{"name":"fastrand","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc4fc41b5d5182aa45f64f8fffc81c1280aab53428c9eb726af5aa74999875ca","features":{},"yanked":true}
