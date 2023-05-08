@@ -1,1 +1,2 @@
 {"name":"aprox_eq","vers":"0.1.0","deps":[{"name":"aprox_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07fea81a8c7da485efdf113375c7402c914111ca51ac90c56be844e57bbc86d8","features":{},"yanked":false}
+{"name":"aprox_eq","vers":"1.1.0","deps":[{"name":"aprox_derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07134d2e07c7acfd01ad27d78bce0c11283bcb19bbed2e36e6a8f78b8310e72c","features":{},"yanked":false}
