@@ -1,0 +1,1 @@
+{"name":"hmath","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c6c6525cb2f5a6635cef5e807af193f6b27dc06ef68684cef0458b13ecfb23d","features":{},"features2":{"rand":["dep:rand"]},"yanked":false,"v":2}
