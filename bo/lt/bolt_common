@@ -1,0 +1,1 @@
+{"name":"bolt_common","vers":"0.11.11","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54a56e8746ca5c08d8d4226f1c8d4876f068d6ad81df9e4fdc0e3d59a66ec3be","features":{},"yanked":false}
