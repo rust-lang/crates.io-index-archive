@@ -5,3 +5,4 @@
 {"name":"crockford","vers":"1.0.0","deps":[],"cksum":"bcc792cd43274e6f6e0e731d7971604d62b31c5d4ffe5c35dbb26cb3fb270846","features":{},"yanked":false}
 {"name":"crockford","vers":"1.0.1","deps":[],"cksum":"479393b2138a406a7f33473708988550bee3fd1effbb6a8c997a18ef421cfdec","features":{},"yanked":false}
 {"name":"crockford","vers":"1.1.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2a9eed012e40bdf938b79d21ee0d59f24e8d75d80f172528385b9755c4202f57","features":{},"yanked":false}
+{"name":"crockford","vers":"1.1.1","deps":[{"name":"criterion","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9288e210a2b8693e868bd2fb04407536d4fa8432c4aba1cc8fadf3f69f2a42fc","features":{},"yanked":false}
