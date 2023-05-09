@@ -1,0 +1,1 @@
+{"name":"my_crate_inside_a_repo_with_a_long_name2","vers":"0.1.0","deps":[{"name":"my_crate_inside_a_repo_with_a_long_name1","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"68e4476ec5db9f70286acbc149048a6cb3ba7a82b6c24082a2132c7e2db12ac4","features":{},"yanked":false}
