@@ -1,0 +1,1 @@
+{"name":"flatcc","vers":"22.10.26","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"flatc-rust","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc33c431409ff63071e9a6fb5cd9f9e24cf72d380301c11240d753b9eca65ae8","features":{},"yanked":false}
