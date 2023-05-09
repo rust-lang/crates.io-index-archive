@@ -1,1 +1,2 @@
 {"name":"docify","vers":"0.1.0","deps":[{"name":"docify_macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9adc0dac281b2437f87002ba9dc8e533847f3dbec282e12f9932266b16e902fa","features":{},"yanked":false}
+{"name":"docify","vers":"0.1.1","deps":[{"name":"docify_macros","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00b469cf6e58cc46d7f038c7f9a9c2ed85ae05e3bb65ad165b2b941f41758e57","features":{},"yanked":false}
