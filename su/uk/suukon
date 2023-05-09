@@ -1,0 +1,1 @@
+{"name":"suukon","vers":"0.1.0","deps":[{"name":"clap","req":"^4.1.11","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40ea5d0f0fdf592d6a0fca1290e5ea4da44dbd27a72fe96bc74ae54761028b23","features":{"build-binary":["clap"],"default":["build-binary"]},"yanked":false}
