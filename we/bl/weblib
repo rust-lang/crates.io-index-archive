@@ -1,0 +1,1 @@
+{"name":"weblib","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.11.17","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e16dd1318dd29acaa72ff8b8695009ade9e204b243ea33608edb2671a51a4fc","features":{},"yanked":false}
