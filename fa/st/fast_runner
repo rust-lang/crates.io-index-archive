@@ -1,0 +1,1 @@
+{"name":"fast_runner","vers":"0.1.0","deps":[{"name":"clap","req":"^4.2.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90b94f444c2df80f1c6ff24702ca3e3a0b245e2281c1942d5a0748ace1baab8e","features":{},"yanked":false}
