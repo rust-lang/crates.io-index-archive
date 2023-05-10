@@ -1,0 +1,1 @@
+{"name":"simt_cuda_sys","vers":"0.1.0","deps":[{"name":"libloading","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1cdbad9776831133e5ff7d40021bac5304a8af22ce565ea76d853cebf7005bf","features":{},"yanked":false}
