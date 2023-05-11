@@ -28,3 +28,4 @@
 {"name":"imagesize","vers":"0.10.0","deps":[],"cksum":"97464129b16a0c241f7aeb076b54031be8e973eab85f672c4e36f9bdd9c13fef","features":{},"yanked":false}
 {"name":"imagesize","vers":"0.10.1","deps":[],"cksum":"df19da1e92fbfec043ca97d622955381b1f3ee72a180ec999912df31b1ccd951","features":{},"yanked":false}
 {"name":"imagesize","vers":"0.11.0","deps":[],"cksum":"b72ad49b554c1728b1e83254a1b1565aea4161e28dabbfa171fc15fe62299caf","features":{},"yanked":false}
+{"name":"imagesize","vers":"0.12.0","deps":[{"name":"criterion","req":"^0.4","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"walkdir","req":"^2.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"029d73f573d8e8d63e6d5020011d3255b28c3ba85d6cf870a07184ed23de9284","features":{},"yanked":false}
