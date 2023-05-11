@@ -1,0 +1,1 @@
+{"name":"xs233-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.65.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.0.79","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fa0cf554dc67e17bdb0b7715402a0817804f33f621c1bf5016c134399b6f1c1a","features":{},"yanked":false}
