@@ -1,1 +1,2 @@
 {"name":"hyperloglog-rs","vers":"0.1.0","deps":[],"cksum":"4e37792dafd918c9b5123c45d9faf167e5ccd867e961c6e84afa983d5970ba92","features":{},"yanked":false}
+{"name":"hyperloglog-rs","vers":"0.1.1","deps":[{"name":"siphasher","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07f752af40949695778d773055e60ade3f8695d8f37f15646dda8b23f92b1b21","features":{},"yanked":false}
