@@ -1,0 +1,1 @@
+{"name":"sysdir","vers":"1.0.0","deps":[{"name":"version-sync","req":"^0.9.4","features":["markdown_deps_updated","html_root_url_updated"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"a2c80c0251d24ce221f9751fa90626d7a9f723ab82cb040a5b0dd453b2b57ff3","features":{},"yanked":false,"rust_version":"1.64.0"}
