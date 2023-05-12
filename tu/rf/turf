@@ -1,1 +1,2 @@
 {"name":"turf","vers":"0.1.0","deps":[{"name":"turf_macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e052b663633c4a936c3d1d89f19c015e473ca55dd9ce85e157d70d3d9380a751","features":{},"yanked":false}
+{"name":"turf","vers":"0.1.1","deps":[{"name":"turf_macros","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46ed5caf2a1a7c014106f63e4f938cc21675a888e4717dbd2da79016a03c44e0","features":{},"yanked":false}
