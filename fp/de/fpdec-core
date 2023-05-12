@@ -7,3 +7,4 @@
 {"name":"fpdec-core","vers":"0.5.3","deps":[],"cksum":"aee8d885a89e90d3e3f69fd72a5f1a1a958e8381f4782daed117967b12fae30a","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"fpdec-core","vers":"0.5.4","deps":[],"cksum":"2307f18645911f994b44e565fe007f5f348d90fbd4beea310ab5d9c52786ba25","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"fpdec-core","vers":"0.6.0","deps":[],"cksum":"238aeb29feb1a6f2ffbd0072385ba3feb0765a4190db35d9b768d0b9291d5ce3","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"fpdec-core","vers":"0.6.4","deps":[],"cksum":"3f3e9ad46acf9d5e8e83ee3cfe0a7fc0a4c401f2e6afc211668973f207cebd38","features":{"default":["std"],"std":[]},"yanked":false}
