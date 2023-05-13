@@ -1,0 +1,1 @@
+{"name":"csta","vers":"0.1.0","deps":[{"name":"plotters","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1806dee5b36e7e6798db284df1df158e1c50f6dabdc79cb7a580d023fd996435","features":{},"yanked":false}
