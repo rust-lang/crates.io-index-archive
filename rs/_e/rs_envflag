@@ -1,0 +1,1 @@
+{"name":"rs_envflag","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1a067c680f9db9c51d1d7f7b048ebf30a4ac7f3cafe00181bdec7ba63bd1e3b","features":{},"yanked":false}
