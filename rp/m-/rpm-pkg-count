@@ -1,0 +1,1 @@
+{"name":"rpm-pkg-count","vers":"0.1.0","deps":[{"name":"pkg-config","req":"^0.3.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a9f928da564bfa7b2a796d28140772d23d0d73086bb05f9a7c3b9cd9665dccc2","features":{},"yanked":false,"links":"rpm"}
