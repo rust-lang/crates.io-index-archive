@@ -1,1 +1,2 @@
 {"name":"cache_tags","vers":"1.0.0","deps":[{"name":"serde_json","req":"^1.0.96","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a34a18c4afb47dfbd49a99db1f23eb713d1a6ca96c33adfa888a76433e432167","features":{},"yanked":false}
+{"name":"cache_tags","vers":"1.0.2","deps":[{"name":"serde_json","req":"^1.0.96","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee231cdd61873cd78c9c4ac23c0b70cf1c9645d7a50928630ba3bf31dcab6dd2","features":{},"yanked":false}
