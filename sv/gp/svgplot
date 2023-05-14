@@ -7,3 +7,4 @@
 {"name":"svgplot","vers":"2022.0.50","deps":[],"cksum":"4018a8eddaca55600ef1c2727e7107205e954882f362b6bf3ce86e3740de699e","features":{},"yanked":false}
 {"name":"svgplot","vers":"2022.0.52","deps":[],"cksum":"2ae61c23b6b2682a622e3d89f68ebfa4cce51afe8d45a5a067c0243e1fb49ab8","features":{},"yanked":false}
 {"name":"svgplot","vers":"2022.0.53","deps":[],"cksum":"5d137f03d38461584aadeac77b91547e647bc58c623b76962461eccc7d3cd691","features":{},"yanked":false}
+{"name":"svgplot","vers":"2022.0.54","deps":[],"cksum":"1bd16991b86f9805313146af86415c66b28c12fde293ca6f8472183e50ebdcf6","features":{},"yanked":false,"rust_version":"1.66"}
