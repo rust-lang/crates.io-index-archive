@@ -1,0 +1,1 @@
+{"name":"bool-logic","vers":"0.1.3","deps":[{"name":"nugine-rust-utils","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52d6a07bb84b5dd3f83c66f8270edaaa7bab515bc7d4cc0b3be5e9459262ed4a","features":{},"yanked":false}
