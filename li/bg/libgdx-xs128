@@ -1,0 +1,1 @@
+{"name":"libgdx-xs128","vers":"0.1.0","deps":[],"cksum":"b17f6394cdd3f59e923211e9c8e9079daec2218657e603319e6c8b6b21bd7d0b","features":{"check_zero_seed":[],"default":["reroll","check_zero_seed"],"reroll":[],"std":[]},"yanked":false}
