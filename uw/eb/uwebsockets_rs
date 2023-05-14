@@ -1,0 +1,1 @@
+{"name":"uwebsockets_rs","vers":"0.0.1","deps":[{"name":"libuwebsockets-sys","req":"^0.0.2","features":["uws_vendored"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf181dc4ea7220de7d87231e84058344818b5669f6243862348005b5c4cb5912","features":{},"yanked":false}
