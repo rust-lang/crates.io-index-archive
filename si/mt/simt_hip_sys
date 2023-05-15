@@ -1,0 +1,1 @@
+{"name":"simt_hip_sys","vers":"0.1.0","deps":[{"name":"libloading","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a03227bdeb8277e8bd123b56590a76db9739a83a81b86c7cf077d55d7997df7","features":{},"yanked":false}
