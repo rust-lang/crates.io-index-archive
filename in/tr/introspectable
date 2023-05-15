@@ -1,1 +1,2 @@
 {"name":"introspectable","vers":"0.1.0","deps":[],"cksum":"d775f0c27098ac2b5bbdb2cf43a68644598cabe4a70956593d511240a75576be","features":{"default":["specialized_std"],"specialized_std":[]},"yanked":false}
+{"name":"introspectable","vers":"0.2.0","deps":[],"cksum":"574fb46576347a82c174f9eabc200d6ca08ab5b20513a7ef7e42c50d6356eba4","features":{"default":["specialized_std"],"specialized_std":[]},"yanked":false}
