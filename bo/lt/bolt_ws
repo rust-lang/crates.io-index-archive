@@ -1,1 +1,2 @@
 {"name":"bolt_ws","vers":"0.11.11","deps":[],"cksum":"6114c549e31aa8286409dd553a4e61809dd89e90ef5d3fbfbf984906d3d66ede","features":{},"yanked":false}
+{"name":"bolt_ws","vers":"0.12.4","deps":[{"name":"bolt_common","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b86f46519ebfbc25070bc4f250dc0f18f2eec193ade66ecd776d711e908fe61","features":{},"yanked":false}
