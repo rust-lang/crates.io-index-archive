@@ -1,1 +1,2 @@
 {"name":"bolt_udp","vers":"0.11.11","deps":[],"cksum":"b84749dfd697f14a515f8173a70957279c5074dcec5e47ced19dcd3a6392d04e","features":{},"yanked":false}
+{"name":"bolt_udp","vers":"0.12.4","deps":[{"name":"bolt_common","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f124b67e962cb37d6dbc032280c74bfd23bb53a04a11261d588702c715bb7193","features":{},"yanked":false}
