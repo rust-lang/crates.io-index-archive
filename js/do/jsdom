@@ -1,1 +1,2 @@
 {"name":"jsdom","vers":"0.0.1","deps":[],"cksum":"9d22395144c27fa6cb79467eea40f13cad8ef829913aafcea20286546b7454b9","features":{},"yanked":false}
+{"name":"jsdom","vers":"0.0.2","deps":[{"name":"resast","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ressa","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"524ac0556596a2cfab51add20a7fcf7a12c381a510ba0ff5a64cfa7a1379a397","features":{},"yanked":false}
