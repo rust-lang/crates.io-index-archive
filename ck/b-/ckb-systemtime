@@ -1,3 +1,4 @@
 {"name":"ckb-systemtime","vers":"0.108.0","deps":[],"cksum":"243197680f69d6bb6cb1caf16199ce4a8162a258c757d5af8f727af0d8aabe9e","features":{"default":[],"enable_faketime":[]},"yanked":false}
 {"name":"ckb-systemtime","vers":"0.108.1","deps":[],"cksum":"34104cf87242b62ce604ab0d9126e057549a4051a5c26985ac0ac04b77054021","features":{"default":[],"enable_faketime":[]},"yanked":false}
 {"name":"ckb-systemtime","vers":"0.109.0","deps":[],"cksum":"f64bc03965a87e6697e077cf28a8911fed4fd099d91a9f9e465da3160a0ef0d7","features":{"default":[],"enable_faketime":[]},"yanked":false}
+{"name":"ckb-systemtime","vers":"0.110.0","deps":[],"cksum":"b9562c48a3e82bbbe1d438d557d58d7f143f9936c036a61143c1aa8edc2e043d","features":{"default":[],"enable_faketime":[]},"yanked":false}
