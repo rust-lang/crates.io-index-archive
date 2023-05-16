@@ -1,1 +1,2 @@
 {"name":"os_path","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.163","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fa25b8428ebed4ab97c883d73999b758291f7d0899548df1b61114cbc459891e","features":{},"yanked":false}
+{"name":"os_path","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.163","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5888f9dc3ae93945ac020994994553e54ad75c328622ac43898edd77069943b9","features":{},"yanked":false}
