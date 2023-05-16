@@ -1,1 +1,2 @@
 {"name":"mocopi_parser","vers":"0.1.0","deps":[{"name":"nom","req":"^7.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61fa829f66c1718074dd30a75c0df5e6e225d27a1a51b62504211bcf00124d1a","features":{},"yanked":false}
+{"name":"mocopi_parser","vers":"0.2.0","deps":[{"name":"nom","req":"^7.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5151066e3069f06ef5b7b2306021e38dfe49cc1b083ff6796bc1e5e1db37393e","features":{},"yanked":false}
