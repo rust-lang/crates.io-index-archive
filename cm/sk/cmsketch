@@ -1,0 +1,1 @@
+{"name":"cmsketch","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand_mt","req":"^4.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3480f01c7a42d994ea8a145e5683037306bec9f5adfb8ba90d407fd482dbaaf4","features":{},"yanked":false}
