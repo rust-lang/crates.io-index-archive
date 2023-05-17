@@ -1,3 +1,4 @@
 {"name":"c2a-core","vers":"3.9.0-beta.3","deps":[],"cksum":"9901ca4bee292b5f1abc7e9529956fc447b757abbb0d246afc630918c6b2fa41","features":{},"yanked":false}
 {"name":"c2a-core","vers":"3.9.0-beta.4","deps":[],"cksum":"11157096d9775cbe791910ddf42f34f04b00d37117f6517081cd192f91a24937","features":{"export-src":["std"],"std":[]},"yanked":false}
 {"name":"c2a-core","vers":"3.9.0-beta.5","deps":[],"cksum":"9146a460f2dd96111f17b0932a8ed979df204294fa45a19a84ecd994bdcb903b","features":{"export-src":["std"],"std":[]},"yanked":false}
+{"name":"c2a-core","vers":"3.9.0-beta.6","deps":[{"name":"clang","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"semver","req":"^1.0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bfb4bb81a32dbbdeea82826d9e48cc7b0962f6c53cee962129b621e2d7e5f9f7","features":{"export-src":["std"],"std":[]},"yanked":false}
