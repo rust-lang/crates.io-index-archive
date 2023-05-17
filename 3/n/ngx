@@ -1,0 +1,1 @@
+{"name":"ngx","vers":"0.3.0-beta","deps":[{"name":"nginx-sys","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c84952a9bc55f61e9d2cf04bdbcaafc70af63d0a163b8fcbbc10f02d235a5d07","features":{},"yanked":false}
