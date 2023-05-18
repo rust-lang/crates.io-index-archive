@@ -1,0 +1,1 @@
+{"name":"interaction-calculus","vers":"0.2.1","deps":[{"name":"clap","req":"^2.26.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1c3a642d6af2c7a08250a2553bfc252e88a7cb8052c3b38a165512639d6526d","features":{},"yanked":false}
