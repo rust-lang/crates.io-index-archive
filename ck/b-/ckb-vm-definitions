@@ -37,3 +37,4 @@
 {"name":"ckb-vm-definitions","vers":"0.23.1","deps":[],"cksum":"c7c5ff89f48826421d6d00dd7d80d7e0e1693f0a66f36eaac7b625d80668da7f","features":{"enable-chaos-mode-by-default":[]},"yanked":false}
 {"name":"ckb-vm-definitions","vers":"0.23.2","deps":[],"cksum":"a9403cda7180a8203facf05e96537f0038d188b2efdcef13c84538bfbdfcbcbf","features":{"enable-chaos-mode-by-default":[]},"yanked":false}
 {"name":"ckb-vm-definitions","vers":"0.24.0-beta","deps":[],"cksum":"19f7db57ea5cffd9d310ecdb5bc96512a1f0e420ba1f3244d7a2f3baaf0b8dac","features":{"enable-chaos-mode-by-default":[]},"yanked":false}
+{"name":"ckb-vm-definitions","vers":"0.24.0","deps":[],"cksum":"328c7a6b5664483d5c02fae7b0ada0c407660e7064b2f1505ee6f5d07a4dbf2b","features":{"enable-chaos-mode-by-default":[]},"yanked":false,"rust_version":"1.61.0"}
