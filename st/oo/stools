@@ -11,3 +11,4 @@
 {"name":"stools","vers":"1.1.0","deps":[],"cksum":"9d53f9e4db05066b6f4667b22ef7dcd3f0b6fd1f1a825d3505c3df0cff67cc5a","features":{"hook_key":[]},"yanked":true}
 {"name":"stools","vers":"1.1.1","deps":[],"cksum":"8ec6fc43092c3c67e8bd8e99f73a0e87a3f32742a6a14108f33f4ef11e67aa08","features":{"hook_key":[]},"yanked":true}
 {"name":"stools","vers":"1.1.2","deps":[],"cksum":"2c5903b1ec2c933a2480991d22ae5fde4639c22f1e42076eee87cf77fb63132d","features":{"hook_key":[]},"yanked":false}
+{"name":"stools","vers":"1.1.4","deps":[],"cksum":"880ac50f19430df131a9a948e97df0e882286aeae40df5f24ab55f4dfa472615","features":{"hook_key":[]},"yanked":false}
