@@ -2,3 +2,4 @@
 {"name":"zuu","vers":"0.0.2","deps":[],"cksum":"d3565c1f27a2db8e2ade8e7c7ba40f9e0270c76219e573188ada0c4e23996f2c","features":{},"yanked":false}
 {"name":"zuu","vers":"0.0.3","deps":[],"cksum":"10ddb7d8dbd69fa24505f20b9e8bc1dbc450af66de03138093361446efd333ae","features":{},"yanked":false}
 {"name":"zuu","vers":"0.0.4","deps":[],"cksum":"e03199aa689c48b521f9f369735dc44654a50de6428bdfc6d3eaa8e4f38ff7e0","features":{},"yanked":false}
+{"name":"zuu","vers":"0.1.0","deps":[{"name":"question","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30f9f0ea73b5ad904666fdec77e44e1aa7fdaf9f5c574dab9c6f19212e5684f4","features":{},"yanked":false}
