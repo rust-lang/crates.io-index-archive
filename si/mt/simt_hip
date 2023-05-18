@@ -1,0 +1,1 @@
+{"name":"simt_hip","vers":"0.1.0","deps":[{"name":"simt_hip_sys","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"453a555361357e6d01ae9764f43a1db50545524a4ca9bcdb33bceab3b34a5907","features":{},"yanked":false}
