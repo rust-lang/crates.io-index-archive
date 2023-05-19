@@ -1,0 +1,1 @@
+{"name":"run-that","vers":"0.1.2","deps":[{"name":"clap","req":"^4.2.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6aca1d5c2d1ac174a8f3e738c96fa9063c31232429999ed65332420168862bfb","features":{},"yanked":false}
