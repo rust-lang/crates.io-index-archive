@@ -1,0 +1,1 @@
+{"name":"gix-negotiate","vers":"0.1.0","deps":[{"name":"gix-revision","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc1751f6a5864721f8ceada91a23e3db414d18502d81d4253e257cd4e754c1f4","features":{},"yanked":false,"rust_version":"1.64"}
