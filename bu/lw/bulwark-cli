@@ -1,0 +1,1 @@
+{"name":"bulwark-cli","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["rt-multi-thread","macros","tracing"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08b82d870b094cd73c556e06651c99acc6775fddaa7a587e967dc1e4aa59052e","features":{},"yanked":false}
