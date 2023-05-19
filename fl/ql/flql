@@ -1,0 +1,1 @@
+{"name":"flql","vers":"0.1.0","deps":[{"name":"pest","req":"^2.5.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pest_derive","req":"^2.5.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b24cb6e855b658bacebca970767943f9911bb3c588cc4a27dbf667636d3fff8d","features":{},"yanked":false}
