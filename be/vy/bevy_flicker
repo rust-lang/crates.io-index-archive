@@ -1,1 +1,2 @@
 {"name":"bevy_flicker","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23e55c52ab4e0e37097c748e5984121ea2f23adbed13aa89a5da3e4221e451ae","features":{"warnings":[]},"yanked":false}
+{"name":"bevy_flicker","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"530c699f029894085a24f267e1a7ad34007a66eb81c0a7c707be7b982f5dbb25","features":{"warnings":[]},"yanked":false}
