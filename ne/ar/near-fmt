@@ -1,0 +1,1 @@
+{"name":"near-fmt","vers":"0.16.1","deps":[{"name":"near-primitives-core","req":"^0.16.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"361e6d9e2fd75d413fca9f3f421d2caa52425039a57863879d22a7024e9d721d","features":{},"yanked":false,"rust_version":"1.69.0"}
