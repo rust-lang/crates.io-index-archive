@@ -4,3 +4,4 @@
 {"name":"langtag","vers":"0.3.0","deps":[],"cksum":"d81080f26a93e07a403b86cf0bba80fb0f514f297a7453b3921205fc41605a9d","features":{},"yanked":false}
 {"name":"langtag","vers":"0.3.1","deps":[],"cksum":"7429fa88fa0086ebdbe595d1e203e7187f1955d4ff67dc7cd5ecd17cf8bbcce7","features":{},"yanked":false}
 {"name":"langtag","vers":"0.3.2","deps":[],"cksum":"d78b08c3742c6e025dac6db28d42a961411470194bc4ec2ef22ba16bbc38da03","features":{},"yanked":false}
+{"name":"langtag","vers":"0.3.3","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00770615604a20f153670dbaaef22e7403430c4a73b24313276eb958a2531b2a","features":{},"yanked":false}
