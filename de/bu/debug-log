@@ -3,3 +3,4 @@
 {"name":"debug-log","vers":"0.1.2","deps":[],"cksum":"fa71f2d112ee467aada0985641917b73f02993853ee33fe20eec0a091c52af37","features":{},"yanked":false}
 {"name":"debug-log","vers":"0.1.3","deps":[],"cksum":"22a35c666844362084e3b51ff5803a47629a86bb7234ba596e9bf5d29c35dc38","features":{},"yanked":false}
 {"name":"debug-log","vers":"0.1.4","deps":[],"cksum":"364ff57c5031fee39b026dcdfdc9c7dc1d1d79451bfdacba90f040524b766254","features":{},"yanked":false}
+{"name":"debug-log","vers":"0.2.0","deps":[{"name":"once_cell","req":"^1.17.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"wasm-bindgen","req":"^0.2.86","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e4c7ac66cc6ebf95b11acf5c0b95e0ba2a355dafe7033386d34ecb8b038c02f9","features":{"wasm":["wasm-bindgen"]},"yanked":false}
