@@ -4,3 +4,4 @@
 {"name":"tcg","vers":"0.1.3","deps":[],"cksum":"ea77b98b7e610f91dd41b69b55e8b55a4e7bdddc1ac1b3138a1e71444fe33cdc","features":{},"yanked":false}
 {"name":"tcg","vers":"0.1.4","deps":[],"cksum":"60ba3595b8b3a372f722944e33d03ce028c78de080bd78712d71a01d534c7de3","features":{},"yanked":false}
 {"name":"tcg","vers":"0.1.5","deps":[{"name":"dirs","req":"^5.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80a1466159641342c5f3803397659f90b4877547ab4cc2cfc93ea917c83f6a95","features":{},"yanked":false}
+{"name":"tcg","vers":"0.1.6","deps":[{"name":"dirs","req":"^5.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c09e575dfd8d223e6eefdd258a98424b806c3dfcfdf2c49536a697424ac0684","features":{},"yanked":false}
