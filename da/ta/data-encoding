@@ -15,3 +15,4 @@
 {"name":"data-encoding","vers":"2.3.1","deps":[],"cksum":"993a608597367c6377b258c25d7120740f00ed23a2252b729b1932dd7866f908","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
 {"name":"data-encoding","vers":"2.3.2","deps":[],"cksum":"3ee2393c4a91429dffb4bedf19f4d6abf27d8a732c8ce4980305d782e5426d57","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
 {"name":"data-encoding","vers":"2.3.3","deps":[],"cksum":"23d8666cb01533c39dde32bcbab8e227b4ed6679b2c925eba05feabea39508fb","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"data-encoding","vers":"2.4.0","deps":[],"cksum":"c2e66c9d817f1720209181c316d28635c050fa304f9c79e47a520882661b7308","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.47"}
