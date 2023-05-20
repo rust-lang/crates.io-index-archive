@@ -5,3 +5,4 @@
 {"name":"biheap","vers":"0.3.1","deps":[],"cksum":"c41f817e05221c4acfd2ab4c8bb5ecb6f716f3aebc0ce33e84fbd610e215bb6e","features":{"threadsafe":[]},"yanked":false}
 {"name":"biheap","vers":"0.3.2","deps":[],"cksum":"e3b996249867d5bd70b0d6248da6affceb8d876b5e92815fcf8fa906cc0b6a2d","features":{"threadsafe":[]},"yanked":false}
 {"name":"biheap","vers":"0.3.3","deps":[],"cksum":"881642648d29c7e4df80621639e50eadfddce631938d9901439d311e68daf620","features":{"threadsafe":[]},"yanked":false}
+{"name":"biheap","vers":"0.3.4","deps":[],"cksum":"c1354ae6ce398c466a9978b43e3f85cbc3050e209dc08d1b03c26f40530d6190","features":{},"yanked":false}
