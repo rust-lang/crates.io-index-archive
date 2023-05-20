@@ -1,0 +1,1 @@
+{"name":"syze","vers":"0.1.0","deps":[{"name":"clap","req":"^4.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"colored","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8751323724198ef5fe4b1371bdc732b9f5393875154d9f37c0235328457bdc93","features":{},"yanked":false}
