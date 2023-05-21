@@ -1,0 +1,1 @@
+{"name":"hexcli","vers":"0.0.1","deps":[{"name":"clap","req":"^4.3","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a6dddf45bc4042641579740543c50414f1f5c37e7b1285d7f5225b98175b429","features":{},"yanked":false}
