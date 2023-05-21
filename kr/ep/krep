@@ -1,0 +1,1 @@
+{"name":"krep","vers":"0.1.0","deps":[{"name":"doe","req":"^0.1.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e5c72d10bfd42f8dde21e4513af0c69dd24ea279049160fbc7dace060dbdc90","features":{},"yanked":false}
