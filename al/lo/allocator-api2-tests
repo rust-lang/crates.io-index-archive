@@ -1,0 +1,1 @@
+{"name":"allocator-api2-tests","vers":"0.2.9","deps":[{"name":"allocator-api2","req":"=0.2.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efd1b5aca6822932165f8a9bb152b1287e31dc4f31647dede8ae3204c5505e2c","features":{"nightly":["allocator-api2/nightly"]},"yanked":false}
