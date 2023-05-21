@@ -1,1 +1,2 @@
 {"name":"jose-jwa","vers":"0.0.0","deps":[],"cksum":"5589d4322676979a958b01c3f7f1a1963ea44b08d846d73f4e3a87a719beba33","features":{},"yanked":false}
+{"name":"jose-jwa","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.160","features":["alloc","derive"],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0.96","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6a0a345e6923d42f834c1776d9d22d2c9789e691005e93f803d113e4d7f17a23","features":{},"yanked":false,"rust_version":"1.65"}
