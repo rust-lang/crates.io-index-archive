@@ -1,1 +1,2 @@
 {"name":"ngnk","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.65.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"20033ad9ba56699623f00475148f726b35607e239a5feeccd0d26d9585156b04","features":{},"yanked":false}
+{"name":"ngnk","vers":"0.1.2","deps":[{"name":"bindgen","req":"^0.65.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3086e42ee3d0a357d02f2095f62529baf92e9bb48857c520a6d6129bdbb5b9c2","features":{},"yanked":false}
