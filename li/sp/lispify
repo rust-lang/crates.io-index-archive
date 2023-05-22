@@ -1,0 +1,1 @@
+{"name":"lispify","vers":"0.0.0","deps":[{"name":"pretty","req":"^0.12.1","features":["termcolor"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98824066204e7317a1a18119f6796ec472695283e37df4bdb5473cb7fdfe9e57","features":{"default":[]},"yanked":false}
