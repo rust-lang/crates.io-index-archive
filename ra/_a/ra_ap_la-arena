@@ -96,3 +96,4 @@
 {"name":"ra_ap_la-arena","vers":"0.0.148","deps":[],"cksum":"3d1f716d38f50c696fbd37fb171b8f91a548b7d37bcd700f7a89e835dce3459e","features":{},"yanked":false}
 {"name":"ra_ap_la-arena","vers":"0.0.149","deps":[],"cksum":"9b4a0c80c6019507c485ee321058ffcc9f975a17192a7575a363d2f2e235a832","features":{},"yanked":false}
 {"name":"ra_ap_la-arena","vers":"0.0.16","deps":[],"cksum":"4ef933a432e23e6304e7c56a33b06358385aaa2f89c34bf249bc3a6881c112c2","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"ra_ap_la-arena","vers":"0.0.17","deps":[],"cksum":"e6339191fd2b73a76a37494d94217c334eff4887f1cb1b1eb7c55ac657f137a2","features":{},"yanked":false,"rust_version":"1.56"}
