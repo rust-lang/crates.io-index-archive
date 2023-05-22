@@ -1,2 +1,3 @@
 {"name":"easy_base64","vers":"0.1.0","deps":[],"cksum":"0e1767fadac389d58e231eb193538738b2ec97415074efea6fec5bd50ba00f34","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"easy_base64","vers":"0.1.1","deps":[],"cksum":"0c6642b66ee1f94f9a6cafa05231940d965f9960c1ef8755463b927afb37c77b","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"easy_base64","vers":"0.1.2","deps":[],"cksum":"17ecdd4b8d3b42297b2d531f4b5d70dcd81f4ddbfe4a97ae9cd2cfb324cfeb6c","features":{},"yanked":false,"rust_version":"1.56"}
