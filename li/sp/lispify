@@ -1,1 +1,2 @@
 {"name":"lispify","vers":"0.0.0","deps":[{"name":"pretty","req":"^0.12.1","features":["termcolor"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98824066204e7317a1a18119f6796ec472695283e37df4bdb5473cb7fdfe9e57","features":{"default":[]},"yanked":false}
+{"name":"lispify","vers":"0.0.1","deps":[{"name":"pretty","req":"^0.12.1","features":["termcolor"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd073b967f314f438521e00a3e152a09544496c7003881480c3baf2d9267524c","features":{"default":[]},"yanked":false}
