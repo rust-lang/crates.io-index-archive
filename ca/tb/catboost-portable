@@ -1,0 +1,1 @@
+{"name":"catboost-portable","vers":"0.1.1","deps":[{"name":"catboost-portable-sys","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb5d07475b8745173ac422c3d02cc4528a21e956cdcf536bc7683b00298a593d","features":{},"yanked":false}
