@@ -1,1 +1,2 @@
 {"name":"cranelift-control","vers":"0.96.0","deps":[{"name":"arbitrary","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"537278bd7c9389b6d820d0b8f549460445d8e1cb1d21b617ac2e44aaf2f686cf","features":{"chaos":[]},"yanked":false}
+{"name":"cranelift-control","vers":"0.96.1","deps":[{"name":"arbitrary","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd9a9254aee733b0f2b68e5eaaf0337ad53cb23252a056c10a35370551be8d40","features":{"chaos":[]},"yanked":false}
