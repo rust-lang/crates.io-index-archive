@@ -1,2 +1,2 @@
 {"name":"toad-cursor","vers":"0.2.0","deps":[],"cksum":"0dee8dde5a719faedaf8509f68a8ae1b72e6f0d96bcdbcd59b92de074fe7c33e","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false}
-{"name":"toad-cursor","vers":"1.0.0","deps":[],"cksum":"bc9e061c5511a53f0d20dc128bc389a72baa7381ee94df9e4ebfb60810b13d1e","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false}
+{"name":"toad-cursor","vers":"1.0.0","deps":[],"cksum":"bc9e061c5511a53f0d20dc128bc389a72baa7381ee94df9e4ebfb60810b13d1e","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":true}
