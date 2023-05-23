@@ -21,3 +21,4 @@
 {"name":"cons-rs","vers":"0.6.6","deps":[],"cksum":"77fb168535c9f1025c9b0d9045978af4a524f0ae598093a3bc179860651b3cde","features":{},"yanked":false}
 {"name":"cons-rs","vers":"0.6.7","deps":[],"cksum":"1b719a40afa566fb90fd1ff910802ef3fc5ef5c02b4137a15c4670a7ac7fef3f","features":{},"yanked":false}
 {"name":"cons-rs","vers":"0.6.8","deps":[],"cksum":"ae92dfdf3d903a9e5316052523673492f0be278d74a083c6a3ff1069cb5fad91","features":{},"yanked":false}
+{"name":"cons-rs","vers":"0.7.0","deps":[],"cksum":"9ad06ca1ca6a878ed90ecca976639c670930d674bbf7beee4d531a8de95ca9ae","features":{"immutable":[]},"yanked":false}
