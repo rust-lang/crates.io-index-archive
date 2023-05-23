@@ -1,0 +1,1 @@
+{"name":"lintian-brush","vers":"0.148.0","deps":[{"name":"pyo3","req":"^0.18","features":["auto-initialize"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce72cf2dc5efaf2f97b5e48cfcaddca6d7caa012f8c090b338a543ca53f2de62","features":{},"yanked":false}
