@@ -1,1 +1,2 @@
 {"name":"syntax-error","vers":"0.0.0","deps":[],"cksum":"778275a8d2137dcc18edb871e21f15e5c26698a4bc90686e4e0908f479863de3","features":{"default":[]},"yanked":false}
+{"name":"syntax-error","vers":"0.0.1","deps":[{"name":"unicode-width","req":"^0.1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"yansi","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08dc60887e7a63f84a740cba6f6e8a4a2700511c1c6027d308b06e57bc7bf802","features":{"default":[]},"yanked":false}
