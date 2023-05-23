@@ -1,0 +1,1 @@
+{"name":"bevy_health_system","vers":"0.0.1","deps":[{"name":"bevy","req":"^0.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5e795616d170449984ef1895fe445feef1747c8db9b69d685c19873dbbe60c8","features":{},"yanked":false}
