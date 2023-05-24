@@ -1,1 +1,2 @@
 {"name":"syntastica-themes","vers":"0.1.0","deps":[{"name":"syntastica","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecae3452c26e6e6d2e9086447f052a51ce94469c348b0cb7c100bd636ff9ac9d","features":{},"yanked":false}
+{"name":"syntastica-themes","vers":"0.2.0","deps":[{"name":"syntastica","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f9db19931ab878c7f2b2d8ff8d342280ec514f22b423772f8b99ff20c66939f","features":{},"yanked":false}
