@@ -1,0 +1,1 @@
+{"name":"tauri-plugin-process","vers":"2.0.0-alpha.0","deps":[{"name":"tauri","req":"^2.0.0-alpha.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"252775c597ed53e6ccf8290aeda983739de7bffdc49c9f8a40b7198c3ae2b154","features":{},"yanked":false}
