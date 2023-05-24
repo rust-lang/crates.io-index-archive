@@ -1,0 +1,1 @@
+{"name":"sxx","vers":"1.0.0","deps":[{"name":"clap","req":"^4.3.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7186965b1f2e6948fe7aa6eb189703d56e6b334a4fcab30664401267ae5ff07a","features":{},"yanked":false}
