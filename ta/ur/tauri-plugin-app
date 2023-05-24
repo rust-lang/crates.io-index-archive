@@ -1,0 +1,1 @@
+{"name":"tauri-plugin-app","vers":"2.0.0-alpha.0","deps":[{"name":"tauri","req":"^2.0.0-alpha.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c88679f65ddc88b5d8b148d7713178a236dcc43d91063688a021d5a4c89ceaea","features":{},"yanked":false}
