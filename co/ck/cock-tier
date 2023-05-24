@@ -1,3 +1,4 @@
 {"name":"cock-tier","vers":"0.1.0","deps":[],"cksum":"a17d52a0ee1897a2cd0bc815accc459b6758f3d76b4cabbafacd43a7742eab80","features":{},"yanked":false}
 {"name":"cock-tier","vers":"0.1.1","deps":[],"cksum":"f2cc126aaa30fc3bcd9be0d3cd83659a487cfa45ba3447582a907bdb30b4a0c1","features":{},"yanked":false}
 {"name":"cock-tier","vers":"0.1.2","deps":[],"cksum":"b8fb97ec706629e263a6e467d6acc8f997e20ded44117a9fdd4323c0fa20b76b","features":{},"yanked":false}
+{"name":"cock-tier","vers":"0.1.3","deps":[{"name":"cursive","req":"^0.20.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"456b9e412eec589cf0fd895847f29fe7e557c91b9383878b35500bc2ae1802c3","features":{},"yanked":false}
