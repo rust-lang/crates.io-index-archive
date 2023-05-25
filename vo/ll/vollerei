@@ -1,1 +1,2 @@
 {"name":"vollerei","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ec9b71ad512fc837f01ac0cafa8d2be53cc6c8eed20e218b4e6b55ab6aa6471","features":{},"yanked":false}
+{"name":"vollerei","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d71dd41b88214e81b476a1c57a1917f85585c8f1b5853ee837201212d486836","features":{},"yanked":false}
