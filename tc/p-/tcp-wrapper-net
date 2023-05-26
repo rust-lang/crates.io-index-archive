@@ -1,1 +1,1 @@
-{"name":"tcp-wrapper-net","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.28.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1c0543c8dd4a28a716645443fb4edfdb0bb04f8c63881deba43f14997f9061d","features":{},"yanked":false}
+{"name":"tcp-wrapper-net","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.28.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1c0543c8dd4a28a716645443fb4edfdb0bb04f8c63881deba43f14997f9061d","features":{},"yanked":true}
