@@ -1,1 +1,2 @@
 {"name":"asserteq_pretty","vers":"0.0.0","deps":[],"cksum":"5116391675f683370d511639a88d81a9e38252eb05f185330d31a4105e4b332b","features":{},"yanked":false}
+{"name":"asserteq_pretty","vers":"0.0.1","deps":[{"name":"asserteq_pretty_macros","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"seq-macro","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a415ad4cbb70207394cfe648e3bcbc5e975f14a5ed78c300180003133caa3ed","features":{},"yanked":false}
