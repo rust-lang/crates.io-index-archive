@@ -1,1 +1,2 @@
 {"name":"cock-cli","vers":"1.0.0","deps":[{"name":"cock-lib","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db067882cd4884a9eab3fdda1817f8e50eae0f3a1b311b154af71bbfb12502ee","features":{},"yanked":false}
+{"name":"cock-cli","vers":"1.0.1","deps":[{"name":"cock-lib","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3301d743179b2a93f0ed804cb76e307d8b81431e209603ffdc27d5659166fd8b","features":{},"yanked":false}
