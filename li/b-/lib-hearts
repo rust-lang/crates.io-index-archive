@@ -1,0 +1,1 @@
+{"name":"lib-hearts","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f53eb9caddd06bd27b3e8ccba2bbd8cc37d612e7e1839631f43022fa64e3007f","features":{},"yanked":false}
