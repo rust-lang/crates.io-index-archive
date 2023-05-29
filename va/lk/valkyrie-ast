@@ -5,3 +5,4 @@
 {"name":"valkyrie-ast","vers":"0.0.4","deps":[],"cksum":"fea46a019d12dd501746e54f0186a68be81cdc66d8a2dc7cda0ec4ced67a2007","features":{"default":[]},"yanked":false}
 {"name":"valkyrie-ast","vers":"0.0.5","deps":[],"cksum":"291303503b2b7478ec6a1cfe97365f40e18569355f555a69291d9420ea3dea84","features":{"default":[]},"yanked":false}
 {"name":"valkyrie-ast","vers":"0.0.6","deps":[],"cksum":"85950eb3714ef7dcd7fad0afee3dfd2198e96c40870ac782e9117ff1b620dea4","features":{"default":[]},"yanked":false}
+{"name":"valkyrie-ast","vers":"0.0.7","deps":[{"name":"indentation","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22bc83f2a2dbaaab92c0d25e46622516a12a926c519dff9f2ba879b67b8b48ca","features":{"default":[]},"yanked":false}
