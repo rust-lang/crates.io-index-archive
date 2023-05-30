@@ -24,3 +24,4 @@
 {"name":"snarkvm-circuit-environment-witness","vers":"0.11.2","deps":[],"cksum":"3d20e53e6b5eba90c8017968271dfae11bfd2c89b49e6494b299b9857f45646e","features":{},"yanked":false}
 {"name":"snarkvm-circuit-environment-witness","vers":"0.11.3","deps":[],"cksum":"a21cca6bbfba4ca5ee23e70258f7612ced5be046240940d948b4ecdd2d1c33dc","features":{},"yanked":false}
 {"name":"snarkvm-circuit-environment-witness","vers":"0.11.4","deps":[],"cksum":"c9e2e76ffb8b6d3cf9d7c723e0b208e74c339eeadc09cd3ab5c1cef30b8ef082","features":{},"yanked":false}
+{"name":"snarkvm-circuit-environment-witness","vers":"0.11.5","deps":[],"cksum":"a2c177a7288ae10871e4b46f84bceee48c89fb79b1565d67f475e69e6ca332e8","features":{},"yanked":false}
