@@ -1,2 +1,3 @@
 {"name":"iter_all","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serial_test","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"32ebb9283f3602e37c794a6afeff056f78671e7ad8afe05e480a81fd399428bb","features":{},"yanked":false}
 {"name":"iter_all","vers":"0.1.1","deps":[],"cksum":"bea5e5b40276d46f91ebc1350baa0af63987876126c565e763e30f5c014af027","features":{},"yanked":false}
+{"name":"iter_all","vers":"0.1.2","deps":[],"cksum":"d3a39ab0d5fb8d087888920ab9f1c3f3d3d0a361a8dccbd9b968447b3cbbcc75","features":{},"yanked":false}
