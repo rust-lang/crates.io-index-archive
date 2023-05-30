@@ -1,1 +1,1 @@
-{"name":"ferrissay","vers":"0.1.0","deps":[{"name":"textwrap","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"757f7460288119e412804d12f73c4f8eec54f9a7eaf70d63ec2e041ccfe62628","features":{},"yanked":true}
+{"name":"ferrissay","vers":"0.1.0","deps":[{"name":"textwrap","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"757f7460288119e412804d12f73c4f8eec54f9a7eaf70d63ec2e041ccfe62628","features":{},"yanked":false}
