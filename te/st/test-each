@@ -1,0 +1,1 @@
+{"name":"test-each","vers":"0.1.0","deps":[{"name":"test-each-codegen","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c892a055a2ef75379e2097fe12dd5f8f4a19e7d14a6613bfcec664dcb2070e84","features":{},"yanked":false}
