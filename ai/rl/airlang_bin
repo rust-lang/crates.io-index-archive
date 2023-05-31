@@ -1,1 +1,2 @@
 {"name":"airlang_bin","vers":"0.0.3","deps":[{"name":"airlang","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9481bcb902d3b0a639b863c27072851282ee2f1bb772fef299d3605a7cd5917","features":{},"yanked":false}
+{"name":"airlang_bin","vers":"0.0.4","deps":[{"name":"airlang","req":"^0.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90bc552235873c27291898b3454087695ebc1aed98499fe9d46f55dedd396957","features":{},"yanked":false}
