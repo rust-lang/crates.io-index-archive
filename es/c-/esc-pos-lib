@@ -3,3 +3,4 @@
 {"name":"esc-pos-lib","vers":"0.1.2","deps":[],"cksum":"15555549c2dd2608c621654f5bd10154df652a6957fc2304d1373879a3ec03bd","features":{},"yanked":true}
 {"name":"esc-pos-lib","vers":"0.1.3","deps":[],"cksum":"e235998288c5579ed4dca73c6dee78ee6f5d2d547171e489d3738d85f6b701d8","features":{},"yanked":true}
 {"name":"esc-pos-lib","vers":"0.1.4","deps":[{"name":"image","req":"^0.24.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35ac11631c78f9a9f3515d23b189de8c2f6c15dae8de66df9757695eff2c7808","features":{},"yanked":false}
+{"name":"esc-pos-lib","vers":"0.1.5","deps":[{"name":"image","req":"^0.24.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"137eb6f86abac59a004dcd49faa77b45ff32476799b7001ce5ae53e3faf4670d","features":{},"yanked":false}
