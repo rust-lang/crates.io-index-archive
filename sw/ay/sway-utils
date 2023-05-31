@@ -94,3 +94,4 @@
 {"name":"sway-utils","vers":"0.39.0","deps":[],"cksum":"c7e67f0fba9b7cc02dc7e004a29c5c48966057c24ffe2f4cb1ca5177a86b813b","features":{},"yanked":false}
 {"name":"sway-utils","vers":"0.39.1","deps":[],"cksum":"c6ee28b9357d9c9ef7a9eaf07cdf1e3675a0e7d5882414698bbd77849b496789","features":{},"yanked":false}
 {"name":"sway-utils","vers":"0.40.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ece2d09e154a9ea17b11d7af9e241932c225fc344a467ebf65ac6863456c0012","features":{},"yanked":false}
+{"name":"sway-utils","vers":"0.40.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed0d99b6624659abed9eb2fd48ed8a4b79777b9686c5c5fa87d21b18284d38b9","features":{},"yanked":false}
