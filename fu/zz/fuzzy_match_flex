@@ -1,0 +1,1 @@
+{"name":"fuzzy_match_flex","vers":"0.1.0","deps":[{"name":"regex","req":"^1.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe0e0606f453250a7d98cbe2376c14d926a4cb84c583f47e24641ad836d8358b","features":{},"yanked":false}
