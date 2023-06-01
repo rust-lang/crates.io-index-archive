@@ -1,0 +1,1 @@
+{"name":"rust_task","vers":"0.1.0","deps":[{"name":"pyu_rust_util","req":"^0.1.64","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73bba446339dc0c366701d6c296efdd7f9725602c557539c894326554a761625","features":{},"yanked":false}
