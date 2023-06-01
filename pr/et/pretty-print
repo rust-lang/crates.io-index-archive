@@ -1,0 +1,1 @@
+{"name":"pretty-print","vers":"0.0.0","deps":[{"name":"pretty","req":"^0.12.1","features":["termcolor"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"346172c7a682a5703d9eaedbbd34c5a43feb25c91379236e70d6243d5d5f9a4f","features":{"default":[],"std":[]},"yanked":false}
