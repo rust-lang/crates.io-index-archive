@@ -1,9 +1,9 @@
-{"name":"mc-sgx-util","vers":"0.2.0","deps":[],"cksum":"4313a6671880bdb88b6a6c39c21b536cd0e1ab0087aeac53bfbeb648da16890a","features":{},"yanked":false}
-{"name":"mc-sgx-util","vers":"0.2.1","deps":[],"cksum":"66d0e6d277395f6769f6a4cbfb926b00c7e546b77850ef8fe86a1a9e382ff1a8","features":{},"yanked":false}
-{"name":"mc-sgx-util","vers":"0.3.0","deps":[],"cksum":"99cbce4af16be6398224d7867a8b0f28e0b7d1b0403c07dd24707f4f2d56327e","features":{},"yanked":false}
-{"name":"mc-sgx-util","vers":"0.4.0","deps":[],"cksum":"6cb4ebddd3994c951cf49b70f6e4c4c53a0a87a970f99b219156ed012f6df017","features":{},"yanked":false}
-{"name":"mc-sgx-util","vers":"0.4.1","deps":[],"cksum":"726984888609f8780cc0de96fa39852c2cbb0ad0e2bbcd8c781d122e4970e0b3","features":{},"yanked":false}
-{"name":"mc-sgx-util","vers":"0.4.2","deps":[],"cksum":"f7e3b4ef5d29a7fe44d85eebb24fd77d234759717628892de322b46afff392bf","features":{},"yanked":false}
-{"name":"mc-sgx-util","vers":"0.5.0","deps":[],"cksum":"55a0b18acf823b97241400b5f5db60427e5448f99d911e86ddddf0212f3e7d08","features":{},"yanked":false}
-{"name":"mc-sgx-util","vers":"0.6.0","deps":[],"cksum":"6978a062c09ae3f2ad0cf41ba861a7c3c25f11a64aca08ea537eec007a468c88","features":{},"yanked":false}
+{"name":"mc-sgx-util","vers":"0.2.0","deps":[],"cksum":"4313a6671880bdb88b6a6c39c21b536cd0e1ab0087aeac53bfbeb648da16890a","features":{},"yanked":false,"rust_version":"1.62.1"}
+{"name":"mc-sgx-util","vers":"0.2.1","deps":[],"cksum":"66d0e6d277395f6769f6a4cbfb926b00c7e546b77850ef8fe86a1a9e382ff1a8","features":{},"yanked":false,"rust_version":"1.62.1"}
+{"name":"mc-sgx-util","vers":"0.3.0","deps":[],"cksum":"99cbce4af16be6398224d7867a8b0f28e0b7d1b0403c07dd24707f4f2d56327e","features":{},"yanked":false,"rust_version":"1.62.1"}
+{"name":"mc-sgx-util","vers":"0.4.0","deps":[],"cksum":"6cb4ebddd3994c951cf49b70f6e4c4c53a0a87a970f99b219156ed012f6df017","features":{},"yanked":false,"rust_version":"1.62.1"}
+{"name":"mc-sgx-util","vers":"0.4.1","deps":[],"cksum":"726984888609f8780cc0de96fa39852c2cbb0ad0e2bbcd8c781d122e4970e0b3","features":{},"yanked":false,"rust_version":"1.62.1"}
+{"name":"mc-sgx-util","vers":"0.4.2","deps":[],"cksum":"f7e3b4ef5d29a7fe44d85eebb24fd77d234759717628892de322b46afff392bf","features":{},"yanked":false,"rust_version":"1.62.1"}
+{"name":"mc-sgx-util","vers":"0.5.0","deps":[],"cksum":"55a0b18acf823b97241400b5f5db60427e5448f99d911e86ddddf0212f3e7d08","features":{},"yanked":false,"rust_version":"1.62.1"}
+{"name":"mc-sgx-util","vers":"0.6.0","deps":[],"cksum":"6978a062c09ae3f2ad0cf41ba861a7c3c25f11a64aca08ea537eec007a468c88","features":{},"yanked":false,"rust_version":"1.62.1"}
 {"name":"mc-sgx-util","vers":"0.6.1","deps":[],"cksum":"d28a2b66d2a73f29ec5626b0ae0183f2535d1c741b7139f0c46d3f49d4877ec9","features":{},"yanked":false,"rust_version":"1.62.1"}
