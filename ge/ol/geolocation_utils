@@ -1,0 +1,1 @@
+{"name":"geolocation_utils","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.163","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55c26d999779458ee3d39075919f3c7e615300b132d80407a87125899cdcd8e2","features":{"serde":[]},"yanked":false}
