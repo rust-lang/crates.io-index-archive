@@ -13,4 +13,4 @@
 {"name":"napi-build","vers":"1.2.0","deps":[],"cksum":"d9584cc599cffd833a65527fb655bb65180f6ec8f26fba3081d2d989faa03bef","features":{},"yanked":false}
 {"name":"napi-build","vers":"1.2.1","deps":[],"cksum":"ebd4419172727423cf30351406c54f6cc1b354a2cfb4f1dba3e6cd07f6d5522b","features":{},"yanked":false}
 {"name":"napi-build","vers":"2.0.0","deps":[],"cksum":"d6bba07d993e9865e6000062849a7644194be1b08c81968e7f02efd00e2dd49b","features":{},"yanked":false}
-{"name":"napi-build","vers":"2.0.1","deps":[],"cksum":"882a73d9ef23e8dc2ebbffb6a6ae2ef467c0f18ac10711e4cc59c5485d41df0e","features":{},"yanked":false}
+{"name":"napi-build","vers":"2.0.1","deps":[],"cksum":"882a73d9ef23e8dc2ebbffb6a6ae2ef467c0f18ac10711e4cc59c5485d41df0e","features":{},"yanked":false,"rust_version":"1.57"}
