@@ -1,1 +1,2 @@
 {"name":"res2br","vers":"1.0.0","deps":[{"name":"clap","req":"^4.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f66258d85cd8187e323d848fad6154262262169ac385912f46094d83d3488755","features":{},"yanked":false}
+{"name":"res2br","vers":"1.0.1","deps":[{"name":"clap","req":"^4.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ea697441ba0a864e4ca2a6234a916e8e23669bacaf5cf68bc67ab4b1ba2a186","features":{},"yanked":false}
