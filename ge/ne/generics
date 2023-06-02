@@ -15,8 +15,8 @@
 {"name":"generics","vers":"0.3.0","deps":[],"cksum":"8157851ee78cf8e7e63d73fcb3020f1b7d5068bef718817b60412c08988a9214","features":{},"yanked":false}
 {"name":"generics","vers":"0.3.1","deps":[],"cksum":"2846a08e177dcd7e1236db30c1f6315575ce3c8bf33aab4baadc923d64f8ac7b","features":{},"yanked":false}
 {"name":"generics","vers":"0.3.2","deps":[],"cksum":"744f01f99b59cc6adfb456c4c8a34cda19c8f4edb541c536898f863c5b94beb2","features":{},"yanked":false}
-{"name":"generics","vers":"0.4.0","deps":[],"cksum":"15eb682f51d67c1a295fc95133946b3e0e26c61edfe7c0d11f276cbea4cb53f3","features":{},"yanked":false}
-{"name":"generics","vers":"0.4.1","deps":[],"cksum":"291788e5249d06c28d96c60a69ff83ed2f55831a516e2f7e882a5231fe0fd511","features":{},"yanked":false}
-{"name":"generics","vers":"0.4.2","deps":[],"cksum":"5b3575792ab49c9a1c0ff9ed0f77f27cf3a54fef7a36590a02e5f919e3040277","features":{},"yanked":false}
-{"name":"generics","vers":"0.4.3","deps":[],"cksum":"5a2f1b52646882464445e36beb20f97c7b6da7b381f91f56f2bc959cfad1b0dd","features":{},"yanked":false}
-{"name":"generics","vers":"0.4.4","deps":[],"cksum":"9b68c8c0cd22a26e4524fa3847c0bb2368a824c6d10e40b10b26f88516d7ed8b","features":{},"yanked":false}
+{"name":"generics","vers":"0.4.0","deps":[],"cksum":"15eb682f51d67c1a295fc95133946b3e0e26c61edfe7c0d11f276cbea4cb53f3","features":{},"yanked":false,"rust_version":"1.60"}
+{"name":"generics","vers":"0.4.1","deps":[],"cksum":"291788e5249d06c28d96c60a69ff83ed2f55831a516e2f7e882a5231fe0fd511","features":{},"yanked":false,"rust_version":"1.60"}
+{"name":"generics","vers":"0.4.2","deps":[],"cksum":"5b3575792ab49c9a1c0ff9ed0f77f27cf3a54fef7a36590a02e5f919e3040277","features":{},"yanked":false,"rust_version":"1.60"}
+{"name":"generics","vers":"0.4.3","deps":[],"cksum":"5a2f1b52646882464445e36beb20f97c7b6da7b381f91f56f2bc959cfad1b0dd","features":{},"yanked":false,"rust_version":"1.60"}
+{"name":"generics","vers":"0.4.4","deps":[],"cksum":"9b68c8c0cd22a26e4524fa3847c0bb2368a824c6d10e40b10b26f88516d7ed8b","features":{},"yanked":false,"rust_version":"1.60"}
