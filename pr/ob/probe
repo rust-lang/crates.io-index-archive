@@ -8,6 +8,6 @@
 {"name":"probe","vers":"0.2.0","deps":[],"cksum":"d41b02f79408bc2e9294827e4861eb3d1ab89ab4613e16f7989b3801bb29587c","features":{},"yanked":true}
 {"name":"probe","vers":"0.2.1","deps":[],"cksum":"7a5afcbb4ebdf63dc1b99ec0b2f924fa6f2bd9a1417ef9a93c5cfa2a9615fcb7","features":{},"yanked":false}
 {"name":"probe","vers":"0.3.0","deps":[],"cksum":"216e81fcf486280f0b8b18ca43ceafd32739eb0eb703eb024a8d00814eeba556","features":{},"yanked":false}
-{"name":"probe","vers":"0.4.0","deps":[],"cksum":"4470b83c97958188eb99307319a3028858627d296f423be1b4dfa0fc7a20ff0a","features":{},"yanked":false}
-{"name":"probe","vers":"0.5.0","deps":[],"cksum":"95a2de7059ed612e68cf6e988594142b31af984aab9cacba7c7ef206cb708def","features":{},"yanked":false}
-{"name":"probe","vers":"0.5.1","deps":[],"cksum":"d8e2d2444b730c8f027344c60f9e1f1554d7a3342df9bdd425142ed119a6e5a3","features":{},"yanked":false}
+{"name":"probe","vers":"0.4.0","deps":[],"cksum":"4470b83c97958188eb99307319a3028858627d296f423be1b4dfa0fc7a20ff0a","features":{},"yanked":false,"rust_version":"1.66"}
+{"name":"probe","vers":"0.5.0","deps":[],"cksum":"95a2de7059ed612e68cf6e988594142b31af984aab9cacba7c7ef206cb708def","features":{},"yanked":false,"rust_version":"1.66"}
+{"name":"probe","vers":"0.5.1","deps":[],"cksum":"d8e2d2444b730c8f027344c60f9e1f1554d7a3342df9bdd425142ed119a6e5a3","features":{},"yanked":false,"rust_version":"1.66"}
