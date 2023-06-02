@@ -16,8 +16,8 @@
 {"name":"xshell-macros","vers":"0.1.15","deps":[],"cksum":"d2b955be4ccb0caffb7312052b5b9d31f24cac4c4898869290f1580cb6d73dc2","features":{},"yanked":false}
 {"name":"xshell-macros","vers":"0.1.16","deps":[],"cksum":"13f15c1ec8cbed82f14a7528640132f93b43542cf038a88a8802aedaf6b88d8f","features":{},"yanked":false}
 {"name":"xshell-macros","vers":"0.1.17","deps":[],"cksum":"4916a4a3cad759e499a3620523bf9545cc162d7a06163727dde97ce9aaa4cf39","features":{},"yanked":false}
-{"name":"xshell-macros","vers":"0.2.0-pre.1","deps":[],"cksum":"cd24ccf2427bd75d691e20ee8f4d956c97e1043319ff174b25d0c315d5d183e1","features":{},"yanked":false}
-{"name":"xshell-macros","vers":"0.2.0","deps":[],"cksum":"f47e54cffa76000b7641328ab3bb1e146f93a1690ab86c5909c656f49d91019c","features":{},"yanked":false}
-{"name":"xshell-macros","vers":"0.2.1","deps":[],"cksum":"37d92065701c3611323f96eac5475b995421fc7eb2bcba1336cdd80b9b2fb68f","features":{},"yanked":false}
-{"name":"xshell-macros","vers":"0.2.2","deps":[],"cksum":"88301b56c26dd9bf5c43d858538f82d6f3f7764767defbc5d34e59459901c41a","features":{},"yanked":false}
-{"name":"xshell-macros","vers":"0.2.3","deps":[],"cksum":"1dbabb1cbd15a1d6d12d9ed6b35cc6777d4af87ab3ba155ea37215f20beab80c","features":{},"yanked":false}
+{"name":"xshell-macros","vers":"0.2.0-pre.1","deps":[],"cksum":"cd24ccf2427bd75d691e20ee8f4d956c97e1043319ff174b25d0c315d5d183e1","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"xshell-macros","vers":"0.2.0","deps":[],"cksum":"f47e54cffa76000b7641328ab3bb1e146f93a1690ab86c5909c656f49d91019c","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"xshell-macros","vers":"0.2.1","deps":[],"cksum":"37d92065701c3611323f96eac5475b995421fc7eb2bcba1336cdd80b9b2fb68f","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"xshell-macros","vers":"0.2.2","deps":[],"cksum":"88301b56c26dd9bf5c43d858538f82d6f3f7764767defbc5d34e59459901c41a","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"xshell-macros","vers":"0.2.3","deps":[],"cksum":"1dbabb1cbd15a1d6d12d9ed6b35cc6777d4af87ab3ba155ea37215f20beab80c","features":{},"yanked":false,"rust_version":"1.59"}
