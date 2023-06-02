@@ -11,5 +11,5 @@
 {"name":"hex-literal","vers":"0.3.3","deps":[],"cksum":"21e4590e13640f19f249fe3e4eca5113bc4289f2497710378190e7f4bd96f45b","features":{},"yanked":false}
 {"name":"hex-literal","vers":"0.3.4","deps":[],"cksum":"7ebdb29d2ea9ed0083cd8cece49bbd968021bd99b0849edb4a9a7ee0fdf6a4e0","features":{},"yanked":false}
 {"name":"hex-literal","vers":"0.2.2","deps":[{"name":"hex-literal-impl","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"proc-macro-hack","req":"^0.5.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d70693199b3cf4552f3fa720b54163927a3ebed2aef240efaf556033ab336a11","features":{},"yanked":false}
-{"name":"hex-literal","vers":"0.4.0","deps":[],"cksum":"4bcb5b3e439c92a7191df2f9bbe733de8de55c3f86368cdb1c63f8be7e9e328e","features":{},"yanked":false}
-{"name":"hex-literal","vers":"0.4.1","deps":[],"cksum":"6fe2267d4ed49bc07b63801559be28c718ea06c4738b7a03c94df7386d2cde46","features":{},"yanked":false}
+{"name":"hex-literal","vers":"0.4.0","deps":[],"cksum":"4bcb5b3e439c92a7191df2f9bbe733de8de55c3f86368cdb1c63f8be7e9e328e","features":{},"yanked":false,"rust_version":"1.57"}
+{"name":"hex-literal","vers":"0.4.1","deps":[],"cksum":"6fe2267d4ed49bc07b63801559be28c718ea06c4738b7a03c94df7386d2cde46","features":{},"yanked":false,"rust_version":"1.57"}
