@@ -5,8 +5,8 @@
 {"name":"tagged-pointer","vers":"0.2.0","deps":[],"cksum":"ea0cd15dae0f1f270adea1606cc20cabcadc757962df298a857374d1173e5ee1","features":{"fallback":[]},"yanked":false}
 {"name":"tagged-pointer","vers":"0.2.1","deps":[],"cksum":"78990d12661a72e0fc8fca08e6e7f2a861874c5e1408eab2a50b3df10ae97528","features":{"fallback":[]},"yanked":false}
 {"name":"tagged-pointer","vers":"0.2.2","deps":[],"cksum":"86ba9af7921418b0c721a39bc3a340c542371af3f50e24deb654779e871f9d2d","features":{"fallback":[]},"yanked":false}
-{"name":"tagged-pointer","vers":"0.2.3","deps":[],"cksum":"a09d2ea46920507a64d0fab424a72d994d9ab3f2d743e593a524a9510830ce15","features":{"fallback":[]},"yanked":false}
-{"name":"tagged-pointer","vers":"0.2.4","deps":[],"cksum":"c4ad674c56e84c9d851c2c4c6a1a9584c29b9b4c8e809d83905333b4d1084841","features":{"fallback":[]},"yanked":false}
-{"name":"tagged-pointer","vers":"0.2.5","deps":[],"cksum":"57637f6ba9344b123e09e2f9ac3e937567bba50df5319ae72bc69cc2398880c0","features":{"fallback":[]},"yanked":false}
-{"name":"tagged-pointer","vers":"0.2.6","deps":[],"cksum":"b3ce6167595f5b361595d2ec45f76dcfbc7c3c0a51ff22af3883c085718ce656","features":{"fallback":[]},"yanked":false}
+{"name":"tagged-pointer","vers":"0.2.3","deps":[],"cksum":"a09d2ea46920507a64d0fab424a72d994d9ab3f2d743e593a524a9510830ce15","features":{"fallback":[]},"yanked":false,"rust_version":"1.51"}
+{"name":"tagged-pointer","vers":"0.2.4","deps":[],"cksum":"c4ad674c56e84c9d851c2c4c6a1a9584c29b9b4c8e809d83905333b4d1084841","features":{"fallback":[]},"yanked":false,"rust_version":"1.51"}
+{"name":"tagged-pointer","vers":"0.2.5","deps":[],"cksum":"57637f6ba9344b123e09e2f9ac3e937567bba50df5319ae72bc69cc2398880c0","features":{"fallback":[]},"yanked":false,"rust_version":"1.51"}
+{"name":"tagged-pointer","vers":"0.2.6","deps":[],"cksum":"b3ce6167595f5b361595d2ec45f76dcfbc7c3c0a51ff22af3883c085718ce656","features":{"fallback":[]},"yanked":false,"rust_version":"1.51"}
 {"name":"tagged-pointer","vers":"0.2.7","deps":[{"name":"compiletest_rs","req":"^0.10","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21aea775fb5416b71dc7f9970edb7be90dcccb2daaa4738561c7443673adf12e","features":{"fallback":[]},"yanked":false,"rust_version":"1.51"}
