@@ -2,4 +2,4 @@
 {"name":"la-arena","vers":"0.1.1","deps":[],"cksum":"383ed2a74426d1051751f6483a7160b98f36068224857cd4c953b34719476fc3","features":{},"yanked":false}
 {"name":"la-arena","vers":"0.2.0","deps":[],"cksum":"1ac64f89246d9a501a6e713cec4cfd64757a4ae24c20520c8cfe643007338ecf","features":{},"yanked":false}
 {"name":"la-arena","vers":"0.2.1","deps":[],"cksum":"d43db9f547ba2787bdeac81ef97ccc80784f385b3b39b4d50344270629a2bee3","features":{},"yanked":false}
-{"name":"la-arena","vers":"0.3.0","deps":[],"cksum":"1dabfe0d01e15fde0eba33b9de62475c59e681a47ce4ffe0534af2577a3f8524","features":{},"yanked":false}
+{"name":"la-arena","vers":"0.3.0","deps":[],"cksum":"1dabfe0d01e15fde0eba33b9de62475c59e681a47ce4ffe0534af2577a3f8524","features":{},"yanked":false,"rust_version":"1.56"}
