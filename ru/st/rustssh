@@ -1,0 +1,1 @@
+{"name":"rustssh","vers":"0.1.0","deps":[{"name":"ssh2","req":"~0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23a59c37ab423e8bf9142862c43456494b793fa1cafe912e653956ca7400cffa","features":{},"yanked":false}
