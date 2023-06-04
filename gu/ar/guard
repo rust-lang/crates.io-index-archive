@@ -15,3 +15,4 @@
 {"name":"guard","vers":"0.4.0","deps":[],"cksum":"6d64289e479428075242549a454821cfa30fdea031a065411183b3bcd57aa97e","features":{"debug":[],"nightly":[]},"yanked":false}
 {"name":"guard","vers":"0.5.0","deps":[],"cksum":"e1f3d64ec55b293a2ddfee276c6d7733616925b55dd337ddc0dc83aba96fbbb1","features":{"debug":[],"nightly":[]},"yanked":false}
 {"name":"guard","vers":"0.5.1","deps":[],"cksum":"ff893cc51ea04f8a3b73fbaf4376c06ebc5a0ccbe86d460896f805d9417c93ea","features":{"debug":[],"nightly":[]},"yanked":false}
+{"name":"guard","vers":"0.5.2","deps":[],"cksum":"7d7402bc4451b9f3cc9a2467bb2faf3ad01b129ae9f47f9943a24ad7a2064d84","features":{"debug":[],"nightly":[]},"yanked":false}
