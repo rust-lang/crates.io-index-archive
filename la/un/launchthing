@@ -1,1 +1,1 @@
-{"name":"launchthing","vers":"0.1.0","deps":[{"name":"gtk","req":"^0.6.6","features":["v4_10"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"gtk4"}],"cksum":"77386d155c5f23403cdc25e4f6ad227a73d446a10a0bd610ea3801b80fc1f517","features":{},"yanked":false}
+{"name":"launchthing","vers":"0.1.0","deps":[{"name":"gtk","req":"^0.6.6","features":["v4_10"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"gtk4"}],"cksum":"77386d155c5f23403cdc25e4f6ad227a73d446a10a0bd610ea3801b80fc1f517","features":{},"yanked":true}
