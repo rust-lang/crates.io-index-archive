@@ -9,3 +9,4 @@
 {"name":"awint_internals","vers":"0.8.0","deps":[],"cksum":"bbd4dd57bf9173cd443aa764443c94f5ceeaa8776b28a848dcd8d34f98f6bae6","features":{},"yanked":false,"rust_version":"1.66"}
 {"name":"awint_internals","vers":"0.9.0","deps":[],"cksum":"51e191a396b0b981d88d60d27e2aa6852d44f9331a58926396efea21ade13c24","features":{},"yanked":false,"rust_version":"1.66"}
 {"name":"awint_internals","vers":"0.10.0","deps":[],"cksum":"06c345487196d7a3801a18bf3e5bc2821e9dd1d8815f40356de028b71ae1f9b5","features":{"u128_digits":[],"u16_digits":[],"u32_digits":[],"u64_digits":[],"u8_digits":[]},"yanked":false,"rust_version":"1.66"}
+{"name":"awint_internals","vers":"0.11.0","deps":[],"cksum":"6f66860693f788a4aa8917c99a37f9b6bb755243e6e7530777abed81a7698894","features":{"u128_digits":[],"u16_digits":[],"u32_digits":[],"u64_digits":[],"u8_digits":[]},"yanked":false,"rust_version":"1.66"}
