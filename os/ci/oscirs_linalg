@@ -1,0 +1,1 @@
+{"name":"oscirs_linalg","vers":"0.1.0","deps":[{"name":"opencl3","req":"^0.9.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c5fe2d4f75402a11c94be17902bffaa01ddcf1314f021cc12d3d8b5efc45be7","features":{},"yanked":false}
