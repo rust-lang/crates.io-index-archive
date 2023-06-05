@@ -1,1 +1,2 @@
 {"name":"tlmcmddb","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.150","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"affcc0641eccb04893b42afc39907cd1468a3f99d0ae554a2285441b6c15afe7","features":{},"yanked":false}
+{"name":"tlmcmddb","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.160","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ad369378cb3161705423ac55a49190816b6044296b576bdf9d7049dba5b9132","features":{},"yanked":false}
