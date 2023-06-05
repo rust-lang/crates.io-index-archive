@@ -1,0 +1,1 @@
+{"name":"mms-rs","vers":"1.0.0","deps":[{"name":"thiserror","req":"^1.0.40","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48b927e3a5ef4f0b51b3e75669468961fc6e724b602277470f93a4facbff54b9","features":{"default":["use_results"],"use_results":[]},"yanked":false}
