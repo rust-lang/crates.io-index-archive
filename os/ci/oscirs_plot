@@ -1,1 +1,2 @@
 {"name":"oscirs_plot","vers":"0.1.0","deps":[{"name":"open","req":"^4.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc2f491c02ad24ff9fc1e070a6e1583db634a973755bcb1a1ede127168a10a00","features":{},"yanked":false}
+{"name":"oscirs_plot","vers":"0.1.1","deps":[{"name":"open","req":"^4.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8b914c1f20929805aaa34b5dfaa2f24b063798b733a9851c647bb7e9dc09e6c","features":{},"yanked":false}
