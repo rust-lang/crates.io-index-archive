@@ -3,7 +3,7 @@
 {"name":"simd-abstraction","vers":"0.1.2","deps":[],"cksum":"90ae5addade75676a3e19d64e8d40e6ce7b355a4b878e4e3dbb0916016d66fe6","features":{"hex":[],"std":[]},"yanked":true}
 {"name":"simd-abstraction","vers":"0.3.0","deps":[],"cksum":"308d46197d17f3b370adbd543783347ea707828d8fd13419f611b59f6a992905","features":{"hex":[],"std":[]},"yanked":true}
 {"name":"simd-abstraction","vers":"0.5.0","deps":[],"cksum":"df70fadc9b3167d59d7301bffe0eee7f0a353024d338e7d25d822c28450ae893","features":{"alloc":[],"std":[],"unstable":[]},"yanked":true,"rust_version":"1.57"}
-{"name":"simd-abstraction","vers":"0.5.1","deps":[],"cksum":"3acaf60982756ce96a00bc9c5b351f14ca2d23e7dc13c10df0a0d9cc036094e3","features":{"alloc":[],"std":[],"unstable":[]},"yanked":false,"rust_version":"1.57"}
+{"name":"simd-abstraction","vers":"0.5.1","deps":[],"cksum":"3acaf60982756ce96a00bc9c5b351f14ca2d23e7dc13c10df0a0d9cc036094e3","features":{"alloc":[],"std":[],"unstable":[]},"yanked":true,"rust_version":"1.57"}
 {"name":"simd-abstraction","vers":"0.6.0","deps":[],"cksum":"e802f18b23c4921625e012b7e1f8eac4086170dd6005c4ec4c3c38713db7407c","features":{"alloc":[],"std":[],"unstable":[]},"yanked":false,"rust_version":"1.57"}
 {"name":"simd-abstraction","vers":"0.6.1","deps":[],"cksum":"dd4dd7e9b1eb2728d6ed3a730cb6d3c25f3d5ec01dc65e0cdbf28a93d58f0360","features":{"alloc":[],"std":[],"unstable":[]},"yanked":false,"rust_version":"1.57"}
 {"name":"simd-abstraction","vers":"0.6.2","deps":[],"cksum":"c2880f3f7b392823ee65bbcc681961cd8e698c6a30e91ab9b4eef1f9c6c226d8","features":{"alloc":[],"std":[],"unstable":[]},"yanked":false,"rust_version":"1.57"}
