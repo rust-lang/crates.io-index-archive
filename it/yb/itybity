@@ -1,0 +1,1 @@
+{"name":"itybity","vers":"0.1.0","deps":[{"name":"rstest","req":"^0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"273accf2fb9a824943b0faeecc027fb3f782d35ecd53644d6ed14da2d4493d97","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
