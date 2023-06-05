@@ -1,3 +1,4 @@
 {"name":"matrix_lib","vers":"0.1.0","deps":[],"cksum":"01c4ce83b8c6826cd86b9f7295f787781e1ba7036dca8668262c92fdd636d8ac","features":{},"yanked":false}
 {"name":"matrix_lib","vers":"0.1.1","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0070b10fe23999198cdbd9e34cdfed35d44fa9f878ea540b47721466a1bd9b0","features":{},"yanked":false}
 {"name":"matrix_lib","vers":"0.2.0","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f3485a927a22451843e88311d287ed8515b0675ed5fec83af7a7650ea0274af","features":{},"yanked":false}
+{"name":"matrix_lib","vers":"0.2.1","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab3910198f1bd1f8aa2d903c6ea7ca75c2b0cee02edd1d508712ebc54a87f148","features":{},"yanked":false}
