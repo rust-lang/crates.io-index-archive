@@ -1,0 +1,1 @@
+{"name":"env-loader","vers":"0.1.0","deps":[{"name":"dotenv","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0314f01c114f27dbcf374485cb39b1907cdae62d45ff20e475a0fab54ef6044","features":{},"yanked":false}
