@@ -1,1 +1,2 @@
 {"name":"cloudi","vers":"0.1.0","deps":[{"name":"erlang_rs","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f0a033a8f20c65c147a707fd5237a5a69a23ba84470bc19288b26dbfe9823a5","features":{},"yanked":false,"rust_version":"1.66.1"}
+{"name":"cloudi","vers":"0.2.0","deps":[{"name":"erlang_rs","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"705ca43c289eef2f5744b7af8b37a17ec50f7ecde4324039f87d6923d9d8edc6","features":{},"yanked":false,"rust_version":"1.66.1"}
