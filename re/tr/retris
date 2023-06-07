@@ -1,0 +1,1 @@
+{"name":"retris","vers":"0.1.0","deps":[{"name":"cursive","req":"^0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bedc218658e60b1f7f609a7e32121821d5e7f846f26404c41865985ff842a3e9","features":{},"yanked":false}
