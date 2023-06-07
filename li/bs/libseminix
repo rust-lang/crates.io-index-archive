@@ -1,1 +1,2 @@
 {"name":"libseminix","vers":"0.1.0","deps":[{"name":"bitflags","req":"^2.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d685803c705dd81f448353b3e31f3de165166ec225b5f65e50b85cbdc6545e7","features":{},"yanked":false}
+{"name":"libseminix","vers":"0.1.1","deps":[{"name":"bitflags","req":"^2.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e37780adf2e94c6862f4854562cf015f41394b0d1feaaef9f0903b6e5308719e","features":{},"yanked":false}
