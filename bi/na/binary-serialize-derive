@@ -1,0 +1,1 @@
+{"name":"binary-serialize-derive","vers":"0.0.0","deps":[{"name":"syn-helpers","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c5d16e5e94232e23838ea6a771977fd8957a0f5727bb51ec7c884fc30be3001","features":{},"yanked":false}
