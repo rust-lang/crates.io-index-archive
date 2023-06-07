@@ -1,0 +1,1 @@
+{"name":"example_crate_with_settings","vers":"0.0.2","deps":[{"name":"crate-settings","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1e0da925f6e039329b2818e5efcd2550ddede9c3e0cf630ac196f464dc0247b","features":{},"yanked":false}
