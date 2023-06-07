@@ -1,0 +1,1 @@
+{"name":"neo4j_testcontainers","vers":"0.1.0","deps":[{"name":"testcontainers","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f502cf0e7658163604bf3ac7975f642d8a6c2c1f4110509493dc1d35dc70b0f7","features":{},"yanked":false,"rust_version":"1.60.0"}
