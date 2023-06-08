@@ -1,1 +1,2 @@
 {"name":"ikarusdef","vers":"0.1.0","deps":[{"name":"indoc","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"315f4f13249a69a94cade51e3dd9cf6c847ce83e0d9d01949f1cb087eb9d3202","features":{},"yanked":false}
+{"name":"ikarusdef","vers":"0.1.1","deps":[{"name":"indoc","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a2832c7dbdb35152402fe05c81058e3560b00af4b9bc85ff6a873bd56bee176","features":{},"yanked":false}
