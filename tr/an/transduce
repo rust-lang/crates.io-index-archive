@@ -1,0 +1,1 @@
+{"name":"transduce","vers":"0.2.0","deps":[{"name":"rsmonad","req":">=0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ad505730058fb94e531bb315198377fc2c208a007cb4569605f9af86d52f110","features":{"nightly":[]},"yanked":false}
