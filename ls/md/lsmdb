@@ -1,1 +1,1 @@
-{"name":"lsmdb","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9b2421f9f01937813d364a3fbfcad2b6d6348d6e467eddf0bb9339e588947f2f","features":{},"yanked":false}
+{"name":"lsmdb","vers":"0.2.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9b2421f9f01937813d364a3fbfcad2b6d6348d6e467eddf0bb9339e588947f2f","features":{},"yanked":true}
