@@ -7,3 +7,4 @@
 {"name":"fault-injection","vers":"1.0.5","deps":[],"cksum":"5c8e1ac0115580608a7e884c134b1ee874961b1ccc8b11cfbb00f30beb410633","features":{},"yanked":true}
 {"name":"fault-injection","vers":"1.0.6","deps":[],"cksum":"f2eca77b1357afc05192565fe47fbd976270af5ccbc0e0885444ea6349631b43","features":{},"yanked":true}
 {"name":"fault-injection","vers":"1.0.7","deps":[],"cksum":"aeca7f5585b265ca11574365e7d3aca66a4a50090f8e3e5088dd43ee6a4d2c8b","features":{},"yanked":false}
+{"name":"fault-injection","vers":"1.0.8","deps":[],"cksum":"a9173c080b93a0367ba0dbebeab0adf7f5dc236d67934c8ccb091c13f01c1b9d","features":{},"yanked":false}
