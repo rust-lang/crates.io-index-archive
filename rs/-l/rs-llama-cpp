@@ -1,1 +1,1 @@
-{"name":"rs-llama-cpp","vers":"0.1.6","deps":[{"name":"bindgen","req":"^0.65","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7fb93f7f8dbbb0cf8805a3c9471f8b49c4a5aacd402dd5da9f5da586acadefac","features":{},"yanked":false}
+{"name":"rs-llama-cpp","vers":"0.1.6","deps":[{"name":"bindgen","req":"^0.65","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7fb93f7f8dbbb0cf8805a3c9471f8b49c4a5aacd402dd5da9f5da586acadefac","features":{},"yanked":true}
