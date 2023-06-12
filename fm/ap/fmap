@@ -15,3 +15,4 @@
 {"name":"fmap","vers":"0.4.1","deps":[],"cksum":"fd6cf93e0d7c9386ca4cddd8d56fbceb413f00377e0c22070fc1eaeb52db53df","features":{},"yanked":false}
 {"name":"fmap","vers":"0.5.0","deps":[],"cksum":"322a01a2db3d6c44c894b54d2f2d93b16f721b85d8f27ae1a4eee680d7a5a7f3","features":{},"yanked":false}
 {"name":"fmap","vers":"0.5.1","deps":[],"cksum":"fe223fa0dd68ebb9f239b9ac485bb70eba4f3e6864857fda4a1ac198a90fd314","features":{},"yanked":false}
+{"name":"fmap","vers":"0.6.0","deps":[{"name":"futures","req":"^0.3.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8359a6f71d522b6b293236ea8cc9d036077cd5d7d13f6c155ed776ce95d35fc5","features":{},"yanked":false}
