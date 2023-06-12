@@ -24,3 +24,4 @@
 {"name":"cargo-wasi-exe-x86_64-unknown-linux-musl","vers":"0.1.25","deps":[],"cksum":"e46ddb5276836ced75f008d26d53f2a5d25ecbffcb36f5e091b3ef9148366ec4","features":{},"yanked":false}
 {"name":"cargo-wasi-exe-x86_64-unknown-linux-musl","vers":"0.1.26","deps":[],"cksum":"aa95b73118f62c2fd1af3cd78896d842b386004a12441a5f6ade84e91ea674b9","features":{},"yanked":false}
 {"name":"cargo-wasi-exe-x86_64-unknown-linux-musl","vers":"0.1.27","deps":[],"cksum":"c7fb85a743bf1eba3c57feeec39d3e3d75bb2bcc14075466b0b786e6e544d487","features":{},"yanked":false}
+{"name":"cargo-wasi-exe-x86_64-unknown-linux-musl","vers":"0.1.28","deps":[],"cksum":"3102f1edcd441f732b249f81c018b882f154a65953aaf90c153881884a88e5fd","features":{},"yanked":false}
