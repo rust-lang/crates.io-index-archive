@@ -1,1 +1,2 @@
 {"name":"hzlang_parser","vers":"1.0.0","deps":[{"name":"parco","req":"^3.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d81fb608066596c3f65e4bcd5bb7ffbc550dd64bccefe1708a2ba12d5c44a3e","features":{},"yanked":false}
+{"name":"hzlang_parser","vers":"2.0.0","deps":[{"name":"parco","req":"^3.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76fc53fdd5ef11d10227feb57fe6de0e48c02fea6bb921321d71412d3099e3c6","features":{},"yanked":false}
