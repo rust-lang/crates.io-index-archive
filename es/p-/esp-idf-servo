@@ -1,1 +1,2 @@
 {"name":"esp-idf-servo","vers":"0.1.0","deps":[{"name":"esp-idf-sys","req":"^0.33","features":["native"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4b841b84671a6221c43be6c75ef721c5af0d2a95d78e56c599d4dbc90aad7392","features":{},"yanked":false}
+{"name":"esp-idf-servo","vers":"0.1.1","deps":[{"name":"esp-idf-sys","req":"^0.33","features":["native"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"13b1ea0822922d4171c745294ca251ab422d5e7f6ce8da21e1c412ec3fe5e012","features":{},"yanked":false}
