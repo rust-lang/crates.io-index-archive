@@ -9,4 +9,4 @@
 {"name":"trc","vers":"1.1.3","deps":[],"cksum":"894f5db35086c60ccedb849e5d439a9d013cb4db500cf0a552d1096fe3f155a4","features":{},"yanked":false}
 {"name":"trc","vers":"1.1.4","deps":[],"cksum":"ff720e1fd3572333329cb2a2a0de95975b23120909e25bbf3e26eb718b9e234f","features":{},"yanked":false}
 {"name":"trc","vers":"1.1.5","deps":[],"cksum":"e4059ad096a7cf8d54bff463c084970c57593b963acf9d30e9d94de6c6dd9348","features":{},"yanked":true}
-{"name":"trc","vers":"1.1.6","deps":[],"cksum":"93cdc6f81c326fee8c8900ca957d3e9666f42e5a8f71b290effefdbf689dbe65","features":{},"yanked":false}
+{"name":"trc","vers":"1.1.6","deps":[],"cksum":"93cdc6f81c326fee8c8900ca957d3e9666f42e5a8f71b290effefdbf689dbe65","features":{},"yanked":true}
