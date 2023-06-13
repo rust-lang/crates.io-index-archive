@@ -1,0 +1,1 @@
+{"name":"changesets","vers":"0.0.1","deps":[{"name":"tempfile","req":"^3.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"824b214ade5cbf673be569264c465d871e3d6166524a5177abe7fd238ef4e304","features":{},"yanked":false,"rust_version":"1.70"}
