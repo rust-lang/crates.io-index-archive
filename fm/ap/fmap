@@ -17,3 +17,4 @@
 {"name":"fmap","vers":"0.5.1","deps":[],"cksum":"fe223fa0dd68ebb9f239b9ac485bb70eba4f3e6864857fda4a1ac198a90fd314","features":{},"yanked":false}
 {"name":"fmap","vers":"0.6.0","deps":[{"name":"futures","req":"^0.3.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8359a6f71d522b6b293236ea8cc9d036077cd5d7d13f6c155ed776ce95d35fc5","features":{},"yanked":false}
 {"name":"fmap","vers":"0.7.0","deps":[{"name":"futures","req":"^0.3.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"64d9a86a15237c46b1cc3d511953ac2afd73cadb19013c8a3d4b83bdadae5e76","features":{},"yanked":false}
+{"name":"fmap","vers":"0.8.0","deps":[{"name":"futures","req":"^0.3.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"32c4066ca19009c20d0a34316a3ded08cbe21a0cde50485a87db0920005a7bfd","features":{},"yanked":false}
