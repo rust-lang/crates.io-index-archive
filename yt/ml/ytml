@@ -1,0 +1,1 @@
+{"name":"ytml","vers":"0.1.0","deps":[{"name":"pest","req":"^2.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pest_derive","req":"^2.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1fded472bff0574c4e06aea800ace7f00e5dad32b0bb19325872e0e55900b1d","features":{},"yanked":false}
