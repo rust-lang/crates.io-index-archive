@@ -11,3 +11,4 @@
 {"name":"trc","vers":"1.1.5","deps":[],"cksum":"e4059ad096a7cf8d54bff463c084970c57593b963acf9d30e9d94de6c6dd9348","features":{},"yanked":true}
 {"name":"trc","vers":"1.1.6","deps":[],"cksum":"93cdc6f81c326fee8c8900ca957d3e9666f42e5a8f71b290effefdbf689dbe65","features":{},"yanked":true}
 {"name":"trc","vers":"1.1.7","deps":[],"cksum":"a0bafb541dbc39c46555d6138e0ec0a4817f4aa3956922d5db11f810d9f50422","features":{},"yanked":false}
+{"name":"trc","vers":"1.1.8","deps":[{"name":"spin","req":"^0.9.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cba1169d53ec99dc12c64d9772ca2b918a4a6633eb5d934400aa80db78ba60f8","features":{"default":[],"nostd":[],"test_atomic":[],"test_lock":["spin/rwlock"],"test_lock_nostd":["spin/rwlock","nostd","test_lock"]},"yanked":false}
