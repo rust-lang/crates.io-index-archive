@@ -1,0 +1,1 @@
+{"name":"checkpipe","vers":"0.1.0","deps":[{"name":"cargo-release","req":"^0.24.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5992d53cc7316daa8def5b62aadf4f9df742db3dcae74e077d9db6ebf8ab8d18","features":{},"yanked":false}
