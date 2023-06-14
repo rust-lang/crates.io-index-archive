@@ -1,1 +1,2 @@
 {"name":"nostd-cursor","vers":"0.1.0","deps":[{"name":"byteorder","req":"^1.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0bca5336b4254dc6d0ad6d8e2261781f16f187edf85074ae4bb0e8d7245003c2","features":{},"yanked":false}
+{"name":"nostd-cursor","vers":"0.1.1","deps":[{"name":"byteorder","req":"^1.4","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"02e99e725ac30978a8ff725d947695a69990f9ae9cbccca31879d7508af851fa","features":{},"yanked":false}
