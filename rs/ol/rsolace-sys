@@ -1,1 +1,2 @@
 {"name":"rsolace-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.65.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6926d81adb517aff9e729b856d0ca946f04415badceebf9e6c7639d977ef7b5d","features":{},"yanked":false}
+{"name":"rsolace-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.65.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d4fb563a43f9f3fa239035d4989b454e98f7feffa9449a4c33ee22ebd0ece639","features":{},"yanked":false}
