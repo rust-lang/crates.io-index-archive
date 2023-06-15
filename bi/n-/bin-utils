@@ -1,1 +1,2 @@
 {"name":"bin-utils","vers":"0.1.0","deps":[],"cksum":"5350e0023ced2f0fc8fc2e95b8ed198aec0395fa2510be15b1996ab12bfe521e","features":{"default":["non_fixed"],"non_fixed":[]},"yanked":false}
+{"name":"bin-utils","vers":"0.1.1","deps":[],"cksum":"59f7bae2bfe1fd409c61dea7e64ddf6f24173feb0c7b19bf1416fb1a6002e13b","features":{"default":["non_fixed","numeric_rw"],"non_fixed":[],"numeric_rw":[]},"yanked":false}
