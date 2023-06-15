@@ -18,3 +18,4 @@
 {"name":"noodles-core","vers":"0.9.0","deps":[],"cksum":"a535f23a76e1d159401d70d5766ab116154d6774961e00559978bf7615f72fe4","features":{},"yanked":false,"rust_version":"1.57.0"}
 {"name":"noodles-core","vers":"0.10.0","deps":[],"cksum":"32f52f0dbc792f4d76e94e3ccaee57237b649ad1e4b64a97ad037d6b3b8f6909","features":{},"yanked":false,"rust_version":"1.64.0"}
 {"name":"noodles-core","vers":"0.11.0","deps":[],"cksum":"72f9ab09e13392e71797e7502109575d2aae5cb2002bd2304647f7746215c2fe","features":{},"yanked":false,"rust_version":"1.64.0"}
+{"name":"noodles-core","vers":"0.12.0","deps":[],"cksum":"94fbe3192fe33acacabaedd387657f39b0fc606f1996d546db0dfe14703b843a","features":{},"yanked":false,"rust_version":"1.64.0"}
