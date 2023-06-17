@@ -49,3 +49,4 @@
 {"name":"prop","vers":"0.44.0","deps":[],"cksum":"8baf264050897e2fae6e885d2fabf83b70436656673f668faa1cd07a1bafa90c","features":{"avatar_extensions":[],"default":[],"quantify":[]},"yanked":false}
 {"name":"prop","vers":"0.45.0","deps":[],"cksum":"d8858eec1a0119065ebdccd8c0325ef5888b0aa797cb0940f013314ab2eab635","features":{"avatar_extensions":[],"default":[],"quantify":[]},"yanked":false}
 {"name":"prop","vers":"0.46.0","deps":[],"cksum":"23c2dcf40d186dab41ec29685c7ee9f658709c078f55d940de34ab157b05b749","features":{"avatar_extensions":[],"default":[],"quantify":[]},"yanked":false}
+{"name":"prop","vers":"0.47.0","deps":[],"cksum":"173d5f2ff7609d448cd8051a9dd8888e4a38f91bb4df76576c275883d73e4fbe","features":{"avatar_extensions":[],"default":[],"quantify":[]},"yanked":false}
