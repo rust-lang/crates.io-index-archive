@@ -5,3 +5,4 @@
 {"name":"nvapi_sys_new","vers":"0.1.4","deps":[],"cksum":"9efc4f6ebd44d215c20441fed8d6f2ea19c78c199f1825d69beea171a2ac5e1a","features":{},"yanked":false}
 {"name":"nvapi_sys_new","vers":"0.1.5","deps":[],"cksum":"a60dd2c55f73e85dce7a83b8453a478dcc6627099d0f108e013143970ae8aed2","features":{},"yanked":false}
 {"name":"nvapi_sys_new","vers":"1.530.0","deps":[{"name":"bindgen","req":"^0.65.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"aed2f60330dd33044ab66819b828103ceb1d416b34ce44476009b9a5a0464a18","features":{},"yanked":false}
+{"name":"nvapi_sys_new","vers":"1.530.1","deps":[{"name":"bindgen","req":"^0.65.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"121d6bf56723d69df42277e7c32d4fb3464297edf025dcd6be10b961b2337737","features":{},"yanked":false}
