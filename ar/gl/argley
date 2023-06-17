@@ -1,0 +1,1 @@
+{"name":"argley","vers":"0.1.0","deps":[{"name":"argley_macro","req":"^0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dcf346dcea08732330d33a4f222a51582978ca1b0514062adaa8052cccaa9a0","features":{"default":["derive"]},"features2":{"derive":["dep:argley_macro"]},"yanked":false,"rust_version":"1.60.0","v":2}
