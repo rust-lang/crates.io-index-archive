@@ -1,0 +1,1 @@
+{"name":"xxai","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"base-x","req":"^0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e0ffbafef2582c0c883403ab3110dfcc50ad45e20bdeb2bb7b6efc847f4f2dd","features":{},"yanked":false}
