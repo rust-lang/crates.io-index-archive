@@ -1,0 +1,1 @@
+{"name":"dtrack","vers":"0.0.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fed501e26666821be1dffa6b0664137d8b8386f45d8be7f4a0b30e6bbafb5e3f","features":{},"yanked":false}
