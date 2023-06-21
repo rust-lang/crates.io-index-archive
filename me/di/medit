@@ -1,0 +1,1 @@
+{"name":"medit","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6572f306066516c1e40a05bcd426f3e7fc42162f8bad11a109d5c50cdf1303e1","features":{},"yanked":false}
