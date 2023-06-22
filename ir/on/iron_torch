@@ -1,0 +1,1 @@
+{"name":"iron_torch","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"652126c30822a039b46df766824e4942bbd01f122462de9e37efd1904f73b137","features":{},"yanked":false}
