@@ -1,0 +1,1 @@
+{"name":"humanise","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c2d30fd8fedeedcb131ab55a676a6bf9034c427589cfa410ef2253231533bee","features":{"default":["durations"],"durations":[]},"features2":{"chrono":["dep:chrono","durations"]},"yanked":false,"v":2}
