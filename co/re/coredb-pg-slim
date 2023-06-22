@@ -1,4 +1,4 @@
-{"name":"coredb-pg-slim","vers":"15.2.0-coredb-pg-slim.1","deps":[],"cksum":"7caa7d7b3589787fd039f438ca12cd1928644b8041aea37383da3265416f5fe2","features":{},"yanked":false}
+{"name":"coredb-pg-slim","vers":"15.2.0-coredb-pg-slim.1","deps":[],"cksum":"7caa7d7b3589787fd039f438ca12cd1928644b8041aea37383da3265416f5fe2","features":{},"yanked":true}
 {"name":"coredb-pg-slim","vers":"15.2.0-coredb-pg-slim.3","deps":[],"cksum":"b8190a6a202c50fff102cba703729b988e11b5b52b2a921d81e74120d306cbaf","features":{},"yanked":true}
 {"name":"coredb-pg-slim","vers":"15.2.0-coredb-pg-slim.4","deps":[],"cksum":"2be0d2376e8b2add8d2b34a640d5921e1ab13cb8c9b9e8d0d1a3b83ca5129d81","features":{},"yanked":true}
 {"name":"coredb-pg-slim","vers":"15.2.0-coredb-pg-slim.5","deps":[],"cksum":"3552909290ccc6cb0de652a47921127ffcf69d1ee65e076c33fb97b1932fc778","features":{},"yanked":true}
