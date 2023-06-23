@@ -1,0 +1,1 @@
+{"name":"nifpga-dll-sys","vers":"0.1.6","deps":[{"name":"libc","req":"^0.2.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5a961585b636ff7f414d400468a7b5e44a124b8807cc73aa9e57d7ed2999b37","features":{},"yanked":false,"links":"NiFpga"}
