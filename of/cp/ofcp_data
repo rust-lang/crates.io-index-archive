@@ -11,7 +11,7 @@
 {"name":"ofcp_data","vers":"0.12.0","deps":[],"cksum":"712348b7a8c46f227018ce312c7d49d5a210c5c51447acf7364c38232fc6e82a","features":{},"yanked":false}
 {"name":"ofcp_data","vers":"0.12.1","deps":[],"cksum":"34e6fb5c869e10966f7a168503788eefb77128ea9bd5e7243c9fee4613acff76","features":{},"yanked":false}
 {"name":"ofcp_data","vers":"0.13.0","deps":[],"cksum":"9934aae7a0660567b68c299f78f30e6a6f5a27abbee8b734e659aae89fce54f1","features":{},"yanked":true}
-{"name":"ofcp_data","vers":"0.14.0","deps":[],"cksum":"d615b91ed3d4a6bb0e1994c67fce467599594646de84e7c6b5ec296c948f883c","features":{},"yanked":true}
+{"name":"ofcp_data","vers":"0.14.0","deps":[],"cksum":"d615b91ed3d4a6bb0e1994c67fce467599594646de84e7c6b5ec296c948f883c","features":{},"yanked":false}
 {"name":"ofcp_data","vers":"0.13.1","deps":[],"cksum":"2622594841679a999e18d846d80f2540b37b8fe8588a2be20bcf169f5a406766","features":{},"yanked":true}
 {"name":"ofcp_data","vers":"0.13.2","deps":[],"cksum":"5693e518bd9f9c2a1ce69071020f8057367a28f1b46dcf2394c3f4c4271280ed","features":{},"yanked":true}
 {"name":"ofcp_data","vers":"0.15.0","deps":[],"cksum":"a409ee74c1213cf08309e2741ba0d9407f75ed5e5882b07ad2e8447cfdcfe33b","features":{},"yanked":true}
