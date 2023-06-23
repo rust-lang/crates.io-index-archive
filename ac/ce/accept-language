@@ -6,3 +6,4 @@
 {"name":"accept-language","vers":"1.2.1","deps":[],"cksum":"76fe0c69d24d89c2e40f951b1c6252982e18bada702f90cfa2c190232a1357ac","features":{},"yanked":false}
 {"name":"accept-language","vers":"1.2.2","deps":[],"cksum":"87fc76696d76ef1746fef04d6a63490afb39fdfb27c01c21c9a59e08bb2d8cb9","features":{},"yanked":false}
 {"name":"accept-language","vers":"2.0.0","deps":[],"cksum":"c2bc21ffc9b77e9c31e733bb7e937c11dcf6157bb74f80bf94734110aa9b9ebc","features":{},"yanked":false}
+{"name":"accept-language","vers":"3.0.0","deps":[],"cksum":"856790d832e15e6447ecd239fc54d5082daae23125cad51b383bff7df76b343c","features":{},"yanked":false}
