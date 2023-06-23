@@ -15,6 +15,6 @@
 {"name":"ofcp_data","vers":"0.13.1","deps":[],"cksum":"2622594841679a999e18d846d80f2540b37b8fe8588a2be20bcf169f5a406766","features":{},"yanked":true}
 {"name":"ofcp_data","vers":"0.13.2","deps":[],"cksum":"5693e518bd9f9c2a1ce69071020f8057367a28f1b46dcf2394c3f4c4271280ed","features":{},"yanked":true}
 {"name":"ofcp_data","vers":"0.15.0","deps":[],"cksum":"a409ee74c1213cf08309e2741ba0d9407f75ed5e5882b07ad2e8447cfdcfe33b","features":{},"yanked":true}
-{"name":"ofcp_data","vers":"0.15.1","deps":[],"cksum":"9bcab419a353441d6c2bbbdd372ce497c318178b275645dedffbaf77c4426fa7","features":{},"yanked":true}
+{"name":"ofcp_data","vers":"0.15.1","deps":[],"cksum":"9bcab419a353441d6c2bbbdd372ce497c318178b275645dedffbaf77c4426fa7","features":{},"yanked":false}
 {"name":"ofcp_data","vers":"0.15.2","deps":[],"cksum":"3d40d269bab83d0623c8a5470b99945c098e4e55961f2868ef864126ba4bdea6","features":{},"yanked":true}
 {"name":"ofcp_data","vers":"0.16.0","deps":[],"cksum":"1a238eaa20405bd959bf640710c13482c57af46aa5f6b50496e308df30f69014","features":{},"yanked":false}
