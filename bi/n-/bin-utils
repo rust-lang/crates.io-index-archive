@@ -2,3 +2,4 @@
 {"name":"bin-utils","vers":"0.1.1","deps":[],"cksum":"59f7bae2bfe1fd409c61dea7e64ddf6f24173feb0c7b19bf1416fb1a6002e13b","features":{"default":["non_fixed","numeric_rw"],"non_fixed":[],"numeric_rw":[]},"yanked":false}
 {"name":"bin-utils","vers":"0.1.2","deps":[],"cksum":"7135d174714b6ae9f7f43cc678f0f21a0e50169893dca6d48468663d9783c7ff","features":{"default":["non_fixed","numeric_rw"],"non_fixed":[],"numeric_rw":[]},"yanked":false}
 {"name":"bin-utils","vers":"0.1.3","deps":[],"cksum":"2c8290129767315589e187b39efc630080c567d89eb79ac217e95d76be46fee0","features":{"default":["non_fixed","numeric_rw"],"non_fixed":[],"numeric_rw":["non_fixed"]},"yanked":false}
+{"name":"bin-utils","vers":"0.1.4","deps":[],"cksum":"1e6e86a99c0f6a95699dc3a01623cea15f790b4a689b2a0088cffbb8f8a5a53a","features":{"default":["non_fixed","numeric_rw"],"non_fixed":[],"numeric_rw":["non_fixed"]},"yanked":false}
