@@ -7,3 +7,4 @@
 {"name":"mc-sgx-util","vers":"0.5.0","deps":[],"cksum":"55a0b18acf823b97241400b5f5db60427e5448f99d911e86ddddf0212f3e7d08","features":{},"yanked":false,"rust_version":"1.62.1"}
 {"name":"mc-sgx-util","vers":"0.6.0","deps":[],"cksum":"6978a062c09ae3f2ad0cf41ba861a7c3c25f11a64aca08ea537eec007a468c88","features":{},"yanked":false,"rust_version":"1.62.1"}
 {"name":"mc-sgx-util","vers":"0.6.1","deps":[],"cksum":"d28a2b66d2a73f29ec5626b0ae0183f2535d1c741b7139f0c46d3f49d4877ec9","features":{},"yanked":false,"rust_version":"1.62.1"}
+{"name":"mc-sgx-util","vers":"0.7.0","deps":[],"cksum":"4be2b6aafa233df6bdbb27d46e4badd0de8347c9907081e6a2abfe24fd132455","features":{},"yanked":false,"rust_version":"1.62.1"}
