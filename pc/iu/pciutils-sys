@@ -1,0 +1,1 @@
+{"name":"pciutils-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.66.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5a6c0094ce3674774e15be1975ecde30185f3125ea403f10793bd00762e4afff","features":{},"yanked":false}
