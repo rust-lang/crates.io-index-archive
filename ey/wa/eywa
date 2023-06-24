@@ -10,3 +10,4 @@
 {"name":"eywa","vers":"0.1.3","deps":[],"cksum":"e97a5cd1296e98f88127dfa3395db62a958313657b1e0472050fc27d375f194d","features":{},"yanked":false}
 {"name":"eywa","vers":"0.1.4","deps":[],"cksum":"c1d39270e0dc60cb4211c5758a39c362ac7802e89f0a61329c7fc4f80864af04","features":{},"yanked":false}
 {"name":"eywa","vers":"0.1.5","deps":[{"name":"glob","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8864c733619f5f45e9a820cef10e522f83b563a628345d432bd6971097efab87","features":{},"yanked":false}
+{"name":"eywa","vers":"0.1.6","deps":[{"name":"glob","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"684d69fb6b29a7cc6a003d5c2697b1f3428de57c3eb2a1b14b5a9b0dfb280751","features":{},"yanked":false}
