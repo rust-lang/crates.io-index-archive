@@ -2,3 +2,4 @@
 {"name":"schematic_types","vers":"0.2.1","deps":[],"cksum":"f62e52cef3aa35e5a46ce3478ac10b63c331c62e85a05dabdaa1f0d246029ecc","features":{},"yanked":false}
 {"name":"schematic_types","vers":"0.2.2","deps":[],"cksum":"ebebbdda685190566e5d0f23356c7db8b4269f2b001435a267da691412c9fbd8","features":{},"yanked":false}
 {"name":"schematic_types","vers":"0.2.3","deps":[],"cksum":"6f01d37c54024d0a166f8d8413d91086303f13373375aca3ac505faf1a20ff83","features":{},"yanked":false}
+{"name":"schematic_types","vers":"0.3.0","deps":[{"name":"chrono","req":"^0.4.26","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.8.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"700162171848eb2de7e1b0522e696b6618d322fc342cff8f669f70212f6137ad","features":{"default":[]},"features2":{"chrono":["dep:chrono"],"regex":["dep:regex"]},"yanked":false,"v":2}
