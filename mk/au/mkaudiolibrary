@@ -1,0 +1,1 @@
+{"name":"mkaudiolibrary","vers":"0.1.0","deps":[{"name":"libloading","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d08829d9c1c56fd94c1663b7c45b6130204e0bda4dd6887a37bf9fb2b4949282","features":{},"yanked":false}
