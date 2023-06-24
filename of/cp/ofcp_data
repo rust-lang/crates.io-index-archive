@@ -22,4 +22,4 @@
 {"name":"ofcp_data","vers":"0.17.1","deps":[],"cksum":"69861fcd6c17b38ac0e01d93bc9803aaacca5cb17934bf8bbea943d4c8498eaf","features":{},"yanked":false}
 {"name":"ofcp_data","vers":"0.17.2","deps":[],"cksum":"afeffd34aa6e937a2874aac726873454092240a8fe107d2fa6f11b4641ecbd5f","features":{},"yanked":false}
 {"name":"ofcp_data","vers":"0.17.3","deps":[],"cksum":"4000f6c6b139ca1679b21d34772b48a9267f022ea06e96390dfc83c13f089ff7","features":{},"yanked":false}
-{"name":"ofcp_data","vers":"0.18.0","deps":[],"cksum":"0d58842fa9d1070aab12c03a4829e68d3a16b1cd74bbcd4ce5cae9e5d1d06963","features":{},"yanked":false}
+{"name":"ofcp_data","vers":"0.18.0","deps":[],"cksum":"0d58842fa9d1070aab12c03a4829e68d3a16b1cd74bbcd4ce5cae9e5d1d06963","features":{},"yanked":true}
