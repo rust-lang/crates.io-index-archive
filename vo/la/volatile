@@ -17,3 +17,4 @@
 {"name":"volatile","vers":"0.4.4","deps":[],"cksum":"e4c2dbd44eb8b53973357e6e207e370f0c1059990df850aca1eca8947cf464f0","features":{"unstable":[]},"yanked":false}
 {"name":"volatile","vers":"0.4.5","deps":[],"cksum":"e3ca98349dda8a60ae74e04fd90c7fb4d6a4fbe01e6d3be095478aa0b76f6c0c","features":{"unstable":[]},"yanked":false}
 {"name":"volatile","vers":"0.4.6","deps":[],"cksum":"442887c63f2c839b346c192d047a7c87e73d0689c9157b00b53dcc27dd5ea793","features":{"unstable":[]},"yanked":false}
+{"name":"volatile","vers":"0.5.0","deps":[{"name":"rand","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"95ec76e05f58350856be704831e7429074a6fcd1469d9468b598669a097fc31e","features":{"unstable":[],"very_unstable":["unstable"]},"yanked":false}
