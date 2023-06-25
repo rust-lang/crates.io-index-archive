@@ -25,3 +25,4 @@
 {"name":"ofcp_data","vers":"0.18.0","deps":[],"cksum":"0d58842fa9d1070aab12c03a4829e68d3a16b1cd74bbcd4ce5cae9e5d1d06963","features":{},"yanked":true}
 {"name":"ofcp_data","vers":"0.17.4","deps":[],"cksum":"9adfbebf608c6589684d819a39e1390e88fc72ce57fb2d615df838c2073283b1","features":{},"yanked":false}
 {"name":"ofcp_data","vers":"0.19.0","deps":[],"cksum":"c5bea00d586693bebbbc9364f5db6b5f5c8b54dbe7e9534861e69f7a702c65d1","features":{},"yanked":false}
+{"name":"ofcp_data","vers":"0.20.0","deps":[],"cksum":"c740f39a48562b4468b262095b1c7f5d2a773911170e68c1ed0ef2c814325b29","features":{},"yanked":false}
