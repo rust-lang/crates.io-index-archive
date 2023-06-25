@@ -9,3 +9,4 @@
 {"name":"thunderdome","vers":"0.5.0","deps":[],"cksum":"96a9a179aa66a1c46d9826574a90db167331aa4613d504de6dfdf1cec795c56b","features":{},"yanked":false}
 {"name":"thunderdome","vers":"0.5.1","deps":[],"cksum":"8d6b9fe17d23b75b530ce4e6bbd73adb5aa7bbab59ac1c4166224029094c31f5","features":{},"yanked":false}
 {"name":"thunderdome","vers":"0.6.0","deps":[],"cksum":"6622a25a2ebb440f5de09ab4aa507c3a539f77c891d1dfc95a52c35fd58a5621","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"thunderdome","vers":"0.6.1","deps":[],"cksum":"92e170f93360bf9ae6fe3c31116bbf27adb1d054cedd6bc3d7857e34f2d98d0b","features":{"default":["std"],"std":[]},"yanked":false}
