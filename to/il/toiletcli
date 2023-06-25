@@ -10,3 +10,4 @@
 {"name":"toiletcli","vers":"0.2.1","deps":[],"cksum":"530c8a59d916027d325dac031ee6fe51b333bd01fc2b05ece052c666f28d653e","features":{"mock_colors":[]},"yanked":false}
 {"name":"toiletcli","vers":"0.2.3","deps":[],"cksum":"785118e341fb3195f146f32766cc3cf623e845c470e44311330a9820f5ceea76","features":{"colors":[],"default":["colors","flags"],"flags":[],"mock_colors":[]},"yanked":false}
 {"name":"toiletcli","vers":"0.4.0","deps":[],"cksum":"2884692e746325acee6605ad380d64551aba99ced66bbf799af86b005c124cdc","features":{"default":[]},"yanked":false}
+{"name":"toiletcli","vers":"0.4.1","deps":[],"cksum":"1df303940ab1e260615e9842533a4941b79587a85f60bb5480d4d77a35c9aa8e","features":{"default":[]},"yanked":false}
