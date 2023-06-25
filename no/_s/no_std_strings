@@ -1,0 +1,1 @@
+{"name":"no_std_strings","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08826a3a43a0e586cece19ecfccdb5fc17b167c23e3c512f010d7d0fbdf8af5c","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
