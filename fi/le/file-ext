@@ -9,3 +9,4 @@
 {"name":"file-ext","vers":"9.0.3","deps":[],"cksum":"69b1fd2a427ec2927ff44e2afee5c3198e247ab22a0d0ad72542209bbca53d8a","features":{},"yanked":false,"rust_version":"1.66"}
 {"name":"file-ext","vers":"10.0.0","deps":[],"cksum":"348a2a0905871744c15adf18870d9d65ee912aa16ec7b8111a4cf9d574f01182","features":{},"yanked":false,"rust_version":"1.68"}
 {"name":"file-ext","vers":"11.0.0","deps":[],"cksum":"8ed25c8ba94e43d7fcbf8190f63431455f566f435a617bd41d032d9d0564c360","features":{},"yanked":false}
+{"name":"file-ext","vers":"12.0.0","deps":[],"cksum":"311de60fc9d3d5d99e74fed71ac20340d14c2653b01d3c60a15603b0c0c342cd","features":{},"yanked":false}
