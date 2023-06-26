@@ -1,1 +1,2 @@
 {"name":"bwrap","vers":"0.1.0-beta1","deps":[{"name":"unicode-width","req":"^0.1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9df210e10d15fe2041762d8985a56bc863dea9ca890b0792def4a6d9f89f37e","features":{"use_std":[]},"yanked":false}
+{"name":"bwrap","vers":"0.1.0-beta2","deps":[{"name":"unicode-width","req":"^0.1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ef86def6b0f3782d265e47145eea8dd5b486d495b6ae90fe5e37f1b014c7497","features":{"use_std":[]},"yanked":false}
