@@ -1,1 +1,2 @@
 {"name":"bsatoollib","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.40","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b551c3ae8b208e530ccf1891ddd5ae21a41ff1e1bc658f5b1684401da54ec58","features":{},"yanked":false}
+{"name":"bsatoollib","vers":"0.2.0","deps":[{"name":"thiserror","req":"^1.0.40","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e01cde1c1b11d4d6e16d9fe9ea1de5cc5168977743fbc4e1fab75bba2b70ac35","features":{},"yanked":false}
