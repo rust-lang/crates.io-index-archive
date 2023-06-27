@@ -4,3 +4,4 @@
 {"name":"mueue","vers":"0.2.0","deps":[],"cksum":"b98dd4435b237198f39a67375f4868394b6a9a8845e68a09699f1589a28d20a1","features":{},"yanked":false}
 {"name":"mueue","vers":"0.2.1","deps":[{"name":"crossbeam-channel","req":"^0.5.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc383d8bc542ff16fd0b163771c88e100e46b7a426717197fc1cd49009ea8c11","features":{},"yanked":false}
 {"name":"mueue","vers":"0.2.2","deps":[{"name":"crossbeam-channel","req":"^0.5.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d89ed1f3340e2ff8ff834dc4f1bd9fcbc78f96d0fb202ded914204b83056bee9","features":{},"yanked":false}
+{"name":"mueue","vers":"0.2.3","deps":[{"name":"crossbeam-channel","req":"^0.5.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3548699821ad6334755e1bfa4d8eba6ad5b79302cd89da1f7463678d2e2f46e9","features":{},"yanked":false}
