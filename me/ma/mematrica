@@ -1,1 +1,2 @@
 {"name":"mematrica","vers":"0.1.0","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89d583489365f68525aee4a1b8a948c854a46c65293558372e854bb7cdd37aba","features":{},"yanked":false}
+{"name":"mematrica","vers":"0.1.1","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f8e778d83f1fee99c01804f1a29c8a35094cdc1c56958dbd18364c8e6c0e63a","features":{},"yanked":false}
