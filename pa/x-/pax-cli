@@ -1,1 +1,2 @@
 {"name":"pax-cli","vers":"0.1.0","deps":[],"cksum":"f3a468ca03cba8cae6bb316e608c19c9bc462f5b2790a55fbf07337588ac32a8","features":{},"yanked":false}
+{"name":"pax-cli","vers":"0.5.8","deps":[{"name":"clap","req":"^2.33.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pax-compiler","req":"^0.5.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4666b00e1036d574c7431012ace689ec3e2f8ab4e22c6ce398469c60a72b66a7","features":{},"yanked":false}
