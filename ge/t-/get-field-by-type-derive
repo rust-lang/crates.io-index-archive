@@ -1,0 +1,1 @@
+{"name":"get-field-by-type-derive","vers":"0.0.1","deps":[{"name":"syn-helpers","req":"^0.4.3","features":["syn-extra-traits"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"956cd14f3ef7a9ba815d17fef0b59af260d9480b52c3b48cf5740f6f98843eb3","features":{},"yanked":false}
