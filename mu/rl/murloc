@@ -1,1 +1,2 @@
 {"name":"murloc","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34c46576e45957401fb789a979e0b18ffdabc6fd368ede2a0150bce91124ff2f","features":{},"yanked":false}
+{"name":"murloc","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a12eff61a9007b9204b0bd98c25d122768b9624b3161860af9f2ba8f3fae6189","features":{},"yanked":false}
