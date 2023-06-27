@@ -1,0 +1,1 @@
+{"name":"snitch-protos","vers":"0.0.4","deps":[{"name":"protobuf","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90b688b253c215409b4856380dc8d92473f85dbd47457a6400af40adfcfcd8f2","features":{},"yanked":false}
