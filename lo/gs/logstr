@@ -1,1 +1,2 @@
 {"name":"logstr","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"929911a8fa9bd0736724462ec4be8ad6bda2a74596786333b49ab32f841ca15f","features":{},"yanked":false}
+{"name":"logstr","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e48815f46d62a171165651790ea68596729b37f805a3b50cdadd0202df2647dd","features":{},"yanked":false}
