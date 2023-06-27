@@ -3,3 +3,4 @@
 {"name":"piece","vers":"0.1.2","deps":[],"cksum":"cb0bf31dec82162fcfd098ff29c8cba23554862e9461a4935e841d2ad956ede8","features":{},"yanked":false}
 {"name":"piece","vers":"0.1.3","deps":[],"cksum":"8e3a1d74683424769106ab451f8785111077b0fec7a2be3283edd9119dd8f9bf","features":{},"yanked":false}
 {"name":"piece","vers":"0.2.0","deps":[],"cksum":"449b1eab2d1ccb888cba0735293b99384288df67dc0b7aa89feb9aa5255b7b87","features":{},"yanked":false}
+{"name":"piece","vers":"0.2.1","deps":[{"name":"allocator-api2","req":"^0.2.15","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"98414f38d7b4739b5fe02e7ac6060b2bb79422e3d4852ad293b769644682b826","features":{"all":["vec","boxed"],"default":[],"stable":["allocator-api2"]},"features2":{"boxed":["allocator-api2?/alloc"],"vec":["allocator-api2?/alloc"]},"yanked":false,"v":2}
