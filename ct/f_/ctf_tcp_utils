@@ -1,0 +1,1 @@
+{"name":"ctf_tcp_utils","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3203eb9ad739093f4450a3e0f0a527e9fb5c662c01aa0e2e793c18d20092d6b","features":{},"yanked":false}
