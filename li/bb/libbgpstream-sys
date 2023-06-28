@@ -1,1 +1,2 @@
 {"name":"libbgpstream-sys","vers":"0.0.1","deps":[],"cksum":"ceb0029b94a38b7c9d3afb34bf83dadb8274e947215823f5e7e5b1cced7cc27e","features":{},"yanked":false}
+{"name":"libbgpstream-sys","vers":"0.1.0","deps":[{"name":"autotools","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"bindgen","req":"^0.65.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"42490c657f8ccb0fb31bbee8c2a610429605121a31fc9e72f03a4223903fc71c","features":{},"yanked":false}
