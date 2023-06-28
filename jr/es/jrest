@@ -1,1 +1,2 @@
 {"name":"jrest","vers":"0.1.0","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"54dcf0205ef79b00dfa309bce3738f2bc7efb1f62be15bf2d371235b480f5ca0","features":{},"yanked":false,"rust_version":"1.70.0"}
+{"name":"jrest","vers":"0.1.1","deps":[{"name":"num","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae59431b2fb8d4b125ccc590c08474647ead42084b5b0f1f76fb3c2e64ded17a","features":{},"yanked":false,"rust_version":"1.70.0"}
