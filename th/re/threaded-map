@@ -1,0 +1,1 @@
+{"name":"threaded-map","vers":"0.1.0","deps":[{"name":"threadpool","req":"^1.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40faf4a281ed05302b7d8bf5096855ad67659f940442379a76fb91c9ac309f10","features":{},"yanked":false}
