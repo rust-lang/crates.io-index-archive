@@ -1,0 +1,1 @@
+{"name":"exclusion-set","vers":"0.1.0","deps":[{"name":"loom","req":"^0.5.6","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"normal"}],"cksum":"cec88d7e52329cdb43be36a0fa96cb95e3e4ca9652902020bfa4585ff5e3d08e","features":{"default":[],"std":[]},"yanked":false}
