@@ -1,0 +1,1 @@
+{"name":"videostream","vers":"0.1.0","deps":[{"name":"videostream-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b67d397a9b602beb8bd4813fc88f1e09b86e42f0dc4a65e134ad2ca87d3934e","features":{},"yanked":false}
