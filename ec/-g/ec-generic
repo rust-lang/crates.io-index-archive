@@ -1,0 +1,1 @@
+{"name":"ec-generic","vers":"0.1.0","deps":[{"name":"num-bigint","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccad904af42334ebd2cefbd5fddcac7d05f356116c80a3b24b216ff04bde03bc","features":{},"yanked":false}
