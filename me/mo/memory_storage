@@ -1,1 +1,2 @@
 {"name":"memory_storage","vers":"0.9.0","deps":[],"cksum":"fe2eccaecf8c05d37aab7810bfe2940c67c18c6b016450c30cb3ab2c51029894","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"memory_storage","vers":"0.9.1","deps":[],"cksum":"4789e69335daebcd2c4d037edfac46b7a9a7b8302c2b6660035ff43565011630","features":{"alloc":[],"default":["alloc"]},"yanked":false}
