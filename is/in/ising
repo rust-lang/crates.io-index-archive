@@ -1,0 +1,1 @@
+{"name":"ising","vers":"0.2.1","deps":[{"name":"rand","req":"^0.8.5","features":["std","small_rng"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"94aac39ee17fcc4610abbd8cbd3aa71d42bc398f22ec7ee357b08a5340a56587","features":{},"yanked":false}
