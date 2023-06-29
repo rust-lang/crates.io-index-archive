@@ -1,0 +1,1 @@
+{"name":"easy-cp","vers":"0.1.0","deps":[{"name":"clap","req":"^4.2.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"faccd731fe06b31bd5669be6b6116c4b3a2da2ddf0dce67a405ddb3729d3f258","features":{},"yanked":false}
