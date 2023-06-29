@@ -1,0 +1,1 @@
+{"name":"videostream-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70035feeac22ba612c4a308a480f34e8fe87539c73ad773dbb7f4f6a839b4cac","features":{},"yanked":false}
