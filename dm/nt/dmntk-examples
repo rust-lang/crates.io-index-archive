@@ -28,3 +28,4 @@
 {"name":"dmntk-examples","vers":"0.1.2","deps":[],"cksum":"77970ecca5dbd7d29b3c06263908f2de6cb40e581985fcfdea9de36e142c07de","features":{},"yanked":false}
 {"name":"dmntk-examples","vers":"0.2.0","deps":[],"cksum":"25b3a7e08476f2de85c17ca3d72cbd22bf56f943849d16c2846fcb853e7444aa","features":{},"yanked":false}
 {"name":"dmntk-examples","vers":"0.2.5","deps":[{"name":"walkdir","req":"^2.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"af5d359f0702195cab35f9fa68b64b672cc6f583d8b5e6a70bc63cdb335b5d9b","features":{},"yanked":false}
+{"name":"dmntk-examples","vers":"0.3.0","deps":[{"name":"walkdir","req":"^2.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d31a4b6450c61cb488d8f0fbd5d679ecb191aa74c50077ab0872f0391f5fbfa1","features":{},"yanked":false}
