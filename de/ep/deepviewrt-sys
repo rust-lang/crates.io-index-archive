@@ -1,0 +1,1 @@
+{"name":"deepviewrt-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5087f176d87de35621ded5307024c3fca998360e9638122c53c93289e1b911dc","features":{},"yanked":false}
