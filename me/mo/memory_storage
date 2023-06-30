@@ -3,3 +3,4 @@
 {"name":"memory_storage","vers":"0.9.2","deps":[],"cksum":"f87e04a1df54aca9e6a2662a27448204a66ca4c13ca0fca1f1934173e234b447","features":{"alloc":[],"default":["alloc"]},"yanked":false}
 {"name":"memory_storage","vers":"0.9.21","deps":[],"cksum":"40d6cc1ebbd8e08e6e0e8af220e70597e63a81f893ead7001e628bcae1841999","features":{"alloc":[],"default":["alloc"]},"yanked":false}
 {"name":"memory_storage","vers":"0.9.22","deps":[],"cksum":"6dab7af5317eef1a27587d6e231156ca67055bead63980943eb512f818b60d23","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"memory_storage","vers":"0.9.23","deps":[],"cksum":"28238090221e35b43f3763726640fb94cf3bf22ebc387b7b161f6120d287a745","features":{"alloc":[],"default":["alloc"]},"yanked":false}
