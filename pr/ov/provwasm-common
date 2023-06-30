@@ -1,0 +1,1 @@
+{"name":"provwasm-common","vers":"0.1.0-rc1","deps":[{"name":"cosmwasm-std","req":"^1.2.5","features":["stargate"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed894f8af9c86dd6d8af04ada480529f759574ab617d125c4667956c27a7e001","features":{},"yanked":false}

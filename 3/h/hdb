@@ -1,0 +1,2 @@
+{"name":"hdb","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9df1d68b8bbd49bbffb5b0bf77679d1c321c0b58135c3d128c5c7dab764e468d","features":{},"yanked":false}
+{"name":"hdb","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4739ac9d4033091bdf7ba0ca0fa8ae3dcb477b02ded9385aa898eba102985088","features":{},"yanked":false}

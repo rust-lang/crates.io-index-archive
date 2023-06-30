@@ -1,0 +1,1 @@
+{"name":"std-shims","vers":"0.1.0","deps":[{"name":"hashbrown","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"799256f35dca5ca036418fee8492b83cb4d971eaff800a89e88c400448635202","features":{"default":["std"],"std":[]},"yanked":false}

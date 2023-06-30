@@ -1,0 +1,1 @@
+{"name":"sqlx-transparent-json-decode","vers":"1.0.0","deps":[{"name":"sqlx","req":"^0.6.3","features":["postgres"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"12e4e61b29862e6f5cec21678fffc5d4d873c2a3b1b82b5b2eb3bbe59f0b8d42","features":{},"yanked":false}

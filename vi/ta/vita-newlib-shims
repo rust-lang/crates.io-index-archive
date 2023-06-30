@@ -1,0 +1,1 @@
+{"name":"vita-newlib-shims","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.144","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e83302d85c7da7385b078c0b8a1d1e1e0368d5d86b5b155f8280004d4ee2b243","features":{},"yanked":false}

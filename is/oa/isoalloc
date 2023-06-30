@@ -1,0 +1,2 @@
+{"name":"isoalloc","vers":"0.1.0","deps":[{"name":"libisoalloc-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a08a07ff6e059649acf4560611b88332bcf871ad3e3ebcd0d9eb565cdc1ed13","features":{},"yanked":false}
+{"name":"isoalloc","vers":"0.2.0","deps":[{"name":"libisoalloc-sys","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f4148338353dbf2fd608d7e8800ecee98a979b7ba61857a14e3c5f95943072d","features":{},"yanked":false}

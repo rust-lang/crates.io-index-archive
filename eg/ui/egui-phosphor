@@ -1,0 +1,2 @@
+{"name":"egui-phosphor","vers":"0.1.0","deps":[{"name":"egui","req":"^0.21","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"fb1c01d08372b4b7d05ed15ace0e03124cf8df97be75103ee783965c71fb82ba","features":{},"yanked":false}
+{"name":"egui-phosphor","vers":"0.1.1","deps":[{"name":"egui","req":"^0.22","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"63aae68e31b994955bafd3dbc9e82b0a92f5363e91c28246d79b8b8c1ff73a9f","features":{},"yanked":false}

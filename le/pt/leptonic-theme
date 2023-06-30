@@ -1,0 +1,1 @@
+{"name":"leptonic-theme","vers":"0.0.1","deps":[{"name":"include_dir","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3c2c0ff749ab599eda3f3d1548aa358f3c65ac94dc91ecc2452266d8d6ec21d","features":{},"yanked":false,"rust_version":"1.56"}

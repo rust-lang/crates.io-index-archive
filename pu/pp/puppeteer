@@ -1,0 +1,1 @@
+{"name":"puppeteer","vers":"0.2.0-alpha1","deps":[{"name":"wry","req":"^0.27.3","features":["linux-headers"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b8d2434a20216507b56c77c58a1826a98429e4e65961d678e8e1dd49370405b","features":{},"yanked":false}

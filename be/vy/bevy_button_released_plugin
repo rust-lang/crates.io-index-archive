@@ -1,0 +1,1 @@
+{"name":"bevy_button_released_plugin","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.10.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ae1f9bbd1def58dd5b43aac7b049abf79880ae99afe1995fc113919094b7df6","features":{},"yanked":false}

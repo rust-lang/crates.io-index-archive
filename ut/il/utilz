@@ -1,0 +1,1 @@
+{"name":"utilz","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e85afe72518d27195c063955d032d6e3ba1870ee19b5707a3058972e737d54f6","features":{},"yanked":false}

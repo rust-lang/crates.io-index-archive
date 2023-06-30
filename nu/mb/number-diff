@@ -1,0 +1,1 @@
+{"name":"number-diff","vers":"0.1.0","deps":[{"name":"itertools","req":"^0.10.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"406ba0b3eb2770bc6bf6d0224a17035164be34cdc4ed8cad5e7d2e8804c260db","features":{"default":[],"nightly":[]},"yanked":false}

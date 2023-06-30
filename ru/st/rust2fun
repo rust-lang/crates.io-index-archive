@@ -1,0 +1,1 @@
+{"name":"rust2fun","vers":"0.1.0","deps":[{"name":"rust2fun_macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"428bf85301e8e33fa4753a34dc6be4dc4d47ab8a711a42c3c4de8c7b6ad21cdf","features":{"default":["std"],"std":[]},"yanked":false}

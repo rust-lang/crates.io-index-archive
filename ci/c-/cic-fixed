@@ -1,0 +1,1 @@
+{"name":"cic-fixed","vers":"0.4.0","deps":[{"name":"criterion","req":"^0.4","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4d23239200c2f8064afc81bde4eb29ec6155fd7008b70741ae0352a337a15eb4","features":{},"yanked":false,"rust_version":"1.68.2"}

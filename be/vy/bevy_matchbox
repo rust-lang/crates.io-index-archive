@@ -1,0 +1,2 @@
+{"name":"bevy_matchbox","vers":"0.0.1","deps":[],"cksum":"f82b46fb3eef8702549abe4aa0030f4039f1d88c675413b150a7702e3b18515e","features":{},"yanked":false}
+{"name":"bevy_matchbox","vers":"0.6.0","deps":[{"name":"bevy","req":"^0.10","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"},{"name":"matchbox_socket","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4df9767dccb33996f9539734fbf85f2b06ea337bc7c9019a531d6f432215661d","features":{"ggrs":["matchbox_socket/ggrs"]},"yanked":false}

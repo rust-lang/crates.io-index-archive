@@ -1,0 +1,2 @@
+{"name":"notify-future","vers":"0.1.0","deps":[{"name":"async-std","req":"^1.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d33e913a3639fef6244c0905b90d44c9f248a98ebcac9c322ef8259e556394c3","features":{},"yanked":false}
+{"name":"notify-future","vers":"0.1.1","deps":[{"name":"async-std","req":"^1.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9618126002b764395c435c06441fb4be45be5e78e46d70f46f3487fdb06b7939","features":{},"yanked":false}

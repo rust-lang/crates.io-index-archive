@@ -1,0 +1,1 @@
+{"name":"ezno-parser-visitable-derive","vers":"0.0.1","deps":[{"name":"syn-helpers","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46f0c41650c14286007476bc7b44081f243e11fcff786fb664e5294f861f311f","features":{},"yanked":false}

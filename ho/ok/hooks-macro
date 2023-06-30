@@ -1,0 +1,2 @@
+{"name":"hooks-macro","vers":"0.1.0","deps":[{"name":"hooks-macro-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9acb0b49ae5f252aec1dcbc18f47d8e7a0827ecc18bd5790f81fb5302bd2af42","features":{},"yanked":false}
+{"name":"hooks-macro","vers":"0.1.1","deps":[{"name":"hooks-macro-core","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"703516ce19ed1ec64cc66e1fd8d2b5e9b8ac95dbaba38d36857119a3b42b10f0","features":{},"yanked":false}

@@ -1,0 +1,2 @@
+{"name":"gpt-partition","vers":"0.1.0","deps":[{"name":"gpt","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"715d9978db67a9379918b3416fa8c99486f5db6eda724e9d6bc39480dc16cd49","features":{},"yanked":false}
+{"name":"gpt-partition","vers":"0.1.1","deps":[{"name":"gpt","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e57c0acecda02f9b583723d4d7534704a4645f05be734d714943d5586c5d747","features":{},"yanked":false}

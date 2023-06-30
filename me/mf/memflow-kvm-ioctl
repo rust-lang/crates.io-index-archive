@@ -1,0 +1,2 @@
+{"name":"memflow-kvm-ioctl","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.53.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6f899379e64c031771b77358c32d4e3ed49534a609662e06c45b6af231adecf7","features":{},"yanked":false}
+{"name":"memflow-kvm-ioctl","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.64.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2a72b4ef1e71db7d606013af6567e281766bf0cd7ec15d3dc4635be87e2b5560","features":{},"yanked":false}

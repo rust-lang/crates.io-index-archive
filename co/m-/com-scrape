@@ -1,0 +1,1 @@
+{"name":"com-scrape","vers":"0.1.0","deps":[{"name":"clang-sys","req":"^1","features":["clang_6_0","runtime"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb3810131c617ff81819413d55b85720a0476ff445b8b4a6b239ec50e95b8bf0","features":{},"yanked":false}

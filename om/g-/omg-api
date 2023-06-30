@@ -1,0 +1,2 @@
+{"name":"omg-api","vers":"0.0.0","deps":[],"cksum":"602dd7768f9f821e0e898a9c1994d2d09115488428dbd6d5f5ef7424afaaeec7","features":{},"yanked":false}
+{"name":"omg-api","vers":"0.1.0","deps":[{"name":"clap","req":"^4.2.7","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"527a29deae2d37f086a8c61ccf286ace8b74c980941518b25be9148faabb0a58","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"leptos-tiptap-build","vers":"0.1.0","deps":[{"name":"phf","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bdea6092bf745ac7d090e026f0896c3e5793c2a32c3362a6685c2c0ca70bdbb0","features":{},"yanked":false,"rust_version":"1.70"}

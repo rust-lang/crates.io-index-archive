@@ -1,0 +1,1 @@
+{"name":"wine-rs","vers":"0.0.1","deps":[{"name":"wine-macro","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b1beede836a39fd583a85a2ebe0f72edfdb0fdee9229d74058a10f4a0981dad","features":{},"yanked":false}

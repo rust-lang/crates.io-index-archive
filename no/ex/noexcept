@@ -1,0 +1,1 @@
+{"name":"noexcept","vers":"0.0.1","deps":[{"name":"noexcept-impl","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4abb999ef4e7876669ac8390146a0a5c5625e344b7029dcfd9921a73cc9da584","features":{},"yanked":false}

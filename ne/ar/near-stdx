@@ -1,0 +1,4 @@
+{"name":"near-stdx","vers":"0.15.0","deps":[],"cksum":"f62a31e4a368d3a57f1b4accbaca1a552d35788db7c710c26a5bb24262919cd7","features":{},"yanked":false,"rust_version":"1.65.0"}
+{"name":"near-stdx","vers":"0.16.0","deps":[],"cksum":"6c05ded9a90c087aaebfafdf01f2801f5d31817f9a3514ce09aed270001d650e","features":{},"yanked":false,"rust_version":"1.67.1"}
+{"name":"near-stdx","vers":"0.16.1","deps":[],"cksum":"bc1279be274b9a49c2cb4b62541241a1ff6745cb77ca81ece7f949cfbc229bff","features":{},"yanked":false,"rust_version":"1.68.0"}
+{"name":"near-stdx","vers":"0.17.0","deps":[],"cksum":"6540152fba5e96fe5d575b79e8cd244cf2add747bb01362426bdc069bc3a23bc","features":{},"yanked":false,"rust_version":"1.69.0"}

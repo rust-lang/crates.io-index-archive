@@ -1,0 +1,1 @@
+{"name":"buildlog-consultant","vers":"0.0.33","deps":[{"name":"pyo3","req":"^0.18","features":["auto-initialize"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5f1fcff09337c23695f5d540a8aeec58290651f6c1904869ce87b67811ba700","features":{},"yanked":false}

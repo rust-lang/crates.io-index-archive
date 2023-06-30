@@ -1,0 +1,2 @@
+{"name":"debian-control","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd5c54fb80f21a9e05e24502e055327f3015fe2496a8188995ac0befaf3c7033","features":{},"yanked":false}
+{"name":"debian-control","vers":"0.1.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a924e8df919623e55a46e9b03a90277efbab17a205f927d8eb3d5477e12b3983","features":{},"yanked":false}

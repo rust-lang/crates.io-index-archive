@@ -1,0 +1,1 @@
+{"name":"silver-platter","vers":"0.5.7","deps":[{"name":"pyo3","req":"^0.18","features":["auto-initialize"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7fe97dfad7b61409e9fb5945526c1d80f90b93109a70a8f20781c78eee9496fc","features":{},"yanked":false}

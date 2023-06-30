@@ -1,0 +1,1 @@
+{"name":"ringbuf-blocking","vers":"0.1.0-rc.0","deps":[{"name":"ringbuf","req":"^0.4.0-rc.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"975637e255bbee145144597d8598e5fd984c15e9caafe7833701bdd439e061b2","features":{"alloc":["ringbuf/alloc"],"default":["std"],"std":["ringbuf/std","alloc"]},"yanked":false}

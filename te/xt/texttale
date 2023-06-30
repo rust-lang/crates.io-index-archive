@@ -1,0 +1,1 @@
+{"name":"texttale","vers":"0.1.0","deps":[{"name":"rustyline","req":"^11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6db3c81e3c6c165119e6ce71bb0c8fb56ce194cc22b57f8aa47f5c52230ea9db","features":{},"yanked":false}

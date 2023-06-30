@@ -1,0 +1,2 @@
+{"name":"rusty_oge","vers":"1.0.0","deps":[{"name":"regex","req":"^1.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90d2436930d54a81cb0dcb99f3f2064514653b633c64e68ea29e91f095ef88bf","features":{},"yanked":false}
+{"name":"rusty_oge","vers":"1.0.1","deps":[{"name":"regex","req":"^1.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37de6de9c320712250cbf641a289844e04571bafc59608f7383d7158e8487e01","features":{},"yanked":false}

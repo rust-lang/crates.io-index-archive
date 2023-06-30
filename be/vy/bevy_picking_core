@@ -1,0 +1,1 @@
+{"name":"bevy_picking_core","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.10","features":["bevy_render","bevy_ui","bevy_asset"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ce51af210395ad182b5ddc27375b660d68f105a9e279a887446d593b85299be2","features":{},"yanked":false}

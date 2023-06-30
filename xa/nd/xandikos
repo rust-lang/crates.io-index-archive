@@ -1,0 +1,1 @@
+{"name":"xandikos","vers":"0.2.8","deps":[{"name":"pyo3","req":"^0.18","features":["auto-initialize"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6bce7b6e70effbd903e8c8c74d76c8566982cadb642de0a49fb203cdf180c6f","features":{},"yanked":false}

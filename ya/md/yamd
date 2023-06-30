@@ -1,0 +1,2 @@
+{"name":"yamd","vers":"0.1.0","deps":[{"name":"pretty_assertions","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"78baab5e31734d2ad1f465bfbc97317f35a9620538395d03861abfbda6d2065c","features":{},"yanked":false}
+{"name":"yamd","vers":"0.2.0","deps":[{"name":"pretty_assertions","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6fbbd1a685ac2fbb9d14380862f95f3eb4be3f33aeef4594725468b230981940","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"berryimu","vers":"0.1.0","deps":[{"name":"i2cdev","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"faa59460926ca9b4f078c36b40e37415cb3e2b527c3baa65bbb32f0bb4ad4c55","features":{},"yanked":false}

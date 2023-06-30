@@ -1,0 +1,1 @@
+{"name":"trecs_proc","vers":"0.1.0","deps":[{"name":"syn","req":"^2.0.18","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c037cd75d6c3ea871923ef367d29d7417a34e28aed0805a8c86e0449937d31d2","features":{"default":[],"system":[]},"yanked":false}

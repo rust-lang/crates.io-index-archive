@@ -1,0 +1,1 @@
+{"name":"wasmedge_rustls_api","vers":"0.1.0","deps":[{"name":"tokio_wasi","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1bb191f81eb35950fc89c4d309962c32f6221f7616c416e01248da55990b2cb","features":{"default":[],"tokio_async":["tokio_wasi"]},"yanked":false}

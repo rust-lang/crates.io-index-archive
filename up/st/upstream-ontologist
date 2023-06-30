@@ -1,0 +1,1 @@
+{"name":"upstream-ontologist","vers":"0.1.35","deps":[{"name":"pyo3","req":"^0.18","features":["auto-initialize"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d285b4b5488ce9fe0de34205dfbefa3fc3f961ad90bd0c5a46bedd9a1a97b329","features":{},"yanked":false}

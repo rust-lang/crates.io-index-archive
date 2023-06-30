@@ -1,0 +1,1 @@
+{"name":"pipebuf","vers":"0.2.0","deps":[],"cksum":"a0be285f3bc04ae75c66dba81c7cdd745a1d794ac0a0c4b15a7f661c4bf584bf","features":{"alloc":[],"default":["std"],"static":[],"std":[]},"yanked":false}
