@@ -8,3 +8,4 @@
 {"name":"emplacable","vers":"0.1.0-alpha.8","deps":[],"cksum":"ed23eb20af920b9032f8360d105b012dcf0b3a580e4296338f4594149b36e821","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":true}
 {"name":"emplacable","vers":"0.1.0-alpha.9","deps":[],"cksum":"4adbe3954a9c9351716d08344be9e83d385605ea6e0a12dbfa74921d0101ec36","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
 {"name":"emplacable","vers":"0.1.0-alpha.10","deps":[],"cksum":"e16f3b553dfddbf1ee711ce3cdce0f011b3ce82c876ddd1d2c5ec7639ccde3a9","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"emplacable","vers":"0.1.0-alpha.11","deps":[],"cksum":"81b5d89e3c1dcca7d4f7f666c2582621ae89b7b72e15b7a1d80da68d4a5e315e","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
