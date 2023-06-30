@@ -12,3 +12,4 @@
 {"name":"caret","vers":"0.3.2","deps":[],"cksum":"6901918bdec08a3442c1ee8cbaadc5b344138de35bbe3d4ddff248202f4f9e3d","features":{},"yanked":false,"rust_version":"1.60"}
 {"name":"caret","vers":"0.4.0","deps":[],"cksum":"92417b32de4583ac1a81231f2b149a46e2894bff82718460e6c6a157191a202f","features":{},"yanked":false,"rust_version":"1.65"}
 {"name":"caret","vers":"0.4.1","deps":[],"cksum":"69f929120996bb6fe9f243e440c2914eaf12da9e0fa45d847118098e59baced4","features":{"full":[]},"yanked":false,"rust_version":"1.65"}
+{"name":"caret","vers":"0.4.2","deps":[],"cksum":"a9ef419ce44623895dbd50f5035d9cf39c65f80922a6fb174f0fb8b40e16e88c","features":{"full":[]},"yanked":false,"rust_version":"1.65"}
