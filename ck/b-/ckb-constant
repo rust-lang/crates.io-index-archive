@@ -33,3 +33,4 @@
 {"name":"ckb-constant","vers":"0.111.0-rc4","deps":[],"cksum":"7192be5c3008c6cd256bec825eebb14bbe126e9b3ab146b3ddb3d451bb832f7c","features":{},"yanked":false}
 {"name":"ckb-constant","vers":"0.111.0-rc5","deps":[],"cksum":"45ad9ebd117b374a81513eaf2234b3cdf75589df538551ed69c94d9dc3c8d224","features":{},"yanked":false}
 {"name":"ckb-constant","vers":"0.111.0-rc6","deps":[],"cksum":"c0faae4fdb84b27c3efb2be30aed2b81782dcec367e68095966c9eabfe09f644","features":{},"yanked":false}
+{"name":"ckb-constant","vers":"0.111.0-rc7","deps":[],"cksum":"90b1793053fa7820724d11938c216f1eaac9279e01dfe25d2732b2f0affce645","features":{},"yanked":false}
