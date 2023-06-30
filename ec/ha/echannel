@@ -1,0 +1,1 @@
+{"name":"echannel","vers":"0.0.1","deps":[{"name":"async-channel","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9be41c80d1a7dbb34eaa1a65f3c875df19a95fe5fb1086b307c67fb72ed7cb93","features":{},"yanked":false}
