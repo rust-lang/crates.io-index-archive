@@ -1,0 +1,1 @@
+{"name":"rotated-grid","vers":"0.0.1","deps":[{"name":"opencv","req":"^0.82.1","features":["imgproc","imgcodecs","highgui"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"ba60cdc0c8931e76c5867794da7c1c719f140c265665ea552d62befe21543bea","features":{},"yanked":false,"rust_version":"1.56"}
