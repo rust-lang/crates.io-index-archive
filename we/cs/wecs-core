@@ -1,0 +1,1 @@
+{"name":"wecs-core","vers":"0.1.0","deps":[{"name":"wecs-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"848e75f33f4f2f085f099a4112739a2948b760bbcfd02a0a2e147cf0a70abfcc","features":{},"yanked":false}
