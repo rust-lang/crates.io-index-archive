@@ -1,2 +1,3 @@
 {"name":"toad-stem","vers":"0.1.0","deps":[],"cksum":"834a7cc46ed626b24dfb861d3de19cdd666fa945f5bd1b4d2d675551afef927c","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false}
 {"name":"toad-stem","vers":"1.0.0","deps":[],"cksum":"545c4518d04e14f13a64acc7113f55168b59d935ab60c1bd7c02945fd2872638","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":true}
+{"name":"toad-stem","vers":"1.0.0-beta.1","deps":[],"cksum":"8d5599ad8f0685a7b21b47763a7b5d0801d6f21c54ff781e4473f4f3fa573a0a","features":{"alloc":[],"default":["std"],"docs":[],"std":["alloc"],"test":[]},"yanked":false}
