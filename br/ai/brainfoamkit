@@ -1,0 +1,1 @@
+{"name":"brainfoamkit","vers":"1.0.0-alpha.1","deps":[{"name":"cursive","req":"^0.20.0","features":["crossterm-backend"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"41c2a4ac3bc150a4561d2182678cac04dc6efd5a4527952bd3171d575cd4f808","features":{},"yanked":false,"rust_version":"1.70.0"}
