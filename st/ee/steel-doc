@@ -1,0 +1,1 @@
+{"name":"steel-doc","vers":"0.2.0","deps":[{"name":"steel-core","req":"^0.2.0","features":["modules"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6013ead4ee3a8681f33f0baff48cd6e380736e6301d166a507ee6507e38e475a","features":{},"yanked":false}
