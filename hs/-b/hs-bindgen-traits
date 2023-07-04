@@ -11,3 +11,4 @@
 {"name":"hs-bindgen-traits","vers":"0.7.1","deps":[],"cksum":"8cf90dfae9a543103bd0ee30bc93854fa44efb49b18a5c3a56e1a48b79612282","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.64.0"}
 {"name":"hs-bindgen-traits","vers":"0.7.2","deps":[],"cksum":"0813a64dc83acebc431846dc9bdb9785dd1bd7aab7ace467e3af2402718c87b6","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.64.0"}
 {"name":"hs-bindgen-traits","vers":"0.8.0","deps":[],"cksum":"e92e839254ee5975299f64183e8346548c4ba5e4ee0253a05426891a6f135a6a","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.64.0"}
+{"name":"hs-bindgen-traits","vers":"0.9.0","deps":[],"cksum":"ac4ec8936241746802cfe99813764d0ab06f023a7350df3967e287be456f29fc","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.64.0"}
