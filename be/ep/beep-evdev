@@ -1,0 +1,1 @@
+{"name":"beep-evdev","vers":"0.1.0","deps":[{"name":"evdev","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95d37a86305409a5ebc25d1c09668be65f60d9b0e923b8db4c1ba9fcd16c5506","features":{},"yanked":false}
