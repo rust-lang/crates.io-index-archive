@@ -1,0 +1,1 @@
+{"name":"merkle-heapless","vers":"0.0.1","deps":[{"name":"mmr-macro","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56ed42fc755371a00dd9fcf1bd314c0663ecfc2a8a8c7f82ff7ce6b6cdfb35ee","features":{"mmr_macro":[]},"yanked":false}
