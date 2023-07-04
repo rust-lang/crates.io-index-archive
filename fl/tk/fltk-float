@@ -1,0 +1,1 @@
+{"name":"fltk-float","vers":"0.1.0","deps":[{"name":"fltk","req":"^1.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c76dc196a14084e1fb454bde40f66b87c6c48a68c2c263261c2f2e46af5e9ea","features":{"fltk-bundled":["fltk/fltk-bundled"],"static-msvcrt":["fltk/static-msvcrt"]},"yanked":false}
