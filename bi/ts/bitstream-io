@@ -24,3 +24,4 @@
 {"name":"bitstream-io","vers":"1.4.0","deps":[],"cksum":"c22a3887c886a667267306073fa8622f4c8ce0c94d38ea8a0605c9a8efa5bfa8","features":{},"yanked":false}
 {"name":"bitstream-io","vers":"1.5.0","deps":[],"cksum":"97d524fdb78bf6dc6d2dc4c02043e4b4962ede0a17ae3e13f0ed211a7eda5897","features":{},"yanked":false}
 {"name":"bitstream-io","vers":"1.6.0","deps":[],"cksum":"9d28070975aaf4ef1fd0bd1f29b739c06c2cdd9972e090617fb6dca3b2cb564e","features":{},"yanked":false}
+{"name":"bitstream-io","vers":"1.7.0","deps":[],"cksum":"82704769cb85a22df2c54d6bdd6a158b7931d256cf3248a07d6ecbe9d58b31d7","features":{},"yanked":false}
