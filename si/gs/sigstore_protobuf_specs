@@ -1,0 +1,1 @@
+{"name":"sigstore_protobuf_specs","vers":"0.1.0-rc.0","deps":[{"name":"protobuf","req":"^2.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94ee5035e59353ffa906fe192bc61b5de69d180ff665fe1247d1ff18348eee34","features":{},"yanked":false}
