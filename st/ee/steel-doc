@@ -1,1 +1,2 @@
 {"name":"steel-doc","vers":"0.2.0","deps":[{"name":"steel-core","req":"^0.2.0","features":["modules"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6013ead4ee3a8681f33f0baff48cd6e380736e6301d166a507ee6507e38e475a","features":{},"yanked":false}
+{"name":"steel-doc","vers":"0.3.0","deps":[{"name":"steel-core","req":"^0.3.0","features":["modules"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50c26c4f6e3b791d9acda5527eb0652468dfa89a1c00be8a171c1dc43f9a6cd4","features":{},"yanked":false}
