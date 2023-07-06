@@ -1,1 +1,2 @@
 {"name":"globe-rs","vers":"0.1.0","deps":[{"name":"float-cmp","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6fd233298de75f03c77038804d87de16e1dfc1c526187a0977a0f54032b47637","features":{},"yanked":false}
+{"name":"globe-rs","vers":"0.1.1","deps":[{"name":"float-cmp","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d1cd9c34f45c7819f68166af99cf4e7752eb93fbace7abd312b2192b40125bbc","features":{},"yanked":false}
