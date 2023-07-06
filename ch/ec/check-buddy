@@ -1,1 +1,2 @@
 {"name":"check-buddy","vers":"0.1.0","deps":[{"name":"check-buddy-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42a68179bd1835a9e6fca3e295492ca0ab7ead17b994935feccefaf3ebbdc167","features":{},"yanked":false}
+{"name":"check-buddy","vers":"0.2.0","deps":[{"name":"check-buddy-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59db586618f9edf230af2777e6d24c545c983266c0916d70ee1b41ec2e347085","features":{},"yanked":false}
