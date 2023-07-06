@@ -1,0 +1,1 @@
+{"name":"i18n_provider-rizzen-yazston","vers":"0.6.1","deps":[{"name":"i18n_utility-rizzen-yazston","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ead993abec62349a132fabf8df76e398e095b5680f8db9bd0551348f7257d39e","features":{},"yanked":false,"rust_version":"1.70.0"}
