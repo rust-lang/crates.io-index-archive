@@ -8,3 +8,4 @@
 {"name":"simple_http_parser","vers":"0.3.1","deps":[],"cksum":"50210f9bfe60c19b9ce37c6a29912144d9843c68ada7201fc1007800ff08a5ea","features":{},"yanked":false}
 {"name":"simple_http_parser","vers":"0.3.2","deps":[],"cksum":"470db8f66662d39967792b8c4e1ebc4077a568ec706df03934c144499279e174","features":{},"yanked":false}
 {"name":"simple_http_parser","vers":"0.3.3","deps":[],"cksum":"f9d7361d109f0280fab650b3d115f65d50fa01369437c454e60ff591d5d6f48e","features":{},"yanked":false}
+{"name":"simple_http_parser","vers":"0.3.4","deps":[],"cksum":"29fb1ad6eb22613a9e520bc574dda307aeff9548f2f58347eee325adc17ac425","features":{},"yanked":false}
