@@ -1,0 +1,1 @@
+{"name":"i18n_utility-rizzen-yazston","vers":"0.6.1","deps":[{"name":"icu_locid","req":"^1.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"343d6513d33f70c2dac486f7635d1aadd962e35db46e62229d0e2d79cda151ff","features":{},"yanked":false,"rust_version":"1.70.0"}
