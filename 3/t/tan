@@ -2,3 +2,4 @@
 {"name":"tan","vers":"0.4.0","deps":[],"cksum":"cccc80c95645c6f2e4155667451cd2bfceb0cd3a70c3b0efe47e48058b51bb9b","features":{},"yanked":false}
 {"name":"tan","vers":"0.5.0","deps":[],"cksum":"42a8c8d40d47f34ad4ee7213de0b8943e78b093a8879689e2895fc1646c0ce9e","features":{},"yanked":false}
 {"name":"tan","vers":"0.6.0","deps":[{"name":"tracing","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbd6b16b48d0bb7fd8dd8ba21bad0258aa62805d4d3b923fa3209b911fbb4655","features":{},"yanked":false}
+{"name":"tan","vers":"0.7.0","deps":[{"name":"tracing","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99a29aed6e6e1d43582b8f1e89d2efd4230a0642eedc489e13fa9128f5154aaf","features":{},"yanked":false}
