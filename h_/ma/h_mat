@@ -1,1 +1,1 @@
-{"name":"h_mat","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.166","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bab69771b48eeb802f31b4c375de1d1c4ee39a5b129950d8526f8818421c391","features":{},"yanked":false}
+{"name":"h_mat","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.166","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bab69771b48eeb802f31b4c375de1d1c4ee39a5b129950d8526f8818421c391","features":{},"yanked":true}
