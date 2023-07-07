@@ -1,0 +1,1 @@
+{"name":"cipher_magma","vers":"0.2.2","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"63d1bbbc4fe97b2b86cf7a1a3d658343792da707d79963aaaf85450501bd00d3","features":{},"yanked":false}
