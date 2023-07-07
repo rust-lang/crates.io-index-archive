@@ -1,1 +1,2 @@
 {"name":"compile-symbol-macros","vers":"0.1.0","deps":[{"name":"docify","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2209ae795efc295af5b70644c704de0c6de4138aa6b5787e996256b0b49e8abd","features":{},"yanked":false}
+{"name":"compile-symbol-macros","vers":"0.1.1","deps":[{"name":"docify","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ddc2b617e8c03078f56e8eb5bede7bfe5cd748628780737bca3423e60b9f85fa","features":{},"yanked":false}
