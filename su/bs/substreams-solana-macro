@@ -1,0 +1,1 @@
+{"name":"substreams-solana-macro","vers":"0.10.1","deps":[{"name":"bs58","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e7ff62f4f9034bfb19c6ab03c2e6a6080436fd9ad90e99d3c15cdf46229fc6a","features":{},"yanked":false,"rust_version":"1.60"}
