@@ -1,0 +1,1 @@
+{"name":"grit-bitvec","vers":"0.1.1","deps":[],"cksum":"d707a669e9eca22845ee57f4d17e58bb74a557e443da49b2edcb9d3e9cd58cc6","features":{"default":["small_int_impls"],"large_int_impls":[],"small_int_impls":[]},"yanked":false}
