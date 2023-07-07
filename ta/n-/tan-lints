@@ -1,0 +1,1 @@
+{"name":"tan-lints","vers":"0.7.0","deps":[{"name":"lsp-types","req":"^0.94","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tan","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13a6edaa7fe921d9f5dd08a869d444f8374cc74fa72671107d539d015ef5cd80","features":{},"yanked":false}
