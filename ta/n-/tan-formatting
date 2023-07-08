@@ -1,0 +1,1 @@
+{"name":"tan-formatting","vers":"0.7.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tan","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"160b4c5291d7147521f98488be6f7994c409ebc70a62151b0f48c1f026df85de","features":{},"yanked":false}
