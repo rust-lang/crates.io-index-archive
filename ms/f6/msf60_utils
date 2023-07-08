@@ -1,0 +1,1 @@
+{"name":"msf60_utils","vers":"0.3.1","deps":[{"name":"radio_datetime_utils","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"391f8621d8c564cd3051a866a5c0bde520d6262e014be0945f95002ae83b862b","features":{},"yanked":false}
