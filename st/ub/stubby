@@ -2,7 +2,7 @@
 {"name":"stubby","vers":"0.2.0","deps":[],"cksum":"7cbef9d866949fcd003bdab853cf411d5560b4b1ad2ec5f296cc714196cfab0d","features":{},"yanked":true}
 {"name":"stubby","vers":"0.2.1","deps":[],"cksum":"da32ad692e9d7d7a0fec09faa0e09907cdb5f9063f9f5823dc7ea3a1e1db5701","features":{},"yanked":true}
 {"name":"stubby","vers":"0.2.2","deps":[],"cksum":"aa98dd63d45b75d140a9ba00471c5637732286fe3b72bc69d5eaa3abc1b2a8a4","features":{},"yanked":true}
-{"name":"stubby","vers":"0.2.3","deps":[],"cksum":"5fa6f2a35044aa9c185968c467f3f7f48951aab93b164033aff13c673e36438b","features":{},"yanked":false}
+{"name":"stubby","vers":"0.2.3","deps":[],"cksum":"5fa6f2a35044aa9c185968c467f3f7f48951aab93b164033aff13c673e36438b","features":{},"yanked":true}
 {"name":"stubby","vers":"0.2.4","deps":[],"cksum":"b76902874a62ed4640f0d7c9524e1c28e1c940d67b8673b37970dfbef7a70e27","features":{},"yanked":false}
 {"name":"stubby","vers":"0.2.5","deps":[{"name":"tokio","req":"^1.29.0","features":["rt","macros"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"52dc6d600447be63a08286ee156def332b5c51f2f6ca7d7bdbf8d15e81ddeede","features":{},"yanked":false}
 {"name":"stubby","vers":"0.2.6","deps":[{"name":"tokio","req":"^1.29.0","features":["rt","macros"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dc0856631f963259f67c6b292e25c0361ca3ddc55dc5c1c34de5b589cc9399e6","features":{},"yanked":true,"rust_version":"1.58"}
