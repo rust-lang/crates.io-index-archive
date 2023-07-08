@@ -23,4 +23,4 @@
 {"name":"hypermelon","vers":"0.5.4","deps":[],"cksum":"3db42921a03978f345cc52ef130433667d74fb53a922f2e38c1f9781d5acbcd6","features":{},"yanked":false}
 {"name":"hypermelon","vers":"0.5.5","deps":[],"cksum":"a21d32b951725c7efe88bac17f191cf2bb0028cce32d1acb3cd087755a0719b2","features":{},"yanked":false}
 {"name":"hypermelon","vers":"0.6.0","deps":[],"cksum":"f498f89f368fb4ee84a2c6b1a6fb62fb2af9ed0176db3fe31819b22706cc2040","features":{},"yanked":true}
-{"name":"hypermelon","vers":"0.6.1","deps":[],"cksum":"4bdf70d7cbd00ac2e0a6351bee008f15e63fc4e8d54b078648f3a185495725c9","features":{},"yanked":true}
+{"name":"hypermelon","vers":"0.6.1","deps":[],"cksum":"4bdf70d7cbd00ac2e0a6351bee008f15e63fc4e8d54b078648f3a185495725c9","features":{},"yanked":false}
