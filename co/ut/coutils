@@ -1,1 +1,2 @@
 {"name":"coutils","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ef751958228e5dedd9ecfc83fc2c853e8a042e99d747ceb849f48cc970afce5","features":{},"yanked":false}
+{"name":"coutils","vers":"1.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3474def00ca63d5b15114a88a962e75dde80a66f8d28c9911ada5ea8a4939bc2","features":{},"yanked":false}
