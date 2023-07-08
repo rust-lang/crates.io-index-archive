@@ -1,0 +1,1 @@
+{"name":"machx","vers":"0.4.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":"cfg(any(target_os = \"macos\", target_os = \"ios\"))","kind":"normal"}],"cksum":"c225151939ced0ccde3aa30794d2660114b417b647bbe2f0b9bd06a23c7f48d0","features":{},"yanked":false}
