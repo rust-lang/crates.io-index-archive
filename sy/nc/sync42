@@ -1,1 +1,2 @@
 {"name":"sync42","vers":"0.1.0","deps":[{"name":"biometrics","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56b076fda4825aa344c33c0e01fe2e8d0800c29604cdce682552d2beb408d7b5","features":{},"yanked":false}
+{"name":"sync42","vers":"0.1.1","deps":[{"name":"biometrics","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"370eb239522155c3591e10fe75995b19e12d899afda43841eb0d375c9b641381","features":{},"yanked":false}
