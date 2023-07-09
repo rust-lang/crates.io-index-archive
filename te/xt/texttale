@@ -1,1 +1,2 @@
 {"name":"texttale","vers":"0.1.0","deps":[{"name":"rustyline","req":"^11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6db3c81e3c6c165119e6ce71bb0c8fb56ce194cc22b57f8aa47f5c52230ea9db","features":{},"yanked":false}
+{"name":"texttale","vers":"0.1.1","deps":[{"name":"rustyline","req":"^11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"733436d68bd6414e967a141d1b1942f5003a2192cf22c7fae759188bb0073bd9","features":{},"yanked":false}
