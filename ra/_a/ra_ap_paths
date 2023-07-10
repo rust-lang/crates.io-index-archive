@@ -119,3 +119,4 @@
 {"name":"ra_ap_paths","vers":"0.0.159","deps":[],"cksum":"5664781c35f16f75a6a579fcab6d2a1d27a3d33377454b627fdeadcfd557ecf4","features":{},"yanked":false,"rust_version":"1.66"}
 {"name":"ra_ap_paths","vers":"0.0.160","deps":[],"cksum":"206851c8e47610c54c2f1bd7dbbb69b025f8e1afc1fc94b97a9b553bc3e30ffc","features":{},"yanked":false,"rust_version":"1.66"}
 {"name":"ra_ap_paths","vers":"0.0.161","deps":[],"cksum":"2f5275d943f3597ff8dd720c9a82564a532fa3453c883bc9e1ab2da96757536a","features":{},"yanked":false,"rust_version":"1.66"}
+{"name":"ra_ap_paths","vers":"0.0.162","deps":[],"cksum":"e6a71f95b9f903068b173df0e5d263e00bc2696d3c3b93ca255d0d2742e27b98","features":{},"yanked":false,"rust_version":"1.66"}
