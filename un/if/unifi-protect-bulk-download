@@ -1,0 +1,1 @@
+{"name":"unifi-protect-bulk-download","vers":"0.1.0","deps":[{"name":"clap","req":"^4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e07cbb4341141812933eb0fa2683515f2a7ab4413b384fc27ff353939407742e","features":{},"yanked":false}
