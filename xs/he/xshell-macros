@@ -21,3 +21,4 @@
 {"name":"xshell-macros","vers":"0.2.1","deps":[],"cksum":"37d92065701c3611323f96eac5475b995421fc7eb2bcba1336cdd80b9b2fb68f","features":{},"yanked":false,"rust_version":"1.59"}
 {"name":"xshell-macros","vers":"0.2.2","deps":[],"cksum":"88301b56c26dd9bf5c43d858538f82d6f3f7764767defbc5d34e59459901c41a","features":{},"yanked":false,"rust_version":"1.59"}
 {"name":"xshell-macros","vers":"0.2.3","deps":[],"cksum":"1dbabb1cbd15a1d6d12d9ed6b35cc6777d4af87ab3ba155ea37215f20beab80c","features":{},"yanked":false,"rust_version":"1.59"}
+{"name":"xshell-macros","vers":"0.2.4","deps":[],"cksum":"e44d43f57c3397b7eea871ef5da354287458138e0528c910df585c6fc0de12ef","features":{},"yanked":false,"rust_version":"1.59"}
