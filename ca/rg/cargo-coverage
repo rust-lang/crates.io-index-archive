@@ -1,0 +1,1 @@
+{"name":"cargo-coverage","vers":"0.1.0","deps":[{"name":"ansi_term","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"714f21fae154a87085a3fd8559633508144673c6f63b4f15bd6ccbc189b35f11","features":{},"yanked":false}
