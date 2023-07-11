@@ -1,0 +1,1 @@
+{"name":"ticketmeister","vers":"0.1.0","deps":[{"name":"api-request-utils-rs","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"867054e229af52ca6a83a2ad36d89936aeafb2d1f67bdadc5a54c7f06ae98a89","features":{"discovery":[],"inventory":[]},"yanked":false}
