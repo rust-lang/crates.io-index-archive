@@ -1,0 +1,1 @@
+{"name":"rs-event-emitter","vers":"0.0.1","deps":[{"name":"dashmap","req":"^5.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94272c870ab178ea65f1c991fd2889ceadcde27e396e55f2ff0511685676261e","features":{},"yanked":false}
