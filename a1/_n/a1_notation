@@ -1,0 +1,1 @@
+{"name":"a1_notation","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1247172579ac5acaf610c74bf6a49c75b4e6ba77b0dddc2a1dc67cc6c7eaca5b","features":{},"yanked":false}
