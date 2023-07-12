@@ -1,1 +1,2 @@
 {"name":"meztide","vers":"0.0.1","deps":[],"cksum":"266db4f4c9797502db3f3737f3fe73b8e19842033e73fbff30d25b945708b893","features":{},"yanked":false}
+{"name":"meztide","vers":"0.12.0","deps":[{"name":"reqwest","req":"^0.11","features":["json"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43e1fdd727b10bad8e50ea3a5619bfe698f5667ca1c193eeb4054b3ff8966ab5","features":{},"yanked":false}
