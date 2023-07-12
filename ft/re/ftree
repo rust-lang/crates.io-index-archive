@@ -1,0 +1,1 @@
+{"name":"ftree","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.151","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aabe644a8f3fa23528b18b37040b67276c7fb71c9ae502199ff342be98050b82","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
