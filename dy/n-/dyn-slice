@@ -1,0 +1,1 @@
+{"name":"dyn-slice","vers":"1.0.0-alpha.1","deps":[],"cksum":"fd3afcce4e15c6290461f820201e3f9ae29af591a34300033bff04bb5e970c4b","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
