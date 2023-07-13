@@ -1,0 +1,1 @@
+{"name":"dep_crusher","vers":"0.1.0","deps":[{"name":"regex","req":"^1.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"same-file","req":"^1.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b1cd4b4efdff24c571f25160ea2eb1bf13e9a9da581f86e70c24d6e10825d775","features":{},"yanked":false}
