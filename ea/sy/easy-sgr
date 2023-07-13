@@ -4,3 +4,4 @@
 {"name":"easy-sgr","vers":"0.0.4","deps":[],"cksum":"17d9453676af12c192d8be8405cc5894668d3d00e020c2874042948c382febfc","features":{"partial":[]},"yanked":false}
 {"name":"easy-sgr","vers":"0.0.5","deps":[],"cksum":"942a5661a01c082e7a0cfdbb6004d11e188b419692e00176d456dc77779cf498","features":{"partial":[]},"yanked":false}
 {"name":"easy-sgr","vers":"0.0.6","deps":[],"cksum":"e12a49fc810ebd416c013cf0a44c3ba5b7c1112b309262eba4004d546a266a28","features":{"partial":[]},"yanked":false}
+{"name":"easy-sgr","vers":"0.0.7","deps":[],"cksum":"a757583211fb7b51833589bd8575250097000b801e113414a6f63992996d8e6f","features":{"from-str":[],"partial":[]},"yanked":false}
