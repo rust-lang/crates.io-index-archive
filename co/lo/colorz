@@ -1,0 +1,1 @@
+{"name":"colorz","vers":"1.0.0","deps":[{"name":"supports-color","req":"^2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70f11cbce9532f998f52609bfef486497e2ede568759d89fc3b262b1fcfed6ff","features":{"alloc":[],"std":["alloc"],"strip-colors":[]},"yanked":false}
