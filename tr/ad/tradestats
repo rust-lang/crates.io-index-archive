@@ -1,0 +1,1 @@
+{"name":"tradestats","vers":"0.1.0","deps":[{"name":"statrs","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdae3f8d720288deb2d2df6a249e8f306ea3e77acf3cef21f6fcbeab12059a7e","features":{},"yanked":false}
