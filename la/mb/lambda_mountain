@@ -5,3 +5,4 @@
 {"name":"lambda_mountain","vers":"0.0.5","deps":[],"cksum":"5fee282b797dd5884a630b040a73341085006c8fccfed0d5d75767e341f3b9c2","features":{},"yanked":false}
 {"name":"lambda_mountain","vers":"0.0.6","deps":[],"cksum":"dfe7214ba1ba398b9bcbd7027b11a4ffcd7747db87acf30909a764c64ab7dd09","features":{},"yanked":false}
 {"name":"lambda_mountain","vers":"0.0.7","deps":[],"cksum":"e5c0daadf50dd49d86a369bf934234b569e5f852b275edeea5506cf09cb4a708","features":{},"yanked":false}
+{"name":"lambda_mountain","vers":"0.0.8","deps":[{"name":"im-lists","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2dbd8bc9a28b2832af13ed31d9b8133b4a9070ecda100bc21b6714a4cbdc2624","features":{},"yanked":false}
