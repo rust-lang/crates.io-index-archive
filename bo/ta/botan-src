@@ -4,3 +4,4 @@
 {"name":"botan-src","vers":"0.21903.0","deps":[],"cksum":"f8b4d73c078708baaa5dd6e306e562b598abefae1de0d929ea5ed21b1b16f053","features":{},"yanked":false}
 {"name":"botan-src","vers":"0.21903.1","deps":[],"cksum":"beb7bc6140fe563408b7ac7593897bbd589a284887a1d7a55f106df008a5d0a5","features":{},"yanked":false}
 {"name":"botan-src","vers":"0.30101.1","deps":[],"cksum":"a7694cfea31433b099f0f2b50cf18f4962befcb12c7b2b54beb1d93128e8119f","features":{},"yanked":false}
+{"name":"botan-src","vers":"0.30101.2","deps":[],"cksum":"aaaf0426c00371ec87f150daa40f3a8f149c6e8b9646d5fafa30888cacb2bc9f","features":{},"yanked":false}
