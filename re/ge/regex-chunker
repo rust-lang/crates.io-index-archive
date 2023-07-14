@@ -1,0 +1,1 @@
+{"name":"regex-chunker","vers":"0.1.0","deps":[{"name":"regex","req":"^1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2bb7c3a527fa2e00f0525851c6456fecbb551d0244776a1e9bf23246eef084e","features":{},"yanked":false}
