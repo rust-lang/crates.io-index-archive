@@ -1,0 +1,1 @@
+{"name":"substreams-near","vers":"0.9.2","deps":[{"name":"getrandom","req":"^0.2","features":["custom"],"optional":false,"default_features":true,"target":"wasm32-unknown-unknown","kind":"normal"}],"cksum":"54d0882e28912ef47b4c9792bcd9aa2a1a8279484d6e660818a4bfc2f1249854","features":{},"yanked":false,"rust_version":"1.60"}
