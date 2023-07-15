@@ -5,3 +5,4 @@
 {"name":"dissimilar","vers":"1.0.4","deps":[],"cksum":"8c97b9233581d84b8e1e689cdd3a47b6f69770084fc246e86a7f78b0d9c1d4a5","features":{},"yanked":false,"rust_version":"1.31"}
 {"name":"dissimilar","vers":"1.0.5","deps":[],"cksum":"bd5f0c7e4bd266b8ab2550e6238d2e74977c23c15536ac7be45e9c95e2e3fbbb","features":{},"yanked":false,"rust_version":"1.31"}
 {"name":"dissimilar","vers":"1.0.6","deps":[{"name":"once_cell","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"210ec60ae7d710bed8683e333e9d2855a8a56a3e9892b38bad3bb0d4d29b0d5e","features":{},"yanked":false,"rust_version":"1.36"}
+{"name":"dissimilar","vers":"1.0.7","deps":[{"name":"once_cell","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"86e3bdc80eee6e16b2b6b0f87fbc98c04bee3455e35174c0de1a125d0688c632","features":{},"yanked":false,"rust_version":"1.36"}
