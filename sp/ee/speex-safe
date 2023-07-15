@@ -1,1 +1,2 @@
 {"name":"speex-safe","vers":"0.1.0","deps":[{"name":"speex-sys","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"781f28125fffd55c48f5220d2955bd82d36ba9573ede1e6102e8135127945633","features":{},"yanked":true}
+{"name":"speex-safe","vers":"0.2.0","deps":[{"name":"speex-sys","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4970fbb0f465d8fcbf7214cb866f9b15d3d94501adf635a3c4b103f328279b35","features":{},"yanked":false}
