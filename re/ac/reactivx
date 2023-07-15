@@ -5,3 +5,4 @@
 {"name":"reactivx","vers":"0.2.1","deps":[],"cksum":"7d770758bdcb5f42a46e9572003a9c50d0a7f1239026ed80a63fa5f5339edc42","features":{},"yanked":false}
 {"name":"reactivx","vers":"0.2.2","deps":[{"name":"paste","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c247d0ad035b4fad5e824494e578734dfe7b5f4c42610a302511fece3068453c","features":{},"yanked":false}
 {"name":"reactivx","vers":"0.2.3","deps":[{"name":"paste","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb1b20c39c2a746e2059c16ea927eff3cc045f01625cf393ab8cfe7ef4f2778e","features":{},"yanked":false}
+{"name":"reactivx","vers":"0.2.4","deps":[{"name":"paste","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2fd10292089908b787f0e02b72bbd1d799d5e9d8efd7d26cf27c0ece602f1794","features":{},"yanked":false}
