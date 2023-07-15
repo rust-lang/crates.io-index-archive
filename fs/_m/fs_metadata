@@ -1,0 +1,1 @@
+{"name":"fs_metadata","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.24","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efa56b11f1f5a22bd93c5d49d4de5d7398b7fa0eb1c02d5cc1ff26c779ef59f3","features":{},"yanked":false}
