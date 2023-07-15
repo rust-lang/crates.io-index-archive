@@ -4,3 +4,4 @@
 {"name":"reactivx","vers":"0.2.0","deps":[],"cksum":"fa12ef907d26901c69466233e39be92ee7f59320b6e2c5bcbf74c5d39ed3ff14","features":{},"yanked":false}
 {"name":"reactivx","vers":"0.2.1","deps":[],"cksum":"7d770758bdcb5f42a46e9572003a9c50d0a7f1239026ed80a63fa5f5339edc42","features":{},"yanked":false}
 {"name":"reactivx","vers":"0.2.2","deps":[{"name":"paste","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c247d0ad035b4fad5e824494e578734dfe7b5f4c42610a302511fece3068453c","features":{},"yanked":false}
+{"name":"reactivx","vers":"0.2.3","deps":[{"name":"paste","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb1b20c39c2a746e2059c16ea927eff3cc045f01625cf393ab8cfe7ef4f2778e","features":{},"yanked":false}
