@@ -1,0 +1,1 @@
+{"name":"lodash_rust","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af28bccee28680a8559c26cdcc017a12cf21e55de012081a9134208792ee18d1","features":{},"yanked":false}
