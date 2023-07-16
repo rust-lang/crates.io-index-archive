@@ -5,3 +5,4 @@
 {"name":"bevy-ui-build-macros","vers":"0.4.0","deps":[],"cksum":"fe6ed135f0df8b0751b09fed3a08e5121b49f7ce7fa39ae8e60dc3579bff7bd9","features":{},"yanked":false}
 {"name":"bevy-ui-build-macros","vers":"0.5.0","deps":[],"cksum":"54aaa440bf981c44715305fcc6fab9d2df141fad5f3b961d4cdf321d8eec16d9","features":{},"yanked":false}
 {"name":"bevy-ui-build-macros","vers":"0.6.0","deps":[],"cksum":"81cd32f2f151ba186969820b7beb99e6c03500bd7a19dbff9ed4605bfa2f958f","features":{},"yanked":false}
+{"name":"bevy-ui-build-macros","vers":"0.6.1","deps":[],"cksum":"dc729a51483480acb41a67d01c2320dc022a7b613e8457525736447653d12ef2","features":{},"yanked":false}
