@@ -1,0 +1,1 @@
+{"name":"jops","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f9b16ea774c4bbd5cb0126ac8815b02b3691d3a324d94303feed059d4c34156","features":{},"yanked":false}
