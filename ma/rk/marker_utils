@@ -1,1 +1,2 @@
 {"name":"marker_utils","vers":"0.1.0","deps":[{"name":"marker_api","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1cbcba9f5ef137221963de385754c15c5bdf914ebd38d74fa6fd693a310fd0b","features":{},"yanked":false}
+{"name":"marker_utils","vers":"0.1.1","deps":[{"name":"marker_api","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6767ad794e4b5c3112076923d9c2576782b3faa46315657bdd2514b73184036c","features":{},"yanked":false}
