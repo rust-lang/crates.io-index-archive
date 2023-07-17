@@ -1,1 +1,2 @@
 {"name":"reactivate","vers":"0.1.0","deps":[{"name":"paste","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f8de3731e662a44d2408b3542da55e66337e532f3a17e42b3c6e9751e5c7ba8","features":{},"yanked":false}
+{"name":"reactivate","vers":"0.1.1","deps":[{"name":"paste","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8a92dbe822e1fb0a0db1ff5b5daf45d8f7fbaa30de5d3e88766298924a813cf","features":{},"yanked":false}
