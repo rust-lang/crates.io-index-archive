@@ -14,3 +14,4 @@
 {"name":"packeteer","vers":"0.4.2","deps":[],"cksum":"03ba4b985ff364bed67563b8f6f032e5bb364fe601328ba6c25fa30885e9a072","features":{"dns":[],"ftp":[],"gemini":[],"http1":[]},"yanked":true}
 {"name":"packeteer","vers":"0.4.3","deps":[],"cksum":"1a23ba053a4f3d294499c67e7ac1b90f166474ed525db0d41e8d7eb5833b44da","features":{"dns":[],"ftp":[],"gemini":[],"http1":[]},"yanked":false}
 {"name":"packeteer","vers":"0.5.0","deps":[],"cksum":"693272c94ee3880c13cc38f33423f9f532e6e3c9cfe441dbaafc7d79d30c30e8","features":{"dns":[],"ftp":[],"gemini":[],"http1":[]},"yanked":false}
+{"name":"packeteer","vers":"0.5.1","deps":[],"cksum":"582fc2c3395c690f0d079658b1acc23848b294f5a0753c54675011f09a0ec815","features":{"dns":[],"ftp":[],"gemini":[],"http1":[]},"yanked":false}
