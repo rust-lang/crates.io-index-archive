@@ -1,1 +1,2 @@
 {"name":"lodash_rust","vers":"0.1.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af28bccee28680a8559c26cdcc017a12cf21e55de012081a9134208792ee18d1","features":{},"yanked":false}
+{"name":"lodash_rust","vers":"0.1.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53b304fcbc1f1885db12b8311dc9eaafe84e23abfd20ba78d211f3e853bf4f3f","features":{},"yanked":false}
