@@ -1,0 +1,1 @@
+{"name":"egui_code_editor","vers":"0.1.2","deps":[{"name":"egui","req":"^0.22.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab66b944efdc35188d59ce4de2732a1ad43d004214f5e9baaff9d83b78e787d0","features":{},"yanked":false}
