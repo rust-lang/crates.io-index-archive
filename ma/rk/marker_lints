@@ -1,2 +1,3 @@
 {"name":"marker_lints","vers":"0.0.0-placeholder","deps":[],"cksum":"8a3f054e612764914cb8c48e1f352f008b500d8b568312dc75485398e55b77ab","features":{},"yanked":false}
 {"name":"marker_lints","vers":"0.1.0","deps":[{"name":"marker_api","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"abf6f7048b2531a782f115c6d562108f156fa9b76167085e582757cfb5fb26ee","features":{},"yanked":false}
+{"name":"marker_lints","vers":"0.1.1","deps":[{"name":"marker_api","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a6f1daa808ce0d14614f6dffaeef43af64ba1121ffdd9e106a928b9eb81e11c5","features":{},"yanked":false}
