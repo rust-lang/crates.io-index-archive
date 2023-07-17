@@ -10,3 +10,4 @@
 {"name":"tftpd","vers":"0.2.2","deps":[],"cksum":"7ff58d59710f6d9e16792f6ae943b2b35858d1ec0fe7f14fd4789293b194eb6e","features":{},"yanked":false}
 {"name":"tftpd","vers":"0.2.4","deps":[],"cksum":"4bff0a065b0fb11b5b5a91cc90dc9e4f2dbb472e939fa5e02750e57114797a3c","features":{},"yanked":true}
 {"name":"tftpd","vers":"0.2.5","deps":[],"cksum":"79e3bba9ac72cee23288e260cf3f49879dcde24989db251e1690b4716349e473","features":{},"yanked":false}
+{"name":"tftpd","vers":"0.2.6","deps":[],"cksum":"b5c80522b41cd72cd4474d365fea0e24ca3b6059085dadfd1cde642b96d826dc","features":{},"yanked":false}
