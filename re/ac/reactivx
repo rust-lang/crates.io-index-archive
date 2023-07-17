@@ -1,7 +1,7 @@
 {"name":"reactivx","vers":"0.1.0","deps":[],"cksum":"09b931ecea3f44bc9ba4e6a922148d2e47d64db243406049c5aa4e7eb81906de","features":{},"yanked":false}
 {"name":"reactivx","vers":"0.1.1","deps":[],"cksum":"5b94d8b90bb5761b2a6eb06e6825b78e180c93a6bfef6340eeb187421d90fd36","features":{},"yanked":false}
 {"name":"reactivx","vers":"0.1.2","deps":[],"cksum":"89d097af30c2660bbde7b211321b92e1a78b4023c675d30d5e943e6b8ba741e6","features":{},"yanked":false}
-{"name":"reactivx","vers":"0.2.0","deps":[],"cksum":"fa12ef907d26901c69466233e39be92ee7f59320b6e2c5bcbf74c5d39ed3ff14","features":{},"yanked":false}
+{"name":"reactivx","vers":"0.2.0","deps":[],"cksum":"fa12ef907d26901c69466233e39be92ee7f59320b6e2c5bcbf74c5d39ed3ff14","features":{},"yanked":true}
 {"name":"reactivx","vers":"0.2.1","deps":[],"cksum":"7d770758bdcb5f42a46e9572003a9c50d0a7f1239026ed80a63fa5f5339edc42","features":{},"yanked":true}
 {"name":"reactivx","vers":"0.2.2","deps":[{"name":"paste","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c247d0ad035b4fad5e824494e578734dfe7b5f4c42610a302511fece3068453c","features":{},"yanked":true}
 {"name":"reactivx","vers":"0.2.3","deps":[{"name":"paste","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb1b20c39c2a746e2059c16ea927eff3cc045f01625cf393ab8cfe7ef4f2778e","features":{},"yanked":true}
