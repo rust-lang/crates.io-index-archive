@@ -13,3 +13,4 @@
 {"name":"simple-bytes","vers":"0.2.11","deps":[],"cksum":"aa2918786cb2caa43531999c275e69d0ab5acf68235702aec75ad1936d9bac89","features":{},"yanked":false}
 {"name":"simple-bytes","vers":"0.2.12","deps":[],"cksum":"7d829f5ca367a94aa9666616157480b21c2729f3764c8f9cfca74f883e95e541","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"simple-bytes","vers":"0.2.13","deps":[],"cksum":"6e17c92ec4ee0266daac677bc07c1cb80b12f4b812abf38c361e68fc368518c8","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"simple-bytes","vers":"0.2.14","deps":[],"cksum":"c11532d9d241904f095185f35dcdaf930b1427a94d5b01d7002d74ba19b44cc4","features":{},"yanked":false,"rust_version":"1.56"}
