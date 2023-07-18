@@ -9,3 +9,4 @@
 {"name":"cipher_magma","vers":"0.4.3","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"26860c42c8ac4962f0381c6690c118face5a8bc969805045d5da86e806833f5b","features":{},"yanked":false}
 {"name":"cipher_magma","vers":"0.5.0","deps":[],"cksum":"6783bfe3ba1a4b68d6f5e08ec37e25301d5b89e021a278573f94b11238ff521e","features":{},"yanked":false}
 {"name":"cipher_magma","vers":"0.5.1","deps":[],"cksum":"398bd1451b2aee819ab59af15f8308c740e46a2fcf95bebffaca77c9a6a51594","features":{},"yanked":false}
+{"name":"cipher_magma","vers":"0.5.2","deps":[],"cksum":"76ded25371fee4286061bdd798dcead499257f8c85cde68e3664ada5c1c10817","features":{},"yanked":false}
