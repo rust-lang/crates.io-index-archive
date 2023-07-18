@@ -2,3 +2,4 @@
 {"name":"near-gas","vers":"0.1.1","deps":[],"cksum":"940008066d614602cf607e222af73565d34223211016fc48320a2358cdec1f1d","features":{},"yanked":true,"rust_version":"1.68.2"}
 {"name":"near-gas","vers":"0.1.2","deps":[],"cksum":"fd11433b29461d09e5a7baa5328849d058ebd9c40dd9b7524061943b152868fa","features":{},"yanked":true,"rust_version":"1.68.2"}
 {"name":"near-gas","vers":"0.1.3","deps":[],"cksum":"ab25bf687500c8050aebf54fdc508075e586e5cc8b9154e11c2f37dabd328e0f","features":{},"yanked":false,"rust_version":"1.68.2"}
+{"name":"near-gas","vers":"0.2.1","deps":[],"cksum":"d57cd98d847659f27546b671822a7f5adba61dcd583115ecff55abe8bb0e48ec","features":{},"yanked":false,"rust_version":"1.68.2"}
