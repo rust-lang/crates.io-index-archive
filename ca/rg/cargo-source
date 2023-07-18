@@ -1,0 +1,1 @@
+{"name":"cargo-source","vers":"0.0.1","deps":[{"name":"clap","req":"^4.3.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"toml","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3161a53a90121d169ce63d97e8922b2eea9e32aac02bbe356797d2ca9fc746f2","features":{},"yanked":false}
