@@ -1,0 +1,1 @@
+{"name":"occt-sys","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9c97e23eca4a00b852e9b8b2b5e097d8e0d99e2883807b534e55a9388f790109","features":{},"yanked":false}
