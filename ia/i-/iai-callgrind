@@ -2,3 +2,4 @@
 {"name":"iai-callgrind","vers":"0.2.0","deps":[],"cksum":"be5f989039a98b51a93902f729ed3aa3d496ecacaa3e0d99b3b5d2518b2bd261","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"iai-callgrind","vers":"0.3.0","deps":[],"cksum":"ab67a1fb876520cd0c5a3fb9d9da7ec6288fefd44b3f27d2773736164362d950","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"iai-callgrind","vers":"0.3.1","deps":[],"cksum":"76579762a383d5da364779d780704f93898c620703c27087b766700a87e5a8c2","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"iai-callgrind","vers":"0.4.0","deps":[],"cksum":"5ff41e0063f618f5896ad48d6f9cc6c03552f7c2b65abfcf6fbfaa48e8a80c9f","features":{},"yanked":false,"rust_version":"1.60.0"}
