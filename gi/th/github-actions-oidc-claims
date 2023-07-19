@@ -1,0 +1,1 @@
+{"name":"github-actions-oidc-claims","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.171","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43f2f2ebd7064bc980c17751bffa9f63659dbdf28bbf07fe74e85528ba485879","features":{},"yanked":false}
