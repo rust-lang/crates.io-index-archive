@@ -1,0 +1,1 @@
+{"name":"dtw_rs","vers":"0.9.0","deps":[{"name":"float-cmp","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"73005109bc249e7f873b5d72afbacc110201625e10c30f66bad09e4227d3d31e","features":{},"yanked":false}
