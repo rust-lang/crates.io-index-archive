@@ -1,0 +1,1 @@
+{"name":"rope_rd","vers":"0.1.0","deps":[{"name":"cargo-release","req":"^0.24.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"68b71f9ade81b9941d2a61ff09e2f2dbe768553c36822df093737eaf269622bf","features":{},"yanked":false}
