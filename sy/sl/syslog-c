@@ -1,0 +1,1 @@
+{"name":"syslog-c","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc88367a9423d5eb7b21073b39963471987cc74accad413f03d2830422faa15f","features":{},"yanked":false}
