@@ -1,0 +1,1 @@
+{"name":"jkl-lang","vers":"0.1.5","deps":[{"name":"num","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cebaebc8a101299eb2bc310f152e85d5ad2e4871a70967200d977134c5f2d43b","features":{},"yanked":false}
