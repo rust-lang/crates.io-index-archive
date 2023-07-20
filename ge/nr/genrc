@@ -1,1 +1,2 @@
 {"name":"genrc","vers":"0.1.0","deps":[],"cksum":"47c5cc1e52a712fb6075da61b87362861829ad4e042b00f49865be89f8670bd7","features":{},"yanked":false}
+{"name":"genrc","vers":"0.2.0","deps":[],"cksum":"9c8055b5958a88c88f8006f9b39ebdc3c6a908f7070a10fc29e46e0663fcfe35","features":{"allocator_api":[]},"yanked":false}
