@@ -1,0 +1,1 @@
+{"name":"diesel-streamer","vers":"0.1.0","deps":[{"name":"diesel","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0c990189607b08637b4af9072b4e28a6158f934bcd9107c306c4202e2641441","features":{"async":[],"default":["sync"],"sync":[]},"yanked":false,"rust_version":"1.56"}
