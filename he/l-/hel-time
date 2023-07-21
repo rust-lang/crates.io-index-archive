@@ -1,1 +1,2 @@
 {"name":"hel-time","vers":"0.1.0","deps":[],"cksum":"c0e7d586dc05331b8f85d62a4a1f4d9e8cc387a096658f758ade38a88a41f63c","features":{},"yanked":false}
+{"name":"hel-time","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a0e313473109a644805a8b5b4844167aa493a9441c04cc4a46f1308ee45481a7","features":{},"yanked":false}
