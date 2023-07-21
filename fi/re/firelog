@@ -1,1 +1,2 @@
 {"name":"firelog","vers":"0.1.0","deps":[{"name":"home","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd23787d9cdb97aaa3724724308a60e9b2155010f52f79214ef60ca9df346335","features":{},"yanked":false}
+{"name":"firelog","vers":"0.1.1","deps":[{"name":"home","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5c3f0e192ace5e6d1967bda89609e6f564146bab997c11d8316e37f1a0e086a","features":{},"yanked":false}
