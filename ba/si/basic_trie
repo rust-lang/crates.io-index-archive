@@ -1,0 +1,1 @@
+{"name":"basic_trie","vers":"0.0.1","deps":[{"name":"unicode-segmentation","req":"^1.10.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eaddd9affc887cacc38d82b880dbf3ae737fb0bbf1864193bc33606800d21691","features":{},"yanked":false}
