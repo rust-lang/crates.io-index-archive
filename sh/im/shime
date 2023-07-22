@@ -1,1 +1,2 @@
 {"name":"shime","vers":"0.1.0","deps":[{"name":"dirs","req":"^5.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11852425fff1902a65995e363847b6a1e839e09059065595e36acb7816211cdc","features":{},"yanked":true}
+{"name":"shime","vers":"0.0.1","deps":[{"name":"dirs","req":"^5.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59f85757129023cfb119b473a5e29656d807f934d2b349d405743492091705ba","features":{},"yanked":false}
