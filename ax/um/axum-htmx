@@ -1,0 +1,1 @@
+{"name":"axum-htmx","vers":"0.1.0","deps":[{"name":"axum","req":"^0.6","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ba47180e4e90b041958ca0669e7607202d17e7724ffd839256723aca100cb9fe","features":{},"yanked":false}
