@@ -1,1 +1,1 @@
-{"name":"meshellaneous","vers":"0.1.0","deps":[{"name":"glam","req":"^0.24.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"326445836ae74df5cf2941011e8b1a1642c49a8f79b4725fa557ecce30391867","features":{},"yanked":false}
+{"name":"meshellaneous","vers":"0.1.0","deps":[{"name":"glam","req":"^0.24.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"326445836ae74df5cf2941011e8b1a1642c49a8f79b4725fa557ecce30391867","features":{},"yanked":true}
