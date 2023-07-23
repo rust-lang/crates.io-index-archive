@@ -31,3 +31,4 @@
 {"name":"ofcp_data","vers":"0.20.3","deps":[],"cksum":"548e7e23a5f4f5611e077eddd74957c78e763fe601759862f33121c0ef9b3503","features":{},"yanked":false}
 {"name":"ofcp_data","vers":"0.21.0","deps":[],"cksum":"a2ae287c47723039375320c981958d90b6bbf449039549b79411c580c6b7c142","features":{},"yanked":false}
 {"name":"ofcp_data","vers":"0.21.1","deps":[],"cksum":"a3c2951a97119a19a913724b12c463f141a7af08ff37048fb5444189ee5bae8f","features":{},"yanked":false}
+{"name":"ofcp_data","vers":"0.21.2","deps":[],"cksum":"e91b322e254e37720819231af12a90a46136e30492b51dfa19a0a8bb0ffdcd02","features":{},"yanked":false}
