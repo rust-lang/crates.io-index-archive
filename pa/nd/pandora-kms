@@ -1,0 +1,1 @@
+{"name":"pandora-kms","vers":"0.1.2-alpha.1","deps":[{"name":"regex","req":"^1.9.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5211346fd897c533206eb1c47c52a89e6dd70ee8979cbe962819d4b8657ba9fa","features":{},"yanked":false}
