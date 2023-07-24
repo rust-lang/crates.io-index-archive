@@ -1,1 +1,2 @@
 {"name":"slice-string","vers":"0.1.0","deps":[{"name":"tinyvec","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e86742a9eb264f4ab53fccd665bd6c79df826bd7120dcfc9d87d040b2d05b06c","features":{},"yanked":false}
+{"name":"slice-string","vers":"0.2.0","deps":[{"name":"tinyvec","req":"^1.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e76856be115e7eb8153e280a12bc6878ae3fd7eab638039cd244cac5edad7a9","features":{},"yanked":false}
