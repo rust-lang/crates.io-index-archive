@@ -4,7 +4,7 @@
 {"name":"toiletcli","vers":"0.0.4","deps":[],"cksum":"78da34610de0044d6e8dfbbbf67ec7b0e35ce5b5c2acbcb9f67a827fd050e0b8","features":{},"yanked":true}
 {"name":"toiletcli","vers":"0.0.5","deps":[],"cksum":"3dbd3024e72060c319a3f945377bd698fc52de71619498e8c534ccd07b1567ea","features":{},"yanked":false}
 {"name":"toiletcli","vers":"0.0.6","deps":[],"cksum":"2f888054c8d8a10aa788a22e18d370185261d437b11b655f5fd86a9460290fe4","features":{},"yanked":true}
-{"name":"toiletcli","vers":"0.0.7","deps":[],"cksum":"3a7f695f36e93a28e45fc375f601a4b3d7e02d54d131bb8da8df454ba9d8104d","features":{},"yanked":false}
+{"name":"toiletcli","vers":"0.0.7","deps":[],"cksum":"3a7f695f36e93a28e45fc375f601a4b3d7e02d54d131bb8da8df454ba9d8104d","features":{},"yanked":true}
 {"name":"toiletcli","vers":"0.1.0","deps":[],"cksum":"e281d0d7cc6226a19806572fb374e106e9237177dada3e5073869ff028226eb7","features":{},"yanked":false}
 {"name":"toiletcli","vers":"0.2.0","deps":[],"cksum":"323d80d611fe8e0dc610ce9b7d4273fe4b87bc0960bd02bcd031b9c9d8b003fa","features":{"mock_colors":[]},"yanked":true}
 {"name":"toiletcli","vers":"0.2.1","deps":[],"cksum":"530c8a59d916027d325dac031ee6fe51b333bd01fc2b05ece052c666f28d653e","features":{"mock_colors":[]},"yanked":true}
