@@ -1,0 +1,1 @@
+{"name":"klvm-utils","vers":"0.2.7","deps":[{"name":"klvmr","req":"^0.2.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46cac7251e5c17213d3039963b597541d84649677967c5d209a10356def1da7c","features":{},"yanked":false}
