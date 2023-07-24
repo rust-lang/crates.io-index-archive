@@ -1,0 +1,1 @@
+{"name":"bezier-interpolation","vers":"0.1.0","deps":[{"name":"freetype-rs","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0625703fdea22eed5b4ed8b89eccea3d489ba3ad090db700d0ec928490896841","features":{},"yanked":false}
