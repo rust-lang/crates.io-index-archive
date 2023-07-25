@@ -1,1 +1,2 @@
 {"name":"boxcar","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"38c99613cb3cd7429889a08dfcf651721ca971c86afa30798461f8eee994de47","features":{},"yanked":false}
+{"name":"boxcar","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8144d1eafa16b5f2ee5a3a1e36485b6c3bf4d6fbbb971dd9f85907f03c61e5d8","features":{},"yanked":false}
