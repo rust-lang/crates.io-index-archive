@@ -1,0 +1,1 @@
+{"name":"dala","vers":"0.1.0","deps":[{"name":"pest","req":"^2.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pest_derive","req":"^2.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c578337652b95f7f08f7d176fcb6eddbd7a15a4be30d8b782e2632fd81622e3","features":{},"yanked":false}
