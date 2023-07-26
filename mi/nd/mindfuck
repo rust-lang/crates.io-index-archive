@@ -1,0 +1,1 @@
+{"name":"mindfuck","vers":"1.0.0","deps":[{"name":"clap","req":"^4.3.19","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"97c99245e4556192e0fd9e01696cf7124d179e7d9ee9f5b8bfc7e267ec4109a4","features":{},"yanked":false}
