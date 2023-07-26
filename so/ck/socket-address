@@ -1,0 +1,1 @@
+{"name":"socket-address","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.44","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e009e8acc78acbfe17c42852dca91e985536b7fdbc6a5cac41c4a34955e03569","features":{},"yanked":false}
