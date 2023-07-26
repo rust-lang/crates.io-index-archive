@@ -1,0 +1,1 @@
+{"name":"goxoy-socket-client","vers":"0.1.0","deps":[{"name":"goxoy-address-parser","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6f8651c9c5f3398f05ac8ea806e2464a18a92c2a761a451353021fe97014d023","features":{},"yanked":false,"rust_version":"1.66.1"}
