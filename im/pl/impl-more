@@ -7,3 +7,4 @@
 {"name":"impl-more","vers":"0.1.3","deps":[],"cksum":"99638b87bb2d979c38f84d8debced297a3e2c4f74ee63ac42c27288c056365e7","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"impl-more","vers":"0.1.4","deps":[],"cksum":"a6a2ffcb8a71ebdc18afc8ded1d617956439423aafebebecd2792914d4dc4721","features":{},"yanked":true,"rust_version":"1.56"}
 {"name":"impl-more","vers":"0.1.5","deps":[],"cksum":"2697f323912b5b942f1ff43625c34895edcf3def901c11214ad92d41fa5c57da","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"impl-more","vers":"0.1.6","deps":[],"cksum":"206ca75c9c03ba3d4ace2460e57b189f39f43de612c2f85836e65c929701bb2d","features":{},"yanked":false,"rust_version":"1.56"}
