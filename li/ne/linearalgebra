@@ -1,1 +1,2 @@
 {"name":"linearalgebra","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d1a876580feb6e03ec49103233b88d0a0a0e1220eeeb3505bd3ff6291a92c28","features":{},"yanked":false}
+{"name":"linearalgebra","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a784c3151126eb655b96f1728c5e02b593132cc6ea1c631a01a16c3edee8890f","features":{},"yanked":false}
