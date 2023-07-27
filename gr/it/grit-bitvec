@@ -8,3 +8,4 @@
 {"name":"grit-bitvec","vers":"0.3.5","deps":[],"cksum":"effcb8604a1d6d3f072d04f535cd7610141cc6d8fef0e710a05fd86fca89e9ae","features":{"default":["small_int_impls"],"large_int_impls":[],"small_int_impls":[]},"yanked":true}
 {"name":"grit-bitvec","vers":"0.3.6","deps":[],"cksum":"1b1401d567e058ddba5738811ee278b2dce917fba9889dac8658aa7e5913e012","features":{"default":["small_int_impls"],"large_int_impls":[],"small_int_impls":[]},"yanked":true}
 {"name":"grit-bitvec","vers":"0.4.0","deps":[],"cksum":"7283e8681e9926ba4ebd44ef2810dfa18d78cb78818a7ead5da0f716c8b6390e","features":{"default":["small_int_impls"],"large_int_impls":[],"small_int_impls":[]},"yanked":false}
+{"name":"grit-bitvec","vers":"0.4.1","deps":[],"cksum":"98b794a018506813332db1e2b78c8da7c9ea6defbd7d257311c28135a53c4c0c","features":{"default":["small_int_impls"],"large_int_impls":[],"small_int_impls":[]},"yanked":false}
