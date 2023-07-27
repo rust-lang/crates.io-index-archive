@@ -1,0 +1,1 @@
+{"name":"chrom","vers":"1.0.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9b5cdefc4540545b79a067a69204d39692cfee616287c864e0ba830ed6998dec","features":{},"yanked":false}
