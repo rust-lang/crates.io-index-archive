@@ -13,3 +13,4 @@
 {"name":"chainerror","vers":"0.7.0","deps":[],"cksum":"b8f9b3b6cb03c696814b1f13afd5aafcac293a966e7c1bc0ffc8ccaa23ebb286","features":{"default":[],"display-cause":[]},"yanked":false}
 {"name":"chainerror","vers":"0.7.1","deps":[],"cksum":"0ce1bb7fb0c258a6600d699950da347a7a9dad66c3ce815769b5f11cf8fce78e","features":{"default":[],"display-cause":[]},"yanked":false}
 {"name":"chainerror","vers":"0.8.0","deps":[],"cksum":"ce4982ed7e1d08a95380d9f17ae54ad1f5bab589873ca9018787ae19fadeb10a","features":{},"yanked":false}
+{"name":"chainerror","vers":"0.8.1","deps":[],"cksum":"d80c25cfdef45291323b4732ea0ecedf358f0a1e8f3e65579cfef0673f5b869c","features":{},"yanked":false}
