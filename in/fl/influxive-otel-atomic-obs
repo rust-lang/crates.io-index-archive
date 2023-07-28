@@ -1,0 +1,1 @@
+{"name":"influxive-otel-atomic-obs","vers":"0.0.1-alpha.7","deps":[{"name":"opentelemetry_api","req":"^0.20.0-beta.1","features":["metrics"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"ts_opentelemetry_api"}],"cksum":"c4bef1671b1cfe472e61caf8aa2cf335c59188df48baf09ae68d10e4315ff87f","features":{},"yanked":false}
