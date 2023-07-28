@@ -5,3 +5,4 @@
 {"name":"tempo_tapper","vers":"0.5.0","deps":[],"cksum":"8116a3f3eee52e0b1f6530b365c42bc1fa1bd9fb2c627003b84b017ccdbb8b32","features":{},"yanked":false,"rust_version":"1.61.0"}
 {"name":"tempo_tapper","vers":"0.5.1","deps":[],"cksum":"a24c70f8439ec1c5f3e3d8698dd5e46caed778c632a20f06b25dfb751658b4e0","features":{},"yanked":false,"rust_version":"1.61.0"}
 {"name":"tempo_tapper","vers":"0.5.2","deps":[],"cksum":"2f3bb2e8e46fc4ce88f4244c3a5be3698f97f365b9474a15727eb354a7c92b64","features":{},"yanked":false,"rust_version":"1.61.0"}
+{"name":"tempo_tapper","vers":"0.5.3","deps":[],"cksum":"e2a998b356ad744f214e944fdb57fba5c32c27a32808725722d4e45df8d4236c","features":{},"yanked":false,"rust_version":"1.61.0"}
