@@ -39,3 +39,4 @@
 {"name":"ckb-db-schema","vers":"0.111.0-rc6","deps":[],"cksum":"5e30d2e43422489399f21ff4283877ed659aea1a0a8cfe2c1bc9fce249cd0556","features":{},"yanked":false}
 {"name":"ckb-db-schema","vers":"0.111.0-rc7","deps":[],"cksum":"c62849fd7c29e81ce0f24d16f4fcf48f1b50bdc9964e2cd0ff96695326f3bf84","features":{},"yanked":false}
 {"name":"ckb-db-schema","vers":"0.111.0-rc8","deps":[],"cksum":"e71e72b02b83037daee4dd9a7af0b64aa237125cd6329d312e726630ac72beb1","features":{},"yanked":false}
+{"name":"ckb-db-schema","vers":"0.110.1-rc1","deps":[],"cksum":"cd15417a270a1c2c31e94c4281d710c15a52feb01a38a87fbd13be84c2815aa7","features":{},"yanked":false}
