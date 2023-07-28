@@ -1,0 +1,1 @@
+{"name":"discrete-logarithm","vers":"0.0.0","deps":[{"name":"rug","req":"^1","features":["integer","rand"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"63dc57afeca1bd54ac13d304c4f6575b0311ce8f5f64092c0b3a87f4bd4adb5f","features":{},"yanked":false}
