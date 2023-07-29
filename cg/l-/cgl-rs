@@ -1,0 +1,1 @@
+{"name":"cgl-rs","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8980ce3f1b9db5a349f59507d27e7636ae1e63b90fe0de0d9f8bd5fe73183326","features":{},"yanked":false}
