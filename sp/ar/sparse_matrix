@@ -6,3 +6,4 @@
 {"name":"sparse_matrix","vers":"0.2.1","deps":[],"cksum":"65dcbb2214397049ca3e893ddbb2d66c1b64cdc9f35628bfd1b96b1cb3de67c1","features":{},"yanked":true}
 {"name":"sparse_matrix","vers":"0.2.2","deps":[],"cksum":"a63ab668284d62b18f0c8641edc434c8d6d5d76cca6d69003a8c0ea50afb8284","features":{},"yanked":true}
 {"name":"sparse_matrix","vers":"0.3.0","deps":[],"cksum":"c51e9551bf9a006dd73919628187ee284da9d267fec536a95c225533f0cfc660","features":{},"yanked":false}
+{"name":"sparse_matrix","vers":"0.3.1","deps":[],"cksum":"9db7a6e62c5d4e46f1fa73e6d95257acf06c23d011a609388470d9f675f1a898","features":{},"yanked":false}
