@@ -5,3 +5,4 @@
 {"name":"nz","vers":"0.1.4","deps":[],"cksum":"d6c2328d2f4f565741f2c5a324844b35e126c228d91c2bd3272cd28f280ae496","features":{},"yanked":false,"rust_version":"1.47.0"}
 {"name":"nz","vers":"0.2.0","deps":[],"cksum":"dcc66e1eeedf5971b061b8c343ecc88899c926058dbfc5795b3beb0a28663a3b","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"nz","vers":"0.2.1","deps":[],"cksum":"92768d87490647a8eb6c05f3a82b0360a5edccf601999086643e8919ff5035cf","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"nz","vers":"0.2.2","deps":[],"cksum":"a7ff655d93035d7d1208dd4f01a1e4d12e547f71c20783c7ede7be845d3c1940","features":{},"yanked":false,"rust_version":"1.56.0"}
