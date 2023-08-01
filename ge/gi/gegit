@@ -1,0 +1,1 @@
+{"name":"gegit","vers":"1.0.0","deps":[{"name":"clap","req":"^4.3.19","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1115709bd168a79211bece0ee6e5796e4485d7dfaf33a9f09308f3d399bacd5e","features":{},"yanked":false}
