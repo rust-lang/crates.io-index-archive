@@ -1,1 +1,2 @@
 {"name":"asai","vers":"0.1.0","deps":[],"cksum":"76cd45070eff9da2d8467805a8965e8478ab4674c8ed7df02d8ec5ad41920863","features":{},"yanked":false}
+{"name":"asai","vers":"0.1.1","deps":[{"name":"asai-macro","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"abbfc510ca84c6ddcfa10a5ba1e97b06e9d2e651e24ac010b92cb182560c96cf","features":{},"yanked":false}
