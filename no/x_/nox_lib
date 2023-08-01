@@ -1,0 +1,1 @@
+{"name":"nox_lib","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc5b5a8dc94f27cf0046edcb3cd429e6b0c51839e5aa6c7b432eb82274cc6a46","features":{},"yanked":false}
