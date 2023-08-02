@@ -9,3 +9,4 @@
 {"name":"forky","vers":"0.1.8","deps":[],"cksum":"57e9ae2ea8a01ebb67bf90e91d7a6c65877a7de2d11d695a41bb659471b6ad17","features":{},"yanked":false}
 {"name":"forky","vers":"0.1.9","deps":[],"cksum":"6572c724493af082b6b1d0eff156e7e65b490d515cc01ae23cd7b205d43ad431","features":{},"yanked":false}
 {"name":"forky","vers":"0.1.10","deps":[],"cksum":"d0de2158f6563b17001d9b7b7212c304fdf6f0d6fc69db04f9dd6284ade0c46d","features":{},"yanked":false}
+{"name":"forky","vers":"0.1.12","deps":[{"name":"sweet","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"317eb5277d5154a7c923e0dc72f163a3ca1e3ec17231ea94d4832f0b6a226db1","features":{},"yanked":false}
