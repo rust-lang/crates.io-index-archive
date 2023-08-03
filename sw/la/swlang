@@ -1,1 +1,2 @@
 {"name":"swlang","vers":"0.0.2","deps":[{"name":"colored","req":"^2.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96eaca924e7d15e69b7396d7e0ec5536abed76a6f7b7a54bb55fdcc311dd755e","features":{},"yanked":false}
+{"name":"swlang","vers":"0.0.3","deps":[{"name":"colored","req":"^2.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b5f0df409d753971e6f6b3d350cbae5cb9b25389268825327a8e85c461e17785","features":{},"yanked":false}
