@@ -1,1 +1,2 @@
 {"name":"gpt_text","vers":"0.1.0","deps":[{"name":"fieri","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0245fd12cb4be864ba0a7d3506b62092f234a702d7a8391b5635ab5c86153cc","features":{},"yanked":false}
+{"name":"gpt_text","vers":"0.1.1","deps":[{"name":"fieri","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4efc7fd5288c5b8814aaabeb3e4eb3a4736a7d81c4283f4139327be9fcce4ec","features":{},"yanked":false}
