@@ -1,0 +1,1 @@
+{"name":"chaindexing","vers":"0.1.0","deps":[],"cksum":"02b50b2dd7a19032b03e7ef30ff490242cc2e319d0d0907e834156fffc30f2b8","features":{"default":["postgres"],"postgres":[]},"yanked":false}
