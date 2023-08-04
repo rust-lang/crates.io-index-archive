@@ -1,2 +1,2 @@
 {"name":"rusty-docker-compose","vers":"0.1.0","deps":[],"cksum":"334414b8842536703c897107957a814a9c5cf0923a8ba3219bf516e9051ec875","features":{},"yanked":false}
-{"name":"rusty-docker-compose","vers":"0.2.0","deps":[],"cksum":"2a2994aff54271556b1a435a2b0548de48a193aeea4cdb41ac179d16f884799f","features":{},"yanked":false}
+{"name":"rusty-docker-compose","vers":"0.2.0","deps":[],"cksum":"2a2994aff54271556b1a435a2b0548de48a193aeea4cdb41ac179d16f884799f","features":{},"yanked":true}
