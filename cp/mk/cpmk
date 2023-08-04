@@ -4,3 +4,4 @@
 {"name":"cpmk","vers":"1.0.3","deps":[],"cksum":"524349981e3985d3405e2e0a26b2e706b355d72aadda846be05d3953cae5c8aa","features":{},"yanked":false}
 {"name":"cpmk","vers":"2.0.0","deps":[],"cksum":"12f3e1a3a7927555e9d5ecf0b7e321656faaee60e9ac1a5fd956da5245e56f2e","features":{},"yanked":false}
 {"name":"cpmk","vers":"2.1.0","deps":[{"name":"clap","req":"^4.3.19","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44af1a55884f44ce85f1d5794e6a80b7954cc6a5b755e206126d0b8da7f775ac","features":{},"yanked":false}
+{"name":"cpmk","vers":"2.1.1","deps":[{"name":"clap","req":"^4.3.19","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48a5f2158086c2c4f8eda581ed9c8b20b11aebaa3d9d41f9dfe62bcb6baa6b34","features":{},"yanked":false}
