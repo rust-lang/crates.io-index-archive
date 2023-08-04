@@ -1,0 +1,1 @@
+{"name":"jaq-syn","vers":"1.0.0-beta","deps":[{"name":"serde","req":"^1.0.137","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ae4015e43b040ce223ab0d9853c4d94e951be3bbbda8918fd22dfe47c115094","features":{"default":["serde"]},"yanked":false}
