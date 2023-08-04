@@ -1,0 +1,1 @@
+{"name":"stak-decode","vers":"0.1.0","deps":[{"name":"code","req":"^0.1","features":["alloc","std"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"stak-code"}],"cksum":"a53ef7a3a9a77f13e20fc690d8392d80310b7c5e0362bc1c24be9f2c1a1859b6","features":{},"yanked":false}
