@@ -1,1 +1,2 @@
 {"name":"nanograd","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20589d1258d072648d4fbf76a67c4101ff1c5c911dfbfaa4e2ce895575563b4b","features":{},"yanked":false}
+{"name":"nanograd","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.3","features":["small_rng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7bb77ecc31b7d91862836184592cb70f56a8af923eb5da628467c276accac36b","features":{},"yanked":false}
