@@ -1,1 +1,2 @@
 {"name":"bevy_prank","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cce46598f0529d0c97827dca6a5fcdb60a6746f0988bcfe33d0efb3e0e94c37f","features":{},"yanked":false}
+{"name":"bevy_prank","vers":"0.1.1","deps":[{"name":"bevy","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ed9b787574886d58b35047333b542f7781a73c8c16989899770f64d3be7096a","features":{},"yanked":false}
