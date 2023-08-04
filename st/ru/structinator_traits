@@ -1,0 +1,1 @@
+{"name":"structinator_traits","vers":"0.1.0","deps":[{"name":"enum_unwrapper","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cb653562f0e9780d609e4cfe72580378c2252fe04d2d5f2416d467fac6b2bfc0","features":{},"yanked":false}
