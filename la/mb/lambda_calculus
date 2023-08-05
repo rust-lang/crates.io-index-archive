@@ -35,3 +35,4 @@
 {"name":"lambda_calculus","vers":"3.0.1","deps":[],"cksum":"1f9b8d0bcdcb0132a8b4773581e3c53f3b2c8bb4981c75bf2ea9a1878ce61ab8","features":{"backslash_lambda":[],"default":["encoding"],"encoding":[]},"yanked":false}
 {"name":"lambda_calculus","vers":"3.0.2","deps":[],"cksum":"bc4502f75548fefe6a8bdb82ea73be6e390fa1af9540581eca492af39d49c198","features":{"backslash_lambda":[],"default":["encoding"],"encoding":[]},"yanked":false}
 {"name":"lambda_calculus","vers":"3.1.0","deps":[],"cksum":"18c1684ec2431aa80c222971b2dfdbf4dd15c7d09bd6b7434e9963ece12390a5","features":{"backslash_lambda":[],"default":["encoding"],"encoding":[]},"yanked":false}
+{"name":"lambda_calculus","vers":"3.2.0","deps":[],"cksum":"b1c90366028630c0cd761858915bdc3e3baef82c7b15a74a6b4ed001af0c53b1","features":{"backslash_lambda":[],"default":["encoding"],"encoding":[]},"yanked":false}
