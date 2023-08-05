@@ -9,3 +9,4 @@
 {"name":"fault-injection","vers":"1.0.7","deps":[],"cksum":"aeca7f5585b265ca11574365e7d3aca66a4a50090f8e3e5088dd43ee6a4d2c8b","features":{},"yanked":false}
 {"name":"fault-injection","vers":"1.0.8","deps":[],"cksum":"a9173c080b93a0367ba0dbebeab0adf7f5dc236d67934c8ccb091c13f01c1b9d","features":{},"yanked":false}
 {"name":"fault-injection","vers":"1.0.9","deps":[],"cksum":"e80c31f03b87ade69f89d1261f7345a53180b524aefcf238093a7e6db4b309a7","features":{},"yanked":false}
+{"name":"fault-injection","vers":"1.0.10","deps":[],"cksum":"9e3d175246dec3fddef3b1fcd57acdb023e4c562d032e9eccc5f246da3d7fed3","features":{},"yanked":false}
