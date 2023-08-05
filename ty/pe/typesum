@@ -1,0 +1,1 @@
+{"name":"typesum","vers":"0.1.0","deps":[{"name":"typesum-macros","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6339e618403fd5f865d3a5dd6a8c34101ac99297eeba7a02643b52f30538e32","features":{"default":["sumtype","kinded"],"kinded":["typesum-macros/kinded"],"sumtype":["typesum-macros/sumtype"]},"yanked":false}
