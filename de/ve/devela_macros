@@ -1,3 +1,4 @@
 {"name":"devela_macros","vers":"0.1.0","deps":[],"cksum":"8626c8131049eac7285cb86efe2885af4f563b19807419d200b0e8c52789cb87","features":{},"yanked":false,"rust_version":"1.56.1"}
 {"name":"devela_macros","vers":"0.2.0","deps":[],"cksum":"124f0c20dab22f9df2ada4e41947a3afdbca366aedfb93e4013626a0a6c83f82","features":{},"yanked":false,"rust_version":"1.56.1"}
 {"name":"devela_macros","vers":"0.3.0","deps":[],"cksum":"242d5e5465b9f336e7daab878114d3178d3d493e18d96e1a1c3d29024d7760c1","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"devela_macros","vers":"0.3.1","deps":[],"cksum":"743b272498f47e6c8e6f07df8cf4f82422b07a05a13976fe28d43571ebec76c3","features":{},"yanked":false,"rust_version":"1.56.1"}
