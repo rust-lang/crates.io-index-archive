@@ -1,1 +1,1 @@
-{"name":"asankov-rust-fundamentals","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ecf38574345ab9765f09ded40206d553df8201a5bc7d102393540ea571624d0","features":{},"yanked":false}
+{"name":"asankov-rust-fundamentals","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ecf38574345ab9765f09ded40206d553df8201a5bc7d102393540ea571624d0","features":{},"yanked":true}
