@@ -1,0 +1,1 @@
+{"name":"unwrap-log","vers":"0.1.0","deps":[{"name":"env_logger","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f82cedc583b68473f72a56795715c42c9768179bc7f6f14a428dd1c02d2dbfdb","features":{},"yanked":false}
