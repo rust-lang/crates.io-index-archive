@@ -3,3 +3,4 @@
 {"name":"leafslug","vers":"0.1.2","deps":[],"cksum":"1c9a0795615867dc642febd2956750cf847ef3e6b66267f8d9a63d8bce28a707","features":{},"yanked":false}
 {"name":"leafslug","vers":"0.1.3","deps":[],"cksum":"a2cf7f4478d712f7dc8c19c6abad3972847c78e7d39acf6ca6d135454391e8e9","features":{},"yanked":false}
 {"name":"leafslug","vers":"0.1.4","deps":[],"cksum":"58ffab64794949dc410fbe2e0c5ff753193411af42c4e0c1a9f50bbada410423","features":{},"yanked":false}
+{"name":"leafslug","vers":"0.1.5","deps":[{"name":"serde","req":"^1.0.181","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fab79138560bd158c9864e3e8f11b3f912573db319b9e161e6154367c8c386ae","features":{},"yanked":false}
