@@ -47,3 +47,4 @@
 {"name":"rand_simple","vers":"0.1.10","deps":[],"cksum":"c600f33d1bbf95006412c2b55633fda1ad084b351a6eebbb711c58773213780f","features":{},"yanked":false}
 {"name":"rand_simple","vers":"0.1.11","deps":[],"cksum":"73c08cc6434e95a0f49d5c313ff70c06389c3c0e81a3d18b1b3f9731edeb2265","features":{},"yanked":false}
 {"name":"rand_simple","vers":"0.2.0","deps":[],"cksum":"e745bea4e4188f97d1203f5264531378ad05e55d5b21de4556586c5390ece667","features":{},"yanked":false}
+{"name":"rand_simple","vers":"0.2.1","deps":[{"name":"plotters","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"185ebf73817f2647fbaafdce544ad3c0c681073dd3714eace01323cf00799f4a","features":{},"yanked":false}
