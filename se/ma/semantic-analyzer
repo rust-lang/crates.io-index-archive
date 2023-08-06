@@ -1,0 +1,1 @@
+{"name":"semantic-analyzer","vers":"0.0.0","deps":[{"name":"nom_locate","req":"^4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1eedd4ab2a224cc66c5bde1fcbef02f7763bb492df1b1bdb2ddbee2cd6b4b777","features":{},"yanked":false}
