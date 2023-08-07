@@ -1,1 +1,2 @@
 {"name":"cloud-detect","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"02b1b8af86fce705ba7b1413007de6c6ef47fa8b9c958b283d0a546359979f7b","features":{},"yanked":false}
+{"name":"cloud-detect","vers":"0.2.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d3cc1d28a768b524513c8d06468ad92598b0b8119936ade57da647c27100094","features":{},"yanked":false}
