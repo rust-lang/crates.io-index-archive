@@ -17,3 +17,4 @@
 {"name":"toiletcli","vers":"0.6.1","deps":[],"cksum":"8f03e12d4a8163466f6672e86a13ad3179eada5c4ed8829767248cd2ec156002","features":{"colors":[],"default":["flags","colors","escapes"],"escapes":[],"flags":[]},"yanked":false}
 {"name":"toiletcli","vers":"0.7.0","deps":[],"cksum":"dc4843c162edd47d637f6e1b28c877cc421ec87ce8d693551482cf2660dc284f","features":{"colors":[],"default":["flags","colors","escapes"],"escapes":[],"flags":[]},"yanked":true}
 {"name":"toiletcli","vers":"0.7.1","deps":[],"cksum":"bbf47022d10018b59ac439aa739560d35e86691fe5f6fc30f42620ccc407c0ac","features":{"colors":[],"default":["flags","colors","escapes"],"escapes":[],"flags":[]},"yanked":false}
+{"name":"toiletcli","vers":"0.7.3","deps":[],"cksum":"b1a7cc9d8e93237edf791836dcb9b1f7865f17a82b63bc67fdc09038a272616c","features":{"colors":[],"default":["flags","colors","escapes"],"escapes":[],"flags":[],"mock_codes":["colors"]},"yanked":false}
