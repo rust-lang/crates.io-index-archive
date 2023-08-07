@@ -1,0 +1,1 @@
+{"name":"asyncio-utils","vers":"0.4.1","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01c4b048c4a55fffcae7dd98885c2c59411416516af219e496390c569fa17859","features":{},"yanked":false}
