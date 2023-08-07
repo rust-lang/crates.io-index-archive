@@ -1,0 +1,1 @@
+{"name":"canyon-sys","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.66.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5fbd2aff6f6529c833eeca050e7b016c709198b9a5fdead0ead73c0b9f9c87cb","features":{},"yanked":false}
