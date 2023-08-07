@@ -1,0 +1,1 @@
+{"name":"radicle-dag","vers":"0.2.0","deps":[{"name":"fastrand","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf2f9da8f20e47901022d5a58c0ed1953d0b1dcdfbbb1ac8eee28b93d888a258","features":{},"yanked":false}
