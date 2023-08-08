@@ -1,0 +1,1 @@
+{"name":"tui-tools","vers":"0.1.0","deps":[{"name":"enable-ansi-support","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e12dc1a2f9c658e9cb7c968a311e6c750055596748526711c4d29a2f3e1a757c","features":{},"yanked":false}
