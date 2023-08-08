@@ -7,3 +7,4 @@
 {"name":"argh_shared","vers":"0.1.8","deps":[],"cksum":"47253b98986dafc7a3e1cf3259194f1f47ac61abb57a57f46ec09e48d004ecda","features":{},"yanked":false}
 {"name":"argh_shared","vers":"0.1.9","deps":[],"cksum":"149f75bbec1827618262e0855a68f0f9a7f2edc13faebf33c4f16d6725edb6a9","features":{},"yanked":false}
 {"name":"argh_shared","vers":"0.1.10","deps":[],"cksum":"64cb94155d965e3d37ffbbe7cc5b82c3dd79dd33bd48e536f73d2cfb8d85506f","features":{},"yanked":false}
+{"name":"argh_shared","vers":"0.1.11","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e88e0de1f43d15c92df9d6c94d8cb90cb73db205ce416912e128598c4fb02c0","features":{},"yanked":false}
