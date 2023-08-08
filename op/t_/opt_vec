@@ -1,1 +1,2 @@
 {"name":"opt_vec","vers":"0.1.0","deps":[],"cksum":"f3479bfed73573ed0c33869396c3f5c94edf40a669bc419090fc1d554e10455b","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.56"}
+{"name":"opt_vec","vers":"0.1.1","deps":[],"cksum":"02c8e04d6c5e300344b6add365bf65f616eeb63047952e5cab139b2f4900d5d7","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.56"}
