@@ -1,0 +1,1 @@
+{"name":"eater_domainmatcher","vers":"0.1.0","deps":[{"name":"smallvec","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7dec7ce5cf35fcdc84b5afd9083332d6f649de1db9ac668d264ead520ca64974","features":{},"features2":{"smallvec":["dep:smallvec"]},"yanked":false,"v":2}
