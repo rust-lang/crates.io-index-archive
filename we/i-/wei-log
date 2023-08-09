@@ -1,1 +1,2 @@
 {"name":"wei-log","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b58bde7a1f4411bbca8050ef6b15d4a38f043338a39681a018c6da4b76e2f75","features":{},"yanked":false}
+{"name":"wei-log","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fa17aed7c496b8410bf44a9b7c89cbd3abe6f653212c25047a4858b6a46ab83","features":{},"yanked":false}
