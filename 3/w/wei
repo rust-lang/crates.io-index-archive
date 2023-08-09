@@ -1,3 +1,4 @@
 {"name":"wei","vers":"0.1.0","deps":[],"cksum":"16c2ff23622bbdb66892b22b03cba7f56e905312434d9b793d4af047ad0e4902","features":{},"yanked":false}
 {"name":"wei","vers":"0.1.1","deps":[],"cksum":"bc4f7560253adc32a382702f4e2f0945fe7e5afaa74dd12bd04a2d1e068757ce","features":{},"yanked":false}
 {"name":"wei","vers":"0.1.2","deps":[{"name":"rkill_lib","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^1.18.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0692ac26412b83212612a2c1b7a7fd6b8f0ee6f666b14c17292567010e931907","features":{},"yanked":false}
+{"name":"wei","vers":"0.1.3","deps":[],"cksum":"369221d9aea215049f94cbf08a923171f3935e7968759c67e564beaf08dfd5cc","features":{},"yanked":false}
