@@ -1,0 +1,1 @@
+{"name":"syscall_encode_traits","vers":"0.1.0","deps":[{"name":"alloca","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8668679e1386a51a7a566a1a82b16fe09f41548ab753893a0b27a82b83afadbb","features":{},"yanked":false}
