@@ -17,3 +17,4 @@
 {"name":"forky","vers":"0.1.17","deps":[{"name":"sweet","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"041071b7b330949eb2aeae672c3b7e2419b209e9139e36d909b608d9bf624477","features":{},"yanked":false}
 {"name":"forky","vers":"0.1.18","deps":[{"name":"sweet","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7cd71792775d97924d7b3b901e113a9ee594b722eed76378d64abf0f396ff859","features":{},"yanked":false}
 {"name":"forky","vers":"0.1.19","deps":[{"name":"sweet","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3580bae0a23bbd3776c977ec5091cb06e6cf0ce802dc26f2323f64f41356751d","features":{},"yanked":false}
+{"name":"forky","vers":"0.1.20","deps":[],"cksum":"2d427d1baec34fd8b1f644a6441fc431766e7a95fb82065c9752444e858e239a","features":{},"yanked":false}
