@@ -1,0 +1,1 @@
+{"name":"pretty_regex","vers":"0.1.0","deps":[{"name":"regex","req":"^1.9.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33b3a8f8c3d3f2eb3f21daa1282d74c5b4826f4c2b734315bf8ebb0882fde3ad","features":{},"yanked":false}
