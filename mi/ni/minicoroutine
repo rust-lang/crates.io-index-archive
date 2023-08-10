@@ -1,0 +1,1 @@
+{"name":"minicoroutine","vers":"0.1.0","deps":[{"name":"minicoro-sys","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a1177e943738ade664f793627065616c8841b35c9941d16a0bedd1ea0a83161","features":{"default":["std"],"std":[]},"yanked":false}
