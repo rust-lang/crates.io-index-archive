@@ -1,0 +1,1 @@
+{"name":"oxide-spark-utils","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.183","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8b0ecb4bd56254b0f97a9021ebe576f51e9f6d99182a7b53dccc728dd578293","features":{},"yanked":false}
