@@ -1,1 +1,2 @@
 {"name":"oxide-spark-utils","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.183","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8b0ecb4bd56254b0f97a9021ebe576f51e9f6d99182a7b53dccc728dd578293","features":{},"yanked":false}
+{"name":"oxide-spark-utils","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.183","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9bb7a7518c410cf0e75f365d164d3d2977d95bbe545a35b7de72fddd98f38b6","features":{},"yanked":false}
