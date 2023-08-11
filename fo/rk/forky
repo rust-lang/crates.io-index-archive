@@ -18,3 +18,4 @@
 {"name":"forky","vers":"0.1.18","deps":[{"name":"sweet","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7cd71792775d97924d7b3b901e113a9ee594b722eed76378d64abf0f396ff859","features":{},"yanked":false}
 {"name":"forky","vers":"0.1.19","deps":[{"name":"sweet","req":"0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3580bae0a23bbd3776c977ec5091cb06e6cf0ce802dc26f2323f64f41356751d","features":{},"yanked":false}
 {"name":"forky","vers":"0.1.20","deps":[],"cksum":"2d427d1baec34fd8b1f644a6441fc431766e7a95fb82065c9752444e858e239a","features":{},"yanked":false}
+{"name":"forky","vers":"0.1.21","deps":[],"cksum":"30e19df64235099ed60370acc7442499c60637d56025f76fcb6388323bdc1678","features":{},"yanked":false}
