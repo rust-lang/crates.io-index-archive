@@ -1,1 +1,2 @@
 {"name":"base94","vers":"0.1.0","deps":[{"name":"num","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2da3cb013d8bb1ff09f9f33fe3d359e70d2794c7df6b82e07619578c6c1dbdcd","features":{},"yanked":false}
+{"name":"base94","vers":"0.2.0","deps":[{"name":"num","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0384fe6cd93453d475a71fe1b5b6178d564fb3710fb0ab4c941dbe843ae38acf","features":{},"yanked":false}
