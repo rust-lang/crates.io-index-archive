@@ -8,6 +8,6 @@
 {"name":"Texas","vers":"0.1.8","deps":[],"cksum":"6a368ea6143d3b954ac4299f374012a92993d1f2e1cf8604a490a56597cf34a9","features":{},"yanked":true}
 {"name":"Texas","vers":"0.1.9","deps":[],"cksum":"c87e8e88090fa4e432166875fe6edfad41cf2c5bc89320781217fa562a05125b","features":{},"yanked":true}
 {"name":"Texas","vers":"0.2.0","deps":[],"cksum":"947cb2a2a42ef77c40ab831e73130ef64f0c077eb13dc517ae1dd89e0a16d121","features":{},"yanked":true}
-{"name":"Texas","vers":"0.2.1","deps":[],"cksum":"e6191ce4bf7db405600be78123db0765af6e74e5a8cee8a2b32487802734654f","features":{},"yanked":false}
-{"name":"Texas","vers":"0.2.2","deps":[],"cksum":"00c8e7ac09a8a6109a33d044782e28dcfa83f195bfc7f6882e6895b153b18aa1","features":{},"yanked":false}
+{"name":"Texas","vers":"0.2.1","deps":[],"cksum":"e6191ce4bf7db405600be78123db0765af6e74e5a8cee8a2b32487802734654f","features":{},"yanked":true}
+{"name":"Texas","vers":"0.2.2","deps":[],"cksum":"00c8e7ac09a8a6109a33d044782e28dcfa83f195bfc7f6882e6895b153b18aa1","features":{},"yanked":true}
 {"name":"Texas","vers":"0.2.3","deps":[],"cksum":"c310e5399b4e2b98e034deafb837dce5787840789e97ca188f763bba5deffc7a","features":{},"yanked":false}
