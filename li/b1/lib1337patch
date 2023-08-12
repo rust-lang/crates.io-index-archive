@@ -1,0 +1,1 @@
+{"name":"lib1337patch","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3.7.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f1876d91adf20ec68c17cbbb708268da53a6c7bf40799a89c09217a2e20a65e0","features":{},"yanked":false}
