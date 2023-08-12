@@ -1,0 +1,1 @@
+{"name":"terrasound","vers":"0.1.0","deps":[{"name":"rodio","req":"^0.17.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c6d8c4bdd553baaab813abf29497009bc01616562044d4e8670d79bfc5743d7","features":{},"yanked":false}
