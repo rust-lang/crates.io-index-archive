@@ -1,0 +1,1 @@
+{"name":"lufact-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3cb0de3c2bf0d8a59c60cbb8296c6380bf9747f8e4c14e0ec757cc6ddc4efe6c","features":{},"yanked":false}
