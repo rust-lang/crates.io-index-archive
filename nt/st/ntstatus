@@ -1,0 +1,1 @@
+{"name":"ntstatus","vers":"0.1.0","deps":[{"name":"num_enum","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"063771a52c74e439072137fa775bccaeb1879958dbcb981eadd71544ca6b9835","features":{},"yanked":false}
