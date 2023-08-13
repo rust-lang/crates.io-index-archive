@@ -10,3 +10,4 @@
 {"name":"fixed2float","vers":"3.0.0-rc1","deps":[],"cksum":"cbcf3f8f44bccc46de06427fd2a0ae79239b3b70a399e8784d43815734ad7369","features":{},"yanked":false}
 {"name":"fixed2float","vers":"3.0.0","deps":[],"cksum":"77cb9a5df2fb218a5bd1e4974a11b4c9e2c49ca5b924da2bbc35d3203c60fa4a","features":{},"yanked":false}
 {"name":"fixed2float","vers":"4.0.0-rc1","deps":[],"cksum":"cf991a0d6e667dee6c986c74ebb323fe7f41776b165c519a4774d9b289833a49","features":{},"yanked":false}
+{"name":"fixed2float","vers":"4.0.1","deps":[],"cksum":"ca52b16242f123d6cbf5dac4fe480af167de22efcb5075ba1a18096065e83092","features":{},"yanked":false}
