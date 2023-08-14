@@ -1,0 +1,1 @@
+{"name":"kissa-core-console","vers":"0.1.0","deps":[{"name":"mlua","req":"^0.9.0-rc.3","features":["lua54","parking_lot"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a81dafbc779fb102852879b693a08a74d82731231529e4522ca61ccd021204bc","features":{},"yanked":false}
