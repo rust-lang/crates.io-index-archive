@@ -21,3 +21,4 @@
 {"name":"windows_aarch64_msvc","vers":"0.42.2","deps":[],"cksum":"e08e8864a60f06ef0d0ff4ba04124db8b0fb3be5776a5cd47641e942e58c4d43","features":{},"yanked":false}
 {"name":"windows_aarch64_msvc","vers":"0.47.0","deps":[],"cksum":"6a42d54a417c60ce4f0e31661eed628f0fa5aca73448c093ec4d45fab4c51cdf","features":{},"yanked":false}
 {"name":"windows_aarch64_msvc","vers":"0.48.0","deps":[],"cksum":"b2ef27e0d7bdfcfc7b868b317c1d32c641a6fe4629c171b8928c7b08d98d7cf3","features":{},"yanked":false}
+{"name":"windows_aarch64_msvc","vers":"0.48.2","deps":[],"cksum":"571d8d4e62f26d4932099a9efe89660e8bd5087775a2ab5cdd8b747b811f1058","features":{},"yanked":false}
