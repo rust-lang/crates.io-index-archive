@@ -3,3 +3,4 @@
 {"name":"front-vec","vers":"0.0.4","deps":[],"cksum":"a9cde389dff5571a90ffef93c20f1b73df74a44405164b34ecfea8770aa7e561","features":{},"yanked":false}
 {"name":"front-vec","vers":"0.0.5","deps":[],"cksum":"8fc84bc9ff64347fd500da4f7386e82bf3c8c14a71354c802db74ebf686c8b55","features":{},"yanked":false}
 {"name":"front-vec","vers":"0.0.6","deps":[],"cksum":"762c7f34a4e92ba8b14438629aff3659954539fcd9acc29376169465b15af106","features":{},"yanked":false}
+{"name":"front-vec","vers":"0.0.7","deps":[{"name":"assert2","req":"^0.3.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"094c85b8a41a9f174031ec1446dbd506cd7cdf7ad6ba02ed8505f0c3acce047a","features":{},"yanked":false}
