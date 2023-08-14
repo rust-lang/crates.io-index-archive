@@ -1,1 +1,2 @@
 {"name":"tauri-plugin-app","vers":"2.0.0-alpha.0","deps":[{"name":"tauri","req":"^2.0.0-alpha.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c88679f65ddc88b5d8b148d7713178a236dcc43d91063688a021d5a4c89ceaea","features":{},"yanked":false}
+{"name":"tauri-plugin-app","vers":"2.0.0-alpha.1","deps":[{"name":"tauri","req":"^2.0.0-alpha.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a21c8e0e83c188d69d74252194050891dd1cdc0ad432f2733ef9e05fcce2d2c4","features":{},"yanked":false}
