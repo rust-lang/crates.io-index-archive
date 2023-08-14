@@ -1,0 +1,1 @@
+{"name":"miniring","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.66","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6bec1c876f4e6ec3e3d52070d1201e9ad8975516ee69b99f98cce421b79d9e16","features":{},"yanked":false}
