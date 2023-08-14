@@ -1,0 +1,1 @@
+{"name":"redgold-sdk-client","vers":"0.1.9","deps":[{"name":"redgold-schema","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac31eda3d291ddb96cb4087c980b2363941b7d2a308093d6cbe6433bdd845e07","features":{},"yanked":false}
