@@ -1,0 +1,1 @@
+{"name":"amap","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e750a86e3ac5f134b9f27afa05bba18ef2404cbd0622c69b23637976c08722ed","features":{},"yanked":false}
