@@ -1,1 +1,2 @@
 {"name":"redgold-sdk-client","vers":"0.1.9","deps":[{"name":"redgold-schema","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac31eda3d291ddb96cb4087c980b2363941b7d2a308093d6cbe6433bdd845e07","features":{},"yanked":false}
+{"name":"redgold-sdk-client","vers":"0.1.10","deps":[{"name":"redgold-schema","req":"^0.1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8e9d89da80daaa399b4659f374652f125e5fd2c5705e5a0835ead0b9be95fe5","features":{},"yanked":false}
