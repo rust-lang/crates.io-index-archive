@@ -1,0 +1,1 @@
+{"name":"vapoursynth4-rs","vers":"0.1.0","deps":[{"name":"vapoursynth4-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3946df2e17a77016e6977cb938862c1b96e17716c3f8a763282ac70b32dd15c8","features":{},"yanked":false}
