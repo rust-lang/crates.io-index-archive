@@ -11,3 +11,4 @@
 {"name":"arabic_reshaper","vers":"0.3.1","deps":[{"name":"once_cell","req":"^1.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.4.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08307facb6a71001ff2c621fb7d36ae64d408f976c24e2058852866d97982aaf","features":{},"yanked":false}
 {"name":"arabic_reshaper","vers":"0.4.0","deps":[],"cksum":"f24f30f0a59e292141c935fbfad61f3a400125bbd254306423872b14d3b6d4bd","features":{},"yanked":false}
 {"name":"arabic_reshaper","vers":"0.4.1","deps":[],"cksum":"2a2079166b1ee508072cb6e34f24f10782f693d660e96d1f0114e43667f98a2c","features":{},"yanked":false}
+{"name":"arabic_reshaper","vers":"0.4.2","deps":[],"cksum":"eb963411bc62b3888e69ad0d821ac03a3176ec7d74c2096bb5555a4cc419545b","features":{},"yanked":false}
