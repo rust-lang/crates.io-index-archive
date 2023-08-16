@@ -1,1 +1,2 @@
 {"name":"clown","vers":"0.1.0","deps":[],"cksum":"bb67e3eac757c0571a30265278caf313ee3c79301fbb817947866922d7cf500f","features":{},"yanked":false}
+{"name":"clown","vers":"1.0.0","deps":[{"name":"quote","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2","features":["visit-mut","full","parsing","printing","proc-macro"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e673517a5991d0ee8acb32a304ddb1a16183a7b9aa36837fbb11bd71c78bbc49","features":{},"yanked":false}
