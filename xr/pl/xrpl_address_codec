@@ -2,3 +2,4 @@
 {"name":"xrpl_address_codec","vers":"0.9.0","deps":[],"cksum":"ca079e89bbc0e6f94c36573e37828eb54da37d8a0435f62149d9d6c84f3a6d64","features":{},"yanked":false}
 {"name":"xrpl_address_codec","vers":"0.11.0","deps":[],"cksum":"3da8ed5a3e99af4f4ea3e4da17fe44d8523c1bea43ac0fad592ce8b3d30cb908","features":{},"yanked":false}
 {"name":"xrpl_address_codec","vers":"0.12.0","deps":[],"cksum":"f7187ec5bbf068dc534cecdb2df7bf15be3a56dba400e7fce2427fda06549d63","features":{},"yanked":false}
+{"name":"xrpl_address_codec","vers":"0.13.0","deps":[],"cksum":"b6255429b39b6cb0d4fdd8c634b881dd13b9778e1b5f292714696e878c28ec3a","features":{},"yanked":false}
