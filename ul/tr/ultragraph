@@ -1,0 +1,1 @@
+{"name":"ultragraph","vers":"0.4.4","deps":[{"name":"petgraph","req":"^0.6.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48f31366362f7b04dd7917bac95052152c274c9aa747a2d1f907aaf2478845d0","features":{},"yanked":false,"rust_version":"1.65"}
