@@ -9,3 +9,4 @@
 {"name":"windows_aarch64_gnullvm","vers":"0.48.2","deps":[],"cksum":"b10d0c968ba7f6166195e13d593af609ec2e3d24f916f081690695cf5eaffb2f","features":{},"yanked":false}
 {"name":"windows_aarch64_gnullvm","vers":"0.48.3","deps":[],"cksum":"fde1bb55ae4ce76a597a8566d82c57432bc69c039449d61572a7a353da28f68c","features":{},"yanked":false}
 {"name":"windows_aarch64_gnullvm","vers":"0.48.4","deps":[],"cksum":"d14b0ee96970be7108701212f097ce67ca772fd84cb0ffbc86d26a94e77ba929","features":{},"yanked":false}
+{"name":"windows_aarch64_gnullvm","vers":"0.48.5","deps":[],"cksum":"2b38e32f0abccf9987a4e3079dfb67dcd799fb61361e53e2882c3cbaf0d905d8","features":{},"yanked":false}
