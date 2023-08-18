@@ -1,1 +1,2 @@
 {"name":"orx-imp-vec","vers":"0.1.0","deps":[{"name":"orx-split-vec","req":"^0.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d0f47054ae23c37bb032ed304d5569b83d0bdc8acdec93a014885e09ade420a","features":{},"yanked":false}
+{"name":"orx-imp-vec","vers":"0.1.1","deps":[{"name":"orx-split-vec","req":"^0.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f86b12a837fb4ce33e449e81251c6a5a1f5cd27a791d3dae5f3678a98e37ba3a","features":{},"yanked":false}
