@@ -27,3 +27,4 @@
 {"name":"windows_i686_msvc","vers":"0.48.2","deps":[],"cksum":"600956e2d840c194eedfc5d18f8242bc2e17c7775b6684488af3a9fff6fe3287","features":{},"yanked":false}
 {"name":"windows_i686_msvc","vers":"0.48.3","deps":[],"cksum":"224fe0e0ffff5d2ea6a29f82026c8f43870038a0ffc247aa95a52b47df381ac4","features":{},"yanked":false}
 {"name":"windows_i686_msvc","vers":"0.48.4","deps":[],"cksum":"962e96d0fa4b4773c63977977ea6564f463fb10e34a6e07360428b53ae7a3f71","features":{},"yanked":false}
+{"name":"windows_i686_msvc","vers":"0.48.5","deps":[],"cksum":"8f55c233f70c4b27f66c523580f78f1004e8b5a8b659e05a4eb49d4166cca406","features":{},"yanked":false}
