@@ -1,0 +1,1 @@
+{"name":"motor_toolbox_rs","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.183","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3fe31a7e409bd05d86ae142044d3fea094d2636202970c508da9692bf14a298","features":{},"yanked":false}
