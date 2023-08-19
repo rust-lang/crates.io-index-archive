@@ -1,0 +1,1 @@
+{"name":"playdate-rs","vers":"0.0.1","deps":[{"name":"playdate-rs-sys","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f334472b7d92108093e57e4ef9632595cd314aaf1e0e47f7451ac94c2560135","features":{},"yanked":false}
