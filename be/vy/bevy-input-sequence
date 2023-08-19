@@ -1,0 +1,1 @@
+{"name":"bevy-input-sequence","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"19421033196589f57c2af505679e09c0bad26c9fb35b783908f259c2e760c75c","features":{},"yanked":false}
