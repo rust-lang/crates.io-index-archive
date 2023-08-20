@@ -1,0 +1,1 @@
+{"name":"bevy_c3d","vers":"0.11.0","deps":[{"name":"bevy","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"c3dio","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"41ccb561b232e2f2e9dcbdc3676a15a773fe0683a98e35b5798b758034bf57bc","features":{},"yanked":false}
