@@ -17,3 +17,4 @@
 {"name":"afire","vers":"2.0.0","deps":[],"cksum":"749dec06bad15d56cfc5117d83efe35064c1a5a72f22acce777760159e5f884d","features":{"default":["tracing"],"extensions":[],"tracing":[]},"yanked":false}
 {"name":"afire","vers":"2.1.0","deps":[],"cksum":"f345f4737cfda8976a7cf49bc1fe3e0987bfb7d26fdeff7497c95da48890521c","features":{"default":["tracing","emoji-logging"],"emoji-logging":[],"extensions":[],"tracing":[]},"yanked":false}
 {"name":"afire","vers":"2.2.0","deps":[],"cksum":"40331e59bec7204bfd70e1a58a1d9bb5157c3e7a3e8929a628809a66a6d04acc","features":{"default":["tracing","emoji-logging"],"emoji-logging":[],"extensions":[],"tracing":[]},"yanked":false}
+{"name":"afire","vers":"2.2.1","deps":[],"cksum":"4151b6d8f7857bc0925b1d20328febd715ef6e7397a80cb3cd7c4a548c2a7f69","features":{"default":["tracing","emoji-logging"],"emoji-logging":[],"extensions":[],"tracing":[]},"yanked":false}
