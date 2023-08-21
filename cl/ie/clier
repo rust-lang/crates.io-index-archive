@@ -1,0 +1,1 @@
+{"name":"clier","vers":"0.0.1","deps":[{"name":"thiserror","req":"^1.0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3a2bfbe503bd36386cf76eb806246c2fdb6ace2ef18b6a130c983f49df09eb5","features":{"hooks":[]},"yanked":false}
