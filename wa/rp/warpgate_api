@@ -1,0 +1,1 @@
+{"name":"warpgate_api","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.183","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60a51a8ec8651b32851505048f7ac168d1c8490d3a963591dad7fa8e1fa89411","features":{},"yanked":false}
