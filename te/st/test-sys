@@ -1,0 +1,1 @@
+{"name":"test-sys","vers":"0.3.1","deps":[{"name":"reqwest","req":"^0.11.18","features":["blocking","rustls-tls"],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"1f4aa80385cb3f856b84eed9748505b4c06fdc27a8e73f05281921d3273d7427","features":{},"yanked":false}
