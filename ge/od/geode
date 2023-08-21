@@ -1,1 +1,2 @@
 {"name":"geode","vers":"0.1.0","deps":[],"cksum":"c3771ac6b9510b94e0bbebe442bfd679ce2f94186aa7e4c110f15aba14f458dc","features":{},"yanked":false}
+{"name":"geode","vers":"0.1.1","deps":[{"name":"windows","req":">=0.51.0","features":["Win32_System_LibraryLoader","Win32_Foundation"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7af86bf56bcd2edf4530ff943bd843cac3095080c77fff58bffd37407250e2f0","features":{},"yanked":false}
