@@ -1,0 +1,1 @@
+{"name":"anchor_client_gen","vers":"0.1.0","deps":[{"name":"utils","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"anchor-client-gen-utils"}],"cksum":"5a33241aebcf53a7163ac70a06b603f4cdb29d846dd82be8a782b120c8eeb4b6","features":{},"yanked":false}
