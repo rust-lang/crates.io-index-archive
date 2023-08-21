@@ -1,1 +1,2 @@
 {"name":"c3dio","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7e6d98b9d20455150b8aba23d5ede7ddc04f0005732284b869256ba4e765939","features":{},"yanked":false}
+{"name":"c3dio","vers":"0.2.0","deps":[{"name":"nalgebra","req":"^0.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4c14269008768989e617c30f1a875ba65a2fe907aa1973c452f72da6c454079","features":{},"yanked":false}
