@@ -1,0 +1,1 @@
+{"name":"bsharp_bstar","vers":"0.2.2","deps":[{"name":"ir","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"bsharp_ir"}],"cksum":"ad037849579a8c12743698cffa7e4c8ff12c33bd72100648844a01b60802d130","features":{},"yanked":false}
