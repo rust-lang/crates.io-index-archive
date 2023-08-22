@@ -8,3 +8,4 @@
 {"name":"dyn-fmt","vers":"0.2.4","deps":[],"cksum":"dece7822a50d751f07ca943f091fc98922294a2145e8f54b705e4b67173b5641","features":{"default":["std"],"std":[]},"yanked":true}
 {"name":"dyn-fmt","vers":"0.2.5","deps":[],"cksum":"8403238afac99a419df08154684e1740ea815690f4c74e3f10541178b564e9d6","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"dyn-fmt","vers":"0.3.0","deps":[],"cksum":"c2a0836c9bd73a9d3ca55b0effc5b1eedf96dd13ef994389bcac6d4d33c46188","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"dyn-fmt","vers":"0.4.0","deps":[],"cksum":"79ef34f092abc832595d6e7b81a416403243ab94cc4c8262608aa4fddc95209a","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.71"}
