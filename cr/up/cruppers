@@ -1,0 +1,1 @@
+{"name":"cruppers","vers":"0.4.0","deps":[{"name":"cc","req":">=1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3226499bd68af2090f72b8270d1edfca7e4f24e543aa75e301228a8f93682a28","features":{"default":["memory","exception"],"exception":[],"iostream":[],"memory":[]},"yanked":false}
