@@ -17,3 +17,4 @@
 {"name":"communication-layer-request-reply","vers":"0.2.3","deps":[],"cksum":"feb5ccc276046cbdac2f993a5d22bbf0c7922b3ed1db470e7ca19bd1e77d3641","features":{},"yanked":false}
 {"name":"communication-layer-request-reply","vers":"0.2.4-rc3","deps":[],"cksum":"d28c323b63e1daae32267aa1fb9fb57dc0234777857022dd42bb2edc97b0f229","features":{},"yanked":false}
 {"name":"communication-layer-request-reply","vers":"0.2.4","deps":[],"cksum":"f016a229d87ed771144351214bb1ddcf43a31ee5274e838d1511f2e457a4cc3b","features":{},"yanked":false}
+{"name":"communication-layer-request-reply","vers":"0.2.5-alpha.1","deps":[],"cksum":"cf58a22ff2d64175cfd5a31c048621f48ee17d25e001ff6cf1f6dc19bbaac8e0","features":{},"yanked":false}
