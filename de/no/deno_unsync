@@ -1,0 +1,1 @@
+{"name":"deno_unsync","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["rt"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c870ce140f67570e2058e82b699c2476a647c28791b3955cfd0e6afdc3c8badf","features":{},"yanked":false}
