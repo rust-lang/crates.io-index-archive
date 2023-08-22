@@ -1,1 +1,2 @@
 {"name":"unit-wasm","vers":"0.1.0-beta","deps":[],"cksum":"29a890c4b1aa6476a1d7c1d4ea1ac29226122cc55e81b0af56a75298048bcd54","features":{},"yanked":false,"links":"unit-wasm"}
+{"name":"unit-wasm","vers":"0.1.0","deps":[{"name":"unit-wasm-sys","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6fa128ebfc41fc2bdd0d9ab3520d297b25db82a9ba6b6d792e5842910277455f","features":{},"yanked":false}
