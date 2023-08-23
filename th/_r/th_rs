@@ -1,1 +1,2 @@
 {"name":"th_rs","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.66.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7c7f78b42d9efc781d91dd0a1b604ecca45cd025119edfc2fed19089fd3973d4","features":{},"yanked":false}
+{"name":"th_rs","vers":"0.1.1","deps":[{"name":"bindgen","req":"^0.66.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"869545a9ad82aa21bfeb67e769312a276145aa76a312e2fbe0854d0d8138d217","features":{},"yanked":false}
