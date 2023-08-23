@@ -1,0 +1,1 @@
+{"name":"ppt-kit","vers":"0.1.0","deps":[{"name":"quick-xml","req":"^0.30.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a6b05aaa3c65123e1de7fd089bfe02e2251d5e5b1073e872cf28e32618a398f","features":{},"yanked":false,"rust_version":"1.64.0"}
