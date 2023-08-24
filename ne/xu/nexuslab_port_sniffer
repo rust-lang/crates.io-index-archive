@@ -1,0 +1,1 @@
+{"name":"nexuslab_port_sniffer","vers":"0.1.0","deps":[{"name":"clap","req":"^4.3.22","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c7623b694545ed13846254e65f255fce62a172107c4795ccc2d207ec8b58ff7","features":{},"yanked":false}
