@@ -1,0 +1,1 @@
+{"name":"uuidv4","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.5.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7c82f626937ef9e4f9592b90209c3f1086f4267a880e4572597110bcc053bbd6","features":{},"yanked":false}
