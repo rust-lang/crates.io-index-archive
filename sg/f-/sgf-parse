@@ -20,3 +20,4 @@
 {"name":"sgf-parse","vers":"4.0.0","deps":[],"cksum":"2268ba396ed960c618d341e868803561962ea848e0fa935bc6b7c9d1643d7da1","features":{},"yanked":false}
 {"name":"sgf-parse","vers":"4.1.0","deps":[],"cksum":"6cc1600e16350c8fd935d8f124dffab15f93543b22f8ded2057901c09b4d2db7","features":{},"yanked":false}
 {"name":"sgf-parse","vers":"4.2.0","deps":[],"cksum":"123c62b51d92a897da55636aaf6efd0f9a96cd91cebd79555f8e0e846b5e30bd","features":{},"yanked":false}
+{"name":"sgf-parse","vers":"4.2.1","deps":[],"cksum":"7aeeb265fe56d6e10e726905d6c1705c5642943bbebe82ebc2673e81086ea5ca","features":{},"yanked":false}
