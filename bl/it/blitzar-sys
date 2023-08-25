@@ -1,2 +1,2 @@
-{"name":"blitzar-sys","vers":"0.1.0","deps":[],"cksum":"39c992d07a7c8b5c4f0aedc3edac7dcae8f194b45bb984b1f21fd563ef9efe44","features":{},"yanked":false}
+{"name":"blitzar-sys","vers":"0.1.0","deps":[],"cksum":"39c992d07a7c8b5c4f0aedc3edac7dcae8f194b45bb984b1f21fd563ef9efe44","features":{},"yanked":true}
 {"name":"blitzar-sys","vers":"0.0.2","deps":[{"name":"reqwest","req":"^0.11.18","features":["blocking","rustls-tls"],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"e7e2b87b431930a7ed5be1555a74cedb73866cd9f93484d05c96e11c05a95408","features":{},"yanked":false,"rust_version":"1.71.1"}
