@@ -1,0 +1,1 @@
+{"name":"packinglist","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ec5e20532cb1fb817743dc1faafbe1daae54c8c6f70d2ad28a1adf29c16bbbc","features":{},"yanked":false}
