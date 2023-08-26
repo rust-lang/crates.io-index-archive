@@ -1,1 +1,2 @@
 {"name":"lil_iti","vers":"0.1.0","deps":[{"name":"powershell_script","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c3f0b3609cf1b837dce313bc7409c2c95471eae8b6bd8b101e023cb782628235","features":{},"yanked":false}
+{"name":"lil_iti","vers":"0.1.1","deps":[{"name":"powershell_script","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28e9dcc4397efb596b8348394b49b15e9c4a5811ecd825d85e8b40efb270c2c0","features":{},"yanked":false}
