@@ -7,3 +7,4 @@
 {"name":"memacc","vers":"0.1.6","deps":[],"cksum":"66ac48e2b1d4f68e48c1048f0f08c3473102bc39584122661a2f84c5579a84c5","features":{"no-std":[]},"yanked":false}
 {"name":"memacc","vers":"0.1.8","deps":[],"cksum":"6101fa145a01e331c9a0cc180ef9282448fbacade92c689537670f8d216fbc3a","features":{"no-std":[]},"yanked":false}
 {"name":"memacc","vers":"0.1.9","deps":[],"cksum":"5cf7452a750e4e8b92ecdd01697887b6b00c6c67a849b369fde50e7c7b3b80ec","features":{"no-std":[]},"yanked":false}
+{"name":"memacc","vers":"0.1.10","deps":[],"cksum":"3646bf9cc6909eafb4f53106757418cf56553bdc828bad29a43eb56bcba400ea","features":{"no-std":[]},"yanked":false}
