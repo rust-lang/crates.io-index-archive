@@ -5,3 +5,4 @@
 {"name":"memacc","vers":"0.1.4","deps":[],"cksum":"ea344f5806930c57cba483792226d0b71eeda9db5a3ccba2ea18da986ff69628","features":{"no-std":[]},"yanked":false}
 {"name":"memacc","vers":"0.1.5","deps":[],"cksum":"2925f5dc1632c7893eecd2233036f81bcca4bd1001973899293e392f790ebe21","features":{"no-std":[]},"yanked":false}
 {"name":"memacc","vers":"0.1.6","deps":[],"cksum":"66ac48e2b1d4f68e48c1048f0f08c3473102bc39584122661a2f84c5579a84c5","features":{"no-std":[]},"yanked":false}
+{"name":"memacc","vers":"0.1.8","deps":[],"cksum":"6101fa145a01e331c9a0cc180ef9282448fbacade92c689537670f8d216fbc3a","features":{"no-std":[]},"yanked":false}
