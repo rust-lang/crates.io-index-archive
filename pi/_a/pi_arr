@@ -1,0 +1,1 @@
+{"name":"pi_arr","vers":"0.1.0","deps":[{"name":"pi_null","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"pi_share","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb61f92efe48226c4e19abe2008c005d91aa1b84a1d68e88eee5c4e23b88f270","features":{},"yanked":false}
