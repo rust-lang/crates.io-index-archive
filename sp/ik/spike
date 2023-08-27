@@ -1,1 +1,2 @@
 {"name":"spike","vers":"0.0.0","deps":[],"cksum":"f6af8e0e84a9654fb9f1cf63fd1ec6cef3a0fa52fdb3eb898ff5b291147709ae","features":{},"yanked":false}
+{"name":"spike","vers":"0.0.1","deps":[{"name":"matchit","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"touche","req":"^0.0.8","features":["server"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1c8f017b6c5d964e4f17952547a3947e2ee3e994dc12c677966ba3f539f7f6bd","features":{},"yanked":false}
