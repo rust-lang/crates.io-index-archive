@@ -1,1 +1,2 @@
 {"name":"mini-c-ares-src","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7053372cdb2bfb248569386f0995bc1dd46ad7afff103ad888f5933178481f27","features":{},"yanked":false}
+{"name":"mini-c-ares-src","vers":"0.2.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a0de64ff009ff5ff6fbcddb471020913e65b83f81729e3911e87dc4563c6cea2","features":{},"yanked":false}
