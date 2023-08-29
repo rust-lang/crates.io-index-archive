@@ -13,3 +13,4 @@
 {"name":"orx-split-vec","vers":"0.3.0","deps":[],"cksum":"6410f2539c63b184f462e41598fca3215ee9b8c1f1c6fe6c56706732287b12e2","features":{},"yanked":false}
 {"name":"orx-split-vec","vers":"0.5.0","deps":[],"cksum":"7077af494535e488506565655327dbaa2b2ffe59b1779974a701f4ca14eaa1ef","features":{},"yanked":false}
 {"name":"orx-split-vec","vers":"0.6.0","deps":[{"name":"orx-pinned-vec","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"38f4a20ba5bf30db09b3e7f02a649e62802141d25573508ec2a4234880c121db","features":{},"yanked":false}
+{"name":"orx-split-vec","vers":"0.6.1","deps":[{"name":"orx-pinned-vec","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf211c9f83fdf8cb22187bc3c492cf44fe8e577803281cceb545781ad17b1067","features":{},"yanked":false}
