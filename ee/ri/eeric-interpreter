@@ -1,1 +1,2 @@
 {"name":"eeric-interpreter","vers":"0.0.0","deps":[{"name":"eeric","req":"^0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d84b262ce66208060abe21ac0c646db02823bae91d3b3573e8c8524366f7a772","features":{},"yanked":false}
+{"name":"eeric-interpreter","vers":"0.0.1","deps":[{"name":"eeric","req":"^0.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3546f620a3870ccd9538be7657d20f76fa1d206890a21d6c87eb5e2af6a77404","features":{},"yanked":false}
