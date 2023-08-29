@@ -1,0 +1,1 @@
+{"name":"login-poweroff-reboot","vers":"0.2.1","deps":[{"name":"dbus","req":"^0.9.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"571abaff222568ee74508104ce1ed512ad0500b0f6a1625ade678503a8e7cbfc","features":{},"yanked":false}
