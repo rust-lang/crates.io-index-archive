@@ -1,1 +1,2 @@
 {"name":"orx-fixed-vec","vers":"0.1.0","deps":[{"name":"orx-pinned-vec","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea2d39e17cb6351ff92f30b561e647f72a5d478c1a0670f754347662dee0d510","features":{},"yanked":false}
+{"name":"orx-fixed-vec","vers":"0.1.1","deps":[{"name":"orx-pinned-vec","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8cb75fac664018990e5757edcf34cffd04b41e3c5477c2a9e71e90c6e6cdf515","features":{},"yanked":false}
