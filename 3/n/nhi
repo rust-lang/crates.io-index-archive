@@ -1,0 +1,1 @@
+{"name":"nhi","vers":"0.0.1","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.9.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f68a4cb5d56bc426f0e449770497fc42d18a2c9e24000355a7d6f3c7c1b4a7d1","features":{},"yanked":false}
