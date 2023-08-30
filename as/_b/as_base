@@ -1,1 +1,2 @@
 {"name":"as_base","vers":"0.1.0","deps":[{"name":"as_base_proc_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbaac83f34cd2e5567007f52634025b7972996081d74d54164a8eb3db3e6e754","features":{},"yanked":false}
+{"name":"as_base","vers":"0.1.1","deps":[{"name":"as_base_proc_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27c02cb461d1ae78654495030ca8badec2dc39ddfcc062ca69adda2faaf3084e","features":{},"yanked":false}
