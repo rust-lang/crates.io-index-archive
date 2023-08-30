@@ -1,2 +1,2 @@
-{"name":"do_syscall","vers":"1.0.0","deps":[],"cksum":"dbd617d12f97fd90b0c16c34f7282ed5e74049f7b7f16fe756a00d28d8320d3e","features":{},"yanked":false}
+{"name":"do_syscall","vers":"1.0.0","deps":[],"cksum":"dbd617d12f97fd90b0c16c34f7282ed5e74049f7b7f16fe756a00d28d8320d3e","features":{},"yanked":true}
 {"name":"do_syscall","vers":"1.0.1","deps":[],"cksum":"ee0c14bf70480852bb3cdb3af4917bbea6647f720dd4595da02a49f8c50bcaa3","features":{},"yanked":false}
