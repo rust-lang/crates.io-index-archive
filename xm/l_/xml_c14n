@@ -1,1 +1,2 @@
 {"name":"xml_c14n","vers":"0.1.0","deps":[{"name":"libxml","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dd420559877fdd64c24c60da169b244cb9675b945bd2373d385862be227af0b0","features":{},"yanked":false}
+{"name":"xml_c14n","vers":"0.1.1","deps":[{"name":"libxml","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e398577bf730251e645d56987116d3a237da8891877d537ce1a6c6ae2dd85e84","features":{},"yanked":false}
