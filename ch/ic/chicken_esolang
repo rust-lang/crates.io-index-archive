@@ -1,0 +1,1 @@
+{"name":"chicken_esolang","vers":"0.1.0","deps":[{"name":"rstest","req":"^0.18.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8eeb23710b8514530a7199b8d4f7415d1347709e30d303cac76956231f8ef837","features":{},"yanked":false}
