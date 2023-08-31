@@ -1,0 +1,1 @@
+{"name":"iprint","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.20","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"421be383e979da1e7c148789491e8fd5e267ef402f2533972bb72838501a07d9","features":{},"features2":{"log":["dep:log"]},"yanked":false,"v":2}
