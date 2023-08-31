@@ -1,0 +1,1 @@
+{"name":"kindle_formats","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.188","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"775c939626af679363305094769b7096b4a918aabc4c5063498e39e1e9acfd25","features":{"default":["krds"],"krds":[]},"yanked":false}
