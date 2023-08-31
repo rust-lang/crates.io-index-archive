@@ -1,0 +1,1 @@
+{"name":"mintaka-utils","vers":"0.0.2","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_arch = \"wasm32\"))","kind":"normal"}],"cksum":"9ddb7ec0ec3292a4e955df4875cc7c93d9bc8334f1d3da149d60c462f9e48627","features":{},"yanked":false}
