@@ -1,0 +1,1 @@
+{"name":"pwallet","vers":"0.1.0","deps":[{"name":"cok","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"doe","req":"^0.1.76","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b30be71c01fcfc9bb1a411eaa5fc91b70e913c1c975b1d2e4cc8fd35a1b55c34","features":{},"yanked":false}
