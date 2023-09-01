@@ -1,0 +1,1 @@
+{"name":"pinata_ipfs","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.11.20","features":["multipart"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d61a7b6227decb721589ed387774520275d0c09f473dae0394b2d8dcc065523b","features":{},"yanked":false}
