@@ -1,1 +1,2 @@
 {"name":"rustls-pki-types","vers":"0.1.0","deps":[],"cksum":"552ca8d860ee038f7bdaa707110bb35a5bd24c6170fa27062fe64ff9d16a1186","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.60"}
+{"name":"rustls-pki-types","vers":"0.1.1","deps":[],"cksum":"c20f89331c1e8d833b9f8069719349e578c9b1e8ad7da4f20c2a5f8a51c088e9","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.60"}
