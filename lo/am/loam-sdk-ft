@@ -1,1 +1,2 @@
 {"name":"loam-sdk-ft","vers":"0.6.2","deps":[{"name":"loam-sdk","req":"^0.6.2","features":["loam-soroban-sdk"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf9ef5de72776255a1410745d75313b8ea32696675d23bfc6c6d9c01bdc9c5ef","features":{},"yanked":false}
+{"name":"loam-sdk-ft","vers":"0.6.3","deps":[{"name":"loam-sdk","req":"^0.6.2","features":["loam-soroban-sdk"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03d5fdf196e12638b8ab23d2bac684f4d92ff204675580945047877d67876426","features":{},"yanked":false}
