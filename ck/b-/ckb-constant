@@ -40,3 +40,4 @@
 {"name":"ckb-constant","vers":"0.111.0-rc9","deps":[],"cksum":"feeb3174a349acb1aad6cf3f783cff4a197df536daff5bc1bf644d1a70b13fbe","features":{},"yanked":false}
 {"name":"ckb-constant","vers":"0.111.0-rc10","deps":[],"cksum":"2db45726f598aab6da3c53a49f2135e93c7c55d144f77a5eb92aa09fa71506d6","features":{},"yanked":false}
 {"name":"ckb-constant","vers":"0.110.1","deps":[],"cksum":"ac0726025f421e6b8876189e4b43c10c566a9381d8f65ae420fe858c8114fd48","features":{},"yanked":false}
+{"name":"ckb-constant","vers":"0.110.2-rc1","deps":[],"cksum":"4bd69d7f2275b0052af24be820e89626614ac8c67744f42a05252706cba6ac6f","features":{},"yanked":false}
