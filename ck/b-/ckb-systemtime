@@ -16,3 +16,4 @@
 {"name":"ckb-systemtime","vers":"0.111.0-rc10","deps":[],"cksum":"c44fa6339726e05092024a669a90d54b8f08359948cd0db0e6e4ad5070bfc688","features":{"default":[],"enable_faketime":[]},"yanked":false}
 {"name":"ckb-systemtime","vers":"0.110.1","deps":[],"cksum":"833e77494d964c36c844417cdd7da1a66d3318f2ac73a1fa5db4606ac2c0d568","features":{"default":[],"enable_faketime":[]},"yanked":false}
 {"name":"ckb-systemtime","vers":"0.110.2-rc1","deps":[],"cksum":"4651e3fb6bd5395d6c82ba970dee505f133d6458025554b6540d3e0bb997b8ed","features":{"default":[],"enable_faketime":[]},"yanked":false}
+{"name":"ckb-systemtime","vers":"0.111.0-rc11","deps":[],"cksum":"3e6e38f232815012d77234e6ea1b59d990f432fd53be7b420c5d2f1630bdc8fa","features":{"default":[],"enable_faketime":[]},"yanked":false}
