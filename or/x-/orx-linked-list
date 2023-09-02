@@ -1,1 +1,2 @@
 {"name":"orx-linked-list","vers":"0.1.0","deps":[{"name":"orx-imp-vec","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f30ea9072d1d77fd5697fbde5eeccd78b98dc48776d261e6babfbd2af0926c24","features":{},"yanked":false}
+{"name":"orx-linked-list","vers":"0.1.1","deps":[{"name":"orx-imp-vec","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7147cd1e287123c642ab36c81a68d26f5f00ed384a1564cf1dbac5248c0e095f","features":{},"yanked":false}
