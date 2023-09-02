@@ -1,0 +1,1 @@
+{"name":"copy-range","vers":"0.1.0","deps":[],"cksum":"d495d5b2599b9b0207316454bd13cc38d25f7bd52aca98bb573c8e4a2ed686ad","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
