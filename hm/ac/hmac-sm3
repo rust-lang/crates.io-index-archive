@@ -1,0 +1,1 @@
+{"name":"hmac-sm3","vers":"0.1.0","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"sm3","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2d149a8407ed0e026ec843aa938ba81cc15b707ab5f4ea0c2ff518830cf4766","features":{},"yanked":false}
