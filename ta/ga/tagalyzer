@@ -1,0 +1,1 @@
+{"name":"tagalyzer","vers":"0.0.1","deps":[{"name":"clap","req":"^4.4.2","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43d15938b3533c89dbf05e423ee51d878ae9900e467276bc0ff437700d3aeb79","features":{},"yanked":false}
