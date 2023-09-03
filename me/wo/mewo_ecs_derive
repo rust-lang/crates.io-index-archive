@@ -1,0 +1,1 @@
+{"name":"mewo_ecs_derive","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a36242a33dc72646ed13e8098d16869531dbe13cc3e544f7ef5c803ee8b57bd","features":{},"yanked":false}
