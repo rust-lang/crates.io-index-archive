@@ -1,1 +1,2 @@
 {"name":"tatk","vers":"0.2.0","deps":[],"cksum":"29d84c2779a5d0878fa03855db6280b63072ae4de4f87298074f936c479fb44e","features":{"default":[],"f32":[],"full":["test-data"],"test-data":[]},"yanked":false}
+{"name":"tatk","vers":"0.2.1","deps":[],"cksum":"084bf43f4f20a7a8b1c27ae383a88906871bd1cce22ca2f2640d3cb3f3e082aa","features":{"default":[],"f32":[],"full":["test-data"],"test-data":[]},"yanked":false}
