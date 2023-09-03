@@ -1,0 +1,1 @@
+{"name":"qc_file_parsers","vers":"0.2.2","deps":[{"name":"nalgebra","req":"^0.32.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ae05cb8d45d6b78f3b82cfd579f9425e4127241e05c70de0bd7373ed826de27","features":{},"yanked":false}
