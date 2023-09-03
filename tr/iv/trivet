@@ -5,3 +5,4 @@
 {"name":"trivet","vers":"1.1.0","deps":[],"cksum":"66d7e11e80e3fda52fb8205b6586a3ef922219c67d3955c9f015deb135af8e44","features":{"strict":[]},"yanked":false}
 {"name":"trivet","vers":"1.1.1","deps":[],"cksum":"b1ac1b555ce9a94ec1c61252b56aa6c7226fc1a00d0def1ab74f27a011a402b2","features":{"strict":[]},"yanked":false}
 {"name":"trivet","vers":"2.0.0","deps":[],"cksum":"5a8bde1922ed661604674cdb2d8538c00e177775c13755c90a0804c9ca92b309","features":{"default":["legacy"],"legacy":[],"no_stall_detection":[],"no_tracking":[],"no_ucd":[],"strict":[],"uppercase_hex":[]},"yanked":false}
+{"name":"trivet","vers":"2.0.1","deps":[],"cksum":"a490eac818470e81ac538def9024b5498263a08d9da5b45fdd1491108a6a3b2f","features":{"default":["legacy"],"legacy":[],"no_stall_detection":[],"no_tracking":[],"no_ucd":[],"strict":[],"uppercase_hex":[]},"yanked":false}
