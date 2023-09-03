@@ -1,0 +1,1 @@
+{"name":"jqueuers","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.32.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"292deb28d3f31634c0aedb210588d512e6b075ab27e0ae3edebc7c69a83a18de","features":{},"yanked":false}
