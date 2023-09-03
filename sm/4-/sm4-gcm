@@ -1,0 +1,1 @@
+{"name":"sm4-gcm","vers":"0.0.0","deps":[{"name":"sm4","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a0dc239fa5e631a8ee1b98af62f6e30296488200d6bd6da2dff5b6a857b87d1","features":{},"yanked":false}
