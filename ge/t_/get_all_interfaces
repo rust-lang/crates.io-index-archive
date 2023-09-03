@@ -1,1 +1,1 @@
-{"name":"get_all_interfaces","vers":"0.1.0","deps":[{"name":"pnet","req":"^0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96a3974296949fda3293993e5bd80928600e8d342e68ea9bb54e25a075051a8a","features":{},"yanked":false}
+{"name":"get_all_interfaces","vers":"0.1.0","deps":[{"name":"pnet","req":"^0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96a3974296949fda3293993e5bd80928600e8d342e68ea9bb54e25a075051a8a","features":{},"yanked":true}
