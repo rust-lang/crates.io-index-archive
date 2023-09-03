@@ -15,3 +15,4 @@
 {"name":"sysexits","vers":"0.6.1","deps":[],"cksum":"d9d7620c72a31fadb8987ceec6cd78ee0589d8ef2a572e4e8c9803833d1801a4","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.61.0"}
 {"name":"sysexits","vers":"0.6.2","deps":[],"cksum":"64aecc23cf87e057af0c65a2859d4003a80bb84cf8d82113a4a07bf3d3fa7468","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.61.0"}
 {"name":"sysexits","vers":"0.6.3","deps":[],"cksum":"283ec016d68fadd1b20f800ca888276191dd4562113510717211b574a221ae37","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.61.0"}
+{"name":"sysexits","vers":"0.7.0","deps":[],"cksum":"c64b7e5f7d1de4b94297badc617b915ef4e868582ed485d433050839667d8a57","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.61.0"}
