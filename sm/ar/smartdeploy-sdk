@@ -1,0 +1,1 @@
+{"name":"smartdeploy-sdk","vers":"0.1.0","deps":[{"name":"smartdeploy-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e56b19917b0f5fbbb03b3df9fe0a22015561af3bcf95fbe850c7c13e0e5521bb","features":{},"yanked":false}
