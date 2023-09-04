@@ -4,5 +4,5 @@
 {"name":"vcheat","vers":"0.1.3","deps":[],"cksum":"f4b3a9e68d7640fa82a72eab055081940a2f4c9dfca4f5ce916d6ad12ef609f4","features":{},"yanked":false}
 {"name":"vcheat","vers":"0.1.4","deps":[],"cksum":"bcf8d4d3cd504984dc27a04f442de9fa25513336cdf107ca2e56a565362efbbc","features":{},"yanked":false}
 {"name":"vcheat","vers":"0.1.5","deps":[],"cksum":"b469dbee48b14a76467fcb3668dd1a1e941355c17d8437e385e4f8cbdfedbabb","features":{},"yanked":false}
-{"name":"vcheat","vers":"0.2.0-alpha","deps":[],"cksum":"6e39553af9542b163ee8adcc3484c5e2ff2b5173c15b1a1135c090923846fba9","features":{},"yanked":true}
+{"name":"vcheat","vers":"0.2.0-alpha","deps":[],"cksum":"6e39553af9542b163ee8adcc3484c5e2ff2b5173c15b1a1135c090923846fba9","features":{},"yanked":false}
 {"name":"vcheat","vers":"0.2.0-beta","deps":[],"cksum":"448563f3b13b592f732166b753ad45f720b5c9f9fafa541ccbe54a3f9e9ef8e1","features":{},"yanked":false}
