@@ -1,1 +1,2 @@
 {"name":"fmtbuf","vers":"0.1.0","deps":[],"cksum":"d819c76dfef1067bf8408da209a3a8bf0ac890a80b96bdb5b2bbc0f8b80cd280","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"fmtbuf","vers":"0.1.1","deps":[],"cksum":"730ae7bbec1a3c2ce336242a37f982d605564ab6a04af7c01684d26872e60d05","features":{"default":["std"],"std":[]},"yanked":false}
