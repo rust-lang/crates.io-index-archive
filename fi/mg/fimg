@@ -1,0 +1,1 @@
+{"name":"fimg","vers":"0.1.0","deps":[{"name":"png","req":"^0.17","features":["unstable"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2295b9c83a6f03e533957f516544e0485786996a52bb2cc86b11c9192c542041","features":{"default":["save"],"save":["png"]},"yanked":false}
