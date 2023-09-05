@@ -1,0 +1,1 @@
+{"name":"tiny-start","vers":"0.1.0","deps":[{"name":"rusl","req":"^0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"55743dd33d2785c7a0c17ff35010964b06a2926277a3569f9faf86d3ff27b02a","features":{"aux":["start"],"default":[],"mem-symbols":[],"start":[]},"yanked":false}
