@@ -1,1 +1,2 @@
 {"name":"tilted","vers":"0.1.1","deps":[],"cksum":"e8f27e6f7d34342d32e044510d70bd3c3225f0b0d77ffdb0dca606c5f1ec0c74","features":{},"yanked":false}
+{"name":"tilted","vers":"0.2.0","deps":[{"name":"argh","req":">=0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a796756a5e86e5302eaca7ec1d9baa0cf67d9b62c61e75ad6f16af6120f63bf","features":{"cli":["argh"],"default":["cli"]},"yanked":false}
