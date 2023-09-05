@@ -1,0 +1,1 @@
+{"name":"kissa","vers":"0.0.1","deps":[{"name":"crossbeam-channel","req":"^0.5.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"827957e70a351cb7cd70b15d0dc8df9aab6f92b25ba68a19940fc7f8d4376a58","features":{},"yanked":false}
