@@ -1,1 +1,2 @@
 {"name":"deadpool-sync","vers":"0.1.0","deps":[{"name":"deadpool","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1bea344b64b32537fde6e0f0179b1ede34d435636719dd40fe6a0f28218a61c","features":{},"yanked":false}
+{"name":"deadpool-sync","vers":"0.1.1","deps":[{"name":"deadpool-runtime","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70694d61b10b662ee973f461ef0d9c4118c23f46682518cd69ad763147f2b4eb","features":{},"yanked":false}
