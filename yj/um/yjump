@@ -1,0 +1,1 @@
+{"name":"yjump","vers":"0.1.0","deps":[{"name":"crossterm","req":"^0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f613ceda27e57848aad3390a27d1a14763d9806cb091f46e96671f242d26fff8","features":{},"yanked":false}
