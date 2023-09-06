@@ -1,0 +1,1 @@
+{"name":"vaultier","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"vaultrs","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b8718b0af739b419965a50f416cbe110f3d4c95ade02d685ac21ac481a5367d1","features":{},"yanked":false}
