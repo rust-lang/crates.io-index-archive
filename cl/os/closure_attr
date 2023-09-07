@@ -1,1 +1,2 @@
 {"name":"closure_attr","vers":"0.1.0","deps":[{"name":"closure_attr_core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9307a753cdf5474013422eb3d26eae28347142d79bbb809dc23fe3719fb4c3bb","features":{},"yanked":false}
+{"name":"closure_attr","vers":"0.2.0","deps":[{"name":"closure_attr_derive","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"03d27b3c5b1e55a02a2b30d88f7be2f0a13b6437065a7731af182905278739e0","features":{},"yanked":false}
