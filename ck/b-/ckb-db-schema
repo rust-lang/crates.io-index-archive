@@ -47,3 +47,4 @@
 {"name":"ckb-db-schema","vers":"0.110.2-rc1","deps":[],"cksum":"0b50eb3331710f11c54ff2382d7fcf8e38e06f61967882befecddfdb6786aaf7","features":{},"yanked":false}
 {"name":"ckb-db-schema","vers":"0.111.0-rc11","deps":[],"cksum":"ebc4b85dc0adaa9169f84037c60e3a6bc8653427b0a61b6564129b415757cdec","features":{},"yanked":false}
 {"name":"ckb-db-schema","vers":"0.110.2-rc2","deps":[],"cksum":"09c770dd0ebeee99e85f2ea7b1d0aac4dae069fc21146f3f74580f168ee9e4f9","features":{},"yanked":false}
+{"name":"ckb-db-schema","vers":"0.111.0-rc12","deps":[],"cksum":"e7fe2cf0c7f0bfd33ce3f472fa70ec664fed51709a04bfddb1146a8c90e9edce","features":{},"yanked":false}
