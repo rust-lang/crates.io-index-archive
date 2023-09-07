@@ -1,0 +1,1 @@
+{"name":"ads122x04","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"nb","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a240e427a3c614aa3fd5bb6440dcf779baab809f4d918b1a03fdc331ef314eda","features":{},"yanked":false}
