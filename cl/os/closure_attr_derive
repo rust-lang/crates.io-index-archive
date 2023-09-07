@@ -1,0 +1,1 @@
+{"name":"closure_attr_derive","vers":"0.2.0","deps":[{"name":"closure_attr_core","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"700abd3224fec5d59e24f2351fafa18ec9530f82ca08ea09c8d086abe477915c","features":{},"yanked":false}
