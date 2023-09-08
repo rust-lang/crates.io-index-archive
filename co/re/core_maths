@@ -1,0 +1,1 @@
+{"name":"core_maths","vers":"0.0.0","deps":[{"name":"libm","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c1e57579bb672391cabf668cb6b8654f8239f452b98a836426108cfdb12ef96","features":{},"yanked":false}
