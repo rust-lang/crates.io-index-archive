@@ -1,0 +1,1 @@
+{"name":"bevy_input_mapper","vers":"0.0.1","deps":[{"name":"bevy","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62108057e7a9765af021bbddd9e048cc39bed27719a3854f024985691bcfa338","features":{"bind_macro":[]},"yanked":false}
