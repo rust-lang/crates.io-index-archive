@@ -1,0 +1,1 @@
+{"name":"cars","vers":"0.1.0","deps":[{"name":"image","req":"^0.24.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a89cb732b770f3bfc8a1cbe45582c52cd3ccfef6749a0212c09ec2d267c30c12","features":{},"yanked":false}
