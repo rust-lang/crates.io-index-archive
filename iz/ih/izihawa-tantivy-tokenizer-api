@@ -1,0 +1,1 @@
+{"name":"izihawa-tantivy-tokenizer-api","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.152","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e546545aacebe15d7c905a33df750915a7ef3c4fbcf9277a557b52552721675a","features":{},"yanked":false}
