@@ -1,1 +1,1 @@
-{"name":"bevy_simple_text_input","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"734574f7e9022765f094bb9e4711b594b3b5e2ca34364271505049ee6cbe6ebd","features":{},"yanked":false}
+{"name":"bevy_simple_text_input","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"734574f7e9022765f094bb9e4711b594b3b5e2ca34364271505049ee6cbe6ebd","features":{},"yanked":true}
