@@ -18,3 +18,4 @@
 {"name":"sql-parse","vers":"0.14.0","deps":[],"cksum":"ed9bce9bac54894274fa31d9a19e7ffdbda1eb8eaa9747bb5b98899f464e8900","features":{},"yanked":false}
 {"name":"sql-parse","vers":"0.14.1","deps":[],"cksum":"89577b1f097df88c43adfb5172601056376ac2f85a3b76a8666d443bc7db3e24","features":{},"yanked":false}
 {"name":"sql-parse","vers":"0.15.0","deps":[],"cksum":"3329e5deef1527ed1f29c3933d45d9ea5a76a0d9db9683c9f8656af18c113d73","features":{},"yanked":false}
+{"name":"sql-parse","vers":"0.15.1","deps":[],"cksum":"e9d2afdbef92d8e4ebaae0c966bbffd47e4502daa6cb7ba1a0eaf4ea2eca8228","features":{},"yanked":false}
