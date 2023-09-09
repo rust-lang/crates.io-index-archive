@@ -1,0 +1,1 @@
+{"name":"hot_sauce","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2b89885014e2401a5705eb70eed918cacfc4221f03f99a016bfe9c96e5a063bc","features":{"default":[],"full":["serde"]},"yanked":false}
