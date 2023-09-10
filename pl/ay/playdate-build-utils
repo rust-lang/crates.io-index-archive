@@ -1,2 +1,2 @@
-{"name":"playdate-build-utils","vers":"0.0.0","deps":[],"cksum":"3ae6d1497c8142a36ff9d3a3947dccf1138d64d204a96808c6f7e1ff30229ce4","features":{},"yanked":false}
+{"name":"playdate-build-utils","vers":"0.0.0","deps":[],"cksum":"3ae6d1497c8142a36ff9d3a3947dccf1138d64d204a96808c6f7e1ff30229ce4","features":{},"yanked":true}
 {"name":"playdate-build-utils","vers":"0.1.0","deps":[{"name":"dirs","req":"^5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bfade73a2a54bc030e6fb5e3073e7150a10c8b711b9e3fdd254793c95e79aba","features":{"cargo-message":[],"default":["log","cargo-message"]},"yanked":false}
