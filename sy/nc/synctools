@@ -4,3 +4,4 @@
 {"name":"synctools","vers":"0.3.0","deps":[],"cksum":"642d3e6ea78dd5145500a9d67e57d8954c3840f66559c1334368d9ebe9ec2224","features":{},"yanked":false}
 {"name":"synctools","vers":"0.3.1","deps":[],"cksum":"39b59f2325f3392f51f3aa95e2c4c40ce00e1a21d9916b4894c5d0671398efaf","features":{},"yanked":false}
 {"name":"synctools","vers":"0.4.0","deps":[{"name":"pin-project-lite","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9761cb7ff778d7bd7bb6907aa7031a1579d56421da3b3edfd2b8d30f7a5e4a0e","features":{},"yanked":true}
+{"name":"synctools","vers":"0.3.2","deps":[],"cksum":"6d029131af2e43e4f0a6adc9d052cb91417f14009b8d449838e2f9f47f9261b8","features":{},"yanked":false}
