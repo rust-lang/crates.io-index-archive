@@ -1,1 +1,2 @@
 {"name":"joxide","vers":"0.0.1","deps":[{"name":"argh","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4500bef06991f4b1968dfef84f379ec771f1c28e754ac5b1f7313fa23855c0a4","features":{},"yanked":false}
+{"name":"joxide","vers":"0.0.2","deps":[{"name":"argh","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc1794490b148720651e083b5c0f0baf60c85bb79f576a73589e1f15009d1988","features":{},"yanked":false}
