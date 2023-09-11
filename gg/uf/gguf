@@ -1,0 +1,1 @@
+{"name":"gguf","vers":"0.0.1","deps":[{"name":"nom","req":"^7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"660ee62861b0995ef41498c49ec1ee739c52e9f69e4b69c49f7554d882451be3","features":{},"yanked":false}
