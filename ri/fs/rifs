@@ -1,1 +1,2 @@
 {"name":"rifs","vers":"3.7.0","deps":[{"name":"which","req":"^4.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2af5b1a3285c2f8f0cd905399742af12ccc4c4572569023402959be55b38d7c0","features":{},"yanked":false}
+{"name":"rifs","vers":"3.7.1","deps":[{"name":"which","req":"^4.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e812561121cc556c1e822dc1c7868c5a68a6aa683700a93a9201964ee6aa6353","features":{},"yanked":false}
