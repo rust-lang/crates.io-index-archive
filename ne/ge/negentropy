@@ -1,1 +1,2 @@
 {"name":"negentropy","vers":"0.0.0","deps":[],"cksum":"869badfca04efc24274c639dc9641303e99e27b1c74ef40a24e7abc3b3c752f1","features":{},"yanked":true}
+{"name":"negentropy","vers":"0.1.0","deps":[],"cksum":"fbb17f65de954ce9edc55d0335554c8e385dde92868bb8b8788f254a30820d82","features":{"default":["std"],"std":[]},"yanked":false}
