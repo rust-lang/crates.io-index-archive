@@ -7,3 +7,4 @@
 {"name":"diesel-streamer","vers":"0.1.6","deps":[],"cksum":"bc07e870be751bbead6a55d6b8fb60dd23244a01bb1412cdacbc1b141b3cee19","features":{"async":[],"default":["sync"],"sync":[]},"yanked":true,"rust_version":"1.56.1"}
 {"name":"diesel-streamer","vers":"0.1.7","deps":[],"cksum":"264d39d403f030d5e09962f82582bf014b10f1a802bc7244bfa78ac0acbe1175","features":{"async":[],"sync":[]},"yanked":true,"rust_version":"1.56.1"}
 {"name":"diesel-streamer","vers":"0.1.8","deps":[],"cksum":"162d958c5c2d9ccaa831141b20278423a07155a9a1e7d013ede0af40f9c4df46","features":{"async":[],"sync":[]},"yanked":false,"rust_version":"1.56.1"}
+{"name":"diesel-streamer","vers":"0.1.9","deps":[],"cksum":"99fb95508270713bdf773d4fae5e5f89475474a6724b2713c55f57ac57eccd2f","features":{"async":[],"sync":[]},"yanked":false,"rust_version":"1.56.1"}
