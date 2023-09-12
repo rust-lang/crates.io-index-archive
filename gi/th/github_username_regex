@@ -1,1 +1,2 @@
 {"name":"github_username_regex","vers":"0.0.1","deps":[{"name":"regex","req":"^1.9.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"00bd980eeab18b37fcf346056a81a3b968becf76d41559fe2abcc0c03cbc1a41","features":{},"yanked":false}
+{"name":"github_username_regex","vers":"0.0.4","deps":[{"name":"regex","req":"^1.9.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"681200870965cf71ecbaec148db99cc7a37ec39c91bc9e67d6371fb2e42d8c2b","features":{},"yanked":false}
