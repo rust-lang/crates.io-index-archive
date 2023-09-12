@@ -1,1 +1,2 @@
 {"name":"brim","vers":"2.1.0","deps":[{"name":"sarge","req":"^3.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60193c781444b014122f1416bc3bd3a3f05b36765ec84a1cc1d2603a0eccd599","features":{"debug":[],"default":[]},"yanked":false}
+{"name":"brim","vers":"2.2.0","deps":[{"name":"sarge","req":"^3.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fbd8fc8e5bbb709e98dd8e720275388f60064d28993fea425f2c7f290269c101","features":{"debug":[],"default":[]},"yanked":false}
