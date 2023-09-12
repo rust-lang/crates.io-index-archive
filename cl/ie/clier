@@ -5,3 +5,4 @@
 {"name":"clier","vers":"0.0.5","deps":[],"cksum":"7c0804dba73257568fd75164b4172fd33bbcc8aa202158ad6c300dfcf5f26819","features":{"default":["hooks"],"hooks":[]},"yanked":false}
 {"name":"clier","vers":"0.1.0","deps":[],"cksum":"d0be659a19e4dc7bfd924c1132d196c81a80eddc01e18901bd68d8956300dcd0","features":{"default":["hooks"],"hooks":[]},"yanked":false}
 {"name":"clier","vers":"0.2.0","deps":[],"cksum":"f95f0b24779547c213925efefa9282a4160c6b2e0b14052bf1542fa8d6192b07","features":{"cli":[],"default":["cli","help"],"help":["hooks"],"hooks":[]},"yanked":false}
+{"name":"clier","vers":"0.2.1","deps":[],"cksum":"45591d6b0a8bd93cdf43e1b63db0fefcef75ce8522415f8f3c794ee25ea19394","features":{},"yanked":false}
