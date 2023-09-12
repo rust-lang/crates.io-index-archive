@@ -1,0 +1,1 @@
+{"name":"mmi-code","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.2","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3ee275679459b262dc4a07beb0f2b68eb89f1f04aecd495c47cfbaf0b210845","features":{},"yanked":false}
