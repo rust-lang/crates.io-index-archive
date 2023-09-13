@@ -1,1 +1,2 @@
 {"name":"ncw","vers":"0.0.1","deps":[{"name":"hound","req":"^3.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5af5a0825f3783089193b7b0c803110913553d5d6ea2e0744fffbc8924fc00c5","features":{},"yanked":false}
+{"name":"ncw","vers":"0.1.0","deps":[],"cksum":"518aeaf8a2edadf82c9bec92d5279c98114d422c4747dcccac15b00be08ebfcf","features":{},"yanked":false}
