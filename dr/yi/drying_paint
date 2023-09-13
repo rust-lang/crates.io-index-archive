@@ -17,3 +17,4 @@
 {"name":"drying_paint","vers":"0.5.0","deps":[],"cksum":"df976e7b813bfcecaba79b248b46f60c03de7f115d85c6e936f8e52a1c9220f4","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"drying_paint","vers":"0.5.1","deps":[],"cksum":"e897334daf23d4552e03bb452e07da7a02a474f36236c0527c7df295c7879291","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"drying_paint","vers":"0.5.2","deps":[],"cksum":"cb3266ed033cf603a493647e0ea468add5db078e908477345a427ffe588d4b4e","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"drying_paint","vers":"0.5.3","deps":[],"cksum":"810e717eeb1981eaa574b1ba70ab53da7e6b15227567bdede673095150b66cd8","features":{"default":["std"],"std":[]},"yanked":false}
