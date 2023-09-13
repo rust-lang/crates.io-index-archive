@@ -1,1 +1,2 @@
 {"name":"lerr","vers":"0.1.0","deps":[{"name":"unicode-width","req":"^0.1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f56d5844a768bae0c2f84580d9e1771054979af5b60e2b479a82053ec502903","features":{},"yanked":false}
+{"name":"lerr","vers":"0.1.1","deps":[{"name":"unicode-width","req":"^0.1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12a9b80ac07b48da70f3f7a76b0c7b21cc74cf282b8de3d2b4c3a7721fdb879f","features":{},"yanked":false}
