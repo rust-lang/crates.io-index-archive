@@ -1,0 +1,1 @@
+{"name":"maybe-owned-trait","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"521a2342afe141fbb40b42c074224f9bec3ce91551c9883951baff8e32b09fb3","features":{},"yanked":false}
