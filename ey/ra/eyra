@@ -1,0 +1,1 @@
+{"name":"eyra","vers":"0.14.0","deps":[{"name":"libc","req":"^0.14.0","features":["eyra"],"optional":false,"default_features":false,"target":null,"kind":"normal","package":"c-gull"}],"cksum":"bf1f5dfbc50821c589c7eaac7dd7c02086ccba8ef1338ed60947c0f850699178","features":{},"yanked":false}
