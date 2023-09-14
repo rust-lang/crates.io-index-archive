@@ -1,0 +1,1 @@
+{"name":"keco","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.3","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a61d3b8e35ab9ec996805f559b705c8f61c683c0f59e4d4d4d792b6d7c67a79d","features":{},"yanked":false}
