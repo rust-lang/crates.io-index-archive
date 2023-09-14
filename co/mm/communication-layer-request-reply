@@ -19,3 +19,4 @@
 {"name":"communication-layer-request-reply","vers":"0.2.4","deps":[],"cksum":"f016a229d87ed771144351214bb1ddcf43a31ee5274e838d1511f2e457a4cc3b","features":{},"yanked":false}
 {"name":"communication-layer-request-reply","vers":"0.2.5-alpha.1","deps":[],"cksum":"cf58a22ff2d64175cfd5a31c048621f48ee17d25e001ff6cf1f6dc19bbaac8e0","features":{},"yanked":false}
 {"name":"communication-layer-request-reply","vers":"0.2.5","deps":[],"cksum":"9a2dc2a00df3505947d2e36a181ad492ec4fa330882a0a595b7d183f75ec6678","features":{},"yanked":false}
+{"name":"communication-layer-request-reply","vers":"0.2.6","deps":[],"cksum":"1a3da2f4038d05b99aa1cf1e41303c0a63f7cecc904cdb7ae1b8fdb357eb8b0e","features":{},"yanked":false}
