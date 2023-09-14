@@ -1,0 +1,1 @@
+{"name":"grafbase-sql-ast","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e85914cf77b743c12e6eda54c452974f9de60acd818be754e7a63de4942346dd","features":{"default":["postgresql","mysql","sqlite"],"mysql":[],"postgresql":[],"sqlite":[]},"yanked":false}
