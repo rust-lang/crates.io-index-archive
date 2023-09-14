@@ -1,0 +1,1 @@
+{"name":"throwing","vers":"0.1.0","deps":[{"name":"throwing-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3c4ca9e50aac5d5e0b93149ca8cb02ffb0ce7830b507108985430b2de4c13fc","features":{},"yanked":false,"rust_version":"1.65"}
