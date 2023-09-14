@@ -1,0 +1,1 @@
+{"name":"rocket_jwt_auth","vers":"0.0.1","deps":[{"name":"rocket","req":"^0.4.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c1fa813d8035b657a92bc807ab00719d02d5c00d1a78c646280ae0dfa25de2d","features":{},"yanked":false}
