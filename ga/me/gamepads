@@ -1,0 +1,1 @@
+{"name":"gamepads","vers":"0.1.0","deps":[{"name":"gilrs","req":"^0.10","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_family = \"wasm\"))","kind":"normal"}],"cksum":"6c569bbb408c9df94b0e19de7175fbcdefafa981c4510e1da224e8bee11fad6f","features":{},"yanked":false}
