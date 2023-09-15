@@ -1,0 +1,1 @@
+{"name":"manga_app_lib","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.11.20","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0cf07b2a051ffc17ef9779f45a42b9421fa5ed103567156702d1461d92bb21a9","features":{},"yanked":false}
