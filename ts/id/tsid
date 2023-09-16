@@ -1,2 +1,3 @@
 {"name":"tsid","vers":"0.0.1","deps":[],"cksum":"0c9d0b024284b8ff7c8265dd21a553b9e7a843abd9bf5e88f55a5b078a21a76d","features":{},"yanked":false}
 {"name":"tsid","vers":"0.0.2","deps":[],"cksum":"21292079b69833107ff90f36236527c650f5fb522cf3ac6ddf1b887d54cb3585","features":{},"yanked":false}
+{"name":"tsid","vers":"0.0.3","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42b7eb7499192a8a8efb0468e8bb763c10068d252a251d937d120dccdf2dda52","features":{},"yanked":false}
