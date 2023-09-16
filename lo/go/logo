@@ -1,0 +1,1 @@
+{"name":"logo","vers":"0.1.0","deps":[{"name":"ftlog","req":"^0.2.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.4.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5879f88651a6fe61849d52c25e7ac378987c9d7326eedaa21401697d78c57ae3","features":{},"yanked":false}
