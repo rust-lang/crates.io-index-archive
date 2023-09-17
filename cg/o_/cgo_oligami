@@ -1,1 +1,2 @@
 {"name":"cgo_oligami","vers":"0.3.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f5808f3badf3ed842ed92ef49d6bf83a914eb89a19cd133237863f2957df19a","features":{},"yanked":false}
+{"name":"cgo_oligami","vers":"0.3.2","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce6b0ae2f0a35b86702a8b53b73103f4f5c60f29ea2ab7e32bf38b3b4266f9ed","features":{},"yanked":false}
