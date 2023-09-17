@@ -8,3 +8,4 @@
 {"name":"rifs","vers":"4.0.2","deps":[{"name":"which","req":"^4.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5703a47f319214ee4c29acf7a60035305d9d9461148daa9beaa542470d502a6d","features":{},"yanked":false}
 {"name":"rifs","vers":"4.0.3","deps":[{"name":"which","req":"^4.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a29e01105d67a37445d7fbf447e3a30356f6fc0683a502ad759e5839128939ac","features":{},"yanked":false}
 {"name":"rifs","vers":"4.1.0","deps":[{"name":"which","req":"^4.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98b1a50482fb341659bbe39364cf45d01793c0462609b1fc222a2ca982fc61f9","features":{},"yanked":false}
+{"name":"rifs","vers":"4.1.1","deps":[],"cksum":"399c4091df597499e431a1e775b6868d89d5e71225e298069b48f15cf4039b59","features":{},"yanked":false}
