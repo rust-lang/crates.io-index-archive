@@ -1,0 +1,1 @@
+{"name":"datetimeparse","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23ee3aa61999fb02b32dcfb387199af6a186288023c52a32ee089f37d5b2f5ab","features":{"default":["chrono"]},"features2":{"chrono":["dep:chrono"]},"yanked":false,"v":2}
