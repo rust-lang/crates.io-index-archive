@@ -1,0 +1,1 @@
+{"name":"partially","vers":"0.1.0","deps":[{"name":"partially_derive","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e1df27660d8d7598bc4220b51a19dc69f4c23f36b145696e14ee3d60143fdd73","features":{"default":[]},"features2":{"derive":["dep:partially_derive"]},"yanked":false,"v":2}
