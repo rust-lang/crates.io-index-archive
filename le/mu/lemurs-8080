@@ -1,0 +1,1 @@
+{"name":"lemurs-8080","vers":"0.3.0","deps":[{"name":"disclose","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b55d63c42f99ba34c69ed01fc05e2f0c39922def5eeab468f5fc86c1a290271d","features":{"default":["std"],"open":[],"std":[]},"yanked":false}
