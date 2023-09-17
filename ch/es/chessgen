@@ -1,0 +1,1 @@
+{"name":"chessgen","vers":"0.9.1","deps":[{"name":"fastrand","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b10316059017bc97513f98ee732b6c28fefb54722c5ac510c08a0a5e46cc802","features":{},"yanked":false}
