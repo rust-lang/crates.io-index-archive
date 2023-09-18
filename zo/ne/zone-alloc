@@ -1,1 +1,2 @@
 {"name":"zone-alloc","vers":"0.1.0","deps":[],"cksum":"3f55968f46bc4475f61bf16a3758aea11098eabc6c52714dba27b13f274a6a69","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"zone-alloc","vers":"0.1.1","deps":[],"cksum":"8931845687a1ee7a0cee8255e2a76323c764d2ea28c600db615719d1c6fe44e6","features":{"default":["std"],"std":[]},"yanked":false}
