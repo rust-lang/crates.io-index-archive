@@ -1,0 +1,1 @@
+{"name":"in-keys","vers":"0.1.0","deps":[{"name":"derived-deref","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c44cfdfc8f37b758c150b651838ee04b0f6cc63026a464111b43e0ffd52f9869","features":{},"yanked":false}
