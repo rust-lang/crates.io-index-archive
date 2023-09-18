@@ -22,3 +22,4 @@
 {"name":"libfmod","vers":"2.206.0","deps":[],"cksum":"adb364ab411054d9114caccbfcf835de6970d69372a84011ddf41e27a5fc74ac","features":{},"yanked":false}
 {"name":"libfmod","vers":"2.217.0","deps":[],"cksum":"17ef451cc2f430e4d0630dce51e8248be4791957a7f7412f2c2f89e63ff53d1e","features":{},"yanked":false}
 {"name":"libfmod","vers":"2.206.1","deps":[],"cksum":"e2a9414a0fe28921a684a3803156d07a30c7777469e97525a07e0144c2c58336","features":{},"yanked":false}
+{"name":"libfmod","vers":"2.206.2","deps":[{"name":"bitflags","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15b90f5b0b0f2aabe7007bcb640b216eefb8f826efe5e13e4d3771317c2c76e9","features":{"default":["flags"],"flags":["bitflags"]},"yanked":false}
