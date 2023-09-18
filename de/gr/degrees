@@ -1,1 +1,2 @@
 {"name":"degrees","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.188","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33a66018b5f57749392b83f63fd7c3e10d3a1c29bbb12560583a62bf026943dd","features":{},"yanked":false}
+{"name":"degrees","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.188","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f30c2e8719a37bc84ab14c841fd068daaff60156b540fbac46713f1c4728e3ea","features":{},"yanked":false}
