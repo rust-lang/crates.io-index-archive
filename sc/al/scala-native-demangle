@@ -1,0 +1,1 @@
+{"name":"scala-native-demangle","vers":"0.0.1","deps":[{"name":"clap","req":"^4.4.3","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f408cb9a3a7151f26c1f3d18b21ecd4cd68b210a81bb14ea45d6b937254a2fc4","features":{},"yanked":false}
