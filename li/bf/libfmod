@@ -20,3 +20,4 @@
 {"name":"libfmod","vers":"2.2.6-bindings.0","deps":[],"cksum":"51761ef06e1afb48a1f8c16244567302378f87c166b3d077d0d82fa2d50822c6","features":{},"yanked":true}
 {"name":"libfmod","vers":"2.2.6-bindings.1","deps":[],"cksum":"096c4a1af006268e1181744085ef2ab47ea4e988d06d7bfc7d1c4b4e365773c4","features":{},"yanked":true}
 {"name":"libfmod","vers":"2.206.0","deps":[],"cksum":"adb364ab411054d9114caccbfcf835de6970d69372a84011ddf41e27a5fc74ac","features":{},"yanked":false}
+{"name":"libfmod","vers":"2.217.0","deps":[],"cksum":"17ef451cc2f430e4d0630dce51e8248be4791957a7f7412f2c2f89e63ff53d1e","features":{},"yanked":false}
