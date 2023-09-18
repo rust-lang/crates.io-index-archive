@@ -1,2 +1,3 @@
 {"name":"astack","vers":"0.1.0","deps":[],"cksum":"747780bccbeb773a733624f4aa6c2a657658addf88fd8f882e36e5c49a6adc75","features":{},"yanked":false,"rust_version":"1.63"}
 {"name":"astack","vers":"0.2.0","deps":[],"cksum":"be7b1a4899d2b1df86c7ca515e248afde45a2649dcff88ad0f63f0e62543d604","features":{},"yanked":false,"rust_version":"1.63"}
+{"name":"astack","vers":"0.2.1","deps":[],"cksum":"4eb4b67e73609b49a290a59d87d16ce957779d803919dd34ab1faec4acb74bc9","features":{},"yanked":false,"rust_version":"1.63"}
