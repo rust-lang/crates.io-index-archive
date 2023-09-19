@@ -1,0 +1,1 @@
+{"name":"cnctd_git","vers":"0.1.0","deps":[{"name":"git2","req":"^0.18.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6564917cd8252749c90fc007dfebc1f00780bcf3c78ab29f48c316c0525f7032","features":{},"yanked":false}
