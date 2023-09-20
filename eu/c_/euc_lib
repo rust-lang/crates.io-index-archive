@@ -9,7 +9,7 @@
 {"name":"euc_lib","vers":"0.1.7-rc2","deps":[],"cksum":"3ac50b9932bfeda1dc1843aa942856a6dbeddf1f33ac7dede86b3151acd745c4","features":{},"yanked":true}
 {"name":"euc_lib","vers":"0.1.7","deps":[],"cksum":"4a3d9ef57224103e5f40362a0c6a234f0185114612a03a539c7f8f03858cf18f","features":{},"yanked":true}
 {"name":"euc_lib","vers":"0.1.8-rc1","deps":[],"cksum":"fb83a17228e8c19abe03c6d897da5eb5411278b9174ab9621e20302550b8fad5","features":{},"yanked":true}
-{"name":"euc_lib","vers":"0.1.8","deps":[],"cksum":"4bf4012b15065c9c8002dd833864a87be57dcf05a8299aae3f4e2793d81e09e1","features":{},"yanked":false}
+{"name":"euc_lib","vers":"0.1.8","deps":[],"cksum":"4bf4012b15065c9c8002dd833864a87be57dcf05a8299aae3f4e2793d81e09e1","features":{},"yanked":true}
 {"name":"euc_lib","vers":"0.1.9","deps":[],"cksum":"4f005df819557685c07145b5e32ea4f93e0d38faa4fe183438258fc634051b57","features":{},"yanked":false}
 {"name":"euc_lib","vers":"0.2.1","deps":[],"cksum":"dbccc959931a4e02a37c10d1a3bebaf5ab64f91d7905c9b9fb5e59de56912611","features":{},"yanked":false}
 {"name":"euc_lib","vers":"0.2.2","deps":[],"cksum":"d14faa89baa20ad2ce254b389014c08997dc8b522ea7f1e37a1873af248f10ba","features":{},"yanked":false}
