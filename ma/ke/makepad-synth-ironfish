@@ -1,0 +1,1 @@
+{"name":"makepad-synth-ironfish","vers":"0.4.0","deps":[{"name":"makepad-audio-graph","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fcdd5d2d66c83ecf0a407520d629a2a9567286514d553d1829f758088b66e7dd","features":{},"yanked":false}
