@@ -1,0 +1,1 @@
+{"name":"makepad-audio-graph","vers":"0.4.0","deps":[{"name":"makepad-platform","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3f8e528132df8ba5de1aeb85f15f018ec36687de197dc852ee291fcf0c9f4f0","features":{},"yanked":false}
