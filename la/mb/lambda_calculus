@@ -37,3 +37,4 @@
 {"name":"lambda_calculus","vers":"3.1.0","deps":[],"cksum":"18c1684ec2431aa80c222971b2dfdbf4dd15c7d09bd6b7434e9963ece12390a5","features":{"backslash_lambda":[],"default":["encoding"],"encoding":[]},"yanked":false}
 {"name":"lambda_calculus","vers":"3.2.0","deps":[],"cksum":"b1c90366028630c0cd761858915bdc3e3baef82c7b15a74a6b4ed001af0c53b1","features":{"backslash_lambda":[],"default":["encoding"],"encoding":[]},"yanked":false}
 {"name":"lambda_calculus","vers":"3.2.1","deps":[],"cksum":"0c5d695eeff2b9b2e776dedd4d499e3b1455c103762a6c00dbbe9dd7a9cb6184","features":{"backslash_lambda":[],"default":["encoding"],"encoding":[]},"yanked":false}
+{"name":"lambda_calculus","vers":"3.2.2","deps":[],"cksum":"8ec07622d3dae8315b607cfd3acfa9b16cc8ce64a56ec5cf982d6d6404312339","features":{"backslash_lambda":[],"default":["encoding"],"encoding":[]},"yanked":false}
