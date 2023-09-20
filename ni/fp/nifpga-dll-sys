@@ -1,1 +1,2 @@
 {"name":"nifpga-dll-sys","vers":"0.1.6","deps":[{"name":"libc","req":"^0.2.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5a961585b636ff7f414d400468a7b5e44a124b8807cc73aa9e57d7ed2999b37","features":{},"yanked":false,"links":"NiFpga"}
+{"name":"nifpga-dll-sys","vers":"0.1.7","deps":[{"name":"libc","req":"^0.2.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0601223efc7fbc0f6b56d316a6352572d09abde7a5f83c5cbba0e571cce74c13","features":{},"yanked":false,"links":"NiFpga"}
