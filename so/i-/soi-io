@@ -1,1 +1,2 @@
 {"name":"soi-io","vers":"0.1.0","deps":[{"name":"text_io","req":"^0.1.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"effc1782e0f5590a95c6aba1087fe13c5af00e474ff0eef86dd6805ef70053f1","features":{},"yanked":false}
+{"name":"soi-io","vers":"0.1.1","deps":[{"name":"text_io","req":"^0.1.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7535739eddfd8cc569da47638d32224e6f5d7080ffeee052a30bb47357ee7e7f","features":{},"yanked":false}
