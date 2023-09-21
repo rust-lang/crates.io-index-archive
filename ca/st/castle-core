@@ -1,0 +1,1 @@
+{"name":"castle-core","vers":"0.0.1","deps":[{"name":"crossterm","req":"^0.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a6bdf2734eee6f49f0e57694e64c7c1acaf8993afa088ebd1c1609cf678fff4","features":{},"yanked":false}
