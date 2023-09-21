@@ -13,3 +13,4 @@
 {"name":"mc-sgx-util","vers":"0.7.3","deps":[],"cksum":"fe38640778a00d2f23f07611bd2363aab399099f8eb1af2a18fa2f4e116930b8","features":{},"yanked":false,"rust_version":"1.62.1"}
 {"name":"mc-sgx-util","vers":"0.7.4","deps":[],"cksum":"9600af4c1bf80770c3f990bbfa3fb0bde65c2e4bf069f83cb902aacd165636fd","features":{},"yanked":false,"rust_version":"1.62.1"}
 {"name":"mc-sgx-util","vers":"0.7.5","deps":[],"cksum":"3f913f943bb5a925308f4e741d85234d2d8090dc6fc35ed9eae7cd885891b383","features":{},"yanked":false,"rust_version":"1.62.1"}
+{"name":"mc-sgx-util","vers":"0.8.0","deps":[],"cksum":"f4db5b47e10b27c1f310371d1542a496884589e5e40618fade19ec6417ceb847","features":{},"yanked":false,"rust_version":"1.62.1"}
