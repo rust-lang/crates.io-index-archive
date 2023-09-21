@@ -1,0 +1,1 @@
+{"name":"fmri","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbf2ccb68e9271c1110cc66517580d01bd7e6f7961e1e104a895eee7bb4dfeff","features":{},"yanked":false}
