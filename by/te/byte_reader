@@ -6,3 +6,4 @@
 {"name":"byte_reader","vers":"0.3.0","deps":[],"cksum":"f41e8aa4179310d4a1224b6fbec40211a6f6883272df39603a50b2ff5aab819c","features":{"location":[]},"yanked":false}
 {"name":"byte_reader","vers":"0.3.1","deps":[],"cksum":"08491b960ea1a064d7b1bae1d1dbb94799030e915e3bf9463052115daa61c503","features":{"location":[]},"yanked":false}
 {"name":"byte_reader","vers":"0.3.2","deps":[],"cksum":"1fddebff75048db99081ef0856b447a1ca045d583075bf6d071b2c2571d5f5d4","features":{"location":[]},"yanked":false}
+{"name":"byte_reader","vers":"0.3.3","deps":[],"cksum":"d51ea76441364414b190cb53e0e3b8eaf787b72b674c502b6e8c81867ba121c3","features":{"location":[]},"yanked":false}
