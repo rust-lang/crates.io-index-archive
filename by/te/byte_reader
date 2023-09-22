@@ -4,3 +4,4 @@
 {"name":"byte_reader","vers":"0.1.3","deps":[],"cksum":"43f04ecb65d9f2608767b1ac637122779fb728d4c33fdfc9b14e2689cb368807","features":{"location":[]},"yanked":false}
 {"name":"byte_reader","vers":"0.2.0","deps":[],"cksum":"43eb8666035032ab6a42862f1685cbb5c256fa00866fc2125685ce5927a9964f","features":{"location":[]},"yanked":false}
 {"name":"byte_reader","vers":"0.3.0","deps":[],"cksum":"f41e8aa4179310d4a1224b6fbec40211a6f6883272df39603a50b2ff5aab819c","features":{"location":[]},"yanked":false}
+{"name":"byte_reader","vers":"0.3.1","deps":[],"cksum":"08491b960ea1a064d7b1bae1d1dbb94799030e915e3bf9463052115daa61c503","features":{"location":[]},"yanked":false}
