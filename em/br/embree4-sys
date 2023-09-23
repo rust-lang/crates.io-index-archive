@@ -1,1 +1,2 @@
 {"name":"embree4-sys","vers":"0.0.1","deps":[{"name":"bindgen","req":"^0.68.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"1df7a51e7e610d888c2a1a48612483c58b15e39db15859981f21945e2c2e92b2","features":{},"yanked":false}
+{"name":"embree4-sys","vers":"0.0.2","deps":[{"name":"bindgen","req":"^0.68.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ed3e1fea332e4db005b784dc70337a520eabbc5ee87a490f85d01afb47fd16d7","features":{},"yanked":false}
