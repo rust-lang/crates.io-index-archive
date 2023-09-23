@@ -1,0 +1,1 @@
+{"name":"embree4-rs","vers":"0.0.1","deps":[{"name":"embree4-sys","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9d1bfee47b47e31c057dc326bf3319da520325ae8820e67d2806a5691125366","features":{},"yanked":false}
