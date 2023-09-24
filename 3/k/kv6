@@ -1,0 +1,1 @@
+{"name":"kv6","vers":"0.1.0","deps":[{"name":"scroll","req":"^0.11.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e38350984e95f291f371dec90492aa5aa1e3042b29bd91fbfa44706388283db","features":{"default":["kv6"],"kv6":[],"kvx":[]},"yanked":false}
