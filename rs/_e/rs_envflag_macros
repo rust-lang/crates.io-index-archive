@@ -1,0 +1,1 @@
+{"name":"rs_envflag_macros","vers":"0.2.0","deps":[{"name":"rs_envflag","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9501876abd2b63dfb8c44c58a32a279a3909a98f2aeedd3ba0de8e799050c782","features":{},"yanked":false}
