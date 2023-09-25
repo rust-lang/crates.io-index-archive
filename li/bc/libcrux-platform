@@ -1,0 +1,1 @@
+{"name":"libcrux-platform","vers":"0.0.2-pre.1","deps":[{"name":"libc","req":"^0.2.147","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53003aa2797758aa4a58fec0d88b51d633092bc3b83d3b1beec2fff9707975b2","features":{},"yanked":false}
