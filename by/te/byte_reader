@@ -11,3 +11,4 @@
 {"name":"byte_reader","vers":"0.3.5","deps":[],"cksum":"982ef4667cb95ac919443178361a368b0192ee9113558402a19e51b62e562ecc","features":{"location":[]},"yanked":false}
 {"name":"byte_reader","vers":"0.3.6","deps":[],"cksum":"09b26ad5ec02c76f63094d66e4a8ee97441e23cad6d896aef46d6ef43ef0e53a","features":{"location":[]},"yanked":true}
 {"name":"byte_reader","vers":"0.4.0","deps":[],"cksum":"36f708e5bb764e64851939dbc78366f1b4d7d69a79b33c8f3ca03bdc8a292c99","features":{"location":[]},"yanked":false}
+{"name":"byte_reader","vers":"0.5.0","deps":[],"cksum":"d00158f1848ef1a82ee28c56e96c8a07af1a43f22798ba1d3b985f8c0bd23b87","features":{"location":[]},"yanked":false}
