@@ -7,3 +7,4 @@
 {"name":"easy-parallel","vers":"3.1.0","deps":[],"cksum":"1dd4afd79212583ff429b913ad6605242ed7eec277e950b1438f300748f948f4","features":{},"yanked":false}
 {"name":"easy-parallel","vers":"3.2.0","deps":[],"cksum":"6907e25393cdcc1f4f3f513d9aac1e840eb1cc341a0fccb01171f7d14d10b946","features":{},"yanked":false}
 {"name":"easy-parallel","vers":"3.3.0","deps":[],"cksum":"c4604923390fcaf8b65a1e10b430cc34a3f87958a3b35ebea978b529d776e001","features":{},"yanked":false,"rust_version":"1.35"}
+{"name":"easy-parallel","vers":"3.3.1","deps":[],"cksum":"2afbb9b0aef60e4f0d2b18129b6c0dff035a6f7dbbd17c2f38c1432102ee223c","features":{},"yanked":false,"rust_version":"1.63"}
