@@ -1,1 +1,2 @@
 {"name":"bevy_input_mapper","vers":"0.0.1","deps":[{"name":"bevy","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62108057e7a9765af021bbddd9e048cc39bed27719a3854f024985691bcfa338","features":{"bind_macro":[]},"yanked":false}
+{"name":"bevy_input_mapper","vers":"0.0.2","deps":[{"name":"bevy","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9637a9871f467ccaec85b05de32a72349f1fe483061127e47671e9348f119813","features":{"bind_macro":[]},"yanked":false}
