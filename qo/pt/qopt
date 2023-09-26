@@ -1,3 +1,4 @@
 {"name":"qopt","vers":"0.1.0","deps":[],"cksum":"d46438e7fd562da465f8b5b4c1c868c7ff0a3f194df93b941ce3ff040e932270","features":{},"yanked":false}
 {"name":"qopt","vers":"0.2.0","deps":[],"cksum":"7c58758c9c8c5737f144eeae5ef791dfbcd9b06d3e749c42cca8f0bbf892e37f","features":{},"yanked":false}
 {"name":"qopt","vers":"0.2.1","deps":[],"cksum":"9484105f253ea770a282ec9aef71f9bf283b4138ecdef8d5b3eb1a1542c1194f","features":{},"yanked":false}
+{"name":"qopt","vers":"0.3.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand_distr","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed1530bbf0d367f736a6a4458c24f2059898c6384bd8ab41c9d028894f8f7fb7","features":{},"yanked":false}
