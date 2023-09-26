@@ -1,0 +1,1 @@
+{"name":"serwus-derive","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d986b853ad18d374710aeffcae14b62945ac7f4a9e968eb0e7f623b0f5a0bac6","features":{},"yanked":false}
