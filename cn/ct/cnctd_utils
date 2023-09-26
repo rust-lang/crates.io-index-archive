@@ -1,1 +1,2 @@
 {"name":"cnctd_utils","vers":"0.1.0","deps":[],"cksum":"ba4a54406b6ab1aa8df8666e81dfc13832245ea572cba7ffbcd68d43559bc7df","features":{},"yanked":false}
+{"name":"cnctd_utils","vers":"0.1.1","deps":[{"name":"anyhow","req":"^1.0.75","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f378aaf85486e735bf1dac8e7c3f4d0baba9cf31823aa5b3a367a2b40b43e210","features":{},"yanked":false}
