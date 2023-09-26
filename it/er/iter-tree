@@ -1,1 +1,2 @@
 {"name":"iter-tree","vers":"0.1.0","deps":[],"cksum":"94af56ff3f0e87d6c4c16a32af0ab8cdf66493963c722718db40802cb8ae55c7","features":{"default":["vec"],"deque":[],"vec":[]},"yanked":false}
+{"name":"iter-tree","vers":"0.1.1","deps":[],"cksum":"0b3acb8bd966103f632fe73cbf878750c4300b7baf27eb2baf89b286c55582cf","features":{"default":["vec"],"deque":[],"vec":[]},"yanked":false}
