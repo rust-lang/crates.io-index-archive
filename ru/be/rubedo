@@ -1,0 +1,1 @@
+{"name":"rubedo","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.31","features":["alloc","clock","std"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"154b9bb15c9cf57f218a63078eaa55a6ce4601300f923d3b43ed5c402e54a68c","features":{},"yanked":false}
