@@ -8,3 +8,4 @@
 {"name":"bevy_ptr","vers":"0.11.0","deps":[],"cksum":"c74fcf37593a0053f539c3b088f34f268cbefed031d8eb8ff0fb10d175160242","features":{},"yanked":false}
 {"name":"bevy_ptr","vers":"0.11.1","deps":[],"cksum":"9eeb9144fc8bd8676f76c7660790ffce696fc80aade804b1c4e3d36a92f9df65","features":{},"yanked":false}
 {"name":"bevy_ptr","vers":"0.11.2","deps":[],"cksum":"15702dff420fac72c2ab92428a8600e079ae89c5845401c4e39b843665a3d2d0","features":{},"yanked":false}
+{"name":"bevy_ptr","vers":"0.11.3","deps":[],"cksum":"72c7586401a46f7d8e436028225c1df5288f2e0082d066b247a82466fea155c6","features":{},"yanked":false}
