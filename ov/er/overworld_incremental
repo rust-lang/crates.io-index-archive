@@ -1,0 +1,1 @@
+{"name":"overworld_incremental","vers":"0.4.0","deps":[{"name":"serde","req":"^1.0.188","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c0232c5f13dcb0ecf8af1e22b4c2f37b267fb31ae18fdd49c44c7bfcf8d976b6","features":{"default":["serde"]},"yanked":false}
