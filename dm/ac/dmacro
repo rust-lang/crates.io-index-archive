@@ -1,1 +1,2 @@
 {"name":"dmacro","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f50a284795c2da94bb70b10c97535ccaa494b5fc571a5cef29daf830f1761706","features":{},"yanked":false}
+{"name":"dmacro","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9000b194cf935efc55abe8091c42f27b5d8e7494d59bd7faaa815fc38f8e61d0","features":{},"yanked":false}
