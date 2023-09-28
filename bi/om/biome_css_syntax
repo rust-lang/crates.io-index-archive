@@ -1,1 +1,2 @@
 {"name":"biome_css_syntax","vers":"0.0.1","deps":[{"name":"biome_rowan","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b77d80fa701638d7266528c51cd3ce0ad432314c3539164e8ea0f3acca12f8d3","features":{},"yanked":false}
+{"name":"biome_css_syntax","vers":"0.0.2","deps":[{"name":"biome_rowan","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c713e41c4a24c4ddc8220a7fb2bbd6ce251ce33c67c8a47795da4925feb823d2","features":{},"yanked":false}
