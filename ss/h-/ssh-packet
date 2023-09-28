@@ -1,1 +1,2 @@
 {"name":"ssh-packet","vers":"0.0.1","deps":[{"name":"binrw","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a30800d38a9e2e5868c278ab9754206e7b7984d82feb72c99faec772866c767","features":{},"yanked":false}
+{"name":"ssh-packet","vers":"0.0.2","deps":[{"name":"binrw","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7345eefb3d0fd28710ec3f698b2ffcbf176763eeace52fbe7a61d787d82264a2","features":{},"yanked":false}
