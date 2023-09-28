@@ -2,3 +2,4 @@
 {"name":"multidimension","vers":"0.2.0","deps":[],"cksum":"0d3ed78e0d38453b6861455fd134263eef5e331c2e297d0b9e575bae03d4e817","features":{},"yanked":false,"rust_version":"1.71.1"}
 {"name":"multidimension","vers":"0.2.1","deps":[],"cksum":"d3db2ef5d5afd80dfe747697e8628a2ccbddc2749672a91bfafd3b34881b5906","features":{},"yanked":false,"rust_version":"1.71.1"}
 {"name":"multidimension","vers":"0.2.2","deps":[],"cksum":"7690144b23996d8a294d8b55a53765dc85ea40b7785b2ea45423053e20e4a8e5","features":{},"yanked":false,"rust_version":"1.71.1"}
+{"name":"multidimension","vers":"0.2.3","deps":[],"cksum":"bb8cfaab71f29360ea1ac11adad8e579fba3784dd1d10c92a0987933509408d2","features":{},"yanked":false,"rust_version":"1.71.1"}
