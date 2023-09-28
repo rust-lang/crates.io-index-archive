@@ -1,2 +1,3 @@
 {"name":"mut-str","vers":"1.0.0-alpha.1","deps":[],"cksum":"1d3efdc42c262901050b2e92f308ce5fb00781cc01141553a1f4cbdb8008d603","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"mut-str","vers":"1.0.0-alpha.2","deps":[],"cksum":"1054ff50c7c4e1caf7096a455b209930915cef28b0811c7c5e2f68e3e17fd34d","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"mut-str","vers":"1.0.0-alpha.3","deps":[],"cksum":"a588811aebca79b4dcd86933d7ca32d23b170ca222626551809a5215eab36e79","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
