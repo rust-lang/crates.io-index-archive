@@ -1,0 +1,1 @@
+{"name":"shared-ids","vers":"0.10.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"27469fe606d5192e4836e68b58776fabc00a7f55bb3b0c20b4ca7f10a61bd8d5","features":{},"yanked":false}
