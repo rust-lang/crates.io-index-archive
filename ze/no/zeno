@@ -4,3 +4,4 @@
 {"name":"zeno","vers":"0.2.0","deps":[],"cksum":"ea708573d4a67f939793b0d3f923d105bfdf06bbd6acb3f9cd02ce1bd905f6c8","features":{},"yanked":false}
 {"name":"zeno","vers":"0.2.1","deps":[],"cksum":"cd61feec0a090c234641099597704c512081994e7fd9d6fd93e7c049e47e9d8e","features":{"default":["eval"],"eval":[]},"yanked":false}
 {"name":"zeno","vers":"0.2.2","deps":[],"cksum":"c110ba09c9b3a43edd4803d570df0da2414fed6e822e22b976a4e3ef50860701","features":{"default":["eval"],"eval":[]},"yanked":false}
+{"name":"zeno","vers":"0.2.3","deps":[],"cksum":"dd15f8e0dbb966fd9245e7498c7e9e5055d9e5c8b676b95bd67091cd11a1e697","features":{"default":["eval"],"eval":[]},"yanked":false}
