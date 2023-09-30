@@ -1,1 +1,2 @@
 {"name":"cargo-self","vers":"0.1.0","deps":[],"cksum":"02354a8520de47533cde5a25493429fd2743ad57fbe6930e987bf611fd559abe","features":{},"yanked":false}
+{"name":"cargo-self","vers":"0.1.1","deps":[{"name":"cargo","req":"^0.73.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c8160c56d9243fa473c833d4dbb1a9080f2b277f9d21879337f4d089157572b","features":{},"yanked":false}
