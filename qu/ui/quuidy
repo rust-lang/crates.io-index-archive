@@ -1,0 +1,1 @@
+{"name":"quuidy","vers":"0.1.0","deps":[{"name":"uuid","req":"^1.4.1","features":["v4","fast-rng"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0de72f6fef0988207d1591603c028d7aaf3cf3801de85c3bf4c62fa1e8613b78","features":{},"yanked":false}
