@@ -5,3 +5,4 @@
 {"name":"chitey-router","vers":"0.2.7","deps":[],"cksum":"c1e3c4c23c127498604b3877710dd7b4d1d0a9698d8fc8332155db6161a5274f","features":{},"yanked":false,"rust_version":"1.64"}
 {"name":"chitey-router","vers":"0.2.8","deps":[],"cksum":"59b677ce6dc2a069802bbf2e5c9b1bbe49ebec2794d5a33efb34bc8664d3b7c1","features":{},"yanked":false,"rust_version":"1.64"}
 {"name":"chitey-router","vers":"0.2.15","deps":[],"cksum":"6177c28eab491bb0e85a6a40f9131d7d1aeb392b65baa111c6034d4120812ee3","features":{},"yanked":false,"rust_version":"1.64"}
+{"name":"chitey-router","vers":"0.2.19","deps":[],"cksum":"48f11703b12b75b00ff41dc862600df1d540df5093c2f448edeefeca41bdfe35","features":{},"yanked":false,"rust_version":"1.64"}
