@@ -3,4 +3,4 @@
 {"name":"lk_math","vers":"0.2.1","deps":[],"cksum":"08cbb55852f35ae942c1578f3848ce8040bc19ae768dec04714747f1f66a2683","features":{},"yanked":false}
 {"name":"lk_math","vers":"0.3.0","deps":[],"cksum":"a172ebd367487dcef252540721a85979ed1d237a412a7ceb8576412641eb2f28","features":{},"yanked":false}
 {"name":"lk_math","vers":"0.3.1","deps":[],"cksum":"47270260d5738ce984f3375cd6ccb98b91ddadc7b62be60436c6006e6542aefe","features":{},"yanked":false}
-{"name":"lk_math","vers":"0.3.2","deps":[],"cksum":"8379db14bf9ee5deecc2c4f1f53c701c3a1786ce76b7a17d128a5d8a3912f17f","features":{},"yanked":true}
+{"name":"lk_math","vers":"0.3.2","deps":[],"cksum":"8379db14bf9ee5deecc2c4f1f53c701c3a1786ce76b7a17d128a5d8a3912f17f","features":{},"yanked":false}
