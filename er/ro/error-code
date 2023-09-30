@@ -17,3 +17,4 @@
 {"name":"error-code","vers":"3.0.0-beta.4","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":"cfg(any(windows, unix))","kind":"normal"}],"cksum":"ec490ed32c214cd08e6f51b83e19a5a8782fd2da085bc9d85552691b3b2f7efe","features":{"std":[]},"yanked":false}
 {"name":"error-code","vers":"3.0.0-beta.5","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":"cfg(any(windows, unix))","kind":"normal"}],"cksum":"38df283495e8ecb9b3f0c2470a4e4bebe9ac6c4040ab53b646c5461e56fa59a6","features":{"std":[]},"yanked":false}
 {"name":"error-code","vers":"3.0.0-beta.6","deps":[],"cksum":"d2e0a318da1da00d2998af964b41c09886318329d0d74cb04a5cb8cafffe80d2","features":{"std":[]},"yanked":false}
+{"name":"error-code","vers":"3.0.0","deps":[],"cksum":"281e452d3bad4005426416cdba5ccfd4f5c1280e10099e21db27f7c1c28347fc","features":{"std":[]},"yanked":false}
