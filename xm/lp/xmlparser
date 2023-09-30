@@ -21,3 +21,4 @@
 {"name":"xmlparser","vers":"0.13.3","deps":[],"cksum":"114ba2b24d2167ef6d67d7d04c8cc86522b87f490025f39f0303b7db5bf5e3d8","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"xmlparser","vers":"0.13.4","deps":[],"cksum":"2a6276d307d1ce52a96deb8729b78ae34ee25bf9c4a7bd6ecb7885dc54f25b25","features":{"default":["std"],"std":[]},"yanked":true}
 {"name":"xmlparser","vers":"0.13.5","deps":[],"cksum":"4d25c75bf9ea12c4040a97f829154768bbbce366287e2dc044af160cd79a13fd","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"xmlparser","vers":"0.13.6","deps":[],"cksum":"66fee0b777b0f5ac1c69bb06d361268faafa61cd4682ae064a171c16c433e9e4","features":{"default":["std"],"std":[]},"yanked":false}
