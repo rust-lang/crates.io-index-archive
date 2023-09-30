@@ -1,1 +1,2 @@
 {"name":"nocurses_rust","vers":"0.1.0","deps":[],"cksum":"f53e352110948685a506b1444a516ddd65284bc0b5d498edb4f820e6e9b8329f","features":{},"yanked":false}
+{"name":"nocurses_rust","vers":"0.2.0","deps":[{"name":"crossterm","req":"^0.26","features":["filedescriptor"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c046465bddc9a8861025fe2b6f2337a14052e3c9e426c1b849804e386c297283","features":{},"yanked":false}
