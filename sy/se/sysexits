@@ -18,3 +18,4 @@
 {"name":"sysexits","vers":"0.7.0","deps":[],"cksum":"c64b7e5f7d1de4b94297badc617b915ef4e868582ed485d433050839667d8a57","features":{"default":["std"],"std":[]},"yanked":true,"rust_version":"1.61.0"}
 {"name":"sysexits","vers":"0.7.1","deps":[],"cksum":"d4246d0efb19683b32a1b69ee8041a0fa3e3e5d54b629929ba9ed302f64905ff","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.61.0"}
 {"name":"sysexits","vers":"0.7.2","deps":[],"cksum":"ed767c454d933992df9ed9f4fdc01f67630d41879d45f54792a6f83c2269a3d6","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.61.0"}
+{"name":"sysexits","vers":"0.7.3","deps":[],"cksum":"6425329965653c519686be7fe042eb700a2f7ede69d34c58b65791c97933469d","features":{"default":["std"],"extended_io_error":["std"],"nightly":["extended_io_error"],"std":[]},"yanked":false,"rust_version":"1.61.0"}
