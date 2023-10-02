@@ -9,3 +9,4 @@
 {"name":"ambient_cb","vers":"0.2.0","deps":[],"cksum":"6f42bc2fbd1c32678325890f31c8a59eb1134158cfa230c168ae4ea90cae4ded","features":{},"yanked":false,"rust_version":"1.67.0"}
 {"name":"ambient_cb","vers":"0.2.1","deps":[],"cksum":"13649ded50605817627f89f5bd90261392fe7126460ed8ff8ba0ee82c455e010","features":{},"yanked":false,"rust_version":"1.67.0"}
 {"name":"ambient_cb","vers":"0.3.0-rc.2","deps":[],"cksum":"bcd1cf2edcfabde2370501dc1b174f85e547f4ca8172c437cb435c6d5eda4c4c","features":{},"yanked":false,"rust_version":"1.70.0"}
+{"name":"ambient_cb","vers":"0.3.0-rc.3","deps":[],"cksum":"7f6610b110a6d8f62cc24ab85f95390841fca93c4135a2f2dfa38f1409144076","features":{},"yanked":false,"rust_version":"1.70.0"}
