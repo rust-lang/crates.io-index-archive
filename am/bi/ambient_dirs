@@ -1,0 +1,1 @@
+{"name":"ambient_dirs","vers":"0.3.0-rc.3","deps":[{"name":"directories","req":"^5.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4766ea4cd4bf34d8c1bb2f6606174af1890501bf5f8dcfe5aa13b646f4adab83","features":{},"yanked":false,"rust_version":"1.70.0"}
