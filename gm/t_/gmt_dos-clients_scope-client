@@ -1,0 +1,1 @@
+{"name":"gmt_dos-clients_scope-client","vers":"0.1.0","deps":[{"name":"gmt_dos-clients_scope","req":"^2.0","features":["client"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9abc23d9ae7dd02ce1bc81a2d8fadd2804e774e5e86505b31b27df0a813d47ae","features":{},"yanked":false}
