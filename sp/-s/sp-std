@@ -27,3 +27,4 @@
 {"name":"sp-std","vers":"9.0.0","deps":[],"cksum":"2d5bbc9339227d1b6a9b7ccd9b2920c818653d40eef1512f1e2e824d72e7a336","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"sp-std","vers":"10.0.0","deps":[],"cksum":"3ed09ef1760e8be9b64b7f739f1cf9a94528130be475d8e4f2d1be1e690c9f9c","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"sp-std","vers":"11.0.0-dev.1","deps":[],"cksum":"c50370fd71ae05cf8a26f8567cc62f295fd61c53f13c43ced290c0a1032f48a4","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"sp-std","vers":"11.0.0","deps":[],"cksum":"8c91d32e165d08a14098ce5ec923eaec59d1d0583758a18a770beec1b780b0d0","features":{"default":["std"],"std":[]},"yanked":false}
