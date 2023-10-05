@@ -1,0 +1,1 @@
+{"name":"playdate-bindgen-cfg","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4","features":["std","env","derive","help"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90e6a620d176842311804bb6e92af982505db2b5d0034a501af47b37257974de","features":{"default":[]},"yanked":false}
