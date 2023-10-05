@@ -1,0 +1,1 @@
+{"name":"qtruss","vers":"0.1.0","deps":[{"name":"maria-linalg","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c258274ccf22b129695713e11c77611a925ec9be1f7cdb0ea31f3305cdb64db3","features":{},"yanked":false}
