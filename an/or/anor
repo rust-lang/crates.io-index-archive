@@ -1,0 +1,1 @@
+{"name":"anor","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log4rs","req":"^1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d770d4add9735c17ed06f76ac505048ae0439b5e93e0258f3dd879963b04659a","features":{},"yanked":false}
