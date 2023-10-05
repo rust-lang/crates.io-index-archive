@@ -1,0 +1,1 @@
+{"name":"rust_pie_ob","vers":"0.1.0","deps":[{"name":"rust_ob","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcd15057504b9f1d19141440c9b3f1b550aca043e12fca90d99b08a0df23fa10","features":{},"yanked":false}
