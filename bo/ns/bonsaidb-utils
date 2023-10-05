@@ -6,3 +6,4 @@
 {"name":"bonsaidb-utils","vers":"0.3.0","deps":[],"cksum":"b2854f6cad4be99a07ae8ea2dc44f08eee05bb6053e76a81f8fab85a36743389","features":{},"yanked":false,"rust_version":"1.58"}
 {"name":"bonsaidb-utils","vers":"0.4.0","deps":[],"cksum":"a12cbbfb94dee2c1a2d4e4c614ca5c3f255af66dbb2fa1a282a43e170b16a261","features":{},"yanked":false,"rust_version":"1.58"}
 {"name":"bonsaidb-utils","vers":"0.4.1","deps":[],"cksum":"13bfb6c69dae109f5a0fff86716929b431da4c79ae813c44938e3c03332ad89f","features":{},"yanked":false,"rust_version":"1.58"}
+{"name":"bonsaidb-utils","vers":"0.5.0","deps":[],"cksum":"184e5ac9b34e6d55fb0a8437bd279650942b25d3ee95b74f3fed2bb5032d5f93","features":{},"yanked":false,"rust_version":"1.70"}
