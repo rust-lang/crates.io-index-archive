@@ -5,3 +5,4 @@
 {"name":"binf","vers":"0.2.1","deps":[],"cksum":"104fbc996926a9f7ae4536425d3cc80356c45f9ddff3e680f384722eb1fbda51","features":{},"yanked":false}
 {"name":"binf","vers":"0.2.2","deps":[],"cksum":"1ff1c475697771bdc3a453fe901198e3737af4f1c402ea42faf63d679341917e","features":{},"yanked":false}
 {"name":"binf","vers":"0.2.3","deps":[],"cksum":"fee8b9d66d6a3b9e1def0f8e7de502d336a5fe40dab0d3d65946824c1fa504a1","features":{},"yanked":false}
+{"name":"binf","vers":"1.0.0-rc1","deps":[{"name":"binf_macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51a84f64257cd08931b681bde23e6b914dc6e9dd134e2e861675b337e02c05a0","features":{},"yanked":false}
