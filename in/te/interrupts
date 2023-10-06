@@ -1,1 +1,2 @@
 {"name":"interrupts","vers":"0.1.0","deps":[],"cksum":"09993c14860848a1e747a6a3360e5d63264fba4f50522ffb0d62c6047a370254","features":{},"yanked":false}
+{"name":"interrupts","vers":"0.1.1","deps":[{"name":"nix","req":"^0.27","features":["signal"],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"c46edcbf16508f59ec0c67642101c4e5d61097f822170a39108c7075ff6b34ad","features":{},"yanked":false}
