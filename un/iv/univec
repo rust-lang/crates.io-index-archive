@@ -1,1 +1,2 @@
 {"name":"univec","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.48","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab9b61d0365ed479efab73374b13423ca78a49cc0519fdb14f9fde6cc47417ab","features":{},"yanked":false}
+{"name":"univec","vers":"0.2.0","deps":[{"name":"thiserror","req":"^1.0.48","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cf6b63fd838b6ecabcf475d2388518d43d56483d0f8c5c6ab2ff1901c33e094d","features":{},"yanked":false}
