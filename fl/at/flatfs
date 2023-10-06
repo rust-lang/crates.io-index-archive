@@ -1,0 +1,1 @@
+{"name":"flatfs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9bc023ac18bfd0bfb041e9621068a29e881ea6655a9e7763aed36f6507395cbb","features":{},"yanked":false}
