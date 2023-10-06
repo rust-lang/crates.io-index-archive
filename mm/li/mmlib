@@ -1,0 +1,1 @@
+{"name":"mmlib","vers":"0.1.0","deps":[{"name":"euclid","req":"^0.22.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efd95e0ef92a38db80294dc838d5479205ad59e4afc7eaaa1a4926f01494639a","features":{},"yanked":false}
