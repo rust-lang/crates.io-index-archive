@@ -15,3 +15,4 @@
 {"name":"byte_reader","vers":"0.5.1","deps":[],"cksum":"3c5452ed39af440abef3d48fe102948c22f569d2b57a53bee0f4a5f2024b2857","features":{"location":[]},"yanked":false}
 {"name":"byte_reader","vers":"0.5.2","deps":[],"cksum":"ea5a36cd692dfe8d02d638eea125113168058e068ecf676f1d74ffe7effd81fa","features":{"location":[]},"yanked":false}
 {"name":"byte_reader","vers":"1.0.0","deps":[],"cksum":"1ece05ac0860857e8ae3e6240a89f4cc4eefc397a508a704607942e5bd937e6d","features":{"location":[]},"yanked":false}
+{"name":"byte_reader","vers":"1.1.0","deps":[],"cksum":"47e2ec88e0d6d758e6aaffebb5ef06e04ddaf333c829a060ef51eb6fc9faafb4","features":{"location":[]},"yanked":false}
