@@ -9,3 +9,4 @@
 {"name":"pros-sys","vers":"0.2.0","deps":[],"cksum":"7cfe453b5e71c1650c2c7318080ceae2ac88804d86d2f2b57ce12dfc4751984a","features":{"xapi":[]},"yanked":false,"links":"pros"}
 {"name":"pros-sys","vers":"0.2.1","deps":[],"cksum":"e258de94fada80f25f1ef42933a56ba6c56829258331b782aa50c3fc6f192757","features":{"xapi":[]},"yanked":false,"links":"pros"}
 {"name":"pros-sys","vers":"0.2.2","deps":[],"cksum":"d1957d968efc9bfdc06abda34465bd194dda1682ea24060bf5973447b7966d9a","features":{"xapi":[]},"yanked":false,"links":"pros"}
+{"name":"pros-sys","vers":"0.3.0","deps":[{"name":"cfg-if","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"18fe552afce0ac72c64da580dfbde44887b0e3abfeaa72a37e5c017063a8ede9","features":{"no-link":[],"xapi":[]},"yanked":false,"links":"pros"}
