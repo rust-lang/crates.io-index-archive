@@ -1,0 +1,1 @@
+{"name":"linoleum","vers":"2.0.0","deps":[{"name":"crossterm","req":"^0.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a5d1a1c7164975aac037812b4352fa1092b4063f15d2effd2574ae760b11fe1","features":{},"yanked":false}
