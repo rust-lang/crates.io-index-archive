@@ -1,0 +1,1 @@
+{"name":"phrace","vers":"0.1.0","deps":[{"name":"terminal_size","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3665a3dc9b993e0ff61faca95f338e8f7a8d96b6b963d41ccfaa521b6b6dad42","features":{},"yanked":false}
