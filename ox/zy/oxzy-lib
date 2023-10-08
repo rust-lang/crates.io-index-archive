@@ -1,1 +1,2 @@
 {"name":"oxzy-lib","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff3392864a3464072024325d237e102c03b007714deeeb2b973c8ea7d4934d94","features":{},"yanked":false}
+{"name":"oxzy-lib","vers":"0.2.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"255700cde9ad6406f3ea726d019bb1fcb282167a215b6f550ebe6111d0b4204e","features":{},"yanked":false}
