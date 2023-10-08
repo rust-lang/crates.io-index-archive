@@ -26,3 +26,4 @@
 {"name":"rifs","vers":"4.8.2","deps":[],"cksum":"2a5d927c77b8ecd08db80a197a8ac4e318ae965c3468bc22fe4636841aefa292","features":{},"yanked":false}
 {"name":"rifs","vers":"4.9.0","deps":[],"cksum":"6c8c812c247dbf2dfafe3a42affa438594f28accefa041c3e370766e837751ae","features":{},"yanked":false}
 {"name":"rifs","vers":"4.10.0","deps":[],"cksum":"5d3cfea327d11bd963502816834c90428ff4a51c159609b929c8b4c823f62ead","features":{},"yanked":false}
+{"name":"rifs","vers":"4.11.0","deps":[],"cksum":"de8049fa61a75bc42260d7dc6b3b4ff6885e13c91ebea12e5594328d69137487","features":{},"yanked":false}
