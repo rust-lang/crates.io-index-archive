@@ -1,0 +1,1 @@
+{"name":"simple-repl","vers":"0.1.0","deps":[{"name":"rustyline","req":"^12.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"342ea4d1fde186463374ff85ed40fd167ec8bc15d0c0d52be1c23a509e66f482","features":{},"yanked":false}
