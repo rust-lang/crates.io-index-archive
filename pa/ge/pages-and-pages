@@ -1,1 +1,2 @@
 {"name":"pages-and-pages","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.148","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd0d17ea17abb0b18798d3e48216473f7309608974569889597ecb89dd5117d5","features":{},"yanked":false}
+{"name":"pages-and-pages","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2.148","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61962c6f79ddc65e891ed6e458f1e1c2aad733aa3c1ffacef567b49353bf4670","features":{},"yanked":false}
