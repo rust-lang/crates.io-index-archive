@@ -1,0 +1,1 @@
+{"name":"gpurs","vers":"0.1.0","deps":[{"name":"opencl3","req":"^0.9.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"054d09add7637d3bc055460730c099a097facc042949055443fd18afbc96d594","features":{},"yanked":false}
