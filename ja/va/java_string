@@ -1,1 +1,2 @@
 {"name":"java_string","vers":"0.0.1","deps":[],"cksum":"5f4c9d6d4f6c97ae82609b207c3f8155df2f993d281b03d115c2f522fa48f6c7","features":{},"yanked":false}
+{"name":"java_string","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.160","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"532e7f612e70673d1cf9e1e4d5b948da5e2fbf8ad853148f74a28972a870dba9","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
