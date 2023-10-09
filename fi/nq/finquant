@@ -1,3 +1,4 @@
 {"name":"finquant","vers":"0.0.1","deps":[],"cksum":"a45f6078230dbe22d96c3c658e7248c4be915cbb4e8ef87f3c9f65d03ba34e82","features":{},"yanked":false}
 {"name":"finquant","vers":"0.0.2","deps":[{"name":"chrono","req":"^0.4.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0721aa8741bf11593a493fe0a47d2b60fa7d4c1912a5ca16ba8fd2ac9f37008b","features":{},"yanked":false}
 {"name":"finquant","vers":"0.0.3","deps":[{"name":"chrono","req":"^0.4.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b86276dc0ea87325e4dafe95710fb7d20b0bc82d61eb2146463001cfbd82144d","features":{},"yanked":false}
+{"name":"finquant","vers":"0.0.4","deps":[{"name":"chrono","req":"^0.4.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a9b6ecdfab6c58a57ef315ae3b9f3029844a2aa2bc7c4a6fa92d32fc5ad76ac","features":{},"yanked":false}
