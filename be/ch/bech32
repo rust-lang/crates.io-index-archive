@@ -18,3 +18,4 @@
 {"name":"bech32","vers":"0.9.0","deps":[],"cksum":"c5738be7561b0eeb501ef1d5c5db3f24e01ceb55fededd9b00039aada34966ad","features":{"default":["std"],"std":[],"strict":[]},"yanked":false}
 {"name":"bech32","vers":"0.9.1","deps":[],"cksum":"d86b93f97252c47b41663388e6d155714a9d0c398b99f1005cbc5f978b29f445","features":{"default":["std"],"std":[],"strict":[]},"yanked":false}
 {"name":"bech32","vers":"0.10.0-alpha","deps":[],"cksum":"81cc1dec4c25e5a78c52802eda8e2adf0d2aca57ffc536326b75c0e531ea0a9b","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"bech32","vers":"0.10.0-beta","deps":[],"cksum":"98f7eed2b2781a6f0b5c903471d48e15f56fb4e1165df8a9a2337fd1a59d45ea","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
