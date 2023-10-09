@@ -1,0 +1,1 @@
+{"name":"uutils_term_grid","vers":"0.3.0","deps":[{"name":"unicode-width","req":"^0.1.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b389452a568698688dda38802068378a16c15c4af9b153cdd99b65391292bbc7","features":{},"yanked":false,"rust_version":"1.70"}
