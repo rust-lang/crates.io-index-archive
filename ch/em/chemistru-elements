@@ -1,1 +1,2 @@
 {"name":"chemistru-elements","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.188","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"796f5280ead770df7c018055d9cfe5c69a2696f5f70d9133448e9fa94d609b6e","features":{},"yanked":false}
+{"name":"chemistru-elements","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.188","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"063cd22b7d58c2067dd643cb93e24b91906276650f654f2407682482eee5df6b","features":{},"yanked":false}
