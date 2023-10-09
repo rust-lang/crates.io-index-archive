@@ -1,0 +1,1 @@
+{"name":"slsqp","vers":"0.1.0-alpha.1","deps":[{"name":"approx","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e0c2be1859d4c27fd97b610dfdd2513e6d25bef3e4f195168fcd9117a9ca39e","features":{},"yanked":false}
