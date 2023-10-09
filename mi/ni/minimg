@@ -1,0 +1,1 @@
+{"name":"minimg","vers":"0.1.0","deps":[{"name":"minvect","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"png","req":"^0.17.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9644e7f7227c14bc9aba4b06ce192426044d555c06f4f4462e59fc5c94155f4","features":{},"yanked":false}
