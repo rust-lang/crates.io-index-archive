@@ -7,3 +7,4 @@
 {"name":"libdav1d-sys","vers":"0.5.0","deps":[],"cksum":"2449c0cf51b69ae65edb12fa071063e5a51034a8b2347269b5a40aefe2071fcf","features":{},"yanked":false,"links":"dav1d"}
 {"name":"libdav1d-sys","vers":"0.5.1","deps":[],"cksum":"6e50adbe9173a77a9ef4331f14db2518556f2f22dd66f1ea28ae6fd60f86c0c2","features":{},"yanked":true,"links":"dav1d"}
 {"name":"libdav1d-sys","vers":"0.5.2","deps":[],"cksum":"c232de5110b390272f9fb7fedde31ecad0ac4ea5293099be140f3a20d298bf12","features":{},"yanked":false,"links":"dav1d"}
+{"name":"libdav1d-sys","vers":"0.5.3-alpha.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1812b0332ed180c78b7162695e18b23a729eec8e663767c46b85dcb12d2b1e39","features":{},"yanked":false,"links":"dav1d"}
