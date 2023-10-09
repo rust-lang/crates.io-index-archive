@@ -21,3 +21,4 @@
 {"name":"rufi_core","vers":"12.0.0","deps":[],"cksum":"66ea19b6b5bb1bd1ca9f4a73f14953ed91f22bb61890b22490578832cca2602b","features":{},"yanked":false}
 {"name":"rufi_core","vers":"12.0.1","deps":[],"cksum":"41262cdb8e6207234208bd271b3d097673060692885d263039b463ef1c08f430","features":{},"yanked":false}
 {"name":"rufi_core","vers":"12.0.2","deps":[],"cksum":"2d42130a01522091fe3f552e1f942ade4f6591539b88d0fa49404c787647d785","features":{},"yanked":false}
+{"name":"rufi_core","vers":"13.0.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"558de6a27bb1a941b52b49a33e9e8c320b9725702240c2ef0af750ea730b3ed5","features":{},"yanked":false}
