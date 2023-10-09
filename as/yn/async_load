@@ -1,1 +1,2 @@
 {"name":"async_load","vers":"1.0.0","deps":[{"name":"paste","req":"^1.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60a2fee0fb4273fcb17be20ec2bd432836e02ae726e7c84731d16b1c1f8d972e","features":{"extension":[]},"yanked":false}
+{"name":"async_load","vers":"1.0.1","deps":[{"name":"paste","req":"^1.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d6f2e23484df10f4905c64311c33a34c4863b4f33b7c8135cc8845268a3b8ef","features":{"extension":[]},"yanked":false}
