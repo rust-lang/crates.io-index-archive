@@ -1,0 +1,1 @@
+{"name":"envhub-pkgs","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5da576eb169aa9dcd40f71ce3d6b73c19ff95db1b157a027c111694276b6abaa","features":{},"yanked":false}
