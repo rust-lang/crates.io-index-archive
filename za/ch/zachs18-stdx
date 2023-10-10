@@ -1,0 +1,1 @@
+{"name":"zachs18-stdx","vers":"0.1.0","deps":[],"cksum":"3733e268976e45d467d0ebc15d8d02954f016f7e0f8be8a85b8f645f2c4fc086","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
