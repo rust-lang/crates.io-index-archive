@@ -1,0 +1,1 @@
+{"name":"bipack_ru","vers":"0.1.0","deps":[{"name":"base64","req":"^0.21.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"270ba2fc8e7abd12e978db45f5f37db393bbd5937186c14458cfece934423bc2","features":{},"yanked":false}
