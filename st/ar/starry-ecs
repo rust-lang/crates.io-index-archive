@@ -1,1 +1,2 @@
 {"name":"starry-ecs","vers":"0.1.0","deps":[{"name":"dyn-clone","req":"^1.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bed345151507273409abb71a84adce435640a2533bde4ea63639e6dc912b78a5","features":{},"yanked":false}
+{"name":"starry-ecs","vers":"0.1.1","deps":[{"name":"dyn-clone","req":"^1.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8edaae958a0e7a1714b7a2c4de7c91cfac6989858f5a502b8e5a45636a169f3c","features":{},"yanked":false}
