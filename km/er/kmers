@@ -1,0 +1,1 @@
+{"name":"kmers","vers":"0.2.1","deps":[{"name":"noodles","req":"^0.52.0","features":["core","fasta"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b8784af57fbd92a1e188ea54919d1b74e6b75ac48b6db9a3037d5bb2bdd6f38c","features":{},"yanked":false}
