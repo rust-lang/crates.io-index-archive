@@ -33,3 +33,4 @@
 {"name":"re_build_info","vers":"0.9.0-rc.7","deps":[],"cksum":"d711c7a9a30e72ed1bc65ad247e849b6c274fd19d75058f3dbc27bddaacfe4ab","features":{},"yanked":false,"rust_version":"1.72"}
 {"name":"re_build_info","vers":"0.9.0","deps":[],"cksum":"54de2c77698354d24b9e1204ff52801e535bdb3aae0b3d95fa1cf58cffe0e6ca","features":{},"yanked":false,"rust_version":"1.72"}
 {"name":"re_build_info","vers":"0.10.0-alpha.2","deps":[],"cksum":"aff3f221a37dbb249955b8b5d43831dda57d4d92954e56e96d5dc434208620f4","features":{},"yanked":false,"rust_version":"1.72"}
+{"name":"re_build_info","vers":"0.10.0-alpha.3","deps":[],"cksum":"d16b405302b91ff362d2d573faa07e088fe9d4bb769feb00e5e19bb4c2c6a907","features":{},"yanked":false,"rust_version":"1.72"}
