@@ -1,4 +1,4 @@
-{"name":"vmmap","vers":"0.1.4","deps":[],"cksum":"8ff69825dbeede4ff2a7bba27109d99a9cdfa0f20430e077dd480917397aea9a","features":{},"yanked":false}
+{"name":"vmmap","vers":"0.1.4","deps":[],"cksum":"8ff69825dbeede4ff2a7bba27109d99a9cdfa0f20430e077dd480917397aea9a","features":{},"yanked":true}
 {"name":"vmmap","vers":"0.1.5","deps":[],"cksum":"02d2e715017932faa27a85c5bc424c7c89805f0cd8c4217f01df87188d24dde0","features":{},"yanked":false}
 {"name":"vmmap","vers":"0.1.7","deps":[],"cksum":"20531f4596e8ca31cb16f419f355c1ba2959ea3cf073e6b030278d2f800f49fb","features":{},"yanked":false}
 {"name":"vmmap","vers":"0.1.0","deps":[{"name":"windows-sys","req":"^0.45.0","features":["Win32_Foundation","Win32_System_Diagnostics_Debug","Win32_System_Memory","Win32_System_ProcessStatus","Win32_System_Threading","Win32_System_Environment"],"optional":false,"default_features":false,"target":"cfg(windows)","kind":"normal"}],"cksum":"3949ac1d066a694a202706374075c34eac8060597b0c6f5a1e308bff09e75bfe","features":{},"yanked":false}
