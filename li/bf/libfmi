@@ -1,0 +1,1 @@
+{"name":"libfmi","vers":"2.0.4","deps":[{"name":"cc","req":"^1.0.79","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"log","req":"^0.4.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5fa36feae05a118dad773362adfdee26c4d29f7cf97f826df73b17722fb41f4","features":{},"yanked":false}
