@@ -1,0 +1,1 @@
+{"name":"hget","vers":"0.0.0","deps":[{"name":"clap","req":"^4.4.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7ad0be7ce1cb846a5274cdda2e0fe9bc1887bc37eba0e21711e7d1808a836c6","features":{},"yanked":false}
