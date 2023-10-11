@@ -1,0 +1,1 @@
+{"name":"logix","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d6582d8fd78ac433c9f4e3c30727cb36d6a6e654b714416cec87454916bd9f2a","features":{},"yanked":false}
