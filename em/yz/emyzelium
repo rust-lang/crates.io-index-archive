@@ -1,0 +1,1 @@
+{"name":"emyzelium","vers":"0.9.2","deps":[{"name":"crossterm","req":"^0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1409980c0a75b7835d4e860332e94fb5b30ff1329b1a16a17fb45f483ecca97","features":{},"yanked":false}
