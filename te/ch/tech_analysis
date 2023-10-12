@@ -1,0 +1,1 @@
+{"name":"tech_analysis","vers":"0.1.0","deps":[{"name":"polars","req":"^0.32.1","features":["lazy","describe"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49a8a1e36528b5ac23fa02adfc441af70a75192a68e3a5d624dfa1b53a717403","features":{},"yanked":false}
