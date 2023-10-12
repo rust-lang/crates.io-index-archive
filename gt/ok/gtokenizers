@@ -1,0 +1,1 @@
+{"name":"gtokenizers","vers":"0.0.11","deps":[{"name":"rust-lapper","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6298d3afb4cac152d59896f050f903557661d2b697ebef4c801faab64b8bed2e","features":{},"yanked":false}
