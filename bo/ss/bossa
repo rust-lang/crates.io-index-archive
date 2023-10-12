@@ -1,0 +1,1 @@
+{"name":"bossa","vers":"2.0.0","deps":[{"name":"cxx","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cxx-build","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"689f04e34ef8b83abfc5da740f22d240ed1c31846a863c668879843aa0333be1","features":{},"yanked":false}
