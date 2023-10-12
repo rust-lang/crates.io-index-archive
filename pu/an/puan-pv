@@ -1,1 +1,2 @@
 {"name":"puan-pv","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.188","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e1a5ea5e5b8c4f5fdbcd20bdfd1e1a80b378424e3bf7e84381b210a4d522c16","features":{},"yanked":false}
+{"name":"puan-pv","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.188","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"568a30e7ef1f0eb4af7cd66814f688bb50eac898ed590158a90ecbbd99497b58","features":{},"yanked":false}
