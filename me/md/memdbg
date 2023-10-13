@@ -1,1 +1,2 @@
 {"name":"memdbg","vers":"0.1.0","deps":[],"cksum":"74638a28948a4d4ace9382d1f9388f0f0e7a89c136075ebda69e211cc38f3643","features":{"debug":[],"default":["debug"],"stringify":[]},"yanked":false}
+{"name":"memdbg","vers":"0.1.1","deps":[],"cksum":"415c6a6bba3c295a0307567fb4dbe413a3b51873e987e245711f9bf2ef17948a","features":{"debug":[],"default":["debug"],"stringify":[]},"yanked":false}
