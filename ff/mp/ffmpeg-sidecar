@@ -8,3 +8,4 @@
 {"name":"ffmpeg-sidecar","vers":"0.4.0","deps":[],"cksum":"40a81b00196d2e220967aa1a239534e63335724036e786c1bd4899c24a7e2dd5","features":{},"yanked":false}
 {"name":"ffmpeg-sidecar","vers":"0.4.1","deps":[],"cksum":"4aa2dbe84f307b52b672941b88f3bd39a0b9d49c06dd0fcbdd5c22c6b60de254","features":{},"yanked":false}
 {"name":"ffmpeg-sidecar","vers":"0.5.0","deps":[],"cksum":"a26ba058dafa8c626cd8e4cc63a3b3ec4feff543f61ee377309289afd2189549","features":{},"yanked":false}
+{"name":"ffmpeg-sidecar","vers":"0.5.1","deps":[],"cksum":"a5b56b7872b0cbc828e83043a82268b111e3648dab25f29079fce448648e572a","features":{},"yanked":false}
