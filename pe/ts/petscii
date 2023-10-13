@@ -1,0 +1,1 @@
+{"name":"petscii","vers":"0.1.0","deps":[{"name":"phf","req":"^0.11.2","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ae6081bcccd5165385557748705d958561260a52c2dce832e765e44be7d6fd3","features":{},"yanked":false,"rust_version":"1.63"}
