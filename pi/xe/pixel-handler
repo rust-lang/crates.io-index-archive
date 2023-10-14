@@ -1,1 +1,2 @@
 {"name":"pixel-handler","vers":"1.0.1","deps":[{"name":"ggez","req":"^0.9.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85b7ce8a1473527856ed6d202150b217eedc9b550dd1de390076fc5dc1c6d1da","features":{},"yanked":false}
+{"name":"pixel-handler","vers":"0.1.2","deps":[{"name":"ggez","req":"^0.9.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a6adb46e6126689208555bf52390a4db8e50bb37d15bf5f7131561a7d5cc133","features":{},"yanked":false}
