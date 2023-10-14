@@ -7,3 +7,4 @@
 {"name":"binf","vers":"0.2.3","deps":[],"cksum":"fee8b9d66d6a3b9e1def0f8e7de502d336a5fe40dab0d3d65946824c1fa504a1","features":{},"yanked":false}
 {"name":"binf","vers":"1.0.0-rc1","deps":[{"name":"binf_macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"51a84f64257cd08931b681bde23e6b914dc6e9dd134e2e861675b337e02c05a0","features":{},"yanked":false}
 {"name":"binf","vers":"1.0.0","deps":[{"name":"binf_macros","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d724d98cfe84a29244da9e531c01c2cf466b2bd0cd4d1f696cb81c4e65f4a8f","features":{},"yanked":false}
+{"name":"binf","vers":"1.0.1","deps":[{"name":"binf_macros","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8398423c523fc1c0351bf69c622569f47842c43e710929874781f195f9a55889","features":{},"yanked":false}
