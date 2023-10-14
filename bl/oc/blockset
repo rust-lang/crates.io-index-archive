@@ -1,2 +1,3 @@
 {"name":"blockset","vers":"0.1.0","deps":[],"cksum":"bc5b5a16caa73d69fca5ede75f4fd8a7fc2e5b5c576120a48884f12ef3b5bbc7","features":{},"yanked":true}
 {"name":"blockset","vers":"0.2.0","deps":[{"name":"wasm-bindgen-test","req":"^0.3.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"51c477d243724f51994834ba97b383a058f3acf4d01bee631d0fd6b78b5780dc","features":{},"yanked":false}
+{"name":"blockset","vers":"0.2.1","deps":[{"name":"wasm-bindgen-test","req":"^0.3.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2d0b7a23517c5d1b825f4020ff5191607719274fefc82b5d6f0a0ccf9b530d6e","features":{},"yanked":false}
