@@ -1,1 +1,2 @@
 {"name":"k_board","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2.149","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"befa687ae85081448076a60289fabab15eca054290066f2e65e3d10f77b8c32d","features":{},"yanked":false}
+{"name":"k_board","vers":"1.1.0","deps":[],"cksum":"fd8a52496b8ccd89ba5afae01947099f9a467c17b6b4b0aef3ad90fffcd30d2d","features":{},"yanked":false}
