@@ -1,0 +1,1 @@
+{"name":"ast-grep-pyo3","vers":"0.12.5","deps":[{"name":"pyo3","req":"^0.20.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c28f76235d95a52d76facc2ae1c1e26de1d3ddde100a6a3b4ae06433d1484e4f","features":{},"yanked":false,"rust_version":"1.63"}
