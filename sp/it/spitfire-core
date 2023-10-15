@@ -1,0 +1,1 @@
+{"name":"spitfire-core","vers":"0.1.0","deps":[{"name":"bytemuck","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bcd179d9f619bd64537c5008d794531e85a1f025c787c7f338e411cef9ed9188","features":{},"yanked":false}
