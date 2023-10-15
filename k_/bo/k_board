@@ -1,0 +1,1 @@
+{"name":"k_board","vers":"1.0.0","deps":[{"name":"libc","req":"^0.2.149","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"befa687ae85081448076a60289fabab15eca054290066f2e65e3d10f77b8c32d","features":{},"yanked":false}
