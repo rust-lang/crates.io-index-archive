@@ -1,0 +1,1 @@
+{"name":"wtl","vers":"0.1.0","deps":[{"name":"axum","req":"^0.6.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1117bdf0e9892fce9dd5272b8141b613dd09890804cd0a8ba42c43a0ea580ba4","features":{},"yanked":false}
