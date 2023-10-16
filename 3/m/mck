@@ -1,0 +1,1 @@
+{"name":"mck","vers":"0.1.0-alpha.1","deps":[{"name":"seq-macro","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d10d63b0252e4665cbd381773ea4057ce20dc60d359780d83a7d58726eb5797f","features":{},"yanked":false,"rust_version":"1.70"}
