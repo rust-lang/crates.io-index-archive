@@ -1,1 +1,2 @@
 {"name":"webp_encoder","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e353dabc57b1d303caf59c21bf64db0d190178e8ffc86b1f22dd369d6a12bcf5","features":{},"yanked":false}
+{"name":"webp_encoder","vers":"0.2.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c17e0d6cc23ac20c4192c9bdc4b03fc9a0d17fdf2a0accbd943ee976713e1bf4","features":{},"yanked":false}
