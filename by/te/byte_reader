@@ -17,3 +17,4 @@
 {"name":"byte_reader","vers":"1.0.0","deps":[],"cksum":"1ece05ac0860857e8ae3e6240a89f4cc4eefc397a508a704607942e5bd937e6d","features":{"location":[]},"yanked":false}
 {"name":"byte_reader","vers":"1.1.0","deps":[],"cksum":"47e2ec88e0d6d758e6aaffebb5ef06e04ddaf333c829a060ef51eb6fc9faafb4","features":{"location":[]},"yanked":false}
 {"name":"byte_reader","vers":"1.1.1","deps":[],"cksum":"77ee9d6623efd34dc6352ee89be3fcf50d8c2ade0a35ffb63e62bf476d33e367","features":{"location":[]},"yanked":false}
+{"name":"byte_reader","vers":"1.1.2","deps":[],"cksum":"504b7d410bd3892ab7177bcbd3253adc2f41b122badd4a43e408ebf6e5da41d9","features":{"location":[]},"yanked":false}
