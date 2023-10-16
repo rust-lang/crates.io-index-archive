@@ -8,3 +8,4 @@
 {"name":"nz","vers":"0.2.2","deps":[],"cksum":"a7ff655d93035d7d1208dd4f01a1e4d12e547f71c20783c7ede7be845d3c1940","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"nz","vers":"0.3.0","deps":[],"cksum":"b4ad4c6c6b43f37e2e1d4f0d5b805af3aaec49af6d25c84bf3261818aca89dcd","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"nz","vers":"0.3.1","deps":[],"cksum":"8bc5ed6392f7f2d45dc4516680ea0d7213b824c95a056d988da1cdd0b163593a","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"nz","vers":"0.3.2","deps":[],"cksum":"28ba9cab725a7d7ece4bbf38968a1717ed73abf0516f7ff90a4127d016bebd51","features":{},"yanked":false,"rust_version":"1.56.0"}
