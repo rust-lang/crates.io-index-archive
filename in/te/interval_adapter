@@ -1,0 +1,1 @@
+{"name":"interval_adapter","vers":"0.2.0","deps":[{"name":"test_tools","req":"^0.1.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"232205763aac3e8a97ee0e43e0dcf3db552ec83956ea07bd29cfcc89ea171271","features":{"default":[],"full":[],"no_std":[],"use_alloc":[]},"yanked":false}
