@@ -1,3 +1,4 @@
 {"name":"ssml","vers":"0.0.1","deps":[],"cksum":"d7cd0d6480d3ac10cba88003090cef9ce6efdcb27ec66e1b56ff3d28978badaf","features":{},"yanked":false}
 {"name":"ssml","vers":"0.0.2","deps":[],"cksum":"f29da0e1901a95ae4035c586186fbaa036a920d9c11b3feb28bbeab3f59def76","features":{},"yanked":false}
 {"name":"ssml","vers":"0.0.3","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e6660dbadb726540bc98589b5914b3ee45549837fd1394755ed9ebae61b675b","features":{},"yanked":false}
+{"name":"ssml","vers":"0.0.4","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab10381912cbc4585506dc3386d921f9d8636535eefe0c5630bd449272a34d81","features":{},"yanked":false}
