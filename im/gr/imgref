@@ -25,3 +25,4 @@
 {"name":"imgref","vers":"1.9.2","deps":[],"cksum":"7d6a8cd48d0dc604999b8beacfbfc2f4eb289a52af175029d4f79fb57b80c7d5","features":{},"yanked":false}
 {"name":"imgref","vers":"1.9.3","deps":[],"cksum":"320c73268859c28512b98b9379bcbc6421510154b6cf57d6df87a36617e853a6","features":{},"yanked":false}
 {"name":"imgref","vers":"1.9.4","deps":[],"cksum":"b2cf49df1085dcfb171460e4592597b84abe50d900fb83efb6e41b20fefd6c2c","features":{},"yanked":false}
+{"name":"imgref","vers":"1.10.0","deps":[],"cksum":"90d944e334f00f4449c9640b440a171f816be0152305c12ef90424fc35fd035c","features":{"default":["deprecated"],"deprecated":[]},"yanked":false}
