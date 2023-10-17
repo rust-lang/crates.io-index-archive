@@ -1,0 +1,1 @@
+{"name":"dharitri-sc-modules","vers":"0.0.1","deps":[{"name":"dharitri-sc","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3c4a77cd9dbbe4893a0d77d989613186529a232a80cad46096fbf6358fe7e9f","features":{"alloc":["dharitri-sc/alloc"]},"yanked":false}
