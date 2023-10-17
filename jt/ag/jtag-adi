@@ -1,0 +1,1 @@
+{"name":"jtag-adi","vers":"0.1.0","deps":[{"name":"jtag-taps","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d65c35446d845314aa7377ac4b588c2895ba5ef98febec4bd44e90aef6873c25","features":{},"yanked":false}
