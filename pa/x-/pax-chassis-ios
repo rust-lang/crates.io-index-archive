@@ -1,1 +1,2 @@
 {"name":"pax-chassis-ios","vers":"0.10.2","deps":[{"name":"pax-chassis-common","req":"^0.10.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"718215708c2e90e187f7014cc2ebe11124f530e0ef466f816c0252275f997ed3","features":{},"yanked":false}
+{"name":"pax-chassis-ios","vers":"0.10.3","deps":[{"name":"pax-chassis-common","req":"^0.10.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"888780289d63abc5b43221069f0bfda5b8622a89a0b37dd7fc8158efbc1363fc","features":{},"yanked":false}
