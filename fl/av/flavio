@@ -3,3 +3,4 @@
 {"name":"flavio","vers":"0.1.2","deps":[],"cksum":"c9143b61affbb53ccbcd08bd72d976016650fe4098064809bd9387be5f5d45ee","features":{},"yanked":false}
 {"name":"flavio","vers":"0.1.3","deps":[],"cksum":"1cb97b8db1b93a8643d8d793ea74d77e741b1a9981a74900aeb1dbf00dd098ea","features":{"32":[],"64":[],"math":[]},"yanked":false}
 {"name":"flavio","vers":"0.1.4","deps":[],"cksum":"0de16593f224cc06f79fcf2fc33c52309e8afae064bc5b8fa449c7c03d6ed08b","features":{"32":[],"64":[],"math":[]},"yanked":false}
+{"name":"flavio","vers":"0.1.5","deps":[],"cksum":"636211f7fc4c5a63aed30517bca32a71ba283d42a50471b423b4832f36a4b722","features":{"32":[],"64":[],"math":[]},"yanked":false}
