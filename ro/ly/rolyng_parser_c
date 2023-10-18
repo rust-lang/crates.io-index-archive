@@ -1,0 +1,1 @@
+{"name":"rolyng_parser_c","vers":"0.1.0","deps":[{"name":"peg","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"894bf41858fe014b296337a4f1acc61b02fb9bbdff848d75080f3262ea206242","features":{},"yanked":false}
