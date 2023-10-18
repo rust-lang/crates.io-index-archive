@@ -13,3 +13,4 @@
 {"name":"flexar","vers":"0.3.8","deps":[{"name":"soulog","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f2f189c59a389081461092615f2966846a28950a6eea0c5db1af6f0f609a6fa","features":{},"yanked":false}
 {"name":"flexar","vers":"0.3.9","deps":[{"name":"soulog","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78951b2d0bef65cb0c95f9b1283160cf172b33f362fb25239eff5dd965326de8","features":{},"yanked":false}
 {"name":"flexar","vers":"0.3.10","deps":[],"cksum":"dd3fe58553e180501513a42d88356b89a21cb73a79fe0eec33abc3dfabc434cc","features":{},"yanked":false}
+{"name":"flexar","vers":"0.3.11","deps":[],"cksum":"1bce864d22b8c7a07f18069c26fbe6ad0ecc8f1bab8a1972f31208445773dd11","features":{},"yanked":false}
