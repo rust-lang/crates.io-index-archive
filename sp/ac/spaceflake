@@ -1,0 +1,1 @@
+{"name":"spaceflake","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c6d570031ade85c81e6cd0efdf2613a7aa857c9a68e9f8f33ab47ce88d7c441","features":{},"yanked":false}
