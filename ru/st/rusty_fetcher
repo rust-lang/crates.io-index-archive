@@ -1,0 +1,1 @@
+{"name":"rusty_fetcher","vers":"0.0.1","deps":[{"name":"clap","req":"^4.4.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c053f8014bfc2006038f0090c5f6195d99a52573948aed4dc4453b5642abd0b","features":{},"yanked":false}
