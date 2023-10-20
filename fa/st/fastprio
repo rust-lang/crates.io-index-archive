@@ -1,0 +1,1 @@
+{"name":"fastprio","vers":"0.1.0","deps":[{"name":"heapless","req":"^0.7.16","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24bea06ea9d5256b83b0a7c1faad3920d22062aaede70642d76c99c9ee48460f","features":{"std":[]},"yanked":false}
