@@ -1,0 +1,1 @@
+{"name":"onlytypes","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2.0","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec491545f4cf155821cec8e90018eb0103599d2c9efc224c72c8e47010b50dcb","features":{},"yanked":false}
