@@ -1,1 +1,2 @@
 {"name":"adpcm-xq-sys","vers":"0.1.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"689183cbd741eb75bade8215dc2d25eb48af5a2720b088783cdaf502ec7ff3dd","features":{"default":[],"nds":[]},"yanked":false}
+{"name":"adpcm-xq-sys","vers":"0.1.2","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"860ebe5466aeb72954e82883c51ffa9b6f74348e1e8c3f862f0f330037102c8a","features":{"default":[],"nds":[]},"yanked":false}
