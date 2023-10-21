@@ -1,1 +1,2 @@
 {"name":"streamdal-protos","vers":"0.0.115","deps":[{"name":"protobuf","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6ce9e3939000b052909572ffefbc30376998ed0222ce532edd76581aad8504b","features":{},"yanked":false}
+{"name":"streamdal-protos","vers":"0.0.116","deps":[{"name":"protobuf","req":"^3.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea5e03bf6d5a9d86695d81009e8dfd3e576644ef71ba1ca1d5bb890ac4313232","features":{},"yanked":false}
