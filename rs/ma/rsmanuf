@@ -1,1 +1,2 @@
 {"name":"rsmanuf","vers":"1.0.0","deps":[{"name":"regex","req":"^1.10.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"088fc83b524a677646c18d54416335981bb76b0c5ed7f91c20cd8d303056f18f","features":{},"yanked":false}
+{"name":"rsmanuf","vers":"1.0.1","deps":[{"name":"regex","req":"^1.10.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f4dc3ff19c6dfd1a51a4b773471abf86ae6bed1ff550e4f22f3f6d5f39e5fab","features":{},"yanked":false}
