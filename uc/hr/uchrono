@@ -1,0 +1,1 @@
+{"name":"uchrono","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4cea9628316cc23f00b958d23f3eef5d2fb42ef542a2b03352d4c6e71bbf503","features":{"default":["std"],"std":["lazy_static"]},"yanked":false}
