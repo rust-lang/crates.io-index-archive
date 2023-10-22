@@ -1,1 +1,2 @@
 {"name":"rs-bush","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"462bad8b07dd5c5d47e324e1dd28a616fdc0e2e6a2ad20e2f8eb1c28a329df4e","features":{},"yanked":false}
+{"name":"rs-bush","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34b25db037350cce3f0b7b3fb27cf2eb57239358c635c7f5746a9df9bf8704aa","features":{},"yanked":false}
