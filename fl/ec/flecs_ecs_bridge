@@ -1,2 +1,2 @@
 {"name":"flecs_ecs_bridge","vers":"0.0.1","deps":[],"cksum":"128a8e28d6228c947237a94cf0229c2b63245a072bd647f9b230dfb019491d99","features":{},"yanked":false}
-{"name":"flecs_ecs_bridge","vers":"0.0.2","deps":[],"cksum":"fefd609d0c9cb74c21358e340e34bd873fa324eb68c3a1253b608f9e781e4c32","features":{},"yanked":false}
+{"name":"flecs_ecs_bridge","vers":"0.0.2","deps":[],"cksum":"fefd609d0c9cb74c21358e340e34bd873fa324eb68c3a1253b608f9e781e4c32","features":{},"yanked":true}
