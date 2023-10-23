@@ -1,2 +1,3 @@
 {"name":"wasmtime-wmemcheck","vers":"13.0.0","deps":[],"cksum":"5412bb464066d64c3398c96e6974348f90fa2a55110ad7da3f9295438cd4de84","features":{},"yanked":false}
 {"name":"wasmtime-wmemcheck","vers":"14.0.0","deps":[],"cksum":"8a6c6c4600bc33b7f0e2f63111406788c6595649a198638f75cd047e33ceaf5d","features":{},"yanked":false}
+{"name":"wasmtime-wmemcheck","vers":"14.0.1","deps":[],"cksum":"19e2168a6e2a5f3b415903025b4c18f532731f2c8f4dceb6725959a07bc4e496","features":{},"yanked":false}
