@@ -1,0 +1,1 @@
+{"name":"free-cpus","vers":"1.0.0","deps":[{"name":"num_cpus","req":"^1.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64dee16a7db29828f9bce3e5c5b4b441b106bf09260d02a00fdfcaffdf8972a1","features":{},"yanked":false}
