@@ -1,0 +1,1 @@
+{"name":"endpoints","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3fd798e75f3be6df66c205c06fc5da481de054500948dabad3a4a10b1fe9b86","features":{},"yanked":false}
