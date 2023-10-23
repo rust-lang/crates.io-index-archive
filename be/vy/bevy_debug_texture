@@ -1,0 +1,1 @@
+{"name":"bevy_debug_texture","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ae3c73bfc07f2972dcc686664f06c882642538b19e21770cd73c8a212fa13a0","features":{},"yanked":false}
