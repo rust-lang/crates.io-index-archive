@@ -2,3 +2,4 @@
 {"name":"pi_null","vers":"0.2.0","deps":[],"cksum":"68680bc3d26a21be07ce8cea343a78d47e680e032d8507cee5c15a0d993da333","features":{},"yanked":true,"rust_version":"1.70"}
 {"name":"pi_null","vers":"0.2.1","deps":[],"cksum":"4d0983b050c772f58009675dfd7fe088958b1d72bf46874c6b3da179b3b173bf","features":{},"yanked":true,"rust_version":"1.72"}
 {"name":"pi_null","vers":"0.1.2","deps":[],"cksum":"092930b108984d18bb333a2f402d39440967c1b721345e3f3bdbe3081183560d","features":{},"yanked":false}
+{"name":"pi_null","vers":"0.1.3","deps":[],"cksum":"1b6c61fb7da7cb48c08067763f946b6d0a2d59f8c4f1ec7d4f2d49473713a42a","features":{},"yanked":false}
