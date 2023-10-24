@@ -11,3 +11,4 @@
 {"name":"ambient_schema","vers":"0.3.0-rc.4","deps":[],"cksum":"3bf28e735b72cc3d75377c80712d06b5adb800c88e3fd265231b794d198dc2b2","features":{},"yanked":false,"rust_version":"1.70.0"}
 {"name":"ambient_schema","vers":"0.3.0-rc.4a","deps":[],"cksum":"14ea0f9d2e37009ce52db6d5cb634ec6e9fa416b6792d62cca5ba5c0f29bf8c6","features":{},"yanked":false,"rust_version":"1.70.0"}
 {"name":"ambient_schema","vers":"0.3.0","deps":[],"cksum":"460993d260fe096f02bc428d06a793b2eca5f94fb206f854dcd556cbf4bcff01","features":{},"yanked":false,"rust_version":"1.70.0"}
+{"name":"ambient_schema","vers":"0.3.1-rc.1","deps":[],"cksum":"52a4b977533cf45f16a746b63919f8baac0b40305b23977bc8fcb1742aa88873","features":{},"yanked":false,"rust_version":"1.70.0"}
