@@ -1,1 +1,2 @@
 {"name":"anybuf","vers":"0.1.0","deps":[],"cksum":"f14538dd5b6befdc12b11aae1dddee64b670534d4fdbd28057bcc7c976c0e4eb","features":{},"yanked":false}
+{"name":"anybuf","vers":"0.2.0","deps":[{"name":"hex-literal","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fe06a4faa8c7066b9542a87171133a4588eb364d97bc8f2ba97fd2e1b4edb0dc","features":{},"yanked":false}
