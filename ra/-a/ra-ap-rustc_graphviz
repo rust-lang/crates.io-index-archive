@@ -5,3 +5,4 @@
 {"name":"ra-ap-rustc_graphviz","vers":"0.13.0","deps":[],"cksum":"e2ba4cb8d6239264759669b2b3f18fe93824f6cc01b6c3ea347fe3db5ccfc790","features":{},"yanked":false}
 {"name":"ra-ap-rustc_graphviz","vers":"0.14.0","deps":[],"cksum":"3820aa03c1d4a58f14d6ac538a8b67844a6464c9a1e86fac53e38c4e8fa52563","features":{},"yanked":false}
 {"name":"ra-ap-rustc_graphviz","vers":"0.15.0","deps":[],"cksum":"f51b3a52bd9c844069f0247a42d3b614f75614117d79aa20eb3dba7d722fe031","features":{},"yanked":false}
+{"name":"ra-ap-rustc_graphviz","vers":"0.16.0","deps":[],"cksum":"ac7d3e711082b3a8aabdcaaa98242ca5b103b7c066463926f570c64979463074","features":{},"yanked":false}
