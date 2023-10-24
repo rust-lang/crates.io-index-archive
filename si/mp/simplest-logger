@@ -1,0 +1,1 @@
+{"name":"simplest-logger","vers":"1.0.0","deps":[{"name":"log","req":"^0.4.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a830fbd57292c50ebb0cac55b778380d0e19fb4622887b33a06415e43a02ce68","features":{},"yanked":false}
