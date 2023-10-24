@@ -2,3 +2,4 @@
 {"name":"c-enum","vers":"0.1.1","deps":[],"cksum":"e5fca268f63fbeb9819c5afb333888cd5a245017f6c47f530da2d3b4964055c3","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"c-enum","vers":"0.1.2","deps":[],"cksum":"a4b71931af9c2a7756e9eed1b6ac105c31588a44b496423b41412e506f0f47e5","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"c-enum","vers":"0.2.0","deps":[],"cksum":"8aee118abe5403a574d1fbaf656524f5a220bfbac9e820c287425ff46528ca63","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"c-enum","vers":"0.2.1","deps":[],"cksum":"08ca98ed133393c0c9451d6dab77899f4cb8c8612b9c82a2fba24a4461894b36","features":{},"yanked":false,"rust_version":"1.56"}
