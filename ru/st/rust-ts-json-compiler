@@ -1,0 +1,1 @@
+{"name":"rust-ts-json-compiler","vers":"0.1.0","deps":[{"name":"peg","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"116b3d20a2986f6d609ff6593714e37334e215075aecffeab289ea4ab00574c6","features":{},"yanked":false}
