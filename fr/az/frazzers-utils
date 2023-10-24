@@ -1,0 +1,1 @@
+{"name":"frazzers-utils","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.6","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a95be7e9984c035eed3c67db9595978b535345dc51d3478b02e868a6c55fe4a","features":{},"yanked":false}
