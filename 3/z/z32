@@ -1,0 +1,1 @@
+{"name":"z32","vers":"1.0.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0c3090dd63b5982c716dd1f10c47221e525912233b5b879ab914c94d29162c67","features":{},"yanked":false}
