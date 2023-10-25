@@ -15,3 +15,4 @@
 {"name":"ambient_cb","vers":"0.3.0-rc.4a","deps":[],"cksum":"d03be42f025267182eb53ef56138edc8b81df90e2eb8946eda40bfb2ba5dac5b","features":{},"yanked":false,"rust_version":"1.70.0"}
 {"name":"ambient_cb","vers":"0.3.0","deps":[],"cksum":"a1beb270b81df947a95dd18329d98a7da1c214b0932846c73ec3f2450636b8a3","features":{},"yanked":false,"rust_version":"1.70.0"}
 {"name":"ambient_cb","vers":"0.3.1-rc.1","deps":[],"cksum":"9a612c64d93bb6b3fbdc8d41b1cbb88a99a534fe07a6b2b1030c34eab182da51","features":{},"yanked":false,"rust_version":"1.70.0"}
+{"name":"ambient_cb","vers":"0.3.1-rc.2","deps":[],"cksum":"8e74af5747eae6edb4422e36b75a43dd1806eabb3a855d91b057d58d2127b5ab","features":{},"yanked":false,"rust_version":"1.70.0"}
