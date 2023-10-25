@@ -1,1 +1,2 @@
 {"name":"mcinterface","vers":"0.2.0","deps":[],"cksum":"e4387eed443dc2718722d13de0793c9af93efa3d2130c550d306ede82dea2fa2","features":{"default":["fmt"],"fmt":[]},"yanked":false}
+{"name":"mcinterface","vers":"0.3.0","deps":[],"cksum":"85f2bc600210ace6b006285af5a34472a5932c7f2b142b8b6359d8c1dd91ad39","features":{"default":["fmt"],"fmt":[]},"yanked":false}
