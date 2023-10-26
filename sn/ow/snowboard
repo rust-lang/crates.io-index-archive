@@ -6,3 +6,4 @@
 {"name":"snowboard","vers":"0.3.1","deps":[],"cksum":"df4292a273a2ef578590f620912de846c63c2c80b60a89c3116b23b63e3f780f","features":{},"yanked":false}
 {"name":"snowboard","vers":"0.3.2","deps":[],"cksum":"3e91618e944bbfd1ed25db65c95a49d1f9165d1ebd10eb40480bb02c211d434a","features":{},"yanked":false}
 {"name":"snowboard","vers":"0.4.0","deps":[],"cksum":"d018ef355b3ea6abc317991977266fbcc27b37237f152d19917d67869d2b193c","features":{},"yanked":false}
+{"name":"snowboard","vers":"0.4.1","deps":[{"name":"async-std","req":"^1.12.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"895eb3c6029ebe0c3d273acea961a236258bf1beaf5d9e7cb83ce792a1d5058e","features":{"async":["async-std"],"default":[]},"yanked":false}
