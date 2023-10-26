@@ -2,3 +2,4 @@
 {"name":"general-sam","vers":"0.1.1","deps":[],"cksum":"c6c977936300f6022f245ccdde355c3768c4144239db83ea0d2992747bde46bc","features":{},"yanked":false}
 {"name":"general-sam","vers":"0.2.0","deps":[],"cksum":"4b055432df7ff3bdc87115ea3d032750f88058d8af4940f73e42e3f80bffe9a5","features":{},"yanked":false}
 {"name":"general-sam","vers":"0.3.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e74244ef4e318efa0c8a51957e1635052676139a9a422d64893b36faf9024f60","features":{},"yanked":false}
+{"name":"general-sam","vers":"0.4.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"efc208d244c77381c34020ce984551b8a550ab24fb46084acd7ec3bf20daa858","features":{"all":["trie"],"trie":[]},"yanked":false}
