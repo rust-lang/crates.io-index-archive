@@ -2,3 +2,4 @@
 {"name":"shell-quote","vers":"0.2.0","deps":[],"cksum":"4f37edf8086fb9d1fd0bee1cc271d94a163d51bbdb4577285bcb76e4a1565305","features":{},"yanked":false}
 {"name":"shell-quote","vers":"0.3.0","deps":[],"cksum":"ab31b1e46a3f14300977ece8c355009deddc6c531de49d55951e795bbad42957","features":{},"yanked":false}
 {"name":"shell-quote","vers":"0.3.1","deps":[],"cksum":"d7a904882fd5e7723d9113c65cd69c624dddd128f92ac1540c23cd663faba84b","features":{},"yanked":false}
+{"name":"shell-quote","vers":"0.3.2","deps":[{"name":"criterion","req":"^0.5.1","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d00b3236bea5216b445f91d83770d0a6d05da57cc56ff17cde1f87f9a9d11cb3","features":{},"yanked":false}
