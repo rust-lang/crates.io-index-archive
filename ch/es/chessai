@@ -1,0 +1,1 @@
+{"name":"chessai","vers":"0.1.0","deps":[{"name":"bincode","req":"^1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e816cda932b98195cca481b0cb65b202d9ef136cd33950e1b95e2d5f46b51e03","features":{},"yanked":false}
