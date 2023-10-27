@@ -1,1 +1,2 @@
 {"name":"io-impl","vers":"0.1.0","deps":[{"name":"io-trait","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa815a0f2909599355eb1121b4389fa770abb669fb827f02cec2762ea72eba70","features":{},"yanked":false}
+{"name":"io-impl","vers":"0.1.1","deps":[{"name":"io-trait","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a26f6c73effd7eef756ee6fbf383bdfa6f194d2174758c10680c0ca14641e9d7","features":{},"yanked":false}
