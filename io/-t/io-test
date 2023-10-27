@@ -1,3 +1,4 @@
 {"name":"io-test","vers":"0.0.0","deps":[],"cksum":"c08f8ae3d541f4b4981893cbbaf942cebe8887cf0c976b3a8f0bc06363a89667","features":{},"yanked":false}
 {"name":"io-test","vers":"0.1.0","deps":[{"name":"io-trait","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b597be0c734ced5d36e7d9084fee7621ef40258ea39b3c9e9192d7eb0a868f70","features":{},"yanked":false}
 {"name":"io-test","vers":"0.1.1","deps":[{"name":"io-trait","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a39212ab1f9f408f10e255b4a02f9f822bbca01ab1d864aac8aeb2bf837235f1","features":{},"yanked":false}
+{"name":"io-test","vers":"0.1.2","deps":[{"name":"io-trait","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"933b33b63cbebd5f7ec7c5c1b1206c14f0a0b4dc71215738eb94b2ed1e6d26d9","features":{},"yanked":false}
