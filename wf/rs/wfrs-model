@@ -1,0 +1,1 @@
+{"name":"wfrs-model","vers":"0.0.2","deps":[{"name":"rkyv","req":"^0.7","features":["validation"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cba81ff291de7f6561dee9861af4ffe3cc0f671059076db364488b49442777b","features":{},"yanked":false}
