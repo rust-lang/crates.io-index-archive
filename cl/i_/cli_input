@@ -2,3 +2,4 @@
 {"name":"cli_input","vers":"0.1.1","deps":[],"cksum":"92feb6d4c344d5bd368ceb0a28202a88f381020414c65d476897c9c81e151e99","features":{},"yanked":false}
 {"name":"cli_input","vers":"0.1.2","deps":[],"cksum":"9211de238953cf466d6b7f886e39b12550d852d44e059137785f372f829bf800","features":{},"yanked":false}
 {"name":"cli_input","vers":"1.0.0","deps":[{"name":"rpassword","req":"^7.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9025cecf9c89a194f0f5b5bc17e0656b8f2cca2a49613682af68fdc68b612c2","features":{},"yanked":false}
+{"name":"cli_input","vers":"1.0.1","deps":[{"name":"rpassword","req":"^7.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5bde3811b1e355163e9113a84f2f922ce3f49af223651a26d3aee1003afc9aa1","features":{},"yanked":false}
