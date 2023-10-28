@@ -1,0 +1,1 @@
+{"name":"htu21df-sensor","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccf1c37b09514b1f794397f4dbcca953b0dc5d589a5a9ff786215c4922a2cfef","features":{},"yanked":false}
