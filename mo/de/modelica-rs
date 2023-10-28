@@ -1,1 +1,2 @@
 {"name":"modelica-rs","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.190","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"565348f5602edc40def8f3530ab33ef923298a075128055b6510b4910b735cff","features":{},"yanked":false}
+{"name":"modelica-rs","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.190","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e2a7613ca148c31e3ed6ef379ed97a34d9665a3facc43fe951496f68263e5b9a","features":{},"yanked":false}
