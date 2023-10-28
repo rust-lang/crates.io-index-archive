@@ -7,3 +7,4 @@
 {"name":"flavio","vers":"0.1.6","deps":[],"cksum":"322a43a90b5dd1e51ed081c1863184b36406e83f1509ab5fe23048cb59e3abda","features":{"32":[],"64":[],"math":[]},"yanked":false}
 {"name":"flavio","vers":"0.1.7","deps":[],"cksum":"672786f2f3614e03412dc07bbb8e73f3fbdc3ae70336818ce03f9c85f249556c","features":{"32":[],"64":[],"math":[]},"yanked":false}
 {"name":"flavio","vers":"0.2.0","deps":[],"cksum":"3a8b150ddfb9114a2f4e07a8f6eaec2ff99c95039e421516a3f34f4b2f20bfad","features":{"32":[],"64":[],"math":[],"mechanics":["math"]},"yanked":false}
+{"name":"flavio","vers":"0.2.1","deps":[],"cksum":"82653e10a6502be50f349b20ad1ab3770ba29cecde52f70ae24ad3e2ecac9169","features":{"32":[],"64":[],"constitutive":["mechanics"],"math":[],"mechanics":["math"]},"yanked":false}
