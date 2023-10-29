@@ -1,1 +1,2 @@
 {"name":"htu21df-sensor","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccf1c37b09514b1f794397f4dbcca953b0dc5d589a5a9ff786215c4922a2cfef","features":{},"yanked":false}
+{"name":"htu21df-sensor","vers":"0.1.1","deps":[{"name":"embedded-hal","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b22bcd0a559b8504184ac60de4c6b1e8a2264f3b9b4cdde489c4a65cb27cc70","features":{},"yanked":false}
