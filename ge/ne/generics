@@ -21,3 +21,4 @@
 {"name":"generics","vers":"0.4.3","deps":[],"cksum":"5a2f1b52646882464445e36beb20f97c7b6da7b381f91f56f2bc959cfad1b0dd","features":{},"yanked":false,"rust_version":"1.60"}
 {"name":"generics","vers":"0.4.4","deps":[],"cksum":"9b68c8c0cd22a26e4524fa3847c0bb2368a824c6d10e40b10b26f88516d7ed8b","features":{},"yanked":false,"rust_version":"1.60"}
 {"name":"generics","vers":"0.5.0","deps":[],"cksum":"dcf88d375dffa56ba9e04298c989d0145b8fe216d2a44484b3f6294ab93381a2","features":{},"yanked":false,"rust_version":"1.71"}
+{"name":"generics","vers":"0.5.1","deps":[],"cksum":"c39102f6bbbd8e1cf7ef8f9d86b3d388cb86d0cd4781b0e31d2622bd0fcd1aa9","features":{},"yanked":false,"rust_version":"1.71"}
