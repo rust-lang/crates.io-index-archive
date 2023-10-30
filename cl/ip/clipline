@@ -1,1 +1,2 @@
 {"name":"clipline","vers":"0.1.0","deps":[],"cksum":"261dc8d360e39175d787ffc8ee5885da0ec7fe167171d574f6857772a348c344","features":{},"yanked":false}
+{"name":"clipline","vers":"0.1.1","deps":[],"cksum":"88185c4b7b7413beef2556218d27d3e3bbb099f665ff7e42b319c789129db678","features":{"default":["func","iter"],"func":[],"iter":[]},"yanked":false}
