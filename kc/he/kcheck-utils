@@ -1,0 +1,1 @@
+{"name":"kcheck-utils","vers":"0.1.2","deps":[{"name":"flate2","req":"^1.0.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e4412e05cc5d0cdda40dfe4f51e9cb12f5432e9d420966454afac0fec791ba2","features":{},"yanked":false}
