@@ -1,0 +1,1 @@
+{"name":"bevy_shader_mtoon","vers":"0.0.1","deps":[{"name":"bevy","req":"^0.11.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a477f01cbf6074d2ac4eb2fc45d503d72c36cc7b0d594735cc5ba42b13806b1","features":{},"yanked":false}
