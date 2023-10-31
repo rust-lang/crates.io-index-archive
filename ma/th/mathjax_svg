@@ -1,1 +1,2 @@
 {"name":"mathjax_svg","vers":"0.1.0","deps":[{"name":"rusty_v8","req":"^0.32.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"963478723f03ebf4a4e5e7f4541a056bb1821799717f43ced65c0a5807018f23","features":{},"yanked":false}
+{"name":"mathjax_svg","vers":"1.0.0","deps":[{"name":"rusty_v8","req":"^0.32.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"948a0eec22e681efee5187aa6d5f354682ee7fde7962cc86a1a2c7a1aa1b2ba9","features":{},"yanked":false}
