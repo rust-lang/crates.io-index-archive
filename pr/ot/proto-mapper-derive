@@ -1,0 +1,1 @@
+{"name":"proto-mapper-derive","vers":"0.1.0","deps":[{"name":"proto-mapper-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08e07dbe92ebb5fb86a1e8b5ae9adb2967629a28b69ba5128d58919f16954488","features":{"prost":["proto-mapper-core/prost"],"protobuf":["proto-mapper-core/protobuf"]},"yanked":false}
