@@ -5,3 +5,4 @@
 {"name":"fp_server","vers":"1.0.0","deps":[],"cksum":"61f35daa8f0704fd719d28da42fc7fe70bfbb171b6927a850cabd65687636c33","features":{},"yanked":false}
 {"name":"fp_server","vers":"1.1.0","deps":[],"cksum":"d8bb8a618df176ae72c3e9b7894c400a418ab4265c3fee1e416fc333e7c1089c","features":{},"yanked":false}
 {"name":"fp_server","vers":"1.1.1","deps":[],"cksum":"a9c81ef66d6f1817197b600d2b41cc35c75e94957ccd4dbf30576e617771aa60","features":{},"yanked":false}
+{"name":"fp_server","vers":"1.1.2","deps":[],"cksum":"0300552a0509e05b61e48b321866ff2ca12e6ec30ff70d10287c3bb2b7c7da1e","features":{},"yanked":false}
