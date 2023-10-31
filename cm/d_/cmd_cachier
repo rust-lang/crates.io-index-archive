@@ -1,0 +1,1 @@
+{"name":"cmd_cachier","vers":"0.2.0","deps":[{"name":"colored","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"redis","req":"^0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"511848ebb02513b7ab236685197cd157e882ece607a80ee6fc721b7af2cd245c","features":{},"yanked":false}
