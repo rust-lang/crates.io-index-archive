@@ -1,0 +1,1 @@
+{"name":"kanidm_utils_users","vers":"1.1.0-rc.15-dev","deps":[{"name":"libc","req":"^0.2.149","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f0efe9336aec3ca44fd52eab94aead96df064933e2adb315a760e40665c90a91","features":{},"yanked":false,"rust_version":"1.66"}
