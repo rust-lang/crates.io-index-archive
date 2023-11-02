@@ -1,1 +1,2 @@
 {"name":"midi-codec","vers":"0.0.0","deps":[],"cksum":"28e4a329b850895ea4134892c086eea6dd3e6903ad444f840ab4b58dc3cd58ec","features":{},"yanked":false}
+{"name":"midi-codec","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.50","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9abf9f5d623778574d86624394d9b54c98dab271d13214b044b752b5890fd7b2","features":{"alloc":[],"default":["std"],"std":["alloc","thiserror"]},"yanked":false}
