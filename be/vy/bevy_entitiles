@@ -1,0 +1,1 @@
+{"name":"bevy_entitiles","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.11.3","features":["dynamic_linking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3cd6918d09d4f2c3dd200798ecfe482dd50c400a78e662bab75ae0137f24a6fb","features":{},"yanked":false}
