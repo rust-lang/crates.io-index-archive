@@ -1,1 +1,2 @@
 {"name":"are_we_touching","vers":"0.1.0","deps":[],"cksum":"e415d3d941c0953343d56eea58e68028dc0ae23e5c7d056b6bdecb1202125c2e","features":{},"yanked":false}
+{"name":"are_we_touching","vers":"0.1.1","deps":[{"name":"cubi_vectors","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec2244c323c7e635923d05a7c3c757c54e0c4ad610b0aa10fcaadc5598cbfb42","features":{},"yanked":false}
