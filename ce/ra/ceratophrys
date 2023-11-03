@@ -1,0 +1,1 @@
+{"name":"ceratophrys","vers":"0.0.1","deps":[{"name":"gif","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"orfail","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4cdce550caaa661274d42c0e7a181704dfe67d63f2db8d783a2597bac5334167","features":{},"yanked":false}
