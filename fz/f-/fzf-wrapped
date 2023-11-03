@@ -1,0 +1,1 @@
+{"name":"fzf-wrapped","vers":"0.1.0","deps":[{"name":"derive_builder","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d12f33c76302b231bc316380587156a81656f30331e97246c367ea88ba8c8d55","features":{},"yanked":false}
