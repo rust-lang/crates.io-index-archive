@@ -20,3 +20,4 @@
 {"name":"sysexits","vers":"0.7.2","deps":[],"cksum":"ed767c454d933992df9ed9f4fdc01f67630d41879d45f54792a6f83c2269a3d6","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.61.0"}
 {"name":"sysexits","vers":"0.7.3","deps":[],"cksum":"6425329965653c519686be7fe042eb700a2f7ede69d34c58b65791c97933469d","features":{"default":["std"],"extended_io_error":["std"],"nightly":["extended_io_error"],"std":[]},"yanked":false,"rust_version":"1.61.0"}
 {"name":"sysexits","vers":"0.7.4","deps":[],"cksum":"2a4ee316f07f975b89ada2b47c75ecd829be54198f43de258aba2f51d99f9219","features":{"default":["std"],"extended_io_error":["std"],"nightly":["extended_io_error"],"std":[]},"yanked":false,"rust_version":"1.61.0"}
+{"name":"sysexits","vers":"0.7.5","deps":[],"cksum":"35587fa4b40e64c3d9d4dfaf9903a7c3f2c5ffcec7154e3e4aa50343a66e6c13","features":{"default":["std"],"extended_io_error":["std"],"nightly":["extended_io_error"],"std":[]},"yanked":false,"rust_version":"1.61.0"}
