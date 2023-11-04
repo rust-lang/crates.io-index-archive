@@ -7,3 +7,4 @@
 {"name":"zilog_z80","vers":"0.11.0","deps":[{"name":"crossbeam-channel","req":"^0.5.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f68da6a840557995bfc4df23d118d7ed337dc92e602a252e9debaad1ed74f5ac","features":{},"yanked":false}
 {"name":"zilog_z80","vers":"0.13.0","deps":[],"cksum":"8f58d0e648db224e9bf82cd3e1a6c4f23f080a3856bb406952c61e1326b269c5","features":{},"yanked":false}
 {"name":"zilog_z80","vers":"0.14.0","deps":[],"cksum":"c22777ed2f8deec15362fa56bc500b9b9f6627cde4792e46df57da970b156e99","features":{},"yanked":false}
+{"name":"zilog_z80","vers":"0.15.0","deps":[],"cksum":"cc2ec2bb2b38587a0c3a2ac844d5828079fe5cbf74b9b813b0bc56ee778ab24f","features":{},"yanked":false}
