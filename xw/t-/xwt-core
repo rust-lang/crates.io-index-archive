@@ -1,0 +1,1 @@
+{"name":"xwt-core","vers":"0.2.0","deps":[{"name":"async-trait","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"b55bacfe8104303e34115584798aa64fab2e8595d030b921c35848bf2ed47759","features":{},"yanked":false}
