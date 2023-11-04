@@ -7,3 +7,4 @@
 {"name":"cubi_vectors","vers":"0.1.6","deps":[],"cksum":"0db0c924cf0cfb90532f2ac9e370dbbdc5e11dd55f1a54edfb0575f2088d003d","features":{},"yanked":false}
 {"name":"cubi_vectors","vers":"0.1.7","deps":[],"cksum":"bdf8c974ebf86055e97190ce4c468c10f5fd48787a447edf52e831a7ff3ddffd","features":{},"yanked":false}
 {"name":"cubi_vectors","vers":"0.1.8","deps":[],"cksum":"0252856546c9d7940e49da5acc73c3a34d2574475c1a994a580e03ca5154a88e","features":{},"yanked":false}
+{"name":"cubi_vectors","vers":"0.2.0","deps":[{"name":"mint","req":"^0.5.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb0a080dd597c9e8e2a25a1e417785ba57be651f684118d1e147bedc48560bdf","features":{},"yanked":false}
