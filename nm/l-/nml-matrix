@@ -1,0 +1,1 @@
+{"name":"nml-matrix","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42856ad862c39e802de7ccdb5e941f4e75582dcf68fcae8e8d5729bd0c11c6d2","features":{},"yanked":false}
