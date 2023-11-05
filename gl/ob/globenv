@@ -1,1 +1,2 @@
 {"name":"globenv","vers":"0.1.0","deps":[{"name":"winreg","req":"^0.51.0","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"cc4f9f80158452d050dbf4d75ad6b4565676de2d43b501fc84e351054d1f6474","features":{},"yanked":false}
+{"name":"globenv","vers":"0.2.0","deps":[{"name":"winreg","req":"^0.51.0","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"edc681d2b2320e478db87d77e21351c27d114926be61c5808098bbd060f3d759","features":{},"yanked":false}
