@@ -1,0 +1,1 @@
+{"name":"route_verification_shared_struct","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bdaebe11766aba14e0fb9499d0099236a236da8b627914afd3cdb1f289fcea99","features":{},"yanked":false}
