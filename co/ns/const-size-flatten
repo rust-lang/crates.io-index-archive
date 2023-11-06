@@ -8,3 +8,4 @@
 {"name":"const-size-flatten","vers":"0.4.2","deps":[],"cksum":"93f8e18a80ee4ab3bac088e27bf439e44378425220763ce0f63fffd2af47c841","features":{},"yanked":false}
 {"name":"const-size-flatten","vers":"0.4.3","deps":[],"cksum":"b2a2e94cb3a0cc9b7b14b0d7c13018f100021f9af614d9a36d99e686932ed558","features":{},"yanked":false}
 {"name":"const-size-flatten","vers":"0.4.4","deps":[],"cksum":"436b8f6e49dc0d89f4dfddf00147258e2ab73e3b3488e4121479de8b1b1f0c84","features":{},"yanked":false}
+{"name":"const-size-flatten","vers":"0.5.0","deps":[{"name":"paste","req":"^1.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"77dd6e57637538e1b0acb61fa5d6c3a7cb629d30c3b23bf1c41433d4c5aca3b8","features":{},"yanked":false}
