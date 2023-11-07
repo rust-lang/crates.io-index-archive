@@ -1,0 +1,1 @@
+{"name":"compose_parser","vers":"0.1.0","deps":[{"name":"peg","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b4ae27c588aa2fca40a9a349dc995bcab08eeda2ad1803e8703a85cf7f87d96","features":{},"yanked":false}
