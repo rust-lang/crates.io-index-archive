@@ -2,8 +2,8 @@
 {"name":"dmntk-examples","vers":"0.0.7","deps":[],"cksum":"385f06324cc535e7de01c3520f84d963546cf2e11a286ed141c20e3d0479245a","features":{},"yanked":false}
 {"name":"dmntk-examples","vers":"0.0.9","deps":[],"cksum":"be711b8f9144f47750e6bd8b1e0d0c7776f4c5e7341ba0fc13f4648f4ffc8f11","features":{},"yanked":false}
 {"name":"dmntk-examples","vers":"0.0.10","deps":[],"cksum":"47beb8647a663e5f24862017b37be3721d9fd4de1185520c42211d33fe7a1592","features":{},"yanked":false}
-{"name":"dmntk-examples","vers":"0.0.11","deps":[],"cksum":"65085ecf6e06ecca4551c01291cbe8737a746d7e7a0e3bdaf97834314230313e","features":{},"yanked":false}
-{"name":"dmntk-examples","vers":"0.0.20","deps":[],"cksum":"38a3524d29697b225099f7a8c1ce99b2538069c36806eb1d3ffcff4e75060cc1","features":{},"yanked":false}
+{"name":"dmntk-examples","vers":"0.0.11","deps":[],"cksum":"65085ecf6e06ecca4551c01291cbe8737a746d7e7a0e3bdaf97834314230313e","features":{},"yanked":true}
+{"name":"dmntk-examples","vers":"0.0.20","deps":[],"cksum":"38a3524d29697b225099f7a8c1ce99b2538069c36806eb1d3ffcff4e75060cc1","features":{},"yanked":true}
 {"name":"dmntk-examples","vers":"0.0.35","deps":[],"cksum":"b0f8e5a17053d65769ea3e50ac64f9322745583e31fd1c2df48b510305d270ff","features":{},"yanked":true}
 {"name":"dmntk-examples","vers":"0.0.36","deps":[],"cksum":"fa63faa9e57b1e830890d390e7647c74f65feddc2ec53b4b33f999c6efe3d819","features":{},"yanked":true}
 {"name":"dmntk-examples","vers":"0.0.37","deps":[],"cksum":"ccbc8acf4904020496c49d961dcc81c3399b7453b728af63c1e546bc09a6b9b9","features":{},"yanked":true}
