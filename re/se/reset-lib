@@ -1,1 +1,2 @@
 {"name":"ReSet-Lib","vers":"0.1.0","deps":[],"cksum":"48287a2a5dbd14a64806173c2e7234d8cc826fffe9c907b6bdad92979ce48513","features":{},"yanked":false}
+{"name":"ReSet-Lib","vers":"0.1.1","deps":[{"name":"dbus","req":"^0.9.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"directories-next","req":"^2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83d43d98fd35fa5a5446f23bdc3406a247f87f4fd8c3e12fdb99306ce162c4f6","features":{},"yanked":false}
