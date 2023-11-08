@@ -1,0 +1,1 @@
+{"name":"lmml-parser","vers":"0.0.0","deps":[{"name":"lmml","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"nom","req":"^7.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"540c47769a97ae784634ca0042dd64ad3ba998d2ec029bd82a73592ebfe7c3dc","features":{},"yanked":false}
