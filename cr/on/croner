@@ -1,1 +1,2 @@
 {"name":"croner","vers":"0.0.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e17c6755c6a7c164eba08ce31209adc4a976e4f4bceac3385cd6465f2dd930c9","features":{},"yanked":false}
+{"name":"croner","vers":"0.0.2","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35f061dc0437b9e1d46af45d0c44082c28e505abc1e4d9036262a338e9c3d07d","features":{},"yanked":false}
