@@ -1,0 +1,1 @@
+{"name":"copy-path","vers":"0.1.0","deps":[{"name":"clipboard-win","req":"^4.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bd770057b2be0384afc2747cb3ca4299c82fae91b2254ba33981754321647c97","features":{},"yanked":false}
