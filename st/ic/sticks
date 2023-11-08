@@ -1,1 +1,2 @@
 {"name":"sticks","vers":"0.1.1","deps":[{"name":"clap","req":"^2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bfb9d9b14d7649a3ceefe95531fc942210fe387e78bce68b5d474195032f11a1","features":{},"yanked":false}
+{"name":"sticks","vers":"0.1.2","deps":[{"name":"clap","req":"^2.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"647b8b1638e1b7b5b20ada83b6942d79bcb19e2cde6c3e3f8308f60749faa903","features":{},"yanked":false}
