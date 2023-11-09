@@ -1,0 +1,1 @@
+{"name":"nullnet-firewall","vers":"0.1.0","deps":[{"name":"etherparse","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58cde179d9d25623b317918351befd8679e2a75f512e796c087ce4dd50f33148","features":{},"yanked":false}
