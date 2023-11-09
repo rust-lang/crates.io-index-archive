@@ -1,0 +1,1 @@
+{"name":"libck-commands","vers":"0.0.1","deps":[{"name":"rstest","req":"^0.18.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7cb4eef27aa4ee22d0ad6402042c11feccb405fa077361299b9c59ab76813ad8","features":{},"yanked":false}
