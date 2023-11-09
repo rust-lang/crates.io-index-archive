@@ -1,0 +1,1 @@
+{"name":"crablit","vers":"0.1.0","deps":[{"name":"colored","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"483de840def0087a9b6c5ad76ffc1b0f837a73e5270b77d2a0bda0e500ff9188","features":{},"yanked":false}
