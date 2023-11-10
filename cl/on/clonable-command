@@ -1,0 +1,1 @@
+{"name":"clonable-command","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.192","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4140de6168fe09fe790bf37d6dfdd269f313d23ff9e99cc4e3a8aec6a65f619b","features":{},"yanked":false}
