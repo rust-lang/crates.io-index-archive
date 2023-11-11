@@ -1,1 +1,2 @@
 {"name":"dsntk-examples","vers":"0.0.0","deps":[{"name":"walkdir","req":"^2.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b44e8276a40bd60271337101bd0e56d6f8be6d12d13179937470212a3f041bff","features":{},"yanked":false}
+{"name":"dsntk-examples","vers":"0.0.1","deps":[{"name":"walkdir","req":"^2.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d2e147eb940bd8ccab61b808f370dcd36bc53ef5381ba1aa5ee88d63ec3e46be","features":{},"yanked":false}
