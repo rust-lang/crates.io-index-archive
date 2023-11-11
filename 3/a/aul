@@ -1,3 +1,4 @@
 {"name":"aul","vers":"1.0.0","deps":[],"cksum":"d99dab578677cadfa3d2f190b774dce148dbd1352234589a4d02b4d45dd3b685","features":{},"yanked":false}
 {"name":"aul","vers":"1.0.1","deps":[],"cksum":"e3df3503c316a07cc352d02e846228893df56cc8699678fc1ecaffafd0acc394","features":{},"yanked":false}
 {"name":"aul","vers":"1.1.1","deps":[{"name":"colored","req":"^2.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c8d51df5d2edb69a3d52d708fb2787cba132cfbe83e4945e96f64e2668554bff","features":{"no-color":["colored/no-color"]},"yanked":false}
+{"name":"aul","vers":"1.1.2","deps":[{"name":"colored","req":"^2.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c67cb867f664a8ad9835a4406812e520b2699f112e739077bb1cd2cba7a2b823","features":{"no-color":["colored/no-color"]},"yanked":false}
