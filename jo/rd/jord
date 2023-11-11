@@ -1,1 +1,2 @@
 {"name":"jord","vers":"0.1.0","deps":[],"cksum":"6b17594792348759ba3480c9fe7b3e548b390e1af9d64ee2a535209cb7600a3f","features":{},"yanked":false}
+{"name":"jord","vers":"0.2.0","deps":[{"name":"criterion","req":"^0.5.1","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2aa59a5626556a9836e29675234eb660be86e23b1a7bf9c87805dc9eb8e07fae","features":{},"yanked":false}
