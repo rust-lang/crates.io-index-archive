@@ -1,1 +1,2 @@
 {"name":"konig","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.44","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d7e0e3edac941137521575bcf09e8455e9771140b2e62fd44e18bbf80a14765","features":{},"yanked":false}
+{"name":"konig","vers":"0.1.1","deps":[{"name":"thiserror","req":"^1.0.44","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"389043d87910e5f6c5bf7de38e94a395e54de70e4a1856da68c6ab8205040329","features":{},"yanked":false}
