@@ -1,1 +1,2 @@
 {"name":"brevet","vers":"0.1.0","deps":[],"cksum":"59b2eef18515bc79532afa512dfb4712e5613a6675dbc42df4383aca4124ca9a","features":{},"yanked":false}
+{"name":"brevet","vers":"0.2.0","deps":[{"name":"arbitrary","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0488d1a59dc78feeaca4b75e3baeb88c5275dc6d9e7eebef139b5c3f34297a1c","features":{},"yanked":false}
