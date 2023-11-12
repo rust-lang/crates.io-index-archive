@@ -1,0 +1,1 @@
+{"name":"ck_commands","vers":"0.0.4","deps":[{"name":"rstest","req":"^0.18.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"faae053e6563d52daf689ae602865b17fccfd785e7f77076fd3817a55df1a429","features":{},"yanked":false}
