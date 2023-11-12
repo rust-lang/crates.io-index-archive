@@ -4,3 +4,4 @@
 {"name":"hvm-core","vers":"0.1.7","deps":[],"cksum":"d1208621384d6daf9d6840e3a846c6ee5ca9626470a49ceb15a583cfa7afe8b7","features":{},"yanked":false}
 {"name":"hvm-core","vers":"0.1.9","deps":[],"cksum":"0c986754fe7f57cfdfa7613da87cfef49bee0b9f9b620757697c2cb5c0e831cc","features":{},"yanked":false}
 {"name":"hvm-core","vers":"0.1.11","deps":[],"cksum":"2f2d28e8e2cea5d4c9cbd05602262441b1cd5069391285ed96787c09eb1fcc05","features":{},"yanked":false}
+{"name":"hvm-core","vers":"0.1.12","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"insta","req":"^1.34.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"443b8b751ef5b02bed43612845500aca2d98808c403ec0969544a61ad71c42a2","features":{"default":["hvm_cli_options"],"hvm_cli_options":[]},"yanked":false}
