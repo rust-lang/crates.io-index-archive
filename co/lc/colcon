@@ -3,3 +3,4 @@
 {"name":"colcon","vers":"0.2.0","deps":[],"cksum":"b04a1add16d659dc668f58514b8da289b604adc840745651f40e26f4c1f9b2df","features":{"D50":[]},"yanked":false}
 {"name":"colcon","vers":"0.2.1","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0a4802814274f3d600404e8698fb1d8f05ebe84d7ce1d3c5e1db61e40c3c8e67","features":{"D50":[]},"yanked":false}
 {"name":"colcon","vers":"0.2.2","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ac2d915ae1f3ef7abd11ba94c31130f4b96aec8771c1dcaa497db4856bcc50ac","features":{"D50":[]},"yanked":false}
+{"name":"colcon","vers":"0.3.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"46e71c90b3773e42f4fc51f058a9d552f5589d0867707b1cf0e1e654622dd52f","features":{"D50":[]},"yanked":false}
