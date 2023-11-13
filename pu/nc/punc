@@ -1,3 +1,4 @@
 {"name":"punc","vers":"0.0.1","deps":[],"cksum":"79e68f0ed2b5f1ca4ba6adf533c6b4346c03a85e3411b8131243fd57fd4003f2","features":{},"yanked":false}
 {"name":"punc","vers":"0.0.2","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2815d251e64dc0a998d943a00353dbc67d38858de427462e58b6843ed8a19f8e","features":{},"yanked":false}
 {"name":"punc","vers":"0.0.3","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbaf23818452a20c71eaf4df9cc9eec93478a86adaf98384b0eda74fb33fda74","features":{},"yanked":false}
+{"name":"punc","vers":"0.0.4","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a439cbf1d8d12b410f2d52397429ee26efae7248adbc323458e776baf0f8a450","features":{},"yanked":false}
