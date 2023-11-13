@@ -1,0 +1,1 @@
+{"name":"forger","vers":"0.1.0","deps":[{"name":"peroxide","req":"^0.34.1","features":["parquet"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d7706a2542006edad73e125ca3f0c4412ba0890d21a09edab21effee04f49c1","features":{},"yanked":false}
