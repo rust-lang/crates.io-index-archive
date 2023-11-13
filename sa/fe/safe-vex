@@ -1,0 +1,1 @@
+{"name":"safe-vex","vers":"0.0.0","deps":[{"name":"vex-rt","req":"^0.15.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc7e567e70ae9482e9b977b44f41d25c84c697b01ac2ff49c5f11f4ad80fc5ba","features":{},"yanked":false}
