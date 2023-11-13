@@ -1,0 +1,1 @@
+{"name":"struct_as_array","vers":"0.1.0","deps":[{"name":"quote","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5de0d139ae84c85f25107a0984916703d990b3f58d763ec52124c893f2dc6c0b","features":{},"yanked":false}
