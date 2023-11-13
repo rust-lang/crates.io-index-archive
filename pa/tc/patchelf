@@ -1,0 +1,1 @@
+{"name":"patchelf","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fe61393410efa8fe4e562ee2d1dc2584eba204fda10d46a298ad3c4dd1acd7ff","features":{},"yanked":false}
