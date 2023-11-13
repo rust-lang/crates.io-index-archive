@@ -1,0 +1,1 @@
+{"name":"tfidf-text-summarizer","vers":"0.0.1","deps":[{"name":"punkt","req":"^1.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b256fec6c62d1b22e43a0d6e85c3528d83fb385a295ff8eac347b0cbe50b0b01","features":{},"yanked":false}
