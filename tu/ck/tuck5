@@ -1,1 +1,2 @@
 {"name":"tuck5","vers":"0.1.1","deps":[{"name":"test-case","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"09962fdf064c1a7e043862f94000312543984ce00f7be48d0c30753260375acc","features":{},"yanked":false}
+{"name":"tuck5","vers":"0.1.2","deps":[{"name":"test-case","req":"^3.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5b4ebd3a3238921a68b8778a30bf6d672f094f4c1751a370d945bb4551aae5ab","features":{},"yanked":false}
