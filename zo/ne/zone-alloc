@@ -1,3 +1,4 @@
 {"name":"zone-alloc","vers":"0.1.0","deps":[],"cksum":"3f55968f46bc4475f61bf16a3758aea11098eabc6c52714dba27b13f274a6a69","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"zone-alloc","vers":"0.1.1","deps":[],"cksum":"8931845687a1ee7a0cee8255e2a76323c764d2ea28c600db615719d1c6fe44e6","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"zone-alloc","vers":"0.1.2","deps":[],"cksum":"429041e2230bc6c2eaa9383e0b6e4fd223c0a6fc4bfc93b17ce154335c582707","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"zone-alloc","vers":"0.2.0","deps":[{"name":"ahash","req":"^0.8.6","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad429d46e076f25c6d5bfc2c0dc3728eb59e20f06363441be7075cf2cb7d4a3c","features":{"default":["std","ahash"],"std":[]},"features2":{"ahash":["dep:ahash","std"]},"yanked":false,"v":2}
