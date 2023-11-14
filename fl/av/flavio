@@ -13,3 +13,4 @@
 {"name":"flavio","vers":"0.2.4","deps":[],"cksum":"8e92f45b48b3914724406434621c5d712ba7ef3fac72b5907322b9cc67326cb9","features":{"constitutive":["mechanics"],"math":[],"mechanics":["math"]},"yanked":false}
 {"name":"flavio","vers":"0.2.5","deps":[],"cksum":"9892033047b1c13016d759c388638cef894505114bba487ed92150169bf11eb0","features":{"constitutive":["mechanics"],"math":[],"mechanics":["math"]},"yanked":false}
 {"name":"flavio","vers":"0.3.0","deps":[],"cksum":"d843aade2148a173fbc410db338b01cc427f133f3e07ea39a7656625c2337fe8","features":{"constitutive":["mechanics"],"fem":["constitutive"],"math":[],"mechanics":["math"]},"yanked":false}
+{"name":"flavio","vers":"0.3.1","deps":[],"cksum":"c79c72e0ad893ef6771d321a131c75b084447f8467b24dd3b8ce1d7e8ba286a4","features":{"constitutive":["mechanics"],"fem":["constitutive"],"math":[],"mechanics":["math"]},"yanked":false}
