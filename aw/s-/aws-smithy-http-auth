@@ -9,3 +9,4 @@
 {"name":"aws-smithy-http-auth","vers":"0.56.1","deps":[{"name":"zeroize","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9733e4c1a9c98d173e576db122939a2bf436a371a3a12a38198e76d0237e93d4","features":{},"yanked":false}
 {"name":"aws-smithy-http-auth","vers":"0.57.0","deps":[],"cksum":"c8ee66b75557732b87658ce5142e2ae712d21a4d6ee9685cc1728e83138efd74","features":{},"yanked":false}
 {"name":"aws-smithy-http-auth","vers":"0.57.1","deps":[],"cksum":"7a288086a452e681419fc2becb7fba1e2357b2935b0c6781430d36608322b135","features":{},"yanked":false}
+{"name":"aws-smithy-http-auth","vers":"0.57.2","deps":[],"cksum":"5565859b2b19272514ceaf70c6a069f9d0b4d9412db421c38eeee34903cc1255","features":{},"yanked":false}
