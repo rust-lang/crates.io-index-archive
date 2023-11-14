@@ -1,0 +1,1 @@
+{"name":"rsiot-http-client-config","vers":"0.0.2","deps":[{"name":"url","req":"^2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"730ea5167de264408dd84465c8e16e4f8904247ae1938559cb25f13b27e21d65","features":{},"yanked":false}
