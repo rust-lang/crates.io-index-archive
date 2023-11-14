@@ -1,1 +1,2 @@
 {"name":"rsiot-modbus-client-config","vers":"0.0.1","deps":[{"name":"url","req":"^2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c8cfcae15acdc4e349fe2425d2f74b9dc5860b2cc860635757f1eaae8da5b4c","features":{},"yanked":false}
+{"name":"rsiot-modbus-client-config","vers":"0.0.2","deps":[{"name":"url","req":"^2.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cb1b8f34e9c1cbfaf96bb8e89b1c1acd3c2a20ba80ccd97fb5ae8baa178ed88a","features":{},"yanked":false}
