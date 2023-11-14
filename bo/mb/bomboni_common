@@ -1,1 +1,2 @@
 {"name":"bomboni_common","vers":"0.1.3","deps":[{"name":"regex","req":"^1.10.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92024bc8887e7e27cc244f2990ebfe77e24e2514359e3f06cc08dbb23902cf91","features":{},"yanked":false}
+{"name":"bomboni_common","vers":"0.1.4","deps":[{"name":"regex","req":"^1.10.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9dbca945a05bb392f47ab3a1f180c8582afe4b9e702ad04cdcdeb5a00e8b55dc","features":{},"yanked":false}
