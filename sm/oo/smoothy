@@ -1,0 +1,1 @@
+{"name":"smoothy","vers":"0.1.0","deps":[{"name":"pretty_assertions","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d56f0e7e0ef96eed6fa930941083e157de647887ff55af208cecdd7aa4af004d","features":{"__private_readme_test":[],"default":[]},"yanked":false}
