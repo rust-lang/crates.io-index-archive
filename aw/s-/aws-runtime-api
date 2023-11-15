@@ -4,3 +4,4 @@
 {"name":"aws-runtime-api","vers":"0.56.0","deps":[],"cksum":"cfbdcf12d3edd605e9f904ec5af57502b6e7df6028f9abe22b8eeebd154abe77","features":{},"yanked":false}
 {"name":"aws-runtime-api","vers":"0.56.1","deps":[],"cksum":"baa07eba2792b708881dbf6acd9b7d299c6c0fbb77b469579a4deed6fb0d6dcb","features":{},"yanked":false}
 {"name":"aws-runtime-api","vers":"0.57.1","deps":[],"cksum":"fab24061e2e53adcb6787b96df905be2df5c5500f54cbb1e9c81848e06eeb5a3","features":{},"yanked":false}
+{"name":"aws-runtime-api","vers":"0.57.2","deps":[],"cksum":"6b25ee5b37de03d4fedd657e8b7fa3fe7d2ff50efc46beef8cd96eba0baedac8","features":{},"yanked":false}
