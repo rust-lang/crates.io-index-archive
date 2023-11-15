@@ -25,3 +25,4 @@
 {"name":"windows_aarch64_msvc","vers":"0.48.3","deps":[],"cksum":"1513e8d48365a78adad7322fd6b5e4c4e99d92a69db8df2d435b25b1f1f286d4","features":{},"yanked":false}
 {"name":"windows_aarch64_msvc","vers":"0.48.4","deps":[],"cksum":"1332277d49f440c8fc6014941e320ee47ededfcce10cb272728470f56cc092c9","features":{},"yanked":false}
 {"name":"windows_aarch64_msvc","vers":"0.48.5","deps":[],"cksum":"dc35310971f3b2dbbf3f0690a219f40e2d9afcf64f9ab7cc1be722937c26b4bc","features":{},"yanked":false}
+{"name":"windows_aarch64_msvc","vers":"0.52.0","deps":[],"cksum":"bbaa0368d4f1d2aaefc55b6fcfee13f41544ddf36801e793edbbfd7d7df075ef","features":{},"yanked":false,"rust_version":"1.56"}
