@@ -43,3 +43,4 @@
 {"name":"aws-smithy-client","vers":"0.57.1","deps":[],"cksum":"703d8b8d94c906ca64afa25036ffbf6f48d582f1e0128ec96b50166b537f040f","features":{},"yanked":false}
 {"name":"aws-smithy-client","vers":"0.57.2","deps":[],"cksum":"09955c867db74999fbc60d1a544b4606832807c0e4e0cce1274b97a6b1990878","features":{},"yanked":false}
 {"name":"aws-smithy-client","vers":"0.58.0","deps":[],"cksum":"85a328f79c36ddb620c14fe5711bd1dd395b316daa5ff5434145b396bc8cbb4a","features":{},"yanked":false}
+{"name":"aws-smithy-client","vers":"0.59.0","deps":[],"cksum":"e1b43c5f9d8ae4204508c2779922ab68110c24c69a3b03725381cf185633f1a1","features":{},"yanked":false}
