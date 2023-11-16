@@ -1,0 +1,1 @@
+{"name":"zune-qoi","vers":"0.4.0","deps":[{"name":"zune-core","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5d1c36635558097431a52474eb0e93c792b72b1461aa8b69514aeda8d80940a","features":{"default":["std","log"],"log":["zune-core/log"],"std":[]},"yanked":false}
