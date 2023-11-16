@@ -11,3 +11,4 @@
 {"name":"aws-smithy-http-auth","vers":"0.57.1","deps":[],"cksum":"7a288086a452e681419fc2becb7fba1e2357b2935b0c6781430d36608322b135","features":{},"yanked":false}
 {"name":"aws-smithy-http-auth","vers":"0.57.2","deps":[],"cksum":"5565859b2b19272514ceaf70c6a069f9d0b4d9412db421c38eeee34903cc1255","features":{},"yanked":false}
 {"name":"aws-smithy-http-auth","vers":"0.58.0","deps":[],"cksum":"1c113cdbd0fffa9f5d2605704d6f9d3190b0962989b8cd797db5a433b0a53937","features":{},"yanked":false}
+{"name":"aws-smithy-http-auth","vers":"0.59.0","deps":[],"cksum":"72fd8e6d0ee80c4d68661a59021f050d0cef973b48f6c8474116aae1c5c21c3d","features":{},"yanked":false}
