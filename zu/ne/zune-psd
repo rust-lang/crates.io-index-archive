@@ -1,0 +1,1 @@
+{"name":"zune-psd","vers":"0.4.0","deps":[{"name":"zune-core","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab11275d621813206ba4c20f4ec647eab0733c0fc71c3276d1238229fd834d49","features":{"log":["zune-core/log"]},"yanked":false}
