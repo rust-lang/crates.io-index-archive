@@ -38,3 +38,4 @@
 {"name":"aws-endpoint","vers":"0.57.1","deps":[],"cksum":"e1b55a746a361717aedd15c69b9f115e4b8d525c03cf9890c6cdbab09a27a543","features":{},"yanked":false}
 {"name":"aws-endpoint","vers":"0.57.2","deps":[],"cksum":"50e12cd46a5a9bc3153aedd3eae277701f99ad211a237b0987e6ab7d274f1cfe","features":{},"yanked":false}
 {"name":"aws-endpoint","vers":"0.58.0","deps":[],"cksum":"1a48bd56536afee515c7cb6392640001e654a1ae2814a2ea0d17706fee29b5cb","features":{},"yanked":false}
+{"name":"aws-endpoint","vers":"0.59.0","deps":[],"cksum":"feb4e48624d2ca395435b0770b1cfcbb7e607658f2edb4929a9136b779a66b79","features":{},"yanked":false}
