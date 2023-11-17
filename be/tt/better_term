@@ -20,3 +20,4 @@
 {"name":"better_term","vers":"1.4.1","deps":[],"cksum":"d37760a0880fe412d875d772d6d41fa39ebe7b3e6cc7e92777fe881b347b0886","features":{"default":["input","output"],"input":[],"output":[]},"yanked":false}
 {"name":"better_term","vers":"1.4.2","deps":[],"cksum":"8378f4de8a80d12e7104a69cbf5598bd60a7dcd2a141348bb3564fa146ed47a5","features":{"default":["input","output"],"input":[],"output":[]},"yanked":false}
 {"name":"better_term","vers":"1.4.3","deps":[],"cksum":"feaf16924d47157cf818c1af81e0dafbbb64ae5f46fbceec9dd603fa558298f0","features":{"default":["input","output"],"fancy":[],"input":[],"output":[]},"yanked":false}
+{"name":"better_term","vers":"1.4.4","deps":[],"cksum":"3fdcebdde323991fe034d811a426a1252c88571c2bfc9b5b61a726940b7da102","features":{"default":["input","output"],"fancy":[],"input":[],"output":[]},"yanked":false}
