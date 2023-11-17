@@ -1,0 +1,1 @@
+{"name":"load-buffer","vers":"0.1.0","deps":[],"cksum":"ca5d544c9c180a994a2b40f3e61c6193d30089352326d0e4d0b8a77efb298153","features":{"alloc":[],"default":["std","alloc"],"std":["alloc"]},"yanked":false}
