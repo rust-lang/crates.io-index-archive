@@ -53,3 +53,4 @@
 {"name":"ckb-db-schema","vers":"0.112.0-rc1","deps":[],"cksum":"3c2f2537e8c800ddbd53d0ef69eb35c50f97d5ff5990ed36ef40953b2539fa68","features":{},"yanked":false}
 {"name":"ckb-db-schema","vers":"0.112.0-rc2","deps":[],"cksum":"a446a8354b5bf885391152fd94d4dec3606bdcd62cfcb787e4bbc7123d84322f","features":{},"yanked":false}
 {"name":"ckb-db-schema","vers":"0.112.0","deps":[],"cksum":"5b898541beb19b2e6bc8a676cd79ea6374311912151f54dd0e7266c665453ee3","features":{},"yanked":false}
+{"name":"ckb-db-schema","vers":"0.112.0-rc3","deps":[],"cksum":"482a10fc3dfd2b3c311e63963bc0fb2a4d03770624faa9eadd2ba31b25c2d4a8","features":{},"yanked":false}
