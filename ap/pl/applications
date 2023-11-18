@@ -1,0 +1,1 @@
+{"name":"applications","vers":"0.1.0","deps":[{"name":"walkdir","req":"^2.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40f9f0d8338747a33e791409014c7c9e871f3c59f85e806ab4640aa257109d99","features":{},"yanked":false}
