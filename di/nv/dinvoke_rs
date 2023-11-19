@@ -1,0 +1,1 @@
+{"name":"dinvoke_rs","vers":"0.1.0","deps":[{"name":"windows","req":"^0.51","features":["Win32_Foundation"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9943d96adaec2e3dd7c898276f6f27ee11db849c9f2cd53e30aebc4a44f0b1bc","features":{},"yanked":false}
