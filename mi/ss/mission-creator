@@ -1,0 +1,1 @@
+{"name":"mission-creator","vers":"0.1.0","deps":[{"name":"gtk","req":"^0.7.3","features":["v4_12"],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"gtk4"}],"cksum":"7ddaf01681ac855419efee0725ba37a6675097628877145fac516bff5f4850fd","features":{},"yanked":false}
