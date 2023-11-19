@@ -1,0 +1,1 @@
+{"name":"poll-channel","vers":"0.1.0","deps":[{"name":"crossbeam","req":"^0.8","features":["crossbeam-channel"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13a0cc47f400d9b3b7bdca9f72ed0a53d3a61dd9aca6b6d21b455b2582c8860e","features":{},"yanked":false}
