@@ -1,0 +1,1 @@
+{"name":"dataclot-query","vers":"0.1.0","deps":[{"name":"datafusion","req":"^33.0","features":["simd"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a58e8b4ba7ec23999ad3177c5d3afe0b7bf3cfc72c066de27f5d858f128cfc9c","features":{},"yanked":false}
