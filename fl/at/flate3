@@ -25,3 +25,4 @@
 {"name":"flate3","vers":"1.0.0","deps":[{"name":"crossbeam","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa399a81ad6c4315e2028c7fe38c7e9bdea7e31c2e53b565b9ff1e1afec83742","features":{},"yanked":false}
 {"name":"flate3","vers":"1.0.1","deps":[{"name":"crossbeam","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"297b3b4b176d29cfb6932b8ad2c901fda0eccb15d309d345e0a7e55334deee9a","features":{},"yanked":false}
 {"name":"flate3","vers":"1.0.2","deps":[],"cksum":"be71984def6c654d6c2145582bf72829fe9fd00205de86cd9447e2f4443ce0fc","features":{},"yanked":false}
+{"name":"flate3","vers":"1.0.3","deps":[],"cksum":"ead72e94fd4ec6f017cad4dac10a71f390d6aa2cc9f6dfe90c98f92365580689","features":{},"yanked":false}
