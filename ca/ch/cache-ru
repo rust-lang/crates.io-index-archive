@@ -1,0 +1,1 @@
+{"name":"cache-ru","vers":"0.0.1","deps":[{"name":"redis","req":"^0.23.3","features":["tokio-comp"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11c68de67cbb71fb3a8335ec46920801877ed2299adb340011f3ebb1bb0f1f98","features":{},"yanked":false}
