@@ -1,0 +1,1 @@
+{"name":"gear-stack-buffer","vers":"1.0.2-354d660.8","deps":[{"name":"cc","req":"^1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"build"}],"cksum":"bd847a8e64d4120a1dc17ec28be5b0522bfe12f29f3edae39b46e6a6da70d699","features":{"compile-alloca":["cc"],"stack-clash-protection":[]},"yanked":false}
