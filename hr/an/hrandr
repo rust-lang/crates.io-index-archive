@@ -1,1 +1,2 @@
 {"name":"hrandr","vers":"0.1.1","deps":[{"name":"clap","req":"^4.3.21","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc7eaaa789e21f6e6c4b15657bb67c35c31422af4396482ddc1aedd226264891","features":{},"yanked":false}
+{"name":"hrandr","vers":"0.1.2","deps":[{"name":"clap","req":"^4.3.21","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"959b45281ae78855c78df066b8a9c99b942a8713ac7b5cead6c20e44c6639375","features":{},"yanked":false}
