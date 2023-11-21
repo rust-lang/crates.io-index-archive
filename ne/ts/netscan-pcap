@@ -1,0 +1,1 @@
+{"name":"netscan-pcap","vers":"0.22.0","deps":[{"name":"xenet","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b537548128036c701040000f77d7af7ab3af07179d280370bff9e66ef747a3fe","features":{},"yanked":false}
