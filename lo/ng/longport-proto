@@ -1,0 +1,1 @@
+{"name":"longport-proto","vers":"1.0.0","deps":[{"name":"prost","req":"^0.10.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57d64867fe189f248c199a3958a8b543daafc0a9edd5bcab11f95663a6ad2788","features":{},"yanked":false}
