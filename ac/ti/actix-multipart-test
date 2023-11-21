@@ -1,0 +1,1 @@
+{"name":"actix-multipart-test","vers":"0.0.1","deps":[{"name":"uuid","req":"^1.6.1","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"201ae66a185a795ffff8c31e53dfacc8b18834d90061e8a36d2ee8e0962cd6a7","features":{},"yanked":false}
