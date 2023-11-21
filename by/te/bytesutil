@@ -1,3 +1,4 @@
 {"name":"bytesutil","vers":"0.1.0","deps":[],"cksum":"818d59facaf1a006764bdbd1d60e5aa3c068bd170b1e498900081add583429b8","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"bytesutil","vers":"0.2.0","deps":[],"cksum":"eac34ed7a1dd3bf2aaa3a90f04d0e4e72c9b0f248baed9098f91ac2b36f6ea17","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"bytesutil","vers":"0.3.0","deps":[],"cksum":"598bb1eec332be68516988aa26d424d856f8d705bf42e1cedb130c1014753394","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"bytesutil","vers":"0.4.0","deps":[],"cksum":"264448873d7a87aea24e233dce61257820edb5754b8fc9a841ce2df17039ab19","features":{"default":["std"],"std":[]},"yanked":false}
