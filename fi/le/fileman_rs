@@ -6,3 +6,4 @@
 {"name":"fileman_rs","vers":"0.1.5","deps":[],"cksum":"d39d915e0cf2360283ae5fec5d6dfa90f2f041dc40d1596f07c598e4e626c22d","features":{},"yanked":false}
 {"name":"fileman_rs","vers":"0.1.6","deps":[],"cksum":"259a3168b81094c81bc7e43fed5d9e843ad3c935a92f1011bffe1adbec67be49","features":{},"yanked":false}
 {"name":"fileman_rs","vers":"0.2.0","deps":[{"name":"time","req":"^0.3.30","features":["macros","formatting","parsing"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"273dcd41d0f1d5a4233f4c47a824dead62a153c4bb6daf7fd3b1c8dd6e9c042e","features":{},"yanked":false}
+{"name":"fileman_rs","vers":"0.2.1","deps":[{"name":"time","req":"^0.3.30","features":["macros","formatting","parsing"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffa4037dd9227df399d6b80ea79da1bb3ae634f450171ca751443e653d104371","features":{},"yanked":false}
