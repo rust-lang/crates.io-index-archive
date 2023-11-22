@@ -1,0 +1,1 @@
+{"name":"string_io_and_mock","vers":"1.0.0","deps":[{"name":"serial_test","req":"^2.0.0","features":["file_locks"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"234582cfce3fd125e57d790f50e729e9b5a85d7a876bb3e544ae71dcb01418b4","features":{},"yanked":false}
