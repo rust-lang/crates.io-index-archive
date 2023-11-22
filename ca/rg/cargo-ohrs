@@ -1,0 +1,1 @@
+{"name":"cargo-ohrs","vers":"0.0.1","deps":[{"name":"clap","req":"^4.4.8","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5539d1adf4fa75943265f3d58b631f163f295fe605a644246849a15e4720235d","features":{},"yanked":false}
