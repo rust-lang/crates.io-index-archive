@@ -5,3 +5,4 @@
 {"name":"parasol-db","vers":"0.1.4","deps":[],"cksum":"2c4b866af98ccb32be3b9672a7b9e91466651ac88cad9e6791a75e6bd2b5c53e","features":{},"yanked":false}
 {"name":"parasol-db","vers":"0.1.5","deps":[],"cksum":"937d81692cc1284e6e970ffd17980622b1bcee08bfe381ad006f5118fc49e9b9","features":{},"yanked":false}
 {"name":"parasol-db","vers":"0.1.6","deps":[],"cksum":"ad15490aa7c8791cb27466442c4223e61eff317b9f2d7301ee8fe4229d251cd6","features":{},"yanked":false}
+{"name":"parasol-db","vers":"0.1.7","deps":[{"name":"either","req":"^1.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"392cd3ab2a49549c629f703eddb1ea5bfa915b052611e4a96c66bc7cfc20cf29","features":{},"yanked":false}
