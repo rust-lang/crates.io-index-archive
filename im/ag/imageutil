@@ -1,0 +1,1 @@
+{"name":"imageutil","vers":"0.0.1","deps":[{"name":"image","req":"^0.24.7","features":["png"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7c1c24ad9983080165f89da907d50859d91f368e75f09c7021614b227367e4ff","features":{},"yanked":false}
