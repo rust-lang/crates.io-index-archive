@@ -1,1 +1,2 @@
 {"name":"calendrier","vers":"0.1.0","deps":[],"cksum":"757019baddea58195efb22f3bf39485e4317780b8c6d4923f287afe1b29fd510","features":{},"yanked":false}
+{"name":"calendrier","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"41ed8e221a5f96aa46ab7386c86ea686efea1a875e194ef27ddbabd123fc8148","features":{},"yanked":false}
