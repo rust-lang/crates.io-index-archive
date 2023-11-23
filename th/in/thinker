@@ -6,7 +6,7 @@
 {"name":"thinker","vers":"0.1.0-beta.1","deps":[],"cksum":"01cb97994b918dd8cdf00a6c52d34c790ebdad9ac147d3a8646697ab314a6075","features":{},"yanked":true}
 {"name":"thinker","vers":"0.1.0-beta.1+20230402.f83f50e","deps":[],"cksum":"e65babfa6dc7a8e2ba877fec0c9a029ebfdf158bd439ae2fc7755702590869b5","features":{},"yanked":false}
 {"name":"thinker","vers":"0.1.0-beta.1+20230402.d7f66e4","deps":[],"cksum":"9b9d27896565cc3c34ced3180a2ae40fbc4060ea4225b8cb5c91b7092624c989","features":{},"yanked":false}
-{"name":"thinker","vers":"0.1.0-beta.1+2023040300","deps":[],"cksum":"501a1dd8cf9691c58ea43649c29a6efdff10e0bdd40007eaf5f45f5f97987d26","features":{},"yanked":false}
+{"name":"thinker","vers":"0.1.0-beta.1+2023040300","deps":[],"cksum":"501a1dd8cf9691c58ea43649c29a6efdff10e0bdd40007eaf5f45f5f97987d26","features":{},"yanked":true}
 {"name":"thinker","vers":"0.1.0-beta.1+2023040301","deps":[],"cksum":"34164ad1dae1cb912126b4d53b7fb4ab00d899551292d77c60a8b4d1c58e2f7e","features":{},"yanked":true}
 {"name":"thinker","vers":"0.1.0-beta.1+2023040303","deps":[],"cksum":"cd5af72846d1cf5f4fbdef76eaca486229842fa9e0115318acfbe223fe15bdc8","features":{},"yanked":true}
 {"name":"thinker","vers":"0.1.0-beta.5+20230402","deps":[],"cksum":"3953ef30a1cd1027116ce4f2dbcc35e637e9e783959ff3f57958d48cdddeb6fd","features":{},"yanked":true}
