@@ -6,3 +6,4 @@
 {"name":"zsplit","vers":"0.3.0-rc2","deps":[],"cksum":"9e05139ca192fdd4a5a6096293b277e202f6ab0174193725f32b0a29eafc1cda","features":{"default":[],"test_mock":[]},"yanked":true}
 {"name":"zsplit","vers":"0.3.0-rc3","deps":[],"cksum":"b1aec0aa143d6435c82c6d8119ca4c8bbd765f4e3392dfc9e143bfcebc6d6fc3","features":{"default":[],"test_mock":[]},"yanked":true}
 {"name":"zsplit","vers":"0.3.0","deps":[],"cksum":"9b23ec7a4b6250dbc48dd22b17ff43bc44f6a4a65e69de8a381f36a843cbc4f8","features":{"default":[],"test_mock":[]},"yanked":false}
+{"name":"zsplit","vers":"0.4.0","deps":[],"cksum":"e4ea441f243656f2e40772956ff8e25b8b0fdb07b8bae4876289f1c3cc1b6836","features":{"default":[],"test_mock":[]},"yanked":false,"rust_version":"1.64"}
