@@ -9,3 +9,4 @@
 {"name":"sarge","vers":"5.0.0","deps":[],"cksum":"8245331abe9ca32aecf329738e3b82c2b35eb495a5f527bc5d6e242228347cbc","features":{},"yanked":false}
 {"name":"sarge","vers":"5.0.2","deps":[],"cksum":"7ea1da9c27f1dd4fa3432d656d64b284462da904d420290651794676646dd1fc","features":{},"yanked":false}
 {"name":"sarge","vers":"6.0.0","deps":[],"cksum":"63cae3578af592936b4746023ed3cf5119ba3f1b1c713347cd0a724cdd8565e1","features":{"default":["macros"],"macros":[]},"yanked":false}
+{"name":"sarge","vers":"6.0.1","deps":[],"cksum":"624a0d35fa536af15fa96f84b8fbde19d053fbf81a7b8e3332321dcf5e4e930d","features":{"default":["macros"],"macros":[]},"yanked":false}
