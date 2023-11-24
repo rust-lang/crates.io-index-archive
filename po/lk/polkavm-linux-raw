@@ -1,1 +1,2 @@
 {"name":"polkavm-linux-raw","vers":"0.1.1","deps":[],"cksum":"23f5485499e9f5060bf318254e64e95c7b77950130ff28061693fafe47096356","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.70.0"}
+{"name":"polkavm-linux-raw","vers":"0.2.0","deps":[],"cksum":"fac5badef18a936157dd1f5c8d7e6b42ebdc7036f41809df2aa7fa42f71995ad","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.70.0"}
