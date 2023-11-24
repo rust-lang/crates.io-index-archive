@@ -1,0 +1,1 @@
+{"name":"mtxgroup","vers":"0.1.0","deps":[{"name":"spin","req":"^0.9.8","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"a82e4c130c2b38a1ccd36701bf759681895b732f78d9ae8a9798937091f63270","features":{"default":["std"],"spin":["spin/mutex","spin/spin_mutex"],"std":[]},"yanked":false}
