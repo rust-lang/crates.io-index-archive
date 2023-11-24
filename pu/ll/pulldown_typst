@@ -1,1 +1,2 @@
 {"name":"pulldown_typst","vers":"0.1.0","deps":[{"name":"pulldown-cmark","req":"^0.9.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6880afcdc311f182e5ea4124988bb48106f7cae43ea63ce9824c54fb5b791e46","features":{},"yanked":false}
+{"name":"pulldown_typst","vers":"0.2.0","deps":[{"name":"pulldown-cmark","req":"^0.9.3","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4f63e4a63f728efe657c7eddcac26627fff41b0b243c01d460b2d200e6fd36a3","features":{},"yanked":false}
