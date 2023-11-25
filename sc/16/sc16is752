@@ -1,0 +1,1 @@
+{"name":"sc16is752","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"=1.0.0-alpha.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25beb932e0528ff26aa340feec0b035eec11d4dec1bd4f86bead17ba753e5f5f","features":{},"yanked":false}
