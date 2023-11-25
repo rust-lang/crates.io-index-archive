@@ -1,0 +1,1 @@
+{"name":"simconnect-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"9974e3e28b872383f6c7f9e9ab6e17888f5d568f636f9e389580ee1e1a78243b","features":{},"yanked":false,"links":"SimConnect"}
