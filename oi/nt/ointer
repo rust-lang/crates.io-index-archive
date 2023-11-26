@@ -5,7 +5,7 @@
 {"name":"ointer","vers":"1.1.1","deps":[],"cksum":"08730541853c4be0336a0837b510b5d09b889632f2d904ec16a3fe90319ed9fb","features":{},"yanked":true}
 {"name":"ointer","vers":"2.0.0","deps":[],"cksum":"6ec5b30314fd429d6ba730191ddde4ceb660b050f9b4f2fbe0356c9657ad189e","features":{},"yanked":true}
 {"name":"ointer","vers":"2.1.0","deps":[],"cksum":"ab9a64b9fd98f5ade9ada9ef99ae80232b99e3f78e23932489d2422a222a7ce8","features":{},"yanked":true}
-{"name":"ointer","vers":"2.1.1","deps":[],"cksum":"2660721ced06d26f5cfab92ad567c6aa3c162bd827e2fdacbce22ee1dec1837a","features":{},"yanked":false}
+{"name":"ointer","vers":"2.1.1","deps":[],"cksum":"2660721ced06d26f5cfab92ad567c6aa3c162bd827e2fdacbce22ee1dec1837a","features":{},"yanked":true}
 {"name":"ointer","vers":"3.0.0","deps":[{"name":"paste","req":"^1.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f5dc4b1f2d87b127fae66582632fe88aaaa8a6141fb6a42b4be87cd895c279c","features":{},"yanked":true}
 {"name":"ointer","vers":"3.0.1","deps":[{"name":"paste","req":"^1.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5e924e1f0ccbcc1033f61e47ab04dbc31d3f7c6c424c3de71f8034ae2358872","features":{},"yanked":true}
 {"name":"ointer","vers":"3.0.2","deps":[{"name":"paste","req":"^1.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ad94329eb5eb52a0da4b8dce3c5fa060807051365a39b9c4fed1ceb2e85f680","features":{},"yanked":true}
