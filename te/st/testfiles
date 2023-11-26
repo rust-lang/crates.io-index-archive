@@ -1,0 +1,1 @@
+{"name":"testfiles","vers":"0.1.0","deps":[{"name":"include_dir","req":"^0.7.3","features":["glob","metadata"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98c1e58d5ee186fda6ea2cc4906f7de71f65a49b96c52ec0b5c9b34bbab7b9e1","features":{},"yanked":false,"rust_version":"1.56"}
