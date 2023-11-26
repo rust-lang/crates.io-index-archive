@@ -1,1 +1,2 @@
 {"name":"resizing-vec","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.4","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1391f55aa81e4b25b913f50b27f34729bed3114534a06ee6461f92fbc1082313","features":{},"yanked":false}
+{"name":"resizing-vec","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.4","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"35688d75c6ff4461eee2466cb1975f2dc0ba84726d3d9784aab616e12ee0fe56","features":{},"yanked":false}
