@@ -8,3 +8,4 @@
 {"name":"chinese-variant","vers":"1.0.7","deps":[],"cksum":"40fa7fa776c418515ced4333775f555c62d6c1a46cabfb8b4cc588edee71e658","features":{},"yanked":false}
 {"name":"chinese-variant","vers":"1.0.8","deps":[],"cksum":"2ce811d9fbfaf86cd06e61970ab3a5a140b8328228b29234bbcb3ebbd613de68","features":{},"yanked":false}
 {"name":"chinese-variant","vers":"1.0.9","deps":[],"cksum":"aeea139b89efab957972956e5d3e4efb66a6c261f726abf6911040cc8ef700f7","features":{},"yanked":false}
+{"name":"chinese-variant","vers":"1.0.10","deps":[],"cksum":"5429e5980bca6e6f205e18f93d380f6efe81ea8305e11518ac6f51fa9f1a344d","features":{},"yanked":false,"rust_version":"1.56"}
