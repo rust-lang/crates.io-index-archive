@@ -1,1 +1,2 @@
 {"name":"basic-reverb","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28ab0df20d432ab38f232e9cb6210a3be485d11f95c83fa5f8b21384857ee67f","features":{},"yanked":false}
+{"name":"basic-reverb","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0209e1baddfba21839ea34a87a2c5920aead0f3ce53bd146382a841fd0de297c","features":{},"yanked":false}
