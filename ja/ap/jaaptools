@@ -1,2 +1,3 @@
 {"name":"jaaptools","vers":"0.1.0","deps":[],"cksum":"1e5738349d971ae68cb346b54e86ebdce53a0005d705a627205377183d59c3a1","features":{},"yanked":false}
 {"name":"jaaptools","vers":"0.1.1","deps":[],"cksum":"0583c1e4f24e1bd3923dc0dae3e9b60d9a0e2cf7418ec0a21e0f6fbc37c7cb71","features":{},"yanked":false}
+{"name":"jaaptools","vers":"0.1.2","deps":[{"name":"itertools","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1.0.50","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7dac05471dbd330c128dbd40f2a75a50aec312d490c1afe1b94994a0b0f40f63","features":{},"yanked":false}
