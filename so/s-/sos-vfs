@@ -1,0 +1,1 @@
+{"name":"sos-vfs","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["fs"],"optional":false,"default_features":false,"target":"cfg(not(target_arch = \"wasm32\"))","kind":"normal"}],"cksum":"526fc024c0ede36f4a7d37e6fee8b1a97e975304758a9b12db2bfa20f10ff4c9","features":{"mem-fs":[]},"yanked":false}
