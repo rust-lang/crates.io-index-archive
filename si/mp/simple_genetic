@@ -1,0 +1,1 @@
+{"name":"simple_genetic","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0bfe182aac48490d4e194d557b6b62de2da0ec2da13e32e2cd3c5e3b4153d02","features":{},"yanked":false}
