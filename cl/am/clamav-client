@@ -5,3 +5,4 @@
 {"name":"clamav-client","vers":"0.2.0","deps":[],"cksum":"430603adf0cc9554de1d6f7bc7d746d3c4c41927b3d83604e6cb6e140c3c54b1","features":{},"yanked":false}
 {"name":"clamav-client","vers":"0.2.1","deps":[],"cksum":"d82179f18c4e7a42f7f53d1d710317c64460b95eefcb642f38ea50670dd5dcf6","features":{},"yanked":false}
 {"name":"clamav-client","vers":"0.2.2","deps":[],"cksum":"3eb4d5c01d5f8e7ac1aab67aa65c255c06b737f27a82bef362823a28b0374a0c","features":{},"yanked":false}
+{"name":"clamav-client","vers":"0.3.0","deps":[{"name":"tokio","req":"^1.34.0","features":["fs","io-util","net"],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"tokio","req":"^1.34.0","features":["io-std","macros","rt"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4779f0d9ed1e5e8d2d4ee298e8d2c334c8e05aa025335870803f5a8cf51603ec","features":{},"features2":{"tokio":["dep:tokio"]},"yanked":false,"v":2}
