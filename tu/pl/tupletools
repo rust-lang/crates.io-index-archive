@@ -7,3 +7,4 @@
 {"name":"tupletools","vers":"0.2.5","deps":[],"cksum":"b5fca96240f2c5928ee7607ea9c514c9c53b6f036d29fbb7eced795031c0e31f","features":{"no_std":[]},"yanked":false}
 {"name":"tupletools","vers":"0.3.0","deps":[],"cksum":"03da4be6ae1a8c95b91059b98d35c9e57a3bb018fc812689d224967e524feebb","features":{"no_std":[]},"yanked":false}
 {"name":"tupletools","vers":"0.4.0","deps":[],"cksum":"6939284d36703604c8c875cf8ca7be780f001a41d0a968d89d2c92afc880ed15","features":{"no_std":[]},"yanked":false}
+{"name":"tupletools","vers":"0.4.1","deps":[],"cksum":"4ccca0d5b7faa25e1f6a93fb6864bc71d4d7e941065e6e77e79029216fa98279","features":{"no_std":[]},"yanked":false}
