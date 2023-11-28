@@ -1,0 +1,1 @@
+{"name":"mid","vers":"1.0.0","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ring","req":"^0.17.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9af272723fc89d4b6b6f2dd9624c5cec4f63623121bf317f039f7f0f3cbce09","features":{},"yanked":false}
