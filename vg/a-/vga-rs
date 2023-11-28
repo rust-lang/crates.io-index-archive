@@ -1,0 +1,1 @@
+{"name":"vga-rs","vers":"0.1.0","deps":[{"name":"vgainfo-rs","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f54bb939450a2fd845e02abddcf355d6e958389204b6d2ee9e1e114c18aafeb8","features":{},"yanked":false}
