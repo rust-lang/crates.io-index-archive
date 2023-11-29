@@ -5,3 +5,4 @@
 {"name":"zeno","vers":"0.2.1","deps":[],"cksum":"cd61feec0a090c234641099597704c512081994e7fd9d6fd93e7c049e47e9d8e","features":{"default":["eval"],"eval":[]},"yanked":false}
 {"name":"zeno","vers":"0.2.2","deps":[],"cksum":"c110ba09c9b3a43edd4803d570df0da2414fed6e822e22b976a4e3ef50860701","features":{"default":["eval"],"eval":[]},"yanked":false}
 {"name":"zeno","vers":"0.2.3","deps":[],"cksum":"dd15f8e0dbb966fd9245e7498c7e9e5055d9e5c8b676b95bd67091cd11a1e697","features":{"default":["eval"],"eval":[]},"yanked":false}
+{"name":"zeno","vers":"0.3.0","deps":[{"name":"libm","req":"^0.2.7","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f2c739773d935975ca833e3290e693c53805b7d1796b4dde909725c0b86c912e","features":{"default":["eval","std"],"eval":[],"std":[]},"yanked":false}
