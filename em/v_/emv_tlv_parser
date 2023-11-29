@@ -1,1 +1,2 @@
 {"name":"emv_tlv_parser","vers":"0.1.0","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e076d2a2229cc4b428f3f8db5da28ffb9ee31655b21819af947366ec66570afc","features":{},"yanked":false}
+{"name":"emv_tlv_parser","vers":"0.1.1","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b055f622cfda9c4f850a912237644aafc3ca7422a04ce68302fd0214deaf912","features":{},"yanked":false}
