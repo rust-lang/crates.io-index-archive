@@ -9,3 +9,4 @@
 {"name":"ironmind","vers":"0.2.0","deps":[],"cksum":"31bcc3fd567534c861b0cc16ada451a606aa294a3c7125c4e8c01a4299778222","features":{},"yanked":false}
 {"name":"ironmind","vers":"0.2.1","deps":[],"cksum":"26418c28bebcb17ebfee1b579d10158b1590af58daf13d543f87cc26d4c8e5dd","features":{},"yanked":false}
 {"name":"ironmind","vers":"0.2.2","deps":[],"cksum":"2753b5b426171c89c9e3242e54cee6ce063d5a1ed957d32936d32a3d4c1a4807","features":{},"yanked":false}
+{"name":"ironmind","vers":"0.2.3","deps":[{"name":"clap","req":"^4.4.10","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1dc04364d77f54df96d47382bb5c96739c4db55f33d3c6e2aae144c77819cd63","features":{},"yanked":false}
