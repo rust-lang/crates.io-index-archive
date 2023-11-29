@@ -23,3 +23,4 @@
 {"name":"embedded-hal","vers":"1.0.0-alpha.10","deps":[],"cksum":"f65c4d073f5d91c66e629b216818a4c9747eeda0debedf2deda9a0a947e4e93b","features":{},"yanked":false}
 {"name":"embedded-hal","vers":"1.0.0-alpha.11","deps":[],"cksum":"f7724ebabcadfeb15920571dd727bc8ccde8586e52f2890bdb8182fdf42c3ff2","features":{},"yanked":false}
 {"name":"embedded-hal","vers":"1.0.0-rc.1","deps":[{"name":"defmt-03","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal","package":"defmt"}],"cksum":"2894bc2f0457b8ca3d6b8ab8aad64d9337583672494013457f86c5a9146c0e22","features":{},"yanked":false}
+{"name":"embedded-hal","vers":"1.0.0-rc.2","deps":[{"name":"defmt-03","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal","package":"defmt"}],"cksum":"3e57ec6ad0bc8eb967cf9c9f144177f5e8f2f6f02dad0b8b683f9f05f6b22def","features":{},"features2":{"defmt-03":["dep:defmt-03"]},"yanked":false,"rust_version":"1.56","v":2}
