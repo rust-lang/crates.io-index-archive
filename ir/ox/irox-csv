@@ -3,3 +3,4 @@
 {"name":"irox-csv","vers":"0.2.1","deps":[],"cksum":"10dfafd5273cc96b318e908df40e3c69f27b4e9b542298af09a73b5eb2dff779","features":{},"yanked":false}
 {"name":"irox-csv","vers":"0.3.0","deps":[{"name":"irox-tools","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04a98a4ff694074bd80f813526aa25abcbab1576d13ce89ffb90e412c0f6bcac","features":{},"yanked":false}
 {"name":"irox-csv","vers":"0.4.0","deps":[{"name":"irox-tools","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca170278381213d93e84a104db0bfae1926d7b12da393728ba9a17f3b98ab7f1","features":{},"yanked":false}
+{"name":"irox-csv","vers":"0.4.1","deps":[{"name":"irox-tools","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c9f5c928fe6743a63eaabb671d20e9afaf8441ceb65cceb68efcaa7d779fbae","features":{},"yanked":false}
