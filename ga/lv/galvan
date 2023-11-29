@@ -1,0 +1,1 @@
+{"name":"galvan","vers":"0.0.0-dev01","deps":[{"name":"galvan-transpiler","req":"^0.0.0-dev01","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e40f0bf1f0cf9ddade6cf3a1586827103424523005ad8a271550bcb8a950bbd","features":{"build":["galvan-transpiler/exec"]},"yanked":false}
