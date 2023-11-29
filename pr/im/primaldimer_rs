@@ -1,1 +1,2 @@
 {"name":"primaldimer_rs","vers":"0.1.1","deps":[{"name":"itertools","req":"^0.10.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d22df8a5178c071ca5d1d342621c0578036ab0a42d41147e21b62a2b1208111","features":{},"yanked":false}
+{"name":"primaldimer_rs","vers":"0.1.2","deps":[{"name":"itertools","req":"^0.10.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c86ceac78b3cbea9be852dc1d829c959a3f08b720567202b4ca0d0e2cd105b9","features":{},"yanked":false}
