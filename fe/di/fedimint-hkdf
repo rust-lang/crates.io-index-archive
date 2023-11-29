@@ -1,1 +1,2 @@
 {"name":"fedimint-hkdf","vers":"0.2.0-rc2","deps":[{"name":"bitcoin_hashes","req":"^0.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b334a9b5288034f8f50fd8240b8cbd905e4f4e893a30e752e81ae37078055218","features":{},"yanked":false}
+{"name":"fedimint-hkdf","vers":"0.2.0-rc3","deps":[{"name":"bitcoin_hashes","req":"^0.11.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0fd8966150ca20a3ca9c79b554890012f16284350c0897372b94d242baf240d6","features":{},"yanked":false}
