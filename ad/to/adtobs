@@ -1,0 +1,1 @@
+{"name":"adtobs","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"chrono-tz","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"026bffad3ae889f191bdb26c3d13c1ec034f5c54cc6cdb4e35939352cb311a88","features":{},"yanked":false}
