@@ -1,2 +1,3 @@
 {"name":"fedimint-build","vers":"0.0.1","deps":[],"cksum":"8d5d3f911464c6d8327a7a353daf90f1198a0387814e026de7032fd7f8e553cf","features":{},"yanked":false}
 {"name":"fedimint-build","vers":"0.2.0-rc2","deps":[],"cksum":"882d08a4da0c169be54f4d919bfc373fc329284e351e7e67f9bff15863daf9c2","features":{},"yanked":false}
+{"name":"fedimint-build","vers":"0.2.0-rc3","deps":[{"name":"serde_json","req":"^1.0.108","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42177de1c838f0fb18f9efac511b9cde43cfa7d1883bf9ee4578ef8365d01d6b","features":{},"yanked":false}
