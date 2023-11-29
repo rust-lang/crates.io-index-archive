@@ -5,3 +5,4 @@
 {"name":"yazi","vers":"0.1.4","deps":[],"cksum":"c03b3e19c937b5b9bd8e52b1c88f30cce5c0d33d676cf174866175bb794ff658","features":{},"yanked":false}
 {"name":"yazi","vers":"0.1.5","deps":[],"cksum":"ec4882895da007f1fb0524971b07f60fc742f457996d970443affd44a48ce954","features":{},"yanked":false}
 {"name":"yazi","vers":"0.1.6","deps":[],"cksum":"c94451ac9513335b5e23d7a8a2b61a7102398b8cca5160829d313e84c9d98be1","features":{},"yanked":false}
+{"name":"yazi","vers":"0.2.0","deps":[{"name":"wasm-bindgen-test","req":"^0.3.37","features":[],"optional":false,"default_features":true,"target":"cfg(target_family = \"wasm\")","kind":"dev"}],"cksum":"f7773623574268945095a9008f1583f7feac95bf1c4c406de5c98d02e0c0eb98","features":{"default":["std"],"std":[]},"yanked":false}
