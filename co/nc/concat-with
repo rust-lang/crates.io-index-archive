@@ -8,3 +8,4 @@
 {"name":"concat-with","vers":"0.2.6","deps":[],"cksum":"81e05b2e0bc9f34da5b073abb9fab94dd47d2a79479244c99145893a5ae28fed","features":{},"yanked":false}
 {"name":"concat-with","vers":"0.2.7","deps":[],"cksum":"2fa9470dfc0c6272faf8d8395c1bb73f3b8c9b88c80b4f11081874e03d8de07e","features":{},"yanked":false}
 {"name":"concat-with","vers":"0.2.8","deps":[],"cksum":"0bb23e9dbbfd63ad57bed576e2f4392ab8131eacdfada49c414e8d22b0b2d07f","features":{},"yanked":false}
+{"name":"concat-with","vers":"0.2.9","deps":[],"cksum":"45527fc9cdf65d432ee7f5f5648a3a598809d543200bd78efa770392fcc22e4f","features":{},"yanked":false,"rust_version":"1.56"}
