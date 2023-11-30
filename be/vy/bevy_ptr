@@ -10,3 +10,4 @@
 {"name":"bevy_ptr","vers":"0.11.2","deps":[],"cksum":"15702dff420fac72c2ab92428a8600e079ae89c5845401c4e39b843665a3d2d0","features":{},"yanked":false}
 {"name":"bevy_ptr","vers":"0.11.3","deps":[],"cksum":"72c7586401a46f7d8e436028225c1df5288f2e0082d066b247a82466fea155c6","features":{},"yanked":false}
 {"name":"bevy_ptr","vers":"0.12.0","deps":[],"cksum":"308a02679f6ce21ef71de20fae6d6a2016c07baa21d8e8d0558e6b7851e8adf2","features":{},"yanked":false}
+{"name":"bevy_ptr","vers":"0.12.1","deps":[],"cksum":"c77ec20c8fafcdc196508ef5ccb4f0400a8d193cb61f7b14a36ed9a25ad423cf","features":{},"yanked":false}
