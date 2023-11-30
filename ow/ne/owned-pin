@@ -4,3 +4,4 @@
 {"name":"owned-pin","vers":"1.0.0","deps":[],"cksum":"f8e240b65345b46af3e3a90b0ef1a58ce2edd6b6c0d3d77cb8c639e9bac908c4","features":{"alloc":[],"default":["alloc"]},"yanked":false}
 {"name":"owned-pin","vers":"1.0.1","deps":[],"cksum":"de4ba319e48b114c0149317f9068799177e1546c106ad824ecb261cb8f0692ef","features":{"alloc":[],"default":["alloc"]},"yanked":false}
 {"name":"owned-pin","vers":"1.1.0","deps":[],"cksum":"29e57ed3102398b865b6ecc48d24b129daf72c61d07e4c75386f294535cbcb2e","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"owned-pin","vers":"1.2.0","deps":[{"name":"pinned-init","req":"^0.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d85341a80e014a94ea711aa878681d0328260df00a91e49a6b3077c63002721e","features":{"alloc":["pinned-init/alloc"],"default":["alloc","pinned-init"]},"features2":{"pinned-init":["dep:pinned-init"]},"yanked":false,"v":2}
