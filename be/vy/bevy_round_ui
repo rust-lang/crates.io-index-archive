@@ -1,0 +1,1 @@
+{"name":"bevy_round_ui","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.12.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab13ecafa73dff808b611a2d9d956e56e59f7bae34b87bac791a6d142357bc76","features":{"autosize":[],"default":["autosize"]},"yanked":false}
