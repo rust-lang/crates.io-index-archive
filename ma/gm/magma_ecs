@@ -1,1 +1,2 @@
 {"name":"magma_ecs","vers":"0.1.0-alpha","deps":[{"name":"thiserror","req":"^1.0.50","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6129d9619ef821353f6ff19248c2cf7d65110eb335953cd43fbc0aaa4a036e6","features":{},"yanked":false}
+{"name":"magma_ecs","vers":"0.1.0-alpha.1","deps":[{"name":"thiserror","req":"^1.0.50","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9985361c1eeba72e103a037c096a94ead33a9ea6e59cfa50f10c74fb5ad84a57","features":{},"yanked":false}
