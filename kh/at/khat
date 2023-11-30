@@ -1,1 +1,2 @@
 {"name":"khat","vers":"0.1.0","deps":[],"cksum":"b11ac39fe71241f60b5e8f081b938a8e40e015da548c3237b2fbeae3ddf7ae4d","features":{},"yanked":false}
+{"name":"khat","vers":"0.1.1","deps":[{"name":"clap","req":"^4.4.10","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c825c564b1649b2e8f33d75f6c08a5513e90fafc85edfa25b7447064160bffc","features":{},"yanked":false}
