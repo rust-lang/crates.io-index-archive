@@ -1,0 +1,1 @@
+{"name":"orx-closure","vers":"0.0.1","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"86638afb0f62db1633b56690c49fe9f36fc62a5c97c92d3573139ddcac7d91aa","features":{},"yanked":false}
