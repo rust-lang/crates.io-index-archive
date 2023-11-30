@@ -1,0 +1,1 @@
+{"name":"ubus","vers":"0.1.0","deps":[{"name":"storage_endian","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06281018b5dd12f8ee689e0f9eab9297210d06bc7df7f579c16fbd0b39249370","features":{"default":[],"no_std":[]},"yanked":false}
