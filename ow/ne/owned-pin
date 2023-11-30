@@ -1,1 +1,2 @@
 {"name":"owned-pin","vers":"0.1.0","deps":[],"cksum":"83c05e6cea6cd37903d0467e67a5009fdd6d744b714c3c5d6a8930754291a033","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"owned-pin","vers":"0.1.1","deps":[],"cksum":"0553802270c7643448ae30443b001040189b434c4101983abe12f3c26e5a2a94","features":{"alloc":[],"default":["alloc"]},"yanked":false}
