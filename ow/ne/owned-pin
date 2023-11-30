@@ -2,3 +2,4 @@
 {"name":"owned-pin","vers":"0.1.1","deps":[],"cksum":"0553802270c7643448ae30443b001040189b434c4101983abe12f3c26e5a2a94","features":{"alloc":[],"default":["alloc"]},"yanked":false}
 {"name":"owned-pin","vers":"0.2.0","deps":[],"cksum":"090d9d2c85f1383b018aff0d5aafbccf579fb658d2a3bbad41fb45a2ae148714","features":{"alloc":[],"default":["alloc"]},"yanked":false}
 {"name":"owned-pin","vers":"1.0.0","deps":[],"cksum":"f8e240b65345b46af3e3a90b0ef1a58ce2edd6b6c0d3d77cb8c639e9bac908c4","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"owned-pin","vers":"1.0.1","deps":[],"cksum":"de4ba319e48b114c0149317f9068799177e1546c106ad824ecb261cb8f0692ef","features":{"alloc":[],"default":["alloc"]},"yanked":false}
