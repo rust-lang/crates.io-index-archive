@@ -1,1 +1,2 @@
 {"name":"ask-ollama","vers":"0.1.0","deps":[],"cksum":"4d9d005770e440435eb2fb229ada7cd32aed79200769c044b5b631974bed4911","features":{},"yanked":false}
+{"name":"ask-ollama","vers":"1.0.0","deps":[{"name":"spinners-rs","req":"^2.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4886af38f96404f2474f76894602dd9b170c4f8bcb4c8f1d0ba3a9f1907783db","features":{},"yanked":false}
