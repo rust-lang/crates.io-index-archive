@@ -1,0 +1,1 @@
+{"name":"magma_app","vers":"0.0.0","deps":[{"name":"magma_ecs","req":"^0.1.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ec4817a1c9a3e0c45cc74cc2394b84acf2d3bec6f53526aa8cb5b6da0c451933","features":{},"yanked":false}
