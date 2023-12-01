@@ -1,1 +1,2 @@
 {"name":"console-menu","vers":"0.1.1","deps":[{"name":"console","req":"^0.15.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58cb118e373dcd1bcc6b1341b7dd2bc11d96f0880485bbb5ea6380b2c9280eab","features":{},"yanked":false}
+{"name":"console-menu","vers":"0.1.2","deps":[{"name":"console","req":"^0.15.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e76de9c275464d1c93dbf1aa2bfb21b51b5ed9d50aa4b49463e77ad551c282bd","features":{},"yanked":false}
