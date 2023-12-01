@@ -1,1 +1,1 @@
-{"name":"pretty-menu","vers":"0.1.0","deps":[{"name":"console","req":"^0.15.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c81ad07c242920da8a27d1737a52028be9c6738273211564614d1e0ee43753f","features":{},"yanked":false}
+{"name":"pretty-menu","vers":"0.1.0","deps":[{"name":"console","req":"^0.15.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c81ad07c242920da8a27d1737a52028be9c6738273211564614d1e0ee43753f","features":{},"yanked":true}
