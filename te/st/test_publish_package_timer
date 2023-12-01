@@ -1,3 +1,4 @@
 {"name":"test_publish_package_timer","vers":"0.0.1","deps":[],"cksum":"5ab193bdbfb0ef9552d939108195915cd18523c2c66139ee541f85fc571df8f4","features":{},"yanked":true}
 {"name":"test_publish_package_timer","vers":"0.0.2","deps":[],"cksum":"8bd6ebe083ed028d519df06602491bfcc577e048d168a1c071341e905f573630","features":{},"yanked":true}
 {"name":"test_publish_package_timer","vers":"0.0.3","deps":[],"cksum":"17594c0fdeda382c245a2229ac70126d24c76709f86dc7b31043cefe10f33795","features":{},"yanked":false}
+{"name":"test_publish_package_timer","vers":"0.0.4","deps":[],"cksum":"e60f30e08717c2854aac301814fb9fcc4117dbb001fe55abd4ec7e0cc1ac67ca","features":{},"yanked":false}
