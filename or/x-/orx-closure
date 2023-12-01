@@ -1,1 +1,2 @@
 {"name":"orx-closure","vers":"0.0.1","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"86638afb0f62db1633b56690c49fe9f36fc62a5c97c92d3573139ddcac7d91aa","features":{},"yanked":false}
+{"name":"orx-closure","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1317722037d6ca9cfac9305f345c3601291d5dd7e9b524b79a79568eb14f0376","features":{},"yanked":false}
