@@ -5,3 +5,4 @@
 {"name":"libmem","vers":"4.1.0","deps":[],"cksum":"f07d2ba97ca97894be08c46547c0a30b845135242af0363d618c80f0059ca338","features":{},"yanked":false}
 {"name":"libmem","vers":"4.2.0","deps":[],"cksum":"7f3211f865985aa0e13e0256c0a5a7e2d8d89ca7e11ff68ad75559af97ea120b","features":{},"yanked":false}
 {"name":"libmem","vers":"4.2.1","deps":[],"cksum":"f820a18a59fcd9e383eda8e3b9ccf2675ae5ae040821922fdeaba9779592d156","features":{"static":[]},"yanked":false}
+{"name":"libmem","vers":"4.3.0","deps":[],"cksum":"dc18b22cf60bc7509d746395c580cda69e58a4288986d8612a3dcbadb7df67c6","features":{"static":[]},"yanked":false}
