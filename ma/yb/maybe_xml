@@ -10,3 +10,4 @@
 {"name":"maybe_xml","vers":"0.8.0","deps":[],"cksum":"beeec8344bcd868f6974090501bcad6a8717b0f22f7ef3a93fba708643e5acd3","features":{"alloc":[],"default":["std"],"std":[]},"yanked":true,"rust_version":"1.56.0"}
 {"name":"maybe_xml","vers":"0.9.0","deps":[],"cksum":"414bce1de1706666b42daca854436a18e4e568a65fb6c0f9415df32e9aef87a2","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.71.0"}
 {"name":"maybe_xml","vers":"0.10.0","deps":[],"cksum":"8b7e463d496665d818b5b205e6b121ee650ec67f4fea634fceb6cf47f8b80186","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.71.0"}
+{"name":"maybe_xml","vers":"0.10.1","deps":[],"cksum":"3ac6876e8b8af984fbb4479a78280a9b2c5254b582d1461ad0bbf8b756073631","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.71.0"}
