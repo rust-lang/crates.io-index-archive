@@ -1,0 +1,1 @@
+{"name":"vedasynth","vers":"0.0.1","deps":[{"name":"cpal","req":"^0.15","features":["jack"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4db18e153ecb4da4d6ea383a95f2e49c9a43ba7fc42e989f3c5acd3f10ac0208","features":{},"yanked":false}
