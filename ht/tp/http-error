@@ -1,0 +1,1 @@
+{"name":"http-error","vers":"0.1.0","deps":[{"name":"http","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7678461966e772cd058d930be7275388740e193da2e785142a45bad95a9c93f","features":{},"yanked":false}
