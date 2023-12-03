@@ -26,3 +26,4 @@
 {"name":"flate3","vers":"1.0.1","deps":[{"name":"crossbeam","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"297b3b4b176d29cfb6932b8ad2c901fda0eccb15d309d345e0a7e55334deee9a","features":{},"yanked":false}
 {"name":"flate3","vers":"1.0.2","deps":[],"cksum":"be71984def6c654d6c2145582bf72829fe9fd00205de86cd9447e2f4443ce0fc","features":{},"yanked":false}
 {"name":"flate3","vers":"1.0.3","deps":[],"cksum":"ead72e94fd4ec6f017cad4dac10a71f390d6aa2cc9f6dfe90c98f92365580689","features":{},"yanked":false}
+{"name":"flate3","vers":"1.0.4","deps":[],"cksum":"1ea7b7426255734a66a0efa4abdbf5f64b720fb80152ab235e3174346508e412","features":{},"yanked":false}
