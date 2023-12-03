@@ -1,0 +1,1 @@
+{"name":"td-rs","vers":"0.0.0","deps":[{"name":"libc","req":"^0.2.150","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d814dedc9534874dbb37ebc0502d314cdfc7786133b4412309dff95adf9a009","features":{},"yanked":false}
