@@ -1,0 +1,2 @@
+{"name":"jrinx-abi","vers":"0.1.0","deps":[{"name":"cfg-if","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"28a1288ca1fe173a2e02e8a1e68835321b4e188b78ef3bf1d4ab52683479fc1c","features":{},"yanked":true}
+{"name":"jrinx-abi","vers":"0.1.1","deps":[{"name":"cfg-if","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b0f38858f31efc813b10a27e71537dda141265cfcc51f158d87ea5f01206496b","features":{},"yanked":false}

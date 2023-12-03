@@ -1,0 +1,2 @@
+{"name":"prinThor","vers":"0.0.0","deps":[],"cksum":"31e0254c58195cb8dcb931d37c83a44be90808585751e923c64eaba54275eee0","features":{},"yanked":true}
+{"name":"prinThor","vers":"0.0.1","deps":[{"name":"printhor-hwa-common","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"printhor-hwi_native","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4167dd38c8354794299dc13c708cba464b4bbf77c6566d31160dc45926c28a6b","features":{},"yanked":false}

@@ -1,0 +1,3 @@
+{"name":"maybe-dangling","vers":"0.0.0","deps":[],"cksum":"a5a83b048c180ce9e0a093353f7cbdab6211176b719726a37d23d190e0788a4c","features":{},"yanked":false}
+{"name":"maybe-dangling","vers":"0.1.0-rc1","deps":[],"cksum":"b0f541b9d874913dcd4d4e6c65d917b16d95daad97488b64220a1ed863e7b535","features":{"better-docs":[],"default":[],"docs-rs":["better-docs"],"nightly-dropck_eyepatch":[],"ui-tests":["better-docs"]},"yanked":false,"rust_version":"1.65.0"}
+{"name":"maybe-dangling","vers":"0.1.0","deps":[],"cksum":"7cd9ea1304539184d6e337a38767924830c316e808b2215374320914d1e7e623","features":{"better-docs":[],"default":[],"docs-rs":["better-docs"],"nightly-dropck_eyepatch":[],"ui-tests":["better-docs"]},"yanked":false,"rust_version":"1.65.0"}

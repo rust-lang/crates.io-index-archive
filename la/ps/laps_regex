@@ -1,0 +1,1 @@
+{"name":"laps_regex","vers":"0.0.1","deps":[{"name":"regex-syntax","req":"^0.7.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88d47f1dd294b83929287d6d67cbc45ca81a14090343d10f32bd2d4750f3d134","features":{},"yanked":false}

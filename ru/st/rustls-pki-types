@@ -1,0 +1,8 @@
+{"name":"rustls-pki-types","vers":"0.1.0","deps":[],"cksum":"552ca8d860ee038f7bdaa707110bb35a5bd24c6170fa27062fe64ff9d16a1186","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.60"}
+{"name":"rustls-pki-types","vers":"0.1.1","deps":[],"cksum":"c20f89331c1e8d833b9f8069719349e578c9b1e8ad7da4f20c2a5f8a51c088e9","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.60"}
+{"name":"rustls-pki-types","vers":"0.1.2","deps":[],"cksum":"4010e989e33da578071d6f020f444ef40a56c0d0476f3bdc52304716974ccb8b","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.60"}
+{"name":"rustls-pki-types","vers":"0.2.0","deps":[],"cksum":"ebb6672f8a855dae20b13c4ff1602fbb63a889573c5cf8db4b6f2b9ddf7fcdd5","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.60"}
+{"name":"rustls-pki-types","vers":"0.2.1","deps":[],"cksum":"a47003264dea418db67060fa420ad16d0d2f8f0a0360d825c00e177ac52cb5d8","features":{"alloc":[],"default":["alloc"],"std":["alloc"]},"yanked":false,"rust_version":"1.60"}
+{"name":"rustls-pki-types","vers":"0.2.2","deps":[],"cksum":"cdf0cbc2bc68777eb846b2b7fedf03807bb763adc585bf006ac2fa2884daa9d1","features":{"alloc":[],"default":["alloc"],"std":["alloc"]},"yanked":false,"rust_version":"1.60"}
+{"name":"rustls-pki-types","vers":"0.2.3","deps":[],"cksum":"f0d3edd6cdcdf26eda538757038343986e666d0b8ba4b5ac1de663b78475550d","features":{"alloc":[],"default":["alloc"],"std":["alloc"]},"yanked":false,"rust_version":"1.60"}
+{"name":"rustls-pki-types","vers":"1.0.0","deps":[],"cksum":"eb0a1f9b9efec70d32e6d6aa3e58ebd88c3754ec98dfe9145c63cf54cc829b83","features":{"alloc":[],"default":["alloc"],"std":["alloc"]},"yanked":false,"rust_version":"1.60"}

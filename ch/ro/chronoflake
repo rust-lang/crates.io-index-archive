@@ -1,0 +1,1 @@
+{"name":"chronoflake","vers":"1.0.0","deps":[{"name":"chrono","req":"^0.4.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff297f97f57d0daa8ec746dda6a00c847a80707171bbb78d1d41199d91838133","features":{},"yanked":false}

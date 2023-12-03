@@ -1,0 +1,1 @@
+{"name":"gymnasium","vers":"0.0.0","deps":[{"name":"pyo3","req":"^0.19","features":["abi3-py37"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1733b3598da0a322146ca4abdf7a17d70d1ca2a6b77511434f2d1bd2ef453416","features":{},"yanked":false,"rust_version":"1.56"}

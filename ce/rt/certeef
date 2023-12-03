@@ -1,0 +1,1 @@
+{"name":"certeef","vers":"0.1.0","deps":[{"name":"ansi_term","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"923958811b1b14775adf158185a75d93579ef63d92b5c6007d3932e9a3c0e4cd","features":{},"yanked":false}

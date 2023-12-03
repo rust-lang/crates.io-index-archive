@@ -1,0 +1,2 @@
+{"name":"wdl","vers":"0.0.0","deps":[],"cksum":"9e3484341253e4c4245db5caae084a2b02a68e642697e061f982e232d00f7d69","features":{},"yanked":false}
+{"name":"wdl","vers":"0.1.0","deps":[{"name":"wdl-grammar","req":"^0.1.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62c0cb029d095f80dea692c1e6e3ed7598c37f26b4210ca5d7bc5d56b784dc9f","features":{"default":[]},"features2":{"grammar":["dep:wdl-grammar"]},"yanked":false,"v":2}

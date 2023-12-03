@@ -1,0 +1,1 @@
+{"name":"test_experimental_a","vers":"0.1.0","deps":[{"name":"test_experimental_b","req":"~0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7832bd3f22fd448ce67aa3324db90328ab398dfd8ab54452f7d582b963872f02","features":{},"yanked":false}

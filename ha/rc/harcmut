@@ -1,0 +1,2 @@
+{"name":"HArcMut","vers":"1.0.0","deps":[{"name":"parking_lot","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cebb30b8eacff767043a1395da55aaf9d5aba6cfeddcccf0b6ed7801cfaf42a","features":{},"yanked":false}
+{"name":"HArcMut","vers":"1.0.1","deps":[{"name":"parking_lot","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a171d45e33b1c8d83282fe0b12897721b671c08e7b94582b1fc5f6eeb36d2ca0","features":{},"yanked":false}

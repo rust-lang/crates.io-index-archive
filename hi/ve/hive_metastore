@@ -1,0 +1,1 @@
+{"name":"hive_metastore","vers":"0.0.1","deps":[{"name":"thrift","req":"^0.18.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"tent-thrift"}],"cksum":"c3b27a684aa35a7dec161090fc57a39d930c97612f3e68e94adcbe8be1041108","features":{},"yanked":false}

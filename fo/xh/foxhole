@@ -1,0 +1,2 @@
+{"name":"foxhole","vers":"0.2.2","deps":[{"name":"http","req":"^0.2.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c94ed6690569981c0abcd6b695d8cb87afc1adf245e5a48826cd653b10e2a4fe","features":{},"yanked":false,"rust_version":"1.65.0"}
+{"name":"foxhole","vers":"0.3.0","deps":[{"name":"http","req":"^0.2.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2628c78afb89dfe4f2c7aaf153961e34d0ae03c3ed1dff060b4cc4fae7ad307c","features":{},"yanked":false,"rust_version":"1.65.0"}

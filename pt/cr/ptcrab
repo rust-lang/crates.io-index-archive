@@ -1,0 +1,2 @@
+{"name":"ptcrab","vers":"0.0.0","deps":[],"cksum":"42ca98645b011ae196e91b9e23210f5d43f25d4ea564ddccc9fc02ec02658f3e","features":{},"yanked":false}
+{"name":"ptcrab","vers":"0.0.1","deps":[{"name":"duplicate","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ac27aed867561b7c70e36a7566afdf307deb014905f75468de7abfc173e9f34","features":{},"yanked":false}

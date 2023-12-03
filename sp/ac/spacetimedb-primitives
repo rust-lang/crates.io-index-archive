@@ -1,0 +1,2 @@
+{"name":"spacetimedb-primitives","vers":"0.7.2","deps":[{"name":"nonempty","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"173bea840ac95159d0005316c72c7724f106a2412808862e73206bf9cc1a7f5b","features":{},"yanked":false}
+{"name":"spacetimedb-primitives","vers":"0.7.3","deps":[{"name":"nonempty","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e4fc907575a57e20db0325a37a01f5128dedd906a7bb2384eca4207069aafbeb","features":{},"yanked":false}

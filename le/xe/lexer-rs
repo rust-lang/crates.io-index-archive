@@ -1,0 +1,2 @@
+{"name":"lexer-rs","vers":"0.0.2","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7ec49255d7b57b498ae370ec1aaa0f29eae873ac7735c689fac82701d113b57","features":{},"yanked":false}
+{"name":"lexer-rs","vers":"0.0.3","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"97a3d09dbf99e5371e0ce96a46e6ad2597b9a0144a6680b0d4dce4de85305c5a","features":{},"yanked":false}

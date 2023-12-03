@@ -1,0 +1,2 @@
+{"name":"yabfr","vers":"1.0.0","deps":[],"cksum":"b6fdb62fb14dd4457fcec41e0c2886b1206114bcbabba8d1c59d2526d5511f32","features":{},"yanked":false}
+{"name":"yabfr","vers":"1.1.0","deps":[{"name":"clap","req":"^4.4.4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"035543b7f3c93cfb56785c923c94e06d6fd76f4dac510d349f8b942f4591e7ea","features":{},"yanked":false}

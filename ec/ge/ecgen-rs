@@ -1,0 +1,1 @@
+{"name":"ecgen-rs","vers":"0.1.0","deps":[{"name":"genawaiter","req":"^0.99.1","features":["futures03"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cc05bc68a7383168e60fddddcd1252ab6d26af39207d19da5f0ab07f2904c978","features":{},"yanked":false}

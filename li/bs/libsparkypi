@@ -1,0 +1,2 @@
+{"name":"libsparkypi","vers":"0.1.0","deps":[{"name":"rppal","req":"^0.14.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c5801048b563aa51b1a63223282f8201be113d7695b1756caf7f96dc3231b89","features":{},"yanked":false}
+{"name":"libsparkypi","vers":"0.2.0","deps":[{"name":"rppal","req":"^0.14.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef6b9779bd4df6d8347852100e5ed00b01770df7693bb8815a8974ca6dcc25a3","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"template-nest","vers":"0.1.0","deps":[{"name":"regex","req":"^1.10.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7bbde7490499b6381c091049b90cff1cfbcd38d29ca50bfe60a18eaa84e46d67","features":{},"yanked":false,"rust_version":"1.65"}

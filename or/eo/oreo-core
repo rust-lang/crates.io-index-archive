@@ -1,0 +1,1 @@
+{"name":"oreo-core","vers":"0.0.0","deps":[{"name":"futures","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"176fae552d05ebca6ae752dfe753ad13ac8be9930ed083f4ac6f3ef92cc9f9cc","features":{"async":["futures"],"default":[]},"yanked":false}

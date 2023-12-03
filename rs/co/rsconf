@@ -1,0 +1,1 @@
+{"name":"rsconf","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.79","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"once_cell","req":"^1.17.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ddb4887676dce4ac42ff1be1913e1662064e5c56921485ed93ef9d0e60282adc","features":{},"yanked":false}

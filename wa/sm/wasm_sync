@@ -1,0 +1,1 @@
+{"name":"wasm_sync","vers":"0.1.0","deps":[{"name":"web-sys","req":"^0.3.24","features":["Window"],"optional":false,"default_features":true,"target":"cfg(target_arch = \"wasm32\")","kind":"normal"}],"cksum":"4f22b3c2526c5834350ca8de37292cbd2cb7724e6c812930cfb8c558340cf76f","features":{},"yanked":false}

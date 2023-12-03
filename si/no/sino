@@ -1,0 +1,2 @@
+{"name":"sino","vers":"0.1.0","deps":[{"name":"llvm-sys","req":"^160","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d558473aeebf153b984f5c5b41672d570959df8791ef7fd3d235625a7671aed","features":{},"yanked":true}
+{"name":"sino","vers":"0.0.1","deps":[{"name":"llvm-sys","req":"^160","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"18824e4e9fbdd10757179f4b1efeea9cb887d9ed2267a1559949cf3001f6cd3e","features":{},"yanked":false}

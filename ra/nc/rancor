@@ -1,0 +1,1 @@
+{"name":"rancor","vers":"0.1.0-pre1","deps":[{"name":"ptr_meta","req":"^0.3.0-pre1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f950738b9250d41c3e221b6c5bd11f8658c2e0fbe8b11ca9ccd8581b55783f1d","features":{"alloc":[],"default":["std"],"std":["alloc","ptr_meta/std"]},"yanked":false}

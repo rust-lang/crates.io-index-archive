@@ -1,0 +1,2 @@
+{"name":"hc-sr04","vers":"0.1.0","deps":[{"name":"rppal","req":"^0.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccfabab84731f985c8cb3097f7dd189059ad4a5b99551598e3984083a40fb29e","features":{},"yanked":false,"rust_version":"1.63.0"}
+{"name":"hc-sr04","vers":"0.1.1","deps":[{"name":"rppal","req":"^0.14.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"875be774cd3d78313a604584f181ee4ab4ffe193574bdc3fcf2ea0b14c7220c8","features":{},"yanked":false,"rust_version":"1.63.0"}

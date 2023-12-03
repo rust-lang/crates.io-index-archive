@@ -1,0 +1,2 @@
+{"name":"orml-build-script-utils","vers":"0.0.0","deps":[],"cksum":"310f5ef0324fc43697b73c22e94345352200940463b0643d9f077d5b594e7d50","features":{},"yanked":true}
+{"name":"orml-build-script-utils","vers":"0.6.7","deps":[{"name":"walkdir","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db29b88abd4398969cf01f83a4652b659ef7bdbd7630e09fb89e9b1ceb4729d8","features":{},"yanked":false}

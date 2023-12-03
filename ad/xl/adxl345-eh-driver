@@ -1,0 +1,1 @@
+{"name":"adxl345-eh-driver","vers":"0.1.0","deps":[{"name":"embedded-hal","req":"^1.0.0-alpha.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"862ea9a3ce91ab23ba312b87019dfdd4c224718a5b20e8088ec650cf5587d28b","features":{},"yanked":false}

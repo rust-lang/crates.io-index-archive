@@ -1,0 +1,1 @@
+{"name":"zephyr-config","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"51c749b69e0fd2ae5a820c58f2d8dd941ac01e5a10bf82288923814c6036f491","features":{},"yanked":false}

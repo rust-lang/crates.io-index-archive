@@ -1,0 +1,1 @@
+{"name":"read_chunk_iter","vers":"0.1.0","deps":[{"name":"version-sync","req":"^0.9.4","features":["html_root_url_updated"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"064b3dfb844533c29588d45ff83ddb8824d0b4fa2f02ee9e4fd4242a8a6c40c0","features":{},"yanked":false}

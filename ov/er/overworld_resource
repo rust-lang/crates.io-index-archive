@@ -1,0 +1,1 @@
+{"name":"overworld_resource","vers":"0.4.0","deps":[{"name":"serde","req":"^1.0.188","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a82bebbfffbf712332f6bf362edc02ac47d8bae83be4f311de8d27b53bbedbd","features":{"default":["serde"]},"yanked":false}

@@ -1,0 +1,5 @@
+{"name":"compact_strings","vers":"0.1.0","deps":[],"cksum":"62bfc2dc6b40cb3a0d82d2d62bd673e683ae862e0fcf3a013cdbec9f5626b4bf","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"compact_strings","vers":"1.0.0","deps":[],"cksum":"554afc75c290bb30bc6c317760360a642d218f44028b1a555c3db63ce013cec2","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"compact_strings","vers":"1.1.0","deps":[],"cksum":"22821784dab48ba6269093abdaef2c99a52c842d8370a68e4dfb53b2b10e65ba","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"compact_strings","vers":"1.2.2","deps":[{"name":"criterion","req":"^0.5.1","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d0c5685be29536b1c7f8251cbcad899f86134711da1fa0491c18fffef48c6788","features":{},"yanked":false,"rust_version":"1.56.1"}
+{"name":"compact_strings","vers":"2.0.0","deps":[],"cksum":"1e45c6b43f70aab4a0a8e4cc1de3596fed0b9e204986cb84af51c639f0b647bd","features":{},"yanked":false,"rust_version":"1.56.1"}

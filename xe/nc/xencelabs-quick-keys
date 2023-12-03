@@ -1,0 +1,3 @@
+{"name":"xencelabs-quick-keys","vers":"0.1.0","deps":[],"cksum":"a4f3a7c8546c34068c4d0a5f341abf47950c56e509f653e895fe573279375cb7","features":{},"yanked":false}
+{"name":"xencelabs-quick-keys","vers":"0.2.0","deps":[{"name":"hidapi","req":"^2.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73cf5b26fb934f802a16453332464ecb62b81411cf5ff0a61fe8949d903ab082","features":{},"yanked":false}
+{"name":"xencelabs-quick-keys","vers":"0.2.1","deps":[{"name":"hidapi","req":"^2.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f885e153a410f093893b68fad0066b8dc39063f5879a6c2ddd3c747e849c251b","features":{},"yanked":false}

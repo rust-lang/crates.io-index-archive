@@ -1,0 +1,2 @@
+{"name":"pipebuf","vers":"0.2.0","deps":[],"cksum":"a0be285f3bc04ae75c66dba81c7cdd745a1d794ac0a0c4b15a7f661c4bf584bf","features":{"alloc":[],"default":["std"],"static":[],"std":[]},"yanked":false}
+{"name":"pipebuf","vers":"0.2.1","deps":[],"cksum":"50c36402c5c683bbe36c93142c763106b71385a8981f89905f084b65372a45f8","features":{"alloc":[],"default":["std"],"static":[],"std":[]},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"jkcenum_derive","vers":"0.2.0","deps":[{"name":"virtue","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2aa8c55a5005788939bd40ae7bb8a668a160973a71343bf144c697b53b74c10d","features":{},"yanked":false,"rust_version":"1.73"}

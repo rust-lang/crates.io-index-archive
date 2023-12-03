@@ -1,0 +1,1 @@
+{"name":"favicon-rover","vers":"0.1.0","deps":[{"name":"clap","req":"^4.3.15","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d04e6cdb2981dd7e4401b258cc55c871d4e27daa5569d219522ac330c33ecb3d","features":{},"yanked":false}

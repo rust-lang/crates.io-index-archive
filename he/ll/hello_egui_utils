@@ -1,0 +1,1 @@
+{"name":"hello_egui_utils","vers":"0.1.0","deps":[{"name":"egui","req":">=0.22","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3fc77c7186e36b79ee4ed836fcafe66fdd09bb39ebc428a29c0d7d424dae7cb0","features":{},"yanked":false}

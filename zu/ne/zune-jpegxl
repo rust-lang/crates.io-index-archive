@@ -1,0 +1,1 @@
+{"name":"zune-jpegxl","vers":"0.4.0","deps":[{"name":"zune-core","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71ffee484384b15f99ed4768bfdb3fa186d63e1f8c3aafba1d6d141a7b9e3674","features":{"default":["threads","std"],"log":["zune-core/log"],"std":[],"threads":[]},"yanked":false}

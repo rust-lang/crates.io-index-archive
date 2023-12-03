@@ -1,0 +1,3 @@
+{"name":"allot_lib","vers":"0.0.1-alpha","deps":[],"cksum":"cbc51bc27f3d7af773f2e14af8a9dc2141bf6422f1a1ac58d4dfbbad875e44c4","features":{},"yanked":true}
+{"name":"allot_lib","vers":"0.0.2-alpha","deps":[{"name":"allot_codegen","req":"^0.0.2-alpha","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num_enum","req":"^0.5.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd2626d9810a225199237f61dbca467f29ee842cf84575d2307d94521231b928","features":{},"yanked":true}
+{"name":"allot_lib","vers":"0.0.3-alpha","deps":[],"cksum":"17da848e2a6a8e98d14122b875fd264e60ad96c1aa313d41a056fca960c2ed58","features":{},"yanked":false}

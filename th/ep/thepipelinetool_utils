@@ -1,0 +1,2 @@
+{"name":"thepipelinetool_utils","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ce589a973d11b4b92419613c2d517400ef842461c73d21fab4fd6e3e55a24481","features":{},"yanked":false}
+{"name":"thepipelinetool_utils","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80db25297e9ffe229adee08f3788e6014484ba9da678926a778b823062dffe1b","features":{},"yanked":false}

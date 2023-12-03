@@ -1,0 +1,1 @@
+{"name":"zune-bmp","vers":"0.4.0","deps":[{"name":"zune-core","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b1d6d8d84344ba202fcf02d6505ab57c2d775ae07dcb64809421735d8ce8c0f","features":{"log":["zune-core/log"]},"yanked":false}

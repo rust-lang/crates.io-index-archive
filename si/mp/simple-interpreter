@@ -1,0 +1,1 @@
+{"name":"simple-interpreter","vers":"0.1.0","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a84d867534e4dc0439cb43b7fca481f4010b48edb3fbf93c3c8e17d1f4115fe","features":{},"yanked":false}
