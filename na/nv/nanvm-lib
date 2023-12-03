@@ -1,0 +1,1 @@
+{"name":"nanvm-lib","vers":"0.0.0","deps":[{"name":"wasm-bindgen-test","req":"^0.3.39","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5acd8b436ba603024fffb6151d4c1d0f89bd7ef53149e1171a177bc82aabb1b9","features":{},"yanked":false}
