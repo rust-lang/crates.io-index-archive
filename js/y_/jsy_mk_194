@@ -1,0 +1,1 @@
+{"name":"jsy_mk_194","vers":"1.0.0","deps":[{"name":"embedded-hal","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7c969af304c0d69664bf25c23209c7c4b1ef5d8e18ef0ae39404e170aa0f7058","features":{},"yanked":false,"rust_version":"1.66"}
