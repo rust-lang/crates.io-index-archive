@@ -1,0 +1,1 @@
+{"name":"stak-compile","vers":"0.1.1","deps":[{"name":"sac","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"stak-sac"}],"cksum":"68dc07da80aa7832de9bc92f6f9c5ba6e9e1a02bf3ea50ab92f6e22b9bd75d63","features":{},"yanked":false}
