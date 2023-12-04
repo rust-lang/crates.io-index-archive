@@ -19,3 +19,4 @@
 {"name":"byte_reader","vers":"1.1.1","deps":[],"cksum":"77ee9d6623efd34dc6352ee89be3fcf50d8c2ade0a35ffb63e62bf476d33e367","features":{"location":[]},"yanked":false}
 {"name":"byte_reader","vers":"1.1.2","deps":[],"cksum":"504b7d410bd3892ab7177bcbd3253adc2f41b122badd4a43e408ebf6e5da41d9","features":{"location":[]},"yanked":false}
 {"name":"byte_reader","vers":"1.2.0","deps":[],"cksum":"526b163ec3aec961d06c16684bbfc1b64768a5b98f6211e804a87b699a6c3285","features":{"location":[],"text":[]},"yanked":false}
+{"name":"byte_reader","vers":"1.2.1","deps":[],"cksum":"adbc2787dda44633eda6d1cc811b2cd3ef0577e603354c9de1eb4d2dbb5ed416","features":{"location":[],"text":[]},"yanked":false}
