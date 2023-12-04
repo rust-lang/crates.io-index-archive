@@ -10,3 +10,4 @@
 {"name":"nothing","vers":"0.1.9","deps":[],"cksum":"9b507ad2247a49a49cc501c389ef7b7bdda4cde739db9319ae39b776467cf94b","features":{},"yanked":false}
 {"name":"nothing","vers":"0.1.10","deps":[{"name":"is-macro","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88674084dc9999c1b5ec2fdae1dbffd3b2667d6fecb1e60a6a4bbdb7b4edc7c4","features":{},"yanked":false}
 {"name":"nothing","vers":"0.1.11","deps":[{"name":"is-macro","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2bfcbb337963528f10ba1099974f8c172722dadeaf7619b57112766293e4055a","features":{},"yanked":false}
+{"name":"nothing","vers":"0.1.12","deps":[{"name":"is-macro","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6163c6a788c07d3932a114cd264bfce0c3ac706ca324488c456b631353213108","features":{},"yanked":false}
