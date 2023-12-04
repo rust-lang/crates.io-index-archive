@@ -1,3 +1,4 @@
 {"name":"fim","vers":"0.1.0","deps":[],"cksum":"b704f6bd620af4711e0106608c581e97eae26c376b4bc534dab4e789f66bcda7","features":{},"yanked":false}
 {"name":"fim","vers":"0.2.0","deps":[{"name":"camino","req":"^1.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cdcd75eb7690717c97f37f0c2c3762c531870ef4714b1e4ee084d397d4a7843","features":{},"yanked":false}
 {"name":"fim","vers":"0.3.0","deps":[{"name":"camino","req":"^1.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e891c2245f372313766b630614b60ef9e8bc01eaa6b054196e3a239e9aaf070d","features":{},"yanked":false}
+{"name":"fim","vers":"0.4.0","deps":[{"name":"camino","req":"^1.1.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f8881f0e155052bac188747af1af969898d6224344ef2cf3dd01be0f795787a","features":{},"yanked":false}
