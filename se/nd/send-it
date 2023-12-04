@@ -1,1 +1,2 @@
 {"name":"send-it","vers":"0.1.0","deps":[],"cksum":"a7e07771dd785c0ccac8e15160838c53cc31f48a04207ab1ae9ea3f55c733854","features":{"big-endian":[],"default":["writing","reading"],"reading":[],"writing":[]},"yanked":false}
+{"name":"send-it","vers":"0.1.1","deps":[],"cksum":"837b5110e306f3f2d6a2ad63eb2404c202edcb02e28e934a63c5386fb4845171","features":{"big-endian":[],"default":["writing","reading"],"reading":[],"writing":[]},"yanked":false}
