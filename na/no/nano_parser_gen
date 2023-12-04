@@ -1,0 +1,1 @@
+{"name":"nano_parser_gen","vers":"0.2.0","deps":[{"name":"regex","req":"^1.10.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8a8a77221633356425a7228e4692ecb8c0675e653afdcbe43fe4bcb1bfb26435","features":{},"yanked":false}
