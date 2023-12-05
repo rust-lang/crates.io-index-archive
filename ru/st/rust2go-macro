@@ -1,0 +1,1 @@
+{"name":"rust2go-macro","vers":"0.0.1","deps":[{"name":"quote","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f46512fc6c8e68103d450496dc1a64c1d39a7ff0d8372bbc2aa9f4eeefc7b6de","features":{},"yanked":false}
