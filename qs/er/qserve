@@ -5,3 +5,4 @@
 {"name":"qserve","vers":"0.2.2","deps":[],"cksum":"8391d33f6213ca5262ab646edf06dfe20836b38d1db5e15617f0fd1eddd9b244","features":{},"yanked":false}
 {"name":"qserve","vers":"0.3.0","deps":[],"cksum":"1267d90acc99bd1552f2b38ca3263e37f70902c354f222f2909ccfd1d7d907df","features":{},"yanked":false}
 {"name":"qserve","vers":"1.0.0","deps":[],"cksum":"09138938b7fbc77d314accb21c9087c15f3a79270090506eca28763f5c29337a","features":{},"yanked":false}
+{"name":"qserve","vers":"1.0.1","deps":[],"cksum":"6fe50542a746102d5ce12dc6857988c05c406abcd5119d48758a96357f333561","features":{},"yanked":false}
