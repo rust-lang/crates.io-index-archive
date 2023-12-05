@@ -1,1 +1,2 @@
 {"name":"qwit","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.8","features":["derive","unstable-doc","env"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ce70b2bd435f2724cf3f43871b5ae02a4475e280ef65fc7559fa4dad74048a6","features":{},"yanked":false}
+{"name":"qwit","vers":"0.1.1","deps":[{"name":"clap","req":"^4.4.8","features":["derive","unstable-doc","env"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92a47b772a67bf0fe924b7c19576f59cf8f655b7664407fde81ec595751adda9","features":{},"yanked":false}
