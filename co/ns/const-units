@@ -1,1 +1,2 @@
 {"name":"const-units","vers":"0.1.0","deps":[{"name":"num","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b40afb84ca060eb4c21cb52db113d1d347e08622663ba7b6a31d4d449155289e","features":{},"yanked":false}
+{"name":"const-units","vers":"0.1.1","deps":[{"name":"num","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db956e4c20a78c3ea7c15b594e4972d7290a4620e354d89881043a6e7aea73fe","features":{},"yanked":false}
