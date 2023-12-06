@@ -1,0 +1,1 @@
+{"name":"lakers-ead-none","vers":"0.4.0-alpha.1","deps":[{"name":"edhoc-consts","req":"^0.4.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"lakers-shared"}],"cksum":"9639eb6deb8e49831f49b5f5171957468c07d0c8b6ebdcae4c3ca958fb1e2207","features":{},"yanked":false}
