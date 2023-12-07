@@ -8,3 +8,4 @@
 {"name":"relog","vers":"1.0.6","deps":[],"cksum":"21f04946f1534a2a60cc7bccdb8b51b03fb592066ad99907524c56a1fb872f69","features":{},"yanked":false}
 {"name":"relog","vers":"1.0.7","deps":[],"cksum":"30a2d14423293ae90696793d61312bf964924e5d0a6a891857bef6eecd939547","features":{},"yanked":false}
 {"name":"relog","vers":"1.0.8","deps":[{"name":"itertools","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"239115e7c23f7dfe0e9f582bf5cf9f46be491945a9e4d245126e2c1da2b4e54e","features":{},"yanked":false}
+{"name":"relog","vers":"1.0.9","deps":[{"name":"itertools","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b42f9ce975d2df42a7ec56c9208b7565e175e47fff118c56fe8c040a3ebaac6","features":{},"yanked":false}
