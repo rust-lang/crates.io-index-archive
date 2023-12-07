@@ -1,1 +1,2 @@
 {"name":"merge-source-map","vers":"0.1.0","deps":[{"name":"sourcemap","req":"^7.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f694dad2a6a8d251e96ed81c7d5cbdb6fdc8ef080ed60acad14d0849280d55e6","features":{},"yanked":false}
+{"name":"merge-source-map","vers":"0.1.1","deps":[{"name":"sourcemap","req":"^7.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0c57f4efc6a88d3be87cad3ca57df0ce320da2d3b70cc88532771e8aa564d6d","features":{},"yanked":false}
