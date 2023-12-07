@@ -1,0 +1,1 @@
+{"name":"merge-source-map","vers":"0.1.0","deps":[{"name":"sourcemap","req":"^7.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f694dad2a6a8d251e96ed81c7d5cbdb6fdc8ef080ed60acad14d0849280d55e6","features":{},"yanked":false}
