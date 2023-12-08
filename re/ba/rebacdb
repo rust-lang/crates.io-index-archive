@@ -1,0 +1,1 @@
+{"name":"rebacdb","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.34","features":["io-util","sync"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7c166663f43589a2c5d079c50b277e87eec520a9113941f8202e5ad0e9391697","features":{},"yanked":false}
