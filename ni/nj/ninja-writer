@@ -1,1 +1,2 @@
 {"name":"ninja-writer","vers":"0.1.0","deps":[],"cksum":"695cc99c3b24c1c0fafda8cba0a94dc0d06d75719b267a01d1a331a31ceca576","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"ninja-writer","vers":"0.1.1","deps":[],"cksum":"a34c2794aae46cf2edb821c78212c1374bb7b49f340c58e83073ca316871c8e7","features":{"default":["std"],"std":[]},"yanked":false}
