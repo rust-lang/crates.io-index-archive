@@ -46,3 +46,4 @@
 {"name":"aws-smithy-http-tower","vers":"0.58.0","deps":[],"cksum":"65b83ebd07d6bba3b52d47a987dc90c197c2af86d7f95f0494e2dcddaa4b721c","features":{},"yanked":false}
 {"name":"aws-smithy-http-tower","vers":"0.59.0","deps":[],"cksum":"b50f1f22fdab9164ef015939917ac7cdabb82f883c02a0b0e98f2ee84f521f72","features":{},"yanked":false}
 {"name":"aws-smithy-http-tower","vers":"0.60.0","deps":[],"cksum":"42f1034c86a7af4ca77633df665d747ccd8177dda513219a511dcbe88a580bcc","features":{},"yanked":false}
+{"name":"aws-smithy-http-tower","vers":"0.61.0","deps":[],"cksum":"e1a3837fc9605c0357364d5f07e302fe0000b038b6dfeb4119e276e05a4144bf","features":{},"yanked":false}
