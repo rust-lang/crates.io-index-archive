@@ -1,3 +1,4 @@
 {"name":"libsyd","vers":"3.0.0-alpha.2","deps":[{"name":"cbindgen","req":"^0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b5b17c73bfa31cfe83bcd061bb8b95c2740346d89d75d9935f131685f93f0ab0","features":{},"yanked":false,"rust_version":"1.65"}
 {"name":"libsyd","vers":"3.0.0-alpha.3","deps":[{"name":"cbindgen","req":"^0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"90c8beb0262f6c631fcd88b9b7f43ebdbe6aec373fe3ac88850bfa7c1a3983a0","features":{},"yanked":false,"rust_version":"1.65"}
 {"name":"libsyd","vers":"3.0.0-alpha.4","deps":[],"cksum":"8820a8bffd3e78e8fbc89dd659b71de6bb2b51e465d392a650692733b8a1a1f6","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"libsyd","vers":"3.0.0-alpha.5","deps":[],"cksum":"eedebd200109a8acf954a605f0489f3e108c779581565fe48ebc948da04cde6c","features":{},"yanked":false,"rust_version":"1.65"}
