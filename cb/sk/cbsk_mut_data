@@ -1,0 +1,1 @@
+{"name":"cbsk_mut_data","vers":"0.1.0","deps":[],"cksum":"b75ca2132f7611fd8914e1a66745accf300d60e26aa8edea5e54ec016e5daa59","features":{"default":["vec","hash_map"],"hash_map":["obj"],"macro":[],"obj":["ref"],"ref":["macro"],"vec":["obj"]},"yanked":false}
