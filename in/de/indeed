@@ -1,1 +1,2 @@
 {"name":"indeed","vers":"0.1.0","deps":[],"cksum":"afb8d3ee6072d760bb1ba02d6190e3055b653e2b9660022b72d7c459cf15d196","features":{},"yanked":false}
+{"name":"indeed","vers":"0.2.0","deps":[{"name":"clap","req":"^4.4.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"722cb20128a33f95a615020ad9a3da49e187526db0571ff989cb954a8e901f08","features":{},"yanked":false}
