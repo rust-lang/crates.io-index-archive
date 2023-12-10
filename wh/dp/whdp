@@ -7,3 +7,4 @@
 {"name":"whdp","vers":"1.1.5","deps":[],"cksum":"7568bae36b381476ad28d1483068e421fee88f579fcfcbc804d5cf24eac702d4","features":{},"yanked":false}
 {"name":"whdp","vers":"1.1.6","deps":[],"cksum":"a1f05876c8528a55de7397baf87666620c5015574320a04de97801f25fa53416","features":{},"yanked":false}
 {"name":"whdp","vers":"1.1.7","deps":[{"name":"wjp","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8e97fcf037d9110ae2ce83a7c5813c6c5a967c2204a8765475655666e8a8ff8","features":{},"yanked":false}
+{"name":"whdp","vers":"1.1.8","deps":[{"name":"wjp","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4606fa7680b399396a52fe29364973bdf68fffc25e46080dbb7fe86c9805f924","features":{},"yanked":false}
