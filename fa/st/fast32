@@ -1,0 +1,1 @@
+{"name":"fast32","vers":"1.0.0","deps":[{"name":"uuid","req":"^1.6.1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8437e6bf4e1002a0562766acea197dd65993d1d072ffc4f81ff65dc1433de92b","features":{"default":[]},"features2":{"uuid":["dep:uuid"]},"yanked":false,"v":2}
