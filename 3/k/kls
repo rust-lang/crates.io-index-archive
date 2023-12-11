@@ -1,1 +1,2 @@
 {"name":"kls","vers":"0.0.0","deps":[],"cksum":"b54bf3b0053c505f0797acdcb2dd9d401c983a343eebeda306a2a5724c16d136","features":{},"yanked":false}
+{"name":"kls","vers":"0.0.1","deps":[{"name":"clap","req":"^4.4.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8aaf3d00d50d5f2ea06b229927b858cc4d942060b10266596241de5e163af91a","features":{},"yanked":false}
