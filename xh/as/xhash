@@ -1,1 +1,2 @@
 {"name":"xhash","vers":"0.1.0","deps":[{"name":"gxhash","req":"^2.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d95b5051248f3f9575b8d5a418b49e75e81cd878d341d156f59e47a5a8566b55","features":{},"yanked":false}
+{"name":"xhash","vers":"0.1.1","deps":[{"name":"gxhash","req":"^2.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1007afe048911411ab583d80f1094fa355d6204d63e610af3c9f577175ffb865","features":{},"yanked":false}
