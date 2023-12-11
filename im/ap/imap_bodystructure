@@ -1,1 +1,2 @@
 {"name":"imap_bodystructure","vers":"0.1.0","deps":[{"name":"nom","req":"^7.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e46ed05026b2483e84459753992d94d04bd0a088bf55605125daf65490c2cfed","features":{},"yanked":false}
+{"name":"imap_bodystructure","vers":"0.1.1","deps":[{"name":"nom","req":"^7.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3d9e1e0864e1393a7cf3e89339e7f373aa09942ea727514ffec4f1cc12df72e","features":{},"yanked":false}
