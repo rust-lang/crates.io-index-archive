@@ -1,0 +1,1 @@
+{"name":"ju-tcs-rust-23-6","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60a5deec3bcecbf28fa8883066eef90206487f544ff94c94d2139384bcffbab2","features":{},"yanked":false}
