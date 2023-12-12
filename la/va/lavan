@@ -1,0 +1,1 @@
+{"name":"lavan","vers":"0.0.1-EXPERIMENTAL-SUBJECT-TO-BREAKING-CHANGES","deps":[{"name":"either","req":"^1.9.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22df072baba1d3ec85ae3bf0053fb693d87c7a434d201e98ec294fffc464f11d","features":{"default":["either"]},"features2":{"either":["dep:either"]},"yanked":false,"v":2}
