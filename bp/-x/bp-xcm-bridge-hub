@@ -1,1 +1,2 @@
 {"name":"bp-xcm-bridge-hub","vers":"0.0.0","deps":[],"cksum":"c2ac13b724d19fcc5d978cd1d20f9a8e1b421b69f3e6f7ba91455004fffe95c5","features":{},"yanked":false}
+{"name":"bp-xcm-bridge-hub","vers":"0.1.0","deps":[{"name":"sp-std","req":"^13.0.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"118842d57deb8d54e2288595a33689fc364ffbf5877648e84940b2cf4b4dd4a6","features":{"default":["std"],"std":["sp-std/std"]},"yanked":false}
