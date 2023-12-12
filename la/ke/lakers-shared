@@ -1,1 +1,2 @@
 {"name":"lakers-shared","vers":"0.4.0-alpha.1","deps":[{"name":"hexlit","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3f5c69f595cb51caaa0a401710e0e5619c1747dc69daf99747edbd509fb3217e","features":{},"yanked":false}
+{"name":"lakers-shared","vers":"0.4.0","deps":[{"name":"hexlit","req":"^0.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3813aa35f5906df0c2e777a2c74092fe1b14e109f52b09b67532139656b68b70","features":{},"yanked":false}
