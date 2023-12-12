@@ -1,0 +1,1 @@
+{"name":"bparse","vers":"0.1.0","deps":[{"name":"bstr","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a18dddbb15d567e3cde7337f1249ae25a13b8d00de32af3cc1181f4532082710","features":{},"yanked":false}
