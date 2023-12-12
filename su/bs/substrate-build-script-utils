@@ -26,3 +26,4 @@
 {"name":"substrate-build-script-utils","vers":"8.0.0-dev.1","deps":[],"cksum":"001ea861454ef6301432afb0909680943263d41cc700bea3f4232300013cff79","features":{},"yanked":false}
 {"name":"substrate-build-script-utils","vers":"8.0.0","deps":[],"cksum":"78127cdb5849eed7399ff9c730faea57c2a4e148e3b46e565abe98248432feb9","features":{},"yanked":false}
 {"name":"substrate-build-script-utils","vers":"9.0.0","deps":[],"cksum":"8a3b7556a62d77b7b8abc34e425817f6f563c2f2aa7142f1c4e93e6422156cc1","features":{},"yanked":false}
+{"name":"substrate-build-script-utils","vers":"10.0.0","deps":[],"cksum":"d211fbdfa0ecd20577b61bfaaea72fbe6cdb34a689dc200337c4564761f37ceb","features":{},"yanked":false}
