@@ -2,3 +2,4 @@
 {"name":"veg","vers":"0.1.1","deps":[],"cksum":"04d31371621328bf0d830078bdce0a89fccad92b04bc2947845905ba5f60edc4","features":{},"yanked":false}
 {"name":"veg","vers":"0.2.0","deps":[],"cksum":"d7bff5c2d9d1d1ca88fc7436165e44d454e7bbcba38641c493b1ff43caf53ef2","features":{},"yanked":false}
 {"name":"veg","vers":"0.2.1","deps":[],"cksum":"af2a01476ec17d0280d0fa09d85df87acbb9c978309f22aa51af1bbcbaf83095","features":{},"yanked":false}
+{"name":"veg","vers":"0.3.0","deps":[{"name":"anyhow","req":"^1.0.75","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"203de2737dfed534717fa40f4539a600b1868dc6125c7a3eae9ebbefc058f948","features":{},"yanked":false}
