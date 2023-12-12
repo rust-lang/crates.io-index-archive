@@ -29,3 +29,4 @@
 {"name":"sp-std","vers":"11.0.0-dev.1","deps":[],"cksum":"c50370fd71ae05cf8a26f8567cc62f295fd61c53f13c43ced290c0a1032f48a4","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"sp-std","vers":"11.0.0","deps":[],"cksum":"8c91d32e165d08a14098ce5ec923eaec59d1d0583758a18a770beec1b780b0d0","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"sp-std","vers":"12.0.0","deps":[],"cksum":"54c78c5a66682568cc7b153603c5d01a2cc8f5c221c7b1e921517a0eef18ae05","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"sp-std","vers":"13.0.0","deps":[],"cksum":"71323a3b5f189085d11123ce397b3cdfaec4437071243b51f68a38a4833fbaa7","features":{"default":["std"],"std":[]},"yanked":false}
