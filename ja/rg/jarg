@@ -1,0 +1,1 @@
+{"name":"jarg","vers":"0.1.1","deps":[{"name":"aerr","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sonic-rs","req":"^0.2.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a39ee2fd76dd20499d3de733631724b80179cf41d41d5425714d721df4c4307","features":{},"yanked":false}
