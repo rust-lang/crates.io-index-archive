@@ -1,0 +1,1 @@
+{"name":"qol-rs","vers":"0.1.0","deps":[],"cksum":"88d467c28d63c1ec0752da1f869fba1ae36399ae897bdae05d77f91adcc94faa","features":{"default":["full"],"full":["macros","sae","funcs","type_aliases"],"funcs":[],"macros":[],"sae":[],"type_aliases":[]},"yanked":false}
