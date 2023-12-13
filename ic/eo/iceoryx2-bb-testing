@@ -1,0 +1,1 @@
+{"name":"iceoryx2-bb-testing","vers":"0.0.1","deps":[{"name":"iceoryx2-pal-configuration","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2bdf5734d66d8a2f32811881cd06edfa7e626936e4fbf8b3a2eae52c663b1c49","features":{},"yanked":false,"rust_version":"1.72.1"}
