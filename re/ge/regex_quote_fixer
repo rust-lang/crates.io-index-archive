@@ -1,1 +1,2 @@
 {"name":"regex_quote_fixer","vers":"0.1.0","deps":[{"name":"regex","req":"^1.10.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8336a5b459316a6a6ce4620ff0af6a89fbf00e0a53bad30d3acea7bdfd23cdfe","features":{},"yanked":false}
+{"name":"regex_quote_fixer","vers":"0.1.1","deps":[{"name":"regex","req":"^1.10.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59c9d008c631483ab0efa487032b8bf60ed7026882dd89d25f974432732aeb86","features":{},"yanked":false}
