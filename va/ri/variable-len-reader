@@ -1,0 +1,1 @@
+{"name":"variable-len-reader","vers":"0.1.0","deps":[],"cksum":"4454696899e1a86a00c40400c35bce2bb5b3a173a8bf56dfb232fc2ef1df290e","features":{"default":["str"],"primitive":[],"str":["variable-len"],"variable-len":["primitive"]},"yanked":false}
