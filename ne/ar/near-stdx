@@ -2,5 +2,5 @@
 {"name":"near-stdx","vers":"0.16.0","deps":[],"cksum":"6c05ded9a90c087aaebfafdf01f2801f5d31817f9a3514ce09aed270001d650e","features":{},"yanked":false,"rust_version":"1.67.1"}
 {"name":"near-stdx","vers":"0.16.1","deps":[],"cksum":"bc1279be274b9a49c2cb4b62541241a1ff6745cb77ca81ece7f949cfbc229bff","features":{},"yanked":false,"rust_version":"1.68.0"}
 {"name":"near-stdx","vers":"0.17.0","deps":[],"cksum":"6540152fba5e96fe5d575b79e8cd244cf2add747bb01362426bdc069bc3a23bc","features":{},"yanked":false,"rust_version":"1.69.0"}
-{"name":"near-stdx","vers":"0.17.1","deps":[],"cksum":"f5fb149555d9ce321d88e8d485f0887017b25e7979526280ea2f95aa8f0b7868","features":{},"yanked":false,"rust_version":"1.71.0"}
+{"name":"near-stdx","vers":"0.17.1","deps":[],"cksum":"f5fb149555d9ce321d88e8d485f0887017b25e7979526280ea2f95aa8f0b7868","features":{},"yanked":true,"rust_version":"1.71.0"}
 {"name":"near-stdx","vers":"0.18.0","deps":[],"cksum":"9be6ae4e56f3eeafe865827a9ad22fa514e36edbeb31c8759e58df38c21ef83c","features":{},"yanked":false,"rust_version":"1.71.0"}
