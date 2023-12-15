@@ -51,3 +51,4 @@
 {"name":"ckb-constant","vers":"0.112.0","deps":[],"cksum":"3054a9e1ba9a1cf007dd81f1609ddbaea9e918dd8291dee11e4ddbccf0a4e180","features":{},"yanked":false}
 {"name":"ckb-constant","vers":"0.112.0-rc3","deps":[],"cksum":"e132a996fbc391def1bd3b8e01c77e68e63095746979e21c974daa9bf724d70c","features":{},"yanked":false}
 {"name":"ckb-constant","vers":"0.112.1","deps":[],"cksum":"c7d562e7156216f00c5bf55c8f4c86bc25f9ec0603fcfa6df9b66747462a031a","features":{},"yanked":false}
+{"name":"ckb-constant","vers":"0.113.0-rc1","deps":[],"cksum":"674f062fd484fefbfa1618c10044af071afebaac50c8746e2d2cb3b12c3b27d2","features":{},"yanked":false}
