@@ -1,0 +1,1 @@
+{"name":"rpatch","vers":"0.1.0","deps":[{"name":"nom","req":"^7.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"patch","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74f50915f9f4f65e3a3c03999d447a922fb78d10065ae67ef1acd5af2c41d409","features":{},"yanked":false}
