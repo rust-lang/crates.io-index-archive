@@ -9,3 +9,4 @@
 {"name":"emocli","vers":"0.8.4","deps":[{"name":"json","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"428006c37494e911031b198e86d92b152a3a06279474d9fb19eb89978b94216c","features":{},"yanked":true}
 {"name":"emocli","vers":"0.8.5","deps":[{"name":"json","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"53bc217798eac6b474acc4b5dc5263d9a241d5d4f1cb1baf0a9dd9882a56a5e1","features":{},"yanked":true}
 {"name":"emocli","vers":"0.8.6","deps":[{"name":"json","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"78912d47f74dc03cd8c9a244a1ddca9b4e6a79c45fd4cfff0a6881a79b6f68d4","features":{},"yanked":true}
+{"name":"emocli","vers":"0.9.0","deps":[],"cksum":"ad9e06096370ba5f54e4f46bab86c0f0bfc43b877f0b98c2e434120d08be541b","features":{},"yanked":false}
