@@ -1,1 +1,2 @@
 {"name":"dwn","vers":"0.0.1","deps":[],"cksum":"6c81e82aaa68b8f2dfdfb57608be0b1f84b0c4b619f4a22bc1ff1d0630755740","features":{},"yanked":false}
+{"name":"dwn","vers":"0.0.2","deps":[{"name":"serde","req":"^1.0.193","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serde_json","req":"^1.0.108","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64d3d856c876ec57db5fc318ceb6e13699800536ef0acea4dc5007bf96fa654a","features":{},"yanked":false}
