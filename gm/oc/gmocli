@@ -1,1 +1,2 @@
 {"name":"gmocli","vers":"1.0.0-alpha.1","deps":[{"name":"json","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c326e21269a30c194b018028a93fd607b98a7f2c33a7833cb5e065fa695c23cd","features":{},"yanked":false}
+{"name":"gmocli","vers":"1.0.0","deps":[{"name":"json","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"6c8033e90dc3d0b7a5d725da7c9d1ac9c3a397e744eb050398450af063d54409","features":{},"yanked":false}
