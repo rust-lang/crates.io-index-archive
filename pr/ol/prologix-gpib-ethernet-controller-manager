@@ -1,0 +1,1 @@
+{"name":"prologix-gpib-ethernet-controller-manager","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.51","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"96785e1da731aed8d04e966261d2e012097a7b8769912e1e624af51721e54e26","features":{},"yanked":false}
