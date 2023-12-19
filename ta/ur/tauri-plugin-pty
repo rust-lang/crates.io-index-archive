@@ -1,0 +1,1 @@
+{"name":"tauri-plugin-pty","vers":"0.0.0","deps":[{"name":"tauri","req":"^1.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6743b3315662d355fb46679c118c333e44a953e8ac7f6562b6e1e146b258798d","features":{},"yanked":false,"rust_version":"1.60"}
