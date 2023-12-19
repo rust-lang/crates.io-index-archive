@@ -3,3 +3,4 @@
 {"name":"bparse","vers":"0.3.0","deps":[{"name":"bstr","req":"^1.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fdd76499476c3e48bcf098784fd27850ba93be154cc806ac4835417a72e47ddd","features":{},"yanked":false}
 {"name":"bparse","vers":"0.4.0","deps":[],"cksum":"5411279fef4dcfc64b333628e5f929427701327c86be103e333f804ee4a37915","features":{},"yanked":false}
 {"name":"bparse","vers":"0.5.0","deps":[],"cksum":"1cf20c3a558ea0e22189046470c48b3df183eb9065a07116c71f6fcc046a53c5","features":{},"yanked":false}
+{"name":"bparse","vers":"0.6.0","deps":[],"cksum":"4254ba18cf1e8b469c05fd6f8fd4c2f7cd781cc312a35d487ac0e6c6585efcb6","features":{},"yanked":false}
