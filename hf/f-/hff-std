@@ -1,2 +1,3 @@
 {"name":"hff-std","vers":"0.1.0","deps":[],"cksum":"9499a91ec17fbda822b6ed187d8dfc0bcfa6a7918415e58ff9ae9ee7641936ec","features":{},"yanked":false}
 {"name":"hff-std","vers":"0.2.0","deps":[{"name":"hff-core","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed5270878b92fa6564911ded4a6d057aaf82f45dd980d1b5d619a758220dce72","features":{},"yanked":false}
+{"name":"hff-std","vers":"0.2.1","deps":[{"name":"hff-core","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2eec07ccbe585431a2fc5b90077a0d3fc4a771bfc18f13044a2ea59126a2a397","features":{},"yanked":false}
