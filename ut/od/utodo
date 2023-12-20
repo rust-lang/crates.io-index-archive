@@ -1,2 +1,2 @@
-{"name":"utodo","vers":"0.0.0","deps":[],"cksum":"e28ad1600d32d3a0c0732b1a5c551e5a76d912a7e787a8b6322205dad042ab37","features":{},"yanked":false}
+{"name":"utodo","vers":"0.0.0","deps":[],"cksum":"e28ad1600d32d3a0c0732b1a5c551e5a76d912a7e787a8b6322205dad042ab37","features":{},"yanked":true}
 {"name":"utodo","vers":"1.0.0","deps":[{"name":"serde","req":"^1.0.193","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04f490c2b48597c963458d7d9eb17c069f7b3e48565a646d579acd90aa9bf726","features":{},"yanked":false}
