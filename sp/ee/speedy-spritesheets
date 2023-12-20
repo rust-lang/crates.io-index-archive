@@ -1,1 +1,2 @@
 {"name":"speedy-spritesheets","vers":"0.1.0","deps":[{"name":"sdl2","req":"^0.36.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87cc6f01e17771e926c03f708c758ce26515a7ead6387ff38cc0dc22422fdfd4","features":{},"yanked":false}
+{"name":"speedy-spritesheets","vers":"0.1.1","deps":[{"name":"sdl2","req":"^0.36.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1054441c4bc4356dd3fa5b085b34f775814d267f083328af2b466fe7c3f01395","features":{},"yanked":false}
