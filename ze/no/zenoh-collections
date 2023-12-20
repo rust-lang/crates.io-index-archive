@@ -3,3 +3,4 @@
 {"name":"zenoh-collections","vers":"0.7.1-rc","deps":[],"cksum":"644324caa096396b3eb50584d2eed94273eee14737bc43f58747307d3f6c5fee","features":{"default":["std"],"std":[]},"yanked":true,"rust_version":"1.65.0"}
 {"name":"zenoh-collections","vers":"0.7.2-rc","deps":[],"cksum":"3cb3a70ff748ca530a44c4ac4e301138117a34f4899558c15fefb143f826f1a7","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.65.0"}
 {"name":"zenoh-collections","vers":"0.10.0-rc","deps":[],"cksum":"271f7e17b79417e0bb5006362b578c5631a2dc281835b73140b2a1d643fdae38","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.66.1"}
+{"name":"zenoh-collections","vers":"0.10.1-rc","deps":[],"cksum":"639c58788f591f8f80e9722d1c214c6d6c480ca9f90eeff29b8e929848f25241","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.66.1"}
