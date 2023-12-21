@@ -2,3 +2,4 @@
 {"name":"xynth","vers":"0.1.1","deps":[],"cksum":"308c6fd840e40fb3790c15a54513a107332f618f09518a14abf2b7ad09c738b0","features":{},"yanked":false}
 {"name":"xynth","vers":"0.1.2","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bc255d3c38936754bf299a41a03536de7806c79e7dc82567d633e3218f99298c","features":{},"yanked":false}
 {"name":"xynth","vers":"0.1.3","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c69113db09b69fe953401cfa56528b5e56b5d90d68a76774c65adc81279c99b6","features":{},"yanked":false}
+{"name":"xynth","vers":"0.1.4","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"333c7eeaad8816afb752da665c47d2e80b3c1f354d08fa9be0c8bdcc1a4a8845","features":{},"yanked":false}
