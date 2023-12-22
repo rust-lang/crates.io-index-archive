@@ -1,2 +1,3 @@
 {"name":"game_pathfinding","vers":"0.0.1","deps":[],"cksum":"763292d5c2307b6374cae1c4212b35d32f5f8148b0387f2329d0323c4e9d4dc2","features":{},"yanked":false}
 {"name":"game_pathfinding","vers":"0.0.2","deps":[],"cksum":"66b616981111443ff55a16a0f6ce91b16e3042e292073eb21bccb96d37d92632","features":{},"yanked":false,"rust_version":"1.74.1"}
+{"name":"game_pathfinding","vers":"0.0.3","deps":[],"cksum":"04d9fe4d18b347ae3102e6b9fc755d346188d9781b3ce9e1b914b843823723a5","features":{},"yanked":false,"rust_version":"1.74.1"}
