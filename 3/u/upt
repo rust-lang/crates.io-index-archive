@@ -4,3 +4,4 @@
 {"name":"upt","vers":"0.2.0","deps":[],"cksum":"c3307b3d866c82b96afcaa68be700a096585e4b5840d8cafde289c4e72278798","features":{},"yanked":false}
 {"name":"upt","vers":"0.3.0","deps":[],"cksum":"6964150bef2eedbe2e1a12128818c0d2b2c143be83b390bf1012076e0a2e5275","features":{},"yanked":false}
 {"name":"upt","vers":"0.4.0","deps":[{"name":"which","req":"^5.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"74b717018a54b05d8d25baa5af9c1827de42ce0f6eac8aaf326e31c65bea71af","features":{},"yanked":false}
+{"name":"upt","vers":"0.5.0","deps":[{"name":"which","req":"^5.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df9305a046a953e2e4496132f859521617c686857b4139806a244fc9e4a8f8f5","features":{},"yanked":false}
