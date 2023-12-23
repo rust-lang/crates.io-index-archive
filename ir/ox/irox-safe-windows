@@ -1,0 +1,1 @@
+{"name":"irox-safe-windows","vers":"0.1.0","deps":[{"name":"windows","req":"^0.52.0","features":["Win32_Foundation","Win32_Security_Credentials","Win32_Graphics_Gdi"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"4feade44529ce431a21e91d99407b473accb355f523af3c59aa625e4836b8992","features":{},"yanked":false}
