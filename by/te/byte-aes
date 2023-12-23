@@ -1,1 +1,2 @@
 {"name":"byte-aes","vers":"0.1.0","deps":[{"name":"aes","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3ffd344324cd9d25147cd3f67975be06404f17b8b5e72d4e15164f7d513360a","features":{},"yanked":false}
+{"name":"byte-aes","vers":"0.1.1","deps":[{"name":"aes","req":"^0.8.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98b9aeee8a902bde658e5c25aca3be4e1989d1162fb11fdba4cfdd0ee52a9bfd","features":{},"yanked":false}
