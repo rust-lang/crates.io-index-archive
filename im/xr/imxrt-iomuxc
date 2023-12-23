@@ -9,3 +9,4 @@
 {"name":"imxrt-iomuxc","vers":"0.2.2","deps":[],"cksum":"d820e66fcb3010c8a1e33059c2b285ef9fa27dca70715178e5ea7ae7d667ac7c","features":{"imxrt1010":[],"imxrt1020":[],"imxrt1060":[],"imxrt1170":[]},"yanked":false}
 {"name":"imxrt-iomuxc","vers":"0.2.3","deps":[],"cksum":"bcc265810697eb1ae9003f2c32da7b389b465a8485a934941a9d72be16713f60","features":{"imxrt1010":[],"imxrt1020":[],"imxrt1060":[],"imxrt1170":[]},"yanked":false}
 {"name":"imxrt-iomuxc","vers":"0.2.4","deps":[],"cksum":"c0393bebbbfc900bea1e91ea4114d2ee2f85924ee15dd6c2860df1d3ffab8e3e","features":{"imxrt1010":[],"imxrt1020":[],"imxrt1060":[],"imxrt1170":[]},"yanked":false}
+{"name":"imxrt-iomuxc","vers":"0.2.5","deps":[],"cksum":"5ec6a3b534842cf2eee51088719c9155bb2c26e466f20bad18182b9d400addd1","features":{"imxrt1010":[],"imxrt1020":[],"imxrt1060":[],"imxrt1170":[]},"yanked":false}
