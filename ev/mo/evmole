@@ -1,0 +1,1 @@
+{"name":"evmole","vers":"0.3.1","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"ruint","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f492d1949e58ef83a1bf8e23fbd042af12b03e7642d50dbb4cfb48112de5e01f","features":{},"yanked":false}
