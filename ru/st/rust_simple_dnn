@@ -1,1 +1,2 @@
 {"name":"Rust_Simple_DNN","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1783f58a4c0764fefdee2848847907d5f3dfedae997f10d5483b6979f7f6811d","features":{},"yanked":false}
+{"name":"Rust_Simple_DNN","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"272eae6e89e02a45cc6ce9177d7b635758f53788920a13416449fc01dea6dfa1","features":{},"yanked":false}
