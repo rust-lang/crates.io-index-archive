@@ -1,0 +1,1 @@
+{"name":"file-uti","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.35.1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fb401c0ebed656ca93c1af4352d46c571282528af3b6233fde90ebd8d923e02","features":{},"yanked":false}
