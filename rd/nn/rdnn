@@ -1,1 +1,1 @@
-{"name":"rdnn","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62b545b9a41065aec6cd5af94f33e75f11d05005da1d2bbdfd4c98f426c6a837","features":{},"yanked":false}
+{"name":"rdnn","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62b545b9a41065aec6cd5af94f33e75f11d05005da1d2bbdfd4c98f426c6a837","features":{},"yanked":true}
