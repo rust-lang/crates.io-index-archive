@@ -1,0 +1,1 @@
+{"name":"threadx-rs","vers":"0.1.0","deps":[{"name":"threadx-sys","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8dda99a90fabdbd86f64089c206f65d34feae190e52db8b63a55311e60e606d6","features":{},"yanked":false}
