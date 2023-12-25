@@ -10,3 +10,4 @@
 {"name":"relog","vers":"1.0.8","deps":[{"name":"itertools","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"239115e7c23f7dfe0e9f582bf5cf9f46be491945a9e4d245126e2c1da2b4e54e","features":{},"yanked":false}
 {"name":"relog","vers":"1.0.9","deps":[{"name":"itertools","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b42f9ce975d2df42a7ec56c9208b7565e175e47fff118c56fe8c040a3ebaac6","features":{},"yanked":false}
 {"name":"relog","vers":"1.0.10","deps":[],"cksum":"175bc8f96f0b06967de8f33a80ba478778f71406592efa2bd91a3c25a2545bba","features":{},"yanked":false}
+{"name":"relog","vers":"1.0.11","deps":[],"cksum":"d998ded829041291e602def6864070fed142915603beaa277dfcbc7dff4d3e5e","features":{},"yanked":false}
