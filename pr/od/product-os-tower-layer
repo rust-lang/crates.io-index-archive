@@ -1,0 +1,1 @@
+{"name":"product-os-tower-layer","vers":"0.0.1","deps":[{"name":"no-std-compat","req":"^0.4.1","features":["alloc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45ab4a03a768ef0aa0da079996a92271c7175839baa9f59d68e83d1be3f544b6","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.69"}
