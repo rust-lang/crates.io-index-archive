@@ -1,0 +1,1 @@
+{"name":"liburing2-sys","vers":"0.1.0+f4e42a5","deps":[{"name":"bindgen","req":"^0.69","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"d148b09889c615fbbcd1e7d5e81bc45590f5d0c953d2755a9e76eb2fa1273783","features":{"lto":[]},"yanked":false,"links":"uring-ffi"}
