@@ -1,1 +1,2 @@
 {"name":"bevy_2d_collisions","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf27f1368df3af716541a0ed99d27365b5d6626b4b1ab0c06798e4720a931bf3","features":{},"yanked":false}
+{"name":"bevy_2d_collisions","vers":"0.2.0","deps":[{"name":"bevy","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13a265ca53c119d5dfffd6419ce5b110edc5f361dafbdb3685dad054e6f4bf23","features":{},"yanked":false}
