@@ -3,3 +3,4 @@
 {"name":"vctr2","vers":"0.1.2","deps":[],"cksum":"b1fcee52a2358728899b6261c60751036e6245bbf41ebbc034680a26269470ce","features":{},"yanked":false}
 {"name":"vctr2","vers":"0.1.3","deps":[],"cksum":"a6e712e675499da6be1a8b479293f708774c76bf741aa6ef66aa749edc915677","features":{},"yanked":false}
 {"name":"vctr2","vers":"0.1.4","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0fbe441e496c145d3d09201911a1bb42bed85dcb12e66f6957559b7a8662c024","features":{},"yanked":false}
+{"name":"vctr2","vers":"0.1.5","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d99a31b02744e752e896e66065e8804e805dd187fbd773d8f693316ba35b761","features":{},"yanked":false}
