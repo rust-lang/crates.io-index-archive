@@ -1,0 +1,1 @@
+{"name":"directory_manager","vers":"0.1.0","deps":[{"name":"directories","req":"^5.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d743f1f87959817e62c3da113b59299fa267c934d91bb1ac487c6a63217f86cb","features":{},"yanked":false,"rust_version":"1.74"}
