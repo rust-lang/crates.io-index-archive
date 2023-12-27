@@ -6,3 +6,4 @@
 {"name":"byteyarn","vers":"0.2.3","deps":[],"cksum":"a7534301c0ea17abb4db06d75efc7b4b0fa360fce8e175a4330d721c71c942ff","features":{},"yanked":false}
 {"name":"byteyarn","vers":"0.3.0","deps":[],"cksum":"a0542f67b39e2bfcec9f625cf3dcf9e621acb76e700352ab7f21e85036d5afc6","features":{},"yanked":false}
 {"name":"byteyarn","vers":"0.4.0","deps":[{"name":"buf-trait","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b7f8b6c17c2601ecf82ab427c28319e717327ebc38794452781c4903458e447b","features":{},"yanked":false}
+{"name":"byteyarn","vers":"0.4.1","deps":[{"name":"buf-trait","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"577fd80b50af2b5eee95f0ba80213666583931a1a93bbb7a189590a56cd65774","features":{},"yanked":false}
