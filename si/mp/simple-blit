@@ -4,3 +4,4 @@
 {"name":"simple-blit","vers":"0.4.0","deps":[],"cksum":"12795e0594e7cbd010e37ce6eeaeaa13dfa438f847aef21cfc6b8a12cbd9d2a8","features":{},"yanked":false}
 {"name":"simple-blit","vers":"0.5.0","deps":[],"cksum":"bda8ce257d94aeb488dffa23b0e0f5017f690859e75207e162bcdb2b537723a7","features":{},"yanked":false}
 {"name":"simple-blit","vers":"0.6.0","deps":[],"cksum":"91f2664948d4aadb3c7bade9316474b176f861a35b60cf6f1641b3198118116e","features":{},"yanked":false}
+{"name":"simple-blit","vers":"0.6.1","deps":[{"name":"pixels","req":"^0.13","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"},{"name":"rgb","req":"^0.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08a874abdf12e94c25481a98bad35b528ac6fa544242f958df7825d73222155b","features":{"default":[],"pixels-integration":["pixels","rgb"]},"yanked":false}
