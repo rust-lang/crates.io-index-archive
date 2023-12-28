@@ -38,3 +38,4 @@
 {"name":"gsys","vers":"1.0.2-dev.0","deps":[],"cksum":"3f66b327ef9eec90bb6df8237fdb5010ea5e26f8aa63882c53381065ec50f64d","features":{},"yanked":false}
 {"name":"gsys","vers":"1.0.3-dev","deps":[],"cksum":"c487e49c8ac086551722b2313cadcec8765b8d66e9ce42b787b5e16a4ccf48f2","features":{},"yanked":false}
 {"name":"gsys","vers":"1.0.3-dev.0","deps":[],"cksum":"c1bfb46d41e20e0756f73a4d6025f9ecb4e2b805c57d4e0e36e87915cc6ae32c","features":{},"yanked":false}
+{"name":"gsys","vers":"1.0.3","deps":[],"cksum":"e255aea81e4fbd17f3c7eed0597b3a7ebc49b5522c5f7fafb47531c918aa60c7","features":{},"yanked":false}
