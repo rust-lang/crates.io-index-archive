@@ -1,1 +1,2 @@
 {"name":"rai","vers":"0.1.0","deps":[],"cksum":"4a9a05dc4d3429c1291492d57ba659a109235166e6cc471cce40a03907fbd39e","features":{},"yanked":false}
+{"name":"rai","vers":"0.2.0","deps":[{"name":"rai-core","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"71441f9d38cf19021e73c944785223984dbbe5d54bd06291898e19e8593b1f06","features":{},"yanked":false}
