@@ -1,0 +1,1 @@
+{"name":"scionnet","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2.151","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06e0011c656141fa3272282b0b81b5deed86a1715d1907a35abdce52022ae5e3","features":{},"yanked":false}
