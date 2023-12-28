@@ -1,0 +1,1 @@
+{"name":"get_local_info","vers":"0.1.0","deps":[{"name":"pnet","req":"^0.34.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1b179d675872d7783c1d507bb2be346c69716690ee06daaa50a0c9206162f247","features":{},"yanked":false}
