@@ -1,1 +1,2 @@
 {"name":"libqhyccd-sys","vers":"0.1.0","deps":[],"cksum":"d6fbdbf88b6d81e95fa8033d74c83f3670a55d7011c326dd0100b377975a3dce","features":{"vendored":[]},"yanked":false,"links":"qhyccd","rust_version":"1.64.0"}
+{"name":"libqhyccd-sys","vers":"0.1.1","deps":[],"cksum":"bc595c5422b93539f82cdf79d60c4a909d5b1ca755100b3cd62b2aa3d49db0b3","features":{"vendored":[]},"yanked":false,"links":"qhyccd","rust_version":"1.64.0"}
