@@ -1,1 +1,2 @@
 {"name":"x11_keypress_detect","vers":"0.1.0","deps":[{"name":"x11","req":"^2.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aaa73a35391b5333b7116c677710324adbb74d4441e4425b4ea914c07b481723","features":{},"yanked":false}
+{"name":"x11_keypress_detect","vers":"0.1.1","deps":[{"name":"x11","req":"^2.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c45d7cffe266df64d4dfa9d28d8e3eb63d5e53566cc076e702421e5647bb4bd","features":{},"yanked":false}
