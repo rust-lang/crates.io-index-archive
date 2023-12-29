@@ -1,0 +1,1 @@
+{"name":"x11_keypress_detect","vers":"0.1.0","deps":[{"name":"x11","req":"^2.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aaa73a35391b5333b7116c677710324adbb74d4441e4425b4ea914c07b481723","features":{},"yanked":false}
