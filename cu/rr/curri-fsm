@@ -1,1 +1,2 @@
 {"name":"curri-fsm","vers":"0.1.0","deps":[{"name":"curri","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbe3adfec5a7eb3f495a7aa0b1bba9b058e432bf6aae663ce9556b447562ea86","features":{},"yanked":false}
+{"name":"curri-fsm","vers":"0.1.1","deps":[{"name":"curri","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9324187272d83fd7f31cdcfc9c0311d805f4e2795b396d6a58edc0adaca9a4a","features":{},"yanked":false}
