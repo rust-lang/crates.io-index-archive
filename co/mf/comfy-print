@@ -1,0 +1,1 @@
+{"name":"comfy-print","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e7b95ac1e9eb3a9d2dac495e4a080ae5784dce66130a4fee4266a30ca7be2f2","features":{"async_impl":[],"default":[]},"yanked":false}
