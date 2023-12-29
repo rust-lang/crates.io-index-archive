@@ -1,1 +1,2 @@
 {"name":"ipcap","vers":"0.0.0","deps":[],"cksum":"05f814a48df5a360f31c0e91a4138373f9ca9dcb535212aaf53104a0409efcfb","features":{},"yanked":false}
+{"name":"ipcap","vers":"0.0.1","deps":[{"name":"once_cell","req":"^1.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ec05c0deb19475065866ce9430264896cecd1089624a0e8f5efb078479213ca","features":{},"yanked":false}
