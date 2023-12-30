@@ -1,3 +1,4 @@
 {"name":"type-factory","vers":"0.1.0","deps":[],"cksum":"c9242b02ca5b7ee0205aec425c7026b87542472c903c576b6552f6ae537e5e59","features":{},"yanked":false,"rust_version":"1.75"}
 {"name":"type-factory","vers":"0.2.0","deps":[],"cksum":"db067d5d315bb5f7f69b5435b03231032fcaff35df12dce462ea4ff9559e2975","features":{},"yanked":true,"rust_version":"1.56"}
 {"name":"type-factory","vers":"0.2.1","deps":[],"cksum":"e35395120909bee8c82b0cbfdc773b82e0fdc8a20d2a80f3e65eb6bb8c5035f6","features":{},"yanked":true,"rust_version":"1.56"}
+{"name":"type-factory","vers":"0.1.1","deps":[],"cksum":"51063a22302f117eb42e11ee1e8f7f92b3b8d8e5d06d37e570c33d440d387849","features":{},"yanked":false,"rust_version":"1.75"}
