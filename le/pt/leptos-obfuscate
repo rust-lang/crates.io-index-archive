@@ -1,0 +1,1 @@
+{"name":"leptos-obfuscate","vers":"0.1.0","deps":[{"name":"leptos","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"840dffee3162ff724558069044f7edea92c013dd0646af3493b321dac8f6c389","features":{},"yanked":false,"rust_version":"1.70.0"}
