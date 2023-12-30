@@ -1,0 +1,1 @@
+{"name":"tzdb_data","vers":"0.1.0-pre.1","deps":[{"name":"tz-rs","req":"^0.6.14","features":["const"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2576092772e98d40fa19787c6608b75fa9fd8322f895d3295b9fa0fca0d1e82d","features":{},"yanked":false}
