@@ -1,1 +1,2 @@
 {"name":"yaserde-examples","vers":"0.9.0","deps":[{"name":"yaserde","req":"^0.9.0","features":["yaserde_derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c04b64aa904457d6a95d88d1c4ef82a3173519b75c2674287909e03bdade9927","features":{},"yanked":false}
+{"name":"yaserde-examples","vers":"0.9.1","deps":[{"name":"yaserde","req":"^0.9.1","features":["yaserde_derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c02529da602058bd2651b1e9afb521f48d8b7962b89a3ea6c2bdbe53a9be821e","features":{},"yanked":false}
