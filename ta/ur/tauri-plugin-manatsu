@@ -1,1 +1,2 @@
 {"name":"tauri-plugin-manatsu","vers":"0.1.56","deps":[{"name":"tauri","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"65173f6af1e279b3d460965b3232cd09c77bd5de15a92394b6d03f2307d478cd","features":{},"yanked":false}
+{"name":"tauri-plugin-manatsu","vers":"0.1.57","deps":[{"name":"tauri","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"843945d7520ef08c3cfa84714a4532b990f37a582892b807549f4536e9bc5b87","features":{},"yanked":false}
