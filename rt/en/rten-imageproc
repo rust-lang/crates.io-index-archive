@@ -1,0 +1,1 @@
+{"name":"rten-imageproc","vers":"0.1.0","deps":[{"name":"rten-tensor","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13625923b2da7c2be5e242c55e623a6cb1a9f85f84c9325f0de80741d6def0da","features":{},"yanked":false}
