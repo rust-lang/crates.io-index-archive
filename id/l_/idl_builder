@@ -1,1 +1,2 @@
 {"name":"idl_builder","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0.78","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"407dce57cff32b86fadbe9bbe41ed2a48db3efe39c31a16694d27e2750cb7652","features":{},"yanked":false}
+{"name":"idl_builder","vers":"0.1.1","deps":[{"name":"anyhow","req":"^1.0.78","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9906b65e7b24b9fd7c4984af532cf08478d8e52c697848cc2e1bb3247529d6a9","features":{},"yanked":false}
