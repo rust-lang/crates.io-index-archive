@@ -1,3 +1,4 @@
 {"name":"squeal","vers":"0.0.1","deps":[],"cksum":"a7460a60ec30a08c1af7e8fda036a2d25db689e62b2b1294d863f29d83c13e3d","features":{},"yanked":false}
 {"name":"squeal","vers":"0.0.2","deps":[],"cksum":"1289104d14f31cfef6e4be8eca6654049a263e9d1f0ac573f5bca8a6bd6b62b5","features":{},"yanked":false}
 {"name":"squeal","vers":"0.0.3","deps":[{"name":"criterion","req":"^0.4","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"a918d6ede712564191ba18692b340db10fa9d0a9eeee4258e77f3c47178efa2a","features":{},"yanked":false}
+{"name":"squeal","vers":"0.0.4","deps":[{"name":"criterion","req":"^0.4","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c5d5a9df83635ed8265680d8f6bab8ef84262e1c985699d52dbc6d7036a381ff","features":{},"yanked":false}
