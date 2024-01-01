@@ -5,3 +5,4 @@
 {"name":"doubled","vers":"0.2.3","deps":[{"name":"packed_simd","req":"^0.3.8","features":["into_bits"],"optional":true,"default_features":true,"target":null,"kind":"normal","package":"packed_simd_2"}],"cksum":"3a65ea928200e8739f57a5b646aaa208c579d8c6b01f9e5247a91773c7c96d55","features":{"default":[]},"yanked":false}
 {"name":"doubled","vers":"0.3.0","deps":[],"cksum":"78333bbc3495924fe144376cf24a5dc0c841e8965d046866196b4fc0bafa85fc","features":{"default":["simd"],"simd":[]},"yanked":false}
 {"name":"doubled","vers":"0.3.1","deps":[],"cksum":"915ff59a16efb877bc011834c12107933acfb0a3aff79db0edf71a7e20c3c98b","features":{"default":["simd"],"simd":[]},"yanked":false}
+{"name":"doubled","vers":"0.3.2","deps":[],"cksum":"8f60f472d90e6b0aa29ba7e63aef46fa5441a4a852d36d950648b5468adfe3a3","features":{"default":["simd"],"simd":[]},"yanked":false}
