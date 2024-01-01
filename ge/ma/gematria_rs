@@ -1,0 +1,1 @@
+{"name":"gematria_rs","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.12","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c863bba1625c728f1ba856d81993627cb405f39094a9bb05884b07773bc0360","features":{},"yanked":false}
