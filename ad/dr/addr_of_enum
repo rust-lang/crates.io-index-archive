@@ -1,1 +1,2 @@
 {"name":"addr_of_enum","vers":"0.1.0","deps":[{"name":"addr_of_enum_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ebd65e605c317371219840f56d14bd59d6a1d598a311524fa73f91bc2119681","features":{},"yanked":false}
+{"name":"addr_of_enum","vers":"0.1.1","deps":[{"name":"addr_of_enum_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5ace83872feaf9ae35257c6c5837d8d67a854b8341d6f29cd7cb22661d19c43","features":{},"yanked":false}
