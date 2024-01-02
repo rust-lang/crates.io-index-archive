@@ -1,0 +1,1 @@
+{"name":"gitc","vers":"0.1.0","deps":[{"name":"console","req":"^0.15.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.10.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5dccfa1bd74c23fafe5520aba198402938145f61358910ce7c0dec86fd011b79","features":{},"yanked":false}
