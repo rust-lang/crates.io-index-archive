@@ -24,3 +24,4 @@
 {"name":"zuu","vers":"0.4.0","deps":[{"name":"rsbadges","req":"^1.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"246f1674c2b56a87e1d235edcee6a85f2a8814dcfee019c89b74f4217067f945","features":{},"yanked":false}
 {"name":"zuu","vers":"0.4.2","deps":[{"name":"rsbadges","req":"^1.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6ebfd41a09610268a3bee3a452628d1c907f914b5f650c6b678ab94792218b4","features":{},"yanked":false}
 {"name":"zuu","vers":"5.0.0","deps":[],"cksum":"f4fd093c5786082e37dbc6ef49c67ffc3fb12b652b9313814ed1c071bd9edd5f","features":{},"yanked":false}
+{"name":"zuu","vers":"5.0.1","deps":[],"cksum":"0798ba247910543e3949bf21a146bdcb512f2056a408534e3dbdf3e7d9d5ee52","features":{},"yanked":false}
