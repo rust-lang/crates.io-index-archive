@@ -134,3 +134,4 @@
 {"name":"cxxbridge-flags","vers":"1.0.111","deps":[],"cksum":"8511afbe34ea242697784da5cb2c5d4a0afb224ca8b136bdf93bfe180cbe5884","features":{"c++14":[],"c++17":[],"c++20":[],"default":[]},"yanked":false,"rust_version":"1.60"}
 {"name":"cxxbridge-flags","vers":"1.0.112","deps":[],"cksum":"42281b20eba5218c539295c667c18e2f50211bb11902419194c6ed1ae808e547","features":{"c++14":[],"c++17":[],"c++20":[],"default":[]},"yanked":false,"rust_version":"1.60"}
 {"name":"cxxbridge-flags","vers":"1.0.113","deps":[],"cksum":"af40b0467c68d3d9fb7550ef984edc8ad47252f703ef0f1f2d1052e0e4af8793","features":{"c++14":[],"c++17":[],"c++20":[],"default":[]},"yanked":false,"rust_version":"1.60"}
+{"name":"cxxbridge-flags","vers":"1.0.114","deps":[],"cksum":"b6981d27196cca89f82c8a89fd495cca25066d2933c974e907f7c3699801e112","features":{"c++14":[],"c++17":[],"c++20":[],"default":[]},"yanked":false,"rust_version":"1.60"}
