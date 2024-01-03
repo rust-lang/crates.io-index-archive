@@ -1,1 +1,2 @@
 {"name":"polynomials_pro","vers":"0.1.0","deps":[{"name":"num","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9df3de1d45b62022d4518a3154a903c0926352ae99c6881409e18dfaf13f9748","features":{},"yanked":false}
+{"name":"polynomials_pro","vers":"0.2.0","deps":[{"name":"num","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d6b758353597134472305b078f874cfc6d808e53b4af34b1e91c3234311906d","features":{},"yanked":false}
