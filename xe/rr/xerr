@@ -1,1 +1,2 @@
 {"name":"xerr","vers":"0.1.0","deps":[{"name":"tracing","req":"^0.1.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37cae4e7a35fc045ca8e471aab78d69d98c40f5b35b3edd14468adfac8ce9197","features":{},"yanked":false}
+{"name":"xerr","vers":"0.1.1","deps":[{"name":"tracing","req":"^0.1.40","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab3ff365fef40589de72d53b45563af009cde733ebbf28c8da5203b5c45745f7","features":{},"yanked":false}
