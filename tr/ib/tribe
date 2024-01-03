@@ -1,0 +1,1 @@
+{"name":"tribe","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"yaml-rust","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"92bc9b9ea1c95ff6b65f687241e4c0ae0a76877cfb03fc6b68488ad97371b45d","features":{},"yanked":false}
