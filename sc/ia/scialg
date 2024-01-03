@@ -1,0 +1,1 @@
+{"name":"scialg","vers":"0.1.0","deps":[{"name":"ndarray","req":"^0.15.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"486e2f7a530715b6602bad49cadcd5fb3c81738c3d8c4f601647bfd9c467b87f","features":{},"yanked":false}
