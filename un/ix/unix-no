@@ -1,1 +1,1 @@
-{"name":"unix-no","vers":"0.2.0","deps":[{"name":"clap","req":"^4.4.12","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f43e0923cdbf384f3a294edc3801526b1ee540a903c9d8328c9ce6a6db891585","features":{},"yanked":false}
+{"name":"unix-no","vers":"0.2.0","deps":[{"name":"clap","req":"^4.4.12","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f43e0923cdbf384f3a294edc3801526b1ee540a903c9d8328c9ce6a6db891585","features":{},"yanked":true}
