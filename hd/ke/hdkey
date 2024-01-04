@@ -1,0 +1,1 @@
+{"name":"hdkey","vers":"0.0.0-alpha.0","deps":[{"name":"secp256k1","req":"^0.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db95a121e0f0c8ec8c234deb2d21e6e48c1e108adef0ad36bc7fe53b4e871cb0","features":{},"yanked":false}
