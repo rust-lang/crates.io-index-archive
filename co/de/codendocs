@@ -2,3 +2,4 @@
 {"name":"codendocs","vers":"0.0.1","deps":[],"cksum":"187876dbcbe1ac2a5b4cb603620fc12bac53322c902c25bb1afe16a11a3a63e5","features":{},"yanked":false}
 {"name":"codendocs","vers":"0.0.2","deps":[{"name":"codendocs","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b2f68fcecaab6f1a791e35898ffde8d468092abdd960046463c13a77147579f8","features":{},"yanked":false}
 {"name":"codendocs","vers":"0.0.3","deps":[],"cksum":"b6d2cca0c6ba334d850e7db1060a925e89d046fe2cdcac49f7a4a3977f15aa0d","features":{},"yanked":false}
+{"name":"codendocs","vers":"0.0.6","deps":[],"cksum":"9189fe66de51372fadca7869a486f594a48f42b218611234a80b7a31076b968e","features":{},"yanked":false}
