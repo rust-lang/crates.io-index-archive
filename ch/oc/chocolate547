@@ -1,0 +1,1 @@
+{"name":"chocolate547","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.13","features":["std","cargo"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"54bbc665c055133325feffc2b85973fe9de14b435ad530ddb32e9a5bfc857d23","features":{},"yanked":false}
