@@ -1,0 +1,1 @@
+{"name":"gospin","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.11","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a20df8ddfb1d88124f25f2d41073424b1294829e20bb4ed0bc5ce4a55eeb97c9","features":{},"yanked":false}
