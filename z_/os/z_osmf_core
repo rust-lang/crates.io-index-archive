@@ -1,1 +1,2 @@
 {"name":"z_osmf_core","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"878d126a1fecdbb2f4866d99e60f5fb772fb057f1c67b43ae2e347ec197440e5","features":{},"yanked":false}
+{"name":"z_osmf_core","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53f44a50969e8d4d332a9c2511cfdd8e20dd885eb3d5b3e7d1bfe3b67f55bd39","features":{},"yanked":false}
