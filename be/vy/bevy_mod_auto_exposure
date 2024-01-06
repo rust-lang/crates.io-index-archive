@@ -1,0 +1,1 @@
+{"name":"bevy_mod_auto_exposure","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"093277da24c8b5f6c810749235d8d171192c0c2116188fb975e818e9a47ec415","features":{},"yanked":false}
