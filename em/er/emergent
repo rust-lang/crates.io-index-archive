@@ -19,3 +19,4 @@
 {"name":"emergent","vers":"1.5.11","deps":[],"cksum":"c10ed73329042929e6350ac51111ec1c62ce1b83f1aae3aa2ffce6760559e1cd","features":{"scalar64":[]},"yanked":false}
 {"name":"emergent","vers":"1.5.12","deps":[],"cksum":"f6c65a814a97cfec9aa45500219411cf715fec0a0704d7780125be270ce848f5","features":{"scalar64":[]},"yanked":false}
 {"name":"emergent","vers":"1.5.13","deps":[],"cksum":"48d7cab8555f919d2aa760e9b3d2b11d405b8e2e50133033e0796546d067af93","features":{"scalar64":[]},"yanked":false}
+{"name":"emergent","vers":"1.6.0","deps":[],"cksum":"854e7cdc491f247809cf32ac50d5093da0135c3cdd598aff126bcf22a2098042","features":{"scalar64":[]},"yanked":false}
