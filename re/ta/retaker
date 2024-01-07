@@ -1,0 +1,1 @@
+{"name":"retaker","vers":"0.1.0","deps":[{"name":"anylist","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"923790c395eabd51c08a8d9a42cf350e6aa254b70561be73b34673dcf47ca26a","features":{},"yanked":false,"rust_version":"1.56"}
