@@ -21,3 +21,4 @@
 {"name":"strsim","vers":"0.9.3","deps":[],"cksum":"6446ced80d6c486436db5c078dde11a9f73d42b57fb273121e160b84f63d894c","features":{},"yanked":false}
 {"name":"strsim","vers":"0.10.0","deps":[],"cksum":"73473c0e59e6d5812c5dfe2a064a6444949f089e20eec9a2e5506596494e4623","features":{},"yanked":false}
 {"name":"strsim","vers":"0.10.1","deps":[],"cksum":"ccbca6f34534eb78dbee83f6b2c9442fea7113f43d9e80ea320f0972ae5dc08d","features":{},"yanked":true}
+{"name":"strsim","vers":"0.11.0","deps":[],"cksum":"5ee073c9e4cd00e28217186dbe12796d692868f432bf2e97ee73bed0c56dfa01","features":{},"yanked":false}
