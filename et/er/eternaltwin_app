@@ -1,0 +1,1 @@
+{"name":"eternaltwin_app","vers":"0.13.0","deps":[{"name":"include_dir","req":"^0.7.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ed84aa629f4d5ed3161542abbbae7c22d5d54f08b5e4736b56eba604f012a85a","features":{},"yanked":false,"rust_version":"1.61.0"}
