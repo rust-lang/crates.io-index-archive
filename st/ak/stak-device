@@ -5,3 +5,4 @@
 {"name":"stak-device","vers":"0.1.5","deps":[],"cksum":"6e8111642698eb3d7ef76880647814b2fee5b65a2d5e8071f37830fd721c7157","features":{"std":[]},"yanked":false}
 {"name":"stak-device","vers":"0.1.6","deps":[],"cksum":"ebaab6c5761475aea8221405b3c357b6f346fd88902500cf53232dd981d115e6","features":{"std":[]},"yanked":false}
 {"name":"stak-device","vers":"0.1.7","deps":[],"cksum":"a2a1edc1e84904cc6589fe8adb506f8313f5730e4df19be12f66337f4c1ec4a3","features":{"std":[]},"yanked":false}
+{"name":"stak-device","vers":"0.2.0","deps":[],"cksum":"f5e87a6bed141a2499222006a311ac6b659efaa8673a085e8cbf8f6f0a0fcafa","features":{"std":[]},"yanked":false}
