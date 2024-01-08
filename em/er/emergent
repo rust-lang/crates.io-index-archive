@@ -20,3 +20,4 @@
 {"name":"emergent","vers":"1.5.12","deps":[],"cksum":"f6c65a814a97cfec9aa45500219411cf715fec0a0704d7780125be270ce848f5","features":{"scalar64":[]},"yanked":false}
 {"name":"emergent","vers":"1.5.13","deps":[],"cksum":"48d7cab8555f919d2aa760e9b3d2b11d405b8e2e50133033e0796546d067af93","features":{"scalar64":[]},"yanked":false}
 {"name":"emergent","vers":"1.6.0","deps":[],"cksum":"854e7cdc491f247809cf32ac50d5093da0135c3cdd598aff126bcf22a2098042","features":{"scalar64":[]},"yanked":false}
+{"name":"emergent","vers":"1.7.0","deps":[],"cksum":"e81a6baf6437dabfd0e7245808b5d59fe3ab527d43c2736858f7f86b5b210c63","features":{"scalar64":[]},"yanked":false}
