@@ -1,0 +1,1 @@
+{"name":"sharded-thread","vers":"0.1.0","deps":[{"name":"insta","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"lazy_static","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ca69bf734e67602c5f2341d5dc38c1f704c3765cc477ccc19aa0fe2f41598389","features":{},"yanked":false}
