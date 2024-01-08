@@ -1,0 +1,1 @@
+{"name":"stylance","vers":"0.0.1","deps":[{"name":"stylance-macros","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"292bdfb8f75021c91356099e32ab5cb04b96ec8318614cbfc72f81d129fd0a79","features":{"nightly":["stylance-macros/nightly"]},"yanked":false}
