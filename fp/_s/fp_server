@@ -8,3 +8,4 @@
 {"name":"fp_server","vers":"1.1.2","deps":[],"cksum":"0300552a0509e05b61e48b321866ff2ca12e6ec30ff70d10287c3bb2b7c7da1e","features":{},"yanked":false}
 {"name":"fp_server","vers":"1.2.0","deps":[],"cksum":"7f6b65f7608bf7748b7556cd5fe5dba28c25e01a9c00ab68e42ed40edbe6f362","features":{},"yanked":false}
 {"name":"fp_server","vers":"2.0.0","deps":[],"cksum":"02f2c6dc07ef1b52467c0429bb69964cbfa46ee1370aa84c28ff37c516074bc9","features":{},"yanked":false}
+{"name":"fp_server","vers":"2.0.1","deps":[],"cksum":"63218b950d3cf1aa19faae1f7bfaa81e07852468b23c71a4252898c93ad5b3dd","features":{},"yanked":false}
