@@ -28,3 +28,4 @@
 {"name":"communication-layer-request-reply","vers":"0.3.1-rc2","deps":[],"cksum":"28c7395ab74f01be33fa2919ca5259634b737223b002bc3231bbbfe0ed695192","features":{},"yanked":false}
 {"name":"communication-layer-request-reply","vers":"0.3.1-rc3","deps":[],"cksum":"8733304bb700567955a693eeb4df7799565281620269a8f21e50aebee88bf4ab","features":{},"yanked":false}
 {"name":"communication-layer-request-reply","vers":"0.3.1-rc4","deps":[],"cksum":"bb1fe1e0d37da7f2bca187a302e98eb4993fcaf77137020911e6257be7fc666f","features":{},"yanked":false}
+{"name":"communication-layer-request-reply","vers":"0.3.1-rc5","deps":[],"cksum":"8f9fcd0964f990257f4daef24d2a122ac59c97f2f023f059d428bcd825cb6ec5","features":{},"yanked":false}
