@@ -7,3 +7,4 @@
 {"name":"fp_server","vers":"1.1.1","deps":[],"cksum":"a9c81ef66d6f1817197b600d2b41cc35c75e94957ccd4dbf30576e617771aa60","features":{},"yanked":false}
 {"name":"fp_server","vers":"1.1.2","deps":[],"cksum":"0300552a0509e05b61e48b321866ff2ca12e6ec30ff70d10287c3bb2b7c7da1e","features":{},"yanked":false}
 {"name":"fp_server","vers":"1.2.0","deps":[],"cksum":"7f6b65f7608bf7748b7556cd5fe5dba28c25e01a9c00ab68e42ed40edbe6f362","features":{},"yanked":false}
+{"name":"fp_server","vers":"2.0.0","deps":[],"cksum":"02f2c6dc07ef1b52467c0429bb69964cbfa46ee1370aa84c28ff37c516074bc9","features":{},"yanked":false}
