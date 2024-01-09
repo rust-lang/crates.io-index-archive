@@ -1,0 +1,1 @@
+{"name":"wikitext_table_parser","vers":"0.1.0","deps":[{"name":"regex","req":"1.10.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07ff88a1956509ea5318717b479c9eb6b00fffdca4be74cb6818d7e76814f6f2","features":{},"yanked":false}
