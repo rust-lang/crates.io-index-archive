@@ -1,1 +1,2 @@
 {"name":"symcrypt-sys","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a14f060da4e10bca08bdd10e11487a47de517fcf731a788f997cf2f85bbb3988","features":{},"yanked":false}
+{"name":"symcrypt-sys","vers":"0.1.1","deps":[{"name":"libc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9cc22fd6ead546cf8a3f394b32b151468de7fb5739680e013de92c22ec979d37","features":{},"yanked":false}
