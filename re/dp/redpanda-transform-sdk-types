@@ -2,3 +2,4 @@
 {"name":"redpanda-transform-sdk-types","vers":"0.0.1-dev+edeac7a3ef","deps":[],"cksum":"08ef72d7049260f79652367fe26ee65581b9d634a44036b76fd8c6ac43ac9de5","features":{},"yanked":false}
 {"name":"redpanda-transform-sdk-types","vers":"23.3.1-rc4","deps":[],"cksum":"20fdf1abee8ca891b1f5345302fdc88720aae779d316d20a384feb1f323f9820","features":{},"yanked":false}
 {"name":"redpanda-transform-sdk-types","vers":"23.3.2-rc1","deps":[],"cksum":"701c8224be504b8e29b0864b73141a8586053caae031cf2550cc8b632a842ca4","features":{},"yanked":false}
+{"name":"redpanda-transform-sdk-types","vers":"23.3.2-rc2","deps":[],"cksum":"2bdc77d0f1913988fff96c2baf106b0fde9352169784223a50fdcd9b8bd1879e","features":{},"yanked":false}
