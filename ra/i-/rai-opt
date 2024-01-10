@@ -1,1 +1,2 @@
 {"name":"rai-opt","vers":"0.4.0","deps":[{"name":"rai-core","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21c743a5efc884479ee074d09491f48384889db10a841bcf2f5f4d8166e2ef5d","features":{},"yanked":false}
+{"name":"rai-opt","vers":"0.5.0","deps":[{"name":"rai-core","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dfe82196ddd5a9e60412f52157497f30088b66dc60912fd2e161e7858730c8b6","features":{},"yanked":false}
