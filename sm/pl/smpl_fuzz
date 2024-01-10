@@ -1,0 +1,1 @@
+{"name":"smpl_fuzz","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdc678acd65e83348683889f29db037981891b7f07c4fe236c8ae72471b00153","features":{},"yanked":false}
