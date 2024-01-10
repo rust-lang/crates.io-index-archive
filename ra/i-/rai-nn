@@ -2,3 +2,4 @@
 {"name":"rai-nn","vers":"0.2.0","deps":[],"cksum":"cbf5dc88352ce5f0a7d16aa4a48d09fe1124c877a9f34542fdca2e6f9c75818d","features":{},"yanked":false}
 {"name":"rai-nn","vers":"0.3.1","deps":[{"name":"rai-core","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ba91fc8d79a14297cc672a8d999d61475a99335fdf932deab21dca8b0a4ac808","features":{},"yanked":false}
 {"name":"rai-nn","vers":"0.4.0","deps":[{"name":"rai-core","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c47bd2d5f2fe2e5ca7f7291fa642fc12634a730516ef364bcd2c149e3145c21","features":{},"yanked":false}
+{"name":"rai-nn","vers":"0.5.0","deps":[{"name":"rai-core","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"29f6a044003671f4f8d2719e0b7cec9e50bcbe1d3a352e5f513575ef8c8aaa6d","features":{},"yanked":false}
