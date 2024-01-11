@@ -5,3 +5,4 @@
 {"name":"code-gen","vers":"0.2.2","deps":[],"cksum":"ae5669462fd12d29d0d0ec89e94f7346e88ca6394ac68fe33c47497d1262398e","features":{"java":[]},"yanked":false}
 {"name":"code-gen","vers":"0.2.3","deps":[],"cksum":"336ff6c439021885df75b19a81caf96dbe2be01093629e2b30f936f0810c368e","features":{"java":[]},"yanked":false}
 {"name":"code-gen","vers":"0.2.4","deps":[],"cksum":"daab2f27f9660927bae5971c7483f663701f3a6d43933046c5ea28167eb4d57a","features":{"java":[]},"yanked":false}
+{"name":"code-gen","vers":"0.3.0","deps":[],"cksum":"14291214cb00fcbf87f668a072ad127a2a9b842aaa61650b76a126ae6a3c735b","features":{},"yanked":false}
