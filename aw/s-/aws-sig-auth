@@ -41,3 +41,4 @@
 {"name":"aws-sig-auth","vers":"0.60.0","deps":[],"cksum":"0478d21f39a9ca0daac4b08a894372246cfbca6fe8ca13d68acd8f2a73f1e621","features":{},"yanked":false}
 {"name":"aws-sig-auth","vers":"0.61.0","deps":[],"cksum":"b2fdf7adf54bce339e309453c28a5ab6872f9fb46abf66e102562ac51173b9f1","features":{},"yanked":true}
 {"name":"aws-sig-auth","vers":"0.60.1","deps":[],"cksum":"b053d4aeb3a5761e0533d1535291de0367ae36638f2df04721c918f8b95cfa61","features":{},"yanked":false}
+{"name":"aws-sig-auth","vers":"0.60.2","deps":[],"cksum":"33c53baa617c6fedfa051709b9480e73681574c3456f9915df5ee4dbd3d5fde2","features":{},"yanked":false}
