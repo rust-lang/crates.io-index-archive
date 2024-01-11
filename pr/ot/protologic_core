@@ -12,3 +12,4 @@
 {"name":"protologic_core","vers":"4.1.0","deps":[],"cksum":"031724103c0c8d3bbdcd0eec496fa4d6d203a1fc223e0389a2d4e3ac6d577606","features":{},"yanked":false}
 {"name":"protologic_core","vers":"4.2.0","deps":[],"cksum":"f066cea6078d4f5ea4b6f48d40e5a9d3e0f6c00792f2e1deeea35b632091ee87","features":{},"yanked":false}
 {"name":"protologic_core","vers":"5.0.0","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b645eb118ea57c7b802a1be38887f5dda570631875a19478dbeb73b4c0760bb0","features":{},"yanked":false}
+{"name":"protologic_core","vers":"5.1.0","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b97a39c59ddccada9d2c77e5b542ce16a52a861bdd65cfb7381a20b537af858c","features":{"mock_protologic":[]},"yanked":false}
