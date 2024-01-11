@@ -1,1 +1,1 @@
-{"name":"minilsof","vers":"0.1.0","deps":[{"name":"glob","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3cfbf11d9ebe474703298d7968dfbfd99fbf953a1bde471b447010e42fe6a0ae","features":{},"yanked":false}
+{"name":"minilsof","vers":"0.1.0","deps":[{"name":"glob","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3cfbf11d9ebe474703298d7968dfbfd99fbf953a1bde471b447010e42fe6a0ae","features":{},"yanked":true}
