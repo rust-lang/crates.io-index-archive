@@ -1,1 +1,2 @@
 {"name":"smpl_fuzz","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdc678acd65e83348683889f29db037981891b7f07c4fe236c8ae72471b00153","features":{},"yanked":false}
+{"name":"smpl_fuzz","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be597037450e9720d96a39166b3a94fb3e8b9e93a750d1c60d46d9b45b89d397","features":{},"yanked":false}
