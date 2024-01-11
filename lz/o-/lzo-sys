@@ -1,0 +1,1 @@
+{"name":"lzo-sys","vers":"0.1.0","deps":[{"name":"cmake","req":"^0.1.50","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f618edf1fd22927ee5137aff502f438686877e2ebc3155b7b41c4d6f453594cf","features":{},"yanked":false,"rust_version":"1.66.1"}
