@@ -1,0 +1,1 @@
+{"name":"mdag","vers":"0.1.0","deps":[{"name":"hex","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sha2","req":"^0.10.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"811e11c82fedad62d9772833c28ad67735ea22dfa34f433792bd6a7f570f5c60","features":{},"yanked":false}
