@@ -1,0 +1,1 @@
+{"name":"mv","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"82eead8c98483f66e12bf4c58d376406b7b03f9c76b87b52b62eb772de3d7977","features":{},"yanked":false}
