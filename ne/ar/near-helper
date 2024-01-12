@@ -6,3 +6,4 @@
 {"name":"near-helper","vers":"0.3.0","deps":[{"name":"near-sdk","req":"=4.0.0-pre.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d4a91f63d695570beba74cbe635a9d0074aa8a9c70dade55d7190d82a923e02","features":{},"yanked":false}
 {"name":"near-helper","vers":"0.4.0","deps":[],"cksum":"28745d159899325b06c9ad74ffe2ab30a24fbe9f39b80022a5b4e34fd81a70bb","features":{},"yanked":true}
 {"name":"near-helper","vers":"0.4.1","deps":[],"cksum":"e32ab87d99c33e76dc1f0d950ee4bc31881506c46cba1c8daad3565d4b23eb4d","features":{},"yanked":false}
+{"name":"near-helper","vers":"0.5.0","deps":[],"cksum":"66fcff3d3220ab7751ea77ad3b24515216834c8af59891b69689a8e66d33ea80","features":{},"yanked":false}
