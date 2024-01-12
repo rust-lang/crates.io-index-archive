@@ -8,3 +8,4 @@
 {"name":"irox-tools","vers":"0.4.0","deps":[],"cksum":"6f30aeadff99c2006de651b4e3c4202f477bea13f56fcc6a45ad19b4268eaa05","features":{},"yanked":false}
 {"name":"irox-tools","vers":"0.4.1","deps":[],"cksum":"edaa5923558c09e39d1be47eb07f92a1a4644aa31761a9aae9453cd9383d8f71","features":{},"yanked":false}
 {"name":"irox-tools","vers":"0.5.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7f484ecc633f22f47d5692dd2d6278f1e3ab0a70c795831790943b6bbdc12c05","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"irox-tools","vers":"0.5.1","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"572832e89cdf4975a4b3bf762f9c15fea190f2163b2bdee0fa3bbea9f93517c2","features":{"default":["std"],"std":[]},"yanked":false}
