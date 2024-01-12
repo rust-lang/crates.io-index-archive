@@ -5,3 +5,4 @@
 {"name":"display-interface","vers":"0.3.0","deps":[],"cksum":"a292123fd3fe14e0e3fe9138f5bfa23e0f0030f3d373d0186af1573868c7d29c","features":{},"yanked":false}
 {"name":"display-interface","vers":"0.4.0","deps":[],"cksum":"da12a892db5cce95ae247e8803dc653b1a73da3b0450f7983eb518dd54f583cf","features":{},"yanked":false}
 {"name":"display-interface","vers":"0.4.1","deps":[],"cksum":"7517c040926d7b02b111884aa089177db80878533127f7c1b480d852c5fb4112","features":{},"yanked":false}
+{"name":"display-interface","vers":"0.5.0","deps":[{"name":"defmt","req":"^0.3","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ba2aab1ef3793e6f7804162debb5ac5edb93b3d650fbcc5aeb72fcd0e6c03a0","features":{"default":[]},"features2":{"defmt-03":["dep:defmt"]},"yanked":false,"rust_version":"1.75","v":2}
