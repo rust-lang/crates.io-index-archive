@@ -1,0 +1,1 @@
+{"name":"chadfetch","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.152","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"891cd108b2d23be058f1954aaf31e8404e4769af3da3f699ec3f924ec3a2c35e","features":{},"yanked":false}
