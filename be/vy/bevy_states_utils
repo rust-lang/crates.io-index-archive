@@ -1,0 +1,1 @@
+{"name":"bevy_states_utils","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.12","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2a875e1809632292691adfbc27f8f94d72e2c254f8dfc6cdd80407b02504bb1f","features":{"default":["gc","nested"],"gc":[],"nested":[]},"yanked":false}
