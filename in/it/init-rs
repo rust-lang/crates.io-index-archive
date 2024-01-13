@@ -1,1 +1,2 @@
 {"name":"init-rs","vers":"0.0.1","deps":[],"cksum":"e687bd692047720068e583df04bbe01883b09797ce0432f60c44aa7a469d1053","features":{},"yanked":false}
+{"name":"init-rs","vers":"0.0.2","deps":[],"cksum":"e692c720b35932a51553545e1eeed20dbad88e66234be8785a68f9a4192daad1","features":{"default":["just"],"fd":[],"just":[]},"yanked":false}
