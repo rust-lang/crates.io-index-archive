@@ -1,1 +1,2 @@
 {"name":"viewstamped-replication","vers":"0.1.0","deps":[],"cksum":"654db15e828edd2209508e98828881aa16dfee8accf152191f1f6849085a4d87","features":{"default":[]},"yanked":false}
+{"name":"viewstamped-replication","vers":"0.2.0","deps":[{"name":"uuid","req":"^1.6.1","features":["v7"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"938bba88f15348ea2896ea39151c6e079ce91b5e3963a30eb87f5fd8c49f1c2c","features":{"default":[]},"yanked":false}
