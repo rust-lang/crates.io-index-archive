@@ -1,0 +1,1 @@
+{"name":"implied-vol","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1172eeff6ac1e6a11d4cc9866834b4724c1f7c9cb148668f14c77f9b1b27448d","features":{},"yanked":false}
