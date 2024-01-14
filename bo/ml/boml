@@ -1,0 +1,1 @@
+{"name":"boml","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.11","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1bfe89dc117318526c8d8acf2b9f3a7d863fb453dfd71260b6967e2e74abf998","features":{},"yanked":false}
