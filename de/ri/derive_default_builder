@@ -1,0 +1,1 @@
+{"name":"derive_default_builder","vers":"0.1.2","deps":[{"name":"derive_default_builder_derive","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89903be7e7d7a5876c0fad682a81611c2959751e1e5d8def095f685cb9bfbdda","features":{},"yanked":false}
