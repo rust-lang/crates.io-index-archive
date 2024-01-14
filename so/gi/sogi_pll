@@ -1,0 +1,1 @@
+{"name":"sogi_pll","vers":"0.1.0","deps":[{"name":"pid","req":"^4.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"721cf21523f9eb822f11f1aa0612a41be27c2c28fcff56d22899deeca6423086","features":{},"yanked":false}
