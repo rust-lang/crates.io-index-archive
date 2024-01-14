@@ -1,0 +1,1 @@
+{"name":"ht16k33-async","vers":"0.0.0","deps":[{"name":"embedded-hal-async","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e649504b481a9c181d26bf4a5f6a4ada315115185e2494e48e332202a95bdac","features":{},"yanked":false}
