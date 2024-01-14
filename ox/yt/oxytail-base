@@ -1,0 +1,1 @@
+{"name":"oxytail-base","vers":"0.1.0","deps":[{"name":"floem","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2df1542aaf9bef87674e7a122d505b0922e2a371b705fac645baf8afc9eaf55","features":{},"yanked":false,"rust_version":"1.75"}
