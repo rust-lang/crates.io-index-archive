@@ -1,1 +1,2 @@
 {"name":"rs-measures","vers":"0.0.0","deps":[{"name":"nalgebra","req":"^0.32.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c101ff06aea844d3ee376039cc8aa5ee8ba44505d3efcfc7c99eb68d1b08b910","features":{},"yanked":false}
+{"name":"rs-measures","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.32.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fafe162c82b0e465051c212fa2a1c0f5923b160c16eac4592bc7851672ef64cf","features":{},"yanked":false}
