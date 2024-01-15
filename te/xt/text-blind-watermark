@@ -1,1 +1,2 @@
 {"name":"text-blind-watermark","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b919558f66a980e3c13ba0c5fe33a4c85cd047a0eee9d097b970a7b23d556a2","features":{},"yanked":false}
+{"name":"text-blind-watermark","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87257f7a02d824a435ac06067e472774ef81ade8ed5e1b3bd0b26bde63a7fc5b","features":{},"yanked":false}
