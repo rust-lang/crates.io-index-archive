@@ -1,0 +1,1 @@
+{"name":"full2half","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.16","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7656c6568f5cebf4dc4848e2997ad62b2a1ad1a83531294bbc4ede1921b9af21","features":{},"yanked":false}
