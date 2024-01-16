@@ -4,3 +4,4 @@
 {"name":"near-stable-hasher","vers":"0.17.0","deps":[],"cksum":"769a3c0fcaf0686efb1e103cb5a50c62653ac5c1312a6eb910f6c7fe0158e36f","features":{},"yanked":false,"rust_version":"1.69.0"}
 {"name":"near-stable-hasher","vers":"0.19.0-pre.2","deps":[],"cksum":"f40fcc08d237373a8d66c808ea9ef7152d36ab9040f3ee177cd3fb38f1281d4e","features":{},"yanked":false}
 {"name":"near-stable-hasher","vers":"0.19.0","deps":[],"cksum":"da3e5583feab7375eaf68d9a59e81fa4c5ca54b1233db0d0c49ad31731882c7f","features":{},"yanked":false}
+{"name":"near-stable-hasher","vers":"0.20.0","deps":[],"cksum":"86e992c0ce88b44689783cdff5c3fbd017fff426cc6f079f39555a1035849fb9","features":{},"yanked":false}
