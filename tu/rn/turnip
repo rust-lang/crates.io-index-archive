@@ -4,3 +4,4 @@
 {"name":"turnip","vers":"1.0.2","deps":[],"cksum":"0ecf864c263f521e1cf7799d51f6963489f9ca44225ca44c9aa7888ee43d7573","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"turnip","vers":"1.1.0","deps":[],"cksum":"9830113260ef846c64605c37b586675ec607d0539a3cbb1bced18b0210b66020","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"turnip","vers":"1.1.1","deps":[],"cksum":"87688f976e7ae7456c1fe60911bf88c7409264654b46882227b4c2729c40c772","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"turnip","vers":"1.1.2","deps":[],"cksum":"3ff884d14f0edbead012af4200cad399deac199a8ddcec8bc5f950c4a8656499","features":{},"yanked":false,"rust_version":"1.56.0"}
