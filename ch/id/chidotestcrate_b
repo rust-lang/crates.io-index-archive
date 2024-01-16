@@ -1,0 +1,1 @@
+{"name":"chidotestcrate_b","vers":"0.1.0","deps":[{"name":"chidotestcrate_a","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e55082de2c456b7b8c1bef99e90df34fa7841e8f427c318caea2d15804182499","features":{},"yanked":false}
