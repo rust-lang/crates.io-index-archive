@@ -1,0 +1,1 @@
+{"name":"sicompiler","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.13","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62489e1f2dcab869a9ba78e6016e97633b80f9d12596fb29ba3117f96f843a83","features":{},"yanked":false}
