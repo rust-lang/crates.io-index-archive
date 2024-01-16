@@ -7,3 +7,4 @@
 {"name":"near-stdx","vers":"0.19.0-pre.1","deps":[],"cksum":"1a5bb36888bd52b06ad3814ee1ba0f0b464ad9b1505bf3b2e5d04f11a4f0df39","features":{},"yanked":false}
 {"name":"near-stdx","vers":"0.19.0-pre.2","deps":[],"cksum":"3895434c92905443151921ed97d0054673aea0f75a75b93967dbf7a2e1ad99f6","features":{},"yanked":false}
 {"name":"near-stdx","vers":"0.19.0","deps":[],"cksum":"8ae2d331bd3597b4ed6b2e00b37b04231f37d1f8ba9a3fa1e8968a2345f68932","features":{},"yanked":false}
+{"name":"near-stdx","vers":"0.20.0","deps":[],"cksum":"f6cc34a471c6e01f9dafa6aaa2d0553a3fe859dbb0d7fc73ca73f72731392226","features":{},"yanked":false}
