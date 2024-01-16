@@ -1,0 +1,1 @@
+{"name":"wei-file","vers":"0.1.1","deps":[{"name":"lzma-rs","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d60c30ca7ffa66e1f4566f32e9854ca00e898f1ee84f2044ecfcbae333fae73","features":{},"yanked":false}
