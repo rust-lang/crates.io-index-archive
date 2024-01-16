@@ -1,0 +1,1 @@
+{"name":"dandy","vers":"0.1.0","deps":[{"name":"nom","req":"^7.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1.0.56","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad065e15d84a7b6f98b85e3f0769f83bdd415240e22f18e36f97f2d4845938ac","features":{},"yanked":false}
