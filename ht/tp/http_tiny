@@ -7,3 +7,4 @@
 {"name":"http_tiny","vers":"2.0.0-pre.0","deps":[{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46c18433470c03e1f5971bb2370126cdcb4f5a915a2763467e71f08513e2823a","features":{},"yanked":false}
 {"name":"http_tiny","vers":"2.0.0-pre.1","deps":[],"cksum":"dcb31b3251c4408fbb551ca378117d9aea09d7929bb571aae8a695d2aeda2cae","features":{},"yanked":false}
 {"name":"http_tiny","vers":"2.0.0-pre.2","deps":[],"cksum":"e5ef6720a743e7e6d97e501c4adb77ecdd259afbe200f01ac0b14824352e4fdc","features":{},"yanked":false}
+{"name":"http_tiny","vers":"2.0.0-pre.3","deps":[],"cksum":"688a930a36d8e9999faf559ee5605f5863c45806c29fa0dd1ee6f7a145c8ddce","features":{},"yanked":false}
