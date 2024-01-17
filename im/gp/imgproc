@@ -1,0 +1,1 @@
+{"name":"imgproc","vers":"0.1.0","deps":[{"name":"yuv-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1300e95baa9c94717c347b23b98ef81c528718db0593f74275d26ae78db1be93","features":{},"yanked":false}
