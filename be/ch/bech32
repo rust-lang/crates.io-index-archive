@@ -20,4 +20,4 @@
 {"name":"bech32","vers":"0.10.0-alpha","deps":[],"cksum":"81cc1dec4c25e5a78c52802eda8e2adf0d2aca57ffc536326b75c0e531ea0a9b","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
 {"name":"bech32","vers":"0.10.0-beta","deps":[],"cksum":"98f7eed2b2781a6f0b5c903471d48e15f56fb4e1165df8a9a2337fd1a59d45ea","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
 {"name":"bech32","vers":"0.10.0-beta2","deps":[],"cksum":"4175000e8652782d46722b7fc3f1f29698963248934ac0673b4697eb46994c51","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":true}
-{"name":"bech32","vers":"0.10.0-beta.2","deps":[],"cksum":"df0e5f0112238af92c3173629b55b79966bedcf6516b113386d069aeb044c008","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
+{"name":"bech32","vers":"0.10.0-beta.2","deps":[],"cksum":"df0e5f0112238af92c3173629b55b79966bedcf6516b113386d069aeb044c008","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":true}
