@@ -1,0 +1,1 @@
+{"name":"gomod-parser","vers":"0.0.1","deps":[{"name":"winnow","req":"^0.5.34","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07b53a553621681450f349fbeb37bf5f3a035c5b74faf958446cf0590983c80a","features":{},"yanked":false,"rust_version":"1.64"}
