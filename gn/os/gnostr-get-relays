@@ -1,0 +1,1 @@
+{"name":"gnostr-get-relays","vers":"0.0.0","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ce22fea5acd693a5977fcab3673d90d8f351b01e8a787c0d0bcd14dd0246455","features":{},"yanked":false}
