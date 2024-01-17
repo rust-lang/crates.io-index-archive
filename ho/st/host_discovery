@@ -20,6 +20,6 @@
 {"name":"host_discovery","vers":"1.2.1","deps":[],"cksum":"c832ad0445bb7ae636e79f2a5e46754a8b596f5a9e1af50a570f2627719e83e6","features":{},"yanked":true}
 {"name":"host_discovery","vers":"1.2.2","deps":[],"cksum":"23def150e625889db19fba0c59ed7af9f997e0d362bf7903d7a20a166cec79ca","features":{},"yanked":true}
 {"name":"host_discovery","vers":"1.2.3","deps":[],"cksum":"f0c7828432e21d578af6eed98e66709404b971773bb94c48fb8b919668a580ac","features":{},"yanked":true}
-{"name":"host_discovery","vers":"1.2.5","deps":[],"cksum":"f83e5a035d924c0a2ddf54a03de303c9848d62085848b78bf1cf1e5b922de0d6","features":{},"yanked":true}
+{"name":"host_discovery","vers":"1.2.5","deps":[],"cksum":"f83e5a035d924c0a2ddf54a03de303c9848d62085848b78bf1cf1e5b922de0d6","features":{},"yanked":false}
 {"name":"host_discovery","vers":"1.3.0","deps":[{"name":"winreg","req":"^0.52.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50fa9901f0d601cb7ee7e449336a3873a4bc03937f4fffbd726eb65208c96d46","features":{},"yanked":false}
 {"name":"host_discovery","vers":"1.3.1","deps":[{"name":"winreg","req":"^0.52.0","features":[],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"393a460fa626788ecae95391193a59cf246445bec24101f72f8329777ad37e7b","features":{},"yanked":false}
