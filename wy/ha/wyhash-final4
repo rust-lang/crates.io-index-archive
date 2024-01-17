@@ -1,0 +1,1 @@
+{"name":"wyhash-final4","vers":"0.1.0","deps":[],"cksum":"3bf469f952c46cf2784465e8f6f744fd4cfcbed08da841691798e5a20540155b","features":{"default":["wyhash32","wyhash32condom","wyhash64","wyhash64condom","std"],"std":[],"wyhash32":[],"wyhash32condom":[],"wyhash64":[],"wyhash64condom":[]},"yanked":false}
