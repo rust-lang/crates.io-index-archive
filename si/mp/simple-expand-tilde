@@ -1,1 +1,2 @@
 {"name":"simple-expand-tilde","vers":"0.1.0","deps":[{"name":"simple-home-dir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"752072a2d9fbc2a3423e6fe360cd2d59848c563ce87f7a429ef11fed825ba8ff","features":{},"yanked":false}
+{"name":"simple-expand-tilde","vers":"0.1.1","deps":[{"name":"simple-home-dir","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5dbdd99f51ab2a30f73dcf79fe42bdfa47b448960451074533c9328a2352427c","features":{},"yanked":false}
