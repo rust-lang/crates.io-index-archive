@@ -14,3 +14,4 @@
 {"name":"sqlite-rs","vers":"0.3.2","deps":[],"cksum":"8d89905fd7c9733beed663b4a88a51b213c151e873966bdb769adc37572f86d4","features":{"default":["log"],"log":[]},"yanked":false,"rust_version":"1.74.1"}
 {"name":"sqlite-rs","vers":"0.3.3","deps":[],"cksum":"4ba125ed8f691d02f72a7fbf9784ee04900dc0f963e4e057ad20ff9c0f1e7022","features":{"default":["log"],"log":[]},"yanked":false,"rust_version":"1.74.1"}
 {"name":"sqlite-rs","vers":"0.3.4","deps":[],"cksum":"3ec0bc7fb7e2f108bfcf045b965f0f126a8dcc166c5012d84fd654bb9260c1a7","features":{"default":["log"],"log":[]},"yanked":false,"rust_version":"1.74.1"}
+{"name":"sqlite-rs","vers":"0.3.5","deps":[],"cksum":"793a3c3af6ed6d22b5da8a3870633954849dabe16423ae29e768e8ff9a8b83bc","features":{"default":["log"],"log":[]},"yanked":false,"rust_version":"1.74.1"}
