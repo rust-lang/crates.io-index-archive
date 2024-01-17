@@ -12,7 +12,7 @@
 {"name":"host_discovery","vers":"1.0.3","deps":[],"cksum":"c1bd4a7df7f0a160699c89fc8dd8005cd6001730c52e317f5c86f75c29b3357a","features":{},"yanked":true}
 {"name":"host_discovery","vers":"1.0.4","deps":[],"cksum":"3cb100ec879176705deeb85f57f909996f715711f86f585a8fd03abe4276725c","features":{},"yanked":true}
 {"name":"host_discovery","vers":"1.0.5","deps":[],"cksum":"1f3f54064f36d02deff7ec2d78281963a590c077659b495bdf195be7cb540579","features":{},"yanked":true}
-{"name":"host_discovery","vers":"1.0.6","deps":[],"cksum":"0214dad4828885f555d96aa20e2400c503d6277bb4206f04dad909db3dba8ae0","features":{},"yanked":true}
+{"name":"host_discovery","vers":"1.0.6","deps":[],"cksum":"0214dad4828885f555d96aa20e2400c503d6277bb4206f04dad909db3dba8ae0","features":{},"yanked":false}
 {"name":"host_discovery","vers":"1.0.7","deps":[],"cksum":"18fbaba56af35c2a23fc82d292c049071c5fe319fe0ea634eb29f0baf929e46c","features":{},"yanked":false}
 {"name":"host_discovery","vers":"1.0.8","deps":[],"cksum":"abe775da0a2007930c61916cfa887cc15ff9a1a230aa11d0e1ab1d68fcb7ab6e","features":{},"yanked":false}
 {"name":"host_discovery","vers":"1.0.9","deps":[],"cksum":"989fc37291a0ca8d4f707adfecbfdff81441ff18989b44f9ff5d781efd4c71e1","features":{},"yanked":false}
