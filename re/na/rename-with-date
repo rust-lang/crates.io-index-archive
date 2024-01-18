@@ -1,0 +1,1 @@
+{"name":"rename-with-date","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a496665725dc6f1173636e27b0ac4fd23b335203bd771d8279bb00381d7a1205","features":{},"yanked":false}
