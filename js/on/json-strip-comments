@@ -1,0 +1,1 @@
+{"name":"json-strip-comments","vers":"1.0.0","deps":[{"name":"serde_json","req":"^1.0.111","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b442c0bbe6e62c842306bd5bf67c0b4ea7f3d825d35e485c71ddc503a73e3ddd","features":{},"yanked":false}
