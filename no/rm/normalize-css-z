@@ -14,3 +14,4 @@
 {"name":"normalize-css-z","vers":"0.5.0","deps":[],"cksum":"2eca59f2d0b54617e0e9063399427c3a4b0e42257898b2d8cfb44f63e5a96c20","features":{},"yanked":false}
 {"name":"normalize-css-z","vers":"0.5.1","deps":[],"cksum":"ae1a12475f1ee6322a4fcc3e960b5a692ef48a6cc25509098f944d6e7b857c04","features":{},"yanked":false}
 {"name":"normalize-css-z","vers":"0.6.0","deps":[],"cksum":"8e1aecda992fd21afe468d31a95f22fbf1439aedb5eb26579e69a4577f23be4c","features":{"custom":[]},"yanked":false}
+{"name":"normalize-css-z","vers":"0.6.1","deps":[],"cksum":"bc51d770ed4c4eecbe640c0330841019739a2415cd5c39a2d17fbf2def992505","features":{"custom":[]},"yanked":false}
