@@ -1,0 +1,1 @@
+{"name":"io_ring","vers":"0.0.1","deps":[{"name":"rustix","req":"^0.38","features":["io_uring"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"89676458d841ef4b20137a54f8c031c98408b92ed58e30b18b04ec97d46c45b4","features":{},"yanked":false,"links":"uring-ffi"}
