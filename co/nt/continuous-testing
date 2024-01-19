@@ -26,3 +26,4 @@
 {"name":"continuous-testing","vers":"1.1.1","deps":[],"cksum":"2e62fed8c88c04a04514e390f706a76e532d256a385db3173b1c0ae1340a7f90","features":{},"yanked":false}
 {"name":"continuous-testing","vers":"1.1.2","deps":[],"cksum":"93262dc3ab1995329671abc612ba48086377593a79020507de25180ae28bbff9","features":{},"yanked":false}
 {"name":"continuous-testing","vers":"1.1.3","deps":[],"cksum":"1019b5c8f65619fb020bdcd331504e3ac5d821ed044d00503041c87feb2a5f65","features":{},"yanked":false}
+{"name":"continuous-testing","vers":"2.0.0","deps":[{"name":"marked-yaml","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"notifme","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d545f57571c48d09ff62cfea8ecd78626f90c62e6237431277e499798535d435","features":{},"yanked":false}
