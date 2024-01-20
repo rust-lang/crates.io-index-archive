@@ -1,0 +1,1 @@
+{"name":"rust-netrc","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.56","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a64b583729f2e5829efef09c26c47a4e19da4edcb8c9af2ec2047e07d7a01fd","features":{},"yanked":false}
