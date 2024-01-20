@@ -1,0 +1,1 @@
+{"name":"maelstrom-simex","vers":"0.4.0","deps":[{"name":"num","req":"^0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d272a9b2ea64b6b68aa3d371f647307b13e694469ed5217cc0b6d958952ab46","features":{},"yanked":false,"rust_version":"1.75"}
