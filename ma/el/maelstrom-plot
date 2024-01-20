@@ -1,0 +1,1 @@
+{"name":"maelstrom-plot","vers":"0.4.0","deps":[{"name":"egui","req":"^0.23","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"041a07ec5a46d677b879bef517e5325bb8648d564c43dc0dff736c10a8e3d3da","features":{},"yanked":false,"rust_version":"1.75"}
