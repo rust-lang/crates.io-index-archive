@@ -1,0 +1,1 @@
+{"name":"format-struct","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"943b3b431606839a5601954d8732a5369c4f97610a870ffe0a7597028bf670ec","features":{"std":[]},"yanked":false,"rust_version":"1.56"}
