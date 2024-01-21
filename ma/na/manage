@@ -1,0 +1,1 @@
+{"name":"manage","vers":"0.1.0","deps":[{"name":"log","req":"^0.4.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"serial_test","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9f1f2c3833c4c2b7f6afe313deb21f97fe63c70b4a0102dd2dbbd89360364e47","features":{},"yanked":false}
