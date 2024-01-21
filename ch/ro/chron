@@ -3,3 +3,4 @@
 {"name":"chron","vers":"0.1.1","deps":[],"cksum":"0e7b644ac23ce117d20a44cae2a34f4a59bb6d619c897d51532ede4980b4954e","features":{},"yanked":false}
 {"name":"chron","vers":"0.1.2","deps":[{"name":"ctrlc","req":"^3.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ff5e4620702cf5f0f642ac533cc437fa4c48e6f5c4581667d63feeabbf7f2ed0","features":{},"yanked":false}
 {"name":"chron","vers":"0.1.3","deps":[{"name":"ctrlc","req":"^3.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d6ddbfd36a12fb2da14f1f0324d376779c9680dbeffca5ca2794c46c03083b8b","features":{},"yanked":false}
+{"name":"chron","vers":"0.1.4","deps":[{"name":"ctrlc","req":"^3.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4f7c74be118a4ffd2b01f1f15000a0457ed029cb9ce40d1057666fa59c7aa61a","features":{},"yanked":false}
