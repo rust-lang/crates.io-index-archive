@@ -1,0 +1,1 @@
+{"name":"vm_translator","vers":"0.1.0","deps":[{"name":"phf","req":"^0.11.2","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"40d0be31c982aaed3aec3594549e2297575e25ded851b0ce801472e1712efda9","features":{},"yanked":false}
