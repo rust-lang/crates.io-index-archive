@@ -1,0 +1,1 @@
+{"name":"maelstrom-worker-child","vers":"0.4.1","deps":[{"name":"nc","req":"^0.8.18","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f16f5a093aa10a64b0bc0e606459b1e433b62510262bdfc266be59a30983a2be","features":{},"yanked":false,"rust_version":"1.75"}
