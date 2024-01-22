@@ -3,3 +3,4 @@
 {"name":"shlex","vers":"1.0.0","deps":[],"cksum":"42a568c8f2cd051a4d283bd6eb0343ac214c1b0f1ac19f93e1175b2dee38c73d","features":{},"yanked":false}
 {"name":"shlex","vers":"1.1.0","deps":[],"cksum":"43b2853a4d09f215c24cc5489c992ce46052d359b5109343cbafbf26bc62f8a3","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"shlex","vers":"1.2.0","deps":[],"cksum":"a7cee0529a6d40f580e7a5e6c495c8fbfe21b7b52795ed4bb5e62cdf92bc6380","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"shlex","vers":"1.2.1","deps":[],"cksum":"a2beddea41c2e08de73f2874f8b21cc2c3f42f08d8ffc30587e1e4847d3cf67f","features":{"default":["std"],"std":[]},"yanked":false}
