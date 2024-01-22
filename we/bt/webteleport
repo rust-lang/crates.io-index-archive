@@ -1,0 +1,1 @@
+{"name":"webteleport","vers":"0.0.0","deps":[{"name":"altsvc","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"url","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73c3ddea756984a5981001b9bb83848f5f8e063e63830be753066d6de3a146e2","features":{},"yanked":false}
