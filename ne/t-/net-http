@@ -1,1 +1,2 @@
 {"name":"net-http","vers":"0.1.0","deps":[],"cksum":"8ae1c6abea4ac46ea07636587a699a5e0131156d21e40eab333f9e199d257f46","features":{},"yanked":false}
+{"name":"net-http","vers":"0.0.0","deps":[{"name":"net","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ffae75c1c62c3abcfc5f7aab30fc853a0b123233267b04e7e61a75f63ce571f5","features":{},"yanked":false}
