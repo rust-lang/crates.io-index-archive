@@ -1,2 +1,3 @@
 {"name":"pavex_reflection","vers":"0.1.0","deps":[],"cksum":"41d1180753f587104a290f46186cc749f0a28af9c075b41f9d2cf9e619c4f897","features":{},"yanked":false}
 {"name":"pavex_reflection","vers":"0.1.9","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de7fb64ebdf71568d38a17c193bec3b9260c2d6da12eede519a7319f2f05fc69","features":{},"yanked":false}
+{"name":"pavex_reflection","vers":"0.1.10","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e4541ef8dd25b4aaa5124d96cc7a253b3c6497dd602227cb0678245daa85844d","features":{},"yanked":false}
