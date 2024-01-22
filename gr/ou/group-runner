@@ -1,0 +1,1 @@
+{"name":"group-runner","vers":"0.1.0","deps":[{"name":"snapbox","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2820e5c2998709f38242e83754a47a7b534c97033d10e7b06616d1c95e218e50","features":{},"yanked":false}
