@@ -1,1 +1,2 @@
 {"name":"messaging","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.44","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f6de58b078fb504dc18d8ee00a8af22495660059a866de0d7b6f9359f320f81","features":{},"yanked":false}
+{"name":"messaging","vers":"1.0.1","deps":[{"name":"thiserror","req":"^1.0.44","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a97a69e1fc85e9ab52f1f27c9a742af1a01d24651d2d0dc99a8550340c6fd124","features":{},"yanked":false}
