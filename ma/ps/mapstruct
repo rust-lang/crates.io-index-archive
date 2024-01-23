@@ -1,0 +1,1 @@
+{"name":"mapstruct","vers":"0.1.0","deps":[{"name":"mapstruct-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a370e2910b89dda42cae2351eb99c195c8f4583187e17922f31444c66df87dd1","features":{},"yanked":false}
