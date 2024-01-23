@@ -3,3 +3,4 @@
 {"name":"option_trait","vers":"0.1.2","deps":[],"cksum":"9c4b7c035fa3f9943f68695b12c861b6f47cc0bcb1fc3d88abe2c1edf05ddc23","features":{},"yanked":false}
 {"name":"option_trait","vers":"0.1.3","deps":[],"cksum":"0ecd91df48579fc468aab4152b4433f6e01286226ee88e9661cd565d3b785ce6","features":{},"yanked":false}
 {"name":"option_trait","vers":"0.1.4","deps":[{"name":"moddef","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aaff76f0003d56f437f2d3cb263cc43d8d75d8e986ffba5d2cbaf4531ec71973","features":{},"yanked":false}
+{"name":"option_trait","vers":"0.1.5","deps":[{"name":"moddef","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"734f700f29701243c6db25d678cb6172d6a2de053cb1e0cd4a938b947ada2d7a","features":{},"yanked":false}
