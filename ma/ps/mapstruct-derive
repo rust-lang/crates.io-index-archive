@@ -1,1 +1,2 @@
 {"name":"mapstruct-derive","vers":"0.1.0","deps":[{"name":"mapstruct-derive-lib","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"01fe8214325300659aaf825bb5b257bfcdff63de000ba683fdb9e652374b315b","features":{},"yanked":false}
+{"name":"mapstruct-derive","vers":"0.2.0","deps":[{"name":"mapstruct-derive-lib","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2864a2ecaedd811ae9eda02f1a1f1eea182d2d824580b0e9836c3f5ce6a76843","features":{},"yanked":false}
