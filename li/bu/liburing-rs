@@ -1,0 +1,1 @@
+{"name":"liburing-rs","vers":"0.1.0","deps":[{"name":"libc","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f53c21bcb9b8328a95881829cfb7b1d3c410ba12b759674baba18a8dcb661735","features":{},"yanked":false}
