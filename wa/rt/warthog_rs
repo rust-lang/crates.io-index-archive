@@ -1,1 +1,2 @@
 {"name":"warthog_rs","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.11.23","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3fff247da9d1a75fba553f3dbe1fcac31bee2a6799c9c3683bfbbc9e67c4f531","features":{},"yanked":false}
+{"name":"warthog_rs","vers":"0.1.1","deps":[{"name":"reqwest","req":"^0.11.23","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c001886c6190f7a245595236d1318d8e8c19f8a952c5ae8eb45b0de586e63e6","features":{},"yanked":false}
