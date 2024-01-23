@@ -1,1 +1,2 @@
 {"name":"tomt_async","vers":"0.1.0","deps":[],"cksum":"bccab42a4f813e7591ac79012ab576f7746582f434e59ee665116c682b31bb86","features":{"default":["sync"],"sync":[]},"yanked":false}
+{"name":"tomt_async","vers":"0.1.1","deps":[],"cksum":"b7e2910dcc2c402d8fe926114acc1419a68897ff0b4d97c577361cafb0140015","features":{"default":["sync"],"sync":[]},"yanked":false}
