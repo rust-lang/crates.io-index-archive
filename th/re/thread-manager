@@ -11,3 +11,4 @@
 {"name":"thread-manager","vers":"0.8.1","deps":[],"cksum":"d2e9dbe07092ee2c968c4905568a2f9d5f152aee242848368378ffff3c694099","features":{},"yanked":false}
 {"name":"thread-manager","vers":"0.9.0","deps":[],"cksum":"baee83dd76c764222592447f50a18fa1e731e641d283052d728039b553273da8","features":{},"yanked":false}
 {"name":"thread-manager","vers":"0.9.1","deps":[],"cksum":"6edb2b74a76a01085859074c4bd0f27004dfc9dfdbf5d1fd4cbee821cc2a5caf","features":{},"yanked":false}
+{"name":"thread-manager","vers":"0.9.2","deps":[],"cksum":"3071deda039b55b5f8af0c21b4c0018dd149dfa60ee042283b56f03c100227d6","features":{},"yanked":false}
