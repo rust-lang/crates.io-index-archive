@@ -1,1 +1,2 @@
 {"name":"group-runner","vers":"0.1.0","deps":[{"name":"snapbox","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2820e5c2998709f38242e83754a47a7b534c97033d10e7b06616d1c95e218e50","features":{},"yanked":false}
+{"name":"group-runner","vers":"0.1.1","deps":[{"name":"snapbox","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9854c44781da647eeb67046415b3b7fddfb5002be4e06c6920bc2c926d366faa","features":{},"yanked":false}
