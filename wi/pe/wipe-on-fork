@@ -1,0 +1,1 @@
+{"name":"wipe-on-fork","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.152","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"53d3124b583b742631ebdececea88d8bd62e82f7167b4771d2a29cee548528df","features":{},"yanked":false}
