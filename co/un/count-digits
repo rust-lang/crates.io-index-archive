@@ -1,1 +1,2 @@
 {"name":"count-digits","vers":"0.1.0","deps":[{"name":"paste","req":"^1.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"581aa29e4ff889b9522318c79775b35d1ff803e21701265633412005a5c23508","features":{},"yanked":false,"rust_version":"1.67.1"}
+{"name":"count-digits","vers":"0.2.0","deps":[{"name":"paste","req":"^1.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"962030a2f2c69fe35fa1c126b9059bad7f9375c6d0c62f4c7622d5b7ca1cb4b7","features":{},"yanked":false,"rust_version":"1.71.1"}
