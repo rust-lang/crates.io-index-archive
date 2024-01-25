@@ -1,0 +1,1 @@
+{"name":"jlabel","vers":"0.1.0","deps":[{"name":"thiserror","req":"^1.0.56","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c1b4f31a89c90b6caf4b539834fe9beba59386e85a59cc8396a4c5a3bfee831","features":{},"yanked":false,"rust_version":"1.65.0"}
