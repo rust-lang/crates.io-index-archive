@@ -8,3 +8,4 @@
 {"name":"redpanda-transform-sdk-types","vers":"0.1.0","deps":[],"cksum":"2d5977b3d34211265c1f29f57e09282a4012f64066d14178c70d049c10bde5bc","features":{},"yanked":false}
 {"name":"redpanda-transform-sdk-types","vers":"23.3.3-rc1","deps":[],"cksum":"5c27dedbb32420686b3c247c4b6217dcc37e5cb1dd6a6ac238b06d8c5c241799","features":{},"yanked":false}
 {"name":"redpanda-transform-sdk-types","vers":"23.3.3","deps":[],"cksum":"8c89eb4267fdf0d085fa2759751dbeaeb71e82542461671a5e7262853e1945ae","features":{},"yanked":false}
+{"name":"redpanda-transform-sdk-types","vers":"23.3.4-rc1","deps":[],"cksum":"949d69dae77a9f0bbc0cdb3fa44c665b66bb435321cb582506850c7e8bafa339","features":{},"yanked":false}
