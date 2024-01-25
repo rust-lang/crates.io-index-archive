@@ -1,0 +1,1 @@
+{"name":"fsg_guessing_game","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5f8e59a2396be3b137c1e3cbe2768739f2ce91e2cffb9952af6aeecc7ce6f8c","features":{},"yanked":false}
