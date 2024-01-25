@@ -1,1 +1,2 @@
 {"name":"wipe-on-fork","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.152","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"53d3124b583b742631ebdececea88d8bd62e82f7167b4771d2a29cee548528df","features":{},"yanked":false}
+{"name":"wipe-on-fork","vers":"0.2.0","deps":[{"name":"libc","req":"^0.2.152","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e80e6249a513474a99b90a8240a9b8d01108b102d19b7ff84ea99d589126743","features":{},"yanked":false}
