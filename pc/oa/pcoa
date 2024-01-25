@@ -1,0 +1,1 @@
+{"name":"pcoa","vers":"0.1.0","deps":[{"name":"nalgebra","req":"^0.32.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"simba","req":"^0.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f396546eeaff5f3110e9bc8f852b3767ed739e3b1e00debc794d11ebeb3be562","features":{},"yanked":false}
