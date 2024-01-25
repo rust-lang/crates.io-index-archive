@@ -9,3 +9,4 @@
 {"name":"http_tiny","vers":"2.0.0-pre.2","deps":[],"cksum":"e5ef6720a743e7e6d97e501c4adb77ecdd259afbe200f01ac0b14824352e4fdc","features":{},"yanked":false}
 {"name":"http_tiny","vers":"2.0.0-pre.3","deps":[],"cksum":"688a930a36d8e9999faf559ee5605f5863c45806c29fa0dd1ee6f7a145c8ddce","features":{},"yanked":false}
 {"name":"http_tiny","vers":"2.0.0-pre.5","deps":[],"cksum":"f12a8e9343f89b3882edd657c193f2e9f362ac4d924f1fdb328a7fcb24924a24","features":{"convenience":[],"default":["convenience"]},"yanked":false}
+{"name":"http_tiny","vers":"2.0.0-pre.6","deps":[],"cksum":"53dec312270864c008b91394bffc4e920171d5be0a08e5379b2a14ba228c4110","features":{"convenience":[],"default":["convenience"]},"yanked":false}
