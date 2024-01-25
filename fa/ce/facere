@@ -1,0 +1,1 @@
+{"name":"facere","vers":"0.1.0","deps":[{"name":"clap","req":"^4.4.14","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52c0c67d86a42ab11224b0a74ca0bebc06b1b6b1dd3c320a48be1aed0af0e2b0","features":{},"yanked":false}
