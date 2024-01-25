@@ -1,0 +1,1 @@
+{"name":"libsydtime","vers":"0.0.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"97d037da33d115db4e4721c9c061dbefcbcd6c7dd0cd2e7ec3528e34ee06d4f8","features":{},"yanked":false,"rust_version":"1.56.1"}
