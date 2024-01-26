@@ -1,0 +1,1 @@
+{"name":"grsp","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.8.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"termcolor","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5d5085a468283858bb7e8d3f7fd5941eb1236d2653368e2a8e29e503b05a18a","features":{},"yanked":false}
