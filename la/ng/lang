@@ -1,0 +1,1 @@
+{"name":"lang","vers":"0.1.1","deps":[{"name":"phf","req":"^0.11.2","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"127a8ad48c140eca0bbb1aca44e13a7a61c10727dea092b845243f5f138632d9","features":{},"yanked":false}
