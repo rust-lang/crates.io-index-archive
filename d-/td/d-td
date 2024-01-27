@@ -1,0 +1,1 @@
+{"name":"d-td","vers":"0.1.0","deps":[{"name":"clap","req":"^4.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"dtt","req":"^0.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83e2dec754b0052f2f47501cadc9f794bca7c4cc4354cba1a12f680362cafe3a","features":{},"yanked":false}
