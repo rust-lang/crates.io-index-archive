@@ -4,3 +4,4 @@
 {"name":"ghost-cell","vers":"0.2.2","deps":[],"cksum":"43d297baa261a8898937ae7bd790534887f1fdeefadcfa505f0c08f565613b93","features":{"experimental-ghost-cursor":[]},"yanked":false}
 {"name":"ghost-cell","vers":"0.2.3","deps":[],"cksum":"a5fdd3f2182d5fad2c97a25af8992c30e844a775f8fc7339dae5328377d164e6","features":{"experimental-ghost-cursor":[],"experimental-multiple-mutable-borrows":[]},"yanked":false}
 {"name":"ghost-cell","vers":"0.2.4","deps":[],"cksum":"8c5bb911f7ec464a945eb0df5d1b6c70877e025899460e17b6c46adec8b6fbea","features":{"experimental-ghost-cursor":[],"experimental-multiple-mutable-borrows":[]},"yanked":false}
+{"name":"ghost-cell","vers":"0.2.5","deps":[],"cksum":"0a4a7bd355123280c5c50b74b789fe70848502e0d9f2f2517c8848010e958e84","features":{"experimental-ghost-cursor":[],"experimental-multiple-mutable-borrows":[]},"yanked":false}
