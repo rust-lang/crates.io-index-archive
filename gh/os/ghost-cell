@@ -5,3 +5,4 @@
 {"name":"ghost-cell","vers":"0.2.3","deps":[],"cksum":"a5fdd3f2182d5fad2c97a25af8992c30e844a775f8fc7339dae5328377d164e6","features":{"experimental-ghost-cursor":[],"experimental-multiple-mutable-borrows":[]},"yanked":false}
 {"name":"ghost-cell","vers":"0.2.4","deps":[],"cksum":"8c5bb911f7ec464a945eb0df5d1b6c70877e025899460e17b6c46adec8b6fbea","features":{"experimental-ghost-cursor":[],"experimental-multiple-mutable-borrows":[]},"yanked":false}
 {"name":"ghost-cell","vers":"0.2.5","deps":[],"cksum":"0a4a7bd355123280c5c50b74b789fe70848502e0d9f2f2517c8848010e958e84","features":{"experimental-ghost-cursor":[],"experimental-multiple-mutable-borrows":[]},"yanked":false}
+{"name":"ghost-cell","vers":"0.2.6","deps":[],"cksum":"d8449d342b1c67f49169e92e71deb7b9b27f30062301a16dbc27a4cc8d2351b7","features":{"experimental-ghost-cursor":[],"experimental-multiple-mutable-borrows":[]},"yanked":false}
