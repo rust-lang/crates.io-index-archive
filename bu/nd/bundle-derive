@@ -1,0 +1,1 @@
+{"name":"bundle-derive","vers":"0.1.0","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d817023f042baebde1fcd51aa879d83db3a15155c3716ed17abf90440c801d33","features":{},"yanked":false}
