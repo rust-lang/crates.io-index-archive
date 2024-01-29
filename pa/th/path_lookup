@@ -1,1 +1,2 @@
 {"name":"path_lookup","vers":"0.1.0","deps":[{"name":"is_executable","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5fcbe4caf3a55f08638776541d615ebbefa02e95c5d065ecbac58ca36a03da30","features":{},"yanked":true}
+{"name":"path_lookup","vers":"0.1.1","deps":[{"name":"is_executable","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2bee2b9272d92a1c797cc5f0937ce7220e0b4689babda38b75ae96e03ac8e58","features":{},"yanked":false}
