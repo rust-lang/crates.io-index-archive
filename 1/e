@@ -1,2 +1,3 @@
 {"name":"e","vers":"0.1.0","deps":[],"cksum":"1243317c7d121b5ce5d5944fc018e3402582637d69316d799101385f2603c33f","features":{},"yanked":true}
 {"name":"e","vers":"0.0.0","deps":[],"cksum":"ba646e25799d609ff63cd1488778fea4a60e2105821c3fb85daa38318a8035f1","features":{},"yanked":false}
+{"name":"e","vers":"0.1.1","deps":[{"name":"e_macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7fc620aa5c346831b2c4aacc1e65d66d8fcfc4b0ca97374ff1190bf4cdb2fd2","features":{"default":["macros"],"macros":[]},"yanked":false}
