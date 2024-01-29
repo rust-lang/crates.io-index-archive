@@ -1,1 +1,2 @@
 {"name":"yew-sidebar","vers":"0.1.0","deps":[{"name":"yew","req":"^0.21.0","features":["csr"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78e7dd2f5a90a93f5194c3d6076b9540631612a59f1527ffbc62791d2372cc1f","features":{},"yanked":false}
+{"name":"yew-sidebar","vers":"0.1.1","deps":[{"name":"yew","req":"^0.21.0","features":["csr"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac0a4e66e31864c8365a427129a591ee2f6369e47d72614ca54da74f5b0e199b","features":{},"yanked":false}
