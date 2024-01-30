@@ -1,0 +1,1 @@
+{"name":"oval","vers":"1.0.0","deps":[{"name":"bytes","req":">=0.0.1, <0.6","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5a3d5e98a4755181412036942c50378249d94aca605a3b024cda24c67cc1a1b8","features":{},"yanked":false}
