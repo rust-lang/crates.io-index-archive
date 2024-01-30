@@ -1,0 +1,1 @@
+{"name":"mec","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"run_shell","req":"^0.1.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0cf9f8f49c76706f552568b69ed400eeaca8c960e83b5d00b3522b5828cc237","features":{},"yanked":false}
