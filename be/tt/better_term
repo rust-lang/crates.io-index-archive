@@ -23,3 +23,4 @@
 {"name":"better_term","vers":"1.4.4","deps":[],"cksum":"3fdcebdde323991fe034d811a426a1252c88571c2bfc9b5b61a726940b7da102","features":{"default":["input","output"],"fancy":[],"input":[],"output":[]},"yanked":false}
 {"name":"better_term","vers":"1.4.5","deps":[],"cksum":"6b31505c3f1fc81fa86afbaffe26d5d310c2cccc1bd75f884f9fcb26ef6150ba","features":{"default":["input","output"],"fancy":[],"input":[],"output":[]},"yanked":false}
 {"name":"better_term","vers":"1.4.6","deps":[],"cksum":"b1d4e86c66fc98c6e2a2a34e8abd1e516cf5272422dd66f3149c56ee9e8ca769","features":{"default":["input","output"],"fancy":[],"input":[],"output":[]},"yanked":false}
+{"name":"better_term","vers":"1.4.61","deps":[],"cksum":"955b6c3bab06222e028b5f7a911921e8d4db69305d658cc7f510d41f3a5d7222","features":{"default":["input","output"],"fancy":[],"input":[],"output":[]},"yanked":false}
