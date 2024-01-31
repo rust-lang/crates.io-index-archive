@@ -7,7 +7,7 @@
 {"name":"redpanda-transform-sdk-types","vers":"23.3.2","deps":[],"cksum":"37e93a9474b416204d3ad9dca12023260953e87ae6b224147f1c4c286bac3223","features":{},"yanked":true}
 {"name":"redpanda-transform-sdk-types","vers":"0.1.0","deps":[],"cksum":"2d5977b3d34211265c1f29f57e09282a4012f64066d14178c70d049c10bde5bc","features":{},"yanked":false}
 {"name":"redpanda-transform-sdk-types","vers":"23.3.3-rc1","deps":[],"cksum":"5c27dedbb32420686b3c247c4b6217dcc37e5cb1dd6a6ac238b06d8c5c241799","features":{},"yanked":true}
-{"name":"redpanda-transform-sdk-types","vers":"23.3.3","deps":[],"cksum":"8c89eb4267fdf0d085fa2759751dbeaeb71e82542461671a5e7262853e1945ae","features":{},"yanked":false}
+{"name":"redpanda-transform-sdk-types","vers":"23.3.3","deps":[],"cksum":"8c89eb4267fdf0d085fa2759751dbeaeb71e82542461671a5e7262853e1945ae","features":{},"yanked":true}
 {"name":"redpanda-transform-sdk-types","vers":"23.3.4-rc1","deps":[],"cksum":"949d69dae77a9f0bbc0cdb3fa44c665b66bb435321cb582506850c7e8bafa339","features":{},"yanked":true}
 {"name":"redpanda-transform-sdk-types","vers":"23.3.4","deps":[],"cksum":"da43a5d4e4bddfd0ad6c0e03aaf3bc11a5658a47bfd1b17f7a459f2ebcb8d26b","features":{},"yanked":true}
 {"name":"redpanda-transform-sdk-types","vers":"0.2.0","deps":[],"cksum":"22b7411c00308fc14bc0f469c7b401392d29b11fe0f16e66d7f06b1b2c3d113b","features":{},"yanked":false}
