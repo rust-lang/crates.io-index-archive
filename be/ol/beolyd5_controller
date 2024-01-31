@@ -1,1 +1,1 @@
-{"name":"beolyd5_controller","vers":"0.1.0","deps":[{"name":"hidapi","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20c872a9c1fabc6eb107056adaf2d5e4359a7b51067a69ef06e6b7c2f96d232e","features":{},"yanked":true}
+{"name":"beolyd5_controller","vers":"0.1.0","deps":[{"name":"hidapi","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20c872a9c1fabc6eb107056adaf2d5e4359a7b51067a69ef06e6b7c2f96d232e","features":{},"yanked":false}
