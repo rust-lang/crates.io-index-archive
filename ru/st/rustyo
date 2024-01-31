@@ -1,0 +1,1 @@
+{"name":"rustyo","vers":"1.0.0","deps":[{"name":"csv","req":"^1.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83e8cf4a71c4641244acfd00ba67b0dfc264ae882bcc4654e028efa256f3876b","features":{},"yanked":false}
