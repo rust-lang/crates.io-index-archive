@@ -1,0 +1,1 @@
+{"name":"anim8","vers":"1.0.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7390d1b99d7bd0cf3b39d54411e596e98da6e97902297eaab90c7608d19c0d10","features":{"scalar64":[]},"yanked":false}
