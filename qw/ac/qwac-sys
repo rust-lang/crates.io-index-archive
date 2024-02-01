@@ -18,3 +18,4 @@
 {"name":"qwac-sys","vers":"0.27.0-a1","deps":[],"cksum":"6c0bdfd08aae326898e048ef2393e92c287300bb06d3edbd1e0c6045ae5c5f7b","features":{},"yanked":false}
 {"name":"qwac-sys","vers":"0.27.0-a2","deps":[],"cksum":"ce5fb4280702f2e019bfee6ad1d3a80bb59426e1f5b86b5536777e484e45ba8e","features":{},"yanked":false}
 {"name":"qwac-sys","vers":"0.27.0","deps":[],"cksum":"fb998f85febcbb0f8791520d26285d134be7b404f47b3f7131ddd87b3975fc04","features":{},"yanked":false}
+{"name":"qwac-sys","vers":"0.28.0","deps":[],"cksum":"ea1e2b93b8e5f403213047b588078d620963b79255120c78edbbe7b0d53754ea","features":{},"yanked":false}
