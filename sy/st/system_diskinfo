@@ -5,3 +5,4 @@
 {"name":"system_diskinfo","vers":"0.1.4","deps":[],"cksum":"1671ec14847b38352b6a957c75662b1477dc6bb31de8452a1b7b2cb77a1a4d16","features":{},"yanked":false}
 {"name":"system_diskinfo","vers":"0.2.0","deps":[],"cksum":"692718c4b972e40b5bf8f8be16bc045389b8d569264b8f74d70a556f197fbabb","features":{},"yanked":true}
 {"name":"system_diskinfo","vers":"0.2.1","deps":[],"cksum":"9af23aa8d08c9e351f5d9eeec7aa8dd372aa5af4a2a267416afadaeb6fe6f5ae","features":{},"yanked":false}
+{"name":"system_diskinfo","vers":"0.2.2","deps":[],"cksum":"cfcac1de823d4f5472234b4a62552fa44c7a2380358e13b567d38c59cbf0369d","features":{},"yanked":false}
