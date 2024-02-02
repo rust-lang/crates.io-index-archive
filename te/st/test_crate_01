@@ -6,3 +6,4 @@
 {"name":"test_crate_01","vers":"0.1.5","deps":[],"cksum":"14fe3e2d3d1378936da8806699ff0073d65aa0193cbb49746a09a18d7dc400b4","features":{},"yanked":false}
 {"name":"test_crate_01","vers":"0.1.6","deps":[],"cksum":"8dffed0c33bbfa68fe13c7bb61aa8cf83df39cafddb3fc7fd684380eec9616c1","features":{},"yanked":false}
 {"name":"test_crate_01","vers":"0.1.7","deps":[],"cksum":"e068f4b61eaeb264a464a8f9018fb620db4d717c0e7d9abb8c8998b560f3e39f","features":{},"yanked":false}
+{"name":"test_crate_01","vers":"0.1.8","deps":[],"cksum":"eb63ae9277572cb08b0ae461a84ee34b62815300a6d397f55626e35a6a41053d","features":{},"yanked":false}
