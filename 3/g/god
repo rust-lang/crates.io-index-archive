@@ -1,1 +1,2 @@
 {"name":"god","vers":"0.0.1","deps":[],"cksum":"6dca1752f3a7909d36dd1b12ad710740cad20b1a77fc0ed63050ef8479f9f49f","features":{},"yanked":false}
+{"name":"god","vers":"0.0.2","deps":[{"name":"eframe","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a90d1cb1513c8e68af7ae0bdcf4222aee729d9043e58d1f7589c51135e04f77","features":{},"yanked":false}
