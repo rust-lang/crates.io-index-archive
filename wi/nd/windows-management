@@ -7,3 +7,4 @@
 {"name":"windows-management","vers":"0.22.6","deps":[],"cksum":"69ae2deaa8e30390271abb5013c2842aad9d0414f671ed5d5693a4dd978e742f","features":{},"yanked":false,"rust_version":"1.46"}
 {"name":"windows-management","vers":"0.1.0","deps":[],"cksum":"32c11f1eba07c81854ccaf888fa664b8a0435b7f90cf55dcf421efdf249cb58d","features":{},"yanked":false}
 {"name":"windows-management","vers":"0.23.0","deps":[],"cksum":"1d693afef0113bfee3ea8de0233e56c1df82796c9d8a6ca9a5b7730da518da84","features":{},"yanked":false}
+{"name":"windows-management","vers":"0.0.0","deps":[],"cksum":"5a2350bcdd129e48516378fe26c024c1e29bd3eb618cda6f4f2a45ca5a970ea5","features":{},"yanked":false,"rust_version":"1.60"}
