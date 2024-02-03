@@ -1,1 +1,2 @@
 {"name":"dsdl","vers":"0.0.1","deps":[{"name":"cyphal","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d81df392b9aa90225fc5c38cee586653b7a1526b165a7e51a9aaf5a94e8f85f","features":{},"yanked":false}
+{"name":"dsdl","vers":"0.0.2","deps":[{"name":"cyphal","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b23a2f3837b9be688d35633570b6e5183cfb282e29f7fab514f5c2da5aa27e5","features":{},"yanked":false}
