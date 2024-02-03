@@ -4,3 +4,4 @@
 {"name":"whitespacesv","vers":"0.1.3","deps":[],"cksum":"bdcc889191591abfc4ffd700124c9c90c67d59b9c3d1a203ad8e0e6d8a4dc074","features":{},"yanked":false}
 {"name":"whitespacesv","vers":"0.2.0","deps":[],"cksum":"bf3958034a7097a4e443c17eb59deac1e11d77ce76e6f012d9f47c282e13673e","features":{},"yanked":false}
 {"name":"whitespacesv","vers":"1.0.0","deps":[{"name":"utf8-chars","req":"^3.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b2fc8001978a203e7264b90eb1fafa1b6ced0bde8f19f31d09ea3ed0873615f0","features":{},"yanked":false}
+{"name":"whitespacesv","vers":"1.0.1","deps":[{"name":"utf8-chars","req":"^3.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7dfcd9b7b2a35ddbe9816b6a56669029518481ab1efd180a702eefed0b686e0b","features":{},"yanked":false}
