@@ -1,0 +1,1 @@
+{"name":"pyxelium","vers":"0.0.1","deps":[{"name":"image","req":"^0.24.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fc4ddadc76ab0bbffa2755a2161163e72dfe262b355a585b03815e02ba64bc1","features":{},"yanked":false}
