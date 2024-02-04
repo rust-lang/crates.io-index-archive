@@ -1,0 +1,1 @@
+{"name":"frnsc-hive","vers":"0.8.0","deps":[{"name":"forensic-rs","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e09e44597b9226002f3ca72fd1abd6c081f0929eafc9dc0db07eb1dfe1fb4ad","features":{"default":[]},"yanked":false}
