@@ -19,3 +19,4 @@
 {"name":"thread-manager","vers":"0.9.7","deps":[],"cksum":"1e4b181f487617866a7e45c5afd3543abb7f93d4b095059cba04fbec0aff8541","features":{},"yanked":false}
 {"name":"thread-manager","vers":"0.9.8","deps":[],"cksum":"f477c9a2c7974bf625999cd646c8a76c259f9388791f62aaf03b459b73b714e3","features":{},"yanked":false}
 {"name":"thread-manager","vers":"0.9.9","deps":[{"name":"crossbeam-channel","req":"^0.5.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"204a4b7bacc74e7c199bf1abab224360af8fe11e0b968bcc1cc094f96b96ba23","features":{},"yanked":false}
+{"name":"thread-manager","vers":"0.9.10","deps":[{"name":"crossbeam-channel","req":"^0.5.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"123d5c02c5dc54fd4f771f63036cacd6420b9631c403069290bb380babd2a779","features":{},"yanked":false}
