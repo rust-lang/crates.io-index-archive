@@ -20,3 +20,4 @@
 {"name":"afire","vers":"2.2.1","deps":[],"cksum":"4151b6d8f7857bc0925b1d20328febd715ef6e7397a80cb3cd7c4a548c2a7f69","features":{"default":["tracing","emoji-logging"],"emoji-logging":[],"extensions":[],"tracing":[]},"yanked":false}
 {"name":"afire","vers":"3.0.0-alpha.1","deps":[],"cksum":"adfa184e2abf7f0fd43e6c82eb650d3953ad17aa1481df0dfb7dfb7815efd6f9","features":{"default":["tracing","emoji-logging"],"emoji-logging":[],"extensions":[],"tracing":[]},"yanked":false}
 {"name":"afire","vers":"3.0.0-alpha.2","deps":[],"cksum":"72419483d0ad88c19a000cbe0d1df78cf7cc7588f9d2829dbc7fbf99dce9d843","features":{"default":["tracing","emoji-logging"],"emoji-logging":[],"extensions":[],"tracing":[]},"yanked":false}
+{"name":"afire","vers":"3.0.0-alpha.3","deps":[],"cksum":"2bd0c7f4de8aa59494eb9027417044afa1d84155f3c3bcfbfb7107227a98364a","features":{"default":["tracing","emoji-logging"],"emoji-logging":[],"extensions":[],"tracing":[]},"yanked":false}
