@@ -1,0 +1,1 @@
+{"name":"gitstatus","vers":"0.1.0","deps":[{"name":"git2","req":"^0.18.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df44464e4e17a36892898afcab6a908e641fb5280e993d274c283d22dfd5357f","features":{},"yanked":false}
