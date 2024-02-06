@@ -17,3 +17,4 @@
 {"name":"defaultdict","vers":"0.16.0","deps":[],"cksum":"32ce512c25314c95f64b194a2bf62da2961f5bc6f3c17cb9a567245b4b160cb2","features":{},"yanked":false}
 {"name":"defaultdict","vers":"0.16.1","deps":[],"cksum":"1a948c414735fbd3db92572e8bda03306f2ca5d1706c2f9efe6c1b44bd751717","features":{},"yanked":false}
 {"name":"defaultdict","vers":"0.17.0","deps":[],"cksum":"dde47f2790aab67ab01525ba9ff1ab1dad771d28980f78fd001e840cdd28e0df","features":{},"yanked":false}
+{"name":"defaultdict","vers":"0.18.0","deps":[],"cksum":"e2c3deb55426b19c87e68d2f18c20667b46eabfd7bdfe7d8c5e8307773c416fd","features":{},"yanked":false}
