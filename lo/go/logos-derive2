@@ -1,0 +1,1 @@
+{"name":"logos-derive2","vers":"0.13.0","deps":[{"name":"logos-codegen2","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a9db4efca51f29d2136058e033a5c3642cae210069e6bf058eceeb35ed8c57e3","features":{},"yanked":false,"rust_version":"1.65.0"}
