@@ -1,0 +1,1 @@
+{"name":"ul-next-sys","vers":"1.4.0-alpha.0","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"7700cdbe44eec90af80e2e14af7b0cb0ccbe3283adc56a354f03a4fac605b247","features":{"only-ul-deps":[]},"yanked":false}
