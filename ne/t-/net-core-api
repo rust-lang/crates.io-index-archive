@@ -1,0 +1,1 @@
+{"name":"net-core-api","vers":"0.1.0","deps":[{"name":"ion-rs","req":"^0.18.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"57701951c6b9a7913a808466351ebed3403bc42b301996562d6645ffb67a6cf6","features":{},"yanked":false}
