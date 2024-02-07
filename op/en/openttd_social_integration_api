@@ -1,0 +1,1 @@
+{"name":"openttd_social_integration_api","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"14efb999e41a216d4f7db1270834cb6b56c2a1c4f7e355b73906925d0ad154d7","features":{},"yanked":false}
