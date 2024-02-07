@@ -1,0 +1,1 @@
+{"name":"drop_tracer","vers":"0.1.0","deps":[{"name":"test_panic","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"af373af803a6a776b63375e73a62fcec9a214e41c7dcb7e6c503cfd09417b959","features":{},"yanked":false}
