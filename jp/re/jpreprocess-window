@@ -9,3 +9,4 @@
 {"name":"jpreprocess-window","vers":"0.6.1","deps":[],"cksum":"d6cd64202aa8ff66893f1fb93b29aac8fb78c24c150bdb5818b5c1d0e2aeb5a1","features":{},"yanked":false,"rust_version":"1.65.0"}
 {"name":"jpreprocess-window","vers":"0.6.2","deps":[],"cksum":"e2ae1a1adf7869d31e41a79322e193a195fedfd54c38e88c83aee7f12c14c60c","features":{},"yanked":false,"rust_version":"1.65.0"}
 {"name":"jpreprocess-window","vers":"0.6.3","deps":[],"cksum":"0a318738116e56463412858760e703cded0e39583db07f3632506a79a0c1a284","features":{},"yanked":false,"rust_version":"1.65.0"}
+{"name":"jpreprocess-window","vers":"0.7.0","deps":[],"cksum":"d80a17a48c031a0a4ab62aa3a754c3799c6a63c579013f83e91b66a5cae53786","features":{},"yanked":false,"rust_version":"1.65.0"}
