@@ -1,0 +1,1 @@
+{"name":"monetary","vers":"0.0.0","deps":[{"name":"cosmwasm-std","req":"^1.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b71521c64203ac7a5d76b10668b890ad71b274e44536cd654f4669095d9a68a1","features":{},"yanked":false}
