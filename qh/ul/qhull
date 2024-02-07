@@ -1,0 +1,1 @@
+{"name":"qhull","vers":"0.1.0","deps":[{"name":"qhull-sys","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4a049aacb782d778ebaa991672bcb96dd698fee79055c60cdfe2971c5ae0c30","features":{},"yanked":false}
