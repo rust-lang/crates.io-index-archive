@@ -1,1 +1,2 @@
 {"name":"decasm","vers":"0.1.0","deps":[],"cksum":"0c3646a4b5974e7fc64a66ee16a5d74cec781a8be553af3394d3394109aa6f16","features":{},"yanked":false}
+{"name":"decasm","vers":"0.1.1","deps":[{"name":"itertools","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"ux","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"16e2b7c50eaebb4168734a48ec8f11406ec38a13d3665bdba665e388b0a9e4d7","features":{},"yanked":false}
