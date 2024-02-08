@@ -1,0 +1,1 @@
+{"name":"syunit","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.196","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2464621ef4d52279f19814ac43158465509914f695018fc02387adac5fef4eee","features":{},"yanked":false}
