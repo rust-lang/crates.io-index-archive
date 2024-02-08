@@ -1,1 +1,2 @@
 {"name":"sif-itree","vers":"0.1.0","deps":[{"name":"proptest","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"92ba9a597038188373e4377d777db70d6bafc19e04744d5343f811ca76465b9c","features":{},"yanked":false}
+{"name":"sif-itree","vers":"0.1.1","deps":[{"name":"proptest","req":"^1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"52ec6d830d5b805efa2f9ec8de7b071641109e52d9fd5a6449f322628654de03","features":{},"yanked":false}
