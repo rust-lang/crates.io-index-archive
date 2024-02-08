@@ -4,5 +4,5 @@
 {"name":"algori","vers":"0.3.1","deps":[],"cksum":"2c001f7936b59ec6e2e966ee1adcc178c868f258803c49de9674871459dec02e","features":{},"yanked":false}
 {"name":"algori","vers":"0.4.0","deps":[],"cksum":"23cb6fa690e9839b4121daf52863c69132304c004163fb49945e30e82961c6f2","features":{},"yanked":false}
 {"name":"algori","vers":"0.5.0","deps":[],"cksum":"643d452e4022cf081a701610a8a2d1ea515d990a48b6a512fb9d14f99e2a04c9","features":{},"yanked":false}
-{"name":"algori","vers":"0.5.1","deps":[],"cksum":"cb89914242f1557726c05c30c6c49a65fb4493b0ee1b47e61ec8a59a8d23f006","features":{},"yanked":false}
+{"name":"algori","vers":"0.5.1","deps":[],"cksum":"cb89914242f1557726c05c30c6c49a65fb4493b0ee1b47e61ec8a59a8d23f006","features":{},"yanked":true}
 {"name":"algori","vers":"0.6.0","deps":[],"cksum":"ac13f8da6df6302d1448e116315d814e0056cd4b3b66044476ae280d42774a0c","features":{},"yanked":false}
