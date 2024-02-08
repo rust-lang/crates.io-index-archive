@@ -1,1 +1,2 @@
 {"name":"mofmt","vers":"0.4.0","deps":[{"name":"moparse","req":"^0.1.4-rc4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39f773154dc7484d02be5b1288dd5fbf91b2ed7cc141a631faad1e81b7c5907b","features":{},"yanked":false}
+{"name":"mofmt","vers":"0.4.1","deps":[{"name":"moparse","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85c6a6df3ee03391bc285d23dc7720bf5d0c443e07be6bef590c56266035b957","features":{},"yanked":false}
