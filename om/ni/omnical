@@ -1,1 +1,2 @@
 {"name":"omnical","vers":"0.1.0","deps":[],"cksum":"74edae6dab1fa6e2af5cde398e1c25ba157b259e2b387988ed8e45cf1ae54deb","features":{},"yanked":false}
+{"name":"omnical","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4.33","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70cc3b6349caf8bc19076e3dd1a95bf861dbc408e755798beaa26fad79a58921","features":{},"yanked":false}
