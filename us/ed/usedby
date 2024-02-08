@@ -1,1 +1,2 @@
 {"name":"usedby","vers":"0.1.0","deps":[{"name":"procfs","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5e40e0635f0d60c48f80fe076bd16962d3561899a0486899c5370c5f137b7c0b","features":{},"yanked":false}
+{"name":"usedby","vers":"0.1.1","deps":[{"name":"procfs","req":"^0.16.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"85aa3cd2e127e41f8efe01216711972242fb7eb33eef94f5d2e7a5bd3440755e","features":{},"yanked":false}
