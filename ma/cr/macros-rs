@@ -15,3 +15,4 @@
 {"name":"macros-rs","vers":"0.5.1","deps":[],"cksum":"e45a8a4667659e0f90ea5d07cf2ac504a3cc6c0b7553a72306d681bd829c3885","features":{},"yanked":true}
 {"name":"macros-rs","vers":"0.5.2","deps":[],"cksum":"cb1feaac5c34086868f3f439dabbd71baf6a785f256aacdde7c66c95b56b12d6","features":{},"yanked":false}
 {"name":"macros-rs","vers":"1.0.0","deps":[],"cksum":"a524dc215e45b619baf43edc126b305acbd9cc8226d3322d20b50d9378fc18e0","features":{},"yanked":false}
+{"name":"macros-rs","vers":"1.1.0","deps":[{"name":"termcolor","req":"^1.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b3f24d753086ae903e0a08d19be24252abe3bee84fa4f0572f12598ccacca770","features":{},"yanked":false}
