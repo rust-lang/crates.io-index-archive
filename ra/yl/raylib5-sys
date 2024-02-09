@@ -1,0 +1,1 @@
+{"name":"raylib5-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4475a6bceeb9cc72830c15158b3feba6f2473be98bcd2970e44f0decddf20334","features":{},"yanked":false}
