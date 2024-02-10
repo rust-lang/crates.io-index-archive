@@ -1,0 +1,1 @@
+{"name":"fclicache","vers":"1.0.0","deps":[{"name":"clap","req":"^4.5.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3e8b0983f98d75dc702fe0eb2e682a48d8e641d3eeacc71f78f84d949b2655f","features":{},"yanked":false}
