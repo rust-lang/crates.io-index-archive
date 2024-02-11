@@ -1,0 +1,1 @@
+{"name":"wormhole-solana-utils","vers":"0.2.0-alpha.6","deps":[{"name":"anchor-lang","req":"^0.28.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4df137b6ec72e8d711a242edd72b617b0b8e2c67ff9f21682299e54d8fcba200","features":{"cpi":[]},"yanked":false,"rust_version":"1.68"}
