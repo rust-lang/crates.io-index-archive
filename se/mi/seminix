@@ -1,1 +1,2 @@
 {"name":"seminix","vers":"0.1.0","deps":[],"cksum":"4d4464bb0f65f4bee77b06eb434f7d7dc981f772e450b3d169a5ceff32e6eeb8","features":{},"yanked":false,"rust_version":"1.78"}
+{"name":"seminix","vers":"0.1.1","deps":[{"name":"semx_entry","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8cb9627ae995e69b9450e1440bfa1d2807a06b7b692ae1da04b1e3d950110655","features":{},"yanked":false,"rust_version":"1.78"}
