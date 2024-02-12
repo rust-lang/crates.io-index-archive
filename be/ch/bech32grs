@@ -1,0 +1,1 @@
+{"name":"bech32grs","vers":"0.10.0-beta","deps":[],"cksum":"4e190aad8fbe17cf8d2d68ba93844c33a2ef9544e05945da83df0bf81078f044","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
