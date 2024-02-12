@@ -1,0 +1,1 @@
+{"name":"typerat","vers":"0.0.1","deps":[{"name":"char-buf","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"typenum","req":"^1.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9b992bcc5e7a5a0c7d5835bde3eae3e41e5a0f0c66dfde91b97fde76b1b1db3","features":{},"yanked":false}
