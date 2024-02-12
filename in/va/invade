@@ -1,1 +1,2 @@
 {"name":"invade","vers":"0.0.1","deps":[{"name":"invade_derive","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a9dafd68713a43e062a9ac72524dec115820f87e993fd27dd3a7be162dc36d4","features":{},"yanked":false}
+{"name":"invade","vers":"0.0.2","deps":[{"name":"invade_derive","req":"^0.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"884c79a2459f2a5f414433850ca37fc488da1849262efa6534142533fba48b4c","features":{},"yanked":false}
