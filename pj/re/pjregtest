@@ -1,0 +1,1 @@
+{"name":"pjregtest","vers":"0.1.0","deps":[{"name":"bitcoincore-rpc","req":"^0.18.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"90f88dfa48eb621bf3bbc59c0590a15c1613f10d9ae970ba0579eafb0a14c94e","features":{},"yanked":false}
