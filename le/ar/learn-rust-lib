@@ -1,2 +1,0 @@
-{"name":"learn-rust-lib","vers":"0.1.0","deps":[],"cksum":"1b6e775efe00f220404a4d07d0ab9629c61fb8ebc63f869b60d310772813bef2","features":{},"yanked":false}
-{"name":"learn-rust-lib","vers":"0.1.1","deps":[{"name":"reqwest","req":"^0.11.23","features":["blocking"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4094fe1e72bad867afc33a43563b0d7604463fd3a1ff26c708a479dc38f2adb2","features":{},"yanked":false}
