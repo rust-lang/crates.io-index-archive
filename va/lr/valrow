@@ -1,0 +1,1 @@
+{"name":"valrow","vers":"0.0.0-2024-02-12","deps":[{"name":"abistr","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"2a86e5cf08f9b2c3fd25eaf3abe96d8aef836a75b33cbf9ad103a5ad23844fab","features":{"alloc":["core"],"core":["intrinsic"],"default":["core"],"intrinsic":[],"std":["alloc"]},"yanked":false,"rust_version":"1.71.0"}
