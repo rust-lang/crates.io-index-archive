@@ -5,3 +5,4 @@
 {"name":"anylist","vers":"0.2.3","deps":[],"cksum":"502afe334cb0fb9d5dc9ba634f412d744e054dd35c558754aa3321f71dc6df62","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"anylist","vers":"0.3.3","deps":[],"cksum":"7ba9501d9803a5db3c1c7404a78beb2e36c4cbf45e425206add53749e65a1af7","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"anylist","vers":"0.4.3","deps":[],"cksum":"94c581e567b3e898a22c58daadb1369ad6415021f752702aca3c08f89c2d2323","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"anylist","vers":"0.5.3","deps":[],"cksum":"27a15cc196b0cb14b13a7f79e58984934281da14d268b9694f26c4c9e265e855","features":{},"yanked":false,"rust_version":"1.56"}
