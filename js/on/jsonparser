@@ -1,3 +1,4 @@
 {"name":"jsonparser","vers":"0.1.0","deps":[],"cksum":"a8168bd9514b3cf28e69b43397280cdf0c8067c1b9c2d9158b2b768aac0e66a9","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"jsonparser","vers":"0.1.1","deps":[],"cksum":"0c7618e5dc01394dafc657a618fc7c41a5e18ed64b8a25e270f5f0308b7e9094","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"jsonparser","vers":"0.1.2","deps":[],"cksum":"0b34df61310786e808b94d892a98b5655697490a5bbafa02d01218b3d63037d7","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"jsonparser","vers":"0.1.3","deps":[],"cksum":"cf4e960f375ce1cc235a0cbc871e1098992f4937435aed5e3d9b1c1ae844b3b2","features":{},"yanked":false,"rust_version":"1.56"}
