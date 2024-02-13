@@ -1,0 +1,1 @@
+{"name":"bitworks","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0.196","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"425cf82949372e4315357fac096ecf5e2faf55df02a23e1bf04c7ef757440ba2","features":{},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
