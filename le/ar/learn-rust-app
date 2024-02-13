@@ -1,2 +1,0 @@
-{"name":"learn-rust-app","vers":"0.1.0","deps":[],"cksum":"0779952f89b495f75f3af5fe1f464742134fbdc1b264663593670eb114565c77","features":{},"yanked":false}
-{"name":"learn-rust-app","vers":"0.1.1","deps":[{"name":"learn-rust-lib","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a5c082cf2ce1c62c554152e1e65e6afd86a33c62e80ccff9ff31056e1b89214","features":{},"yanked":false}
