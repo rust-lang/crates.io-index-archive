@@ -1,1 +1,2 @@
 {"name":"xyzvec","vers":"0.1.0","deps":[{"name":"fmt","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a85f556a1b5ee90ff74da28675a1353cc752db36b1a241000a472b41894c9c68","features":{},"yanked":false}
+{"name":"xyzvec","vers":"0.1.1","deps":[{"name":"fmt","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5405126d2679e5484ded9ad9d073413eec1df6b03c74ad624ee3e497f65814b","features":{},"yanked":false}
