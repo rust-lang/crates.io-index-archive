@@ -1,0 +1,1 @@
+{"name":"binaryen_capi-sys","vers":"116.0.0","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"eface6538040c33d9885644b65478832e3aa3df7d4e18736785b5578c6874b96","features":{},"yanked":false}
