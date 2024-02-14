@@ -3,3 +3,4 @@
 {"name":"mako_infinite_shuffle","vers":"0.2.1","deps":[],"cksum":"6bd7aa9171205e914667194cccfb87edc680aa3f3f0257c805ae2a548eb2bc92","features":{},"yanked":false}
 {"name":"mako_infinite_shuffle","vers":"0.2.2","deps":[],"cksum":"cee6fdf5b48881e862d8f2942e5fbbda1e847606b5e59fec9a10e366609aee7e","features":{},"yanked":false}
 {"name":"mako_infinite_shuffle","vers":"0.2.3","deps":[],"cksum":"43b4df90b5ee6304095a0a35f08d2b40eb927d2906dc7ddd1bec5a7ead97d0fa","features":{},"yanked":false}
+{"name":"mako_infinite_shuffle","vers":"0.3.0","deps":[{"name":"number-encoding","req":"^0.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"087ec7dccae25b366ed1dd65691335a901f0531d01f67c0c9fc549abdd7807ab","features":{},"yanked":false}
