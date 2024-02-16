@@ -10,3 +10,4 @@
 {"name":"bootloader-x86_64-bios-common","vers":"0.11.4","deps":[],"cksum":"d830f186471cf20a6d803424a3ae91d3f217b53a58fd75e385daa7e586d3c34a","features":{"debug":[],"default":["debug"]},"yanked":false}
 {"name":"bootloader-x86_64-bios-common","vers":"0.11.5","deps":[],"cksum":"22621e16a5c6b77f97686d781343ab5641a6b4d67ea1db12439213024cb67449","features":{"debug":[],"default":["debug"]},"yanked":false}
 {"name":"bootloader-x86_64-bios-common","vers":"0.11.6","deps":[],"cksum":"9aa6cf83d556f15d108a1c1fc44d3799726f6f57d3f20050cf0613825885bdd0","features":{"debug":[],"default":["debug"]},"yanked":false}
+{"name":"bootloader-x86_64-bios-common","vers":"0.11.7","deps":[],"cksum":"f733c7551439b39a89d15ca406ce721b9368568afc0da64d793e43dd2564e752","features":{"debug":[],"default":["debug"]},"yanked":false}
