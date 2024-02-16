@@ -7,3 +7,4 @@
 {"name":"jsonparser","vers":"0.1.6","deps":[],"cksum":"26536851fad6e27336b0c6b4f5ee7f0e81c3c0a9e6c14b3c1a9bacb5ae461475","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"jsonparser","vers":"0.1.7","deps":[],"cksum":"81f09b38c1036595498ed3dd5028abd6a1eda851891e1704921ecd48b47eccef","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"jsonparser","vers":"0.1.8","deps":[],"cksum":"87fd6b2d540bb33b52eee99ae1f048a61c92e688d37db005e4f003025808ccde","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"jsonparser","vers":"0.1.9","deps":[],"cksum":"c7d3fc59d3db57955bd76abfc06b927f738ae003f31c34c437853eea8aeb4b25","features":{},"yanked":false,"rust_version":"1.56"}
