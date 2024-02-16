@@ -5,3 +5,4 @@
 {"name":"csheap","vers":"0.1.5","deps":[],"cksum":"a98ac0a0ee7d472df234364f0ca0b45ee972f972f8e443675f59afc3fa9ca2c6","features":{},"yanked":false}
 {"name":"csheap","vers":"0.1.6","deps":[],"cksum":"778c97cef87c0f7e2234f2d8de021972635b50dced8a1b960669eb86665dd006","features":{},"yanked":false}
 {"name":"csheap","vers":"0.1.7","deps":[],"cksum":"538b697398f7128607900eee00e61dd6a211460a07cf23ed74cc9c1fce5bf460","features":{},"yanked":false}
+{"name":"csheap","vers":"0.1.8","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5f85c787d60f38ccbcf2d026ea878064ce121f3e26864cabcadf2d8054480367","features":{},"yanked":false}
