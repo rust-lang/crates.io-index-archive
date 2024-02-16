@@ -7,3 +7,4 @@
 {"name":"csheap","vers":"0.1.7","deps":[],"cksum":"538b697398f7128607900eee00e61dd6a211460a07cf23ed74cc9c1fce5bf460","features":{},"yanked":false}
 {"name":"csheap","vers":"0.1.8","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5f85c787d60f38ccbcf2d026ea878064ce121f3e26864cabcadf2d8054480367","features":{},"yanked":false}
 {"name":"csheap","vers":"0.1.9","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"bbf9132c325cc89dab02b39c0e0fec869575c0a03b473c8a66ce77e8779b41c4","features":{},"yanked":false}
+{"name":"csheap","vers":"0.1.10","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fdd935124854162a9f123bf71c27dc0b526c0812f3583a520120b94cdcda4b9a","features":{},"yanked":false}
