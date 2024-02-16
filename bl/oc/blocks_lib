@@ -1,0 +1,1 @@
+{"name":"blocks_lib","vers":"0.3.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36f19c393988f539db78386a08ed57ced38da165da46c5e6e552fa6eb68e5cbd","features":{},"yanked":false}
