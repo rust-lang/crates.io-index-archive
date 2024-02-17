@@ -9,3 +9,4 @@
 {"name":"jsonparser","vers":"0.1.8","deps":[],"cksum":"87fd6b2d540bb33b52eee99ae1f048a61c92e688d37db005e4f003025808ccde","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"jsonparser","vers":"0.1.9","deps":[],"cksum":"c7d3fc59d3db57955bd76abfc06b927f738ae003f31c34c437853eea8aeb4b25","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"jsonparser","vers":"0.2.0","deps":[],"cksum":"0d1ba67c53fd4a5518d6a706a25d94aec18ea6c8d2cbd3316dab64aa62d30eef","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"jsonparser","vers":"0.2.1","deps":[],"cksum":"924a34a53a6770bac6c4c6af2ee1bf50ad20e0d850d9458e9caff1901b0ff1cf","features":{},"yanked":false,"rust_version":"1.56"}
