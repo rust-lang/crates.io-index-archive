@@ -7,3 +7,4 @@
 {"name":"anylist","vers":"0.4.3","deps":[],"cksum":"94c581e567b3e898a22c58daadb1369ad6415021f752702aca3c08f89c2d2323","features":{},"yanked":true,"rust_version":"1.56"}
 {"name":"anylist","vers":"0.5.3","deps":[],"cksum":"27a15cc196b0cb14b13a7f79e58984934281da14d268b9694f26c4c9e265e855","features":{},"yanked":true,"rust_version":"1.56"}
 {"name":"anylist","vers":"0.5.4","deps":[],"cksum":"0db15f0b887fff0dec681f694c5b69e82af48079f83045563d170f4ec2efbe83","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"anylist","vers":"0.6.4","deps":[],"cksum":"590a71c332552a76e1723b6a3543a7e81b44ab0175fdc5ff715ce111320a1429","features":{},"yanked":false,"rust_version":"1.56"}
