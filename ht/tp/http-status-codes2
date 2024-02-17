@@ -1,1 +1,2 @@
 {"name":"http-status-codes2","vers":"0.1.0","deps":[{"name":"convert_case","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"957b5e4ce1c8027df511a1b0929db6f0fa00b156fb4bd184fbb883735b95286c","features":{},"yanked":false}
+{"name":"http-status-codes2","vers":"0.1.1","deps":[{"name":"convert_case","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15489b21b75eb1831dbce0a88272460370a3426172a6e36fd0bfff8d8b337e5e","features":{},"yanked":false}
