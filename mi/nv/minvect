@@ -5,3 +5,4 @@
 {"name":"minvect","vers":"0.1.4","deps":[],"cksum":"52036563beaa3470d67838661c8810ca02cbaa60c3e7cae1163d5d50d15cfac2","features":{},"yanked":false}
 {"name":"minvect","vers":"0.1.5","deps":[{"name":"serde","req":"^1.0.192","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d99cc288f02ac40aed7a4836049afd4cce6e6241eae86689e8ca6b69d1b990e8","features":{},"yanked":false}
 {"name":"minvect","vers":"0.1.6","deps":[{"name":"serde","req":"^1.0.193","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"487e363f053a0579cd3b6cb22aaba66263b5f556cffa7821a3347bb917b6cedf","features":{},"yanked":false}
+{"name":"minvect","vers":"0.1.7","deps":[{"name":"serde","req":"^1.0.193","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7523a43c9540ded0f7684ab372f573086ffc23909d860ce11caf7003150cfbda","features":{},"yanked":false}
