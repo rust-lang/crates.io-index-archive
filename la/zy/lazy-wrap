@@ -1,0 +1,1 @@
+{"name":"lazy-wrap","vers":"0.1.0","deps":[{"name":"parking_lot","req":"^0.12.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"770b2fac0261a041659adb25d5aa57d11b5bd412fb20dc6c94a52e9ca0a7d8c7","features":{},"yanked":false}
