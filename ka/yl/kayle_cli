@@ -1,0 +1,1 @@
+{"name":"kayle_cli","vers":"0.0.1","deps":[{"name":"clap","req":"^4.5.1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78964eb3e5d1cdedcb32f6909a843f10156a8c974f7cfb65999d7b6c3d2b9ec6","features":{},"yanked":false}
