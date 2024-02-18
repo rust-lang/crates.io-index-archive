@@ -7,3 +7,4 @@
 {"name":"unicode-blocks","vers":"0.1.6","deps":[],"cksum":"943e3f1f50cc455d072e0801ccb71ff893b0c88060b1169f92e35fb5bb881cc6","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"unicode-blocks","vers":"0.1.7","deps":[],"cksum":"7668e1ef8ae6cb79b3b3ed3beffbb4b6cc059048f9f59f2823ab73dcabc01a4a","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"unicode-blocks","vers":"0.1.8","deps":[],"cksum":"c84398c527c802fbf222e5145f220382d60f1878e0e6cb4d22a3080949a8ddcd","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"unicode-blocks","vers":"0.1.9","deps":[],"cksum":"6b12e05d9e06373163a9bb6bb8c263c261b396643a99445fe6b9811fd376581b","features":{},"yanked":false,"rust_version":"1.56"}
