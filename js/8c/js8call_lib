@@ -1,0 +1,1 @@
+{"name":"js8call_lib","vers":"0.0.1","deps":[{"name":"serde_json","req":"^1.0.113","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"951d0f7b940a97ac68aab09f92000ae1fbd92bd4825b603aba61fa1cfff853cf","features":{},"yanked":false}
