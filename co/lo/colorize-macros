@@ -2,3 +2,4 @@
 {"name":"colorize-macros","vers":"0.5.1","deps":[],"cksum":"94e1e4799001753ca1c348861eac6c266d28c5a8ca209089a2d06a17102d32ee","features":{},"yanked":false}
 {"name":"colorize-macros","vers":"0.6.0","deps":[{"name":"paste","req":"^1.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"35a6ad196981f68cecb81df54be77a2c6b1d92f1dad9811823377212db48f7f7","features":{},"yanked":false}
 {"name":"colorize-macros","vers":"0.6.1","deps":[{"name":"paste","req":"^1.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3650823fead91927759311141f54e568977521842950cc9bc7efa8c20573df97","features":{},"yanked":false}
+{"name":"colorize-macros","vers":"0.6.2","deps":[{"name":"paste","req":"^1.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9417f69537680e1aa7c04c0e358282193c26f9d009bd83fce67f0aaed5498eca","features":{},"yanked":false}
