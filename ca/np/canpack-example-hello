@@ -1,1 +1,2 @@
 {"name":"canpack-example-hello","vers":"0.0.1","deps":[],"cksum":"b7ce7ac07ef4526f3b3e6a5f8b6aaee272a1305c77030853ec56eff74c33ed17","features":{},"yanked":false}
+{"name":"canpack-example-hello","vers":"0.0.2","deps":[{"name":"canpack","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64f0eb1068115c32ca4d9547f76e33e75db65ede65a422dbcd97fe4d0bbbc6ee","features":{},"yanked":false}
