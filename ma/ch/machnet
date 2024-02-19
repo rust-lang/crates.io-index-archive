@@ -1,0 +1,1 @@
+{"name":"machnet","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"43f6c5a6288b116844476a33c03c7bf316ddecbe7d380f9f56e99e592b251adf","features":{},"yanked":false}
