@@ -3,3 +3,4 @@
 {"name":"j1939","vers":"0.1.15","deps":[],"cksum":"1bf2de96ee67e862bf0b96ef6b8b142d24aa210f61ea1c8e8e88725031140769","features":{"can":[]},"yanked":false}
 {"name":"j1939","vers":"0.1.16","deps":[],"cksum":"629642d79e4ea30572aea6650ee3c189da5d053717261382d6c5d6f98ac1018d","features":{"can":[]},"yanked":false}
 {"name":"j1939","vers":"0.1.17","deps":[],"cksum":"483bb8df5a4c2937290a5d7288f556c54b991b406071fd088839b7bebc5d1067","features":{"can":[]},"yanked":false}
+{"name":"j1939","vers":"0.1.18","deps":[],"cksum":"adf98543893c56ca7bc9da10e28af951420a2acc7d9cccb7a9053d3fe8b874e3","features":{"can":[]},"yanked":false}
