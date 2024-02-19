@@ -1,0 +1,1 @@
+{"name":"logger_utc","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.34","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f027c5c6cbe968f49d813f5b7f3840158145893fe534e92054947af06414d731","features":{},"yanked":false}
