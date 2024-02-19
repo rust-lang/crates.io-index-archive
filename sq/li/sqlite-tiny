@@ -1,0 +1,1 @@
+{"name":"sqlite-tiny","vers":"0.1.0","deps":[{"name":"cc","req":"^1.0.83","features":[],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"d90264bd71d8d8246f1cb57fcb8de5812c61b68e9651fafc40858e1d370d0034","features":{"api":[],"default":["api"]},"yanked":false}
