@@ -6,3 +6,4 @@
 {"name":"rusty_dumb_tools","vers":"0.1.4","deps":[{"name":"crossterm","req":"^0.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6b826cda630ef2ef85674b58f695184f74d2d341a4a9ff99804fa453e1a664d9","features":{},"yanked":false}
 {"name":"rusty_dumb_tools","vers":"0.1.5","deps":[],"cksum":"2197eaf6df3b2cdbe88af3903dc1532f14444cc6765d7fc5567fd87c43ce0c09","features":{},"yanked":false}
 {"name":"rusty_dumb_tools","vers":"0.1.6","deps":[],"cksum":"0eac223817c554e76104ae6e967cf1508039cb1fdbd8a03e6d8f5ca0b7f03c0c","features":{},"yanked":false}
+{"name":"rusty_dumb_tools","vers":"0.1.7","deps":[],"cksum":"076a258cb39b3e356bf67713289f0cb54a2391474c80ce1ad6f806a56345df06","features":{},"yanked":false}
