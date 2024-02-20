@@ -5,3 +5,4 @@
 {"name":"list_tools","vers":"0.1.4","deps":[{"name":"debugs_tools","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83ccb3f0f9d6f0060ab63c9bed5f95a837d1b792033421e4455a7ae7b50ff7df","features":{},"yanked":false}
 {"name":"list_tools","vers":"0.1.5","deps":[{"name":"debugs_tools","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b15b4b017128a14c2ad81107c71d722956f9b08f78a13989fcccc2595fb6278","features":{},"yanked":false}
 {"name":"list_tools","vers":"0.1.6","deps":[{"name":"debugs_tools","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"751fdfa082e68e5c393c1f952489f796f58953e608f6dd7fca63b64543dc9e08","features":{},"yanked":false}
+{"name":"list_tools","vers":"0.1.7","deps":[],"cksum":"67eb254eb434cea35ba7cdbeeab3bc2abaf7b83446d6f256acd543f482556486","features":{},"yanked":false}
