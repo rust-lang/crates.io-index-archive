@@ -13,3 +13,4 @@
 {"name":"toy-json-formatter","vers":"0.3.0","deps":[],"cksum":"96712da0746c47e539c939c317295b895c139c88d78b33f12c4eb61f5e4f5453","features":{"default":[]},"yanked":false}
 {"name":"toy-json-formatter","vers":"0.3.1","deps":[],"cksum":"ab728b8ec5c9bc8e08237c7e3dcae3beac16f6f4509a3d90ad9536ee34908a8f","features":{"default":[]},"yanked":false}
 {"name":"toy-json-formatter","vers":"0.3.2","deps":[],"cksum":"13a94ffc1fded4e81167aeb9a2ec8447204b2033780c84ecac68566e7159a057","features":{"default":[]},"yanked":false}
+{"name":"toy-json-formatter","vers":"0.3.3","deps":[],"cksum":"44048185df10d1995f50cce1221c697038d0054c2d6083cb1d9082b4a5c409e6","features":{"default":[]},"yanked":false}
