@@ -1,1 +1,2 @@
 {"name":"time_duration_api","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d547bdb5228a70e040560dce85edbeca792fa76d1d6daffbcac2bd8a275b895","features":{},"yanked":false}
+{"name":"time_duration_api","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fc946aeb6884928571ecf53776c5324f81ac1fa07d33a50af1a30bfa45c54cbf","features":{},"yanked":false}
