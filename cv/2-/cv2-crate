@@ -1,0 +1,1 @@
+{"name":"cv2-crate","vers":"0.1.0","deps":[{"name":"regex","req":"^1.10.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sort","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1ca21c89b43350561234e470a036c376586b6d86cb881b573bd7b1a413f4214c","features":{},"yanked":false}
