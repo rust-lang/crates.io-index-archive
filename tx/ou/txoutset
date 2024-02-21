@@ -1,0 +1,1 @@
+{"name":"txoutset","vers":"0.1.0","deps":[{"name":"bitcoin","req":"^0.31.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fea45858c04ac0888897a374c88a2818332bd3d891e2fbe43e05f570894e8094","features":{},"yanked":false}
