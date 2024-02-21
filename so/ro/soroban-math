@@ -2,3 +2,4 @@
 {"name":"soroban-math","vers":"0.1.1","deps":[],"cksum":"cbcebf4e4e15eb3a3e2c66a50687f9f236c31523dcf77e926f71e79bf8fd5cc8","features":{},"yanked":false}
 {"name":"soroban-math","vers":"0.1.2","deps":[],"cksum":"7f289be88c894741008ab134798cd42646dbefb236872569373641cf7389837c","features":{},"yanked":false}
 {"name":"soroban-math","vers":"0.1.3","deps":[{"name":"soroban-sdk","req":"^20.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e291c4472e55807f9912b693545cd0c9c780358a6f174f2f9c1dafc70e0b1df0","features":{},"yanked":false}
+{"name":"soroban-math","vers":"0.1.4","deps":[{"name":"soroban-sdk","req":"^20.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d133b7ad0bcbbbe5982d1a2dda3b2775f4a40fd4764b83164e27df306a0d4d5","features":{},"yanked":false}
