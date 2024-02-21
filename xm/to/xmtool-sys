@@ -1,0 +1,1 @@
+{"name":"xmtool-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.65","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"5c9c0e49c21c3b28ab564ad30ccf8525f3f326726f729d787bb7f24689c1bb42","features":{},"yanked":false}
