@@ -1,3 +1,4 @@
 {"name":"rush","vers":"0.0.1","deps":[],"cksum":"378f198387ad9d81af9824be647fc38e3031a18ccfa7d6796c9069343f54d4ab","features":{},"yanked":true}
 {"name":"rush","vers":"0.1.0","deps":[],"cksum":"9fc9b116ad54a2b8996fd4d379fe27a844dd2420f0c12541f9f7eed1fe8c117c","features":{},"yanked":false}
 {"name":"rush","vers":"0.1.2","deps":[],"cksum":"75316b2c2f3b9a22e364bfddb9f9c817d34e5aedcdbd73fe322143a3b364b2da","features":{},"yanked":false}
+{"name":"rush","vers":"0.1.3","deps":[{"name":"crossterm","req":"^0.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b1739c72981a7a5f4c3fd7715cc90916e171683ec4babba4e49886165756e96e","features":{},"yanked":false}
