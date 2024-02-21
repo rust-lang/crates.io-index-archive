@@ -1,0 +1,1 @@
+{"name":"manganis","vers":"0.1.0","deps":[{"name":"manganis-macro","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a25951ece27df54c1506824923c824e1b3d9f742bb01beab45123b306c95a0e4","features":{"default":[],"html":[]},"yanked":false}
