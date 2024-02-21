@@ -1,0 +1,1 @@
+{"name":"dateframe","vers":"0.1.1","deps":[{"name":"chrono","req":"^0.4.34","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"89d695920d34b5db99e897bee1fb8dad2937fa6c7305670a2edcffbc27430c65","features":{},"yanked":false}
