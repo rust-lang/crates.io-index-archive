@@ -3,3 +3,4 @@
 {"name":"rany","vers":"0.1.3","deps":[],"cksum":"89d1ce35ed0ea006437b9ff44399eb21d8b3a2d2222a8671a8327d1bef126e49","features":{},"yanked":false}
 {"name":"rany","vers":"0.1.4","deps":[],"cksum":"00258116261b806b1ad3d7c1ead1afea50539cb24cd385ba596f9b4b158bf466","features":{},"yanked":false}
 {"name":"rany","vers":"0.1.5","deps":[],"cksum":"65361635e4d9b1d3ca9c033342fb2922894fd35b721f6f2d1204df8e4ac1c537","features":{},"yanked":false}
+{"name":"rany","vers":"0.1.6","deps":[],"cksum":"f1f2ddfbf62b715c81886422845ed146230fed785c2058b350a4b92b1a6e96b7","features":{"b255":[],"default":["url"],"url":[]},"yanked":false}
