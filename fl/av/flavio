@@ -24,3 +24,4 @@
 {"name":"flavio","vers":"0.4.1","deps":[],"cksum":"6548b3f939f956e01b7ec08bfc2a32a3af482a914379e08e1ee2a9fec8737657","features":{"constitutive":["mechanics"],"fem":["constitutive"],"math":[],"mechanics":["math"]},"yanked":false}
 {"name":"flavio","vers":"0.4.2","deps":[],"cksum":"b3e575848ae6db2870f614c24a0d427cdbc6800d70c5f457a8c6f7a7be7e294b","features":{"constitutive":["mechanics"],"fem":["constitutive"],"math":[],"mechanics":["math"]},"yanked":false}
 {"name":"flavio","vers":"0.4.3","deps":[],"cksum":"c255153970015fb2051ca0630aa4e46aef321e10d02a8e57228488853cdc75e2","features":{"constitutive":["mechanics"],"fem":["constitutive"],"math":[],"mechanics":["math"]},"yanked":false}
+{"name":"flavio","vers":"0.4.4","deps":[],"cksum":"a90530c18467230cdc488d8845a54e8de38d9541dc8efecc3cb322c96dae1626","features":{"constitutive":["mechanics"],"fem":["constitutive"],"math":[],"mechanics":["math"]},"yanked":false}
