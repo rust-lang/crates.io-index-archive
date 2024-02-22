@@ -12,3 +12,4 @@
 {"name":"windows_x86_64_gnullvm","vers":"0.48.5","deps":[],"cksum":"0b7b52767868a23d5bab768e390dc5f5c55825b6d30b86c844ff2dc7414044cc","features":{},"yanked":false}
 {"name":"windows_x86_64_gnullvm","vers":"0.52.0","deps":[],"cksum":"1a657e1e9d3f514745a572a6846d3c7aa7dbe1658c056ed9c3344c4109a6949e","features":{},"yanked":false,"rust_version":"1.56"}
 {"name":"windows_x86_64_gnullvm","vers":"0.52.1","deps":[],"cksum":"dc885a4332ee1afb9a1bacf11514801011725570d35675abc229ce7e3afe4d20","features":{},"yanked":true,"rust_version":"1.60"}
+{"name":"windows_x86_64_gnullvm","vers":"0.52.3","deps":[],"cksum":"42079295511643151e98d61c38c0acc444e52dd42ab456f7ccfd5152e8ecf21c","features":{},"yanked":false,"rust_version":"1.60"}
