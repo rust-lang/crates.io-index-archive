@@ -1,0 +1,1 @@
+{"name":"fcwt","vers":"0.1.0","deps":[{"name":"rustfft","req":"^6.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b6de3f8614c4c7eda814f74ca41e466635e2c33ac0be3a47375ff05d0e0b542","features":{},"yanked":false}
