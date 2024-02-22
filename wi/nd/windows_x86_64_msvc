@@ -29,3 +29,4 @@
 {"name":"windows_x86_64_msvc","vers":"0.48.4","deps":[],"cksum":"bd1df36d9fd0bbe4849461de9b969f765170f4e0f90497d580a235d515722b10","features":{},"yanked":false}
 {"name":"windows_x86_64_msvc","vers":"0.48.5","deps":[],"cksum":"ed94fce61571a4006852b7389a063ab983c02eb1bb37b47f8272ce92d06d9538","features":{},"yanked":false}
 {"name":"windows_x86_64_msvc","vers":"0.52.0","deps":[],"cksum":"dff9641d1cd4be8d1a070daf9e3773c5f67e78b4d9d42263020c057706765c04","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"windows_x86_64_msvc","vers":"0.52.1","deps":[],"cksum":"9e440c60457f84b0bee09208e62acc7ade264b38c4453f6312b8c9ab1613e73c","features":{},"yanked":false,"rust_version":"1.60"}
