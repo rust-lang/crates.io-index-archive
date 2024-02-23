@@ -15,3 +15,4 @@
 {"name":"tftpd","vers":"0.2.8","deps":[],"cksum":"d6db8daf9583bfbfbab11d669e15672e715b00d33b81b737538ae87dbccf52c3","features":{},"yanked":true}
 {"name":"tftpd","vers":"0.2.9","deps":[],"cksum":"5faa234a122f30b470605711e7d5102189d4365e5077da01cb9fce5955ebb212","features":{},"yanked":false}
 {"name":"tftpd","vers":"0.2.10","deps":[],"cksum":"22de80df7acf62b7b6ac67c4a28ec8a693ec5ea708da916a2b62c627963dda74","features":{"integration":[]},"yanked":false}
+{"name":"tftpd","vers":"0.2.11","deps":[],"cksum":"9c2c61e862e9d9d4d59a62d82cfac93acd0ff916fddded975b3e6b6f6351e54e","features":{"integration":[]},"yanked":false}
