@@ -1,0 +1,1 @@
+{"name":"semanticsimilarity_rs","vers":"0.1.0","deps":[{"name":"rayon","req":"^1.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a0c7e778aea9a8987974efd1d8851c25b0e0d920f20ebe1ef679c534b5cbf3a","features":{},"yanked":false}
