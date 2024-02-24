@@ -1,1 +1,2 @@
 {"name":"actuate","vers":"0.1.0","deps":[],"cksum":"e3b3a5f385aebe73ebc9b836596648b1c09680575273a32f985f9d8e7201ac24","features":{},"yanked":false}
+{"name":"actuate","vers":"0.2.0-alpha.1","deps":[{"name":"hashbrown","req":"^0.14.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cd9e9219cd44a5ba4a3ba542e6d1b9d4a3b0f95209e556fd742f287994d6caa0","features":{},"yanked":false}
