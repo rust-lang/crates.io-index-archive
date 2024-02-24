@@ -1,0 +1,1 @@
+{"name":"cargo_will","vers":"0.2.0","deps":[{"name":"test_tools","req":"~0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"8bf949c5a22d87f93779416e0ccbdb9eff4cb289b94a936414981814da0316d2","features":{"default":["enabled"],"enabled":[],"full":["enabled"],"use_alloc":[]},"yanked":false}
