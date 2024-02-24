@@ -10,3 +10,4 @@
 {"name":"snowflaked","vers":"1.0.0","deps":[],"cksum":"a31a8ec97e45358cf0997805ba4e75ef1f94837e642d94773a2df85ed7a9ac5f","features":{"default":[],"sync":[]},"yanked":false}
 {"name":"snowflaked","vers":"1.0.1","deps":[],"cksum":"9009f767a5882af679fd5edbfccc160c87a26808e362e7a468b760b8907d8c53","features":{"default":[],"sync":[]},"yanked":false}
 {"name":"snowflaked","vers":"1.0.2","deps":[{"name":"loom","req":"^0.5","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"normal"}],"cksum":"8d331f7d30d0ad0c4cf0ec01fc15001c4b0928c48bdeb4fd4207aa37f512c930","features":{"default":[],"sync":[]},"yanked":false}
+{"name":"snowflaked","vers":"1.0.3","deps":[{"name":"loom","req":"^0.5","features":[],"optional":false,"default_features":true,"target":"cfg(loom)","kind":"normal"}],"cksum":"398d462c4c454399be452039b24b0aa0ecb4c7a57f6ae615f5d25de2b032f850","features":{"default":[],"sync":[]},"yanked":false}
