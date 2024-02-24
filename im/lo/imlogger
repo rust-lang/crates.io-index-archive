@@ -1,0 +1,1 @@
+{"name":"imlogger","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a7d641365b68231924c9d4cd16b4cd025af1b1b774255b5d9b98621d21c9d36","features":{},"yanked":false}
