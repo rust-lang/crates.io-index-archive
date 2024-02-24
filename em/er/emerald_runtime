@@ -1,0 +1,1 @@
+{"name":"emerald_runtime","vers":"0.1.0","deps":[{"name":"kernel_user_link","req":"^0.2.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"emerald_kernel_user_link"}],"cksum":"385d0fc3c844f5d9ad274ce13f1e868f73e921521787285ab7300a07c004c768","features":{},"yanked":false}
