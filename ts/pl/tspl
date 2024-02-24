@@ -1,1 +1,2 @@
 {"name":"TSPL","vers":"0.0.1","deps":[{"name":"highlight_error","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7f7bc3c167472f0599b71590ead5067418477b7d512ec251b25b4aa78fa808f","features":{},"yanked":false}
+{"name":"TSPL","vers":"0.0.2","deps":[{"name":"highlight_error","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"70c6d3581668d7044c9d330a6de43f24507dd9d44258a6026aa218a93f6a32f0","features":{},"yanked":false}
