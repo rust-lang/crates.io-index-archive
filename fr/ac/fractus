@@ -1,0 +1,1 @@
+{"name":"fractus","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.20.3","features":["extension-module"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a3c7d27b3e8953b4c96df556f3f9fad8f3909eadcab78f84c4dc4ad9f5f4242","features":{"python":["pyo3/extension-module"]},"yanked":false}
