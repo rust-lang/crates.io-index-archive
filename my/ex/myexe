@@ -1,2 +1,3 @@
 {"name":"myexe","vers":"0.1.0","deps":[{"name":"my3","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6148be7264f68c669b60e9ab527c0b4c06f5c77780a47d22a8f613efec039f87","features":{},"yanked":false}
 {"name":"myexe","vers":"0.1.1","deps":[{"name":"my3","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb10a9699ecba0522320147cbbdddb851157094a273d33b9fc3594ba5173a679","features":{},"yanked":false}
+{"name":"myexe","vers":"0.1.5","deps":[{"name":"my3","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2b4ff14b2514e5850d7a0c4009c5c6797624e6093495618b819d48f730c7a87","features":{},"yanked":false}
