@@ -3,3 +3,4 @@
 {"name":"arkyo","vers":"0.0.2","deps":[],"cksum":"bfba3a5c78396d82cbe5efd373f7dd9f8ff7dd152d17c94137501695b4df6920","features":{},"yanked":false}
 {"name":"arkyo","vers":"0.0.3","deps":[],"cksum":"fe7c9df3d96db73278ed23a5d3ea85f3bd52d89ca40ec31235a0dd674396af98","features":{},"yanked":false}
 {"name":"arkyo","vers":"0.0.4","deps":[{"name":"chrono","req":"^0.4.34","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"203183ebc97ff519b7edcc885e719f8bcb6b9600f0d1dd994ee6f5172c55dd2f","features":{},"yanked":false}
+{"name":"arkyo","vers":"0.0.5","deps":[{"name":"chrono","req":"^0.4.34","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4f7f24ef5e0fb478327dc5d95afcc2fcbac15f6c3b2b079669dfac9679a2d98","features":{},"yanked":false}
