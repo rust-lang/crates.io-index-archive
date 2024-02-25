@@ -1,0 +1,1 @@
+{"name":"dependent_sort","vers":"0.0.0","deps":[{"name":"fixedbitset","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2be2edd4372b25439c0f1969dc923e17e783a5509bbb900165870f45c46920e","features":{"default":[]},"yanked":false}
