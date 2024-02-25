@@ -11,3 +11,4 @@
 {"name":"vcheat","vers":"0.3.2","deps":[],"cksum":"67e6c4f404a70d02a90c2f67da0d7bb082b02ce3b0f09717ba56c6a6d105a6d9","features":{},"yanked":false}
 {"name":"vcheat","vers":"0.4.0","deps":[{"name":"unsafe_fn_body","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c16fc08cf6409093fa98db570be4e7e8502a96da7583e00e7c307a356d0dd5c","features":{},"yanked":false}
 {"name":"vcheat","vers":"0.4.1","deps":[{"name":"unsafe_fn_body","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2154a59973eb0fd1ca49cd194b4d3a0fbd6103cc84750d87cb3fda1f14070beb","features":{},"yanked":false}
+{"name":"vcheat","vers":"0.4.3","deps":[{"name":"unsafe_fn_body","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4081068a4bac0d3c93321ef12aaae0227dc92d2e46f01ab5f72bb62265c2fb63","features":{},"yanked":false}
