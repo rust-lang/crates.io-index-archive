@@ -8,3 +8,4 @@
 {"name":"ncheat","vers":"0.1.7","deps":[],"cksum":"93c50503a7970b7a3c3a91b63b0ed156e619fc4b7fe0a7f3bd4eedd1f7055cc2","features":{},"yanked":true}
 {"name":"ncheat","vers":"0.1.8","deps":[],"cksum":"bcd9a467dfa03320ea433fa7018e27aa0f938f3fe1c081271987cb59a72ab599","features":{},"yanked":false}
 {"name":"ncheat","vers":"0.3.0","deps":[],"cksum":"5444d9a8f8a2f9b1519531abe6610fea27486f07cbbfabe682f066b4f38dd0eb","features":{},"yanked":false}
+{"name":"ncheat","vers":"0.4.3","deps":[{"name":"unsafe_fn_body","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2bb894c7eca5cee4ae3b842f12d3abd7ed7c73819bb9631df733d6f2863081bb","features":{},"yanked":false}
