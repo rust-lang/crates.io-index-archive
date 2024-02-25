@@ -1,1 +1,2 @@
 {"name":"outliving-deref","vers":"0.0.0","deps":[],"cksum":"85943f5bc930a732ddd565d262ee3cbe81c6cb3aed8772f3ca16ae53c892eea1","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"outliving-deref","vers":"0.0.1","deps":[],"cksum":"64e73fec15d4834ba7a17d99d5ee3cde1c0231b15d286fa31e0f732a291de602","features":{"default":["std"],"std":[]},"yanked":false}
