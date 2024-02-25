@@ -1,0 +1,1 @@
+{"name":"rust_keien","vers":"0.1.0","deps":[{"name":"sort_rust","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8c9f5f9ec3ae46a43ad0d2b4e7d22000dc6bc342a31ca685ec6e2dd93f67436e","features":{},"yanked":false}
