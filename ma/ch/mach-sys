@@ -1,0 +1,1 @@
+{"name":"mach-sys","vers":"0.4.3","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0776e595072a3921b3b70c009b90b038ea693b2b941c126d8d0bad44899bcd2f","features":{"default":[],"unstable":[]},"yanked":false}
