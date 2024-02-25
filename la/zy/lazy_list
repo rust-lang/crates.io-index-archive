@@ -1,0 +1,1 @@
+{"name":"lazy_list","vers":"0.1.0","deps":[{"name":"once_cell","req":"~1.19.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5664321d0e6b2a9ba675a59f11208645e324119195b8bff10e11dc7356e697d1","features":{},"yanked":false}
