@@ -20,3 +20,4 @@
 {"name":"rtile","vers":"1.1.6","deps":[],"cksum":"fc7ac10c7b84cc1d1e97c0cd4960651e2acaf3b87a95c37606c0675ddb50e899","features":{},"yanked":true}
 {"name":"rtile","vers":"1.2.0","deps":[],"cksum":"9717f8cc1186494ce99bf0506eb1040df742172e15b43a848a91229f028be599","features":{},"yanked":false}
 {"name":"rtile","vers":"1.2.1","deps":[],"cksum":"4de9140c0bb198c2bd6e4d24b7895d85264c455c4d217b0022d44d14b9598e61","features":{},"yanked":false}
+{"name":"rtile","vers":"1.2.2","deps":[],"cksum":"ac63153fd2e129c9145fb44374c7051db3262f1915f8ef5eec0ec362aa903fac","features":{},"yanked":false}
