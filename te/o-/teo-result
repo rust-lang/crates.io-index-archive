@@ -12,3 +12,4 @@
 {"name":"teo-result","vers":"0.0.65","deps":[],"cksum":"e85b0a7c9cc274690304a20a7210f54b68605bd2b68efa2561f4a5251115edab","features":{},"yanked":false}
 {"name":"teo-result","vers":"0.1.0","deps":[],"cksum":"519b6fb4c1499fb5d6350e28f53558cc92a1e10bd32a02781cfb30c85ceeaac1","features":{},"yanked":false}
 {"name":"teo-result","vers":"0.2.0","deps":[],"cksum":"3c0570eb0d8cdba95056c13a288c1ab39fea48a93a69f1f7347df5e7a2c17a00","features":{},"yanked":false}
+{"name":"teo-result","vers":"0.2.8","deps":[{"name":"indexmap","req":"^2.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f8d61a0d23770dd302816a52c40c3193a810227e5c8bcb81a93172ceb242834f","features":{},"yanked":false}
