@@ -1,1 +1,2 @@
 {"name":"parasail-rs","vers":"0.1.0","deps":[{"name":"libparasail-sys","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"307456ff7474f84bdcb88996f636f6dbe6f93feaf839bd57bcf8ee31ea6cfdb8","features":{},"yanked":false}
+{"name":"parasail-rs","vers":"0.2.0","deps":[{"name":"libparasail-sys","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"456f2c99a01fc53072cd22f356645e087e6b363e55bf4ed3fcb20eacfb79ec31","features":{},"yanked":false}
