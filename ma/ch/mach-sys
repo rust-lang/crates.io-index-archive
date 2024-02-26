@@ -1,1 +1,2 @@
 {"name":"mach-sys","vers":"0.4.3","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0776e595072a3921b3b70c009b90b038ea693b2b941c126d8d0bad44899bcd2f","features":{"default":[],"unstable":[]},"yanked":false}
+{"name":"mach-sys","vers":"0.4.4","deps":[],"cksum":"d853c2c0f761e2b5a32f82018273bc5681150ddde0d72e9e46bbd1cbef83dd83","features":{"default":[],"unstable":[]},"yanked":false}
