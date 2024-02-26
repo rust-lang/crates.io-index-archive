@@ -10,3 +10,4 @@
 {"name":"rustls-pki-types","vers":"1.1.0","deps":[],"cksum":"9e9d979b3ce68192e42760c7810125eb6cf2ea10efae545a156063e61f314e2a","features":{"alloc":[],"default":["alloc"],"std":["alloc"]},"yanked":false,"rust_version":"1.60"}
 {"name":"rustls-pki-types","vers":"1.2.0","deps":[],"cksum":"0a716eb65e3158e90e17cd93d855216e27bde02745ab842f2cab4a39dba1bacf","features":{"alloc":[],"default":["alloc"],"std":["alloc"]},"yanked":false,"rust_version":"1.60"}
 {"name":"rustls-pki-types","vers":"1.3.0","deps":[],"cksum":"048a63e5b3ac996d78d402940b5fa47973d2d080c6c6fffa1d0f19c4445310b7","features":{"alloc":[],"default":["alloc"],"std":["alloc"]},"yanked":false,"rust_version":"1.60"}
+{"name":"rustls-pki-types","vers":"1.3.1","deps":[],"cksum":"5ede67b28608b4c60685c7d54122d4400d90f62b40caee7700e700380a390fa8","features":{"alloc":[],"default":["alloc"],"std":["alloc"]},"yanked":false,"rust_version":"1.60"}
