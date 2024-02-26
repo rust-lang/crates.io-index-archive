@@ -1,0 +1,1 @@
+{"name":"snoop","vers":"1.0.0","deps":[],"cksum":"466d9214cb053e186e1cd643bafac58e8b5e3b4395d6bd5cf0106998c73c82f7","features":{"default":["parse"],"full":["read","write"],"parse":[],"read":[],"write":[]},"yanked":false}
