@@ -1,0 +1,1 @@
+{"name":"document_validator_macros","vers":"0.1.0","deps":[{"name":"document_validator_core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"73f8222350c2aaab6b9486f47ea6622ea4049fbbba15cf443e7f5003ab4e8c33","features":{},"yanked":false}
