@@ -1,7 +1,7 @@
 {"name":"simple-string-patterns","vers":"0.1.0","deps":[],"cksum":"71e5a81291fea81dd6a7f737ceda86004e68fd5b3169a7c52a0cf6f0c065af71","features":{},"yanked":false}
 {"name":"simple-string-patterns","vers":"0.1.1","deps":[],"cksum":"14398e9f66140964c830f91778e45992b9fd1fd3b0c5b3f6cd226db9cb879bb4","features":{},"yanked":false}
 {"name":"simple-string-patterns","vers":"0.1.2","deps":[],"cksum":"a894fcfa2ce8404abfea3e85deb9e6b03d47e6518af91c3f6f9b1a6c15add85b","features":{},"yanked":false}
-{"name":"simple-string-patterns","vers":"0.1.3","deps":[],"cksum":"9fcdd5294ac2c1054f2eb81c0e4ae61f7ccd03ca256147c08a78b6751bf2b940","features":{},"yanked":false}
+{"name":"simple-string-patterns","vers":"0.1.3","deps":[],"cksum":"9fcdd5294ac2c1054f2eb81c0e4ae61f7ccd03ca256147c08a78b6751bf2b940","features":{},"yanked":true}
 {"name":"simple-string-patterns","vers":"0.1.4","deps":[],"cksum":"6dd9e2d99e641c35b79778eeaf872fda18f5de3453a70ebbb14b9561c76aaad7","features":{},"yanked":true}
 {"name":"simple-string-patterns","vers":"0.1.5","deps":[],"cksum":"ef8a5fa19dd958340cd6ef9a014347fedadf0520d67feb051e6cf943040a74ef","features":{},"yanked":true}
 {"name":"simple-string-patterns","vers":"0.1.6","deps":[],"cksum":"a5442d809b44cdc66228588b9a35bea2ca4af366698ee0c523d666576ba55587","features":{},"yanked":true}
