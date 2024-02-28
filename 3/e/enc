@@ -8,3 +8,4 @@
 {"name":"enc","vers":"0.3.0","deps":[],"cksum":"7ee84846e2e3020b15aa441427414d0676e7d46098658203bb01d38798bf737e","features":{},"yanked":false}
 {"name":"enc","vers":"0.4.0","deps":[],"cksum":"c471e074bbec7e51497b5d4980fb7bfeffbb7034a5ed3fbdff47ab7149053644","features":{},"yanked":false}
 {"name":"enc","vers":"0.5.0","deps":[],"cksum":"48fa40209cf65bc0141cd85cabc97c7437da3bcaff81a8784b9cc872fa9a57b0","features":{},"yanked":false}
+{"name":"enc","vers":"0.6.0","deps":[],"cksum":"4ebb3260e7b99429bcd6c26b070e5b60f936f23d3335878d560525e176a5172f","features":{"base-64":[],"full":["hex","var-int"],"hex":[],"percent":["hex"],"var-int":[]},"yanked":false}
