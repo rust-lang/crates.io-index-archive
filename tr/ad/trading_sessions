@@ -1,0 +1,1 @@
+{"name":"trading_sessions","vers":"0.1.0","deps":[{"name":"polars","req":"^0.37","features":["lazy"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"daef1fd1e3c2c4b0c2b6f9075e73852b8210eb2101330db87e1e9f42f7d57bd5","features":{},"yanked":false}
