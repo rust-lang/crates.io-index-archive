@@ -1,0 +1,1 @@
+{"name":"goxoy_tcp_common","vers":"0.1.0","deps":[{"name":"goxoy-address-parser","req":"^0.0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e98d20f90bad02be559d9f900f75e35f3c7f76c9a87303adb571e3de5c6eb6ca","features":{},"yanked":false}
