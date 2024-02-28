@@ -1,0 +1,1 @@
+{"name":"rjvm","vers":"0.1.0","deps":[{"name":"bitflags","req":"^2.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"08fc39d0b835c3e78a4e019d17af18d601a94c6f9f41d002c4e45ae3be815050","features":{"decoder":[],"default":["decoder"]},"yanked":false}
