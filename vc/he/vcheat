@@ -13,3 +13,4 @@
 {"name":"vcheat","vers":"0.4.1","deps":[{"name":"unsafe_fn_body","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2154a59973eb0fd1ca49cd194b4d3a0fbd6103cc84750d87cb3fda1f14070beb","features":{},"yanked":false}
 {"name":"vcheat","vers":"0.4.3","deps":[{"name":"unsafe_fn_body","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4081068a4bac0d3c93321ef12aaae0227dc92d2e46f01ab5f72bb62265c2fb63","features":{},"yanked":false}
 {"name":"vcheat","vers":"0.5.0","deps":[],"cksum":"ea2b946f2d4879e37f69ec9e8d28e1a1863392fd92103c1e4d9d1e86fb1064c9","features":{},"yanked":false}
+{"name":"vcheat","vers":"0.5.1","deps":[],"cksum":"39bfbe9690f60d85413bb007d884bd3cc2161dc2556c87e448520eecc4c1521a","features":{},"yanked":false}
