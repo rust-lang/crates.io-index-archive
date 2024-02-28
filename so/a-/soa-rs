@@ -1,1 +1,2 @@
 {"name":"soa-rs","vers":"0.3.0","deps":[{"name":"soa-rs-derive","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"625c7735f148c9bbe983e9929a455949cc90792e4b7f8eaf357dd9ba97a453f5","features":{},"yanked":false}
+{"name":"soa-rs","vers":"0.3.1","deps":[{"name":"soa-rs-derive","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4eb858e95ff5a319c75bb33ad25042ea27a516e5b7e9ca7f1680fb94d4fb3c5e","features":{},"yanked":false}
