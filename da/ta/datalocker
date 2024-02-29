@@ -1,1 +1,2 @@
 {"name":"datalocker","vers":"0.2.0","deps":[{"name":"mysql","req":"^24.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f43619dfffcf0b536a3c34465f1ae8cb2a445b964b91e2dcb3963676dcf16bfe","features":{},"yanked":false}
+{"name":"datalocker","vers":"0.2.1","deps":[{"name":"mysql","req":"^24.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"910b944fe4ac9579f18296a4d7f6ac22edb97a3efc720903c3cb2eb49d63f99b","features":{},"yanked":false}
