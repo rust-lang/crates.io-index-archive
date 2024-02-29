@@ -1,0 +1,1 @@
+{"name":"diesel-x86","vers":"0.1.0","deps":[{"name":"diesel","req":"^1.4.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e57dad47f61f06154698c0e7b955144bb9e1da0ed4f4fcc2943ad71cbbb01f2a","features":{"extras":["diesel/extras"],"mysql":["diesel/mysql"],"postgres":["diesel/postgres"],"sqlite":["diesel/sqlite"]},"yanked":false}
