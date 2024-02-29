@@ -1,0 +1,1 @@
+{"name":"rasi-syscall","vers":"0.1.0","deps":[{"name":"futures","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56bbe80552658a65f23d6c763bf49aa9a8f9bcf5a64b3396712fb44dc7e534a1","features":{},"yanked":false}
