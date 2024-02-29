@@ -3,3 +3,4 @@
 {"name":"calyx-stdlib","vers":"0.6.0","deps":[],"cksum":"a392d6d9219a8971abc2472b3f975e90b04c261a5e2f3e14c85a4a61fc43d252","features":{},"yanked":false}
 {"name":"calyx-stdlib","vers":"0.6.1","deps":[],"cksum":"f36d7a7955ec99fd46c24c39daf8f08f45141ef845bec6b2e74295f4779c9324","features":{},"yanked":false}
 {"name":"calyx-stdlib","vers":"0.7.0","deps":[],"cksum":"ee31e8ed10b7b6ace53ae64d17473f8e0eb67b8a6d8d259056442935f917e152","features":{},"yanked":true}
+{"name":"calyx-stdlib","vers":"0.7.1","deps":[],"cksum":"ed116366a4cabb20fecb446bb1fb5ed45e22a37217d8832995d16b3e868196fa","features":{},"yanked":false}
