@@ -1,0 +1,1 @@
+{"name":"ncvm","vers":"0.0.0","deps":[{"name":"bindgen","req":"^0.69.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"48525d5355a9f59945f895b030d43552fd7f12965fe13f85b47dc40d7a11406e","features":{},"yanked":false}
