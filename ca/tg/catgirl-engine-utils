@@ -1,0 +1,1 @@
+{"name":"catgirl-engine-utils","vers":"0.11.0","deps":[{"name":"clap","req":"~4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee73285edc8f66d29b4c9773383c4530e7b1193bfc34c1d3cf510c742f6bf7e7","features":{},"yanked":false}
