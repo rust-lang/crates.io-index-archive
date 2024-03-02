@@ -1,1 +1,2 @@
 {"name":"mc-network-data-types","vers":"0.1.0","deps":[{"name":"derive_more","req":"^0.99.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e96a76013921dc5a79cea563102d4f2199f4c7c417d9d8ce25d25b34c3beb13","features":{},"yanked":false}
+{"name":"mc-network-data-types","vers":"0.1.1","deps":[{"name":"derive_more","req":"^0.99.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c7f30c8036b056e59dca906c1a91d6f6e3c4e4c632a2f8d4218c3562bad80ee4","features":{},"yanked":false}
