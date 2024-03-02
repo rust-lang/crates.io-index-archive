@@ -1,0 +1,1 @@
+{"name":"pwin","vers":"0.1.0","deps":[{"name":"termion","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62826b7f7d0a705e5452719080f36232696b9b1e272b4cb4dbba2a9a4a1c2756","features":{},"yanked":false}
