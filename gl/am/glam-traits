@@ -1,1 +1,2 @@
 {"name":"glam-traits","vers":"0.1.0","deps":[{"name":"glam","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ede6b8dc9b306271b3cfdede325f611efeb0e78ae8c8e7fd62189fbc7e13f379","features":{},"yanked":false}
+{"name":"glam-traits","vers":"0.1.1","deps":[{"name":"glam","req":"^0.25.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7994eaaee3fced4d3df83010d5910e4cf1be71bb5b8256ecfef96c2569e397d","features":{},"yanked":false}
