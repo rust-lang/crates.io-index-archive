@@ -1,0 +1,1 @@
+{"name":"socket_selector","vers":"0.1.0","deps":[{"name":"mio","req":"^0.8.10","features":["os-poll","net"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ebf10814278ba4c8656704e79a1cada22191a3c02443cbbef5bc9ed9fcce11ef","features":{},"yanked":false}
