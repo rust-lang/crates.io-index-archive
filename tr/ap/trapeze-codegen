@@ -1,0 +1,1 @@
+{"name":"trapeze-codegen","vers":"0.1.0","deps":[{"name":"prost-build","req":"^0.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04d8ac956e4d2aaffe59370dfafe8f0e2f6263a827a638f7a5fb89568f125f01","features":{},"yanked":false}
