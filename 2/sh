@@ -1,0 +1,1 @@
+{"name":"sh","vers":"0.2.0","deps":[{"name":"sh-macro","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thiserror","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e036a3fdbde4a113a1168533993a55dfe71cd716094cb951de1e32ec42adda38","features":{},"yanked":false}
