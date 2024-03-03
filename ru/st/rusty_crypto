@@ -1,1 +1,2 @@
 {"name":"rusty_crypto","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f3ffe692fdf6eb2b4b9ab50caea7afa1d5e232867317223a6a1dfdeb452510f","features":{},"yanked":false}
+{"name":"rusty_crypto","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be9a5c8fcb45b2e97452f607f63938718b9876be9ba4903b716227bdcdad3618","features":{},"yanked":false}
