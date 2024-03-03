@@ -5,3 +5,4 @@
 {"name":"irox-units","vers":"0.3.2","deps":[],"cksum":"300449943216718422f3b0d78ad3f8c24dd68a49af51b0cac439627ad294f2c2","features":{},"yanked":false}
 {"name":"irox-units","vers":"0.3.3","deps":[],"cksum":"317ee27bf84317e98c47b4bacb55815d51867d5fb6bebb5e3dff663ba63c367a","features":{},"yanked":false}
 {"name":"irox-units","vers":"0.3.4","deps":[],"cksum":"c36ed1702567ec07ba4bacef549e9b6ba59fce6ff86612a28b85db0f1f4a317b","features":{},"yanked":false}
+{"name":"irox-units","vers":"0.3.5","deps":[{"name":"irox-tools","req":"^0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1efb8326413c5c757a4671ab2f3df98d5d8869a61c2ddab30972a805e63af75a","features":{"default":[],"std_errors":[]},"yanked":false}
