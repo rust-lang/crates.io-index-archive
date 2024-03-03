@@ -8,3 +8,4 @@
 {"name":"j1939","vers":"0.1.20","deps":[],"cksum":"023647a8ad8ff4d2d47c32e8731a511a15088ce967b8fced475284866ee41550","features":{"can":[]},"yanked":false}
 {"name":"j1939","vers":"0.1.21","deps":[],"cksum":"e1eada3d29a51a1da2ff231435a7b814c0e2df66baa8ccc0d3f10180b31139bc","features":{"can":[]},"yanked":false}
 {"name":"j1939","vers":"0.1.22","deps":[],"cksum":"16df581f79b7651a35a912cf1c36959c1e6d92a8d0eea411d766237de157ff34","features":{"can":[]},"yanked":false}
+{"name":"j1939","vers":"0.1.23","deps":[],"cksum":"ad4e0f8b2bc0540593a77e28cc50f479a5472b11ccd219ca2b93f7336aea6e8b","features":{"can":[]},"yanked":false}
