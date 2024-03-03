@@ -1,0 +1,1 @@
+{"name":"pyinrs","vers":"0.1.0","deps":[{"name":"rstest","req":"^0.18.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"80583c0187ca1a57cbce535a5d3d6ce79bad8219d491fb348bc6c641f24ab2af","features":{},"yanked":false}
