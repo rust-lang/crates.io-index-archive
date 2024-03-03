@@ -1,0 +1,1 @@
+{"name":"bevy_ghx_utils","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.12.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1ba60e0c302364cb90f1d0c416f1f724472d57ea1d86d85da3390f8cb3bfc67e","features":{"default":["pan-orbit-camera"],"pan-orbit-camera":["bevy/bevy_render"]},"yanked":false}
