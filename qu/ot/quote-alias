@@ -1,0 +1,1 @@
+{"name":"quote-alias","vers":"1.0.0","deps":[{"name":"proc-macro2","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quote","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3188b337f3a0b65b72401547885143b3c3193028aefe6d44aaaaa822dc8ed0a2","features":{},"yanked":false}
