@@ -1,0 +1,1 @@
+{"name":"wasmedge-wasi-nn","vers":"0.7.0","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"621cebaae6f8a2e4723aed2ddeee0f9f09582e79d52707802190b7e7cf967d2d","features":{},"yanked":false}
