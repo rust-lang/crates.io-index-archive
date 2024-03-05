@@ -1,0 +1,1 @@
+{"name":"goxoy-tar-archive","vers":"0.1.0","deps":[{"name":"tar","req":"^0.4.40","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"24b53de7bfb8620321b8b65bc9009f491a6b2df546db03cd16671b0e2c306643","features":{},"yanked":false}
