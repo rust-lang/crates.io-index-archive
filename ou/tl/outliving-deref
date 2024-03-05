@@ -3,3 +3,4 @@
 {"name":"outliving-deref","vers":"0.0.2","deps":[],"cksum":"43cd86bf715bb8dd4168d0d2a4f1618c7fbb6855bbc8a88587fdcdbaf7575cd0","features":{"default":["std"],"std":[]},"yanked":true}
 {"name":"outliving-deref","vers":"0.0.3","deps":[],"cksum":"7b098d08079cf2f7e61209d0f61440c797c41e6e563403e1626c9607a3b7af03","features":{"default":["std"],"std":[]},"yanked":true}
 {"name":"outliving-deref","vers":"0.0.4","deps":[],"cksum":"21c3ad37248b9250f342a2ca48db40ef42c26dcbe99d3443852d8f70f99b602e","features":{},"yanked":true}
+{"name":"outliving-deref","vers":"0.0.5","deps":[],"cksum":"1cbd5303eb97bdc659c25d48ec13850b7d278ef02a05de6c490a81b668a3d660","features":{},"yanked":false}
