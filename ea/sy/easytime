@@ -8,3 +8,4 @@
 {"name":"easytime","vers":"0.2.4","deps":[{"name":"const_fn","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"42591b85e37cbf1797a22b71c634ddc79f9a08b6d6be4fee74dda2d42a2c3eec","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.34"}
 {"name":"easytime","vers":"0.2.5","deps":[],"cksum":"cc4818579fececf961f3af8750b332b17e9dfd4e1c787514e29c1561290b276d","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.34"}
 {"name":"easytime","vers":"0.2.6","deps":[],"cksum":"07f3b06e32cdd897deb43a8670f8f3306931b1134647a596937123ab07709ba5","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.58"}
+{"name":"easytime","vers":"0.2.7","deps":[],"cksum":"87652badcf4f141c0f0c693eaa44873f4a370e239510a04fd8bdbbdd765d72bd","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.58"}
