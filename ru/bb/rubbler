@@ -1,0 +1,1 @@
+{"name":"rubbler","vers":"0.1.0","deps":[{"name":"cbindgen","req":"^0.24.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ef0f9a8024bc5e2a64fcf1575a2078995da5ecf67908591dd92e20eec33ed305","features":{},"yanked":false}
