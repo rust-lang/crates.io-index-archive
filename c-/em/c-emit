@@ -1,0 +1,1 @@
+{"name":"c-emit","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"89bd636298fa92495de43f4a6c380c2bad532e2e2eb74bbd63159bbb5c13fadb","features":{},"yanked":false}
