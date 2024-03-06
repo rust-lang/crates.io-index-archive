@@ -1,0 +1,1 @@
+{"name":"verbs-macros","vers":"0.2.3","deps":[{"name":"quote","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"syn","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b40635a491abf2cba00ef017d32458c82ce21a8face05a1cada59bc7202079f2","features":{},"yanked":false}
