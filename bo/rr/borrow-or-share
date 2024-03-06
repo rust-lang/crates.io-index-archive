@@ -1,2 +1,3 @@
 {"name":"borrow-or-share","vers":"0.0.0","deps":[],"cksum":"dc954e51914d3232a7b305ef1e18afefee857b8209cf00f88b2286eb12da36c4","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"borrow-or-share","vers":"0.0.1","deps":[],"cksum":"7ba7dc0913f2043ad0b8c72ccf85862815a148e6e49b7d52eeb2e499b07d3787","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"borrow-or-share","vers":"0.1.0","deps":[],"cksum":"4e60cb2955cf311465e93ef9cc43cc6438f0c6b29c150d369c3246df5ef4d571","features":{"default":["std"],"std":[]},"yanked":false}
