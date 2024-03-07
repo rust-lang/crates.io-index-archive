@@ -1,0 +1,1 @@
+{"name":"jppe_derive","vers":"0.2.0","deps":[{"name":"virtue","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9adfde75103ca17290a205eaf95936a24ab64658230db621669ae951b66a290c","features":{},"yanked":false,"rust_version":"1.56"}
