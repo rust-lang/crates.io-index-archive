@@ -40,3 +40,4 @@
 {"name":"zuu","vers":"7.2.1","deps":[],"cksum":"fa6519b6a57a327a08151b8c01f30d0c622a558435a5b975875cb27c81e2f602","features":{},"yanked":false}
 {"name":"zuu","vers":"8.0.0","deps":[],"cksum":"39546bb342bec95a20cffa6dc42b043d77f6dce1a5b7aa7b276d6e2de9143b15","features":{},"yanked":false}
 {"name":"zuu","vers":"8.0.1","deps":[],"cksum":"3000e9e2b949e7e0023d6690a13939f258707facb731f86a3f4b37a361b4c81c","features":{},"yanked":false}
+{"name":"zuu","vers":"10.0.0","deps":[{"name":"ansi-escapes","req":"=0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95a84109247130f9c170d8eef5980722b5b75ff954324c05bc338d30e03b5a0b","features":{},"yanked":false}
