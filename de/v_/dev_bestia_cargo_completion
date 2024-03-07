@@ -6,3 +6,4 @@
 {"name":"dev_bestia_cargo_completion","vers":"2023.531.1119","deps":[{"name":"lazy_static","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"unwrap","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e844569baaf49b0e35e0f78bcbbb1c6083630687cacedb3d78b908b808c78d6","features":{},"yanked":false}
 {"name":"dev_bestia_cargo_completion","vers":"2024.306.2242","deps":[],"cksum":"c8d2e03acffa1f85cb435a1fa576614962c832b90eb737371208c8f72f2e95c5","features":{},"yanked":false}
 {"name":"dev_bestia_cargo_completion","vers":"2024.306.2322","deps":[],"cksum":"6fcfd08120a5a4333ba779c99c282e760b1b79f035794658d2b9dd4fd3b0a3d2","features":{},"yanked":false}
+{"name":"dev_bestia_cargo_completion","vers":"2024.307.1911","deps":[],"cksum":"48f0df3464d5f0b19bb4cc22bdf3f5defd6c9a1630845904c035bfcf218fb5a0","features":{},"yanked":false}
