@@ -1,1 +1,2 @@
 {"name":"qirust","vers":"0.1.0","deps":[{"name":"image","req":"^0.24.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"866977cdf800fcfe4ce9bf3cc73aff80035dadd767bbe30d296b8e72e1d1c1e7","features":{},"yanked":false}
+{"name":"qirust","vers":"0.1.1","deps":[{"name":"image","req":"^0.24.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b1ef865c40e3cf740f4437bb427419e72b042b701f13fdab7498c5eeb7374a3","features":{},"yanked":false}
