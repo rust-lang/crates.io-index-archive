@@ -1,0 +1,1 @@
+{"name":"trustedflow-attestation-rs","vers":"0.1.0-dev20240308","deps":[{"name":"trustedflow-attestation-sys","req":"^0.1.0-dev20240308","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dcb00f666c2908d11b19d50ce97acd74c5d2f83a7de6e08b2eb6fe01147264c2","features":{},"yanked":false}
