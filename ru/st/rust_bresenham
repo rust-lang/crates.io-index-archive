@@ -7,4 +7,4 @@
 {"name":"rust_bresenham","vers":"0.1.6","deps":[],"cksum":"1c33bda24a6eabd3b01abead7d2aeae3ef0c6fe58273ad495140bf3a0f88d413","features":{},"yanked":true}
 {"name":"rust_bresenham","vers":"0.1.7","deps":[],"cksum":"233782e98d84239ec09be98caf425683aa9180f1dbacbe2b49f92f7b4855a2d5","features":{},"yanked":true}
 {"name":"rust_bresenham","vers":"0.1.8","deps":[],"cksum":"45268b7a36e5fb28387733076aa344b2180c3e350ff1b05bff39d5cf85571565","features":{},"yanked":false}
-{"name":"rust_bresenham","vers":"0.0.0","deps":[],"cksum":"6fd52c11ec904c3ace390117ab58981ca52762a50953f13a3c82b8dc50191125","features":{},"yanked":false}
+{"name":"rust_bresenham","vers":"0.0.0","deps":[],"cksum":"6fd52c11ec904c3ace390117ab58981ca52762a50953f13a3c82b8dc50191125","features":{},"yanked":true}
