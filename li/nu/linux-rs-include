@@ -1,4 +1,0 @@
-{"name":"linux-rs-include","vers":"0.0.1","deps":[],"cksum":"30794b6ed28842cc5966a169024455ba507b3bb14fc96bc5b73d0fec15c207a1","features":{},"yanked":false}
-{"name":"linux-rs-include","vers":"0.0.2","deps":[],"cksum":"ab4e9b6bc4cd19eed10e4d03d99971f552dbcc01ed89924c8e569624d9353ace","features":{"CONFIG_TRACE_IRQFLAGS":[]},"yanked":false}
-{"name":"linux-rs-include","vers":"0.0.3","deps":[],"cksum":"444b5cbe4a94ed7abd40912ef0d544b4fd98f3c367a33468c4ea0747536355a6","features":{"CONFIG_TRACE_IRQFLAGS":[]},"yanked":false}
-{"name":"linux-rs-include","vers":"0.0.4","deps":[],"cksum":"c4bf820c28f0f05c6deb4970897323a9d7956a514c79739a205df9cf8a51a086","features":{"CONFIG_TRACE_IRQFLAGS":[]},"yanked":false}
