@@ -6,4 +6,4 @@
 {"name":"line_of_sight","vers":"0.1.5","deps":[],"cksum":"d48b518263647f555706180ef238df13b7f42e8f7dcc9bf9b923edcbed8c075a","features":{},"yanked":true}
 {"name":"line_of_sight","vers":"0.2.0","deps":[],"cksum":"3e2bc7550614bcefc5fb74bf43b93cbd9cae05171d03be204db863ab32585129","features":{},"yanked":true}
 {"name":"line_of_sight","vers":"0.2.1","deps":[],"cksum":"2b033437798ab7c6d540844c7469071241eb630e17afd35ba8be5396ef9098bb","features":{},"yanked":false}
-{"name":"line_of_sight","vers":"0.0.0","deps":[],"cksum":"364f481b79153b8045191c4ac7649b33a90ac9e9c8751d2c1b1334a2c36449e5","features":{},"yanked":false}
+{"name":"line_of_sight","vers":"0.0.0","deps":[],"cksum":"364f481b79153b8045191c4ac7649b33a90ac9e9c8751d2c1b1334a2c36449e5","features":{},"yanked":true}
