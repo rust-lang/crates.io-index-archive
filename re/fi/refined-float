@@ -1,0 +1,1 @@
+{"name":"refined-float","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8de61f8973db8fd90e27566c3d0352d5f8956afd593d7e7e2e3b161b9317b32d","features":{},"yanked":false}
