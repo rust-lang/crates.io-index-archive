@@ -7,3 +7,4 @@
 {"name":"jsonic","vers":"0.1.6","deps":[],"cksum":"3a306bd9d3066e42f5f5fcb317016f8e91417b3391acf529240f733dae24ede7","features":{},"yanked":false}
 {"name":"jsonic","vers":"0.1.7","deps":[],"cksum":"7504d8f702c967a75dbc29a6bdac3f7e38e742abc5a04fd3dbb0ca77de32b3d9","features":{},"yanked":false}
 {"name":"jsonic","vers":"0.1.8","deps":[],"cksum":"ed4b49c12df65d87676a21e2b75bfc58a14202938cdebb1a8b96ea1ec0e80563","features":{},"yanked":false}
+{"name":"jsonic","vers":"0.2.0","deps":[{"name":"divan","req":"^0.1.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"json","req":"^0.12.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"serde_json","req":"^1.0.114","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dd78b49479abb2824b21b27bbf9b3595f720ea93e06967453940f4c3116b32b7","features":{},"yanked":false}
