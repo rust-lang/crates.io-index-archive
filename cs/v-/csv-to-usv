@@ -1,0 +1,1 @@
+{"name":"csv-to-usv","vers":"1.0.0","deps":[{"name":"csv","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"usv","req":">=0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5cc96452066f6ad09c018ba0248ca4736d4e88c35e9a8f841eb4cf93fe75a07c","features":{},"yanked":false}
