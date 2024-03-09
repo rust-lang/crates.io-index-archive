@@ -1,1 +1,2 @@
 {"name":"jppe_derive","vers":"0.2.0","deps":[{"name":"virtue","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9adfde75103ca17290a205eaf95936a24ab64658230db621669ae951b66a290c","features":{},"yanked":false,"rust_version":"1.56"}
+{"name":"jppe_derive","vers":"0.3.0","deps":[{"name":"virtue","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e4eb59088f7fc4986b8831502d2784258d45a9013cb3e1f7cf51cf8500e3e489","features":{},"yanked":false,"rust_version":"1.56"}
