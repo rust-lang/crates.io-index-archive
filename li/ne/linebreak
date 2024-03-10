@@ -1,0 +1,1 @@
+{"name":"linebreak","vers":"0.1.0","deps":[{"name":"icu","req":"^1.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c08674c647aa6e08701ae0f1de85f0c71ee0482d7b9165575171bbbbafcb4e6","features":{},"yanked":false,"rust_version":"1.67.1"}
