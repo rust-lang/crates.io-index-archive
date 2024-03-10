@@ -1,0 +1,1 @@
+{"name":"rider","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["rt","sync"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31b30935616128efa584f353fa95aa4afa1fcb3bd6b2a18a0dad97f6b6a03d3f","features":{},"yanked":false}
