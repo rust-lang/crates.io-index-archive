@@ -1,0 +1,1 @@
+{"name":"shen-nbt5","vers":"0.4.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"438ae61d6ebdb48c45a8a8bb45f3f4cb50a7ccb28fd4328dcbfa27e466706100","features":{"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
