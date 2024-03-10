@@ -1,0 +1,1 @@
+{"name":"tls-decrypt","vers":"0.1.0","deps":[{"name":"openssl","req":"^0.10.64","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33a17a3df6bbb40245d77510ae421c1012f36ee95d9e4d26acb8d7fdd161626d","features":{},"yanked":false}
