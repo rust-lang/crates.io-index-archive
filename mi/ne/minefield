@@ -1,0 +1,1 @@
+{"name":"minefield","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2575dd29c769cd59d2a427be342b82a3809a9d72eb6da051b67d57277971925e","features":{},"yanked":false}
