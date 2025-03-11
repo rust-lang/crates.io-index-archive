@@ -1,0 +1,1 @@
+{"name":"shapely-core","vers":"1.0.0","deps":[{"name":"nonmax","req":"^0.5.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8aecdb7176cb186f5477d33887c442851bdc1bed1f88a9a8282e062909b79327","features":{},"yanked":false,"rust_version":"1.85"}
