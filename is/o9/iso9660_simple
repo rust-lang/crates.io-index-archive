@@ -5,3 +5,4 @@
 {"name":"iso9660_simple","vers":"0.1.4","deps":[],"cksum":"a47d8f8d69173efe67c312d6017df63eb789c0ef8fcfdcc1f48afd24a107b6ba","features":{"std":[]},"yanked":false}
 {"name":"iso9660_simple","vers":"0.1.5","deps":[],"cksum":"2b5aa7074879bcec2667ca0e84174571e08b9be9c595e69fd4f27728494acfa6","features":{"std":[]},"yanked":false}
 {"name":"iso9660_simple","vers":"0.1.6","deps":[],"cksum":"f7d1c779510bea66200827b3329966e700ffaeaebf6f4e3befa74d73478cc2f8","features":{"std":[]},"yanked":false}
+{"name":"iso9660_simple","vers":"0.1.7","deps":[],"cksum":"ba48ef9ad9e351d6d16d824d439c3ad7fa9d6f634e97c855409af5fc07bbd3c9","features":{"default":["std"],"std":[]},"yanked":false}
