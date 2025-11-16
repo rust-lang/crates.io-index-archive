@@ -1,0 +1,1 @@
+{"name":"fluxion-error","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8cf78ba075c66aad78d16bbc172dfd0e850a97748dc9fb64ac27c3f70b5f0461","features":{},"yanked":false}
