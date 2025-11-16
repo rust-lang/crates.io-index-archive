@@ -12,3 +12,4 @@
 {"name":"code-gen","vers":"0.6.0","deps":[],"cksum":"a9ec1243c14d1d3eb3aa3e86047b50c983d7bcf980cb027d96de244d06be13e8","features":{"rust":[]},"yanked":false}
 {"name":"code-gen","vers":"0.7.0","deps":[],"cksum":"cd1a76d06ed9c7cb7f4a07afcf8e341d6682273aac048871a5e40dc89e44c017","features":{"rust":[]},"yanked":false}
 {"name":"code-gen","vers":"0.7.1","deps":[],"cksum":"005351224faa21b5ee77350da81bb49a6e8722e70a3ec1f52194b4f50f49a54a","features":{"rust":[]},"yanked":false}
+{"name":"code-gen","vers":"0.8.0-rc.1","deps":[],"cksum":"a37ba5bef53f9e83a199adccfa6d9debae11cbb2034f3fea8f8adc58bb3fd0c9","features":{"rust":[]},"yanked":false}
