@@ -1,1 +1,2 @@
 {"name":"braces","vers":"0.1.0","deps":[],"cksum":"7c7a557b2d23aafccafa3c1a709b64e135f58908965aea26ee34f081a4b34b9d","features":{"cli":[],"default":[]},"yanked":false,"rust_version":"1.70"}
+{"name":"braces","vers":"0.1.1","deps":[],"cksum":"68560743088dd65ca82fe7fd1d360b6de59b63620a75fc4805fbfd5f5b1b3306","features":{"cli":[],"default":[]},"yanked":false,"rust_version":"1.70"}
