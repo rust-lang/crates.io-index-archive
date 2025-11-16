@@ -1,0 +1,1 @@
+{"name":"llt-rs","vers":"0.1.0","deps":[{"name":"crossbeam-utils","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"085d8f6fa807572bd12aca01917d2f4fa27fdde0fb2a2de8e7af63400983bc05","features":{},"yanked":false}
