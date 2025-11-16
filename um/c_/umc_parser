@@ -6,3 +6,4 @@
 {"name":"umc_parser","vers":"0.0.0-alpha.8","deps":[],"cksum":"9bdb06de75f07c0c28cc773e39e5d95994e91cea8aec7ffcf8181185c9d6b449","features":{},"yanked":false,"rust_version":"1.89.0"}
 {"name":"umc_parser","vers":"0.0.0-alpha.9","deps":[],"cksum":"cd662f107bbe1296145871c16ab210d2e001b1600318c4431824ac8f53a00d7a","features":{},"yanked":false,"rust_version":"1.89.0"}
 {"name":"umc_parser","vers":"0.0.0-alpha.10","deps":[],"cksum":"445487fc1d45d3232ff1030c26cb39a35fcadcfb787283dbaee92b7607749eef","features":{},"yanked":false,"rust_version":"1.89.0"}
+{"name":"umc_parser","vers":"0.0.0-alpha.11","deps":[],"cksum":"ae84c7f78a0d7becf690619bb2d25a757ec82b2f73bff02899a985fb8ca135e7","features":{},"yanked":false,"rust_version":"1.89.0"}
