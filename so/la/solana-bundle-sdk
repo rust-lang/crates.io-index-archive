@@ -1,1 +1,2 @@
 {"name":"solana-bundle-sdk","vers":"3.1.11","deps":[{"name":"solana-sdk","req":"^1.18.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5d2b434830be75069bd7ff78ee54bc6296de251524c7bbed204ae445c9537b5","features":{},"yanked":false}
+{"name":"solana-bundle-sdk","vers":"3.2.11","deps":[{"name":"solana-sdk","req":"^1.18.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4238f6e3c6c6a03062387b3de9f40b3b7a2cb185dfaca53b68bb3b0b9a034d0b","features":{},"yanked":false}
