@@ -1,2 +1,3 @@
 {"name":"stringlet","vers":"0.1.0","deps":[],"cksum":"c443517b5de4bbb6e052ff6acffb9adddec9c24206f6098ec14231072c0e3fc4","features":{"len64":[]},"yanked":false}
 {"name":"stringlet","vers":"0.2.0","deps":[],"cksum":"079b4551f3a7eb2b93090d2622908a24e89d243b4613665c6da2920d80b41661","features":{},"yanked":false}
+{"name":"stringlet","vers":"0.3.0","deps":[],"cksum":"b8caa9b36aa1b002bbee8c62ef19fbfa3d69f95acfa480995997da49d2d22519","features":{},"yanked":false}
