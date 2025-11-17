@@ -1,0 +1,1 @@
+{"name":"smlm-tiff","vers":"0.5.0","deps":[{"name":"tiff","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e5afff5f111f9a9d9e5c1c966c72deec8fc1806212d6f069c028740beb4f820","features":{},"yanked":false}
