@@ -1,1 +1,2 @@
 {"name":"tc","vers":"1.0.0","deps":[{"name":"clap","req":"^4.5.51","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8fa93b59eb4bb397c850e4345a6bc7fc950af93382d71f5a0b9f37ba442d009f","features":{},"yanked":false}
+{"name":"tc","vers":"1.0.1","deps":[{"name":"clap","req":"^4.5.51","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"37b0ca77df9383db6bf1c0cf1fe940da6b93243e584ebce5d13e6e45fd969cbe","features":{},"yanked":false}
