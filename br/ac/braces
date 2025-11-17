@@ -6,3 +6,4 @@
 {"name":"braces","vers":"0.1.5","deps":[],"cksum":"b5ae12400866c6b394c80e74cf657e92662af12f54aed0d15e99f2036f9b1222","features":{"cli":[],"default":[]},"yanked":false,"rust_version":"1.70"}
 {"name":"braces","vers":"0.1.6","deps":[],"cksum":"cb54b374bfc257bf519a27d3289ffc551e9a31e2fcf51c0aae1e6cbcf52c3051","features":{"cli":[],"default":[]},"yanked":false,"rust_version":"1.70"}
 {"name":"braces","vers":"0.1.7","deps":[],"cksum":"b568026b04081f322a9cadf723063b92a4d8cee7f6aabae9a943c1934533890d","features":{"cli":[],"default":[]},"yanked":false,"rust_version":"1.70"}
+{"name":"braces","vers":"0.2.0","deps":[],"cksum":"e02439a0a1d31ea8c0594f78672741128c0cc1565acf44f59a5c499d5ba83d8f","features":{"cli":[],"default":[]},"yanked":false,"rust_version":"1.70"}
