@@ -1,0 +1,1 @@
+{"name":"set_env_perm","vers":"2.0.0","deps":[{"name":"dirs","req":"^4.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d11f85b6acea5127a93d575f20b0c6580a37b2d2acbb82b5dcb329fbadd35ee7","features":{},"yanked":false,"pubtime":"2026-01-18T16:08:49Z"}
