@@ -1,0 +1,1 @@
+{"name":"cranpose-platform-android","vers":"0.0.30","deps":[{"name":"cranpose-ui-graphics","req":"^0.0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"20190e6a975497201f5496bc7577789a10f0c97c0d6c82a4174681e86e550b54","features":{},"yanked":false,"pubtime":"2026-01-19T18:27:28Z"}
