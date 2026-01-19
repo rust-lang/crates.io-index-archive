@@ -3,3 +3,4 @@
 {"name":"luxor","vers":"0.3.0","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de79856caa5895c29d164b5f29475e8ac0cd32839fa89664d471320388f9c0e1","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-01-19T07:31:37Z"}
 {"name":"luxor","vers":"0.0.1","deps":[],"cksum":"de0a714f4697fbdf2ae97f8f4dbed58f628ae976a81625513386556f53ab5544","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T09:23:16Z"}
 {"name":"luxor","vers":"0.3.1","deps":[],"cksum":"d507af735af4581feabf8d8d24c566dd71a59870327fae20c4d87c8da0514e4f","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T11:00:02Z"}
+{"name":"luxor","vers":"0.3.2","deps":[],"cksum":"ba43ff72133309b564a4100279a7286e78e302f86254f0e67ce11744090ea3e8","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T11:13:48Z"}
