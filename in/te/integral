@@ -3,3 +3,4 @@
 {"name":"integral","vers":"0.3.0","deps":[{"name":"wasm-bindgen","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b78a5f9ad0a0a705c980dfdbcb35c47be9c4868d4dd4f4eb7b0e8afaabf7ac68","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-01-19T07:31:31Z"}
 {"name":"integral","vers":"0.0.1","deps":[],"cksum":"66f57d47b9083ba2031dcb2760cff9cfc73d75eedead6983d461f3ebc3140c57","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T09:23:10Z"}
 {"name":"integral","vers":"0.3.1","deps":[],"cksum":"be24665b9673a70ba6c931e98aebf7163791e6086d8b648ce60f840aea225c82","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T11:00:02Z"}
+{"name":"integral","vers":"0.3.2","deps":[],"cksum":"3e34b3efde2e678b8ec2b520fb300c91d522968de88267bc2b0b6a48dfcd6377","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T11:13:44Z"}
