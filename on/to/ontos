@@ -4,3 +4,4 @@
 {"name":"ontos","vers":"0.0.1","deps":[],"cksum":"72d8c47a47ff7851655ef727096933351120180a580a824e2f3aea04b8261945","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T09:23:21Z"}
 {"name":"ontos","vers":"0.3.1","deps":[],"cksum":"fae847fe19fa225a7cc23e50fbb4054e4ea5a034ddc3d36a841c9045985fd820","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T11:00:02Z"}
 {"name":"ontos","vers":"0.3.2","deps":[],"cksum":"c9f7da521d66e8b11a364ec934a8f0bfc5c9d8da065799e77228252bbe3c8451","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T11:13:52Z"}
+{"name":"ontos","vers":"0.3.3","deps":[],"cksum":"bef672eefe29c456299b0df1a2e6063f4c4af88b333d71c0b80e32ce0904342f","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T11:34:12Z"}
