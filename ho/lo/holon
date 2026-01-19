@@ -5,3 +5,4 @@
 {"name":"holon","vers":"0.0.1","deps":[],"cksum":"6949a32473e97a4f80324f589b1f963049eabcf135811792050986b5df665131","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T09:23:08Z"}
 {"name":"holon","vers":"0.3.1","deps":[],"cksum":"3bc67c7f06be28c0aad1a01dbb62e47bb00cb4dd6742e6d1d164b7d21c0e2e3e","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T10:58:52Z"}
 {"name":"holon","vers":"0.3.2","deps":[],"cksum":"57b3987fbee7b8619e6cfe6519dfb0884cac33509a1d0cf63a759cef155784fb","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T11:13:42Z"}
+{"name":"holon","vers":"0.3.3","deps":[],"cksum":"533bfe403f88b25d17f86ec1b9d14f50b82a95421fa22b5f528d11a21bd41d25","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T11:34:01Z"}
