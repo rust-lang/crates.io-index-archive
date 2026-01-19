@@ -17,3 +17,4 @@
 {"name":"vtx-protocol","vers":"3.5.1","deps":[],"cksum":"25c8cfad785e8bd8516cd456f4fa616e9ef9e424e418bdb419758b3902300c9c","features":{},"yanked":false,"pubtime":"2026-01-05T15:04:42Z"}
 {"name":"vtx-protocol","vers":"3.5.2","deps":[],"cksum":"10252d575ed45b17cde03bcf9d67cda34138b663ddc9dd4e930dc71c7550cfe3","features":{},"yanked":false,"pubtime":"2026-01-05T16:49:21Z"}
 {"name":"vtx-protocol","vers":"3.6.0","deps":[],"cksum":"e066c3f93faa3fa460a97144c46e82f677ffb853337b4aaf0602caebdf22c6da","features":{},"yanked":false,"pubtime":"2026-01-08T10:52:32Z"}
+{"name":"vtx-protocol","vers":"4.0.0","deps":[],"cksum":"772bddf47cb77f770e72c4907bfa4fe6728539a856948209c59d2180ebf83da4","features":{},"yanked":false,"pubtime":"2026-01-19T14:26:25Z"}
