@@ -4,3 +4,4 @@
 {"name":"known","vers":"0.0.1","deps":[],"cksum":"c3850e6450e3a97b108f4ba819151f9ca105972f617b19bcd85d52c78197bbb3","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T09:23:13Z"}
 {"name":"known","vers":"0.3.1","deps":[],"cksum":"822fa97ba2bf8b92b234e3e7c06b010aa98d45b906ebf54c7dfa82641be79168","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T11:00:02Z"}
 {"name":"known","vers":"0.3.2","deps":[],"cksum":"28b0734079f0ef991a9879c31b6e8ac5ba8f8278621ee98ff5d9402c0c536139","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T11:13:46Z"}
+{"name":"known","vers":"0.3.3","deps":[],"cksum":"e0cf24ccff84964949e444affb8dd4a11bb58b5645b28bdc3e3e719b57399272","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T11:34:05Z"}
