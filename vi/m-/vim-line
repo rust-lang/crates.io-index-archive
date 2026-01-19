@@ -26,3 +26,4 @@
 {"name":"vim-line","vers":"1.0.4","deps":[],"cksum":"d2dfa12689278a54d2c3a2db5d71a532fe781cc65b7486adb5e60b29549db661","features":{},"yanked":false,"pubtime":"2026-01-17T17:39:17Z"}
 {"name":"vim-line","vers":"1.0.5","deps":[],"cksum":"b1c876c32b19b31d10dc2e02339b8628d3d5d5e0caeb743198b2bfb1279f390b","features":{},"yanked":false,"pubtime":"2026-01-18T19:55:02Z"}
 {"name":"vim-line","vers":"1.0.6","deps":[],"cksum":"b6c69c2a20e756e70b4a14662f7ca8243be7e129bcff434bf98e2280324d8a41","features":{},"yanked":false,"pubtime":"2026-01-19T05:35:33Z"}
+{"name":"vim-line","vers":"1.1.0","deps":[],"cksum":"d8837849715f98afc1bc86fdabffd85400bf03ee92a5bd5db09f8aec145e90f5","features":{},"yanked":false,"pubtime":"2026-01-19T18:14:26Z"}
