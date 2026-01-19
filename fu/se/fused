@@ -4,3 +4,4 @@
 {"name":"fused","vers":"0.0.1","deps":[],"cksum":"5883896dc05c818421a2c66937b62dbd972bc2e36ccdae02149a39c7c6d693ed","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T09:23:05Z"}
 {"name":"fused","vers":"0.3.1","deps":[],"cksum":"657d865528b4064d5e39e7ec4b3c71ae397cee74420527ce15aab2730aa59eff","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T10:57:40Z"}
 {"name":"fused","vers":"0.3.2","deps":[],"cksum":"3928cdb0690136ded8d96b6909eebd4e090dceb25818da499065b4856d2bff0b","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T11:13:39Z"}
+{"name":"fused","vers":"0.3.3","deps":[],"cksum":"b09e3ae9550fd08bcf82bb3ef092573f7138106c5764a9affa0e559bee5fa008","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T11:33:59Z"}
