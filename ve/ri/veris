@@ -4,3 +4,4 @@
 {"name":"veris","vers":"0.0.1","deps":[],"cksum":"28b94a5fa6a01f246a0d70b79247aa89600c36b7acc390d9f043a18ea09230c2","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T09:23:26Z"}
 {"name":"veris","vers":"0.3.1","deps":[],"cksum":"562f2b2ef88086d108b23a8bcc0f9d666fc77c9bd4fee3a6328cf9ba45fd2c9b","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T11:00:02Z"}
 {"name":"veris","vers":"0.3.2","deps":[],"cksum":"4d0df7db9c5aa30b5f2e0da55dec0ea64ac0c620ce815b653760d34c6fb33160","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T11:13:57Z"}
+{"name":"veris","vers":"0.3.3","deps":[],"cksum":"ea1023657f73b819097835c4058e38bd226059beedb313c682a51c680ad80f1a","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-01-19T11:34:17Z"}
