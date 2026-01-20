@@ -1,1 +1,2 @@
 {"name":"minurl","vers":"0.1.0","deps":[],"cksum":"c64078c0f519d452f79ddc14bb5dc6c8bf20debcc6f8520ff7d72d1bdcde5dc9","features":{},"yanked":false,"pubtime":"2026-01-15T09:13:01Z"}
+{"name":"minurl","vers":"0.2.0","deps":[{"name":"proptest","req":"^1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"url","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"cdf81b5a50bd3d3cddf212f0437669f8d2b5a97333b3dddbf5893e71aee44135","features":{},"yanked":false,"pubtime":"2026-01-20T11:49:10Z"}
