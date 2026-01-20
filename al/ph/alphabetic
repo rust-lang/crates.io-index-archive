@@ -1,2 +1,3 @@
 {"name":"alphabetic","vers":"0.1.0","deps":[],"cksum":"ccc738b17de8bedb8019bbc41e65013fb6141077c3049cb41f1cf37435b8b15a","features":{},"yanked":false,"pubtime":"2026-01-19T14:11:09Z"}
 {"name":"alphabetic","vers":"0.1.1","deps":[],"cksum":"b5d0871d57c72f5f76a10cf29dad5c79a726a5b5841e7f92a1ca5feef254d00c","features":{},"yanked":false,"pubtime":"2026-01-19T18:55:34Z"}
+{"name":"alphabetic","vers":"0.2.0","deps":[{"name":"thiserror","req":"^2.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c18107c053f94bf8842c276be0890140674dcb19c9b24740f55a8a96210b559","features":{},"yanked":false,"pubtime":"2026-01-20T07:56:59Z"}
