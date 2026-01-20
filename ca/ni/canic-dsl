@@ -9,3 +9,4 @@
 {"name":"canic-dsl","vers":"0.8.6","deps":[],"cksum":"49f355b8b0c8e95ad8d3a4a2f44e609361741c330e45f72f32a4739b518e6884","features":{},"yanked":false,"rust_version":"1.92.0","pubtime":"2026-01-16T13:40:23Z"}
 {"name":"canic-dsl","vers":"0.8.7","deps":[],"cksum":"00a10439c18874bcb14b6cbd31e1a36e31633c52bf3ef1764dd32396af3115bc","features":{},"yanked":false,"rust_version":"1.92.0","pubtime":"2026-01-19T15:48:32Z"}
 {"name":"canic-dsl","vers":"0.9.1","deps":[],"cksum":"148d9dca201747fee4beb5687df5c8a7224f16408d4c7f1e599beed944ce5e8b","features":{},"yanked":false,"rust_version":"1.92.0","pubtime":"2026-01-19T16:02:08Z"}
+{"name":"canic-dsl","vers":"0.9.2","deps":[],"cksum":"661c9a7e32cd51039e01c08d9ff9391d8c2368726c866f27b5e0f2f8538b6157","features":{},"yanked":false,"rust_version":"1.92.0","pubtime":"2026-01-20T12:12:07Z"}
