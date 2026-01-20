@@ -1,0 +1,1 @@
+{"name":"wgc","vers":"0.0.0","deps":[{"name":"windows","req":"^0.62","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"736944fa4e123875e9e54377fda019e3c50c33bb9edccf6644882e64e96ebd25","features":{"default":[]},"yanked":false,"pubtime":"2026-01-20T15:01:53Z"}
