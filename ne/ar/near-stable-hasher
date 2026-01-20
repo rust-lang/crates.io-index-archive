@@ -41,3 +41,4 @@
 {"name":"near-stable-hasher","vers":"0.34.2","deps":[],"cksum":"5f8c9a702550c755075c1767282a6f805dc1fb3cbcc7977d586fcaa7da471745","features":{},"yanked":false,"pubtime":"2025-12-11T14:10:02Z"}
 {"name":"near-stable-hasher","vers":"0.34.3","deps":[],"cksum":"d15ef6244a7ab84d77fa120492e9b2cccb02dc0ede3771e9de0cb59ccd41631f","features":{},"yanked":false,"pubtime":"2025-12-16T17:35:40Z"}
 {"name":"near-stable-hasher","vers":"0.34.4","deps":[],"cksum":"b9b2f1c4e026cd66066627f42f26436418e157d9067e566ddd930043a856a29a","features":{},"yanked":false,"pubtime":"2026-01-13T15:13:39Z"}
+{"name":"near-stable-hasher","vers":"0.34.5","deps":[],"cksum":"27259a94705a140e81653561d1c380dbbf68e80baa478a252ad7d9922dc34fa2","features":{},"yanked":false,"pubtime":"2026-01-20T18:57:20Z"}
