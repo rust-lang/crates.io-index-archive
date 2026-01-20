@@ -35,3 +35,4 @@
 {"name":"china_identification_card","vers":"1.1.18","deps":[],"cksum":"2b5dc2b929233f26e05f023abdd873b671ba7c6a5b941d440a9a8f17b9f979e9","features":{},"yanked":false,"pubtime":"2026-01-03T06:45:22Z"}
 {"name":"china_identification_card","vers":"1.1.19","deps":[],"cksum":"a4351b2383133679aeeb0ac03abef354f8f058ef5b6fb9bfbe2731457740cddf","features":{},"yanked":false,"pubtime":"2026-01-10T06:50:33Z"}
 {"name":"china_identification_card","vers":"1.1.21","deps":[],"cksum":"46eb6aa36d3ad8aabffd8ad92368bbe11a773452e1a86eb446ac61c0ed31d5e8","features":{},"yanked":false,"pubtime":"2026-01-20T14:40:35Z"}
+{"name":"china_identification_card","vers":"1.1.22","deps":[],"cksum":"3e1f6fa8357530f7a6698efbff8489f4ba9c760dba4350af87115d72fc2f9cd3","features":{},"yanked":false,"pubtime":"2026-01-20T15:13:06Z"}
