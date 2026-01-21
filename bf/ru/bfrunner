@@ -1,0 +1,1 @@
+{"name":"bfrunner","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d615196045974e3a1456b27ddc3ef0c7c7aadffd9f6467f2cedf6ae603078db2","features":{"ffi":[]},"yanked":false,"pubtime":"2026-01-21T00:47:11Z"}
