@@ -66,3 +66,4 @@
 {"name":"pack_component_template","vers":"0.4.64","deps":[],"cksum":"ce8cd91ff9e124e831cce647728f912604e4c55c02dc89b1ac51d8f852bf4717","features":{},"yanked":false,"pubtime":"2026-01-20T18:36:37Z"}
 {"name":"pack_component_template","vers":"0.4.65","deps":[],"cksum":"e6cc99451b766c1acf334fb9f22d8ada9369e1616438c0579b7b92416764e997","features":{},"yanked":false,"pubtime":"2026-01-21T10:31:31Z"}
 {"name":"pack_component_template","vers":"0.4.66","deps":[],"cksum":"9180330598a3cd53ad46d576030a103295fa06e6cbdbe37bb31ef34bdac8255c","features":{},"yanked":false,"pubtime":"2026-01-21T11:29:59Z"}
+{"name":"pack_component_template","vers":"0.4.67","deps":[],"cksum":"6ac6c4485d69f3d4263791bac963bc555879821f433a16382862905b4c6e49a0","features":{},"yanked":false,"pubtime":"2026-01-21T17:35:26Z"}
