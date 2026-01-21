@@ -33,3 +33,4 @@
 {"name":"maliput-sdk","vers":"0.14.0","deps":[],"cksum":"33335a00c29765f343d4b884dc4fa51534d24c08acae4d5ed0c942b7fe87d28a","features":{},"yanked":false,"links":"maliput-sdk","pubtime":"2026-01-13T14:13:54Z"}
 {"name":"maliput-sdk","vers":"0.15.0","deps":[],"cksum":"4b55169d4d872d027f10bef73b5982f9a3f02f2ac72c2e668967be2cef702245","features":{},"yanked":false,"links":"maliput-sdk","pubtime":"2026-01-19T20:22:52Z"}
 {"name":"maliput-sdk","vers":"0.15.1","deps":[],"cksum":"55caa6afd70a85a12a4189ee3e0630fb76f7ad5ed316534dae0bceea25be5977","features":{},"yanked":false,"links":"maliput-sdk","pubtime":"2026-01-20T19:28:22Z"}
+{"name":"maliput-sdk","vers":"0.16.0","deps":[],"cksum":"522b98a1e4d4b4190c26a7a5e94d180c244cb2160d58e121d2857d4907715a27","features":{},"yanked":false,"links":"maliput-sdk","pubtime":"2026-01-21T22:31:11Z"}
