@@ -1,1 +1,0 @@
-{"name":"qqrm-policy-compiler","vers":"0.1.0","deps":[{"name":"policy-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"qqrm-policy-core"}],"cksum":"02814d23f50962a2ce8d3b0919df7891382ed251d98226c4194c438d373ec405","features":{},"yanked":false}
