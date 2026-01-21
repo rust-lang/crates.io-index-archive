@@ -118,3 +118,4 @@
 {"name":"http-constant","vers":"1.83.1","deps":[],"cksum":"8b3b8be124d9169d8670598a31b575969b2830c93957cecfb1d75250d138680f","features":{},"yanked":false,"pubtime":"2026-01-03T06:54:09Z"}
 {"name":"http-constant","vers":"1.83.2","deps":[],"cksum":"b72ec39b967834331334b3f27021b1dc1b0f042a219e368f1fd5cae518ae43ab","features":{},"yanked":false,"pubtime":"2026-01-10T06:52:09Z"}
 {"name":"http-constant","vers":"1.83.3","deps":[],"cksum":"f5496426a9de608415cc8f35321e7b30da7d49601ef69a09641d8d0563667f2e","features":{},"yanked":false,"pubtime":"2026-01-20T15:22:49Z"}
+{"name":"http-constant","vers":"1.83.4","deps":[],"cksum":"38cfe03e3286e304822cc9a92326a67c81bc147091f0405a951b230130109d0d","features":{},"yanked":false,"pubtime":"2026-01-21T01:35:02Z"}
