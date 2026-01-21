@@ -1,1 +1,2 @@
-{"name":"redoubt-util","vers":"0.0.1","deps":[],"cksum":"b54fb4038893c48bcd13817563e03728c51f55762fe111d3bab0515aa9122625","features":{},"yanked":false}
+{"name":"redoubt-util","vers":"0.0.1","deps":[],"cksum":"b54fb4038893c48bcd13817563e03728c51f55762fe111d3bab0515aa9122625","features":{},"yanked":false,"pubtime":"2025-11-23T07:17:01Z"}
+{"name":"redoubt-util","vers":"0.1.0-rc.1","deps":[],"cksum":"ebdad9df031a43e47c038d62afd403b524bf3aca61866538ef87a592ceaa0fdd","features":{"default":[],"test-utils":[]},"yanked":false,"pubtime":"2026-01-21T06:41:13Z"}
