@@ -47,3 +47,4 @@
 {"name":"bin-encode-decode","vers":"1.1.34","deps":[],"cksum":"cf98f862981f2f71f01b393a39d5ab8375b01732b4593a84c50e6466c22c69cc","features":{},"yanked":false,"pubtime":"2026-01-20T15:10:21Z"}
 {"name":"bin-encode-decode","vers":"1.1.35","deps":[],"cksum":"2024780f3d421ed4564e92abaee7fda774a99839066ca5e0aebe05abd4e90c9c","features":{},"yanked":false,"pubtime":"2026-01-20T15:12:34Z"}
 {"name":"bin-encode-decode","vers":"1.1.36","deps":[],"cksum":"c3c4d6ce2ae2cd38f4179671c27415e776a8dcb97591c1c8081c5bf0a828ed3f","features":{},"yanked":false,"pubtime":"2026-01-21T01:28:13Z"}
+{"name":"bin-encode-decode","vers":"1.1.38","deps":[],"cksum":"bf9703f6d5e35b7fb57eed26fc790e34669246e8639615c1be458f7e89248963","features":{},"yanked":false,"pubtime":"2026-01-21T01:30:55Z"}
