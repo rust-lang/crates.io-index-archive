@@ -1,0 +1,1 @@
+{"name":"cow_vec","vers":"1.0.0","deps":[{"name":"typed-arena","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a31a0b23629dedd5bfa799cc0473f0200a174259d419f29144e3191183588c2","features":{},"yanked":false,"pubtime":"2026-01-21T02:13:53Z"}
