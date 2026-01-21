@@ -9,3 +9,4 @@
 {"name":"pathgraph","vers":"0.4.0-rc.1","deps":[],"cksum":"8476d6179264990a3ff69bc80215b2b0f05082f5a1e26bcd39ab23d9f40bfe50","features":{},"yanked":false,"pubtime":"2026-01-09T09:16:49Z"}
 {"name":"pathgraph","vers":"0.4.0-rc.2","deps":[],"cksum":"68c868d159f69efe7ae30a271028a7b5483fa35a4b2fed86d35cb5290ffe0a46","features":{},"yanked":false,"pubtime":"2026-01-13T21:20:48Z"}
 {"name":"pathgraph","vers":"0.4.0-rc.3","deps":[],"cksum":"543afe62b4efd47c12d9ddecedd2b9d686e43959d98ad6a9a39ef1b161e2541c","features":{},"yanked":false,"pubtime":"2026-01-18T19:00:49Z"}
+{"name":"pathgraph","vers":"0.4.0-rc.4","deps":[],"cksum":"e9a01c6fc8bfddeb7501a7f8fdaba6697fce357ca34d654c80adb684299c6945","features":{},"yanked":false,"pubtime":"2026-01-21T19:05:42Z"}
