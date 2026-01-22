@@ -1,2 +1,3 @@
 {"name":"clasp-embedded","vers":"0.1.1","deps":[],"cksum":"a16d02d6134e8e143e03530c60118787cf80a60d6f5c43ae9d43f009773e9080","features":{"alloc":[],"default":[]},"yanked":false,"pubtime":"2026-01-17T00:43:24Z"}
 {"name":"clasp-embedded","vers":"0.1.5","deps":[],"cksum":"f6b01df0b80072aee4af1c9ed0f782cbd61d6630842b7084426ddea658740344","features":{"alloc":[],"default":[]},"yanked":false,"pubtime":"2026-01-17T20:24:46Z"}
+{"name":"clasp-embedded","vers":"0.1.8","deps":[],"cksum":"09acc7fa9e1c95d41ba1f34c505326c51c6dafc82953b862756ee31109a47d9f","features":{"alloc":[],"default":[]},"yanked":false,"pubtime":"2026-01-22T18:56:55Z"}
