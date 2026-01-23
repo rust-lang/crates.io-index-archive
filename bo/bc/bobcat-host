@@ -1,0 +1,1 @@
+{"name":"bobcat-host","vers":"0.7.17","deps":[{"name":"num_enum","req":"^0.7.5","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7c1f5dd1ee2b8135bc01b58b9366dd5b17df81c3d7bd6b1806523fb075496f94","features":{"console":[],"mutex":["std"],"std":[]},"yanked":false,"pubtime":"2026-01-23T08:25:48Z"}
