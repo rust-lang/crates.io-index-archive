@@ -1,0 +1,1 @@
+{"name":"flows-dns","vers":"0.0.5","deps":[{"name":"async-flow","req":"^0.1.1","features":["tokio"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0b9df13d70243c060639735455d2521085085aa1b7f93f2802ea59a7c6690ba1","features":{"all":[],"default":["all","std"],"std":["async-flow/std"],"unstable":[]},"yanked":false,"pubtime":"2026-01-24T14:33:08Z"}
