@@ -1,2 +1,3 @@
 {"name":"localize_it","vers":"1.0.0","deps":[],"cksum":"c9ff4a69b238efb83bc9ed2e8e541a3e35efedfb2f4365ae909d36b060b37d89","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-01-19T14:27:50Z"}
 {"name":"localize_it","vers":"1.1.0","deps":[],"cksum":"de370817ee8c6241250f441962199f5a01c1b224e1dd48cb513cb10851276e25","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-01-23T15:53:58Z"}
+{"name":"localize_it","vers":"1.2.0","deps":[],"cksum":"e349a04988c2e5dadf94bb7441dfe14e1e48c6415e6d4749cae2a282b578005f","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-01-24T18:35:02Z"}
