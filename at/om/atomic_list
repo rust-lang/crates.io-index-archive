@@ -15,3 +15,4 @@
 {"name":"atomic_list","vers":"1.9.1","deps":[],"cksum":"d9e074da4c552f20832bc23ecdbc80d6d3ff6d3c7b79ed79fdc02edf36886c1e","features":{},"yanked":false,"pubtime":"2026-01-22T21:00:02Z"}
 {"name":"atomic_list","vers":"1.9.2","deps":[],"cksum":"25a45ae56ae38f7ce67c63ce345a7727a90901f899789f7bf3958d934b25f239","features":{},"yanked":false,"pubtime":"2026-01-24T00:20:38Z"}
 {"name":"atomic_list","vers":"1.9.3","deps":[],"cksum":"badb0a29fb3a43219da169336e9d0555b5fbe03e988dd784a9041e249c6c881e","features":{},"yanked":false,"pubtime":"2026-01-24T00:24:17Z"}
+{"name":"atomic_list","vers":"2.0.0","deps":[],"cksum":"bdbea342e8d2ac0a8c6b4ace4b7a9467071dff364ae3ceaa17c555ee563c55fe","features":{},"yanked":false,"pubtime":"2026-01-24T01:04:48Z"}
