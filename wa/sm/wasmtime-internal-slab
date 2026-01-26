@@ -20,3 +20,4 @@
 {"name":"wasmtime-internal-slab","vers":"36.0.4","deps":[],"cksum":"afaa5d4c2db6fe47e07fef7f6d4030e8a5d6f6cb1c31bcfcbd9aff569a8b55a0","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-01-14T17:11:16Z"}
 {"name":"wasmtime-internal-slab","vers":"40.0.2","deps":[],"cksum":"3c4a270ef4b92e69669f09a9c68d95f7474ae5d0803a4616342041173ae23fb7","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-01-14T17:25:52Z"}
 {"name":"wasmtime-internal-slab","vers":"41.0.0","deps":[],"cksum":"9475ac165f89b2733014a0e5c0aeb326b2a18bb65136d190ec0b334d976099a9","features":{},"yanked":false,"rust_version":"1.90.0","pubtime":"2026-01-20T17:58:15Z"}
+{"name":"wasmtime-internal-slab","vers":"36.0.5","deps":[],"cksum":"de954a96e144df5b22805367f91a1754237f6bf99918f087d0ea1970be3b6365","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-01-26T23:22:50Z"}
