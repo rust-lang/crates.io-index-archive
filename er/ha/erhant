@@ -3,3 +3,4 @@
 {"name":"erhant","vers":"0.1.2","deps":[{"name":"doctored","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c6cf95aced9eb12aa2ddf3025b450c50c985e60a19951f04444e52474dcdc56d","features":{},"yanked":false,"pubtime":"2026-01-24T22:28:31Z"}
 {"name":"erhant","vers":"0.1.3","deps":[{"name":"doctored","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b81a50aa311ddcc690a31ca8dddecafcd297244005546b0ebeebee583b3a4db9","features":{},"yanked":false,"pubtime":"2026-01-25T08:44:58Z"}
 {"name":"erhant","vers":"0.1.4","deps":[],"cksum":"2604d3743a95d11c0eccca3764a1738e6f8aecbaa80e020787680a33c3db83b1","features":{},"yanked":false,"pubtime":"2026-01-25T14:55:28Z"}
+{"name":"erhant","vers":"0.1.5","deps":[],"cksum":"04611b62e3118d3ada5d88c55b230a7cf606b346f4db3254db851454cab6edef","features":{},"yanked":false,"pubtime":"2026-01-26T10:41:37Z"}
