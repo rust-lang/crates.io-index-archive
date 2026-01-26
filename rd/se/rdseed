@@ -1,3 +1,4 @@
 {"name":"rdseed","vers":"0.1.0-beta.1","deps":[],"cksum":"3a1fc7d69a8297560a8a02b58ce7e47db447b875c541a20671fa66318a5079f0","features":{},"yanked":false,"rust_version":"1.56","pubtime":"2026-01-25T16:44:26Z"}
 {"name":"rdseed","vers":"0.1.0-beta.2","deps":[],"cksum":"799cd9ff8002605f8e9ff4cc75a46b6930ff948eb197d5aca3d60a046e34e7fa","features":{},"yanked":false,"rust_version":"1.56","pubtime":"2026-01-26T03:12:41Z"}
 {"name":"rdseed","vers":"0.1.0-beta.3","deps":[],"cksum":"5023e0531516c8139aaab093ccf9ae9e04637bd8e406967f0198133d9af58cf5","features":{},"yanked":false,"rust_version":"1.56","pubtime":"2026-01-26T03:51:21Z"}
+{"name":"rdseed","vers":"0.1.0-beta.4","deps":[],"cksum":"284d0190e3f11ad0aa848b9d64ebcbf756bd1faa1fbe7999abc48113308e589c","features":{},"yanked":false,"rust_version":"1.56","pubtime":"2026-01-26T08:30:07Z"}
