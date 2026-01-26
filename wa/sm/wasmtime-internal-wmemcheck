@@ -20,3 +20,4 @@
 {"name":"wasmtime-internal-wmemcheck","vers":"36.0.4","deps":[],"cksum":"5f96558f9f707fca08397957d183e7c3d4f784eeafb63f4a77c13fbf30e4f965","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-01-14T17:11:31Z"}
 {"name":"wasmtime-internal-wmemcheck","vers":"40.0.2","deps":[],"cksum":"c9f3a73cd96ba0f67856491f1324aef1ddbe2a1589431a5e101ed13eb7a90c27","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-01-14T17:26:11Z"}
 {"name":"wasmtime-internal-wmemcheck","vers":"41.0.0","deps":[],"cksum":"74d596304f9c2cd2242ff6df54e7715f45f5867dffc46dd8f7f93d754dfb5261","features":{},"yanked":false,"rust_version":"1.90.0","pubtime":"2026-01-20T17:58:26Z"}
+{"name":"wasmtime-internal-wmemcheck","vers":"36.0.5","deps":[],"cksum":"8d3bd9cba63acea2a305b2bdb4449b80992c61c1268f8f57af2dfe3289994932","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-01-26T23:23:05Z"}
