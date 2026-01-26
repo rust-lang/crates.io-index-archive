@@ -33,3 +33,4 @@
 {"name":"minijinja-embed","vers":"2.13.0","deps":[],"cksum":"c77bbc78d3484afc9541b13bb17773dc915b43c0f615c528e736d885773ffa61","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2025-11-30T19:14:43Z"}
 {"name":"minijinja-embed","vers":"2.14.0","deps":[],"cksum":"236c88517cfb4f8e8b39d815c3a5cb9febab70f398d30d3c2ca47d14bd8d6f81","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2025-12-12T23:13:11Z"}
 {"name":"minijinja-embed","vers":"2.15.0","deps":[],"cksum":"489c0830d5e141222a122e60840c168be4293b77d3442f113be491fb4a3a1800","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-01-26T22:12:15Z"}
+{"name":"minijinja-embed","vers":"2.15.1","deps":[],"cksum":"a3eba46a54176f004a68578c31461b75573835411c56ebc247819b6a874af27f","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-01-26T22:34:55Z"}
