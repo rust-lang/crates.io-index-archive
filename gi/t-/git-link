@@ -1,0 +1,1 @@
+{"name":"git-link","vers":"0.1.1","deps":[{"name":"clap","req":"^4.5.54","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76dc7d618761b2ef2e78d44d532937e38ceb28e4237c8dc8fe952aa05a659e9b","features":{},"yanked":false,"pubtime":"2026-01-26T03:45:24Z"}
