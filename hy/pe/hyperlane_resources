@@ -11,3 +11,4 @@
 {"name":"hyperlane_resources","vers":"9.3.4","deps":[],"cksum":"c1d0b42710fa9977db55c53d7f86e4f63d10f4dfa4173b7058c3b5241ec75577","features":{},"yanked":false,"pubtime":"2026-01-26T00:52:58Z"}
 {"name":"hyperlane_resources","vers":"9.3.5","deps":[],"cksum":"d1739aa98be43c55ab104cf7b44fa78dbe84ecd88e7a430fa7a49f9a35622972","features":{},"yanked":false,"pubtime":"2026-01-26T01:10:06Z"}
 {"name":"hyperlane_resources","vers":"9.4.0","deps":[],"cksum":"cc61e0646b9fb4cab3a10e07a6ac7a167f08575f38c128a2ac15ffc18feb76f8","features":{},"yanked":false,"pubtime":"2026-01-26T14:29:48Z"}
+{"name":"hyperlane_resources","vers":"9.4.1","deps":[],"cksum":"8b32afb0ab2297534b212ea8ef046dbd4f5364843a0c1c13aac9a6d8a8d0bd7b","features":{},"yanked":false,"pubtime":"2026-01-26T14:51:50Z"}
