@@ -5,3 +5,4 @@
 {"name":"ruleset-playground-derive","vers":"0.4.1","deps":[],"cksum":"390f448231e742a8709fbcc8e705b934810d50909fc41fb6d354324e8cee8145","features":{},"yanked":false,"pubtime":"2026-01-22T15:11:25Z"}
 {"name":"ruleset-playground-derive","vers":"0.4.2","deps":[],"cksum":"d214a298ab2b23df2c7562db51cedb166d6c00e982bf300e2343439d256eca16","features":{},"yanked":false,"pubtime":"2026-01-23T14:20:01Z"}
 {"name":"ruleset-playground-derive","vers":"0.4.3","deps":[],"cksum":"a477163d1978bf589b25902659ed2880baee1bfe7dee86374aaa701c115a52eb","features":{},"yanked":false,"pubtime":"2026-01-26T04:17:35Z"}
+{"name":"ruleset-playground-derive","vers":"0.4.4","deps":[{"name":"solana-rpc-client","req":"=3.1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"72f545b02cdac4eea8c802d1f2330c103763fde4635f55f4f89b34fa3d6cccf0","features":{},"yanked":false,"pubtime":"2026-01-26T04:31:39Z"}
