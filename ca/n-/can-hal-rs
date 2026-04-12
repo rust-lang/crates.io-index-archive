@@ -1,0 +1,1 @@
+{"name":"can-hal-rs","vers":"0.3.0","deps":[],"cksum":"8f9681c7ceb392e9b7712211fd04f29287cc794de7b0b2ae1ffad18f852cf068","features":{"async":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.81","pubtime":"2026-04-12T19:31:26Z"}
