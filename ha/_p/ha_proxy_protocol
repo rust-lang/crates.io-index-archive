@@ -1,1 +1,2 @@
 {"name":"ha_proxy_protocol","vers":"0.1.0","deps":[],"cksum":"28113ef98b553b2b7c88c64e21a128bb20131eef83bdafd28abd3ce1139d07e3","features":{},"yanked":true,"rust_version":"1.91","pubtime":"2026-04-08T14:31:54Z"}
+{"name":"ha_proxy_protocol","vers":"0.2.0","deps":[],"cksum":"6845a8c24e30794cc1f73de373e37d4f8a45f6b9600609d7e37838b6ee92bf79","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-04-12T09:47:43Z"}
