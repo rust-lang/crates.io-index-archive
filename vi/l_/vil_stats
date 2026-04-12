@@ -1,0 +1,1 @@
+{"name":"vil_stats","vers":"0.3.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a4b67c7be084d81b379571563f45a311e3c349d3531be27615eb7e04be2cd03","features":{},"yanked":false,"pubtime":"2026-04-12T16:00:53Z"}
