@@ -1,0 +1,1 @@
+{"name":"vil_email_validate","vers":"0.3.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"431f1afc9a976d3a40a3d6632493cbc93061a807d316e176c9de7c121820b7ed","features":{},"yanked":false,"pubtime":"2026-04-12T15:49:43Z"}
