@@ -1,0 +1,1 @@
+{"name":"veclite-integrations","vers":"1.1.0","deps":[{"name":"veclite-db","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12834951047c23ec7d93d285ae3a385f705affe06bab403ded5aa6360204cc50","features":{},"yanked":false,"pubtime":"2026-04-12T06:27:25Z"}
