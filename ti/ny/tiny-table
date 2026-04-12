@@ -1,0 +1,1 @@
+{"name":"tiny-table","vers":"0.1.0","deps":[{"name":"terminal_size","req":"^0.4.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d14c315ffb3300a4953fc43d3c50261ebd896aea843e4c200b9bc7f9f01a9370","features":{"default":["style"],"style":[]},"yanked":false,"pubtime":"2026-04-12T14:23:37Z"}
