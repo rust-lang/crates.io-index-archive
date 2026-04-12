@@ -1,0 +1,1 @@
+{"name":"manifold-csg-sys","vers":"3.4.101","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4dc7fbb38c39883eec5690de59bb19b52e9a3b9dedeeff1f10caa11a6c52262f","features":{"default":["parallel"],"parallel":[]},"yanked":false,"links":"manifold","pubtime":"2026-04-12T19:01:25Z"}
