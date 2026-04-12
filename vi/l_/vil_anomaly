@@ -1,0 +1,1 @@
+{"name":"vil_anomaly","vers":"0.3.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39b57bd33dcebd2cf708811f2f819827d16096e601f094c4a22a85dee8119194","features":{},"yanked":false,"pubtime":"2026-04-12T16:11:55Z"}
