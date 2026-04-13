@@ -3,3 +3,4 @@
 {"name":"nexus-rate","vers":"2.0.1","deps":[],"cksum":"c46acd9cd8f69222814b2885426aaf0e5c5b613ab0f4e0ab05dd85f52b473fbd","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-01T20:39:00Z"}
 {"name":"nexus-rate","vers":"2.1.0","deps":[],"cksum":"c7e5d611d956cbabaaccd38c0f214d5ffbddb2f9eaac921b264ca3420fc4eb1a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-12T02:08:33Z"}
 {"name":"nexus-rate","vers":"2.1.1","deps":[],"cksum":"1b73ad1a99503cb0e3d4ea23a142316321dc4faae2cc3cfe817e0fa4299e495c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-13T02:11:38Z"}
+{"name":"nexus-rate","vers":"2.1.2","deps":[],"cksum":"bad15f648e43c25bb7ecaaacabf35a19253c4bb012761ab76fcf5bbdc4bed6eb","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-13T05:27:11Z"}
