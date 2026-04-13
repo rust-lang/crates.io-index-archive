@@ -1,0 +1,1 @@
+{"name":"vmb-fake","vers":"0.2.0","deps":[{"name":"vmb-core","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8544884bf861016af5730eb7c95faef68a4cdc5d0283d0676a0a542a65eba72","features":{},"yanked":false,"rust_version":"1.84","pubtime":"2026-04-13T11:51:52Z"}
