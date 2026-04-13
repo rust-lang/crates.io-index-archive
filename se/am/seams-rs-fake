@@ -1,0 +1,1 @@
+{"name":"seams-rs-fake","vers":"0.1.1","deps":[{"name":"seams-rs-core","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12cdc853008e7da7ecc7d969aaaafb8ac277c4241c1aa7b7cb8617580e6a38cc","features":{},"yanked":false,"rust_version":"1.84","pubtime":"2026-04-13T23:20:14Z"}
