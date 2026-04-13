@@ -1,1 +1,2 @@
 {"name":"oxabl_common","vers":"0.3.0","deps":[],"cksum":"59cec1ea5302d184219fe51e5c42370b64a8208c799d4f3b931adc5ccda786bd","features":{},"yanked":false,"pubtime":"2026-04-03T01:43:41Z"}
+{"name":"oxabl_common","vers":"0.4.0","deps":[{"name":"criterion","req":"^4.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev","package":"codspeed-criterion-compat"}],"cksum":"fc0e276c0c6662fb1c2871317cbfb68508324789f687750b1ca01112777cc0a0","features":{},"yanked":false,"pubtime":"2026-04-13T16:26:36Z"}
