@@ -1,0 +1,1 @@
+{"name":"mx4","vers":"0.2.0","deps":[{"name":"hidapi","req":"^2.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c83a46bac8a6c0c196c41eb86ed2a3d734f9a52dc330a11753920b0abeb36de9","features":{},"yanked":false,"pubtime":"2026-04-13T08:13:43Z"}
