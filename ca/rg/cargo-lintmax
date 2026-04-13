@@ -1,0 +1,1 @@
+{"name":"cargo-lintmax","vers":"0.0.0","deps":[{"name":"clap","req":"^4.6.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f4abae472b24da553d29b2f060ae19573cf8d80acff6abb1b89022c7f815e9ee","features":{},"yanked":false,"pubtime":"2026-04-13T11:29:01Z"}
