@@ -1,0 +1,1 @@
+{"name":"seams-rs-std","vers":"0.1.1","deps":[{"name":"seams-rs-core","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f80aaeb0363170ee84fc23e8c344ecced8ad5d01d5c2515ee687a1a1c16bf5d4","features":{},"yanked":false,"rust_version":"1.84","pubtime":"2026-04-13T23:20:46Z"}
