@@ -5,3 +5,4 @@
 {"name":"sketchir","vers":"0.2.0","deps":[],"cksum":"bc77597c8b43208cfea8c7cdf87d8ff3964bfc051f7c2f2f14adddb49816ee6a","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-03-08T20:47:58Z"}
 {"name":"sketchir","vers":"0.2.1","deps":[],"cksum":"3650a4f7857475a68351c7d9f1418373b0ab8956784a555eeff605e65c2c4320","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-03-09T17:45:41Z"}
 {"name":"sketchir","vers":"0.3.0","deps":[],"cksum":"0dec5adcaad5c00042b4124bbf0e78dada7623578e082a778721251a51bf4d46","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-03-15T00:58:22Z"}
+{"name":"sketchir","vers":"0.3.1","deps":[],"cksum":"527f8b7b345551beb5fa8494ca493d5c86d73c8b895b602994f3a78ef68709d4","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-13T15:46:42Z"}
