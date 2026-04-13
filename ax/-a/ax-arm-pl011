@@ -1,0 +1,1 @@
+{"name":"ax-arm-pl011","vers":"0.3.0","deps":[{"name":"tock-registers","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3515d2e88c1bb0d14d68d004d7377a0ccf8522b05b9de5e9d9507c7c65bc37a","features":{},"yanked":false,"pubtime":"2026-04-13T09:29:32Z"}
