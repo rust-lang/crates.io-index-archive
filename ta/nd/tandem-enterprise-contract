@@ -1,0 +1,1 @@
+{"name":"tandem-enterprise-contract","vers":"0.4.25","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"15e118c7d193f8230b5c58ee7064be388117f12c0de895f8919f3f372bcb78a2","features":{},"yanked":false,"pubtime":"2026-04-13T21:11:41Z"}
