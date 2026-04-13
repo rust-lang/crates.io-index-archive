@@ -1,0 +1,1 @@
+{"name":"ax-driver-pci","vers":"0.3.4","deps":[{"name":"virtio-drivers","req":"^0.13.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"55ca9480f7f941e153b05d0baff01e0f771ac6e55271d46c6d73c3f20e69e4ed","features":{},"yanked":false,"pubtime":"2026-04-13T09:34:20Z"}
