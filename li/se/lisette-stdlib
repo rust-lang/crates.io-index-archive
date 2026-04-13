@@ -8,3 +8,4 @@
 {"name":"lisette-stdlib","vers":"0.1.6","deps":[],"cksum":"7defba39f9f3c084e835c1bdbd61542b7ecfbe954062bf1dfbbff259370621eb","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-04-09T21:25:05Z"}
 {"name":"lisette-stdlib","vers":"0.1.7","deps":[],"cksum":"1b6c61773567abed9720c5ac52efd7c244d15433f5b02368e4d9bb71224be280","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-04-11T13:06:20Z"}
 {"name":"lisette-stdlib","vers":"0.1.8","deps":[],"cksum":"2f104b1da73f4a951d0a87a0251485359c82458e958f6d9cc14631389af5577a","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-04-12T14:52:01Z"}
+{"name":"lisette-stdlib","vers":"0.1.9","deps":[],"cksum":"5cf6805256946991e294529ac6ac2945f414cdd254cb7132bde99479ca50ea56","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-04-13T20:50:08Z"}
