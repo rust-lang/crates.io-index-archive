@@ -1,0 +1,1 @@
+{"name":"latency","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6d85ceaab2d965805e099a9fd418514f8a3f3a454ad11c7372317d702fa2a22b","features":{"default":["enabled"],"enabled":[]},"yanked":false,"pubtime":"2026-04-14T06:20:14Z"}
