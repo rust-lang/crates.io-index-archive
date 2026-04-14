@@ -1,0 +1,1 @@
+{"name":"animate-core","vers":"0.1.0","deps":[{"name":"ratatui","req":"^0.30","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8736c5effe959cdbaff9540fa40a06bad60b3ad70e3bd3c802f6be2a6782aca0","features":{"default":[]},"features2":{"ratatui":["dep:ratatui"]},"yanked":false,"pubtime":"2026-04-14T13:16:30Z","v":2}
