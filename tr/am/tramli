@@ -35,3 +35,4 @@
 {"name":"tramli","vers":"3.6.1","deps":[],"cksum":"8493adf78c571f6fdc6477f5a54859310429aa625fdf07927a234fc59b2bcd82","features":{},"yanked":false,"rust_version":"1.75.0","pubtime":"2026-04-09T06:23:45Z"}
 {"name":"tramli","vers":"3.7.0","deps":[],"cksum":"0eb4d48d3d76442766a298a45b520dd5fc3dafff37c9bcff2ecaed0faf340125","features":{},"yanked":false,"rust_version":"1.75.0","pubtime":"2026-04-09T16:50:20Z"}
 {"name":"tramli","vers":"3.7.1","deps":[],"cksum":"d831855162fd571daff599949971d44e5a7cb7452892160e453ba8ff8b994820","features":{},"yanked":false,"rust_version":"1.75.0","pubtime":"2026-04-09T16:56:05Z"}
+{"name":"tramli","vers":"3.8.0","deps":[],"cksum":"910bb8f50772d73f384c8e6e4d0a90b839d685228583e6c971a7eff67e7a0f66","features":{},"yanked":false,"rust_version":"1.75.0","pubtime":"2026-04-14T03:29:08Z"}
