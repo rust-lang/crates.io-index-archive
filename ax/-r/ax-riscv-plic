@@ -1,0 +1,1 @@
+{"name":"ax-riscv-plic","vers":"0.4.0","deps":[{"name":"tock-registers","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"06b0e4026c1d506b1f9325cd487b4a75de9265b5b68d97f33079d1d1c4d7ace3","features":{},"yanked":false,"pubtime":"2026-04-14T00:34:20Z"}
