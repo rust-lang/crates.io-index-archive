@@ -6,3 +6,4 @@
 {"name":"cookie-rs","vers":"0.3.0","deps":[],"cksum":"543f200270b5bb92a22a5c24ee0d2810382df54f7c29aa481be92dc5cb57f3a8","features":{},"yanked":false,"pubtime":"2025-02-07T09:59:48Z"}
 {"name":"cookie-rs","vers":"0.4.0","deps":[],"cksum":"c9d48e0e4b63b966d5951f2d88090995d16b76679042d1375f70b404f1f23948","features":{},"yanked":false,"pubtime":"2025-02-12T10:07:12Z"}
 {"name":"cookie-rs","vers":"0.4.1","deps":[],"cksum":"69deedbff42d34777a2c86794e57629898a686d84efcc28dfa8fbb515c8884ce","features":{},"yanked":false,"pubtime":"2025-03-03T19:50:42Z"}
+{"name":"cookie-rs","vers":"0.4.2","deps":[],"cksum":"5933ded34847986a1348361a52d526fd2fc9ac976cfc84cfaf9ffb9fda73132a","features":{},"yanked":false,"pubtime":"2026-04-14T20:45:17Z"}
