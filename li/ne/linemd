@@ -4,3 +4,4 @@
 {"name":"linemd","vers":"0.2.1","deps":[],"cksum":"703af29af663ef386de521cf3389c20c6e926dd2d9689c010909b232763f9b53","features":{"default":["html"],"html":[],"svg":[]},"yanked":false,"pubtime":"2021-06-15T23:34:51Z"}
 {"name":"linemd","vers":"0.3.0","deps":[],"cksum":"77a3bf323c97028fd7befae469a16e812cd771ee7574ba57d936e07af44d5bf5","features":{"default":["html"],"html":[],"svg":[]},"yanked":false,"pubtime":"2021-06-16T15:54:51Z"}
 {"name":"linemd","vers":"0.4.0","deps":[],"cksum":"0348662567c36d4405fbfcbf9126880a3db859da0070bc293e07b086e670a30e","features":{"default":["html"],"html":[],"svg":[]},"yanked":false,"pubtime":"2021-06-27T22:20:08Z"}
+{"name":"linemd","vers":"0.5.0","deps":[],"cksum":"47e8d932ea5e37464982f193ac2c9a7263d9ffaf5a9622688bbf981cc5b0fc92","features":{"default":["html"],"html":[],"svg":[]},"yanked":false,"pubtime":"2026-04-14T02:59:21Z"}
