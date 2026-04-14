@@ -1,0 +1,1 @@
+{"name":"ax-sched","vers":"0.5.1","deps":[{"name":"ax-linked-list-r4l","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a1e5ede07bffb3e2207a2d7a7dcce33cb598338697c92d8ed8ff58d412348a72","features":{},"yanked":false,"rust_version":"1.76","pubtime":"2026-04-14T02:03:51Z"}
