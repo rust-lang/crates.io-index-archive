@@ -5,3 +5,4 @@
 {"name":"base256u","vers":"1.1.2","deps":[],"cksum":"51238777ac1f9b2bc33f242cfeb0fb059b2bd680a80176d9384c348fc31723fb","features":{},"yanked":false,"pubtime":"2025-01-27T20:19:53Z"}
 {"name":"base256u","vers":"1.1.3","deps":[],"cksum":"1fa39df8dc0138cfe358c4f0f36362bb00db8768a2a3fcb0292e9f3385aaa13b","features":{},"yanked":false,"pubtime":"2026-04-14T02:38:16Z"}
 {"name":"base256u","vers":"1.1.4","deps":[],"cksum":"3cace90715e276cee6743486d5572429b58d928dba98a55b5f82956f28ad6887","features":{},"yanked":false,"pubtime":"2026-04-14T02:40:16Z"}
+{"name":"base256u","vers":"1.1.5","deps":[],"cksum":"02cc36928e42e867f99615419749697caeb6a79c236bd6ceb94dc65b014e05ab","features":{},"yanked":false,"pubtime":"2026-04-14T03:06:12Z"}
