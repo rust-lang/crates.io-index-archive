@@ -17,3 +17,4 @@
 {"name":"fixed32","vers":"0.0.17","deps":[],"cksum":"294b76c425a36fce4e8fd1d6d9b0c591143d3748b325766c97fdd08ed5b964df","features":{},"yanked":false,"pubtime":"2024-10-29T14:20:00Z"}
 {"name":"fixed32","vers":"0.0.18","deps":[],"cksum":"a2684e63ac0834684f5eed6a71d6902dbd1b7721fb55aea211e795255e7fb1a3","features":{},"yanked":false,"pubtime":"2025-07-07T19:24:28Z"}
 {"name":"fixed32","vers":"0.0.19","deps":[],"cksum":"eed1d61f093687de70e978ce0d7d91451273fe9c192d0974088375609842d31f","features":{},"yanked":false,"pubtime":"2026-01-01T11:14:44Z"}
+{"name":"fixed32","vers":"0.0.20","deps":[],"cksum":"38da57487daf35635683b5b503dac0524ab8b25e3d5212a6b6f1c40b83a1923b","features":{},"yanked":false,"pubtime":"2026-04-14T07:15:35Z"}
