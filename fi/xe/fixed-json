@@ -1,0 +1,1 @@
+{"name":"fixed-json","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"931985405cf117b1310fa799d2544fa1bcd0863729f7d4b597b7817f7c72a944","features":{"default":[],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-14T12:11:32Z"}
