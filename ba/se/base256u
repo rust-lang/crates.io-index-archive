@@ -6,3 +6,4 @@
 {"name":"base256u","vers":"1.1.3","deps":[],"cksum":"1fa39df8dc0138cfe358c4f0f36362bb00db8768a2a3fcb0292e9f3385aaa13b","features":{},"yanked":false,"pubtime":"2026-04-14T02:38:16Z"}
 {"name":"base256u","vers":"1.1.4","deps":[],"cksum":"3cace90715e276cee6743486d5572429b58d928dba98a55b5f82956f28ad6887","features":{},"yanked":false,"pubtime":"2026-04-14T02:40:16Z"}
 {"name":"base256u","vers":"1.1.5","deps":[],"cksum":"02cc36928e42e867f99615419749697caeb6a79c236bd6ceb94dc65b014e05ab","features":{},"yanked":false,"pubtime":"2026-04-14T03:06:12Z"}
+{"name":"base256u","vers":"1.2.0","deps":[],"cksum":"eafc6148187c01eeb63873b62abad04ade69b678d50cca5055e5e1d3ff8d57f0","features":{},"yanked":false,"pubtime":"2026-04-14T20:18:11Z"}
