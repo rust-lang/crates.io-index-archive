@@ -1,0 +1,1 @@
+{"name":"goish","vers":"0.1.0","deps":[{"name":"crossbeam-channel","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ca5827ae1365a2de5b303b41c3e84f273bf61fddd6513f6b38e3b5b394f8e77","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-04-15T10:16:03Z"}
