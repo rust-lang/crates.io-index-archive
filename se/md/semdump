@@ -1,1 +1,2 @@
 {"name":"semdump","vers":"0.1.0","deps":[{"name":"insta","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"13e0f8fa353b805d267ee13647e35f1278dba3708157a86930ee206f2e523a27","features":{},"yanked":false,"pubtime":"2026-04-14T20:19:33Z"}
+{"name":"semdump","vers":"0.1.1","deps":[{"name":"insta","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"37b85a14e28c11e257f2a4f87c1f3b5ab41d4f2758c5e3cbff238327da013023","features":{},"yanked":false,"pubtime":"2026-04-15T17:01:48Z"}
