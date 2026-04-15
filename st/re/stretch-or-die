@@ -1,0 +1,1 @@
+{"name":"stretch-or-die","vers":"0.1.0","deps":[{"name":"notify-rust","req":"^4.15.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a83afa79f6e541c36f9a7796ae7bfda34760c3da2d3195d328ce42f60392554","features":{},"yanked":false,"pubtime":"2026-04-15T13:09:05Z"}
