@@ -3,3 +3,4 @@
 {"name":"aarch64_sysreg","vers":"0.3.1","deps":[],"cksum":"cfcfe6b5335651acf3f49426b4d06bfd4780bd01c64308f6d37a0f4d58bd08d6","features":{},"yanked":false,"pubtime":"2026-04-02T02:59:27Z"}
 {"name":"aarch64_sysreg","vers":"0.3.2","deps":[],"cksum":"defaaf027a1d2d74b5fcfa6b1ccc2260bf25d382bea38aec2ae9847ac1ebbc34","features":{},"yanked":false,"pubtime":"2026-04-14T07:36:17Z"}
 {"name":"aarch64_sysreg","vers":"0.3.3","deps":[],"cksum":"3a59e046a2fcd01414b45a5188483242836b2c75831039abb413434bef0f8290","features":{},"yanked":false,"pubtime":"2026-04-15T09:05:13Z"}
+{"name":"aarch64_sysreg","vers":"0.3.4","deps":[],"cksum":"3336847bf667c87f50d3a48323250d5c361349475794eda07f585d34783ce7b0","features":{},"yanked":false,"pubtime":"2026-04-16T04:17:18Z"}
