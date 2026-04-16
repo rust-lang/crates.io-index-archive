@@ -48,3 +48,4 @@
 {"name":"syntaqlite-common","vers":"0.2.17","deps":[],"cksum":"1df34b01aafcf9a93e61756cbddd23df3b1ceb86c24868204d0267da566462d7","features":{},"yanked":false,"pubtime":"2026-04-07T22:32:18Z"}
 {"name":"syntaqlite-common","vers":"0.3.0","deps":[],"cksum":"6fb6d6440cd35b8aedf658c837f52e15aac52913c3fe512932d021a0e2124042","features":{},"yanked":false,"pubtime":"2026-04-08T11:44:03Z"}
 {"name":"syntaqlite-common","vers":"0.3.1","deps":[],"cksum":"7d71def2946442b2437e2f160697f6d1a5e6cd8af7e54d1d52f56f3613a03009","features":{},"yanked":false,"pubtime":"2026-04-11T12:14:48Z"}
+{"name":"syntaqlite-common","vers":"0.4.0","deps":[],"cksum":"e7e2555d17d35f083e4d924014d2ec9f6aea57ab80c17b20e389bdb3d67f88f4","features":{},"yanked":false,"pubtime":"2026-04-16T21:47:37Z"}
