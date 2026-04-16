@@ -24,3 +24,4 @@
 {"name":"nightly2version","vers":"1.93.1-1","deps":[],"cksum":"9d7f3a3bea93fc8ca0508c33aab9fdd2e50d06536c2ee82c04726b4b038a181e","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-03-03T15:28:08Z"}
 {"name":"nightly2version","vers":"1.94.0","deps":[],"cksum":"22372059c4a7851e41c76013e4f8afae13acf9608ed054048088683046f4ce66","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-03-12T03:44:23Z"}
 {"name":"nightly2version","vers":"1.94.1","deps":[],"cksum":"bc2d6f56b11dbc526a8264b5ea62e58c8852d54b3b9f8a9c5f42e25089639267","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-04-15T21:31:23Z"}
+{"name":"nightly2version","vers":"1.95.0","deps":[],"cksum":"af3d47d9882e9c3c4e260cd4c018326fecf4d290dbaec7e8a0303269216cdd06","features":{"default":["std"],"std":[]},"yanked":false,"pubtime":"2026-04-16T15:40:19Z"}
