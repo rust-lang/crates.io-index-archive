@@ -1,0 +1,1 @@
+{"name":"oxideav-container","vers":"0.0.3","deps":[{"name":"oxideav-core","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1f43fc71263f42058b3b5fbc06236eb6c5d7d96fbc4b2d9d58189c8e05f965e","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-17T12:57:44Z"}
