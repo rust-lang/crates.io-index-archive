@@ -7,3 +7,4 @@
 {"name":"cargo-rustflags","vers":"0.3.0","deps":[],"cksum":"2c57fda83b9aec6058639d0de40ad73b79cd6a56e8732df0a4c98f0138335896","features":{},"yanked":false,"pubtime":"2026-04-10T00:36:22Z"}
 {"name":"cargo-rustflags","vers":"0.3.1","deps":[],"cksum":"356e0ae5e733a8e0779ebaeb665826b28ad1869cf585dd8a0e3b1b5b73f2e97d","features":{},"yanked":false,"pubtime":"2026-04-16T19:17:44Z"}
 {"name":"cargo-rustflags","vers":"0.3.2","deps":[],"cksum":"47dca4c6c1f467dc4dd69766d63bac72141a0ca4c4bd0bf7dd9b4e2af1681404","features":{},"yanked":false,"pubtime":"2026-04-16T19:40:25Z"}
+{"name":"cargo-rustflags","vers":"0.3.3","deps":[],"cksum":"1c39695b5439619a72bccf8f4fb641ca5ce8652fe15523ad4d306c8c6ecde417","features":{},"yanked":false,"pubtime":"2026-04-17T16:33:12Z"}
