@@ -1,0 +1,1 @@
+{"name":"oxideav-core","vers":"0.0.3","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c911df9e299622ce782034f54a2872b6a153a62cc1c4c87d28a44e67a7c13b57","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-17T12:57:39Z"}
