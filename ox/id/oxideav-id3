@@ -1,0 +1,1 @@
+{"name":"oxideav-id3","vers":"0.0.3","deps":[{"name":"oxideav-core","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1660a88abac3280a6f1cb26c268aa22dade4cf40eba429665b3131f03abe378","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-17T12:57:45Z"}
