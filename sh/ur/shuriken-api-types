@@ -1,0 +1,1 @@
+{"name":"shuriken-api-types","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98f32be2161ebc1e0b1cab6bb30834c15c1b16b2e2d14639973a60a1a987fcf0","features":{},"yanked":false,"pubtime":"2026-04-17T12:03:52Z"}
