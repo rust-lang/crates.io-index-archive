@@ -1,0 +1,1 @@
+{"name":"oxideav-codec","vers":"0.0.3","deps":[{"name":"oxideav-core","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8f263f922d7a7076dd7b9c6bd5c222c64da064ccd5e8ad9dbd569748cdebc026","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-17T12:57:43Z"}
