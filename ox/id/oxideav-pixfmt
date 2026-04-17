@@ -1,0 +1,1 @@
+{"name":"oxideav-pixfmt","vers":"0.0.3","deps":[{"name":"oxideav-core","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11a0587706d5f9a3fcf9dd3a33d6439843e57df8c82af33ce91a0af97f742aac","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-17T12:57:46Z"}
