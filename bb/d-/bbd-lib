@@ -15,3 +15,4 @@
 {"name":"bbd-lib","vers":"0.4.2","deps":[],"cksum":"1a927be9f72b4a5f56713a6a7fd11744cb7531e3200a114eb074f57f64b91638","features":{},"yanked":false,"pubtime":"2025-11-12T14:44:11Z"}
 {"name":"bbd-lib","vers":"0.4.3","deps":[],"cksum":"a91b2bf6a32d1b04c7e753cb1afdc0a7fedcc3e43afe444d7a592f38ac00b60a","features":{},"yanked":false,"pubtime":"2025-11-14T01:12:29Z"}
 {"name":"bbd-lib","vers":"0.4.4","deps":[],"cksum":"c3bc898ca94fc624179807df33e4ad54415fb8e607efa3b394a0f4cb402caa74","features":{},"yanked":false,"pubtime":"2026-03-03T14:57:56Z"}
+{"name":"bbd-lib","vers":"0.4.5","deps":[],"cksum":"4278f786fdfd49736c885035f0832d7d59acdc5e8742784195ba400dc30f2ed2","features":{},"yanked":false,"pubtime":"2026-04-17T17:48:06Z"}
