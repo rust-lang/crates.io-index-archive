@@ -6,3 +6,4 @@
 {"name":"bytetable","vers":"1.0.5","deps":[],"cksum":"7f6ae4283908f6d271b89287b28206b8153f29fb90c4162ead9652de0fffdd53","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.91","pubtime":"2026-03-29T05:17:03Z"}
 {"name":"bytetable","vers":"1.0.6","deps":[],"cksum":"05ef14e5cbbe112a17901b4c612d602cca85d0d5980d2e79367edc911acc9faf","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.91","pubtime":"2026-04-14T21:40:53Z"}
 {"name":"bytetable","vers":"1.0.7","deps":[],"cksum":"dafefa56dd74a68f5c3db9de4553eee1db6ad734b697c45b99737c3ea708bf67","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.91","pubtime":"2026-04-14T21:42:24Z"}
+{"name":"bytetable","vers":"1.0.8","deps":[],"cksum":"1f37877d5e6fabcd3e15272489d0376407ad207e4183631afc25732053b2314d","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.91","pubtime":"2026-04-18T23:46:06Z"}
