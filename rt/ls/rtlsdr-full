@@ -6,3 +6,4 @@
 {"name":"rtlsdr-full","vers":"0.1.5","deps":[],"cksum":"38d7206c365298239609831abce8d9f877afe0ca0c986cae1ca08b3aba82234c","features":{},"yanked":false,"pubtime":"2023-11-04T17:48:46Z"}
 {"name":"rtlsdr-full","vers":"0.1.6","deps":[],"cksum":"4822b404204007889007e2aa3b1f66e931392bf7120c34fa825772fb659b3097","features":{},"yanked":false,"pubtime":"2023-12-17T00:29:57Z"}
 {"name":"rtlsdr-full","vers":"0.1.7","deps":[],"cksum":"edae0adc9175f88ce5f83c2f92722dd602ab6ba9e83ab46e5fd47c8985e0f9b0","features":{},"yanked":false,"pubtime":"2024-05-04T00:40:35Z"}
+{"name":"rtlsdr-full","vers":"0.2.0","deps":[],"cksum":"b11b5f1033ea960b00876ffce46d558f180038f96842afa870e5c083c4533751","features":{},"yanked":false,"pubtime":"2026-04-18T13:52:05Z"}
