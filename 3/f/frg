@@ -1,2 +1,3 @@
 {"name":"frg","vers":"0.1.0","deps":[],"cksum":"a262af259db8376a90c564b5490be3d0f18d1b2a4fcf2354c687c611f4367558","features":{},"yanked":false,"pubtime":"2025-10-03T01:51:15Z"}
 {"name":"frg","vers":"0.1.1","deps":[],"cksum":"774b8c933c03eb7ae543d2250ca743b797fe986251d0945492f15730468a766c","features":{},"yanked":false,"pubtime":"2025-11-08T04:59:25Z"}
+{"name":"frg","vers":"1.0.0","deps":[{"name":"cc","req":"^1.2.50","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"tree-sitter","req":"^0.26.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3e70c48d1eb4193b47743b3b2fd3832924c85e91bc33f545e1609eb5b459881b","features":{},"yanked":false,"pubtime":"2026-04-18T09:24:18Z"}
