@@ -28,3 +28,4 @@
 {"name":"clone_dyn_types","vers":"0.45.0","deps":[],"cksum":"428fb064c48ddc585483ce887e884b59656f58c53f38f3b9525df8be3e6fc381","features":{"default":["enabled"],"enabled":[],"full":["enabled"]},"yanked":false,"pubtime":"2026-01-24T21:14:37Z"}
 {"name":"clone_dyn_types","vers":"0.46.0","deps":[],"cksum":"1a3f776157ddd8935bbb73ece8d0c48cf447b8eaf0294882f2d091a3fca2de2b","features":{"default":["enabled"],"enabled":[],"full":["enabled"]},"yanked":false,"pubtime":"2026-03-31T20:07:22Z"}
 {"name":"clone_dyn_types","vers":"0.47.0","deps":[],"cksum":"4c3089626a7c34a796c72d47614b64bb26a5bd434bdd5befc552480c1622d889","features":{"default":["enabled"],"enabled":[],"full":["enabled"]},"yanked":false,"pubtime":"2026-04-18T10:57:29Z"}
+{"name":"clone_dyn_types","vers":"0.48.0","deps":[],"cksum":"5226d8fe69efe07200ea831d71b9d8fbfb1a894945fc4a44f41df17575de099f","features":{"default":["enabled"],"enabled":[],"full":["enabled"]},"yanked":false,"pubtime":"2026-04-18T21:32:09Z"}
