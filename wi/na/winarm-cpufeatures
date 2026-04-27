@@ -1,2 +1,2 @@
 {"name":"winarm-cpufeatures","vers":"0.1.0","deps":[],"cksum":"8cd9e6df6e303bcf9c4bce60eb2071d230b7f7f364f104da91815e968396f592","features":{"default":[],"nightly-sve":[],"registry":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-27T20:54:20Z"}
-{"name":"winarm-cpufeatures","vers":"0.1.1","deps":[],"cksum":"cecaaee32535c8681b74cee5dc7aeffdf4ea4aad338fce10528cdb8e67bd4e08","features":{"default":[],"nightly-sve":[],"registry":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-27T22:44:33Z"}
+{"name":"winarm-cpufeatures","vers":"0.1.1","deps":[],"cksum":"cecaaee32535c8681b74cee5dc7aeffdf4ea4aad338fce10528cdb8e67bd4e08","features":{"default":[],"nightly-sve":[],"registry":[]},"yanked":true,"rust_version":"1.85","pubtime":"2026-04-27T22:44:33Z"}
