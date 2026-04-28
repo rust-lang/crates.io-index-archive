@@ -169,3 +169,4 @@
 {"name":"harn-lexer","vers":"0.7.45","deps":[],"cksum":"4a35f7d39e2f9b5a1926aa565151f4c3deaf51bcca75c9ac814f3e2be3a52891","features":{},"yanked":false,"pubtime":"2026-04-27T02:17:17Z"}
 {"name":"harn-lexer","vers":"0.7.46","deps":[],"cksum":"1575c6ba88dacb2cb4e221c977d428f37e95baa4d1fac56678fed7aeaa95ff5d","features":{},"yanked":false,"pubtime":"2026-04-28T00:31:21Z"}
 {"name":"harn-lexer","vers":"0.7.47","deps":[],"cksum":"149c059566cd79a121d9b9446a68c35e04e399cf3af897f36e2e750e1e416212","features":{},"yanked":false,"pubtime":"2026-04-28T04:58:07Z"}
+{"name":"harn-lexer","vers":"0.7.48","deps":[],"cksum":"012e21c3e178a0b307359e54cb667a57b640c456ebc8593f5054e0a625db108c","features":{},"yanked":false,"pubtime":"2026-04-28T16:32:28Z"}
