@@ -17,3 +17,4 @@
 {"name":"agent_feed_deploy","vers":"0.1.21","deps":[],"cksum":"dd7bbc4f002d8e0b27a1641fcc9b51564c98f5b70436efdeed89b93e14650449","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-25T17:29:27Z"}
 {"name":"agent_feed_deploy","vers":"0.1.22","deps":[],"cksum":"ef61ade6ef43829a9eb1c4bb5687d63403c403896c2f834a616bc607a18f7a71","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-26T00:48:43Z"}
 {"name":"agent_feed_deploy","vers":"0.1.23","deps":[],"cksum":"86653699df18b590093c240a25b4fcf9b1b010e2ec629fd52fe8867ad54d64ae","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-28T17:04:46Z"}
+{"name":"agent_feed_deploy","vers":"0.1.24","deps":[],"cksum":"3a151421a21425fb0bc284016db866ab27fb40bf744ea3bf65206a756e89ff83","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-28T17:36:52Z"}
