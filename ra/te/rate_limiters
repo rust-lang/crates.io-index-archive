@@ -6,3 +6,4 @@
 {"name":"rate_limiters","vers":"0.1.6","deps":[],"cksum":"af499c76d62f40b1ae639578fb76c6e93676a59ab21eb04d9965a2800539cf9e","features":{},"yanked":false,"pubtime":"2025-08-30T10:31:44Z"}
 {"name":"rate_limiters","vers":"0.1.7","deps":[],"cksum":"27d048f2583130b332f5ba71d7d7e8f578cb50e645e046435c69494a3f8737e3","features":{},"yanked":false,"pubtime":"2025-08-31T13:52:05Z"}
 {"name":"rate_limiters","vers":"0.1.8","deps":[],"cksum":"5470092f44c3f5e2dc4619b87bccb81739ed5e0f93531a843936efc5f1e172ee","features":{},"yanked":false,"pubtime":"2025-09-06T10:01:52Z"}
+{"name":"rate_limiters","vers":"0.1.11","deps":[],"cksum":"3a2be65f86a8975c34f65c245a289d38ad4fce2b3e7b5b5975964b8df6e1667b","features":{},"yanked":false,"pubtime":"2026-04-28T18:43:04Z"}
