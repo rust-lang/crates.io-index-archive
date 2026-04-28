@@ -1,0 +1,1 @@
+{"name":"agent-detector","vers":"0.1.0","deps":[{"name":"sysinfo","req":"^0.38","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d1eb713d6914d48e6a25f1dd553831c623f1f7ac31f007bb05f8b06927dad6d2","features":{},"features2":{"default":["process-tree"],"process-tree":["dep:sysinfo"]},"yanked":false,"pubtime":"2026-04-28T19:08:28Z","v":2}
