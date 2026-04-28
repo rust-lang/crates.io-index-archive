@@ -1,0 +1,1 @@
+{"name":"freemkv-tools","vers":"0.13.26","deps":[{"name":"libfreemkv","req":"^0.13.32","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8daf3ab8ce094d1f4e4b092e398dcb99d6d741710f8897d345bd91e1f5407ab","features":{},"yanked":false,"pubtime":"2026-04-28T21:52:31Z"}
