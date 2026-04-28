@@ -1,3 +1,3 @@
 {"name":"lsh","vers":"99.0.0","deps":[],"cksum":"ae807c38363ecf19cbbebcbfd4616a755ee2c0a9b03786ea0fbb5c2e5add7192","features":{},"yanked":false,"pubtime":"2026-04-28T01:09:00Z"}
 {"name":"lsh","vers":"99.0.1","deps":[],"cksum":"6c81d8e399272112d55b1b96d5dc588145229f8ce76dd978a7518cee47a337dd","features":{},"yanked":false,"pubtime":"2026-04-28T01:11:49Z"}
-{"name":"lsh","vers":"99.0.2","deps":[{"name":"lsh","req":"=99.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2475a34f86ab7afd6e43812cb01fe9068ffbe344190febcb18e499af0579ab47","features":{},"yanked":false,"pubtime":"2026-04-28T01:39:10Z"}
+{"name":"lsh","vers":"99.0.2","deps":[{"name":"lsh","req":"=99.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2475a34f86ab7afd6e43812cb01fe9068ffbe344190febcb18e499af0579ab47","features":{},"yanked":true,"pubtime":"2026-04-28T01:39:10Z"}
