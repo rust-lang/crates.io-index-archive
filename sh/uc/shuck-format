@@ -12,3 +12,4 @@
 {"name":"shuck-format","vers":"0.0.22","deps":[{"name":"unicode-width","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"643d2a1ec2909efc9718ec00c0b6fb90c0bdbdfeaf37c0bdecce6a75c19bd12e","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-04-25T16:59:35Z"}
 {"name":"shuck-format","vers":"0.0.23","deps":[],"cksum":"30a4724637c51866ed56216073265e594cefd9a82700c69b59232f6fac331e08","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-04-26T04:11:14Z"}
 {"name":"shuck-format","vers":"0.0.24","deps":[],"cksum":"e4a623d8cd23e7704e5d673a621f57c804e192406fd463a06ca5c8f975066143","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-04-26T21:40:28Z"}
+{"name":"shuck-format","vers":"0.0.25","deps":[],"cksum":"3667d07b9399da6953cf74cba250feb1f9a9db3c462d8f22fe8295ebf0c9b76b","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-04-28T20:25:42Z"}
