@@ -1,2 +1,3 @@
 {"name":"wasm-smtp-core","vers":"0.1.0","deps":[],"cksum":"342379cc99760ab6e64aab7ff9963d3af109ec010dbebb56c19fcc3b49e859e0","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-28T13:30:42Z"}
 {"name":"wasm-smtp-core","vers":"0.2.0","deps":[],"cksum":"91e2959832a014dcda125ffa61cae5610a1c9166952ccf4ceb8a6cdf57414192","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-28T13:34:00Z"}
+{"name":"wasm-smtp-core","vers":"0.3.0","deps":[],"cksum":"224d9a8b0f9237e5482d340a2c183909ad01cf0dc99af5678f09c17b7064aa2d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-28T13:46:34Z"}
