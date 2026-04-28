@@ -7,3 +7,4 @@
 {"name":"philiprehberger-config-loader","vers":"0.1.8","deps":[],"cksum":"5cf7de1593535a17be8ef0139bf2bb68097f7fa0ad1c3520d937c024fb98c2c2","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-03-23T00:39:24Z"}
 {"name":"philiprehberger-config-loader","vers":"0.1.9","deps":[],"cksum":"c9992535a1ac5ec5416c9ede1116281e23fc5d54db0fe259ca603473e436b976","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-03-27T19:10:07Z"}
 {"name":"philiprehberger-config-loader","vers":"0.1.10","deps":[],"cksum":"392f30837bbeb9cd44f0732f10a9991caa610534572cd60108997050203cafa8","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-04-01T18:42:40Z"}
+{"name":"philiprehberger-config-loader","vers":"0.2.0","deps":[],"cksum":"76e8ce7d45dfbe9da94fac2e8fc47ee0b9eef42a887066444729fb1ca8a68fad","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-04-28T02:36:43Z"}
