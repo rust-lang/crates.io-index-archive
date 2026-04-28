@@ -1,0 +1,4 @@
+{"name":"r_log","vers":"0.1.0","deps":[],"cksum":"bf32614575bfeff37a816a5a168e8bf417999930757b2b1be3784fa6e968398e","features":{},"yanked":false,"pubtime":"2026-04-22T22:58:09Z"}
+{"name":"r_log","vers":"0.1.1","deps":[],"cksum":"2c54c1749b7d5cd9780364a50294a102ced6183482c84b01e27d93511a5f50a4","features":{},"yanked":false,"pubtime":"2026-04-23T22:26:17Z"}
+{"name":"r_log","vers":"0.1.2","deps":[],"cksum":"acc41749bdc2e63f1cdfd1e036e2c63b70a57d6ebb917cf49c8112fecfeba958","features":{},"yanked":false,"pubtime":"2026-04-27T14:18:34Z"}
+{"name":"r_log","vers":"0.2.2","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccf15c1b5f69d5046c386876d932dfdb52f452b4507d32f1a155dbcf213ce95d","features":{},"yanked":false,"pubtime":"2026-04-27T17:28:10Z"}

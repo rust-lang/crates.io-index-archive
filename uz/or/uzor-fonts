@@ -1,0 +1,5 @@
+{"name":"uzor-fonts","vers":"1.0.0","deps":[{"name":"ureq","req":"^2","features":["tls"],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"7832fa9bbad9454077683fc4dc18b36a60699bea1d4cf3073a423ddcd7d9fff0","features":{},"yanked":false,"links":"uzor_fonts_assets","pubtime":"2026-04-07T22:26:02Z"}
+{"name":"uzor-fonts","vers":"1.0.1","deps":[],"cksum":"437ca6b2e45819c7ce29ac164edeb1c2416680c3a8c2a47f47617d2041d312de","features":{},"yanked":false,"links":"uzor_fonts_assets","pubtime":"2026-04-07T23:42:41Z"}
+{"name":"uzor-fonts","vers":"1.1.4","deps":[],"cksum":"aa2cc3b74210a0372603268326d80652f07fd46cf163582381fb393f0d6ebf32","features":{},"yanked":false,"links":"uzor_fonts_assets","pubtime":"2026-04-26T17:04:20Z"}
+{"name":"uzor-fonts","vers":"1.1.5","deps":[],"cksum":"d905d132c62f01be30f74f0f0830105a4b0186178b9048ac56857a8fd68049e7","features":{},"yanked":false,"links":"uzor_fonts_assets","pubtime":"2026-04-26T18:22:54Z"}
+{"name":"uzor-fonts","vers":"1.1.6","deps":[],"cksum":"4f7b539fb935546390f9bda314f766ca7e1eaa49ea2bc82ed45838b52c44bb57","features":{},"yanked":false,"links":"uzor_fonts_assets","pubtime":"2026-04-27T12:30:35Z"}
