@@ -7,3 +7,4 @@
 {"name":"monch","vers":"0.4.2","deps":[],"cksum":"bb73e1dc7d232e1ab47ef27f45fa1d173a0979b370e763a9d0584556011150e0","features":{},"yanked":false,"pubtime":"2023-05-07T00:07:26Z"}
 {"name":"monch","vers":"0.4.3","deps":[],"cksum":"4519a88847ba2d5ead3dc53f1060ec6a571de93f325d9c5c4968147382b1cbc3","features":{},"yanked":false,"pubtime":"2023-08-03T21:15:20Z"}
 {"name":"monch","vers":"0.5.0","deps":[],"cksum":"b52c1b33ff98142aecea13138bd399b68aa7ab5d9546c300988c345004001eea","features":{},"yanked":false,"pubtime":"2024-01-18T14:46:42Z"}
+{"name":"monch","vers":"0.6.0","deps":[{"name":"divan","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6bcc6ad3b93f756f2532d29f7c7291b8d246a2c460a99a3611327bb726830014","features":{},"yanked":false,"pubtime":"2026-04-28T07:20:31Z"}
