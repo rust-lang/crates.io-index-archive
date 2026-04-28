@@ -2,3 +2,4 @@
 {"name":"haunt","vers":"0.1.1","deps":[],"cksum":"469070e51bc46f6bdd9f315c832f9dc507251efbb3a84cada267f58b9d00da4b","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-24T12:36:59Z"}
 {"name":"haunt","vers":"0.2.0","deps":[],"cksum":"f021a1ad8299811f1866f1b38a6c18cbed1fb409d26959df53a1739122637868","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-26T13:45:46Z"}
 {"name":"haunt","vers":"0.3.0","deps":[],"cksum":"6e2d8414567453d6bad9c131c9a8768ba43c1055830d765f523873538332c8b7","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-27T07:39:02Z"}
+{"name":"haunt","vers":"0.5.0","deps":[],"cksum":"268711ffcc93911a3386d76185714c0d475e643cd0fbcacac9af04505218bc1b","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-28T01:09:54Z"}
