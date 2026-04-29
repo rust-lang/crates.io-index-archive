@@ -1,0 +1,1 @@
+{"name":"solana-falcon512","vers":"0.0.0","deps":[{"name":"solana-program-error","req":"^3.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7a90129c2d23984475379aaa01e3856a5a2520e70263aecba2d6a5163af65ed4","features":{},"yanked":false,"pubtime":"2026-04-29T13:18:15Z"}
