@@ -7,3 +7,4 @@
 {"name":"rate_limiters","vers":"0.1.7","deps":[],"cksum":"27d048f2583130b332f5ba71d7d7e8f578cb50e645e046435c69494a3f8737e3","features":{},"yanked":false,"pubtime":"2025-08-31T13:52:05Z"}
 {"name":"rate_limiters","vers":"0.1.8","deps":[],"cksum":"5470092f44c3f5e2dc4619b87bccb81739ed5e0f93531a843936efc5f1e172ee","features":{},"yanked":false,"pubtime":"2025-09-06T10:01:52Z"}
 {"name":"rate_limiters","vers":"0.1.11","deps":[],"cksum":"3a2be65f86a8975c34f65c245a289d38ad4fce2b3e7b5b5975964b8df6e1667b","features":{},"yanked":false,"pubtime":"2026-04-28T18:43:04Z"}
+{"name":"rate_limiters","vers":"0.1.12","deps":[{"name":"criterion","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"71101ea44c32440adeff62ff9a17f77333573c5e8eb7a16a70449a1a26fb5b52","features":{},"yanked":false,"pubtime":"2026-04-29T18:28:42Z"}
