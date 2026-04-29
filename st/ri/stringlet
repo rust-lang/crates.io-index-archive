@@ -6,3 +6,4 @@
 {"name":"stringlet","vers":"0.6.0","deps":[],"cksum":"a9b82293708b8315ed79f9b24eb313358df34770613f8d3fef92f6d77b78d347","features":{},"yanked":false,"pubtime":"2025-12-14T18:44:07Z"}
 {"name":"stringlet","vers":"0.7.0","deps":[],"cksum":"c6e509873d2bc059e7b77e9939ed065aded5b84c251c3a0d4294752bdd4222a1","features":{},"yanked":false,"pubtime":"2025-12-22T22:41:00Z"}
 {"name":"stringlet","vers":"0.8.0","deps":[],"cksum":"944f92c2cd03c03f439dd3aed5a97c8bbea27d57e0ebc1f16b8f4693e36df5c9","features":{},"yanked":false,"pubtime":"2026-01-02T17:56:36Z"}
+{"name":"stringlet","vers":"0.9.0","deps":[],"cksum":"2582c2a88d2d5698230f90ee7ae7a069b743d79e023751a8c6dd19f065d9c2a2","features":{},"yanked":false,"pubtime":"2026-04-29T21:35:10Z"}
