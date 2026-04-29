@@ -1,0 +1,1 @@
+{"name":"mcapdecode-core","vers":"0.4.0","deps":[{"name":"thiserror","req":"^2.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be1094f83e1c56d4b27711c04b3916f1ce167acf6eb555389d2d1fd839852909","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-04-29T13:51:16Z"}
