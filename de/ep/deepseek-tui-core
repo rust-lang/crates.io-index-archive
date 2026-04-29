@@ -3,3 +3,4 @@
 {"name":"deepseek-tui-core","vers":"0.6.5","deps":[],"cksum":"7116c43c961a19d797336147eb8cee475c78f156cdf89421f2364818881aad1e","features":{},"yanked":false,"pubtime":"2026-04-27T15:52:44Z"}
 {"name":"deepseek-tui-core","vers":"0.7.0","deps":[],"cksum":"ca7da8124324dc0aa32622b2a16b9a3c109f283af7f7409f9c1efadb659a94a0","features":{},"yanked":false,"pubtime":"2026-04-28T21:40:21Z"}
 {"name":"deepseek-tui-core","vers":"0.7.1","deps":[],"cksum":"a5e264bd36be96182a03df6c30a10e392000c9ff677a55d36639d5eae5ac2933","features":{},"yanked":false,"pubtime":"2026-04-29T00:01:37Z"}
+{"name":"deepseek-tui-core","vers":"0.7.2","deps":[],"cksum":"642b958debe2585c8b5b86b44fd66fc808025219772a033348064f291919a751","features":{},"yanked":false,"pubtime":"2026-04-29T03:34:40Z"}
