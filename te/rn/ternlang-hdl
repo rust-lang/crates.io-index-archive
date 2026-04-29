@@ -7,3 +7,4 @@
 {"name":"ternlang-hdl","vers":"1.0.0","deps":[],"cksum":"d8545512c24fdc26b7a0adc24e5abbf772acf4fe8cd209bf4a3aa18c0cf175ec","features":{},"yanked":false,"pubtime":"2026-04-17T19:30:33Z"}
 {"name":"ternlang-hdl","vers":"1.1.1","deps":[],"cksum":"66ff2e954cfc77a8ec70507399ec57ece667ef0b531e795c44a293209e8b6d75","features":{},"yanked":false,"pubtime":"2026-04-25T01:22:57Z"}
 {"name":"ternlang-hdl","vers":"1.2.1","deps":[],"cksum":"b6049b1cc8c2f2bf05e569f33ead707d190fe4a4f6b8d0cdef7a688a7ac724f5","features":{},"yanked":false,"pubtime":"2026-04-29T06:54:01Z"}
+{"name":"ternlang-hdl","vers":"1.2.3","deps":[],"cksum":"ce75b4ab95a8e58e2babaf22b80da9b29e8c88f4ee61ca15ca39c2e65fc3e864","features":{},"yanked":false,"pubtime":"2026-04-29T08:39:38Z"}
