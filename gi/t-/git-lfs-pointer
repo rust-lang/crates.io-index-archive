@@ -1,0 +1,1 @@
+{"name":"git-lfs-pointer","vers":"0.2.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c410a1fd52e2dfe7a2bc5067a4e762462018f632162e5f9e65afd3121fc82d1b","features":{},"yanked":false,"pubtime":"2026-04-29T13:34:50Z"}
