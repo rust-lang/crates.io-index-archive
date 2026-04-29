@@ -1,2 +1,3 @@
 {"name":"semx_rand","vers":"0.1.0","deps":[],"cksum":"890372a4b3cb7546b8d459c06b3e676c36f71942c94d81e680a657041420b23d","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2025-07-01T04:07:18Z"}
 {"name":"semx_rand","vers":"0.1.1","deps":[],"cksum":"955f37fc510de0ae9f27394b322fecea09a02dc541b08c600eeeaa1a5784fc14","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-29T07:34:18Z"}
+{"name":"semx_rand","vers":"0.1.53","deps":[],"cksum":"5c23c5be246c1d32a8862650144b34e64c798c7a2c4de9d049c1535a7363c61f","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-29T08:52:53Z"}
