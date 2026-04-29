@@ -5,3 +5,4 @@
 {"name":"unsafe_list","vers":"0.1.4","deps":[],"cksum":"fb73fb645a847633844252b292e05134d70c9310b9f3c8dbfd44e9f197b1f7b8","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2025-06-04T05:55:57Z"}
 {"name":"unsafe_list","vers":"0.1.5","deps":[],"cksum":"c4a79742d787708daf04b352d821668a211868e197454f64e7a323900ba64d96","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2025-06-29T03:22:35Z"}
 {"name":"unsafe_list","vers":"0.1.6","deps":[],"cksum":"81047477aac513faa366deb1fcde7e1f36ac58d16e64d863c8083bf42469af51","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-29T07:34:28Z"}
+{"name":"unsafe_list","vers":"0.1.53","deps":[],"cksum":"e0ec2b5a667b24e4d46c8a5bfde105bba67bf339a9065ee2875857866f8b6f98","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-29T08:52:54Z"}
