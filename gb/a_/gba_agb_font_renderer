@@ -1,0 +1,1 @@
+{"name":"gba_agb_font_renderer","vers":"0.1.0","deps":[{"name":"agb","req":"^0.23.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0dd4d220abf85f6fd50198b975132eb6329778a69f91e573d513c65dca38fea","features":{},"yanked":false,"pubtime":"2026-04-29T18:57:14Z"}
