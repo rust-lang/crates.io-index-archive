@@ -1,1 +1,0 @@
-{"name":"pear-trie","vers":"0.1.0","deps":[{"name":"ipnet","req":"^2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e3b38e1e5979e2c0df6bb84fa2b1401ba58558916f6b1d6845c0318ced7d26e","features":{},"features2":{"ip":["dep:ipnet"]},"yanked":true,"pubtime":"2026-04-29T01:02:03Z","v":2}
