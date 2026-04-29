@@ -1,0 +1,1 @@
+{"name":"tibba-validator","vers":"0.2.0","deps":[{"name":"validator","req":"^0.20.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e09591779559b9ff8efe38c801e6f388f00ef8523bc90af443464f987f1024ef","features":{},"yanked":false,"pubtime":"2026-04-29T13:24:40Z"}
