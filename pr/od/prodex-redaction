@@ -1,0 +1,1 @@
+{"name":"prodex-redaction","vers":"0.68.0","deps":[{"name":"serde_json","req":"^1.0.149","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0997a119034aed1fec9bb3b11836c220a0ede0a582236c19993334a3f69e60ac","features":{},"yanked":false,"pubtime":"2026-04-30T14:47:36Z"}
