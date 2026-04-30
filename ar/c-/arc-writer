@@ -12,3 +12,4 @@
 {"name":"arc-writer","vers":"0.2.0-alpha.14","deps":[],"cksum":"c045eaff37a6d0cb7f7552ccb1d77a93622455944b9261f55e53a683f0438c5a","features":{},"yanked":false,"pubtime":"2024-09-02T17:38:54Z"}
 {"name":"arc-writer","vers":"0.2.0-alpha.15","deps":[],"cksum":"ccaf19db25d047248dd69e7afe9e459425258939802a37ce8e7f46bbac144f5f","features":{},"yanked":false,"pubtime":"2024-09-04T21:32:24Z"}
 {"name":"arc-writer","vers":"0.2.1-alpha.1","deps":[],"cksum":"e15dd4b662a8ee95155b5f897c9302805c7df12f6ae63b29310697f47e2bf98b","features":{},"yanked":false,"pubtime":"2024-09-05T00:03:30Z"}
+{"name":"arc-writer","vers":"0.2.1","deps":[],"cksum":"e16ed21cc51aa57b5cc4c04a956ee573a794e61edeb5dc61519b62303f5e05ea","features":{},"yanked":false,"pubtime":"2026-04-30T20:27:43Z"}
