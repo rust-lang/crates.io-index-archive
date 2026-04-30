@@ -1,0 +1,1 @@
+{"name":"drainlib","vers":"0.1.0","deps":[{"name":"regex","req":"^1.12.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbc7485b103d797c2e851444ce2e4038c53a2bf00a35e7ba1d623f746ee57515","features":{},"yanked":false,"pubtime":"2026-04-30T21:53:57Z"}
