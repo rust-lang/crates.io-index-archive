@@ -1,0 +1,1 @@
+{"name":"ashlar-core","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"d4f0f7eff600feb9903662e9e69cce8a7a255a8c518e77c4eaf7083732781c16","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-04-30T01:26:29Z"}
