@@ -15,3 +15,4 @@
 {"name":"shuck-formatter","vers":"0.0.25","deps":[],"cksum":"657e356bcfeb5f7ca8407596defd90fae0e178c20c0910c0f5eca9b56f600467","features":{"benchmarking":[]},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-04-28T20:28:39Z"}
 {"name":"shuck-formatter","vers":"0.0.26","deps":[],"cksum":"a202f5c76d86157b441ea65baf63ab4b7c79ed6bbbee52bdd4b944d250be7345","features":{"benchmarking":[]},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-04-28T21:25:50Z"}
 {"name":"shuck-formatter","vers":"0.0.27","deps":[],"cksum":"3630b2f8fefaa9176acc6139cde2bcfee559f7cc0bf92b9f600a5a08b7987111","features":{"benchmarking":[]},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-04-29T13:52:45Z"}
+{"name":"shuck-formatter","vers":"0.0.28","deps":[],"cksum":"0b73b76dccbb3f06e92832bae998fe29a292f207a235529311e762125085aa7c","features":{"benchmarking":[]},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-04-30T15:24:40Z"}
