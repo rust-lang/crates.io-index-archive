@@ -1,0 +1,1 @@
+{"name":"qubit-id","vers":"0.1.0","deps":[{"name":"getrandom","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f30c9e84abf68d329a30297897b40e34c33ee9c17caa8c220c8ed85f2a395575","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-04-30T12:14:30Z"}
