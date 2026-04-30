@@ -13,3 +13,4 @@
 {"name":"shiguredo_http11","vers":"2026.2.0-canary.0","deps":[],"cksum":"96b05845a08e3e6c66f07a16f7fddbbeb01af4c201722c6462445755088c3af4","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-04-17T02:22:57Z"}
 {"name":"shiguredo_http11","vers":"2026.2.0-canary.1","deps":[],"cksum":"a1a1be9f0dd901413a65766b4353224a547ef4f8611a9f24e3c67da358f105a6","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-04-28T06:00:40Z"}
 {"name":"shiguredo_http11","vers":"2026.2.0-canary.2","deps":[],"cksum":"7c65c71cab17a13e8ea99110a09e54ad613ef20c596f5a1a0c54d56af3441fb9","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-04-30T08:15:13Z"}
+{"name":"shiguredo_http11","vers":"2026.2.0","deps":[],"cksum":"d00d22eb0bda466ce2aefea2eaba7f4ba016d3abc7f203a2bf9a640e3e0df4d3","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-04-30T08:48:04Z"}
