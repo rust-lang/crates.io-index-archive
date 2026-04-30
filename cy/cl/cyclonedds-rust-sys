@@ -1,0 +1,1 @@
+{"name":"cyclonedds-rust-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"715b453059229c316374a612118bd3378a21b43abbc50276b461bfce560034be","features":{"default":[]},"yanked":false,"pubtime":"2026-04-30T13:50:30Z"}
