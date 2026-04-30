@@ -1,0 +1,1 @@
+{"name":"ui-grid-virtualization","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ede0effd7f0922d47e7824137695eac669bcbfa40e5031e74bb1e941299852c","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T00:34:42Z"}
