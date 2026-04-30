@@ -37,3 +37,4 @@
 {"name":"wasmtime-internal-component-util","vers":"44.0.0","deps":[],"cksum":"dc29e3478928b93979831ba02a997ce7f707c673ce47180d643091cf4fa4f561","features":{},"yanked":false,"rust_version":"1.92.0","pubtime":"2026-04-20T14:50:32Z"}
 {"name":"wasmtime-internal-component-util","vers":"44.0.1","deps":[],"cksum":"49df3d3b4fa2119c6fd161e475b4e21aaefb51d082353b922b433bea37facc65","features":{},"yanked":false,"rust_version":"1.92.0","pubtime":"2026-04-30T16:07:15Z"}
 {"name":"wasmtime-internal-component-util","vers":"43.0.2","deps":[],"cksum":"935d9ab293ba27d1ec9aa7bc1b3a43993dbe961af2a8f23f90a11e1331b4c13f","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-04-30T16:07:46Z"}
+{"name":"wasmtime-internal-component-util","vers":"36.0.8","deps":[],"cksum":"6bc24aba0bfd3d39fa8f0012835bc4d4efc75b1350b5e519181319eb8bb306b2","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-04-30T16:24:38Z"}
