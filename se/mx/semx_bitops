@@ -10,3 +10,4 @@
 {"name":"semx_bitops","vers":"0.1.53","deps":[],"cksum":"ff20455e49d7b08e3c7213ddc6f4f75b24651deca40664ea572e31c39b17e629","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-29T08:52:52Z"}
 {"name":"semx_bitops","vers":"0.1.54","deps":[],"cksum":"163542978517b9f34a72ae66f93f1164c8e81b411776a146a6e57aa7e82e31d1","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-29T09:39:33Z"}
 {"name":"semx_bitops","vers":"0.1.56","deps":[],"cksum":"1b02f9b174c5abc2f9577ac42ce656ca5d9a15719fc9b8cc384fa61037d25b67","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T05:24:14Z"}
+{"name":"semx_bitops","vers":"0.1.57","deps":[],"cksum":"9fc8634acefc4d81b778d2de27fe481644a940c40cc4fef10e1f453a9783bee1","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T09:37:06Z"}
