@@ -4,3 +4,4 @@
 {"name":"folktime","vers":"0.3.0","deps":[],"cksum":"92f39277d86ad2287d3ee9cefeab47008c1b0a188411ebcf6f42629defee33a5","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-21T22:22:42Z"}
 {"name":"folktime","vers":"0.3.1","deps":[],"cksum":"1ce2c42e8612871ee0f9ee07aa43f1baaef893a2b4cfe94c26cf2f570eaaf9e8","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-22T09:37:02Z"}
 {"name":"folktime","vers":"0.3.2","deps":[],"cksum":"35fb6dc127521ee6ae5d2d66bb547e5a48dc15aafe58fc6caccb71882c76661d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-22T11:36:43Z"}
+{"name":"folktime","vers":"0.3.3","deps":[],"cksum":"25fc9098df36f044bad9dc98809ffa080cb252e4c95caa1bb9994dd70fbfc810","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-30T11:41:00Z"}
