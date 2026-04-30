@@ -1,0 +1,1 @@
+{"name":"perl-semantic-facts","vers":"0.13.0-rc1","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fdcd5024df6e06b5c8af43abcfadbbaaa8936b8ec0df60dddc655aeb3b07b19","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-04-30T18:32:30Z"}
