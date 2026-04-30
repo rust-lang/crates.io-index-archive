@@ -1,0 +1,1 @@
+{"name":"none-error","vers":"0.1.0","deps":[{"name":"some-error-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53b423d085a62aad076c136a2dadbe6c63f45d2a467923af0da77bfd705f6874","features":{},"yanked":false,"pubtime":"2026-04-30T05:10:57Z"}
