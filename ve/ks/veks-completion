@@ -9,3 +9,4 @@
 {"name":"veks-completion","vers":"0.24.0","deps":[],"cksum":"5ba4c1f272e7e52592f06d2e3a2073b264aad9995658ebc6eb6b9bebcf9f70da","features":{},"yanked":false,"pubtime":"2026-04-28T07:11:53Z"}
 {"name":"veks-completion","vers":"0.25.0","deps":[],"cksum":"310e719e7565a6209b32a67c75cb96292a2250ada33bec602b2b04aafca31b4f","features":{},"yanked":false,"pubtime":"2026-04-29T18:03:40Z"}
 {"name":"veks-completion","vers":"0.9.0","deps":[],"cksum":"3ab9dea98b100dab1ca2726a4bcc3791b956a10cddf3b837f824cf532145b409","features":{},"yanked":false,"pubtime":"2026-04-30T18:25:59Z"}
+{"name":"veks-completion","vers":"1.0.0","deps":[],"cksum":"55794e08929825e8ca6867b2c344f8e35397880ac875cd1f6c259c19798dea3f","features":{},"yanked":false,"pubtime":"2026-04-30T18:37:54Z"}
