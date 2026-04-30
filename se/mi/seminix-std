@@ -6,3 +6,4 @@
 {"name":"seminix-std","vers":"0.1.5","deps":[],"cksum":"32e4483f9207148bb3a3c5dda2107431f6ad8e02b1a178cc452241d76c795b44","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-29T07:43:22Z"}
 {"name":"seminix-std","vers":"0.1.53","deps":[],"cksum":"9a8fc46d24093b57c9b0b1732196a9d802e1d5ab8b90382692ae7a05981d1cdc","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-29T08:52:52Z"}
 {"name":"seminix-std","vers":"0.1.54","deps":[],"cksum":"c949bd3daa48807b4e199494f56c3f6d54ab38a5394078303a469d0c77ae8590","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-29T09:39:32Z"}
+{"name":"seminix-std","vers":"0.1.56","deps":[{"name":"target_define","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"7dc6c59718485a9c4d85c10855ca96e216156ae01a26be7443ef6ade3c9a76eb","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T05:24:30Z"}
