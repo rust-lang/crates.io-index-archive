@@ -8,3 +8,4 @@
 {"name":"unsafe_list","vers":"0.1.53","deps":[],"cksum":"e0ec2b5a667b24e4d46c8a5bfde105bba67bf339a9065ee2875857866f8b6f98","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-29T08:52:54Z"}
 {"name":"unsafe_list","vers":"0.1.54","deps":[],"cksum":"5f03918f4b7102be878ff0a5b5fbbc82c5a14710357713ad6fd3730f1e8dc4a4","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-29T09:39:35Z"}
 {"name":"unsafe_list","vers":"0.1.56","deps":[],"cksum":"1320c39c0876e0bb1e3e25617848a267606e6b30d67955b66631ec880021a783","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T05:24:18Z"}
+{"name":"unsafe_list","vers":"0.1.57","deps":[],"cksum":"f3cb5ccf4d4143f3fce5d54752141ac59f34364781cbc7a19c705e83fd5554b8","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T09:37:11Z"}
