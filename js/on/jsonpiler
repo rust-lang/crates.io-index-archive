@@ -47,3 +47,4 @@
 {"name":"jsonpiler","vers":"0.9.4","deps":[],"cksum":"8fe515794af627610b8c53930c6b023bde8fa103194fb730c958544e7de5ae41","features":{},"yanked":false,"pubtime":"2026-04-16T03:51:10Z"}
 {"name":"jsonpiler","vers":"0.9.5","deps":[],"cksum":"83a1ed049516d373324daa4adceb7fdfbe0a7e1f546c9f511f938954a7984b1a","features":{},"yanked":false,"pubtime":"2026-04-16T10:57:27Z"}
 {"name":"jsonpiler","vers":"0.10.0","deps":[],"cksum":"95ded082d919cb9d34d2e6290ddf03fccdca4c3fdd92a61b02c08b8d076fd34d","features":{},"yanked":false,"pubtime":"2026-04-29T07:21:04Z"}
+{"name":"jsonpiler","vers":"0.10.1","deps":[],"cksum":"087b878bab1bcea0069c3ddcbc4ef4b4c731f6bf134646bc860702aae049b652","features":{},"yanked":false,"pubtime":"2026-04-30T03:03:19Z"}
