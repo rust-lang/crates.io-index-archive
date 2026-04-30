@@ -7,3 +7,4 @@
 {"name":"buffr","vers":"0.1.14","deps":[],"cksum":"c639e310948470838b8defa2b362ec4ab50468605813889ee20ccd23b0e4bd55","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T14:50:51Z"}
 {"name":"buffr","vers":"0.1.22","deps":[],"cksum":"adad372882a44b9427e7e0cc0d47121f6ec34921bfa671afe61e08cb7a8a6e28","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T17:56:12Z"}
 {"name":"buffr","vers":"0.1.23","deps":[],"cksum":"830ae41185019f9cce63a70324f4d78518847081e19492f4a36975a47758371f","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T18:21:21Z"}
+{"name":"buffr","vers":"0.1.24","deps":[],"cksum":"c781b5b349eda7f9894d8d6c3ea5a29396eb3819058d6611adf82a8f9f24fdfd","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T18:49:46Z"}
