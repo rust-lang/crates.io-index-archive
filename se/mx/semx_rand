@@ -3,3 +3,4 @@
 {"name":"semx_rand","vers":"0.1.53","deps":[],"cksum":"5c23c5be246c1d32a8862650144b34e64c798c7a2c4de9d049c1535a7363c61f","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-29T08:52:53Z"}
 {"name":"semx_rand","vers":"0.1.54","deps":[],"cksum":"4d5b6a88bb00fbe1c42cdd15aed3f7da4952ee44a3667358c44c7394254f1940","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-29T09:39:34Z"}
 {"name":"semx_rand","vers":"0.1.56","deps":[],"cksum":"92ab10076ea1a1dc246a76622bddeddf1110450dcf008338b97209744ea31d17","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T05:24:15Z"}
+{"name":"semx_rand","vers":"0.1.57","deps":[],"cksum":"f97cc5a6aa5abc376544137edb05dad2c396e52acd527e938f176dd007e5f8d2","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T09:37:08Z"}
