@@ -11,3 +11,4 @@
 {"name":"const_sizes","vers":"0.1.56","deps":[],"cksum":"b8817033d561392c80e4f62bde1035ffda6813cfd965ce2487786c2759547091","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T05:24:12Z"}
 {"name":"const_sizes","vers":"0.1.57","deps":[],"cksum":"0b3e8fbbb235c26fe0c3875db998c7174ea18315564e55c91e970ca19a8cab1c","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T09:37:04Z"}
 {"name":"const_sizes","vers":"0.1.58","deps":[],"cksum":"cda04d8a4fd9fbee125b3d80f8d0927479fdd1de283200c6ae1e4f15879c8b8c","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T09:52:35Z"}
+{"name":"const_sizes","vers":"0.1.59","deps":[],"cksum":"011c0efc545d1172cde5b04a9432bbe98d082f9e2f41297888a140fdbb0663a5","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-01T05:50:57Z"}
