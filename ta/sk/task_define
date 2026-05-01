@@ -16,3 +16,4 @@
 {"name":"task_define","vers":"0.1.56","deps":[],"cksum":"8afea91eb843fd3276f90a608e9352c70bacc8b2084b55c535c1849e19370618","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T05:24:17Z"}
 {"name":"task_define","vers":"0.1.57","deps":[],"cksum":"e93c048ec51c3ea9fc0a2f08c7cba96dcefa7ea32dc96bbebc8bb280c4fef474","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T09:37:11Z"}
 {"name":"task_define","vers":"0.1.58","deps":[],"cksum":"74469562f1b8e59da69039e9d25c836fb2759dee5ee544d1421dae9f704cbfb2","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T09:52:38Z"}
+{"name":"task_define","vers":"0.1.59","deps":[],"cksum":"35f8d956500520b8fa8011c9b0de8d8f3b66f21439e8bd5b4b89b03d2a446b10","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-01T05:51:55Z"}
