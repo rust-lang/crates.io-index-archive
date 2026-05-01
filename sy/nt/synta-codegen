@@ -9,3 +9,4 @@
 {"name":"synta-codegen","vers":"0.1.10","deps":[],"cksum":"3bd75d26fd8ca7291dda56e04e4e80c2aeac4816baecca988bc7382f65029bf1","features":{},"yanked":false,"pubtime":"2026-04-28T07:05:20Z"}
 {"name":"synta-codegen","vers":"0.1.11","deps":[],"cksum":"7e527f839cf4da183de199ab8ceadeecd2c5a55c9e6b6aa1122f5d1c7c93b6f9","features":{},"yanked":false,"pubtime":"2026-04-29T07:40:10Z"}
 {"name":"synta-codegen","vers":"0.1.12","deps":[],"cksum":"896894c0923bf719802b0a3a5cbd7abb73bfdbc95d4b7a4e80f01697456663b5","features":{},"yanked":false,"pubtime":"2026-04-30T11:21:36Z"}
+{"name":"synta-codegen","vers":"0.2.0","deps":[],"cksum":"6234186750f2389a2b157e6df9a6800ead8d651ea1edff5714a37178b71a57e7","features":{},"yanked":false,"pubtime":"2026-05-01T11:05:43Z"}
