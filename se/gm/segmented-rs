@@ -1,0 +1,1 @@
+{"name":"segmented-rs","vers":"0.0.1","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e2f63d1a11d3ce40a481c88bf5e7cf8b72cb921ba564e3f4c854e34128b361db","features":{"trace":[]},"yanked":false,"pubtime":"2026-05-01T09:16:45Z"}
