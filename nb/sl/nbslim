@@ -1,0 +1,1 @@
+{"name":"nbslim","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"83fc33d09b9c534c780e66ec63430c956b7da4eaa210704e7d33d5faf9849e81","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-05-01T18:30:43Z"}
