@@ -1,0 +1,1 @@
+{"name":"teaql-sql","vers":"0.7.0","deps":[{"name":"teaql-core","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"11c04538d2f526be3899bda45b72040658dad206963e88131c04920f8e8d90fd","features":{},"yanked":false,"pubtime":"2026-05-01T10:32:53Z"}
