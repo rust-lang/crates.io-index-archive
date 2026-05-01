@@ -1,1 +1,2 @@
 {"name":"afia-component-sys","vers":"0.0.1","deps":[],"cksum":"01c4f4e0cb6135e98b2c9bbda705359c4fa5f43829e9fc8c63d296a9cb8f6b30","features":{"emulate-imports":[],"test-utils":["emulate-imports"]},"yanked":false,"links":"afia-component","pubtime":"2026-04-30T18:20:23Z"}
+{"name":"afia-component-sys","vers":"0.0.2","deps":[],"cksum":"5ae7583f9827af9885e14ff4f056840a286b403a2d0482cf94af3598eee184ee","features":{"emulate-imports":[],"test-utils":["emulate-imports"]},"yanked":false,"links":"afia-component","pubtime":"2026-05-01T19:01:13Z"}
