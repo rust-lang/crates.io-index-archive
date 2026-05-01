@@ -10,3 +10,4 @@
 {"name":"pc-keyboard","vers":"0.6.1","deps":[],"cksum":"e0ad9805165d0672a3efa682cac952870d8b05d98e02e08063ca7db597005338","features":{},"yanked":false,"pubtime":"2022-10-21T07:48:49Z"}
 {"name":"pc-keyboard","vers":"0.7.0","deps":[],"cksum":"ed089a1fbffe3337a1a345501c981f1eb1e47e69de5a40e852433e12953c3174","features":{},"yanked":false,"pubtime":"2023-02-12T20:27:25Z"}
 {"name":"pc-keyboard","vers":"0.8.0","deps":[],"cksum":"f0ca629cbb3f0d5b699c338f0129ff78c9bfd7ea8b1258ad529bff490dc8ed5a","features":{},"yanked":false,"pubtime":"2024-09-13T18:52:03Z"}
+{"name":"pc-keyboard","vers":"0.9.0","deps":[],"cksum":"73c53b65bbadd653c9d125e745d2659a3a060539b17d96ab1c59f9f5bfdacce5","features":{},"yanked":false,"rust_version":"1.61","pubtime":"2026-05-01T13:19:25Z"}
