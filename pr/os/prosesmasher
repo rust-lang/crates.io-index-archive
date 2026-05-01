@@ -9,3 +9,4 @@
 {"name":"prosesmasher","vers":"0.3.14","deps":[],"cksum":"2758a8e7badb3da9823957ea1153bf8610f18b9eea621517458d5655fda221bf","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-30T16:41:26Z"}
 {"name":"prosesmasher","vers":"0.3.15","deps":[],"cksum":"4f48f4d67d0257260ffd3c5d8e3d7a935d4ff856ea96cd36854ab54fa36b53bf","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-01T10:24:02Z"}
 {"name":"prosesmasher","vers":"0.3.16","deps":[],"cksum":"4b5804f7036e80af277d44d58a73e1e13d6277a47e195c5b09fac082f192bd4c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-01T10:41:08Z"}
+{"name":"prosesmasher","vers":"0.3.17","deps":[],"cksum":"140e9cfbdefc10c2f76d6c7805d9828ab38d5434cc8b594140f872579e14ae8f","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-01T11:13:40Z"}
