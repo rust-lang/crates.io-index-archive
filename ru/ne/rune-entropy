@@ -1,0 +1,1 @@
+{"name":"rune-entropy","vers":"0.1.1","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8fab4465bdd0c57539c0da1378dea652923a422768900ee294d84e62d3fbac5","features":{},"yanked":false,"pubtime":"2026-05-01T05:46:34Z"}
