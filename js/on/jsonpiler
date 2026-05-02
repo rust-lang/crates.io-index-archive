@@ -49,3 +49,4 @@
 {"name":"jsonpiler","vers":"0.10.0","deps":[],"cksum":"95ded082d919cb9d34d2e6290ddf03fccdca4c3fdd92a61b02c08b8d076fd34d","features":{},"yanked":false,"pubtime":"2026-04-29T07:21:04Z"}
 {"name":"jsonpiler","vers":"0.10.1","deps":[],"cksum":"087b878bab1bcea0069c3ddcbc4ef4b4c731f6bf134646bc860702aae049b652","features":{},"yanked":false,"pubtime":"2026-04-30T03:03:19Z"}
 {"name":"jsonpiler","vers":"0.10.2","deps":[],"cksum":"2be4cdbed0d834609fc15519f26ab26248721b13c67ed90fe20255ea1ea13d83","features":{},"yanked":false,"pubtime":"2026-05-01T02:21:51Z"}
+{"name":"jsonpiler","vers":"0.10.3","deps":[],"cksum":"c27a95127c9b4f7cba1fca617a9a389c3989d6c0d27413fae9e46a20ac5ae2bf","features":{},"yanked":false,"pubtime":"2026-05-02T03:38:28Z"}
