@@ -2,3 +2,4 @@
 {"name":"perl-subprocess-runtime","vers":"0.12.2","deps":[],"cksum":"60334edf13171ccd5290094094e286e0249ebaa4659e5eb001257922fbf5ec3d","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-04-08T09:07:58Z"}
 {"name":"perl-subprocess-runtime","vers":"0.13.0-rc1","deps":[],"cksum":"166a44e581596688525c5b9a60f0ea8ca37e243abae5696d244dd711899f6c09","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-04-30T18:37:19Z"}
 {"name":"perl-subprocess-runtime","vers":"0.13.1","deps":[],"cksum":"1f0e6d159ebc15b005081ac8353e076fd86340440fa6794ba1f3260cd77f379b","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-01T09:42:08Z"}
+{"name":"perl-subprocess-runtime","vers":"0.13.2","deps":[],"cksum":"3add0c59b2b868cef839565bdbe0ce7b9fa5727806a439531e1f5db5ac99462f","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-02T22:47:32Z"}
