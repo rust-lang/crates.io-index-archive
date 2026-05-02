@@ -2,3 +2,4 @@
 {"name":"perl-line-index","vers":"0.12.2","deps":[],"cksum":"79574f9d469980ebe938542ef91481894951fd961002612be36d7972bf08c4f7","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-04-08T08:50:10Z"}
 {"name":"perl-line-index","vers":"0.13.0-rc1","deps":[],"cksum":"bec6b242323cfbe31b858a1a0c21e5fc98a133ee511eea5b5c924afc4f300bec","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-04-30T18:31:29Z"}
 {"name":"perl-line-index","vers":"0.13.1","deps":[],"cksum":"cd993cb0e8741e5a97332217904b997c62abd3eee5072df6d5e88dac2d7da629","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-01T09:36:22Z"}
+{"name":"perl-line-index","vers":"0.13.2","deps":[],"cksum":"6fb007d1463c5af616825fe67e50cce6b74bd008b70de423f7183f88a7007929","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-02T22:41:50Z"}
