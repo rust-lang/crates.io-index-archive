@@ -5,3 +5,4 @@
 {"name":"ort-openrouter-cli","vers":"0.4.2","deps":[],"cksum":"986e8ca66217debf5c9cc443106e1a0f5c97941e9ffc62b89278d054c9563004","features":{"arena-alloc":[],"panic-on-realloc":[],"print-allocations":[]},"yanked":false,"pubtime":"2026-02-23T20:30:00Z"}
 {"name":"ort-openrouter-cli","vers":"0.4.3","deps":[],"cksum":"bedeccf99df89a4b5a007e200fe29ece09103f0be59b926a12e722f7ed868209","features":{"arena-alloc":[],"panic-on-realloc":[],"print-allocations":[]},"yanked":false,"pubtime":"2026-03-03T02:36:44Z"}
 {"name":"ort-openrouter-cli","vers":"0.4.6","deps":[],"cksum":"4a75ae873c88b52f3950df7a4f5e2314791cbe3fb431de141d64e564e0d2213c","features":{"panic-on-realloc":[],"print-allocations":[]},"yanked":false,"pubtime":"2026-03-28T00:16:18Z"}
+{"name":"ort-openrouter-cli","vers":"0.4.7","deps":[],"cksum":"f83331dea85434104c1c14e86ff550076bb37a601797c1b07a16f0ff2b899fcb","features":{"panic-on-realloc":[],"print-allocations":[]},"yanked":false,"pubtime":"2026-05-02T13:27:56Z"}
