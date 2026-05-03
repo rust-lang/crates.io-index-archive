@@ -1,0 +1,1 @@
+{"name":"picoem-devices","vers":"0.1.1","deps":[{"name":"tracing","req":"^0.1","features":["release_max_level_info"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a4415fe8f4ccc0db2b8e089cfa232e0e1fbbe136e099ca694839b749f28b47e3","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-03T21:03:47Z"}
