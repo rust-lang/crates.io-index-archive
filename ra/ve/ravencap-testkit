@@ -1,0 +1,1 @@
+{"name":"ravencap-testkit","vers":"2.0.1","deps":[{"name":"ravencap-format","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c48dc3a759f4c2f12fce3d73242b3465c39222cda06301934b48ffb2be88950","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-03T14:18:27Z"}
