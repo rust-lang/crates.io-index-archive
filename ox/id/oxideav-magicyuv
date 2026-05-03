@@ -1,0 +1,1 @@
+{"name":"oxideav-magicyuv","vers":"0.0.1","deps":[{"name":"oxideav-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95f0455772b2e3bfd6b6049eda514cf8013c6b67e4e0afc63433f0d79b01e086","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-05-03T05:39:26Z"}
