@@ -1,0 +1,1 @@
+{"name":"lace-native-build","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1e39f38738077931a5a6a1b4b7f79fb5fa061da079d8e9ff4e87f044e9c60b7","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-05-03T08:24:16Z"}
