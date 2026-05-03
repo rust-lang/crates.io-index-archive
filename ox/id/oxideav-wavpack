@@ -1,0 +1,1 @@
+{"name":"oxideav-wavpack","vers":"0.0.1","deps":[{"name":"oxideav-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ca3ba475fe1b48db390e7b9e6ba9ebc6678b0e3d785ffc28acd0620d0d0db457","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-05-03T04:18:32Z"}
