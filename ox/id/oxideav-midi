@@ -1,0 +1,1 @@
+{"name":"oxideav-midi","vers":"0.0.0","deps":[{"name":"oxideav-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f8cfdc440e88fe541ba91feb0b841d5ae5effa29fd397e38e598dfe6a0bacd4","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-05-03T03:05:13Z"}
