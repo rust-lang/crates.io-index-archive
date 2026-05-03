@@ -1,0 +1,1 @@
+{"name":"sui-id-i18n","vers":"0.23.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7800a84613d2bcc609b3b8b72624c60de0e2418cd7e4220458deaba1a30fbb29","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-05-03T22:26:13Z"}
