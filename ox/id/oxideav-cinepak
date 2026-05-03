@@ -1,0 +1,1 @@
+{"name":"oxideav-cinepak","vers":"0.0.1","deps":[{"name":"oxideav-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"391f5f3ae5d4583c556e5b05dbefe1d0ddecd3da2de34fa504542b0a2c997490","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-05-03T03:42:39Z"}
