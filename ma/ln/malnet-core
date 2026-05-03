@@ -1,0 +1,1 @@
+{"name":"malnet-core","vers":"0.0.1","deps":[{"name":"dns-lookup","req":"^3.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e91151da42824d80ba3476e9f1f6710795a89d6d2cbf2f2ef7ce4822aa101ce","features":{},"yanked":false,"rust_version":"1.90.0","pubtime":"2026-05-03T02:20:55Z"}
