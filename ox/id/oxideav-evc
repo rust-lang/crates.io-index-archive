@@ -1,0 +1,1 @@
+{"name":"oxideav-evc","vers":"0.0.0","deps":[{"name":"oxideav-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"681976ad626bb7afda267fd60d77337c63b3b3aa5e0d86383ca250c672bfac84","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-05-03T03:41:14Z"}
