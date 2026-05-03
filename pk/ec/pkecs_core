@@ -2,3 +2,4 @@
 {"name":"pkecs_core","vers":"1.0.0","deps":[],"cksum":"4c7d85fd679c060790fa9866940d0c302a10fec8fd89f65ebf8364731a426398","features":{},"yanked":false,"pubtime":"2026-04-15T02:15:54Z"}
 {"name":"pkecs_core","vers":"1.1.0","deps":[],"cksum":"d6beebd32c03527e6944866c9a0b2bb251a8569edcbb3a589e86c0377b3cad01","features":{},"yanked":false,"pubtime":"2026-04-19T00:44:36Z"}
 {"name":"pkecs_core","vers":"2.0.0","deps":[],"cksum":"5c343d916d6444fcc471e6d2bdb3c504eff2f70e0724ed0aea6905dfdae5144e","features":{},"yanked":false,"pubtime":"2026-05-03T03:12:47Z"}
+{"name":"pkecs_core","vers":"3.0.0","deps":[],"cksum":"0a58c113dd8eec71c5f8ad93a6198fc54b416ef98dfa8791a7134137d373b475","features":{},"yanked":false,"pubtime":"2026-05-03T17:39:35Z"}
