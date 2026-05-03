@@ -1,0 +1,1 @@
+{"name":"oxideav-pbm","vers":"0.0.1","deps":[{"name":"oxideav-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dba469fba580358e63e1e2b671290bf61d0b0f1eac5773003e1c0ab06f370617","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-05-03T21:47:14Z"}
