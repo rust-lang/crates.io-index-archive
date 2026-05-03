@@ -1,0 +1,1 @@
+{"name":"axon-fmt","vers":"0.2.0","deps":[{"name":"axon-frontend","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c885d0dfa6c35cbd61ebfcb25a72eb112554c3840136925912ccd78b54f14d4e","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-03T14:31:11Z"}
