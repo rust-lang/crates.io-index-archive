@@ -10,3 +10,4 @@
 {"name":"injekt","vers":"1.2.5","deps":[],"cksum":"d1fb5d612f2b3996ff22884b29796531c8f111e498a4c9b1ad8735fb6ce593d8","features":{},"yanked":false,"pubtime":"2026-04-30T02:18:40Z"}
 {"name":"injekt","vers":"1.2.6","deps":[],"cksum":"2370ba9c15a0a110cc08a8a3a692260e8a29c1c0fb3e34fc6fe36faca9900615","features":{},"yanked":false,"pubtime":"2026-05-01T13:56:18Z"}
 {"name":"injekt","vers":"1.2.7","deps":[],"cksum":"daa5c0b72fdb4033242e33ec4216bb7793df0b79004bbc256f6485050b94bcec","features":{"experimental":[]},"yanked":false,"pubtime":"2026-05-01T14:00:04Z"}
+{"name":"injekt","vers":"1.2.8","deps":[],"cksum":"4c43698bfe76f957febec649e1aa08e6071b99b39e3d77f5e72e5701abcd58ea","features":{"experimental":[]},"yanked":false,"pubtime":"2026-05-03T03:38:59Z"}
