@@ -1,0 +1,1 @@
+{"name":"oxideav-musepack","vers":"0.0.1","deps":[{"name":"oxideav-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"341dca93d3f383e69dec0b7b62b998b4954d380ccef48b168703466dfa193771","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-05-03T04:28:00Z"}
