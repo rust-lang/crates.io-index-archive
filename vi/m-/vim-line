@@ -74,3 +74,4 @@
 {"name":"vim-line","vers":"6.2.2","deps":[],"cksum":"67625c92784747dcb5637a454829dcb16b8f17189c7d0de8e6cf518d7cfb60c3","features":{},"yanked":false,"pubtime":"2026-05-02T15:20:21Z"}
 {"name":"vim-line","vers":"6.3.0","deps":[],"cksum":"9f1a318a158d47e8d7d799f28ba4bd291763454dc1fbdc4f9fb38b9b238718e7","features":{},"yanked":false,"pubtime":"2026-05-02T18:26:51Z"}
 {"name":"vim-line","vers":"6.4.0","deps":[],"cksum":"8f282444628b130538788c0d78d56ecf6fee20f99ecbff619c642459a233800a","features":{},"yanked":false,"pubtime":"2026-05-02T23:56:03Z"}
+{"name":"vim-line","vers":"6.4.1","deps":[],"cksum":"dc2af367049209ba4965755caa0a941c177547dec67290351c60bca1cec4b4c4","features":{},"yanked":false,"pubtime":"2026-05-03T05:08:57Z"}
