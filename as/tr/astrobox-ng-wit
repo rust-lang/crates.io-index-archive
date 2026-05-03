@@ -1,0 +1,1 @@
+{"name":"astrobox-ng-wit","vers":"0.1.0","deps":[{"name":"wit-bindgen","req":"^0.47.0","features":["async","async-spawn"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"877ced53ca7000f1c30c6576040e8ee7b1581e12d9be044f3e2d1fff503290ad","features":{},"yanked":false,"pubtime":"2026-05-03T11:19:05Z"}
