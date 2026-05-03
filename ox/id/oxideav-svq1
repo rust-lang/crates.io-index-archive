@@ -1,0 +1,1 @@
+{"name":"oxideav-svq1","vers":"0.0.1","deps":[{"name":"oxideav-core","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ad1cde0be3d1c0a928cd3c8b54a3c0925516c27a54cdf2db2ed9b15d9e0dc9fc","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-05-03T03:45:53Z"}
