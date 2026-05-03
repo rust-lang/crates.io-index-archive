@@ -5,3 +5,4 @@
 {"name":"crawk-test","vers":"0.6.0","deps":[],"cksum":"a3ee6ee4007e61ae3cfad4d38ffd60cc08428d07b6c1fa55ad8ddc4e9e89e843","features":{},"yanked":false,"pubtime":"2026-05-03T16:00:27Z"}
 {"name":"crawk-test","vers":"0.6.1","deps":[],"cksum":"9e20a0c7c1cc07175d88c9749977b7a65403b001983cd863a6c86d7129621b7e","features":{},"yanked":false,"pubtime":"2026-05-03T17:33:54Z"}
 {"name":"crawk-test","vers":"0.6.2","deps":[],"cksum":"5198b1e3986420b419b38c565b2d2186391ee75f57ecdb5e248790684e9df829","features":{},"yanked":false,"pubtime":"2026-05-03T18:21:43Z"}
+{"name":"crawk-test","vers":"0.6.3","deps":[],"cksum":"619dff3935d13d8e895862dd49b35e77c0b75321f902ff50afebdcfd18288b4f","features":{},"yanked":false,"pubtime":"2026-05-03T18:40:03Z"}
