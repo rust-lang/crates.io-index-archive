@@ -1,0 +1,1 @@
+{"name":"picoem-debug","vers":"0.1.0","deps":[{"name":"rp2350-emu","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1db28625b3b65c5da0db55a5983ca077dbd295646aee5c1b5da6319f4a3dd3ed","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-03T21:04:08Z"}
