@@ -1,0 +1,1 @@
+{"name":"cfs-synapse-codegen-cfs","vers":"0.1.0","deps":[{"name":"synapse-parser","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"cfs-synapse-parser"}],"cksum":"9b6f5a21adf108f33a7920c2160feb2c0c6b19f83b12adb648b9d9eb25ca2b43","features":{},"yanked":false,"pubtime":"2026-05-03T03:37:28Z"}
