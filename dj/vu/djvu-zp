@@ -1,0 +1,1 @@
+{"name":"djvu-zp","vers":"0.15.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e0e8a465db3e5a99db7c65f45d16fadee8eb44f350722e151fc2197b8f523821","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-03T14:31:48Z"}
