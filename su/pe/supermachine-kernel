@@ -1,2 +1,3 @@
 {"name":"supermachine-kernel","vers":"0.1.0","deps":[],"cksum":"4b01c03746fab885d54a4fef8c81df9ada8b40c7df0edbe0f87ccf2b4c4e0b76","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-04T09:30:47Z"}
 {"name":"supermachine-kernel","vers":"0.1.1","deps":[],"cksum":"3bad3b75bf446820489d9f98a53ba041729b2a799b1c24f24a287d06241fb6fe","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-04T09:51:10Z"}
+{"name":"supermachine-kernel","vers":"0.2.0","deps":[],"cksum":"bf2bc2e3b4782b731341a82137c6cae684d6221ef918982b38c8f887f7e76b83","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-04T10:32:06Z"}
