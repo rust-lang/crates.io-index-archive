@@ -1,0 +1,1 @@
+{"name":"tofa-theme","vers":"0.1.0","deps":[{"name":"ratatui","req":"^0.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"75637e815b3eb56989908db2952000240b7182b31af7aae35de0ad3eda7c0a6f","features":{},"yanked":false,"pubtime":"2026-05-04T09:21:59Z"}
