@@ -8,3 +8,4 @@
 {"name":"peg-runtime","vers":"0.8.2","deps":[],"cksum":"36bae92c60fa2398ce4678b98b2c4b5a7c61099961ca1fa305aec04a9ad28922","features":{"std":[],"unstable":[]},"yanked":false,"pubtime":"2023-10-11T02:41:39Z"}
 {"name":"peg-runtime","vers":"0.8.3","deps":[],"cksum":"e3aeb8f54c078314c2065ee649a7241f46b9d8e418e1a9581ba0546657d7aa3a","features":{"std":[],"unstable":[]},"yanked":false,"pubtime":"2024-04-27T17:33:57Z"}
 {"name":"peg-runtime","vers":"0.8.5","deps":[],"cksum":"132dca9b868d927b35b5dd728167b2dee150eb1ad686008fc71ccb298b776fca","features":{"std":[],"unstable":[]},"yanked":false,"pubtime":"2025-03-02T19:50:11Z"}
+{"name":"peg-runtime","vers":"0.8.6","deps":[],"cksum":"7011d97b484a5ebdc4b1fdb3b12d5e4bbbea56e9d22b688f2e79e04b65a7d8a6","features":{"std":[],"unstable":[]},"yanked":false,"rust_version":"1.82.0","pubtime":"2026-05-04T21:03:45Z"}
