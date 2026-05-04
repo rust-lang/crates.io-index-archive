@@ -13,3 +13,4 @@
 {"name":"little-collections","vers":"3.6.3","deps":[],"cksum":"e1236bfa1f3e626265f454765334793c0c35f0507144eb7a147b5b26c6dfa89c","features":{},"yanked":false,"pubtime":"2026-03-19T12:10:52Z"}
 {"name":"little-collections","vers":"3.6.4","deps":[],"cksum":"b095f846bb00ee4a123d98e9825123926a344a9b57c77645538c45db94f89c70","features":{},"yanked":false,"pubtime":"2026-04-26T06:53:48Z"}
 {"name":"little-collections","vers":"3.7.0","deps":[],"cksum":"7c4653e577877e8aa056ffdb71cb08371769ce79c71d4e15a353a6ae5d3b4755","features":{},"yanked":false,"pubtime":"2026-04-28T19:33:09Z"}
+{"name":"little-collections","vers":"3.8.1","deps":[],"cksum":"6fd255f00663c3a9bb81360d5c9c896127757c738f6fc6f6a2322b739d4ca278","features":{},"yanked":false,"pubtime":"2026-05-04T16:29:07Z"}
