@@ -1,0 +1,1 @@
+{"name":"dambi","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8dc85fad0fa5f5049a474b0af8ae7a698dd3ad619adc130fb62333e8309d9260","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-04T00:00:58Z"}
