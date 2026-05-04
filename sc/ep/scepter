@@ -1,0 +1,1 @@
+{"name":"scepter","vers":"0.1.0","deps":[{"name":"proptest","req":"^1.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4ab89b7b1f3b5fa9de1c21efd9a5ae233d24b4e0c46a53e15d80fb7512640693","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-05-04T15:28:01Z"}
