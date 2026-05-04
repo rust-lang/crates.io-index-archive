@@ -8,3 +8,4 @@
 {"name":"chidotestcrate_c","vers":"0.6.3","deps":[],"cksum":"e266d7f542d975d9368ac8bf7494d9a2cc68637755ca3b3ec301217f26bed9bf","features":{},"yanked":false,"pubtime":"2026-05-04T10:31:16Z"}
 {"name":"chidotestcrate_c","vers":"0.6.4","deps":[],"cksum":"2f2eb8e119b09cb68e33500b457388d8d36b64c05a10daf0889f51fb0b6ccbb6","features":{"X":[]},"yanked":false,"pubtime":"2026-05-04T10:51:16Z"}
 {"name":"chidotestcrate_c","vers":"0.6.5","deps":[],"cksum":"4a905e5fc740453821aae010620178891619d914f844e06312e686e58c52675a","features":{"X":[]},"yanked":false,"pubtime":"2026-05-04T11:02:11Z"}
+{"name":"chidotestcrate_c","vers":"0.6.6","deps":[],"cksum":"6873fb83684b00d30f4480d5760d9b1a1ffd7c1d8b32160591cbec32fdba8827","features":{"X":[]},"yanked":false,"pubtime":"2026-05-04T11:05:15Z"}
