@@ -26,3 +26,4 @@
 {"name":"tishlang_build_utils","vers":"1.5.0","deps":[],"cksum":"38318bed9ea9e482b2dee99eeaab20e52d8d3dc7da5ed58aa234ec78494b2194","features":{},"yanked":false,"pubtime":"2026-04-11T00:16:47Z"}
 {"name":"tishlang_build_utils","vers":"1.6.0","deps":[],"cksum":"7846747f7139f4ef2021566189866e4afaebf75e5cbbc10fc22d9441ea774210","features":{},"yanked":false,"pubtime":"2026-04-11T06:09:26Z"}
 {"name":"tishlang_build_utils","vers":"1.7.0","deps":[],"cksum":"99fa6eeecb90bb3d897950fcdf940c3ecf9c3f6dd77e3a427fd4d9d7af7d6757","features":{},"yanked":false,"pubtime":"2026-04-11T19:27:46Z"}
+{"name":"tishlang_build_utils","vers":"1.9.0","deps":[{"name":"protoc-bin-vendored","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"34594af4c1495d2cb2029852f83159c03701fe144066307ad05a02bcd0e99d45","features":{},"yanked":false,"pubtime":"2026-05-04T21:43:34Z"}
