@@ -1,1 +1,0 @@
-{"name":"dioxus-code-dioxus-hello","vers":"0.0.1","deps":[{"name":"dioxus","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"591b4e0b92c852a1f8b3fbdb90edf1ff4e406d4abd9ab3669675f6aad219a4d2","features":{"default":["desktop"],"desktop":["dioxus/desktop"]},"yanked":false,"pubtime":"2026-05-05T20:09:04Z"}
