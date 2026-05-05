@@ -1,0 +1,1 @@
+{"name":"fft-dihedral","vers":"0.1.0","deps":[{"name":"ntt","req":"^0.1.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d1b5ec289f1c72ff0933f5ca66e0ec01ebcbe6698aefbce94f528597de3c890","features":{},"yanked":false,"pubtime":"2026-05-05T18:59:58Z"}
