@@ -2,3 +2,4 @@
 {"name":"truce-utils","vers":"0.33.0","deps":[],"cksum":"0052f16290878f8f9b45ee24bb5740668b49a39eee0cf34d778cd59bb153a3a1","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-05T01:46:40Z"}
 {"name":"truce-utils","vers":"0.34.0","deps":[],"cksum":"f25222b25928994e1e73a9f84baab7e55633e16da973ff3f128f3ab8feed7286","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-05T03:02:58Z"}
 {"name":"truce-utils","vers":"0.35.0","deps":[],"cksum":"4029dc31eef7ad10ee17f4f9a001c0c495af9697725359cde8b40e5fa45cbb4d","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-05T08:29:06Z"}
+{"name":"truce-utils","vers":"0.35.1","deps":[],"cksum":"96efaaff2ab85b3ea56ebcfdd39460b60e512abeaf819ff1bf70185e3379b2ee","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-05T10:01:54Z"}
