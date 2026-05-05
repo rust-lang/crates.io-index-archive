@@ -1,0 +1,1 @@
+{"name":"rassa-libass-capi","vers":"0.1.0","deps":[{"name":"rassa_capi","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"rassa-capi"}],"cksum":"6042610699d33a0df022b5c6379d878eb490d1e4cf5620cd0be350cf7651e899","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-05T03:04:45Z"}
