@@ -1,0 +1,1 @@
+{"name":"ling-lang","vers":"2030.0.0","deps":[{"name":"lalrpop","req":"^0.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c7670ef917217a1e87defafb301bd49b1706fbd51da592dc14445e69e53b0d96","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-06T07:15:03Z"}
