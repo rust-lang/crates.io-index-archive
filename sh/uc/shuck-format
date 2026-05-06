@@ -22,3 +22,4 @@
 {"name":"shuck-format","vers":"0.0.32","deps":[],"cksum":"a0a5bac1b0e4df9ffca385437467fcda45fd23ef6710d83b251716be35e0cf54","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-05-03T04:53:57Z"}
 {"name":"shuck-format","vers":"0.0.33","deps":[],"cksum":"12191221510b4e0835e8b15ed4b522e342dd1efcedfa4c9eb1a700aa2e1ccbb1","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-05-04T04:53:02Z"}
 {"name":"shuck-format","vers":"0.0.34","deps":[],"cksum":"d909d8ea4c875d77cbc47f2039f941e7fe9327cf0f04bb6d192cb4bc3bf2040f","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-05-05T05:42:37Z"}
+{"name":"shuck-format","vers":"0.0.35","deps":[],"cksum":"44eb1f5e303e88acdb6881ac310a0f2858d11cf5ea9aa42e5888dc63748acb8f","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-05-06T05:12:55Z"}
