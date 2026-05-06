@@ -1,0 +1,1 @@
+{"name":"ingress-policy","vers":"0.1.0","deps":[{"name":"ingress-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22c71bb92649b322543f1ffb49fed02f3a7219a6d796dcad96eae734b08fc12f","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-06T16:08:30Z"}
