@@ -1,0 +1,1 @@
+{"name":"ara2-bridge","vers":"0.1.4","deps":[{"name":"ara2-bridge-sys","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d5da884b89cdc1622a5601187d318eb57d3995296411f011e72b9750c19c771","features":{},"yanked":false,"pubtime":"2026-05-06T15:43:14Z"}
