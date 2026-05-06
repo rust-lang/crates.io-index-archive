@@ -1,0 +1,1 @@
+{"name":"meerkat-machine-dsl","vers":"0.6.0","deps":[{"name":"meerkat-machine-dsl-core","req":"^0.6.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7eb53318cf2234582898a489dc7d964d6d251e7f774e99711b1d185d81f5d0cb","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-05-06T00:56:17Z"}
