@@ -1,0 +1,1 @@
+{"name":"ara2-bridge-sys","vers":"0.1.4","deps":[{"name":"bindgen","req":"^0.71","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"3971a4cf8c8221fa3cc6e610da356dbd13789076b15953e4a0519629e641de21","features":{},"yanked":false,"pubtime":"2026-05-06T15:43:02Z"}
