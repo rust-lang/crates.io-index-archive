@@ -1,0 +1,1 @@
+{"name":"converge-ferrox-highs-sys","vers":"0.4.1","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2480e2ee60a824590528c076c542c8332f596bf53de0b3ca6ad4fca27ec89000","features":{"default":[],"link":[]},"yanked":false,"links":"highs","rust_version":"1.94.0","pubtime":"2026-05-06T17:47:42Z"}
