@@ -6,3 +6,4 @@
 {"name":"typed-jni-core","vers":"1.1.2","deps":[],"cksum":"13c23cc22888c99e9de9c47f42c84150a0507e336b82f3942d625da566646e19","features":{"alloc":[],"default":["alloc"],"print-throwable":[]},"yanked":false,"pubtime":"2025-10-22T02:45:12Z"}
 {"name":"typed-jni-core","vers":"1.1.3","deps":[],"cksum":"5cfb974ed20720c9feeb833b1fb8b53e7f66db7891ea03474df148c393108469","features":{"alloc":[],"default":["alloc"],"print-throwable":[]},"yanked":false,"pubtime":"2025-10-22T11:42:08Z"}
 {"name":"typed-jni-core","vers":"1.1.4","deps":[],"cksum":"3fce4d3245def97f9dbf9dc9bce5579d8766f7a123e265b868755b22105eabee","features":{"alloc":[],"default":["alloc"],"print-throwable":[]},"yanked":false,"pubtime":"2026-01-13T12:48:42Z"}
+{"name":"typed-jni-core","vers":"1.1.5","deps":[],"cksum":"dbcc745f1b00c739de816d01815e8b00e1dcbaac06daddc36144456daac14b4d","features":{"alloc":[],"default":["alloc"],"print-throwable":[]},"yanked":false,"pubtime":"2026-05-06T09:30:40Z"}
