@@ -1,0 +1,1 @@
+{"name":"ctx-hooks","vers":"0.2.4","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"439fd1bdd9cedc4f2825dde45af7de8b7727274d805a9fd86e4b199b1c9dab98","features":{},"yanked":false,"pubtime":"2026-05-06T10:54:00Z"}
