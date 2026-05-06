@@ -1,0 +1,1 @@
+{"name":"mirui","vers":"0.1.0","deps":[{"name":"sdl2","req":"^0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5e2808603b0c4cadeed402ea5f20e618f260c53b14dcbfafd9b617de5be586a3","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-06T12:20:32Z"}
