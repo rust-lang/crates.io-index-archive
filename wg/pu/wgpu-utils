@@ -1,0 +1,1 @@
+{"name":"wgpu-utils","vers":"29.0.0","deps":[{"name":"wgpu","req":"29.0.*","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ccd2bcd3221f2ba189d598a3ab72d5394e2af0153e882c3da9e37051386825b6","features":{},"yanked":false,"pubtime":"2026-05-07T21:58:24Z"}
