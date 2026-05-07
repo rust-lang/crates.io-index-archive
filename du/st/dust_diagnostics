@@ -1,0 +1,1 @@
+{"name":"dust_diagnostics","vers":"0.1.0","deps":[{"name":"dust_text","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"801a67cc4079226ac9f8ba65118a7e507bfc963fced96f269a6bf87f588c06d4","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-07T10:37:55Z"}
