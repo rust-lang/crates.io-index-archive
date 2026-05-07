@@ -1,0 +1,1 @@
+{"name":"holonomy-consensus","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"66a961f65c71b07eee0c7d9f5e01579b60d302d1ac1d635e9da5559197074626","features":{},"yanked":false,"pubtime":"2026-05-07T00:53:59Z"}
