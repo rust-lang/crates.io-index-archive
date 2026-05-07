@@ -1,0 +1,1 @@
+{"name":"jmu","vers":"0.2.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd2401e427c6df810ae73af0e50750c96db93d4be0aa83a6a45b037b8d1ce748","features":{},"yanked":false,"pubtime":"2026-05-07T10:52:12Z"}
