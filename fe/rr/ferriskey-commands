@@ -1,0 +1,1 @@
+{"name":"ferriskey-commands","vers":"0.1.0","deps":[{"name":"clap","req":"^4.5","features":["derive","env"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4dc751b4473f0bddcea3b3dd787ca91cbd01cf5073fdeb51e1bc2cf06cfb6d7","features":{},"yanked":false,"pubtime":"2026-05-07T20:19:59Z"}
