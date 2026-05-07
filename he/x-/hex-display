@@ -2,3 +2,4 @@
 {"name":"hex-display","vers":"0.1.1","deps":[],"cksum":"010f97d28948b2555a2a3f8a3a80d88ce530623cc5d4d34158e5549fc0b3650c","features":{"std":[]},"yanked":false,"pubtime":"2022-11-09T00:20:30Z"}
 {"name":"hex-display","vers":"0.2.0","deps":[],"cksum":"98bbd5c7b1799a1bb55301b5168f356a6cffe163e6a0e00537a5245d76f11d34","features":{"std":[]},"yanked":true,"pubtime":"2023-02-01T19:25:11Z"}
 {"name":"hex-display","vers":"0.3.0","deps":[],"cksum":"8b53d6a634507c5d9fdee77261ae54a8d1ff7887f5304389025b03c3292a1756","features":{"std":[]},"yanked":false,"pubtime":"2023-02-01T19:42:45Z"}
+{"name":"hex-display","vers":"0.3.1","deps":[],"cksum":"aff0d38c2092a1b040ece0bf627721867378fb2a4bf6c37dcad0c4f92f8bf7d1","features":{"alloc":[],"std":["alloc"]},"yanked":false,"rust_version":"1.56","pubtime":"2026-05-07T18:11:26Z"}
