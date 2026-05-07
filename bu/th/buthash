@@ -1,0 +1,1 @@
+{"name":"buthash","vers":"0.1.0","deps":[{"name":"bytemuck","req":"^1.14","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"033df7c30ec41dc6643f5e19d3a4d83ec1b607679ecd874c801b246af1133d83","features":{},"yanked":false,"pubtime":"2026-05-07T14:10:19Z"}
