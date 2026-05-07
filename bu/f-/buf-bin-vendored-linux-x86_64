@@ -1,2 +1,3 @@
 {"name":"buf-bin-vendored-linux-x86_64","vers":"1.69.0-final.testing","deps":[],"cksum":"a9aca04cdf4177e43fb73e2d203ffbc00899e9d52d8c80fab8f5353b0a991b53","features":{},"yanked":false,"pubtime":"2026-05-07T13:42:21Z"}
 {"name":"buf-bin-vendored-linux-x86_64","vers":"1.69.0-rc.7.vendor.testing+github.25499779560","deps":[],"cksum":"604222a03b7e1909d5d8c0f8c3aecb2bf383b64371c016105d19db5f2995efc5","features":{},"yanked":false,"pubtime":"2026-05-07T13:48:34Z"}
+{"name":"buf-bin-vendored-linux-x86_64","vers":"1.69.0","deps":[],"cksum":"70c7536b966ce2b4889a06e7f74ef805fa0de7ab0c2211962deb7a6e82750d2d","features":{},"yanked":false,"pubtime":"2026-05-07T15:07:01Z"}
