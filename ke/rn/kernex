@@ -1,0 +1,1 @@
+{"name":"kernex","vers":"0.4.2","deps":[{"name":"kernex-runtime","req":"^0.4.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ddc57285bf7384cea1f4aa56a993e14cbd05cd2e3e0b6c9525b4e66a41ac828","features":{},"yanked":false,"pubtime":"2026-05-07T18:40:00Z"}
