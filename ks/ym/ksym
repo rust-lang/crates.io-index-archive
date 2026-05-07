@@ -4,3 +4,4 @@
 {"name":"ksym","vers":"0.4.0","deps":[],"cksum":"b89367ec9c2677c7541ae12f2fa23b289d7fbc7858b9c7c556a2ec415386533c","features":{"assembly":[]},"yanked":false,"pubtime":"2026-04-11T04:38:18Z"}
 {"name":"ksym","vers":"0.5.0","deps":[],"cksum":"2b66782ae6b6766f8f659bd4f4cdc1ac7457e7d61d3dcbf26da3381a720feb84","features":{"assembly":[]},"yanked":false,"pubtime":"2026-04-12T13:05:36Z"}
 {"name":"ksym","vers":"0.5.1","deps":[],"cksum":"985d3420a4963bac2df03dc7c4b2f6ca8c2741e04530d6f82f94dc13dba24a23","features":{"assembly":[]},"yanked":false,"pubtime":"2026-04-13T10:54:03Z"}
+{"name":"ksym","vers":"0.5.5","deps":[],"cksum":"8983e1ba2080d958a757359ab1fa5178c8a55840d627479a2c69373f8226c5a9","features":{"assembly":[]},"yanked":false,"pubtime":"2026-05-07T07:58:14Z"}
