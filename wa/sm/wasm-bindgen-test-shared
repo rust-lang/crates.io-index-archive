@@ -11,3 +11,4 @@
 {"name":"wasm-bindgen-test-shared","vers":"0.2.117","deps":[],"cksum":"1c29582b14d5bf030b02fa232b9b57faf2afc322d2c61964dd80bad02bf76207","features":{},"yanked":false,"rust_version":"1.71","pubtime":"2026-03-31T23:35:38Z"}
 {"name":"wasm-bindgen-test-shared","vers":"0.2.118","deps":[],"cksum":"23cda5ecc67248c48d3e705d3e03e00af905769b78b9d2a1678b663b8b9d4472","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-04-10T16:58:13Z"}
 {"name":"wasm-bindgen-test-shared","vers":"0.2.120","deps":[],"cksum":"60238e5b4b1b295701d6f9a66d2a126fe19990348f5fb9dae3b623a370119d94","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-04-28T07:48:26Z"}
+{"name":"wasm-bindgen-test-shared","vers":"0.2.121","deps":[],"cksum":"4f4d8ae7ad5440360e9799dfd42857d126454a88441ddf72d288ef83fa47f527","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-05-07T00:52:25Z"}
