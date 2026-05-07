@@ -21,3 +21,4 @@
 {"name":"dioxus-core-types","vers":"0.7.4","deps":[],"cksum":"b99d7d199aad72431b549759550002e7d72c8a257eba500dca9fbdb2122de103","features":{},"yanked":false,"pubtime":"2026-03-27T23:51:40Z"}
 {"name":"dioxus-core-types","vers":"0.7.6","deps":[],"cksum":"cbfea5c8946e0745b254b5c33c515d81b3ba638f33c2a532ed06730392394d4d","features":{},"yanked":false,"pubtime":"2026-04-22T01:32:38Z"}
 {"name":"dioxus-core-types","vers":"0.7.7","deps":[],"cksum":"a1a47a4908cc9680a27b314aa8c3832a517274f896a31b0cce7d7adee57eacbb","features":{},"yanked":false,"pubtime":"2026-05-01T00:52:24Z"}
+{"name":"dioxus-core-types","vers":"0.7.8","deps":[],"cksum":"2d5a01bd401ca176ad31754a91430166c8fe239dc33f7b29b386e908c644a907","features":{},"yanked":false,"pubtime":"2026-05-07T22:24:49Z"}
