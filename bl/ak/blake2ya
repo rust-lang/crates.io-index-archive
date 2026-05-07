@@ -7,3 +7,4 @@
 {"name":"blake2ya","vers":"1.0.0","deps":[],"cksum":"53e15335e190f8b1a546494abaa6f83535ec3a27b6edbbcbdd0712046594dea9","features":{},"yanked":false,"pubtime":"2024-12-16T13:20:32Z"}
 {"name":"blake2ya","vers":"1.0.1","deps":[],"cksum":"2c32a62e8398837d4ee57d57c14abc9e523769dce76a11c8c3626c351162c7d4","features":{},"yanked":false,"pubtime":"2024-12-19T02:50:04Z"}
 {"name":"blake2ya","vers":"1.0.2","deps":[],"cksum":"1e0e6144a361a49cc2a282f75205a8e8658dac95e99020acdd7c9831fc4baf01","features":{},"yanked":false,"pubtime":"2025-07-01T07:04:24Z"}
+{"name":"blake2ya","vers":"1.0.3","deps":[],"cksum":"97fadf78cc6d71517e512fc847b1c6fb38a1db6b8c0b161c741fb793928484d4","features":{},"yanked":false,"pubtime":"2026-05-07T03:32:53Z"}
