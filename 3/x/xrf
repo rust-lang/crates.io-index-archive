@@ -5,3 +5,4 @@
 {"name":"xrf","vers":"0.1.4","deps":[],"cksum":"e99ffe8abae1cc7dc25905103ff0b0303b64fb395ff6d126a00332b947767774","features":{},"yanked":false,"pubtime":"2026-03-02T21:17:17Z"}
 {"name":"xrf","vers":"0.1.5","deps":[],"cksum":"ec6f4b77552a76b05502e367f718d05fa0776c5cd73a04abcacb7ef97814a98b","features":{},"yanked":false,"pubtime":"2026-04-10T22:46:51Z"}
 {"name":"xrf","vers":"0.1.6","deps":[],"cksum":"b2aba9a51b66e0c4ca48291b2912800cb391be0b3c823700c314a3f44c38e91e","features":{},"yanked":true,"pubtime":"2026-05-06T23:32:00Z"}
+{"name":"xrf","vers":"0.1.7","deps":[],"cksum":"1accf559df38877d092ff7f4c2723ca4961d68be49e5785d64ed476f673184c4","features":{},"yanked":false,"pubtime":"2026-05-07T09:13:24Z"}
