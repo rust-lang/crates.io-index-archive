@@ -1,0 +1,1 @@
+{"name":"roxlap-formats","vers":"0.1.0","deps":[{"name":"flate2","req":"^1","features":["rust_backend"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"319f7e1d0b9d4ba0472183f04d2850dad4fbcd0a519fa3ae085d805b73dbe3c3","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-05-07T12:58:28Z"}
