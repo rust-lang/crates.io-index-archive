@@ -1,1 +1,2 @@
 {"name":"flowstate","vers":"0.1.0","deps":[],"cksum":"14b32eec40904d6a222b5d0ea73eacfd220dff08b6e59b72a9126b7588406bb1","features":{},"yanked":false,"pubtime":"2026-05-06T17:00:13Z"}
+{"name":"flowstate","vers":"0.2.0","deps":[{"name":"flowstate_proc","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"33423daae47719243eeb5c7023f8c6bee4642ec49b43072baf1c50150e2b5c25","features":{},"yanked":false,"pubtime":"2026-05-07T17:16:49Z"}
