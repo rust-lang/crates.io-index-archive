@@ -1,0 +1,1 @@
+{"name":"normalize-facts-core","vers":"0.3.0","deps":[{"name":"serde","req":"^1","features":["derive","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7ee0211f26ae9863927666986c554c1aa2539c63b063204346476e94cce78369","features":{},"yanked":false,"pubtime":"2026-05-07T10:09:48Z"}
