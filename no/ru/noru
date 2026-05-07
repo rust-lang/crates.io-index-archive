@@ -8,3 +8,4 @@
 {"name":"noru","vers":"2.0.0","deps":[],"cksum":"48dbd1ef13488dad74b8329e1c513b720de4e34f4db53e7940e721caa5546bd2","features":{},"yanked":false,"pubtime":"2026-04-23T10:48:13Z"}
 {"name":"noru","vers":"2.1.0","deps":[],"cksum":"181c05a69d419fb098b455089d165917638d65d98152f371028138add3952daf","features":{},"yanked":false,"pubtime":"2026-04-29T17:29:34Z"}
 {"name":"noru","vers":"2.1.1","deps":[],"cksum":"6932bcd6114e85ee97f459a522ddf3459b306748327819d1e0147c9b39762e2e","features":{"avx512":[],"default":[]},"yanked":false,"pubtime":"2026-05-01T01:53:57Z"}
+{"name":"noru","vers":"2.2.0","deps":[],"cksum":"83654c4f008197f515f315b6760a4781c6f734a6f0205e522b90119a8e1d29f2","features":{"avx512":[],"default":[]},"yanked":false,"pubtime":"2026-05-07T11:01:13Z"}
