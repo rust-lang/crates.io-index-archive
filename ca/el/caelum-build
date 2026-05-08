@@ -1,0 +1,1 @@
+{"name":"caelum-build","vers":"0.0.0","deps":[{"name":"walkdir","req":"^2.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80e611f03fdab001984a32514e734b332620a31028d70accd9067d8d6293a35f","features":{},"yanked":false,"pubtime":"2026-05-08T06:27:20Z"}
