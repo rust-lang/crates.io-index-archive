@@ -80,3 +80,4 @@
 {"name":"vim-line","vers":"6.5.1","deps":[],"cksum":"9f1e7ce17c03a7229ff06d5769c2206291e57c7444ca3f35baec19a06dea3e0d","features":{},"yanked":false,"pubtime":"2026-05-05T05:21:04Z"}
 {"name":"vim-line","vers":"6.5.2","deps":[],"cksum":"2adb41c09bc1ca68489a8f457c68dc26decca2dc1f3556ffb564b592763e3166","features":{},"yanked":false,"pubtime":"2026-05-05T19:23:15Z"}
 {"name":"vim-line","vers":"6.5.3","deps":[],"cksum":"b8073474f7fe9f67101142fd2078398407fb24ac4741993bc57902eafc2a5320","features":{},"yanked":false,"pubtime":"2026-05-06T21:08:46Z"}
+{"name":"vim-line","vers":"6.6.0","deps":[],"cksum":"5bdef8d56ef78310c15a6a592d5b148a3abc5a06a3cf6f1f45a8cc3f3f593529","features":{},"yanked":false,"pubtime":"2026-05-08T19:24:16Z"}
