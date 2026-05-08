@@ -1,0 +1,1 @@
+{"name":"vitagl-sys","vers":"0.1.0","deps":[{"name":"bindgen","req":"^0.72","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"90d5ac459f9f09ac578230c5be2caa91daf18994c927a83b672578bd87e70e89","features":{},"yanked":false,"pubtime":"2026-05-08T01:34:07Z"}
