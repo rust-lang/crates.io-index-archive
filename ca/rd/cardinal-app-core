@@ -1,0 +1,1 @@
+{"name":"cardinal-app-core","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14c55d97ec5e618e44d7ee82d6730f662be64c479bb9e746ae1f2fa81cb6b45e","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-05-08T23:02:05Z"}
