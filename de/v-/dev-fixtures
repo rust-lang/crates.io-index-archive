@@ -1,0 +1,1 @@
+{"name":"dev-fixtures","vers":"0.1.0","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5aec28f2a22a7a6d8636a9d13705ff4b0084fec7beeca7e4b3f6bd8f18c6daf6","features":{"default":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-08T02:17:53Z"}
