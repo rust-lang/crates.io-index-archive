@@ -4,3 +4,4 @@
 {"name":"runmat-thread-local","vers":"0.4.1","deps":[],"cksum":"b27637a48e313e9807eff8bd04234ba1e78533bba2d5d12177dac562c9ebfe11","features":{},"yanked":false,"pubtime":"2026-04-16T15:28:02Z"}
 {"name":"runmat-thread-local","vers":"0.4.4","deps":[],"cksum":"c79356de195564022be6d20e353bbed1b8b9dfb5b96529977d0bca99bd1a029f","features":{},"yanked":false,"pubtime":"2026-04-24T22:44:35Z"}
 {"name":"runmat-thread-local","vers":"0.4.5","deps":[],"cksum":"70c260b0745fe560c56a14b504ea9a16cb01108f9566f1db93338cd641d869cc","features":{},"yanked":false,"pubtime":"2026-05-01T22:10:35Z"}
+{"name":"runmat-thread-local","vers":"0.4.6","deps":[],"cksum":"b6caa9197ffffd8329f2449d97e540ae1025ef21718448b4465f26257bbb535e","features":{},"yanked":false,"pubtime":"2026-05-08T22:07:00Z"}
