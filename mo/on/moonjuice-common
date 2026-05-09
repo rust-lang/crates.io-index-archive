@@ -1,0 +1,1 @@
+{"name":"moonjuice-common","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"680c5e1e45e37e6ebfa9b896ef7ed3da6e5b07f56f332e2a86752c6f2920a003","features":{},"yanked":false,"pubtime":"2026-05-09T18:17:28Z"}
