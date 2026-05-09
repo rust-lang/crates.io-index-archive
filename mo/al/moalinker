@@ -1,0 +1,1 @@
+{"name":"moalinker","vers":"0.1.0","deps":[{"name":"moa_rt_define","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"1ccfc5c59e7a2069f5191472b9a5a5b761146e2a563454d182193a95568127d0","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-09T07:04:42Z"}
