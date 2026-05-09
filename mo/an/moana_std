@@ -1,0 +1,1 @@
+{"name":"moana_std","vers":"0.1.0","deps":[{"name":"moa_target_define","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"build"}],"cksum":"2622941d1bfd0ab1e8ce2996f2652159bad378e32e3dfa4477c342c07d17871b","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-09T08:00:29Z"}
