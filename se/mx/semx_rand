@@ -7,3 +7,4 @@
 {"name":"semx_rand","vers":"0.1.58","deps":[],"cksum":"7dfcb5edcbf96d9d0ce7aef9c8fe2179c77a908265433e77e61ec2bdfbfa0254","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T09:52:37Z"}
 {"name":"semx_rand","vers":"0.1.59","deps":[],"cksum":"442782ada73245095a3d0f2e229def6d52da232c992bd3e125e180d41f645c7d","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-01T05:51:25Z"}
 {"name":"semx_rand","vers":"0.1.60","deps":[],"cksum":"173d8d37aa579f1ea1466f0173ab3495da09e4f8c035fdce5e9303364c0cd295","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-01T06:21:10Z"}
+{"name":"semx_rand","vers":"0.1.61","deps":[],"cksum":"fed5a6e25b389f349b2f207cbe6a420fb144304d2c842412fe8c93c2dc8c973c","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-09T04:19:33Z"}
