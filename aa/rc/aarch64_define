@@ -9,4 +9,4 @@
 {"name":"aarch64_define","vers":"0.1.54","deps":[],"cksum":"4aae3234c9b3e6db6e26f207d715f09ae8af28665e1a6fbafcb3dcc26adf4a16","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-29T09:39:30Z"}
 {"name":"aarch64_define","vers":"0.1.56","deps":[],"cksum":"238dce72a89e4aeb79ae2533d6588223f33e77d7b4c677fca9ac88215e4ed956","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T05:24:11Z"}
 {"name":"aarch64_define","vers":"0.1.57","deps":[],"cksum":"74a1be26749c4015e46f11efbf30ea0293c628a8a150d4a863a22c7c7dab9147","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T09:37:03Z"}
-{"name":"aarch64_define","vers":"0.1.58","deps":[],"cksum":"7340dffa053d849d4ca3bb1ccced7d2bd2d77ac8e5e60fbf46b10f46a8ebfc71","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T09:52:34Z"}
+{"name":"aarch64_define","vers":"0.1.58","deps":[],"cksum":"7340dffa053d849d4ca3bb1ccced7d2bd2d77ac8e5e60fbf46b10f46a8ebfc71","features":{},"yanked":true,"rust_version":"1.95","pubtime":"2026-04-30T09:52:34Z"}
