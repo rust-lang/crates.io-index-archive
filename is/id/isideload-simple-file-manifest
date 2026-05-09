@@ -1,0 +1,1 @@
+{"name":"isideload-simple-file-manifest","vers":"0.11.0","deps":[{"name":"tempfile","req":"^3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6a9a15c90b8b658823775bd9959e2105cd4c3e46257fdae534094322f0dccd70","features":{},"yanked":false,"pubtime":"2026-05-09T16:06:22Z"}
