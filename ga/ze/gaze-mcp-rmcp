@@ -1,1 +1,2 @@
 {"name":"gaze-mcp-rmcp","vers":"0.6.4","deps":[],"cksum":"36b9c28de60d6f01d9b63b0fc4f6bf8f456cba192bdff6f658600d61d15d6757","features":{},"yanked":false,"pubtime":"2026-05-09T10:25:02Z"}
+{"name":"gaze-mcp-rmcp","vers":"0.6.5","deps":[{"name":"gaze-mcp-core","req":"=0.6.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"67b9c0ec0b36d6b959cf8dbc7dcbd38b9c5e1a6b32c1c805b82e0289b9a7e538","features":{},"yanked":false,"pubtime":"2026-05-09T10:38:34Z"}
