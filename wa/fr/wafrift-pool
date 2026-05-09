@@ -1,0 +1,1 @@
+{"name":"wafrift-pool","vers":"0.2.0","deps":[{"name":"reqwest","req":"^0.12","features":["rustls-tls","cookies","gzip","brotli","stream"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"adecb994f15a5d4e18ee29bbc61659cb339ea23c0756b63dcf0af46a9a2d954c","features":{},"yanked":false,"pubtime":"2026-05-09T03:13:02Z"}
