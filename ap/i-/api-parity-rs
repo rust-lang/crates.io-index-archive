@@ -1,0 +1,1 @@
+{"name":"api-parity-rs","vers":"0.0.1","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a00a453aa84e1893db6faea112e557039d090145949396244b6e8c464c89d398","features":{},"yanked":false,"pubtime":"2026-05-09T17:30:12Z"}
