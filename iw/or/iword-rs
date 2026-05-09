@@ -1,2 +1,3 @@
 {"name":"iword-rs","vers":"0.1.0","deps":[],"cksum":"b22d279a2f08fbd6a6f31f6b8a15a69aa544a6150a18fff09a90ddafee7af5c9","features":{},"yanked":false,"pubtime":"2026-05-09T13:56:31Z"}
 {"name":"iword-rs","vers":"0.1.1","deps":[],"cksum":"adcfc2aa89ec80f364e046bc423b43c5308b60a6444e83e75dc92db34b66617c","features":{},"yanked":false,"pubtime":"2026-05-09T14:02:00Z"}
+{"name":"iword-rs","vers":"0.1.2","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"47a683ae338d3d93bd00b111ee089e5127266ae76d9ec68017ccf7ff2f74f2f7","features":{},"yanked":false,"pubtime":"2026-05-09T14:06:35Z"}
