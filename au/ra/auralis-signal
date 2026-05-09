@@ -1,0 +1,1 @@
+{"name":"auralis-signal","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_arch = \"wasm32\"))","kind":"dev"}],"cksum":"13c765a54a67497ff67ac80bb799d72a43d67ba8394b218f9c9f2bc09b985106","features":{"default":[]},"yanked":false,"rust_version":"1.80","pubtime":"2026-05-09T04:33:24Z"}
