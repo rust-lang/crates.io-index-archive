@@ -39,3 +39,4 @@
 {"name":"blit-fonts","vers":"0.33.0","deps":[],"cksum":"26e91450c6025327feb9a7dc4c954832dcda62709eb9d84694ff3d830f6563d8","features":{},"yanked":false,"pubtime":"2026-05-06T08:13:25Z"}
 {"name":"blit-fonts","vers":"0.33.1","deps":[],"cksum":"99130ea1423eb945ff915a6f699a215242294454da2ca94a90039a52d4ce5209","features":{},"yanked":false,"pubtime":"2026-05-06T09:05:06Z"}
 {"name":"blit-fonts","vers":"0.33.2","deps":[],"cksum":"20fff128aa930314afeb19622f12ff9e12bd1bc92e851151aa858bc3e41d43ac","features":{},"yanked":false,"pubtime":"2026-05-08T14:00:04Z"}
+{"name":"blit-fonts","vers":"0.33.3","deps":[],"cksum":"4254b237368c64354fc1942ce4b71fbad12c0860ee6edc829815c0d11398a9e3","features":{},"yanked":false,"pubtime":"2026-05-09T09:17:35Z"}
