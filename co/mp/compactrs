@@ -25,3 +25,4 @@
 {"name":"compactrs","vers":"2026.5.9-r0535","deps":[],"cksum":"0f341f7eaa7cdfcb09fa8e48e26a9c7b91e9e4e505d0181cd5c44c00a765944c","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-05-09T05:37:06Z"}
 {"name":"compactrs","vers":"2026.5.9-r0723","deps":[],"cksum":"4b78d44cdee7e03d9f408e31e1c448fa9aabf642829e9de85525daae9307879c","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-05-09T07:24:39Z"}
 {"name":"compactrs","vers":"2026.5.9-r0825","deps":[],"cksum":"b6ecaa1d4b2b3eeddf4def2cfe54982a6da950b6976e324264202cb28a5bc68e","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-05-09T08:27:19Z"}
+{"name":"compactrs","vers":"2026.5.9-r1147","deps":[],"cksum":"0fa54a6ea4cd144f1ee44f548d0e4bc75ca4f5b1da691753ca3491f0008e1af9","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-05-09T11:49:20Z"}
