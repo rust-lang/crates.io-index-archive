@@ -14,3 +14,4 @@
 {"name":"semx_bitops","vers":"0.1.58","deps":[],"cksum":"66c1b5a0971801e5da7d376c7758ac3104af3e75336706cc81a36730bf955979","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-30T09:52:35Z"}
 {"name":"semx_bitops","vers":"0.1.59","deps":[],"cksum":"3bbc0a5834cc3eef1048149028ec049e8e7eabfc4342e9844b38e7adf346b99d","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-01T05:51:11Z"}
 {"name":"semx_bitops","vers":"0.1.60","deps":[],"cksum":"085d11201febb1426409e9b09a88c4282b52264a90a69b72481abc39db655c24","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-01T06:20:32Z"}
+{"name":"semx_bitops","vers":"0.1.61","deps":[],"cksum":"5de393c02bf74edc431fb81b440b2b7be2d27e0536efe7272d8b2697f5029767","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-09T04:19:31Z"}
