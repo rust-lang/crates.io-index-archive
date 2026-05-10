@@ -1,0 +1,1 @@
+{"name":"gram-diagnostics","vers":"0.3.9","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e6ea1d5b1480dfe2847bdc94157a0174fd6db4941862344393581fa3afa023b7","features":{},"yanked":false,"pubtime":"2026-05-10T08:42:39Z"}
