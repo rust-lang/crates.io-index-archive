@@ -1,0 +1,1 @@
+{"name":"bunny-api-recording","vers":"0.2.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"710e4c620dc3e1427217687becdc3b4c20560420ac6081c01454c7cf530c718b","features":{},"yanked":false,"pubtime":"2026-05-10T20:57:59Z"}
