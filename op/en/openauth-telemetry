@@ -1,0 +1,1 @@
+{"name":"openauth-telemetry","vers":"0.0.1","deps":[{"name":"tokio","req":"^1","features":["macros","rt-multi-thread","sync","time"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"54641c4cb1a62860990b81e15e61b75752097fe8c1fad65338084149764dd8e4","features":{},"yanked":false,"pubtime":"2026-05-10T02:54:22Z"}
