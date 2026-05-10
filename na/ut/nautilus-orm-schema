@@ -7,3 +7,4 @@
 {"name":"nautilus-orm-schema","vers":"1.0.1","deps":[],"cksum":"0b97e11e32c94c9423663bde121dd5cc476e4aca5025a69acfd54b07ec886842","features":{},"yanked":false,"pubtime":"2026-04-13T16:11:13Z"}
 {"name":"nautilus-orm-schema","vers":"1.1.0","deps":[],"cksum":"acfe5404b853adc467bc6f097bc45ff09427976e9655d22a612d6f199db23cb0","features":{},"yanked":false,"pubtime":"2026-04-18T13:44:54Z"}
 {"name":"nautilus-orm-schema","vers":"1.2.0","deps":[],"cksum":"3de82c661d37cb0b571a68d766897ba51d8d47520913eabe68965527e14c3690","features":{},"yanked":false,"pubtime":"2026-04-29T15:16:19Z"}
+{"name":"nautilus-orm-schema","vers":"1.2.1","deps":[],"cksum":"8cef281eea7f69451416d65c7d96f6191a7109f4289899b142acb845305bee10","features":{},"yanked":false,"pubtime":"2026-05-10T13:57:35Z"}
