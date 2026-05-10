@@ -4,3 +4,4 @@
 {"name":"gbp-core","vers":"1.0.0-rc3","deps":[],"cksum":"d18254c2720c49a36033378680eb7f009bf7aac0904687f392a367af43e30d64","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-10T07:35:38Z"}
 {"name":"gbp-core","vers":"1.0.0-rc4","deps":[],"cksum":"c68698e5a524e82498054b35a350a2a4e8b0e86030dc709bd86cc690bc4a652a","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-10T08:46:27Z"}
 {"name":"gbp-core","vers":"1.0.0","deps":[],"cksum":"a35ddc3d38def739bfc3aecc8de031cfaa679a97324ffb485ce5dcbc010f6f1f","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-10T09:05:14Z"}
+{"name":"gbp-core","vers":"1.0.1","deps":[],"cksum":"8a9b90b3fee19f76a72e0423987d5355060f7153b0d36863a2efa8426da57659","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-10T09:21:27Z"}
