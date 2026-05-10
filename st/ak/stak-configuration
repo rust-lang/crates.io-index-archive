@@ -161,3 +161,4 @@
 {"name":"stak-configuration","vers":"0.12.9","deps":[],"cksum":"aae01f336cb0d6f96f91afcc301956257fbee4b6c70ffe8635b5f1c127df9d6c","features":{},"yanked":false,"pubtime":"2026-01-14T15:08:18Z"}
 {"name":"stak-configuration","vers":"0.12.10","deps":[],"cksum":"6941aba64a6e8ae695f96bf33d586141fcb2cd4054a20d38a981cddd9874f775","features":{},"yanked":false,"pubtime":"2026-01-17T03:28:05Z"}
 {"name":"stak-configuration","vers":"0.12.11","deps":[],"cksum":"125a68ac1372cbceb87f52f3e3a8523a2cbd6b3899d5700faa109169526386a0","features":{},"yanked":false,"pubtime":"2026-02-15T02:39:39Z"}
+{"name":"stak-configuration","vers":"0.12.12","deps":[],"cksum":"ec577eb62c58c64590eda0a28e7b497dd1b653242f7853c88fb921b1184d4f8f","features":{},"yanked":false,"pubtime":"2026-05-10T22:43:14Z"}
