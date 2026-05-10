@@ -1,1 +1,2 @@
 {"name":"se-pkg","vers":"1.0.0","deps":[{"name":"dirs","req":"^5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"faf21a7e4454960e75a32da270e0a72a423545cf8f5464520b9496bc2826c86b","features":{},"yanked":false,"pubtime":"2026-05-10T23:03:21Z"}
+{"name":"se-pkg","vers":"2.0.0","deps":[{"name":"dirs","req":"^5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80f12fa62209984901c63f8bfd8efb63eb298312e348106743a3e635327a07a4","features":{},"yanked":false,"pubtime":"2026-05-10T23:09:25Z"}
