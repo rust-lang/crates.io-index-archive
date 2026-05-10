@@ -1,0 +1,1 @@
+{"name":"pg-pkg","vers":"1.0.0","deps":[{"name":"dirs","req":"^5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a5f45ba8114b4a558a51cbbfa7ba982159ed633860faf0934c5fe71fa0f55933","features":{},"yanked":false,"pubtime":"2026-05-10T22:49:04Z"}
