@@ -1,2 +1,3 @@
 {"name":"oxyl-lexer","vers":"0.1.0","deps":[],"cksum":"99ca7307a0f276ee7f4cc98e13e03f81e37315ea18260da4c4c7cf50210071e2","features":{},"yanked":false,"pubtime":"2026-05-03T11:03:42Z"}
 {"name":"oxyl-lexer","vers":"0.1.2","deps":[],"cksum":"fe5aa923be9ec765832c6af0e7fc129139b54eed50f6ccbaff6e8e7571a7d9e1","features":{},"yanked":false,"pubtime":"2026-05-03T12:31:43Z"}
+{"name":"oxyl-lexer","vers":"0.1.3","deps":[{"name":"oxyl-diagnostics","req":"^0.1.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a3d214acc3c4d9e741f3b7952569c3212f25fadcc9402740426e67864515ddd5","features":{},"yanked":false,"pubtime":"2026-05-11T17:59:19Z"}
