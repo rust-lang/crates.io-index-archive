@@ -1,0 +1,1 @@
+{"name":"unset","vers":"0.1.0","deps":[{"name":"assert_cmd","req":"^2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1f6ba5f76cd43d419efefb7baae086c8dcc86f955c1c3051f540dfe5d0bb2c77","features":{},"yanked":false,"pubtime":"2026-05-11T22:12:35Z"}
