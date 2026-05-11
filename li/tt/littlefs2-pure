@@ -1,0 +1,1 @@
+{"name":"littlefs2-pure","vers":"0.1.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7320884377258282857ccb115f4602fa40398d8aa9b04891cb0a31f4e51415c7","features":{"alloc":[],"default":[],"kani":[],"std":["alloc"]},"yanked":false,"rust_version":"1.84","pubtime":"2026-05-11T16:24:09Z"}
