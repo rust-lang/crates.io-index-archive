@@ -1,0 +1,1 @@
+{"name":"prosaic-grammar-de","vers":"0.6.1","deps":[{"name":"prosaic-core","req":"^0.6.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"abb6b6a2c53366875050298dc750d16a429416c3f29bef80db64d55ce7da8276","features":{"time":["prosaic-core/time"]},"yanked":false,"pubtime":"2026-05-11T02:34:10Z"}
