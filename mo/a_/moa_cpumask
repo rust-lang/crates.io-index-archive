@@ -1,1 +1,2 @@
 {"name":"moa_cpumask","vers":"0.1.0","deps":[],"cksum":"e9b9ff1382be67eb96b01256fcbe3131a168d12c9c46a2fbb04420fd11266ba7","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-09T05:38:07Z"}
+{"name":"moa_cpumask","vers":"0.1.1","deps":[{"name":"moa_types","req":"^0.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ed208112cbdfe3fe8f95b6836c02a00687ebf8e93fbbc49de590f1d220102cca","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-11T08:50:32Z"}
