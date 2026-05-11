@@ -31,3 +31,4 @@
 {"name":"deepseek-tui-core","vers":"0.8.26","deps":[],"cksum":"6e877e51f767248e0f1b805aa373e57537a0e3ba6062ce85bdebd1dd12a888b3","features":{},"yanked":false,"pubtime":"2026-05-10T07:49:12Z"}
 {"name":"deepseek-tui-core","vers":"0.8.27","deps":[],"cksum":"a71c30d6dfed69c3bc2662a01301a13080ef565e9f0829bec77c4fc16d59bce0","features":{},"yanked":false,"pubtime":"2026-05-10T17:48:53Z"}
 {"name":"deepseek-tui-core","vers":"0.8.28","deps":[],"cksum":"36d4140d8f974677efa734bd157f5a4d420dadbbbfc1db9395006ce423ee70ef","features":{},"yanked":false,"pubtime":"2026-05-11T00:07:44Z"}
+{"name":"deepseek-tui-core","vers":"0.8.29","deps":[],"cksum":"d32d0deff44222848583b6b51f30a5ace156bf3dc3e5d82e3d147428465226ef","features":{},"yanked":false,"pubtime":"2026-05-11T19:51:30Z"}
