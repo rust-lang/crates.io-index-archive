@@ -4,3 +4,4 @@
 {"name":"chrome-devtools","vers":"0.1.3","deps":[],"cksum":"812e4a5d07ef77ebea2cd5b367e0deff1bd01a0dc4e9c2aaf7208756b55a2086","features":{},"yanked":false,"pubtime":"2026-05-09T08:16:40Z"}
 {"name":"chrome-devtools","vers":"0.1.4","deps":[],"cksum":"141a5d5a134509ad0556aa1f61ca7319f43bae26cc50dff4667f981c607da71e","features":{},"yanked":false,"pubtime":"2026-05-09T23:23:28Z"}
 {"name":"chrome-devtools","vers":"0.1.5","deps":[],"cksum":"4150a804de965b9972194be96ccce072391ecb51c367bf6794294b17bfc8e414","features":{},"yanked":false,"pubtime":"2026-05-10T23:23:36Z"}
+{"name":"chrome-devtools","vers":"0.1.6","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1a2afd8ced64561eb9b5495ad5dea9b60bd724569f662b710d409b4cd68e8e58","features":{},"yanked":false,"pubtime":"2026-05-11T05:03:07Z"}
