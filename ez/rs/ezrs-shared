@@ -1,0 +1,1 @@
+{"name":"ezrs-shared","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f4e0dfba2b283c70ca540097d9696a0e6e1375130659f287ddcd1c87116f645","features":{},"yanked":false,"pubtime":"2026-05-11T12:09:41Z"}
