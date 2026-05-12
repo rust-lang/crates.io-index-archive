@@ -44,3 +44,4 @@
 {"name":"uv-version","vers":"0.11.11","deps":[],"cksum":"20f79b4aa6bb052228c941d6e7e33cec58a030974fb859adb2a8e07a6f1fec6e","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-05-06T20:06:36Z"}
 {"name":"uv-version","vers":"0.11.12","deps":[],"cksum":"6468c086017daa0535988a46109733d190964a1aa1fccde218b575db6844cbb1","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-05-08T22:37:02Z"}
 {"name":"uv-version","vers":"0.11.13","deps":[],"cksum":"f9904a9bc46a89ee948f95010f09a27625bc41e9d86e4a763bb8e6875e5f04d6","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-05-11T01:39:17Z"}
+{"name":"uv-version","vers":"0.11.14","deps":[],"cksum":"57a01a420726330ceac1e36510ead0097cb0333bd74cc1e92b88818b29a50ff9","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-05-12T18:03:03Z"}
