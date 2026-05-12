@@ -1,0 +1,1 @@
+{"name":"dev-security","vers":"0.1.0","deps":[{"name":"dev-report","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"634323e06dee578609bf4808b1d1a873c96f63db0b9af56f61c4b9aff8aa7c1f","features":{"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-12T00:53:22Z"}
