@@ -35,3 +35,4 @@
 {"name":"speedgrep","vers":"1.3.3","deps":[],"cksum":"8f7d49c20bb069addff142d15a2f02ffab1ff74d625d4daf9916653a99e43c00","features":{},"yanked":false,"pubtime":"2026-04-11T22:22:36Z"}
 {"name":"speedgrep","vers":"1.3.4","deps":[],"cksum":"29be7bb0416b8b4dfb8a203e053a611564c4340b5b71174f203a74e0f0f0fedb","features":{},"yanked":false,"pubtime":"2026-04-13T05:07:20Z"}
 {"name":"speedgrep","vers":"1.3.5","deps":[],"cksum":"0d2dbc2ae0366d92da01134bd77e1a60e80a1d24218fb092ff28cd5817f24daa","features":{},"yanked":false,"pubtime":"2026-04-13T23:17:26Z"}
+{"name":"speedgrep","vers":"1.3.6","deps":[],"cksum":"f725b97392faa31cfc2c4ad5f3b31eae0575ea59fae286c4424893e0de5fcc62","features":{},"yanked":false,"pubtime":"2026-05-12T05:59:31Z"}
