@@ -4,3 +4,4 @@
 {"name":"perl-test-must","vers":"0.13.1","deps":[],"cksum":"d96a6cf522cea67936c82d15f479be87bc4a708266ede03bcb05d06e4805d111","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-01T09:39:03Z"}
 {"name":"perl-test-must","vers":"0.13.2","deps":[],"cksum":"6a4afa5892506b0afe248843f6583cb0b19229409495a519f994388ad160162c","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-02T22:44:30Z"}
 {"name":"perl-test-must","vers":"0.13.3","deps":[],"cksum":"047bdc717cf69ffff60a61b7e039701aaf557241bc5be7fcb6f5972a3f3c1d42","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-03T08:25:38Z"}
+{"name":"perl-test-must","vers":"0.14.0","deps":[],"cksum":"20c66b4a7e84a53b575d52c492e2ced6bc1baf78a37c5ea13a8663e2134a020f","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-12T06:15:26Z"}
