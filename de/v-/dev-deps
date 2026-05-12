@@ -1,0 +1,1 @@
+{"name":"dev-deps","vers":"0.1.0","deps":[{"name":"dev-report","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"14cb29e7b85850f115933d92c2c5b0b1277de4e34353e9d7e6c880b49cdf99cc","features":{"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-12T00:54:33Z"}
