@@ -8,3 +8,4 @@
 {"name":"hjkl-vim","vers":"0.8.0","deps":[],"cksum":"1330103dcb8c953851db827f7f5ff73e6f751256e8a60685fb0428b1ed48dec8","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-12T20:13:04Z"}
 {"name":"hjkl-vim","vers":"0.9.0","deps":[],"cksum":"10fd501fbeec1abd5b20f79a54dd3c9475b5e4b1a3fc2a22e2ff6d6a1013c844","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-12T20:49:25Z"}
 {"name":"hjkl-vim","vers":"0.10.0","deps":[],"cksum":"04f34ae512c47c11a15e645d50fb0a31992f2d4ca1aeb876fdf5a375223f522b","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-12T21:01:58Z"}
+{"name":"hjkl-vim","vers":"0.11.0","deps":[],"cksum":"28a38167dce4d5a30124808faa5ac21e17b2fe2e24e3b7ac09e9436a50c57b17","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-12T21:24:08Z"}
