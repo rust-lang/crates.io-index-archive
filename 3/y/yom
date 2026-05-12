@@ -1,1 +1,2 @@
 {"name":"yom","vers":"0.0.1","deps":[],"cksum":"21c00afc97d645c8e5735cf1c60e2c04b76b5c82d086a45c94ba83d97526ddfd","features":{},"yanked":false,"pubtime":"2026-05-02T06:01:39Z"}
+{"name":"yom","vers":"0.0.2","deps":[{"name":"shell-words","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4cf45484e605c24fe086b6808d1178c7cbdeb6d965ab8f69914ff358cdd73f55","features":{},"yanked":false,"pubtime":"2026-05-12T05:56:41Z"}
