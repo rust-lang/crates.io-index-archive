@@ -5,3 +5,4 @@
 {"name":"hjkl-vim","vers":"0.5.0","deps":[],"cksum":"24009eead2d694579b75dd0abe80a9a0d16ac362c4a27933c1bd97323b719250","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-12T19:03:50Z"}
 {"name":"hjkl-vim","vers":"0.6.0","deps":[],"cksum":"6052a68645de5603e8dbc973f63b598b97230a0e7222525e8153807c4bb6ecda","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-12T19:28:49Z"}
 {"name":"hjkl-vim","vers":"0.7.0","deps":[],"cksum":"ee14ef5c796f8f0ce9743a775c15ef4556305516125427d658a39338b179042c","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-12T19:51:45Z"}
+{"name":"hjkl-vim","vers":"0.8.0","deps":[],"cksum":"1330103dcb8c953851db827f7f5ff73e6f751256e8a60685fb0428b1ed48dec8","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-12T20:13:04Z"}
