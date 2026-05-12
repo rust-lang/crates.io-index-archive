@@ -1,0 +1,1 @@
+{"name":"regex-pool","vers":"0.1.0","deps":[],"cksum":"9810c6934bd9892cf2e398077c51ee6e324ce7953ff7facfb0510c018dd26fd9","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.65","pubtime":"2026-05-12T18:59:27Z"}
