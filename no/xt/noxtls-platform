@@ -1,0 +1,1 @@
+{"name":"noxtls-platform","vers":"0.1.1","deps":[],"cksum":"823a1c68a46ab2fcf4b795fe2aec50aa795709220983d6f374ebb2a0dd30bcf7","features":{"alloc":[],"default":["std","alloc"],"std":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-12T05:32:48Z"}
