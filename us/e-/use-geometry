@@ -1,0 +1,1 @@
+{"name":"use-geometry","vers":"0.0.1","deps":[{"name":"proptest","req":"^1.11.0","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"496ea28fdada04d1cda79f8f9cd3dbc0357e26be7ec624ea878474244db684b6","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-05-12T22:04:15Z"}
