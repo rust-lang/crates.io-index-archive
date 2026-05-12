@@ -7,3 +7,4 @@
 {"name":"cfg-iif","vers":"0.2.6","deps":[],"cksum":"068494611101e5750de5d753e8cda5e92ef34eb285c4d194e7f1dd6e88830f2d","features":{},"yanked":false,"rust_version":"1.56.0","pubtime":"2023-02-12T00:37:53Z"}
 {"name":"cfg-iif","vers":"0.2.7","deps":[],"cksum":"255dfdb83a1981beccf87f59985047a3dce3c33e7de298e20d57b4004068a7e5","features":{"has_abc":[]},"yanked":false,"rust_version":"1.56.0","pubtime":"2024-06-18T23:57:51Z"}
 {"name":"cfg-iif","vers":"0.2.8","deps":[],"cksum":"446d86d1e03436570a9669937a89e2390b721790fd52d76a0cac1ab6c2dfe4fd","features":{"has_abc":[]},"yanked":false,"rust_version":"1.60.0","pubtime":"2025-09-24T07:08:06Z"}
+{"name":"cfg-iif","vers":"0.2.9","deps":[],"cksum":"7689f7f7d03ec0e18eaa262c0447aa316f59868de891916904fb68c62f1bb11f","features":{"has_abc":[]},"yanked":false,"rust_version":"1.60.0","pubtime":"2026-05-12T01:16:39Z"}
