@@ -1,0 +1,1 @@
+{"name":"temporal-proto-runtime","vers":"0.0.1","deps":[{"name":"prost","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c801319f1a2e0c39a77966872bf30b84860d80ef9b67d25e53a880e7534a2205","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-12T16:17:41Z"}
