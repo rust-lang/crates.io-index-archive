@@ -1,0 +1,1 @@
+{"name":"nix-command","vers":"0.2.0","deps":[{"name":"thiserror","req":"^2.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ff0cd93a2c16dd28aa799f0ed0268c7b6357c22dafd5fd460349cb9ef21f4b85","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-05-13T05:52:12Z"}
