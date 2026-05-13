@@ -1,0 +1,1 @@
+{"name":"fips-endpoint","vers":"0.3.1","deps":[{"name":"fips-core","req":"^0.3.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d35b45056248b9a07db1eac12b6002df0e5a9cf5e96081e4e3fc4302e2776984","features":{},"yanked":false,"pubtime":"2026-05-13T21:12:04Z"}
