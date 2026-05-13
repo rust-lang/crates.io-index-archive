@@ -1,0 +1,1 @@
+{"name":"engram-embeddings","vers":"0.2.0","deps":[{"name":"engram-llm-client","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ddefa5a420f6dd83924e4e384aefc662d9ff5f8e15f86278fef6f9eeb44b92d0","features":{},"yanked":false,"pubtime":"2026-05-13T07:16:15Z"}
