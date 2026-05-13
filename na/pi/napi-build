@@ -29,3 +29,4 @@
 {"name":"napi-build","vers":"2.2.4","deps":[],"cksum":"3ae82775d1b06f3f07efd0666e59bbc175da8383bc372051031d7a447e94fbea","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2025-10-24T01:48:31Z"}
 {"name":"napi-build","vers":"2.3.0","deps":[],"cksum":"68064c4cf827376751236ee6785e0e38a6461f83a7a7f227c89f6256f3e96cc2","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2025-11-06T09:09:57Z"}
 {"name":"napi-build","vers":"2.3.1","deps":[],"cksum":"d376940fd5b723c6893cd1ee3f33abbfd86acb1cd1ec079f3ab04a2a3bc4d3b1","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2025-11-10T04:35:23Z"}
+{"name":"napi-build","vers":"2.3.2","deps":[],"cksum":"c9c366d2c8c60b86fa632df75f745509b52f9128f91a6bad4c796e44abb505e1","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-13T11:42:09Z"}
