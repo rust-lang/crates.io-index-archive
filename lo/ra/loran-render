@@ -1,0 +1,1 @@
+{"name":"loran-render","vers":"0.3.0","deps":[{"name":"pulldown-cmark","req":"^0.13","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"7ae39a32fc3365e892a42779211e73109b19b44243ab22ca6d303e209a065bfd","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-13T20:27:09Z"}
