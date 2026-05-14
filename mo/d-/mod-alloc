@@ -1,0 +1,1 @@
+{"name":"mod-alloc","vers":"0.9.0","deps":[],"cksum":"502d8f3f72e8bea0044ef441a6877b748f8ed41ab270a1161e890c0e97318ea2","features":{"backtraces":["std"],"counters":["std"],"default":["std","counters"],"dhat-compat":["std","backtraces"],"std":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-14T03:17:54Z"}
