@@ -1,0 +1,1 @@
+{"name":"prodex-runtime-state","vers":"0.99.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"673e5bfc8376b6cd746cb5403777e9924f4235fd81a134005ad7cc51bbf65fe4","features":{},"yanked":false,"pubtime":"2026-05-14T04:02:19Z"}
