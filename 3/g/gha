@@ -6,3 +6,4 @@
 {"name":"gha","vers":"0.1.5","deps":[],"cksum":"7cd1b738e7d3406f22906e1e217a778abd793bc5c040ce8d97f3421f52f1459f","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2024-05-27T04:01:29Z"}
 {"name":"gha","vers":"0.1.6","deps":[],"cksum":"287843485dddb37b192ad8423d122d4f97130df484a77ffec1350fa1ab6cab40","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2024-05-27T04:16:50Z"}
 {"name":"gha","vers":"0.1.7","deps":[],"cksum":"82d6ed51b0f05a389e22a3af0cd5e99aea91b76ace4997696bc584fc7fac8717","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2024-09-02T02:58:44Z"}
+{"name":"gha","vers":"0.1.8","deps":[],"cksum":"e7abbe06c19661d9232099aeba59c32dac5af387650940252efd7947afd3d0ac","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-05-14T20:34:45Z"}
