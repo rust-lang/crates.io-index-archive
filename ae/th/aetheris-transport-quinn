@@ -18,3 +18,4 @@
 {"name":"aetheris-transport-quinn","vers":"0.10.1","deps":[],"cksum":"73925496a3886f5a03e2bd57cdd4982dd82267401144403eb3fe38f47c2430b4","features":{},"yanked":false,"pubtime":"2026-04-26T14:44:49Z"}
 {"name":"aetheris-transport-quinn","vers":"0.10.2","deps":[],"cksum":"b80754a6fc05b5c8e3067c7fb25e055030befb76dc08afe9959e27794399773a","features":{},"yanked":false,"pubtime":"2026-04-26T15:12:40Z"}
 {"name":"aetheris-transport-quinn","vers":"0.11.0","deps":[],"cksum":"92b57b6b0d9dfd044a79b6a566502f3d6a48e47a4462d7087c4cba073617c72a","features":{},"yanked":false,"pubtime":"2026-05-13T11:07:52Z"}
+{"name":"aetheris-transport-quinn","vers":"0.11.1","deps":[],"cksum":"effaf8952d6b7a53dcc10af349ead7a425877788b72954237c1249e7d6d4bce6","features":{},"yanked":false,"pubtime":"2026-05-14T22:54:28Z"}
