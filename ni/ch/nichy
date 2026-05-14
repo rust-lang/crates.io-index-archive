@@ -1,0 +1,1 @@
+{"name":"nichy","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"896a010c707355097fc873294680b2ad1c06e8c0b336b7189f297fef33f279b1","features":{},"yanked":false,"pubtime":"2026-05-14T10:25:59Z"}
