@@ -12,3 +12,4 @@
 {"name":"reifydb-sql","vers":"0.4.12","deps":[],"cksum":"3578eeb3c0bf6fc3208ebe2178b07480167beb0f9f095bb0fe92f299fb0bb68f","features":{"default":[]},"yanked":false,"pubtime":"2026-04-21T13:40:57Z"}
 {"name":"reifydb-sql","vers":"0.4.13","deps":[],"cksum":"d8b5bef1caf7308de3f3a2c404184c0df5ff223e104c7ba835eb9cda6c06f6bc","features":{"default":[]},"yanked":false,"pubtime":"2026-05-01T02:11:41Z"}
 {"name":"reifydb-sql","vers":"0.5.0","deps":[],"cksum":"aff432ca9a3666c1c755af3f7cb1e1e04d2f33bfb7d01e57b4bcf04bab4bba15","features":{"default":[]},"yanked":false,"pubtime":"2026-05-11T11:50:35Z"}
+{"name":"reifydb-sql","vers":"0.5.6","deps":[],"cksum":"7030f09c96b7d8f4a385cdee716b0a00df38c7c2dde3f2bdb6ed72acbc681af9","features":{"default":[]},"yanked":false,"pubtime":"2026-05-14T10:57:28Z"}
