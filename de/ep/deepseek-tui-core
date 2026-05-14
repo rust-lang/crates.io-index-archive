@@ -39,3 +39,4 @@
 {"name":"deepseek-tui-core","vers":"0.8.34","deps":[],"cksum":"99f354567884aa271098c86e9db12e868efc96fcb3dbf053502c0341ff9403ae","features":{},"yanked":false,"pubtime":"2026-05-13T18:02:59Z"}
 {"name":"deepseek-tui-core","vers":"0.8.35","deps":[],"cksum":"9ab16c979597d35ba08f07e2921de6e2604f6ad6d729fde746e9e3ddda0a2a67","features":{},"yanked":false,"pubtime":"2026-05-14T00:27:58Z"}
 {"name":"deepseek-tui-core","vers":"0.8.36","deps":[],"cksum":"7d70ad6ae46575ceea9692a573fd1afb2653e5597e6e1b86132ddc9e3a4e9edb","features":{},"yanked":false,"pubtime":"2026-05-14T06:41:22Z"}
+{"name":"deepseek-tui-core","vers":"0.8.37","deps":[],"cksum":"e799388f2e0d4b090b067d11f2ad75b679a3a780078e694749267e56887390b8","features":{},"yanked":false,"pubtime":"2026-05-14T19:38:42Z"}
