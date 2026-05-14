@@ -1,0 +1,1 @@
+{"name":"osom_lib_numbers","vers":"0.1.1","deps":[{"name":"rstest","req":"^0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0d81029e67ca2a0c1da65bf1cf097cb28e456603d2d0c28ba435aea890a49bb8","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-14T19:00:28Z"}
