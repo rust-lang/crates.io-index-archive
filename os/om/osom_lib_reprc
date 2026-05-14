@@ -1,0 +1,1 @@
+{"name":"osom_lib_reprc","vers":"0.1.1","deps":[{"name":"priv_osom_lib_reprc_proc_macros","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ab90903eea9fa3cad2980056789dfbceb050756115b5bdcf59f288b584530f2","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-14T19:00:33Z"}
