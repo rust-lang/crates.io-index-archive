@@ -11,3 +11,4 @@
 {"name":"gistyr-lib","vers":"0.1.10","deps":[],"cksum":"cb77cd64d41ad6f53f6c2b1851dce0891bca0b7226d34f1bfa8b84d63cfc72fa","features":{},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-04-22T01:46:03Z"}
 {"name":"gistyr-lib","vers":"0.1.11","deps":[],"cksum":"4ce003385a46cae58d358814fa8ade9abf92e87f216dd2f22c22f2e4714c8da0","features":{},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-05-13T15:34:19Z"}
 {"name":"gistyr-lib","vers":"0.1.12","deps":[],"cksum":"03406c4c3f938d6156fefa16adc1a0b1495fab909c60321cd778f243f66866e3","features":{},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-05-13T15:50:53Z"}
+{"name":"gistyr-lib","vers":"0.1.13","deps":[],"cksum":"bc768f042721b08dc2b8bfed5b34eefd795e7e7bc2edd1e05d409bfdaaa80bf6","features":{},"yanked":false,"rust_version":"1.85.1","pubtime":"2026-05-14T14:40:59Z"}
