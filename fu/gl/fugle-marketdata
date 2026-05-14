@@ -1,0 +1,1 @@
+{"name":"fugle-marketdata","vers":"0.1.0","deps":[{"name":"marketdata-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"fugle-marketdata-core"}],"cksum":"3d4ea7471926e8c8322914388d6b0eb438eabda5788391e57515c91cce476d5e","features":{},"yanked":false,"pubtime":"2026-05-14T18:30:30Z"}
