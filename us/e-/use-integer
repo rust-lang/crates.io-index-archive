@@ -1,2 +1,3 @@
 {"name":"use-integer","vers":"0.0.1","deps":[],"cksum":"367d4aae4c3244c7128634c7edd06227661c879b698e4674fb8a6b7e1df72193","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-05-12T21:42:52Z"}
 {"name":"use-integer","vers":"0.0.2","deps":[],"cksum":"ba704ed6d16d45930f097e59ccf81ba109655eb3a24f45b77be87999499a87ba","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-05-15T03:25:31Z"}
+{"name":"use-integer","vers":"0.0.3","deps":[],"cksum":"ca7a17e4da4d5d0723be73edb4b686971d1b521e1c8ff97e1547997ff84a61fe","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-05-15T04:14:54Z"}
