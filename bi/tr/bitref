@@ -1,0 +1,1 @@
+{"name":"bitref","vers":"0.0.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0a19771a05cac3868d0ca8dfd3ac058a9d30a789fb336fdc0ab8625881d4af62","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-15T18:02:37Z"}
