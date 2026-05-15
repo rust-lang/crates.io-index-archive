@@ -12,3 +12,4 @@
 {"name":"auralis-signal","vers":"0.1.11","deps":[],"cksum":"884f25f4b9932290c1b228f1424570adae49d5c9a44744825d69dfdc24eaa903","features":{"default":[],"diagnostics":[]},"yanked":false,"rust_version":"1.80","pubtime":"2026-05-14T14:46:35Z"}
 {"name":"auralis-signal","vers":"0.1.12","deps":[],"cksum":"801d6f635842806503720cf6ab353b33bde768895bf805285462a9547eb3703f","features":{"default":[],"diagnostics":[]},"yanked":false,"rust_version":"1.80","pubtime":"2026-05-15T02:11:39Z"}
 {"name":"auralis-signal","vers":"0.1.13","deps":[],"cksum":"0862c11fdc23af4f3729bfcf74495009454836ed9cf43c572ff25d452db4352c","features":{"default":[],"diagnostics":[]},"yanked":false,"rust_version":"1.80","pubtime":"2026-05-15T03:06:20Z"}
+{"name":"auralis-signal","vers":"0.1.14","deps":[],"cksum":"05ca720f43afa9d8cb4f8ef5cbc66720c5086efa766a793065e9a6ee623b58eb","features":{"default":[],"diagnostics":[]},"yanked":false,"rust_version":"1.80","pubtime":"2026-05-15T16:27:13Z"}
