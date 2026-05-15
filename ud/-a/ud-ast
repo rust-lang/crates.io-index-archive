@@ -1,0 +1,1 @@
+{"name":"ud-ast","vers":"0.1.1","deps":[{"name":"ud-arch-x86","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d79a79d1c1c29f4de6d7dc1a7c6512c520dfe73d578609741b144c4f66810006","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-15T20:30:07Z"}
