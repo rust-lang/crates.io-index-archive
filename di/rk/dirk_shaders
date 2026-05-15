@@ -1,0 +1,1 @@
+{"name":"dirk_shaders","vers":"0.1.0-alpha-1","deps":[{"name":"shaderc","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"e386b58980d43305594cf0c463abec37616e72729371ba0cc1d2bb8e10406eab","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-05-15T18:07:14Z"}
