@@ -1,0 +1,1 @@
+{"name":"ud-core","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0a7874ee7332206e5cf871bfedebdf8d08ced28c58444964634049cdc7ec517e","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-15T05:01:06Z"}
