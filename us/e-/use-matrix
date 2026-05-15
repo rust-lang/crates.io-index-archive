@@ -1,0 +1,1 @@
+{"name":"use-matrix","vers":"0.0.3","deps":[{"name":"use-vector","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9e89db13d56f71a23d59f42bdcd3ceedac7ec451572e498c523e867b4a8ffcdb","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-05-15T05:47:38Z"}
