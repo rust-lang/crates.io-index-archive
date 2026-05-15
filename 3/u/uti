@@ -1,0 +1,1 @@
+{"name":"uti","vers":"0.1.0","deps":[{"name":"regex-lite","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"98a155f48ab26a7e0a70d41a8fc465c92bb35b12164ccdd7232450daabf29754","features":{},"yanked":false,"rust_version":"1.76","pubtime":"2026-05-15T18:00:36Z"}
