@@ -2,3 +2,4 @@
 {"name":"publish-demo3334","vers":"0.1.1","deps":[],"cksum":"1b08ecad9014f370c6e7188084709a1a400ceae94e54696568c211a6f6659a52","features":{},"yanked":false,"pubtime":"2025-10-13T12:21:25Z"}
 {"name":"publish-demo3334","vers":"0.1.2","deps":[],"cksum":"144c8553ee1aa02f34fb4f95a4319a9ed32f52999b2a00def5648aa66f8e58c4","features":{},"yanked":false,"pubtime":"2025-10-13T13:39:05Z"}
 {"name":"publish-demo3334","vers":"0.1.3","deps":[],"cksum":"df1a431a8cf2bbaa884abfc5673a9ddf5c92c19dbc281ac498a13f555874580c","features":{},"yanked":false,"pubtime":"2026-05-14T06:34:08Z"}
+{"name":"publish-demo3334","vers":"0.1.4","deps":[{"name":"gpui","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1591341b113ee5d3fd48a0b3b63a952fad79c887dc56c9088251699cd1ca7725","features":{},"yanked":false,"pubtime":"2026-05-15T07:18:43Z"}
