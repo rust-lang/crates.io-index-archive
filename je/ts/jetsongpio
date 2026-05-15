@@ -1,1 +1,2 @@
 {"name":"jetsongpio","vers":"0.1.0","deps":[],"cksum":"8b5323cc209a9eb8af25acf6d209582acbb8f4a943bb9f4d8128661b951e8fd2","features":{},"yanked":false,"pubtime":"2026-05-14T13:52:31Z"}
+{"name":"jetsongpio","vers":"0.1.1","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"69fcd1c8a7d8189ad0dbee3a1887de95e59cc7fd961e2167667b29d051ee8513","features":{},"yanked":false,"pubtime":"2026-05-15T02:11:40Z"}
