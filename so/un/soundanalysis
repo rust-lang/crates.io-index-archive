@@ -1,0 +1,1 @@
+{"name":"soundanalysis","vers":"0.1.0","deps":[{"name":"regex-lite","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"da5e526359ed9564831c3ee9e623ef867dddee82d3b9108474234c79ec3bf67f","features":{"analyze_file":[],"default":["analyze_file"]},"yanked":false,"rust_version":"1.76","pubtime":"2026-05-15T17:46:14Z"}
