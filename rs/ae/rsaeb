@@ -3,3 +3,4 @@
 {"name":"rsaeb","vers":"0.3.0","deps":[],"cksum":"aceb93245a811c6a05d02b1bfc527f0a1c7f8bf4b2e92f2734a030e934da8bd9","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-05-09T22:04:52Z"}
 {"name":"rsaeb","vers":"0.4.0","deps":[],"cksum":"2ca3ca3d42bbbe83efa3db55a1f72c172caac29735e5046babf53170ca228ebb","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-05-10T07:06:21Z"}
 {"name":"rsaeb","vers":"0.4.1","deps":[],"cksum":"e0192026ddea04c5d62e82d7a74456396c6567320fc83f4810178eaef6ae71c0","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-05-10T14:17:15Z"}
+{"name":"rsaeb","vers":"0.5.0","deps":[],"cksum":"3c80e2ab037348e303817d19b66a6f7005054a66df7ae3f1551f987319747d61","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-05-15T10:08:38Z"}
