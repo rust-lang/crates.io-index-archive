@@ -1,0 +1,1 @@
+{"name":"truce-rack-test","vers":"0.9.0","deps":[{"name":"truce-rack-core","req":"^0.9.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"358f9d65369acf8d507366f52b60fa373283528784b8850266f84d10b6e614ab","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-05-15T08:05:47Z"}
