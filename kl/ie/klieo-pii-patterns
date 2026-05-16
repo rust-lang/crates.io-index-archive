@@ -1,0 +1,1 @@
+{"name":"klieo-pii-patterns","vers":"0.3.0","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"076c5be3383e17ba4914dace9148e061c048f86dd8bf5b5ba6c4bab04357094f","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2026-05-16T00:27:11Z"}
