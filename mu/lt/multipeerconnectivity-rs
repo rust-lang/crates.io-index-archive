@@ -1,0 +1,1 @@
+{"name":"multipeerconnectivity-rs","vers":"0.2.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ce3c60a0cde48375325af52478ca68bbecb7b9bd110ed6c4dacf7a6f6048dbf","features":{},"yanked":false,"rust_version":"1.76","pubtime":"2026-05-16T20:03:42Z"}
