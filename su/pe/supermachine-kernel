@@ -45,3 +45,4 @@
 {"name":"supermachine-kernel","vers":"0.7.1","deps":[],"cksum":"f3de463a5505c3e045a493d63b641d60845130504623d0f38420e3749e26cb78","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-16T09:19:06Z"}
 {"name":"supermachine-kernel","vers":"0.7.2","deps":[],"cksum":"2f4ff73282d5c873078cbf5bd2c396ba8c325c5db720f97866d31f864ba977e4","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-16T09:56:54Z"}
 {"name":"supermachine-kernel","vers":"0.7.3","deps":[],"cksum":"acb7b4553c6ec30e77fa72de95b50e6974be01814820c8c0407f6c097f21e57b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-16T10:35:47Z"}
+{"name":"supermachine-kernel","vers":"0.7.4","deps":[],"cksum":"4542db33e7662615cdb7da874f8eec5627cda977940208cd95ac6a1c00fcfb1d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-16T11:06:36Z"}
