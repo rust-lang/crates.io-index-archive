@@ -1,0 +1,1 @@
+{"name":"cellos","vers":"0.5.0","deps":[{"name":"cellos-ctl","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0de6e53e52d2214c53da4b0d5d0cffbffab1ec6c2defd7bc40c8b15eac0b2deb","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-17T01:07:11Z"}
