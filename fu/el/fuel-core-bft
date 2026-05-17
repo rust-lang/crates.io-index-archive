@@ -111,3 +111,4 @@
 {"name":"fuel-core-bft","vers":"0.48.0","deps":[],"cksum":"9e1d774b9af527c965502eca46e46b624e1b68a6bb14f672d0f1ce1c3844f9d9","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-04-01T14:42:19Z"}
 {"name":"fuel-core-bft","vers":"0.47.4","deps":[],"cksum":"2ec50250558dc2fcab2bc70a39d28ca6bfb92e9029ed06b65b8fe7d1d02b110d","features":{},"yanked":false,"rust_version":"1.90.0","pubtime":"2026-04-17T23:20:53Z"}
 {"name":"fuel-core-bft","vers":"0.48.1","deps":[],"cksum":"8ccf361f75edf49dca81ac3a0d3cfa2c625e4d71f606cadbd968097eb73ac966","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-04-30T02:54:16Z"}
+{"name":"fuel-core-bft","vers":"0.48.2","deps":[],"cksum":"e6bfd8686c97341677b1e9464531596c3f4e36b1c391ef999c8e22dda796378b","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-05-17T19:08:53Z"}
