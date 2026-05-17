@@ -33,3 +33,4 @@
 {"name":"truce-shim-types","vers":"0.40.2","deps":[],"cksum":"6702481c5ae57d05f5c28a414d48e37551c2f01b6dd560b933368a9b80688f37","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-05-14T10:38:14Z"}
 {"name":"truce-shim-types","vers":"0.41.0","deps":[],"cksum":"cacf40b14349222a47aad6bb174e382f2582e9897ec6fb121d2a921d69138752","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-05-15T10:29:15Z"}
 {"name":"truce-shim-types","vers":"0.42.0","deps":[],"cksum":"0c0819587612b88447aacdab316f8c82e46c5caae19b6575e416d167c3c6aef1","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-05-16T21:26:46Z"}
+{"name":"truce-shim-types","vers":"0.42.1","deps":[],"cksum":"a30ed729823a4d1027fc10eabba379f8faec8716be54ff56f7f5614962b27a20","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-05-17T09:17:22Z"}
