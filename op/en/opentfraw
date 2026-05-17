@@ -1,0 +1,1 @@
+{"name":"opentfraw","vers":"1.0.0","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e736a8e88067cd4cdda3d423ae0180de23af160e2d6ddfdf13a31c5db5a57f1d","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-17T02:09:15Z"}
