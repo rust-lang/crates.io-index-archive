@@ -1,2 +1,3 @@
 {"name":"openwraw","vers":"1.0.0","deps":[],"cksum":"ce1a498eae0c5b562d72c8f4a8a76530ce2c33bb47134caede97011f315502ec","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-17T02:09:29Z"}
 {"name":"openwraw","vers":"1.0.1","deps":[],"cksum":"f48f42e4bc1e7a72526afed159142a4b8741ade3cc9c950a50d7ce259691fcfe","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-17T03:03:11Z"}
+{"name":"openwraw","vers":"1.0.2","deps":[],"cksum":"9272a98368a70850b62c5348daef59824e413af1e263f95e0a691a07414df679","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-17T03:25:56Z"}
