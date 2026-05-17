@@ -1,0 +1,1 @@
+{"name":"osom_lib_try_clone","vers":"0.1.1","deps":[{"name":"rstest","req":"^0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d77a8bbd6ad0782578c84ab82d2350ea104563d5e565760d381762ca75224ac9","features":{"default":[]},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-17T13:11:48Z"}
