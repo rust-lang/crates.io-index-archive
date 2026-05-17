@@ -1,0 +1,1 @@
+{"name":"linguini-format","vers":"0.1.0-alpha.1","deps":[{"name":"linguini-syntax","req":"^0.1.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a340d9bd4a4a5ee5ad4f78466b0b9fb031d843e874616ba3c3a22afa9d52d9c","features":{},"yanked":false,"rust_version":"1.76","pubtime":"2026-05-17T15:04:19Z"}
