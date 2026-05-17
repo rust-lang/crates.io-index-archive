@@ -1,0 +1,1 @@
+{"name":"linguini-ir","vers":"0.1.0-alpha.1","deps":[{"name":"linguini-syntax","req":"^0.1.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5b818e0917be552ec4cc8b456f5620954de126aa4fbc7927d1446da560e55471","features":{},"yanked":false,"rust_version":"1.76","pubtime":"2026-05-17T15:16:53Z"}
