@@ -1,0 +1,1 @@
+{"name":"linguini-cldr","vers":"0.1.0-alpha.1","deps":[{"name":"serde_json","req":"^1.0.149","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4b988cacb5520ff531de918917828243d44f0d7dd3251955e5705f71346c1d8b","features":{},"yanked":false,"rust_version":"1.76","pubtime":"2026-05-17T15:04:13Z"}
