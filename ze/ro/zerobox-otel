@@ -1,0 +1,1 @@
+{"name":"zerobox-otel","vers":"0.3.1","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2da4e5dc728878aad1b3433870244ccdeeb6debe68fd020d6da8bcec98ff96e1","features":{},"yanked":false,"pubtime":"2026-05-17T19:16:05Z"}
