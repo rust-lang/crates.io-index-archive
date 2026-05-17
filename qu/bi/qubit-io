@@ -2,3 +2,4 @@
 {"name":"qubit-io","vers":"0.1.1","deps":[],"cksum":"0b246962577f68a58719a4fa44fae893b457b4518d9e6a0e4c3ddbf7ba97511b","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-05-12T08:51:14Z"}
 {"name":"qubit-io","vers":"0.1.2","deps":[],"cksum":"778821e2bc293e985f57f78885ffc6dc8c7edc7854d28c00e813936e297758ce","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-05-13T15:40:02Z"}
 {"name":"qubit-io","vers":"0.1.3","deps":[],"cksum":"ed3e06ce400c9940cc6dab188c571ce9ae0f2c99eef15d7c8bbf775e26b64d6a","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-05-16T07:53:18Z"}
+{"name":"qubit-io","vers":"0.1.4","deps":[],"cksum":"fa2c1ee9ffdd63e79bbd41fefeaba0ceeec50a65d713c96dbd4417b3033f38ff","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-05-17T09:58:37Z"}
