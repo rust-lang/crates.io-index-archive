@@ -1,0 +1,1 @@
+{"name":"hypersync-solana-schema","vers":"0.0.1","deps":[{"name":"arrow","req":"^57","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"119e99950b9004cc23e319d2e8f2ea6393ba1dd56f855e1caf54a675a6f96ace","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-18T15:17:01Z"}
