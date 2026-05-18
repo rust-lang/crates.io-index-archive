@@ -1,0 +1,1 @@
+{"name":"unsafe-review-cli","vers":"0.1.0","deps":[{"name":"unsafe-review-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87e03614214ee9f2543f4d58184297ba93a4e6c73238bab9bcaa4a230552c5db","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-18T20:38:08Z"}
