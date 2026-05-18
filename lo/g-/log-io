@@ -1,0 +1,1 @@
+{"name":"log-io","vers":"0.9.0","deps":[],"cksum":"9ebacb07bb036b4d76e383a3c8ce37552e83abb04b04407a6e5ffe5e8081d000","features":{"default":["std","json","logfmt","human"],"human":["std"],"json":[],"logfmt":[],"std":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-18T22:35:52Z"}
