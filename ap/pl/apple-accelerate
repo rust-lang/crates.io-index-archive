@@ -1,3 +1,4 @@
 {"name":"apple-accelerate","vers":"0.1.0","deps":[],"cksum":"c967412663a7c32ab28471a84573375faabb86463a79911f3c3dc569f0505b2b","features":{},"yanked":false,"rust_version":"1.76","pubtime":"2026-05-16T13:34:34Z"}
 {"name":"apple-accelerate","vers":"0.2.0","deps":[],"cksum":"35c40d5032bbe16efa353c2c54d34a7bb420935b89e383a0d3aefa03c6baf548","features":{"default":[],"raw-ffi":[]},"yanked":false,"rust_version":"1.76","pubtime":"2026-05-16T19:55:01Z"}
 {"name":"apple-accelerate","vers":"0.2.1","deps":[],"cksum":"3f57bf2b184b61e34f5c685afdda187b8746ecd532e1e3837098dd3e338d60fa","features":{"default":[],"raw-ffi":[]},"yanked":false,"rust_version":"1.76","pubtime":"2026-05-16T23:48:09Z"}
+{"name":"apple-accelerate","vers":"0.2.4","deps":[],"cksum":"b1c0229e33eab7572e8960e955a8bc99eb5c657be5ca9ca4ee7ba253494c16b3","features":{"default":[],"raw-ffi":[]},"yanked":false,"rust_version":"1.76","pubtime":"2026-05-18T14:41:52Z"}
