@@ -15,3 +15,4 @@
 {"name":"libpetri-event","vers":"2.0.0","deps":[],"cksum":"cace03f9de32a765c017480dcfa6aa7882551b9011b4ccb36db57060d1d40fe7","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-18T10:05:47Z"}
 {"name":"libpetri-event","vers":"2.1.0","deps":[],"cksum":"eafd5fa39c58e270df5fc3c8c56a9e3a3630f69a63db3c0228270e97e262db54","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-19T06:24:00Z"}
 {"name":"libpetri-event","vers":"2.3.0","deps":[],"cksum":"65fb7e47c30f51abd2c31b1675b61a4b050f341a385a4db913fd6c04a0192c85","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-19T14:33:56Z"}
+{"name":"libpetri-event","vers":"2.3.1","deps":[],"cksum":"172ce47e7d155507e3c6b0216d1ab8751a08ecfbacd73cd9e791335eba3d9985","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-19T19:02:55Z"}
