@@ -1,2 +1,3 @@
 {"name":"hjkl-layout","vers":"0.3.0","deps":[],"cksum":"5fb3b0c0f2194935bd74f62c97e4dd54a6bb5055c19e50486a768fa8a1b9edc2","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-18T02:50:49Z"}
 {"name":"hjkl-layout","vers":"0.25.0","deps":[],"cksum":"4490a8b91f7547da1c8d2c284c73983eed2eedce63dbc3f67b15ff9ceda050a3","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-18T05:59:02Z"}
+{"name":"hjkl-layout","vers":"0.25.1","deps":[],"cksum":"495f1b04725d55cbe39eb1b278268c9ff6d2e0d1c17e340e481115f13e221045","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-19T03:39:41Z"}
