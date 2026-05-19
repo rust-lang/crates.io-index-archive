@@ -1,1 +1,2 @@
 {"name":"pipe-io","vers":"0.1.0","deps":[],"cksum":"0c654e9dbb029faa310efa05367d87dfe21988ec16a23d5fedd535576e421ca1","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-19T04:41:44Z"}
+{"name":"pipe-io","vers":"0.3.0","deps":[],"cksum":"db51c639797cf62ba4d1c287750472d4cc165973e6ceac45a25c5c707b2f1dd1","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-19T05:22:11Z"}
