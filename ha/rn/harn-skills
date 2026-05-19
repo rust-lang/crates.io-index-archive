@@ -1,1 +1,2 @@
 {"name":"harn-skills","vers":"0.8.25","deps":[],"cksum":"7e9e195500c79923c797c825d628e570b9c000ba43b9e1f09e12deee8dad0dcf","features":{},"yanked":false,"pubtime":"2026-05-18T00:17:15Z"}
+{"name":"harn-skills","vers":"0.8.26","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5d05cea830925a178dd5874479607ad22a4042f77bcebfcc8def0b79808f07d0","features":{},"yanked":false,"pubtime":"2026-05-19T01:47:58Z"}
