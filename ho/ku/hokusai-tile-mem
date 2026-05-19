@@ -1,0 +1,1 @@
+{"name":"hokusai-tile-mem","vers":"0.0.1","deps":[{"name":"hokusai-core","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1bc284e5524ef04e3dc27d7090ac616d35f83c580add6e3ecb5ff2868e15ef0f","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-19T06:49:10Z"}
