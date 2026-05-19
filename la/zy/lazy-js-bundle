@@ -24,3 +24,4 @@
 {"name":"lazy-js-bundle","vers":"0.7.7","deps":[],"cksum":"76317b9348f1c069d7e652722c3fa86683ec047ba4c1551bde1daa576ce3807e","features":{},"yanked":false,"pubtime":"2026-05-01T00:53:10Z"}
 {"name":"lazy-js-bundle","vers":"0.7.8","deps":[],"cksum":"b1cac47846c469ff1ceb2fc44f9d87434cc31cbc56a300a733c9a131279c1983","features":{},"yanked":false,"pubtime":"2026-05-07T22:25:24Z"}
 {"name":"lazy-js-bundle","vers":"0.7.9","deps":[],"cksum":"ccafada6c9541db44db758619236f2748f6e1bdaa84d04ded858567cd1e89321","features":{},"yanked":false,"pubtime":"2026-05-08T00:06:07Z"}
+{"name":"lazy-js-bundle","vers":"0.8.0-alpha.0","deps":[],"cksum":"295ca807f3f90313c8aa505c657105c155ee74c9c8ee14ef99e51e1a433593cb","features":{},"yanked":false,"pubtime":"2026-05-19T19:46:58Z"}
