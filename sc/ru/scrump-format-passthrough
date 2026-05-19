@@ -1,0 +1,1 @@
+{"name":"scrump-format-passthrough","vers":"0.1.0","deps":[{"name":"scrump-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3aab9c0ce3d6ffe13e2659da4ff1c74f50d009405e5cc42cd69f1e85e2b5c48f","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-19T16:10:25Z"}
