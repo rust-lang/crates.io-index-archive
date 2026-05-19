@@ -4,3 +4,4 @@
 {"name":"pkecs_core","vers":"2.0.0","deps":[],"cksum":"5c343d916d6444fcc471e6d2bdb3c504eff2f70e0724ed0aea6905dfdae5144e","features":{},"yanked":false,"pubtime":"2026-05-03T03:12:47Z"}
 {"name":"pkecs_core","vers":"3.0.0","deps":[],"cksum":"0a58c113dd8eec71c5f8ad93a6198fc54b416ef98dfa8791a7134137d373b475","features":{},"yanked":false,"pubtime":"2026-05-03T17:39:35Z"}
 {"name":"pkecs_core","vers":"4.0.0","deps":[],"cksum":"7cb85b72f01ff61cef11855015cfbd111bd02c6b2cd03206ea71f5e6f246475b","features":{},"yanked":false,"pubtime":"2026-05-17T03:32:13Z"}
+{"name":"pkecs_core","vers":"6.0.0","deps":[],"cksum":"9101b51bd031e0113c5a0b1d00e5ddbf7d1d773fe048c37d1a41d03278d6340b","features":{},"yanked":false,"pubtime":"2026-05-19T23:31:19Z"}
