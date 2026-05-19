@@ -1,0 +1,1 @@
+{"name":"hokusai-core","vers":"0.0.1","deps":[{"name":"thiserror","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f97c5b4d5d4f455cd46a2c3d8d730ecbcfac25dfdc529860faf079e3161a1f80","features":{"default":["std"],"spectral":[],"std":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-19T06:49:06Z"}
