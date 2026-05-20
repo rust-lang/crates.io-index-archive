@@ -10,3 +10,4 @@
 {"name":"blake2ya","vers":"1.0.3","deps":[],"cksum":"97fadf78cc6d71517e512fc847b1c6fb38a1db6b8c0b161c741fb793928484d4","features":{},"yanked":false,"pubtime":"2026-05-07T03:32:53Z"}
 {"name":"blake2ya","vers":"1.0.4","deps":[],"cksum":"1a07a0b2c2ff5857589a84b6ccb7059e536d9bdf5369a9952c138238f81b2c79","features":{},"yanked":false,"pubtime":"2026-05-08T12:46:35Z"}
 {"name":"blake2ya","vers":"1.0.5","deps":[],"cksum":"defe04233d75298ffaabb02d8d085e8a11afe485461fe19f6178a0d3692b68a2","features":{},"yanked":false,"pubtime":"2026-05-19T09:23:06Z"}
+{"name":"blake2ya","vers":"1.0.6","deps":[],"cksum":"ba12dbf437a25fe57415ab233f61b46bc0c2bf45d403f8502e69a79c9b68741d","features":{},"yanked":false,"pubtime":"2026-05-20T01:26:22Z"}
