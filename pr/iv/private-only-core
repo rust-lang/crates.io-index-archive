@@ -11,3 +11,4 @@
 {"name":"private-only-core","vers":"0.2.0-dev.20260519.2318","deps":[],"cksum":"b0175ddf303aed29c161ff2ba39933e0fe9661603c0790dc26c226f90793897d","features":{},"yanked":false,"pubtime":"2026-05-20T06:19:21Z"}
 {"name":"private-only-core","vers":"0.2.0-alpha.20260520.1","deps":[],"cksum":"1ee9bec1ecd0444a39f31e06f58553b6608260560e336c127d20896fd40d5364","features":{},"yanked":false,"pubtime":"2026-05-20T18:20:48Z"}
 {"name":"private-only-core","vers":"0.2.0-beta.20260520.1312","deps":[],"cksum":"2d71d3684c39acd5e4ce9de7961ef80480057250e8d04c16d3ba1ee267eb804d","features":{},"yanked":false,"pubtime":"2026-05-20T20:13:13Z"}
+{"name":"private-only-core","vers":"0.2.0-beta.20260520.1331","deps":[],"cksum":"c8c79b7c64e736ab0d6262d9b7786f86549914c9953746f8a48ad70fae14a68b","features":{},"yanked":false,"pubtime":"2026-05-20T20:32:15Z"}
