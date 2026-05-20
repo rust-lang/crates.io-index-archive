@@ -90,3 +90,4 @@
 {"name":"vim-line","vers":"7.4.0","deps":[],"cksum":"d8f8991b709934c54fbb3cba5235ee22561c5207b4cf5e5ba6d864dad1d0771b","features":{},"yanked":false,"pubtime":"2026-05-14T15:52:23Z"}
 {"name":"vim-line","vers":"7.4.1","deps":[],"cksum":"d25b23577b46b9afc9137fd2c293dfd6fea41393b57450d7082e1d1b081f2434","features":{},"yanked":false,"pubtime":"2026-05-19T00:26:12Z"}
 {"name":"vim-line","vers":"7.4.2","deps":[],"cksum":"6c328b352c8837904012db12f90d9ae892916776282576a27b7444e8ddbcc6b5","features":{},"yanked":false,"pubtime":"2026-05-20T15:15:35Z"}
+{"name":"vim-line","vers":"7.4.3","deps":[],"cksum":"90a2af2bc01616dc973cb83c8a3a9e279bf9a2fbd6b96792437d6093f9c43b9d","features":{},"yanked":false,"pubtime":"2026-05-20T17:46:53Z"}
