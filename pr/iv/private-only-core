@@ -18,3 +18,4 @@
 {"name":"private-only-core","vers":"0.2.0-rc.4","deps":[],"cksum":"1bf68eaed71a7666a92c4b42192756e89510c4ef07227b3038ea819092286a18","features":{},"yanked":false,"pubtime":"2026-05-20T21:55:17Z"}
 {"name":"private-only-core","vers":"0.2.0-alpha.20260520.3","deps":[],"cksum":"3165218152d9dc5f26772f7f2c190eae3f53c25f2f383c17b911fb0d8b15b29c","features":{},"yanked":false,"pubtime":"2026-05-20T22:22:50Z"}
 {"name":"private-only-core","vers":"0.2.0-rc.5","deps":[],"cksum":"df6cd84aaf4b2327601897ec07215d5640632d319c9ee0b69abb58d59bb3495e","features":{},"yanked":false,"pubtime":"2026-05-20T22:24:19Z"}
+{"name":"private-only-core","vers":"0.2.0-beta.20260520.1545","deps":[],"cksum":"b7dbf277e7359545c9d59e8d216081fbb90788c61363d7b5c5b38be2bf6c4768","features":{},"yanked":false,"pubtime":"2026-05-20T22:46:45Z"}
