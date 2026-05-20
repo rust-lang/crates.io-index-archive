@@ -22,3 +22,4 @@
 {"name":"mdream","vers":"1.1.0","deps":[],"cksum":"901269f271f4afceb9d0ecab35b81c83a9a7fab4be5f9b26a12057f4a22ffb9b","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-22T10:21:49Z"}
 {"name":"mdream","vers":"1.1.1","deps":[],"cksum":"2197137cad3956765616b688a44abd4f81f74d83edde6c94e29aec230bf8fdca","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-17T14:49:45Z"}
 {"name":"mdream","vers":"1.1.2","deps":[],"cksum":"1d9c790c917e88aaff738412dfefe2ff4dcbf7cfda9ddc96ddd8ddcf9cda2518","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-18T09:56:36Z"}
+{"name":"mdream","vers":"1.2.0","deps":[],"cksum":"1c042df9c187e717a69cd58994eb3f9faed7318d86779ad111e04feb65fa3730","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-05-20T06:11:30Z"}
