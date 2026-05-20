@@ -1,0 +1,1 @@
+{"name":"bmux_codec","vers":"0.0.1-alpha.0","deps":[{"name":"serde","req":"^1.0.219","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"6aad33f186aa2c830494000c371cc2e70b0c070afe08c43ee5fb394fa8bc0f7f","features":{"default":[],"fail-on-warnings":[]},"yanked":false,"pubtime":"2026-05-20T03:49:53Z"}
