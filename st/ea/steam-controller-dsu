@@ -1,0 +1,1 @@
+{"name":"steam-controller-dsu","vers":"0.1.0","deps":[{"name":"scdsu-cli","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5fcd67d49d5d3611a4859b32b6051979afc20fab4c21b25ba83840fa101107d1","features":{},"yanked":false,"pubtime":"2026-05-20T04:33:40Z"}
