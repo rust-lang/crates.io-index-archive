@@ -1,0 +1,1 @@
+{"name":"id-forge","vers":"0.9.0","deps":[],"cksum":"c0c90547e583901ad685ebaa90dd2393efc27e319671cdfaec298d2103dd99ba","features":{"default":["std","uuid","ulid","snowflake","nanoid"],"nanoid":["std"],"snowflake":["std"],"std":[],"ulid":["std"],"uuid":["std"]},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-20T13:38:50Z"}
