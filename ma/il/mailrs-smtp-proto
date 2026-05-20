@@ -1,0 +1,1 @@
+{"name":"mailrs-smtp-proto","vers":"1.0.0","deps":[{"name":"base64","req":"^0.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64553aeb4ef21a0058f912fdad656f90c2f91da2b33ee2c66981184af54c8ae0","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-20T01:32:50Z"}
