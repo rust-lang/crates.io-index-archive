@@ -1,0 +1,1 @@
+{"name":"cljrs-vcs","vers":"0.1.53","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d10e2e329b614a3d5a2987db55f548a8dcba903984d41081fd22bd7d736c6abe","features":{},"yanked":false,"pubtime":"2026-05-20T03:00:31Z"}
