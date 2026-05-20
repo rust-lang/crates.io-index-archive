@@ -11,3 +11,4 @@
 {"name":"regulus","vers":"0.0.11","deps":[],"cksum":"4092f202ecf21a326c89818c786fc15155d62b64c65505d7b3d5601134fc079d","features":{"default":[]},"yanked":false,"pubtime":"2025-08-25T20:43:41Z"}
 {"name":"regulus","vers":"0.0.12","deps":[],"cksum":"4187201ab2133d340af832eb0f9fd074cfd41d46bc68f2468b25d4eadf41574a","features":{"default":[]},"yanked":false,"pubtime":"2025-09-02T19:53:53Z"}
 {"name":"regulus","vers":"0.0.13","deps":[],"cksum":"6c83954eddaa2da1346761d0226137ffce6bf46563d6a2ce270da8565c632113","features":{"default":[]},"yanked":false,"pubtime":"2025-09-20T21:27:33Z"}
+{"name":"regulus","vers":"0.0.14","deps":[],"cksum":"2ac2f71537ef5eb5d6f7c0a4968cc931dad3bfb0f92b69cc805d957ea89cf72e","features":{"default":[]},"yanked":false,"pubtime":"2026-05-20T17:55:16Z"}
