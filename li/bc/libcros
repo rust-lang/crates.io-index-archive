@@ -13,3 +13,4 @@
 {"name":"libcros","vers":"0.6.3","deps":[],"cksum":"95cdb7887e2dc6bb36d897b6919950b562c74339c2dc8aa8607563d5ede599e0","features":{"example":[],"tlcl":[],"tpm1_2":[],"tpm2_0":[]},"yanked":false,"pubtime":"2026-04-30T17:34:46Z"}
 {"name":"libcros","vers":"0.6.4","deps":[],"cksum":"8e325d1b1f657165970dd602fdf0d5f7ead490fd6905e8e9b2878bfca70b1000","features":{"example":[],"tlcl":[],"tpm1_2":[],"tpm2_0":[]},"yanked":false,"pubtime":"2026-05-06T12:56:40Z"}
 {"name":"libcros","vers":"0.6.5","deps":[],"cksum":"8c5bf28a4cc63862424378a30d878ac116e3394f86b27567a166841b7e3d0a8e","features":{"example":[],"tlcl":[],"tpm1_2":[],"tpm2_0":[]},"yanked":false,"pubtime":"2026-05-13T14:25:00Z"}
+{"name":"libcros","vers":"0.6.6","deps":[],"cksum":"6dd0db50b7b044fcaedb72f159eb873fa469d0b6ad9717e5d85cb8a6e482a7cc","features":{"example":[],"tlcl":[],"tpm1_2":[],"tpm2_0":[]},"yanked":false,"pubtime":"2026-05-21T14:51:15Z"}
