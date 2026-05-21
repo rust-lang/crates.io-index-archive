@@ -31,3 +31,4 @@
 {"name":"wasmtime-internal-slab","vers":"36.0.7","deps":[],"cksum":"ba6171aac3d66e4d69e50080bb6bc5205de2283513984a4118a93cb66dc02994","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-04-09T16:02:16Z"}
 {"name":"wasmtime-internal-slab","vers":"36.0.8","deps":[],"cksum":"289bfa4fbb43f406f36166737f1f25522c215ef2ef11f98423089a6a7590a3d1","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-04-30T16:24:36Z"}
 {"name":"wasmtime-internal-slab","vers":"36.0.9","deps":[],"cksum":"aab4df5a04752106e1ecef9d40145ef28fa033b0d5dd3c839c9b208b2d522183","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-05-05T16:41:22Z"}
+{"name":"wasmtime-internal-slab","vers":"36.0.10","deps":[],"cksum":"7b28104d57b5bdb5d8facb3a8418463ec6c2cb40bb4adf9833b727ebf6a254eb","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-05-21T19:03:02Z"}
