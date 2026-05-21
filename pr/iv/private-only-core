@@ -22,3 +22,4 @@
 {"name":"private-only-core","vers":"0.3.0-rc.1","deps":[],"cksum":"8bd03a7162c47eca7322d822cd3ee40b5356e5c8fee22c6829529234d1b26ae5","features":{},"yanked":false,"pubtime":"2026-05-21T00:00:47Z"}
 {"name":"private-only-core","vers":"0.3.0-beta.20260520.1720","deps":[],"cksum":"43b9b2da53510317749513fe80d0a66a2a3c023378b89c3badc14815beeefb94","features":{},"yanked":false,"pubtime":"2026-05-21T00:21:02Z"}
 {"name":"private-only-core","vers":"0.3.0-rc.2","deps":[],"cksum":"a8520e1f6bcb574ec511d6640a11a0b211e69bc30e2492e8a7a6c1fd0d99dd1c","features":{},"yanked":false,"pubtime":"2026-05-21T00:36:46Z"}
+{"name":"private-only-core","vers":"0.3.0-rc.3","deps":[],"cksum":"36c70f035ac73b523580f5926b34593638c3d967316a0e47e25525d88653157d","features":{},"yanked":false,"pubtime":"2026-05-21T00:43:42Z"}
