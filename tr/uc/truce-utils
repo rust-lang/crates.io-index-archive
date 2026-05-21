@@ -27,3 +27,4 @@
 {"name":"truce-utils","vers":"0.46.0","deps":[],"cksum":"4e7d762d7bb972e5de1825f3ad50f3db06619def8e069b5f7be67d43cea281ab","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-05-20T20:59:25Z"}
 {"name":"truce-utils","vers":"0.47.0","deps":[],"cksum":"8dffb59ff5f603abccef3c914603c817d89fce505e9164838941073e0ae64ac0","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-05-21T02:08:24Z"}
 {"name":"truce-utils","vers":"0.48.0","deps":[],"cksum":"5a1e3770975ee3c50e81f869004b6c6881db7631fb3705f0db59af8c5445f845","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-05-21T04:50:10Z"}
+{"name":"truce-utils","vers":"0.48.1","deps":[],"cksum":"78e7defb188e69d485d555664c5f321e5769e9221300280c41b1cec0f488b4e7","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-21T06:28:05Z"}
