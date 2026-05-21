@@ -3,3 +3,4 @@
 {"name":"quirks","vers":"0.2.0","deps":[],"cksum":"2baacc1dc1764953cf80b42c022013c61afc349761f87059d6c09caf8b755ef0","features":{},"yanked":false,"pubtime":"2025-12-18T03:46:53Z"}
 {"name":"quirks","vers":"0.3.0","deps":[],"cksum":"f13db5cf2482db4fa40a7bc76bb13cdcb24239c9441c4b4304ddef988ff94409","features":{},"yanked":false,"pubtime":"2025-12-18T04:45:38Z"}
 {"name":"quirks","vers":"0.4.0","deps":[{"name":"regex","req":"^1.12.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"873cfcfebcf80a230406d81c616feec9c3d7749fd2f3078f737e7f7ba928de5d","features":{},"yanked":false,"pubtime":"2026-01-09T01:09:12Z"}
+{"name":"quirks","vers":"0.4.1","deps":[{"name":"regex","req":"^1.12.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cdf9a2e7cf0aefbb226495c9e7c8b7373077807b2723be15e641d5b173f4f7cc","features":{},"yanked":false,"pubtime":"2026-05-21T22:03:00Z"}
