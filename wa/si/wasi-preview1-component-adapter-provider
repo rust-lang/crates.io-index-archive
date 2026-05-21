@@ -67,3 +67,4 @@
 {"name":"wasi-preview1-component-adapter-provider","vers":"36.0.8","deps":[],"cksum":"2281f5d98b931a852052385c8bcde7712f468e0f51735a4a3acb9df4138e18e3","features":{},"yanked":false,"rust_version":"1.60.0","pubtime":"2026-04-30T16:27:52Z"}
 {"name":"wasi-preview1-component-adapter-provider","vers":"36.0.9","deps":[],"cksum":"d4d2a654d0507d2f00199d8344e1dda0b914a023d10139930a7914d4a7a698fc","features":{},"yanked":false,"rust_version":"1.60.0","pubtime":"2026-05-05T16:42:54Z"}
 {"name":"wasi-preview1-component-adapter-provider","vers":"24.0.9","deps":[],"cksum":"69dc0ad9141d64626506112b7e233c227cc3163cf4d593693972001867b80ea6","features":{},"yanked":false,"pubtime":"2026-05-21T18:01:14Z"}
+{"name":"wasi-preview1-component-adapter-provider","vers":"45.0.0","deps":[],"cksum":"f912a3f8ead075800ffaaa13cb978bbcaa359c427688a753b10cd2f1e01fdf28","features":{},"yanked":false,"rust_version":"1.60.0","pubtime":"2026-05-21T18:10:31Z"}
