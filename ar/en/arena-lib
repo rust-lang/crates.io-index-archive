@@ -1,1 +1,2 @@
 {"name":"arena-lib","vers":"0.1.0","deps":[],"cksum":"0567c1d41b5f94b31a196f577323ea456bf75d0ac990742fa6e8abe5cd8fd611","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-21T08:21:10Z"}
+{"name":"arena-lib","vers":"0.2.0","deps":[],"cksum":"d62caca1f5f978ed1095735958825f8097195980dcaa9a580df1010e3a7f072a","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-21T09:16:23Z"}
