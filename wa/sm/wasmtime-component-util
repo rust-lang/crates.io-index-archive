@@ -99,3 +99,4 @@
 {"name":"wasmtime-component-util","vers":"24.0.6","deps":[],"cksum":"ace6645ada74c365f94d50f8bd31e383aa5bd419bfaad873f5227768ed33bd99","features":{},"yanked":false,"pubtime":"2026-02-24T18:03:52Z"}
 {"name":"wasmtime-component-util","vers":"24.0.7","deps":[],"cksum":"96dd559872e86bbe8e9739ad7c2e4e1f096cc4150313cdaeb9422eb406d0cd18","features":{},"yanked":false,"pubtime":"2026-04-09T15:19:35Z"}
 {"name":"wasmtime-component-util","vers":"24.0.8","deps":[],"cksum":"bbbbe6c5424fdd52e5f2f17b0101578459330831c93831f58fe4ea444094d467","features":{},"yanked":false,"pubtime":"2026-04-30T15:10:50Z"}
+{"name":"wasmtime-component-util","vers":"24.0.9","deps":[],"cksum":"a37e7980da041329732a72c6fc483aa38c2567a006558f1204fe6efcd41244e6","features":{},"yanked":false,"pubtime":"2026-05-21T17:59:49Z"}
