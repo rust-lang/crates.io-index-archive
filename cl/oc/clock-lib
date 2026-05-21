@@ -1,0 +1,1 @@
+{"name":"clock-lib","vers":"0.2.1","deps":[{"name":"criterion","req":"^0.5","features":["html_reports"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3c8754c09aea225ce5703bf64a21a648d4703b5821d574c76d1bf929f437918d","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-21T08:25:59Z"}
