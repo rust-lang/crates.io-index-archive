@@ -45,3 +45,4 @@
 {"name":"wasmtime-slab","vers":"24.0.6","deps":[],"cksum":"ec8ac1f5bcfc8038c60b1a0a9116d5fb266ac5ee1529640c1fe763c9bcaa8a9b","features":{},"yanked":false,"pubtime":"2026-02-24T18:03:48Z"}
 {"name":"wasmtime-slab","vers":"24.0.7","deps":[],"cksum":"aabc57da6cd538fde01bd9735b4bc65d0452785de87320e737153146ad34504a","features":{},"yanked":false,"pubtime":"2026-04-09T15:19:34Z"}
 {"name":"wasmtime-slab","vers":"24.0.8","deps":[],"cksum":"68d906e8996903238d2b36e7b11ecfa51ad740c71f7e229044efa5b77815e190","features":{},"yanked":false,"pubtime":"2026-04-30T15:10:48Z"}
+{"name":"wasmtime-slab","vers":"24.0.9","deps":[],"cksum":"b1844b6cf500d740def615a196dfe0aea7918365b380c6da5705fbce25ad5e70","features":{},"yanked":false,"pubtime":"2026-05-21T17:59:46Z"}
