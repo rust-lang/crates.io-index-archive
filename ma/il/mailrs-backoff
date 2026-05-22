@@ -1,0 +1,1 @@
+{"name":"mailrs-backoff","vers":"1.0.0","deps":[{"name":"criterion","req":"^0.8","features":["cargo_bench_support"],"optional":false,"default_features":false,"target":null,"kind":"dev"}],"cksum":"4099c3c303b269fad7b6a50508e59133845f5050ca0238bb82fb0f116b765942","features":{},"yanked":false,"pubtime":"2026-05-22T21:17:21Z"}
