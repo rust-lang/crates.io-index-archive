@@ -6,3 +6,4 @@
 {"name":"rsaeb","vers":"0.5.0","deps":[],"cksum":"3c80e2ab037348e303817d19b66a6f7005054a66df7ae3f1551f987319747d61","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-05-15T10:08:38Z"}
 {"name":"rsaeb","vers":"0.6.0","deps":[],"cksum":"4d0e2ca4d08a836530b2c47fd5b063a6fcfd0d6a1e9e521c93407e12d6185bd2","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-05-16T03:26:51Z"}
 {"name":"rsaeb","vers":"0.7.0","deps":[],"cksum":"c90f37a76051177bc193c130c68f0c130106e8274fce24847c3a1737941ec524","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-05-16T16:41:34Z"}
+{"name":"rsaeb","vers":"0.8.0","deps":[],"cksum":"0a55b2236cd00a175c335728ceac7fe144a810ac8039269594c0b1b2370368b4","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-05-22T15:41:31Z"}
