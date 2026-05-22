@@ -5,3 +5,4 @@
 {"name":"qt-artifacts","vers":"0.1.4","deps":[],"cksum":"86c7a6a34571c0552dc670e39cdaf5b7cb7f15fc373bb66cccfc309c28c7aff7","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-08T08:00:17Z"}
 {"name":"qt-artifacts","vers":"0.1.5","deps":[],"cksum":"ae548852b54d52b0cba3c17d7de9c4441eeccdce21aed298b0b84efc822eeea4","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-08T08:41:29Z"}
 {"name":"qt-artifacts","vers":"0.1.6","deps":[],"cksum":"e333559933736e88d633d3b137fbb7ced01baf542c8d8b468ca234425f0481f5","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-09T07:18:09Z"}
+{"name":"qt-artifacts","vers":"0.1.7","deps":[],"cksum":"77b77ad07fdec3721a9f3e3cc0c8a6b3b225382ec69e2161430428ca26e2146f","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-22T06:20:51Z"}
