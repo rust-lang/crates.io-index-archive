@@ -10,3 +10,4 @@
 {"name":"flag-rs","vers":"0.8.4","deps":[],"cksum":"402467c136164dcc84f7a1720b1b2c640ac4271279082c0a9d4958d36ab3d66e","features":{},"yanked":false,"pubtime":"2025-09-08T02:59:30Z"}
 {"name":"flag-rs","vers":"0.8.5","deps":[],"cksum":"b349a38506b11875e3b5f779b2e817c875de9189773ecad6b86a0e80606e2d2f","features":{},"yanked":false,"pubtime":"2026-03-07T16:12:59Z"}
 {"name":"flag-rs","vers":"0.9.0","deps":[],"cksum":"e1c19c58b2756324a655da95807d85b60df724e33c8aeb9d9bb955ca0bbae730","features":{},"yanked":false,"pubtime":"2026-05-22T01:17:32Z"}
+{"name":"flag-rs","vers":"0.10.0","deps":[],"cksum":"7bcf808c7fae9b9e68978c3dbab94d5b07fa934de2e1306a7a1e9616961c3759","features":{},"yanked":false,"pubtime":"2026-05-22T22:38:38Z"}
