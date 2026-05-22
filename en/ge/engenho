@@ -1,0 +1,1 @@
+{"name":"engenho","vers":"0.1.2","deps":[{"name":"engenho-types","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a963f2d006e6a75f67de19aadccedbeaca26ff9babeb30cadc5c2dca6165eee3","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-05-22T22:43:25Z"}
