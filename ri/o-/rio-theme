@@ -1,0 +1,1 @@
+{"name":"rio-theme","vers":"0.18.4","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95b75b1aaddf5b128ba89d38445fde2f441d8f48919f7827c33c0f3cbf4ddc71","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-05-23T17:50:20Z"}
