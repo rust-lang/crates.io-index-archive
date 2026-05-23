@@ -1,0 +1,1 @@
+{"name":"axonyx-aegis","vers":"0.1.0","deps":[{"name":"reqwest","req":"^0.12","features":["blocking","rustls-tls"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"0f2a5f5f8f5641090a8522134b710d5176ec6f717007b0ed2dd194cbf5b365b4","features":{},"yanked":false,"pubtime":"2026-05-23T18:02:56Z"}
