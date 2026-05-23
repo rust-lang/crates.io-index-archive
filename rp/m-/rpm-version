@@ -1,0 +1,1 @@
+{"name":"rpm-version","vers":"0.1.0","deps":[{"name":"pyo3","req":"^0.28","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0745c35205cd4be87f847f47c16c8c72c535f20c0d44291370895d7cf5d00b74","features":{"default":[],"python":["pyo3/extension-module","pyo3/abi3-py310"]},"yanked":false,"pubtime":"2026-05-23T04:33:50Z"}
