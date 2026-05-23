@@ -1,0 +1,1 @@
+{"name":"sui-intern","vers":"0.1.1","deps":[{"name":"rustc-hash","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c36dc08aeb0c2411bb45c10916aa2d8cbcf952d0e883820911c4281de23e30da","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-05-23T05:28:12Z"}
