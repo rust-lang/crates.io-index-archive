@@ -1,0 +1,1 @@
+{"name":"sora-execution","vers":"0.0.1","deps":[{"name":"rayon","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0170c8d5440fe413adc79f39754dcb271428a0b60f0bce701b1f44c9dfbf86a6","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-05-23T10:13:06Z"}
