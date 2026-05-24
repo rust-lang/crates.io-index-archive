@@ -1,0 +1,1 @@
+{"name":"docolint-types","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.228","features":["derive","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8e260ec57e40789797234018b66cc625204e9073f91cf7ed1f8254513e016a97","features":{},"yanked":false,"pubtime":"2026-05-24T06:10:43Z"}
