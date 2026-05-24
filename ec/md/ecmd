@@ -1,0 +1,1 @@
+{"name":"ecmd","vers":"0.2.0","deps":[{"name":"pretty_assertions","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e3a268b1f16f10a7419a6df86bb3e48da2d1f4a5176445c7dd140d2a5251cae5","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-05-24T00:39:18Z"}
