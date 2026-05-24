@@ -1,0 +1,1 @@
+{"name":"odirect","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf02d09196b76e53f4ecd4cc017b25f7b54c53a523ee163219c8c5a3443d9613","features":{},"yanked":false,"pubtime":"2026-05-24T06:09:31Z"}
