@@ -1,0 +1,1 @@
+{"name":"ud-arch-codec","vers":"0.1.5","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c86316495caacd2411a8ecddb8a069045b80c3e0b0c6d28f2217357c176e66a0","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-25T02:37:53Z"}
