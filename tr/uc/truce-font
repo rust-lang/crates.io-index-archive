@@ -3,3 +3,4 @@
 {"name":"truce-font","vers":"0.48.9","deps":[],"cksum":"46ea59c15fcfa4370adc7885af3fc833b534e39a1fa73d95a9934789f47c4ef8","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-23T11:37:23Z"}
 {"name":"truce-font","vers":"0.48.10","deps":[],"cksum":"dd3844615af1e723042572bad114ef658b2ac2ca9323317d3eb6b3332082325b","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-23T20:51:28Z"}
 {"name":"truce-font","vers":"0.48.11","deps":[],"cksum":"6d92fd424b7b2f67166721666b3d12c9bb8adffd21a1a8ae5cab091d09b55e38","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-24T20:46:01Z"}
+{"name":"truce-font","vers":"0.49.0","deps":[],"cksum":"ef5acd0ca6f827d4e96084c5a7e5a844c1097b78df29736b0dc1830f8827f762","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-05-25T00:48:06Z"}
