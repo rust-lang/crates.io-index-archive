@@ -1,0 +1,1 @@
+{"name":"lua-coro","vers":"0.0.1","deps":[{"name":"lua-types","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5bf97a582195b684365019969134e36ec48e6ffa67cc26c1700a346f4e91535","features":{},"yanked":false,"rust_version":"1.77","pubtime":"2026-05-25T01:57:24Z"}
