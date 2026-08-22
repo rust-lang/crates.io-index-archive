@@ -1,0 +1,1 @@
+{"name":"gtfs-rules","vers":"0.9.7","deps":[{"name":"gtfs-core","req":"^0.9.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7e6893ff08d1c407f32b701e4cf22cf5117b004249e668ca2dc71a3c91f487d0","features":{},"yanked":false,"pubtime":"2026-08-22T18:43:21Z"}
