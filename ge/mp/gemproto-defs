@@ -1,0 +1,1 @@
+{"name":"gemproto-defs","vers":"0.1.0","deps":[{"name":"strum_macros","req":"^0.28.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"46881322bf1fdcb231888acbdf1d735af4377ebf3e87aeba0a8d2645f25e3f7d","features":{},"features2":{"tryfrom":["dep:strum_macros"]},"yanked":false,"pubtime":"2026-08-22T22:24:10Z","v":2}
