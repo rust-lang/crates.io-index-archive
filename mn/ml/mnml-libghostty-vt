@@ -1,0 +1,1 @@
+{"name":"mnml-libghostty-vt","vers":"0.2.2","deps":[{"name":"mnml-libghostty-vt-sys","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f3caeeacafdd6b2c80b1e52d4de5dd66cffda83d8b15ef5ef34db9126aa7cbc0","features":{"default":[]},"yanked":false,"pubtime":"2026-08-22T21:37:08Z"}
