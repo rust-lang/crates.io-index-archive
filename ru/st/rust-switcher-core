@@ -6,3 +6,4 @@
 {"name":"rust-switcher-core","vers":"1.0.12","deps":[],"cksum":"372af0b7d9de8f87bf913714ceffcd17bbf808e8be607b428244068affff06a2","features":{},"yanked":false,"pubtime":"2026-06-07T03:44:26Z"}
 {"name":"rust-switcher-core","vers":"1.0.13","deps":[],"cksum":"2a24ac655b5e5528e8ee43a08cfa75c9257e320bcf082994c94c547fadc6abe2","features":{},"yanked":false,"pubtime":"2026-06-07T05:35:56Z"}
 {"name":"rust-switcher-core","vers":"1.0.14","deps":[],"cksum":"cef03eaa16ea544376e8a09fde34e22874544673d11d2f658d3acf78eecf831b","features":{},"yanked":false,"pubtime":"2026-08-23T04:15:02Z"}
+{"name":"rust-switcher-core","vers":"1.0.15","deps":[],"cksum":"2851a20a437f2daaba7b017b1b6c61225e34a18dcd84cc7d398618bd398b2997","features":{},"yanked":false,"pubtime":"2026-08-23T23:11:30Z"}
