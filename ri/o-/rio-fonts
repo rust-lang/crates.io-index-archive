@@ -7,3 +7,4 @@
 {"name":"rio-fonts","vers":"0.5.23","deps":[],"cksum":"c02bf6dc304caf9d893696c821523173fa77d76592b90db227b5df517dfdf5c2","features":{"default":[],"symbols-nerd-font":[]},"yanked":false,"pubtime":"2026-08-12T19:15:27Z"}
 {"name":"rio-fonts","vers":"0.5.24","deps":[],"cksum":"c4d0ed16029743e92774bea7b117ea85526c774cf6ed5d373aaab4658c9afbb4","features":{"default":[],"symbols-nerd-font":[]},"yanked":false,"pubtime":"2026-08-13T11:48:27Z"}
 {"name":"rio-fonts","vers":"0.5.25","deps":[],"cksum":"832810c2e3c52ba3e248e3f937932634078fda90f5c548eb405cbd99a43878e0","features":{"default":[],"symbols-nerd-font":[]},"yanked":false,"pubtime":"2026-08-15T20:30:07Z"}
+{"name":"rio-fonts","vers":"0.5.26","deps":[],"cksum":"820ba74154d5ea26dba881ef22c07f2738ba3d5e955920d26a6dfa44c49d5399","features":{"default":[],"symbols-nerd-font":[]},"yanked":false,"pubtime":"2026-08-23T22:12:18Z"}
