@@ -1,0 +1,1 @@
+{"name":"bezel-zed-refineable","vers":"0.3.0+zed.bc538d","deps":[{"name":"derive_refineable","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"bezel-zed-derive-refineable"}],"cksum":"6a7e827cd01de45323107e0239dfba276af97ece00465b0be21cc9de9ab3f4c3","features":{},"yanked":false,"pubtime":"2026-08-23T01:08:03Z"}
