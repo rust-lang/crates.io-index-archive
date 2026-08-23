@@ -6,3 +6,4 @@
 {"name":"mold-ai-scheduler","vers":"0.23.2","deps":[],"cksum":"23cd31816b1adbcf88a072fa19dcc754599422dd59b195c5adf8bd9ee040d9c0","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-18T23:07:40Z"}
 {"name":"mold-ai-scheduler","vers":"0.23.3","deps":[],"cksum":"0e3c8029617344c8c0199eaa2e6df31f767ca40cbdb2cacd6a27be4ac8d5d0bf","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-19T02:45:50Z"}
 {"name":"mold-ai-scheduler","vers":"0.24.0","deps":[],"cksum":"90ae9d2785991ca56c850bb9baa504559534bc49a32d2c5da31c50a56f73fc54","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-23T09:37:26Z"}
+{"name":"mold-ai-scheduler","vers":"0.25.0","deps":[],"cksum":"a2e7f198568aa5c870c6170f943460d58ce8dadf8c4b63928f896811daa5bf1b","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-23T12:49:11Z"}
