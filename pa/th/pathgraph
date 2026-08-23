@@ -35,3 +35,4 @@
 {"name":"pathgraph","vers":"0.4.1","deps":[],"cksum":"0b2a07e29b1b3c1ab020c6846c257befa2e60034c9fc3e87774cdaf3d6f5dfbb","features":{},"yanked":false,"pubtime":"2026-08-02T15:01:30Z"}
 {"name":"pathgraph","vers":"0.5.0-rc.2","deps":[],"cksum":"f5211028bf5aee30a9dcd72225a91147d2b3e47e3a8b7f32ea7f6fc2ec2fd798","features":{},"yanked":false,"pubtime":"2026-08-09T20:13:04Z"}
 {"name":"pathgraph","vers":"0.5.0-rc.3","deps":[],"cksum":"a1afa89dd37705581548840231225fd303f913c2bc0f0d4426aa35d7891c4d8a","features":{},"yanked":false,"pubtime":"2026-08-16T19:33:04Z"}
+{"name":"pathgraph","vers":"0.5.0-rc.4","deps":[],"cksum":"e2f33d657119e71a8b28da5c8d52ade41672d873c292ae5bf4833b8fa658c86a","features":{},"yanked":false,"pubtime":"2026-08-23T21:52:29Z"}
