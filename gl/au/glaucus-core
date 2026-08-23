@@ -4,3 +4,4 @@
 {"name":"glaucus-core","vers":"0.2.0","deps":[],"cksum":"5ac1fe7484221be8e882232743a0f694c61107a5cfcb3610aba78ca945c1c87f","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-08-03T19:48:32Z"}
 {"name":"glaucus-core","vers":"0.2.1","deps":[],"cksum":"ebe782a955e8b8e98ea425f7fb1104395ecbae4cccf9408460d68e703fbbd3c5","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-10T16:59:47Z"}
 {"name":"glaucus-core","vers":"0.2.2","deps":[],"cksum":"4e48db898aef4861732100ec583f72d1a7f8ccb6a2fe90fe7e0bafc43d37a29c","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-23T16:11:29Z"}
+{"name":"glaucus-core","vers":"0.3.0","deps":[],"cksum":"4ce95032ed730ddc5692998db707dbf46c0886f11b0451eb704b61515b88854a","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-23T20:24:53Z"}
