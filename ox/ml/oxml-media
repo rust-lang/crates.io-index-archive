@@ -4,3 +4,4 @@
 {"name":"oxml-media","vers":"0.2.0","deps":[],"cksum":"d87aa471c5166984d21697ab5ed0b6da1c4aa6df2da20564b9dc8a147a79bf33","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-14T20:12:54Z"}
 {"name":"oxml-media","vers":"0.3.0","deps":[],"cksum":"84e3de9aabb798926cc6df706c8961bb782a54fe7d69ec7eba707a7fa9a89cd8","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-16T15:01:42Z"}
 {"name":"oxml-media","vers":"0.4.0","deps":[],"cksum":"d53d11c5f5765648f81728af56d40901cdf184d8dbe8a14ececdb6c66c9e3b3a","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-21T21:13:49Z"}
+{"name":"oxml-media","vers":"0.5.0","deps":[],"cksum":"516803e3e6a8200d7c695e10dc6d9bdfa68840a3f9cb0924d70331168e11f964","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-23T17:17:46Z"}
