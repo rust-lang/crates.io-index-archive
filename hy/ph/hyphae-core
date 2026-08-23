@@ -4,3 +4,4 @@
 {"name":"hyphae-core","vers":"1.0.1","deps":[],"cksum":"4544a45bb26a0caf523061e97f03177de7b29ad55ee7a3b5eeb103e022ecdca5","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-10T00:51:39Z"}
 {"name":"hyphae-core","vers":"1.1.0","deps":[],"cksum":"c9de15e2226a15162c3bd9c66f8e7b9e19ed34bc058d5318cd029c91e46a80fe","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-14T15:03:45Z"}
 {"name":"hyphae-core","vers":"1.2.2","deps":[],"cksum":"44399a2c18e1f19ce94506a7b4b1cc7363c8704aa5c08f41ab17deceeb5e37e9","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-19T13:48:43Z"}
+{"name":"hyphae-core","vers":"2.0.1","deps":[],"cksum":"00d227f5e830c4155368d714f06621706aa2f2b632e99e5f93b855aeaebf65c7","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-23T17:30:25Z"}
