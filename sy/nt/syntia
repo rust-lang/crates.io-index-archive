@@ -1,4 +1,0 @@
-{"name":"syntia","vers":"0.1.0","deps":[],"cksum":"7f05074509a7e6ae28d854c49061fe40a176701ff50840cb7dc464da28586147","features":{"default":["lexer","parser"],"lexer":[],"parser":[]},"yanked":false,"pubtime":"2026-06-28T10:45:30Z"}
-{"name":"syntia","vers":"0.1.1","deps":[],"cksum":"83aebefe8ee898170993cbd246833fc8f099a1ccae19bd12f9254f8ea3da8d7b","features":{"default":["lexer","parser"],"lexer":[],"parser":[]},"yanked":false,"pubtime":"2026-07-15T20:08:17Z"}
-{"name":"syntia","vers":"0.2.0","deps":[],"cksum":"4fa243c768405e2a840dab0b12e17beee9b72d5eec3f9e67d4bd945f993ab61a","features":{"default":["lexer","parser"],"lexer":[],"parser":[]},"yanked":false,"pubtime":"2026-07-19T13:57:31Z"}
-{"name":"syntia","vers":"0.2.1","deps":[],"cksum":"55aab7b359088f828bcaa518ba2e2394c64770225afba2dcd6171513e466323a","features":{"default":["lexer","parser"],"lexer":[],"parser":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-03T10:32:03Z"}
