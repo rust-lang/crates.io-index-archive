@@ -1,0 +1,1 @@
+{"name":"flash-cache-protocol","vers":"0.1.0","deps":[{"name":"core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"flash-cache-core"}],"cksum":"bc0c9b669427f1d678ac15fe863b5bca459e63ada8333709b2355253c3dd30c5","features":{},"yanked":false,"pubtime":"2026-08-23T07:29:38Z"}
