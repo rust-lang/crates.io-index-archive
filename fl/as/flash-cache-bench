@@ -1,0 +1,1 @@
+{"name":"flash-cache-bench","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e43c6b2f8745044c9e748950ae32605d69fd4ea5403183a2bdb27e8c65d2512a","features":{},"yanked":false,"pubtime":"2026-08-23T07:59:34Z"}
