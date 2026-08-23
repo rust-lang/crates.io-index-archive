@@ -3,3 +3,4 @@
 {"name":"kevy-time","vers":"5.2.0","deps":[],"cksum":"7b768a3f5efd6626eeb9565f939151c8eed403a684e4c6517e8bc060e00ca0b9","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-15T12:24:48Z"}
 {"name":"kevy-time","vers":"5.3.0","deps":[],"cksum":"bbada972504b3cf8d317466d99b8dd0d6b72e6ec8fb2611ca0c7b28eba7bcf9a","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-17T19:36:12Z"}
 {"name":"kevy-time","vers":"5.4.0","deps":[],"cksum":"c0be430ac79bdf4e7a15f1359cc96c89420beb35c3f96ec7f19e294a4740e162","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-23T00:49:54Z"}
+{"name":"kevy-time","vers":"5.4.1","deps":[],"cksum":"371967d97c0af6d65b6990d9cd496c7cecb608bad2f09d360e730217db35ef61","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-23T03:45:22Z"}
