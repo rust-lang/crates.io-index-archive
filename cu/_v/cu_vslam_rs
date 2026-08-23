@@ -1,0 +1,1 @@
+{"name":"cu_vslam_rs","vers":"0.1.0","deps":[{"name":"cc","req":"^1","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"83eb1463aa249ad1da64055d34be9c6443d95b25d530acc0c0aa5cd0e3f56f00","features":{},"yanked":false,"links":"cuvslam","pubtime":"2026-08-23T22:05:20Z"}
