@@ -22,3 +22,4 @@
 {"name":"arrayset","vers":"4.1.0","deps":[],"cksum":"9120eab571a5c8914cbedf758529aa2dba4c78f37fc285ce4610d8b054336929","features":{},"yanked":false,"pubtime":"2026-08-21T22:27:33Z"}
 {"name":"arrayset","vers":"4.2.0","deps":[],"cksum":"906b9c7ab1efa4f6f14ca0e703a8c413ffa2f719c7d5e19650c18b2111295cf0","features":{},"yanked":false,"pubtime":"2026-08-22T22:20:12Z"}
 {"name":"arrayset","vers":"4.3.0","deps":[],"cksum":"4a975fd95ad2af18fa72e939db102d3e778b7ebdc39baa443c140abaada7efef","features":{},"yanked":false,"pubtime":"2026-08-23T14:17:57Z"}
+{"name":"arrayset","vers":"4.4.0","deps":[],"cksum":"e171b320085353f5eccdbf7e81d126b7d07e7ec885ad0ba45aac1e1d19657116","features":{},"yanked":false,"pubtime":"2026-08-23T14:42:05Z"}
