@@ -1,0 +1,1 @@
+{"name":"native-exchange-rust","vers":"0.2.0","deps":[{"name":"native-exchange-abi","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b9e1ad6f8fbcf06de0fd3bedb3b1a31c9006a11e74affa49b98540c69a92d24b","features":{},"yanked":false,"pubtime":"2026-08-23T10:19:40Z"}
