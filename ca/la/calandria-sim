@@ -1,0 +1,1 @@
+{"name":"calandria-sim","vers":"0.0.1-rc.1","deps":[{"name":"calandria","req":"=0.0.1-rc.1","features":["alloc"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"80c302897cd657d699976a2fcdeb9ca38b4f7605c17a23a2df7720088be35021","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-23T20:36:23Z"}
