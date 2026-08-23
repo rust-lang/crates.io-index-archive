@@ -1,0 +1,1 @@
+{"name":"cargo-okf","vers":"0.2.3","deps":[{"name":"okf","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2ad045d9f83a5e5de8716017acdf040e4a745d4f58f49d1e124bafcbab889ae1","features":{},"yanked":false,"pubtime":"2026-08-23T10:39:43Z"}
