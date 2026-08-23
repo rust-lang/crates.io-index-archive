@@ -1,0 +1,1 @@
+{"name":"ferrodoc-rst","vers":"0.2.0","deps":[{"name":"ferrodoc-ast","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61f18a56ea96d5ac80ecfdfe1bc71e4f94db4db7c522a8a3bc8c9299c2acab1e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-23T01:41:12Z"}
