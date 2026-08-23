@@ -8,3 +8,4 @@
 {"name":"adaq-talib","vers":"0.1.7","deps":[],"cksum":"114aae9951552255434c149caff80143fae530f8759885b6ab5ff898a4297023","features":{"bench-c":[],"parallel":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-16T06:50:07Z"}
 {"name":"adaq-talib","vers":"0.1.8","deps":[],"cksum":"a8142579cce6ec58374e2ab62f1676e4c68f57d7f28f2388f024a0214aa89339","features":{"bench-c":[],"parallel":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-17T23:12:22Z"}
 {"name":"adaq-talib","vers":"0.1.9","deps":[],"cksum":"9c92f2772c53551fa71a4f4c4f0c068c0739319165ce55454018adb4c12937a3","features":{"bench-c":[],"parallel":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-18T20:33:49Z"}
+{"name":"adaq-talib","vers":"0.2.0","deps":[],"cksum":"46e0dd1e2e6deff13a1fdfd640d53926a49d3659b5d889ddbdadd4dd2d797a90","features":{"bench-c":[],"parallel":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-23T18:10:01Z"}
