@@ -1,0 +1,1 @@
+{"name":"flash-cache-cli","vers":"0.1.0","deps":[{"name":"tokio","req":"^1","features":["full"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55db243f348df6b68b6976b50e390647fab270cd43c4a4512f63f41d33e30821","features":{},"yanked":false,"pubtime":"2026-08-23T07:53:00Z"}
