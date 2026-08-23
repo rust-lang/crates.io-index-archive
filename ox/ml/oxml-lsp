@@ -1,0 +1,1 @@
+{"name":"oxml-lsp","vers":"0.0.3","deps":[{"name":"oxml","req":"^0.0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0913e6bcbed2ad17452c246c6e0be1be5dae24ffde389b809201b829d831d0aa","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-08-23T06:22:35Z"}
