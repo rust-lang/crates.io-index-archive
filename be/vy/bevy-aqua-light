@@ -1,0 +1,1 @@
+{"name":"bevy-aqua-light","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.19","features":["bevy_asset","bevy_shader"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9282f74941b85f7e0f205593b72f35daca3d142be1668dbcd90b0a8a156c3d94","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-24T17:13:56Z"}
