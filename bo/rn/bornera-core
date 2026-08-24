@@ -1,0 +1,1 @@
+{"name":"bornera-core","vers":"0.0.1-rc.1","deps":[{"name":"calandria","req":"=0.0.1-rc.1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3e2ecbbca8d33a6567450c43bc961928cee5a14fe23bc0a0b886aa249cc669f7","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-24T14:27:56Z"}
