@@ -12,3 +12,4 @@
 {"name":"brass_foundry","vers":"0.14.1","deps":[],"cksum":"1df00c9ab30334ab31d375ffb073f718d52998c94837e658b72809c094a8b8b9","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-22T18:47:11Z"}
 {"name":"brass_foundry","vers":"0.14.2","deps":[],"cksum":"9827891155160d0d42f077f193924dfb3e1a39129dbb443e8cebacbd7da4bed4","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-22T19:26:45Z"}
 {"name":"brass_foundry","vers":"0.14.3","deps":[],"cksum":"a638631f7f96182c5a554b697c22c3b4a9cda9df73957aeaeedec56d423fb128","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-24T02:07:55Z"}
+{"name":"brass_foundry","vers":"0.14.4","deps":[],"cksum":"9c5581fdc138f4d50f0e903ed3463641c4005fb8587694f08305a167512d5c5c","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-24T02:20:09Z"}
