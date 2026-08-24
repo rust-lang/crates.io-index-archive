@@ -1,1 +1,0 @@
-{"name":"kryptic-daemon","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e5945ddd3ff52d48c1a77fc3dac1505d967c9425cb061fd4c913c96a93639085","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-08-24T15:27:30Z"}
