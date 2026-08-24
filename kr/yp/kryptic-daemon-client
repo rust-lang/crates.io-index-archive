@@ -1,0 +1,1 @@
+{"name":"kryptic-daemon-client","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"980820e3e3a51d2df06809a2371afb69ac8883c20ac04fcd54e3722f1db53a66","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-08-24T15:30:35Z"}
