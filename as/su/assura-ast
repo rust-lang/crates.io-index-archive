@@ -4,3 +4,4 @@
 {"name":"assura-ast","vers":"0.4.0","deps":[],"cksum":"9ff3e67e6ca8995242935fc9cccb6569dac700d64859ec6153faec3cd6781362","features":{},"yanked":false,"pubtime":"2026-07-14T18:32:59Z"}
 {"name":"assura-ast","vers":"0.4.1","deps":[],"cksum":"8ce72cf1e35e4d053c53067bf7a3581ae1e8acf59f57b6f1c80cbe34625c6b83","features":{},"yanked":false,"pubtime":"2026-08-03T12:35:39Z"}
 {"name":"assura-ast","vers":"0.4.2","deps":[],"cksum":"0543703d8796c2df49103e61a326910f2a03064ef0add4c26e703e7f56aa91d9","features":{},"yanked":false,"pubtime":"2026-08-10T19:54:20Z"}
+{"name":"assura-ast","vers":"0.4.3","deps":[],"cksum":"c0cfc14bb073dcf47f8e62abe891f28436d33ff6a5f24280d4f924a54b753e3b","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-08-24T01:05:25Z"}
