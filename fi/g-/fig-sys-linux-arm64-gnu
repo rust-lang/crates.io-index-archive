@@ -7,3 +7,4 @@
 {"name":"fig-sys-linux-arm64-gnu","vers":"3.0.3","deps":[],"cksum":"e8d3ac5979a13d1425da50814a61ab76ec22e811025880a6acb71e7abc001cce","features":{},"yanked":false,"links":"fig_prebuilt_linux_arm64_gnu","pubtime":"2026-08-08T03:18:37Z"}
 {"name":"fig-sys-linux-arm64-gnu","vers":"3.1.0","deps":[],"cksum":"eb8d7c066ed1e927f4d2fb7fde0d8dd9c2e9f20c077a94b680531d95b460c808","features":{},"yanked":false,"links":"fig_prebuilt_linux_arm64_gnu","pubtime":"2026-08-14T16:35:21Z"}
 {"name":"fig-sys-linux-arm64-gnu","vers":"3.2.0","deps":[],"cksum":"fe24e59e27a43cc0268ca2060756f35c402126135e693ca6d49081f77867ee4a","features":{},"yanked":false,"links":"fig_prebuilt_linux_arm64_gnu","pubtime":"2026-08-21T01:09:23Z"}
+{"name":"fig-sys-linux-arm64-gnu","vers":"3.3.0","deps":[],"cksum":"b7b8c6ea291a4519218ab488d0d8c5491760b2129d4a7da4754669a0b5a91b4a","features":{},"yanked":false,"links":"fig_prebuilt_linux_arm64_gnu","pubtime":"2026-08-24T17:55:01Z"}
