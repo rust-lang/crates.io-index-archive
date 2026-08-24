@@ -1,0 +1,1 @@
+{"name":"canton-splice-wallet-payments","vers":"0.2.0","deps":[{"name":"canton-daml","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"907da66dc4b71e3c45704e0aba92e0b7e61731fe80d55fcae69cb18530ef3ec7","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-24T13:18:52Z"}
