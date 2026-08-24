@@ -4,3 +4,4 @@
 {"name":"hadris-path","vers":"2.0.0-rc.4","deps":[],"cksum":"c9226f916fe26b494c6c705f4a5144ba7de01c007e10399d89f3e7c76e6d530b","features":{"alloc":[],"default":[]},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-07-22T15:47:29Z"}
 {"name":"hadris-path","vers":"2.0.0","deps":[],"cksum":"6197c34c174fe5fffb74339f096420e614a4b146941a352e7224ab8507d5d913","features":{"alloc":[],"default":[]},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-08-09T02:46:44Z"}
 {"name":"hadris-path","vers":"2.1.0","deps":[],"cksum":"351b73ecd5556a7f3709fd1d61dff9149e7b7f9aab4e2483400c9b29d35b2afc","features":{"alloc":[],"default":[]},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-08-18T04:50:46Z"}
+{"name":"hadris-path","vers":"2.2.0","deps":[],"cksum":"36bd3d8b538a8115d802da9b1be12effb3cd3f2178be8ccab61079999adedb1f","features":{"alloc":[],"default":[]},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-08-24T13:07:04Z"}
