@@ -1,0 +1,1 @@
+{"name":"blackjack-rs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.10.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"feb227ea2af2ee54db925064525f593c7af39d3bbe933e88ff0a3c1c0f210c40","features":{},"yanked":false,"pubtime":"2026-08-24T02:03:47Z"}
