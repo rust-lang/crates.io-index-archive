@@ -1,0 +1,1 @@
+{"name":"fast-reform","vers":"0.1.0","deps":[{"name":"rayon","req":"^1","features":[],"optional":false,"default_features":true,"target":"cfg(not(target_arch = \"wasm32\"))","kind":"normal"}],"cksum":"21a7620d8fe547b59bc30635b3afa89850ce840a4d3c3bab9e8edd20b53c7b0e","features":{},"yanked":false,"pubtime":"2026-08-24T20:00:31Z"}
