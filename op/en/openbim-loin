@@ -1,0 +1,1 @@
+{"name":"openbim-loin","vers":"0.1.0","deps":[{"name":"openbim-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c30840d79e1ba64154aa5e60ae89e90b7dfd31c3755a026c521df35727ad7285","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-24T18:03:48Z"}
