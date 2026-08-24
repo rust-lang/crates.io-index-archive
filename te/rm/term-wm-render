@@ -39,3 +39,4 @@
 {"name":"term-wm-render","vers":"0.10.1-alpha","deps":[],"cksum":"84c51d6ce5bb69b250f9c364bd22f775a4b8e9ed29dfbbb51dc767758a1cbe3e","features":{},"yanked":false,"pubtime":"2026-08-19T20:13:20Z"}
 {"name":"term-wm-render","vers":"0.10.2-alpha","deps":[],"cksum":"65c0424a655aa2c34e01c410c6021c66ea73ef98b68451d2a29acb48cdd5c505","features":{},"yanked":false,"pubtime":"2026-08-19T23:13:10Z"}
 {"name":"term-wm-render","vers":"0.10.3-alpha","deps":[],"cksum":"74e0ed18bc91426ce8731a124425b504455157a491fee470bdd4f862ec4abbb3","features":{},"yanked":false,"pubtime":"2026-08-22T19:28:47Z"}
+{"name":"term-wm-render","vers":"0.10.4-alpha","deps":[],"cksum":"40d00f24e84348e621b42873960457d4771ad9486ddcb108b0c2c4ed146e9dd3","features":{},"yanked":false,"pubtime":"2026-08-24T14:43:50Z"}
