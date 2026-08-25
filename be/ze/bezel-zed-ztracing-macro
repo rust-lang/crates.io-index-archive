@@ -1,3 +1,4 @@
 {"name":"bezel-zed-ztracing-macro","vers":"0.3.0+zed.bc538d","deps":[],"cksum":"39c771d811bd5f272450ee723e8b8602071255ee7074093cb66e1622181e8eb8","features":{},"yanked":false,"pubtime":"2026-08-23T01:07:57Z"}
 {"name":"bezel-zed-ztracing-macro","vers":"0.3.1+zed.d9ad6a","deps":[],"cksum":"af3bfb3e36197219666bdec1ab4f2dcdad3ec0154acfcd09916768f69bb104f7","features":{},"yanked":false,"pubtime":"2026-08-23T09:12:50Z"}
 {"name":"bezel-zed-ztracing-macro","vers":"0.3.2+zed.d9ad6a","deps":[],"cksum":"51ab28961a315e2c540eeab242fa480a370d9e0ffaaebc3f62eb10c17a7ccdff","features":{},"yanked":false,"pubtime":"2026-08-23T09:34:08Z"}
+{"name":"bezel-zed-ztracing-macro","vers":"0.3.3+zed.d9ad6a","deps":[],"cksum":"e41bd7a999e836deee42260148c790c3e12325751515b6517a9daae17fcec099","features":{},"yanked":false,"pubtime":"2026-08-25T03:19:30Z"}
