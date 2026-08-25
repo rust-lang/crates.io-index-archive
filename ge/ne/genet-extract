@@ -1,0 +1,1 @@
+{"name":"genet-extract","vers":"0.2.0","deps":[{"name":"fleece","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f94c37b42e784da7d18f0d964ac4ee946f76976a2655791489832f5608aea5b7","features":{},"yanked":false,"rust_version":"1.86.0","pubtime":"2026-08-25T16:15:23Z"}
