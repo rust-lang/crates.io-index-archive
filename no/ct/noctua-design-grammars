@@ -3,3 +3,4 @@
 {"name":"noctua-design-grammars","vers":"0.2.2","deps":[],"cksum":"157276b749f1e1e38fba027d716a34a444abac28d5547e44383c336935a0f8e7","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-25T20:25:05Z"}
 {"name":"noctua-design-grammars","vers":"0.2.3","deps":[],"cksum":"f4ca1da6c0f577695bdecb43254218a5e20d387561e44fb147897d28a9f285fc","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-25T20:33:43Z"}
 {"name":"noctua-design-grammars","vers":"0.2.4","deps":[],"cksum":"5449b715b20b72b7790687faef6390ec53556ae3e595f38d14a14e05a8980d18","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-25T20:39:06Z"}
+{"name":"noctua-design-grammars","vers":"0.2.5","deps":[],"cksum":"f32f48bdfd6825dd7596fab3f2f7f694d905a3f2ca31af43ac94f3cef5678080","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-25T20:49:38Z"}
