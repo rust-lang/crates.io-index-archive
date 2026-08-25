@@ -1,0 +1,1 @@
+{"name":"atlas-recipes-data","vers":"0.1.0","deps":[{"name":"include_dir","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b9501a553204390a9a87f27e46aaf21f8b152a6103a55cdb06b62ddbddd20ce","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-25T16:49:25Z"}
