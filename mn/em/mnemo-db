@@ -7,3 +7,4 @@
 {"name":"mnemo-db","vers":"0.5.24","deps":[],"cksum":"0171d8c90a10d7e0000c0d3071cf61638f05746601d709e9dcadcd9b94fd23d7","features":{},"yanked":false,"pubtime":"2026-08-17T23:02:27Z"}
 {"name":"mnemo-db","vers":"0.5.25","deps":[],"cksum":"bc9895d3cebe080dd5bc8514d7158987ed7730c7b292311eeba78dada2cba755","features":{},"yanked":false,"pubtime":"2026-08-18T19:20:32Z"}
 {"name":"mnemo-db","vers":"0.5.26","deps":[],"cksum":"c46e76117c0addd424e8d74a6b41f3b99d13e6fd4f3fcff4b3fa0fe6b1a331e6","features":{},"yanked":false,"pubtime":"2026-08-22T12:13:16Z"}
+{"name":"mnemo-db","vers":"0.5.27","deps":[],"cksum":"d0f628ccd6f608bbffd320368dbad4bce8c92a7f1670ac88367598ba0db4ae16","features":{},"yanked":false,"pubtime":"2026-08-25T20:53:34Z"}
