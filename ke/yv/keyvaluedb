@@ -9,3 +9,4 @@
 {"name":"keyvaluedb","vers":"0.1.8","deps":[],"cksum":"33948ddb57e176612132deecd3ed175255bbe6b4aaea3036dee4fb0695b62c18","features":{},"yanked":false,"rust_version":"1.82.0","pubtime":"2026-05-19T02:21:10Z"}
 {"name":"keyvaluedb","vers":"0.2.0","deps":[],"cksum":"c129205de4e088848b690986b861b26cdfbd603ade0f0ad9eb0b401f789eed5e","features":{},"yanked":false,"rust_version":"1.82.0","pubtime":"2026-07-26T23:15:24Z"}
 {"name":"keyvaluedb","vers":"0.2.1","deps":[],"cksum":"44b5cc0443db6585f8ab64f288b936b682e48001b353b13a997c2e621d294286","features":{},"yanked":false,"rust_version":"1.82.0","pubtime":"2026-08-22T00:26:28Z"}
+{"name":"keyvaluedb","vers":"0.2.2","deps":[],"cksum":"df182f2ada81b2f8dc300f4c3342cbbbd12b90173a47d0e0a6e5172a1b4e70a9","features":{},"yanked":false,"rust_version":"1.82.0","pubtime":"2026-08-25T03:13:42Z"}
