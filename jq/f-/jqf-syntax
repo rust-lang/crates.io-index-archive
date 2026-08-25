@@ -1,0 +1,1 @@
+{"name":"jqf-syntax","vers":"0.1.0-alpha.1","deps":[{"name":"jqf-source","req":"^0.1.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"febe800bfc62d09aee12e792a7b1cba0c7240ab55bd6134dd91a29227f9672a5","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-25T22:59:57Z"}
