@@ -6,3 +6,4 @@
 {"name":"pamoja-power","vers":"0.1.11","deps":[],"cksum":"b01cba02d0741c139ebadb6a3566aa17ae62b5d3f81d60b476cff94c3e73255a","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-06-30T20:33:12Z"}
 {"name":"pamoja-power","vers":"0.1.12","deps":[],"cksum":"d361106ea3e75d589491b158f73e19328523ae8fdfa546a78bb05f03248af7ae","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-01T21:20:27Z"}
 {"name":"pamoja-power","vers":"0.1.13","deps":[],"cksum":"207cb3412aaf062263b2322bb5bbacda0284dfc8b99823517f2ed0329f1381fb","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-07-04T15:31:31Z"}
+{"name":"pamoja-power","vers":"0.1.14","deps":[],"cksum":"6deb23df66d428b0213e7b80fd6ba47001659d552718b7cc389b274f7c98d774","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-25T06:56:12Z"}
