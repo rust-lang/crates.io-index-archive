@@ -4,3 +4,4 @@
 {"name":"noctua-design-dist","vers":"0.2.3","deps":[],"cksum":"a6e13ae5aa879b4bff8eeadff0cdec7ec56212a410f2a2793ee98a97840ca208","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-25T20:35:03Z"}
 {"name":"noctua-design-dist","vers":"0.2.4","deps":[],"cksum":"70ecff99ae23835f7ca00bffd32ffa205719bb2f44776d26137e819d136a98ae","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-25T20:39:30Z"}
 {"name":"noctua-design-dist","vers":"0.2.5","deps":[],"cksum":"a3496402084cffb06309311842f29c905512be34ab35c1afe5b29080f556c82e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-25T20:49:59Z"}
+{"name":"noctua-design-dist","vers":"0.2.6","deps":[],"cksum":"e34fb0d589fcc37c87018836623dd2cb98dcf7faac8bbd3197173d37b473b4e3","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-25T21:03:52Z"}
