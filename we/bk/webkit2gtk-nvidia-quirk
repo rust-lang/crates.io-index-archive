@@ -10,3 +10,4 @@
 {"name":"webkit2gtk-nvidia-quirk","vers":"1.4.2","deps":[],"cksum":"83370cb7711a31b42568d272020170a3363c15069704105ac6c5225d4f497db1","features":{},"yanked":false,"pubtime":"2026-08-15T13:35:06Z"}
 {"name":"webkit2gtk-nvidia-quirk","vers":"1.4.3","deps":[],"cksum":"346ca51979f591fd90693a1cd548c3ac482e665b1f736ea5bba6f2e7f2e6d18c","features":{},"yanked":false,"pubtime":"2026-08-17T21:54:56Z"}
 {"name":"webkit2gtk-nvidia-quirk","vers":"2.0.0","deps":[],"cksum":"4ba30b6aaad4fca046da97ca4052b68bda5d20cd4b790d1de3a4aa83f2dc2629","features":{},"yanked":false,"pubtime":"2026-08-18T21:11:11Z"}
+{"name":"webkit2gtk-nvidia-quirk","vers":"2.1.0","deps":[],"cksum":"95abc82d49b4bed3e3189452c88ec88e37ad4cc5b98ed9ff7c8b34c471b577b4","features":{},"yanked":false,"pubtime":"2026-08-25T18:08:39Z"}
