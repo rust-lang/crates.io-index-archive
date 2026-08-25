@@ -4,3 +4,4 @@
 {"name":"kael_icons","vers":"0.2.0","deps":[],"cksum":"142f05542fd0ebae48289b8975cb152414e041e1436b4f85780b6707b18967da","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-06-10T23:40:13Z"}
 {"name":"kael_icons","vers":"0.3.0","deps":[],"cksum":"2c0c9374acd8e939821e6c1aff033ea172448e58de628ce0401aae9b881302fc","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-08-07T20:27:56Z"}
 {"name":"kael_icons","vers":"0.3.1","deps":[],"cksum":"a31261bbbcbc4770d0d2e80b643860f44f7b0b45c05c1d0d5b0b7c6023b8dd57","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-08-12T18:08:00Z"}
+{"name":"kael_icons","vers":"0.4.0","deps":[],"cksum":"381195e31d61259f212fb2913abf682232dc736fc46fc6ef10b37218d546d912","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-08-25T17:28:51Z"}
