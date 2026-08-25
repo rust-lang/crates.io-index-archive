@@ -1,0 +1,1 @@
+{"name":"nvpn-fips-endpoint","vers":"0.4.65","deps":[{"name":"fips-core","req":"=0.4.65","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"nvpn-fips-core"}],"cksum":"96c1fe7e8a27468d0a0e90c75c9fc4327d36c7a4a82511421ec741bfb64fee2c","features":{},"yanked":false,"pubtime":"2026-08-25T19:52:28Z"}
