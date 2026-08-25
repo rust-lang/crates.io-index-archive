@@ -1,0 +1,1 @@
+{"name":"zlid","vers":"0.0.1-rc.1","deps":[{"name":"getrandom","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3487d57c023a14f8540c9a35d09794e7fecdc7fb766920de18b993f36d8a4e8c","features":{"default":[],"wasm-js":["getrandom/wasm_js"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-25T18:26:16Z"}
