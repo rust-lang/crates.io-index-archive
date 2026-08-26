@@ -9,3 +9,4 @@
 {"name":"snomed-core","vers":"0.8.0","deps":[],"cksum":"b5eedb950bb6c8e07a3f109b7fbc1d3a827cb38c3580a69d3ab3eb16d057266a","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-21T07:01:41Z"}
 {"name":"snomed-core","vers":"0.9.0","deps":[],"cksum":"b93f46adf1e8fa312e8a355c7f04b48ae3c479766584324a4f8838f7d639c438","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-22T08:20:29Z"}
 {"name":"snomed-core","vers":"0.10.0","deps":[],"cksum":"fafe5f54d4d408b1a51e313201897b9759cc9a9d51169ad621ed001ee7d8d156","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-23T12:47:19Z"}
+{"name":"snomed-core","vers":"0.11.0","deps":[],"cksum":"cca1291c23ddb719cd379d15797460b37a529119bd8f1be999ae8f543a6465f3","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-26T07:37:30Z"}
