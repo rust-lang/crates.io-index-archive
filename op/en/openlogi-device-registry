@@ -1,1 +1,2 @@
 {"name":"openlogi-device-registry","vers":"0.8.0","deps":[],"cksum":"c77dba9ef7a9b31ccbf06568cfc1a6c34a4301ed9f6f46db2c201076266230e8","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-08-25T15:33:16Z"}
+{"name":"openlogi-device-registry","vers":"0.8.1","deps":[],"cksum":"d004b228a9b376a1493cbe75823044cecd56334dd3d510599f8d7671c1dafd3c","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-08-26T13:03:39Z"}
