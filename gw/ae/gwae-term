@@ -1,0 +1,1 @@
+{"name":"gwae-term","vers":"1.0.0","deps":[{"name":"vt100","req":"^0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8562c2041afb99cf911a3c7d69ac0eb69a01e25217c644191c1b28ec85fdbf20","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-26T01:29:17Z"}
