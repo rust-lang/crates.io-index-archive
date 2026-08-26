@@ -12,3 +12,4 @@
 {"name":"br_tax_id","vers":"0.2.4","deps":[],"cksum":"b75fdf0b2709b11d68123ec26fe2a994b533029f8e80d8e85fd816dc1e72a0ee","features":{},"yanked":true,"pubtime":"2026-08-15T20:37:47Z"}
 {"name":"br_tax_id","vers":"0.2.5","deps":[],"cksum":"2371b47999eb2c92a6156b888afd3f2886ec417124a8d3db105a69a0ef8dbc8d","features":{},"yanked":true,"pubtime":"2026-08-15T20:42:58Z"}
 {"name":"br_tax_id","vers":"0.2.6","deps":[],"cksum":"a4d279aec3cda01ed283c6f33a992bd83eedc3b11d6fb37ea759c507b2e19590","features":{},"yanked":false,"pubtime":"2026-08-22T20:52:27Z"}
+{"name":"br_tax_id","vers":"0.2.7","deps":[],"cksum":"ada7ee927777daa5b2092ebd733c3b5b003532e45adb112765cbc7c855a1e9f6","features":{},"yanked":false,"pubtime":"2026-08-26T21:50:12Z"}
