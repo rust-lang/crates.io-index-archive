@@ -1,0 +1,1 @@
+{"name":"nexus-protocol-1","vers":"4.2.0-rc.1","deps":[{"name":"nexus-core","req":"^4.2.0-rc.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"nexus-core-1"}],"cksum":"38e5739bc5b3d4229e5961edf4eca70f12de61bbb6b53a74782b8cebfd003522","features":{},"yanked":false,"pubtime":"2026-08-26T21:34:00Z"}
