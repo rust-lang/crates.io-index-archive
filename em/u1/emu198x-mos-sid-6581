@@ -1,0 +1,1 @@
+{"name":"emu198x-mos-sid-6581","vers":"0.6.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"99732d1dfc3f6a767c22071cd292089af32caab740e4a95f49a5f68c9b4e64fd","features":{},"yanked":false,"pubtime":"2026-08-26T21:47:16Z"}
