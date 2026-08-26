@@ -75,3 +75,4 @@
 {"name":"rspack_workspace","vers":"0.102.0-beta.0","deps":[],"cksum":"263925e18fe9090ed3e9737e466799641f82dc36513085f225256f7778da43d0","features":{},"yanked":false,"pubtime":"2026-08-18T06:46:24Z"}
 {"name":"rspack_workspace","vers":"0.102.0-beta.1","deps":[],"cksum":"56ee0093b3b282f46275e8ca927da3c9538ff2b8985ff9d2c631b06477cda0d6","features":{},"yanked":false,"pubtime":"2026-08-18T09:19:57Z"}
 {"name":"rspack_workspace","vers":"0.102.0-rc.0","deps":[],"cksum":"450e4351c35925403d8c1fb3ea38bb89a3d97f07f700e2dffd36735c2ec7cd12","features":{},"yanked":false,"pubtime":"2026-08-21T09:47:46Z"}
+{"name":"rspack_workspace","vers":"0.102.0","deps":[],"cksum":"398fa969390c2806d62455b427f4308ec382e1f5727bfebdd932bb489459b449","features":{},"yanked":false,"pubtime":"2026-08-26T02:15:51Z"}
