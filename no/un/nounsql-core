@@ -1,0 +1,1 @@
+{"name":"nounsql-core","vers":"0.1.0","deps":[{"name":"indexmap","req":"^2.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81eb64d899c84858ef88a550b29a4a97f2ca6983462a4eeb24df13b69debb7bb","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-08-26T21:17:23Z"}
