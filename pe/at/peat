@@ -28,3 +28,4 @@
 {"name":"peat","vers":"0.9.0-rc.31","deps":[],"cksum":"b3f67cf37cd660fe4a5aea82436f500187c9286255eaea1bfcc4e36485bd1025","features":{},"yanked":false,"pubtime":"2026-07-18T23:41:01Z"}
 {"name":"peat","vers":"0.9.0-rc.32","deps":[],"cksum":"63107b708a70d3caf5f18281d3c11d279c33cd24dbc2fa9664808c23d2ae93d4","features":{},"yanked":false,"pubtime":"2026-08-03T16:32:09Z"}
 {"name":"peat","vers":"0.9.0-rc.33","deps":[],"cksum":"7bf583e887234f273740243c137549b0b5d55f39aee881e4566fc513cf24c74e","features":{},"yanked":false,"pubtime":"2026-08-04T18:12:09Z"}
+{"name":"peat","vers":"0.9.0-rc.34","deps":[],"cksum":"433625a460578a295643b6fda28825e0001f1ea95a8b356fa4362b0a75f484ae","features":{},"yanked":false,"pubtime":"2026-08-26T19:46:58Z"}
