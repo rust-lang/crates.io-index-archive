@@ -16,3 +16,4 @@
 {"name":"yosh-plugin-api","vers":"0.2.10","deps":[],"cksum":"2d44794108dc873fa4286e9d684951324c2365e537d30b734bfb8b94886ce0d0","features":{},"yanked":false,"pubtime":"2026-07-16T08:14:33Z"}
 {"name":"yosh-plugin-api","vers":"0.2.11","deps":[],"cksum":"0607d3fa550fc298da06d2930f650622c2584ae98ef103bf0f32c97d9a2874e1","features":{},"yanked":false,"pubtime":"2026-07-17T00:29:09Z"}
 {"name":"yosh-plugin-api","vers":"0.2.12","deps":[],"cksum":"d88330f356ee0b825894012f9d5945268d7c20b1ccb0d15588a891ae8ceaf162","features":{},"yanked":false,"pubtime":"2026-08-26T04:41:28Z"}
+{"name":"yosh-plugin-api","vers":"0.2.13","deps":[],"cksum":"ba7e623fae16669500d6b79be9f7360671a016d9a45fb1cef0cb0d2742b060e9","features":{},"yanked":false,"pubtime":"2026-08-26T11:39:14Z"}
