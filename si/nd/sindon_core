@@ -1,5 +1,0 @@
-{"name":"sindon_core","vers":"0.0.0","deps":[],"cksum":"ea0d354264f228e45777035b714c1698e5db3c25deea4a54c9a4817b3c5b319f","features":{},"yanked":true,"pubtime":"2026-07-27T02:17:38Z"}
-{"name":"sindon_core","vers":"0.1.0","deps":[],"cksum":"fb2b4338d6ed5522b12fb977b30f720732f1842e92ec7de64e1a787f366ad599","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-07-28T02:17:11Z"}
-{"name":"sindon_core","vers":"0.1.1","deps":[],"cksum":"604a9134fa9b254b05d4a725498ac3d7fef4f41dd4137974ccd598ce8a2f56d2","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-07-28T02:44:59Z"}
-{"name":"sindon_core","vers":"0.1.2","deps":[],"cksum":"7b2a565824235b254cc910acd2c7d1f26fc9f8e66e24d81483461e3151b6b93e","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-28T05:49:00Z"}
-{"name":"sindon_core","vers":"0.1.3","deps":[],"cksum":"8efe359e790c02ab472aa3be7526f6705d8e13ae36532f20298bb0ec3b68a913","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-07-28T08:32:23Z"}
