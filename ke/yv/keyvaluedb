@@ -11,3 +11,4 @@
 {"name":"keyvaluedb","vers":"0.2.1","deps":[],"cksum":"44b5cc0443db6585f8ab64f288b936b682e48001b353b13a997c2e621d294286","features":{},"yanked":false,"rust_version":"1.82.0","pubtime":"2026-08-22T00:26:28Z"}
 {"name":"keyvaluedb","vers":"0.2.2","deps":[],"cksum":"df182f2ada81b2f8dc300f4c3342cbbbd12b90173a47d0e0a6e5172a1b4e70a9","features":{},"yanked":false,"rust_version":"1.82.0","pubtime":"2026-08-25T03:13:42Z"}
 {"name":"keyvaluedb","vers":"0.2.3","deps":[],"cksum":"66be3e834a62b5e1ed561f1acab207996c5dfcb0a85a3a0256a7294f3e03cd12","features":{},"yanked":false,"rust_version":"1.82.0","pubtime":"2026-08-25T03:50:17Z"}
+{"name":"keyvaluedb","vers":"0.2.4","deps":[],"cksum":"cb64e62d343e5cb85c7e36e60403bcea00fe71ecd6702ebfa03258db92e91d5c","features":{},"yanked":false,"rust_version":"1.82.0","pubtime":"2026-08-26T02:29:40Z"}
