@@ -1,1 +1,0 @@
-{"name":"morphic-kernel","vers":"0.3.0","deps":[{"name":"bootloader_api","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"58a66e28c5d430d8ecf5380de27343b9b8b8235022afdddc23111c2a88880bc8","features":{"cloud":[],"containers":[],"default":[],"jit":[],"numa":[]},"yanked":false,"pubtime":"2026-08-26T03:26:05Z"}
