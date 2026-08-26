@@ -1,1 +1,0 @@
-{"name":"mercurio-foundation","vers":"0.85.0","deps":[{"name":"mercurio-core","req":"^0.85.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"291316096d9074a4ab1c82e88d6d5faadf15363062de008570f1be81d4876ca5","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-24T21:42:50Z"}
