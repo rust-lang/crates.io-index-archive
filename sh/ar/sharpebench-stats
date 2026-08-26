@@ -17,3 +17,4 @@
 {"name":"sharpebench-stats","vers":"0.10.0","deps":[],"cksum":"5fd9e5dc6cd30a64f8b37c9d4a31adbe6acbe5248caefa7daeb744cd4ad92c94","features":{},"yanked":false,"pubtime":"2026-08-25T15:07:34Z"}
 {"name":"sharpebench-stats","vers":"0.11.0","deps":[],"cksum":"76d1b4835e84e93180af9f6b17c10d47224e7f7a4b740cdd2cbd9700c3f10e29","features":{},"yanked":false,"pubtime":"2026-08-25T23:30:31Z"}
 {"name":"sharpebench-stats","vers":"0.12.0","deps":[],"cksum":"f9cc8c94cf9241ae8ebbc3aab62254ff4afe256c726004dd9309e601d3fa0af6","features":{},"yanked":false,"pubtime":"2026-08-26T09:12:33Z"}
+{"name":"sharpebench-stats","vers":"0.13.0","deps":[],"cksum":"aa95bbd20fd7591960e70adabd9bfc30734e504c258546d2ce4285300a27ee3b","features":{},"yanked":false,"pubtime":"2026-08-26T13:50:54Z"}
