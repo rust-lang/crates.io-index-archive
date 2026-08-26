@@ -1,0 +1,1 @@
+{"name":"picobootx-rp2350","vers":"0.1.0","deps":[{"name":"picobootx","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ac77171632b0f9bb96c441593fc62fd8e862cbbd8e913ef75d6e809c92c8055","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-26T07:41:41Z"}
