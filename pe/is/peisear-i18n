@@ -5,3 +5,4 @@
 {"name":"peisear-i18n","vers":"0.25.0","deps":[],"cksum":"6f1e9498bd9ad62aa5aef89d4016eea74354080d2b15c1e83c60046a85b94b36","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-08-24T13:19:34Z"}
 {"name":"peisear-i18n","vers":"0.26.0","deps":[],"cksum":"06a4f4e1926abef319ac5baf8127218c145f66c35c8d24ef8a032a743799bac7","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-08-24T23:52:14Z"}
 {"name":"peisear-i18n","vers":"0.27.0","deps":[],"cksum":"9eebfe93fa7dac44108b8d0a19aa34e61f512a5a7f82d869b330e6437f6c7eab","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-08-25T14:16:57Z"}
+{"name":"peisear-i18n","vers":"0.28.0","deps":[],"cksum":"a62fe19046f2e972d3897ff1257de22433cfd6943a5b4cfaeb0148dc9acd57d5","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-08-26T12:12:13Z"}
