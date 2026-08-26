@@ -1,0 +1,1 @@
+{"name":"gwae-testkit","vers":"1.0.0","deps":[{"name":"gwae-term","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c760bf000879f5e9e0ed0302066160f4c854d4570f622f47a35c55453b0e772f","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-26T01:29:29Z"}
