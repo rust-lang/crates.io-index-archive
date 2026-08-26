@@ -1,0 +1,1 @@
+{"name":"sriov-mac-sync","vers":"1.4.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ea2ff8dc22c922dbb4dc2428c8d8c9d6bbeec068deed41d47c19b9b879453c89","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-26T02:41:44Z"}
