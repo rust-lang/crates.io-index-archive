@@ -12,3 +12,4 @@
 {"name":"reconverge-core","vers":"0.1.12","deps":[],"cksum":"91a70ee119bc10b8a1dbe19675ba8557ad03f4f03208542ded3f5881f5b85942","features":{},"yanked":false,"pubtime":"2026-08-18T12:14:02Z"}
 {"name":"reconverge-core","vers":"0.2.0","deps":[],"cksum":"fb119f2b4c42c2dea337bb6947292d35205ab80eb04a5bbb62b99c606de68a78","features":{},"yanked":false,"pubtime":"2026-08-20T15:06:38Z"}
 {"name":"reconverge-core","vers":"0.3.0","deps":[],"cksum":"f7d1db65cc806cd8f7f16092ef3209398510d2ff052bce35b8e7ca5d91bdf466","features":{},"yanked":false,"pubtime":"2026-08-22T03:48:57Z"}
+{"name":"reconverge-core","vers":"0.4.0","deps":[],"cksum":"23e15b0c55ffdcf45ae262ea995fab7713df0fd66431a7c6352b06bc76718744","features":{},"yanked":false,"pubtime":"2026-08-26T11:23:53Z"}
