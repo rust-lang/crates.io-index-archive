@@ -1,0 +1,1 @@
+{"name":"shitty-vt-sys","vers":"0.1.0","deps":[{"name":"pkg-config","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"37299d83a8c7b633e5f8c5f5ea40c2999c28789fb7d8ecdbc1cecd4d1c474fe6","features":{},"yanked":false,"links":"shitty_vt","rust_version":"1.88","pubtime":"2026-08-26T06:12:20Z"}
