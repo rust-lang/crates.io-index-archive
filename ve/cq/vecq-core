@@ -1,0 +1,1 @@
+{"name":"vecq-core","vers":"0.1.1","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"07959c480b6d1d1d0d80eb92fa322271d6c2f1ae69529d6b0fbefc6dd4c88693","features":{},"yanked":false,"pubtime":"2026-08-26T02:39:48Z"}
