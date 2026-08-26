@@ -33,3 +33,4 @@
 {"name":"spg-tzif","vers":"7.38.20","deps":[],"cksum":"c7d6b17bbc35a38d8301b72ba01e49c9f1d2f9cc5a88f186c8c4e02d35f6c2d0","features":{},"yanked":false,"pubtime":"2026-08-25T03:50:12Z"}
 {"name":"spg-tzif","vers":"7.38.21","deps":[],"cksum":"2c6571938c415120f75be5fba203beb7540d6033fa46c0333adba397510dec77","features":{},"yanked":false,"pubtime":"2026-08-25T15:06:28Z"}
 {"name":"spg-tzif","vers":"7.38.22","deps":[],"cksum":"15ac35da2e0791f0765851767f91ec2cdacd328523efc428fc3d3884414abd4b","features":{},"yanked":false,"pubtime":"2026-08-26T09:48:17Z"}
+{"name":"spg-tzif","vers":"7.38.24","deps":[],"cksum":"978024eff93ea1375b66e0568f581e7facfc018923ce9653cf0198b2e32ee930","features":{},"yanked":false,"pubtime":"2026-08-26T23:06:20Z"}
