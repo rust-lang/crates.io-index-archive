@@ -1,0 +1,1 @@
+{"name":"iwchaos-chaos","vers":"0.1.0","deps":[{"name":"approx","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0b9a7ee49936689cb2b48351ae3f8857c29c4df137958c6ab6ff7824e7cde7ea","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-08-26T23:22:48Z"}
