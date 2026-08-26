@@ -1,0 +1,1 @@
+{"name":"nexus-fleet","vers":"4.2.0-rc.1","deps":[{"name":"nexus-core","req":"^4.2.0-rc.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"nexus-core-1"}],"cksum":"c890d61c8ac039915758c1c92f5810ccefcb59f52febfe16bc6d2661824a456f","features":{},"yanked":false,"pubtime":"2026-08-26T21:43:39Z"}
