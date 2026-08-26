@@ -1,0 +1,1 @@
+{"name":"libvpx-native","vers":"0.4.4","deps":[{"name":"libvpx-native-sys","req":"^5.0.17","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c56d03276a34eeb8859155b134776fd1f687ce4f11ae297919322df17504763e","features":{},"yanked":false,"pubtime":"2026-08-26T03:27:27Z"}
