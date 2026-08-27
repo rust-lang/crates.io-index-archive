@@ -6,3 +6,4 @@
 {"name":"demiurg-i18n","vers":"0.9.0","deps":[],"cksum":"4fc42e4fc21dd434239999893ca22ca9b3c0915dc0007da64683d6239985eb44","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-27T20:58:17Z"}
 {"name":"demiurg-i18n","vers":"0.10.0","deps":[],"cksum":"a0f61db3ab38e1a786bb96aa28dfb2799292ea64dfdc757ba973054705bc2165","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-06-27T21:54:52Z"}
 {"name":"demiurg-i18n","vers":"0.12.1","deps":[],"cksum":"48bbdbcd37193a542b039f78c0db756fb5af3d0be019b48de92bbb030659522b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-21T19:01:52Z"}
+{"name":"demiurg-i18n","vers":"0.13.0","deps":[],"cksum":"2d7feaad4dd5bb3225692d8a5726054edbd869d0d8c2a68936cdd0215aec3901","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-27T23:30:11Z"}
