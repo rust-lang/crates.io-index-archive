@@ -5,3 +5,4 @@
 {"name":"halley-core","vers":"0.3.1","deps":[],"cksum":"18a7768217bb9d1d45e755b7bcc1138436f349c8db2c3c37960daed3110d9601","features":{},"yanked":false,"pubtime":"2026-06-07T06:49:29Z"}
 {"name":"halley-core","vers":"0.4.0","deps":[],"cksum":"7da49e80d3121316e4b0a07882bcd9c45f8f3397b900ad6415fbccc201223477","features":{},"yanked":false,"pubtime":"2026-06-13T05:13:44Z"}
 {"name":"halley-core","vers":"0.5.0","deps":[],"cksum":"e1df259a4c6bbdf9382b87988fa1aaa7c7c832fcd0690882aa527259b07a0253","features":{},"yanked":false,"pubtime":"2026-07-01T04:53:41Z"}
+{"name":"halley-core","vers":"0.6.0","deps":[],"cksum":"5be3bfdcb1f79f906ea01f2abeae2d76c817aeabb3f84adeeac1246a48292b04","features":{},"yanked":false,"pubtime":"2026-08-27T05:35:09Z"}
