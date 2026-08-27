@@ -1,0 +1,1 @@
+{"name":"rusty_xml-alloc","vers":"0.2.0","deps":[{"name":"rusty_alloc-api","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5ed39882172907e55c20ec5c2bdcda5cb4684e3cd476eb8b0e026188424c7a4f","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-27T18:41:04Z"}
