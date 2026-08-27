@@ -1,0 +1,1 @@
+{"name":"ratiform","vers":"0.1.0","deps":[{"name":"ratatui","req":"^0.30.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2cb9d585b4bac6ddd2845524b714705efca780d75b6810b61fb052bdc6816440","features":{},"yanked":false,"pubtime":"2026-08-27T08:07:26Z"}
