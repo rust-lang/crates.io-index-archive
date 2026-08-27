@@ -1,0 +1,1 @@
+{"name":"squitter","vers":"0.1.0","deps":[{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"253c6eb9474a34626277105a523155a31fd53b0959e2165fb236e3744b72d71f","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-08-27T18:12:31Z"}
