@@ -25,3 +25,4 @@
 {"name":"limnifs-format","vers":"0.3.7","deps":[],"cksum":"f25f1b27d0256731f32bf1c235017e541f37962959c54415a2f9c38e3feb836c","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-27T04:36:36Z"}
 {"name":"limnifs-format","vers":"0.3.8","deps":[],"cksum":"4de66f3771529880dc597c1568654a5057b6e3e914f88d329eb72d68ed534a82","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-27T06:40:09Z"}
 {"name":"limnifs-format","vers":"0.3.9","deps":[],"cksum":"ed8e12bdff455f12ec789fc0c42b1803113b276bc94c0bc4d2007802e6a0e61a","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-27T11:30:33Z"}
+{"name":"limnifs-format","vers":"0.3.10","deps":[],"cksum":"1375b9ed973c30249edc7c5f992b887bba6a8fe0ac714cbf78643d1fd7555da4","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-27T21:34:41Z"}
