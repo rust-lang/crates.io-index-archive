@@ -1,0 +1,1 @@
+{"name":"cargo-embed-manifest","vers":"0.1.0","deps":[{"name":"cargo-embed-manifest-macro","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af6cbb21a1f75a5de2e531b82f802154d43a5b7e75df59cd896c308c45edd828","features":{},"yanked":false,"pubtime":"2026-08-27T11:11:03Z"}
