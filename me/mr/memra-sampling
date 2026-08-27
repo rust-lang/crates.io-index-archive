@@ -60,3 +60,4 @@
 {"name":"memra-sampling","vers":"0.113.2","deps":[],"cksum":"440cbc54553a7ba5f65c39f92cacb491d604ce7d298e6a7447575dc4540d76d6","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-25T17:32:17Z"}
 {"name":"memra-sampling","vers":"0.115.0","deps":[],"cksum":"0fe2505ac3f2fe0cf310b4b07d20f177c783012723768c03a9c2e355e6afcb1e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-27T03:56:50Z"}
 {"name":"memra-sampling","vers":"0.116.0","deps":[],"cksum":"1cc584bf45f63f96732ef38aabd66ce4517764fd876c9639a25330b68099a9e1","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-27T10:45:16Z"}
+{"name":"memra-sampling","vers":"0.116.1","deps":[],"cksum":"bc1b1aa63f963602c01e04b2c534aeda5411de0dc4de046492c24e86e77ee33c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-27T11:09:16Z"}
