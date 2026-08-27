@@ -40,3 +40,4 @@
 {"name":"amont-runtime","vers":"1.20.0","deps":[],"cksum":"ac100c53520db34aa641a3562140992d990c5ae7b31abbfbd94e791e6ce1c8c8","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-26T12:02:28Z"}
 {"name":"amont-runtime","vers":"1.20.1","deps":[],"cksum":"dd2dfb3f1509e6c3fc79b0ac803bc366e7631be9ca048fd8e1224c57086d4a37","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-26T12:27:27Z"}
 {"name":"amont-runtime","vers":"1.21.0","deps":[],"cksum":"9cc85f19d7dd5bfb6582b36f7b95ca70296a21932ff34af9c3d823cac2d2a9fe","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-26T19:49:53Z"}
+{"name":"amont-runtime","vers":"1.22.0","deps":[],"cksum":"a263a41eac7d9523286c6fb98b4fb6b250da9959a151a9e141421044150ee9c5","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-27T13:42:54Z"}
