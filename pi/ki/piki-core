@@ -6,3 +6,4 @@
 {"name":"piki-core","vers":"0.5.0","deps":[],"cksum":"df3f684091493f475fe53a59f82d0a8802f6ca551e1d470b6242fbfa7d49736d","features":{},"yanked":false,"pubtime":"2026-07-07T05:57:40Z"}
 {"name":"piki-core","vers":"0.6.0","deps":[],"cksum":"7922c4135cd4a4054d631661bc493c30b4771319ebbb6ace105fa44c711f237f","features":{},"yanked":false,"pubtime":"2026-07-08T04:36:21Z"}
 {"name":"piki-core","vers":"0.7.0","deps":[],"cksum":"7ee899278b09002525bdd7fd57af2387849300c2fdcba28285ed40c8f904f9c1","features":{},"yanked":false,"pubtime":"2026-08-19T05:28:40Z"}
+{"name":"piki-core","vers":"0.7.1","deps":[],"cksum":"3dccbc759c3824e1de929e88557a8008a08b96ace8dd4f42f286a12adab0bfc4","features":{},"yanked":false,"pubtime":"2026-08-27T14:18:46Z"}
