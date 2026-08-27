@@ -1,0 +1,1 @@
+{"name":"sharpebench-memory","vers":"0.13.0","deps":[{"name":"sharpebench-stats","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"63e27016e057f99f94cddd9d41d144a253804336a44be6c7763734c495db27fe","features":{},"yanked":false,"pubtime":"2026-08-27T15:11:15Z"}
