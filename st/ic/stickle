@@ -1,0 +1,1 @@
+{"name":"stickle","vers":"0.1.0","deps":[{"name":"ratatui","req":"^0.30","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"618402ceb1a898d12d506a565f2975933ec8f9abdb2c7ae349dccd30f62e6a4d","features":{},"yanked":false,"pubtime":"2026-08-27T11:35:49Z"}
