@@ -3,3 +3,4 @@
 {"name":"heddle-perf-contract","vers":"0.13.0","deps":[],"cksum":"991218843ad526cffd2b199327675b615bf2a727787eb4d73a99327d78c8b340","features":{},"yanked":false,"pubtime":"2026-08-21T04:50:21Z"}
 {"name":"heddle-perf-contract","vers":"0.14.0","deps":[],"cksum":"891562b952f692ea41e0a61cff91417163c34bd833a26cf21c2552f14b4a4c77","features":{},"yanked":false,"pubtime":"2026-08-21T22:14:11Z"}
 {"name":"heddle-perf-contract","vers":"0.15.0","deps":[],"cksum":"fa5ebfcb372346cdc14599a659a94297ddfc65378d48b8936909507603629acc","features":{},"yanked":false,"pubtime":"2026-08-23T19:13:59Z"}
+{"name":"heddle-perf-contract","vers":"0.15.1","deps":[],"cksum":"99335dccb9842bc957610bfd735ac96f0ab42b20c0eb46fcc2e60c25871c08e5","features":{},"yanked":false,"pubtime":"2026-08-27T01:26:48Z"}
