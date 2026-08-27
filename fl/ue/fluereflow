@@ -3,3 +3,4 @@
 {"name":"fluereflow","vers":"0.3.0","deps":[{"name":"rlua","req":"^0.19.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3fe6ab4d95c619d5ed37d78f8d12c13a6503d75402fd23d8eb0f70f9bbed27f9","features":{},"yanked":false,"pubtime":"2023-08-28T06:49:18Z"}
 {"name":"fluereflow","vers":"0.3.1","deps":[],"cksum":"7efb97d8982dd00680c9d0a3b1e78712a5a6cd6be0d78e7f4e9a7490761a4b1d","features":{},"yanked":false,"pubtime":"2023-09-11T00:23:27Z"}
 {"name":"fluereflow","vers":"0.3.2","deps":[],"cksum":"0e126e97cb9c98f7f4100ffbbf1d166c081e6aca7194fd66c0de98e2c90396e9","features":{},"yanked":false,"pubtime":"2024-01-02T05:11:05Z"}
+{"name":"fluereflow","vers":"0.5.0","deps":[],"cksum":"379b04fb747eef7a5cf8293e6115aef8b7d98ef340229f1d182162f8f88609a1","features":{},"yanked":false,"pubtime":"2026-08-27T01:30:05Z"}
