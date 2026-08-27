@@ -25,3 +25,4 @@
 {"name":"scry-sai-provenance","vers":"3.2.4","deps":[],"cksum":"b95e76d376ff174e4802ce1c93960b113d67eb4c1e82144d124d2c24a7aaf7a3","features":{},"yanked":false,"pubtime":"2026-07-15T04:31:09Z"}
 {"name":"scry-sai-provenance","vers":"3.2.5","deps":[],"cksum":"3c7cf0f4377cbe22a16ade6c744f802d6a4c816cd97ac44438783cc7cc92adeb","features":{},"yanked":false,"pubtime":"2026-08-21T12:56:35Z"}
 {"name":"scry-sai-provenance","vers":"3.2.6","deps":[],"cksum":"7c089732c8fb30b22ee55250a2aaea340b147de790d7b84504240a61fc74a84f","features":{},"yanked":false,"pubtime":"2026-08-26T12:24:16Z"}
+{"name":"scry-sai-provenance","vers":"3.2.7","deps":[],"cksum":"3715f1c898a7031e8f90f4e4959e76841fe15aaa0fd9f7ead6cd59622a1992e6","features":{},"yanked":false,"pubtime":"2026-08-27T09:25:32Z"}
