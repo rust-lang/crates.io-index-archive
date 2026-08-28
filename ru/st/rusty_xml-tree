@@ -1,3 +1,4 @@
 {"name":"rusty_xml-tree","vers":"0.1.0","deps":[],"cksum":"08391d076b8889bf89944bdab15ea91a317375f593e4af38048694fa7c85104b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-27T13:48:47Z"}
 {"name":"rusty_xml-tree","vers":"0.2.0","deps":[],"cksum":"0fd9204a1fce5b2021e54b690017cba01ba635c3d427e838263fbefe2b6bd0d4","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-27T18:40:58Z"}
 {"name":"rusty_xml-tree","vers":"0.3.0","deps":[],"cksum":"42a21578d810fa984a375b5a6de90e8ae2ca8ef33bc012525c2ea9f1fe4a1ba3","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-28T00:56:41Z"}
+{"name":"rusty_xml-tree","vers":"0.4.0","deps":[],"cksum":"f65b8bbb74d3e92bfff8c6bf910fa67f4a2cb3e5ea78fa47070e2e7ee070f152","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-28T02:13:45Z"}
