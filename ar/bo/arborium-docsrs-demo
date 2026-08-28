@@ -46,3 +46,4 @@
 {"name":"arborium-docsrs-demo","vers":"2.17.0","deps":[],"cksum":"3272c37b734914c7c59fb2f25dd2d7f5ffad265241547b5ad65ef7a6906340e7","features":{},"yanked":false,"pubtime":"2026-05-09T13:05:58Z"}
 {"name":"arborium-docsrs-demo","vers":"2.18.0","deps":[],"cksum":"ef94ef7c75efb696fc60fdab789051074a7dcceca21dc4318562453ea32bf6b9","features":{},"yanked":false,"pubtime":"2026-06-01T20:03:07Z"}
 {"name":"arborium-docsrs-demo","vers":"2.18.1","deps":[],"cksum":"7a06681b80f4c2ea9f675c47b175ba3c1389f8af9935acf4dd6204dbf06d650f","features":{},"yanked":false,"pubtime":"2026-06-23T02:42:34Z"}
+{"name":"arborium-docsrs-demo","vers":"2.18.2","deps":[],"cksum":"41cabdb17ca6dc101fddff7d09130f7b4c419bf5a9da8330aa7f9912e3a78638","features":{},"yanked":false,"pubtime":"2026-08-28T15:01:20Z"}
