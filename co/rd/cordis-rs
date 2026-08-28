@@ -22,3 +22,4 @@
 {"name":"cordis-rs","vers":"0.5.3","deps":[],"cksum":"8ae17a65ad1a11dab7f0726e876f5a15e7fc80014e1ce1dbc79c8590d5d8ee73","features":{"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-19T07:49:14Z"}
 {"name":"cordis-rs","vers":"0.6.0","deps":[],"cksum":"3fca3f5d9924073dad6e9946cb60fe09b9ecbf14281b4bc25abf38cccf544d6f","features":{"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-19T09:51:36Z"}
 {"name":"cordis-rs","vers":"0.6.1","deps":[],"cksum":"4524c3dc3b6fe2f20304f41f3d18166e735ed11f5a16c5bf25bd3a0b9d696024","features":{"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-19T10:13:25Z"}
+{"name":"cordis-rs","vers":"0.6.2","deps":[],"cksum":"ddc1877fc0c015a47a4e780bf6366fcb9f77a136f7dbdb6d125ca371f5bda7ed","features":{"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-28T17:24:25Z"}
