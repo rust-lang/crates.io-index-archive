@@ -15,3 +15,4 @@
 {"name":"runmat-thread-local","vers":"0.5.6","deps":[],"cksum":"3eb82300f2b62364447ae087ec1263c93288e3548cd4539c7ae1ce6d0183d74e","features":{},"yanked":false,"pubtime":"2026-06-29T01:09:20Z"}
 {"name":"runmat-thread-local","vers":"0.6.0","deps":[],"cksum":"3725c92729d7c36c462cebfd6eef3cf5483fc811ad5343cbc1d5468d1623d684","features":{},"yanked":false,"pubtime":"2026-07-28T17:15:06Z"}
 {"name":"runmat-thread-local","vers":"0.6.1","deps":[],"cksum":"f94736ad87fb08e1b365a8a461b32b93eca7bae254bcebe0e7564e3504963bb7","features":{},"yanked":false,"pubtime":"2026-08-05T08:02:25Z"}
+{"name":"runmat-thread-local","vers":"0.6.2","deps":[],"cksum":"734611ba9953065708cf049fe76ddc2bf94b693935c68222a93c7c4941237ec0","features":{},"yanked":false,"pubtime":"2026-08-28T07:04:22Z"}
