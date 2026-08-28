@@ -79,3 +79,4 @@
 {"name":"solana-svm-feature-set","vers":"4.3.0-beta.1","deps":[],"cksum":"7c639bcb12acef864dc8cd67c3c8250a9c4a7238b780677ae53dd6c7e39f1102","features":{"agave-unstable-api":[]},"yanked":true,"rust_version":"1.97.1","pubtime":"2026-08-21T13:00:29Z"}
 {"name":"solana-svm-feature-set","vers":"4.3.0-beta.2","deps":[],"cksum":"713a6c7e40ef3efc8038f4445c40fc483f7109ce4a720326bc0ef19a64c43a4c","features":{"agave-unstable-api":[]},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-08-21T14:48:27Z"}
 {"name":"solana-svm-feature-set","vers":"4.4.0-alpha.2","deps":[],"cksum":"b27154cc2b7672628a19c0b71f98a2daf153fb3eb30478c706b3a32d717b68d7","features":{"agave-unstable-api":[]},"yanked":false,"rust_version":"1.98.0","pubtime":"2026-08-28T06:21:56Z"}
+{"name":"solana-svm-feature-set","vers":"4.2.2","deps":[],"cksum":"580d385250ddc3826e5d082b221d9d1047bddcc63ee18313f14dcafb95fdcae5","features":{"agave-unstable-api":[]},"yanked":false,"pubtime":"2026-08-28T18:57:31Z"}
