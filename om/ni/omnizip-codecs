@@ -161,3 +161,4 @@
 {"name":"omnizip-codecs","vers":"0.21.12","deps":[],"cksum":"177797741bde0aaa01caffba67a729a4caadddd3731f2fa7628a4fdff3cf1f07","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-28T06:18:16Z"}
 {"name":"omnizip-codecs","vers":"0.21.13","deps":[],"cksum":"b6822c97c6d0dea4be0a49b7ffe3ceccbf73af417c252d1dd3c30e3afb8fc919","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-28T07:16:33Z"}
 {"name":"omnizip-codecs","vers":"0.21.14","deps":[],"cksum":"e1a6dc816230bc53c951065cc1ea4fe8a4ef5a3cbb049bbe71eadecad567b11f","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-28T08:41:00Z"}
+{"name":"omnizip-codecs","vers":"0.21.15","deps":[],"cksum":"40a905dcec0751e11b19c4abb90503f8e436724d253a2a87a469204183fb9a11","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-08-28T14:18:02Z"}
