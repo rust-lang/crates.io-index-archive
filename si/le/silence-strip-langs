@@ -8,3 +8,4 @@
 {"name":"silence-strip-langs","vers":"0.6.0","deps":[],"cksum":"186070fef8152fac00aa65439e546e4b5e70487cb8dc43aa43d1eaadf69d860c","features":{},"yanked":false,"pubtime":"2026-06-27T00:49:54Z"}
 {"name":"silence-strip-langs","vers":"0.7.0","deps":[],"cksum":"f42b8c7cd698bd24a7c41f5056959a303fda5e81fe15dcfdefda633d5ec4d490","features":{},"yanked":false,"pubtime":"2026-07-01T14:08:49Z"}
 {"name":"silence-strip-langs","vers":"0.8.0","deps":[],"cksum":"f0050f10b6495ee6511fe6f29df371fd8d66248f7dba521dac1996c3b999ba54","features":{},"yanked":false,"pubtime":"2026-08-18T16:46:22Z"}
+{"name":"silence-strip-langs","vers":"0.8.1","deps":[],"cksum":"db021c0b0ea4475d7d8682b9af026e162b2dd61ad59e3a356e69dc28075639d5","features":{},"yanked":false,"pubtime":"2026-08-28T12:30:28Z"}
