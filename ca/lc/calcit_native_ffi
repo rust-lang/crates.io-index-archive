@@ -1,0 +1,1 @@
+{"name":"calcit_native_ffi","vers":"0.1.0","deps":[{"name":"cirru_edn","req":"^0.8.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a985b8b73c1025a00f7e03bfc673c8e44e5671be78af4783b856b8f85464cc66","features":{},"features2":{"default":["edn"],"edn":["dep:cirru_edn"]},"yanked":false,"pubtime":"2026-08-28T01:42:56Z","v":2}
