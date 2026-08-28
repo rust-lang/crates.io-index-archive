@@ -13,3 +13,4 @@
 {"name":"pdfboss-jpx","vers":"0.21.0","deps":[],"cksum":"3d0655aca5d8e12e63a0bd99495ff8cfba089aad202a42c921ac21376969b78d","features":{},"yanked":false,"pubtime":"2026-08-27T11:11:42Z"}
 {"name":"pdfboss-jpx","vers":"0.21.1","deps":[],"cksum":"277e15fc5625033dbc48d0878713dad895b0d9212b786967d1f443342dd56a45","features":{},"yanked":false,"pubtime":"2026-08-27T13:58:58Z"}
 {"name":"pdfboss-jpx","vers":"0.22.0","deps":[],"cksum":"b235089aba703aaf4a45bec994bebba3bfb0a113d508d823774077979970e407","features":{},"yanked":false,"pubtime":"2026-08-28T06:38:06Z"}
+{"name":"pdfboss-jpx","vers":"0.23.0","deps":[],"cksum":"97cb7a09b404ce4e4eaec86dd0e081d16dfb61de8afa639c88c9547f12e27cc9","features":{},"yanked":false,"pubtime":"2026-08-28T09:59:45Z"}
