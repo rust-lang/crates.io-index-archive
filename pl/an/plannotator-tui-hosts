@@ -1,0 +1,1 @@
+{"name":"plannotator-tui-hosts","vers":"0.2.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6eb75389593a0154734b11391262d909f6129a5b85fd174cae37fd9851529c4a","features":{},"yanked":false,"pubtime":"2026-08-28T18:31:39Z"}
