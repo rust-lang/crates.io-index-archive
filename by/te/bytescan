@@ -1,0 +1,1 @@
+{"name":"bytescan","vers":"0.0.31","deps":[{"name":"fearless_simd","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e3ceb657e79dacc3b90db6a46cf30e1bebbc388bdded55f3cdbe8dd2e966085","features":{},"yanked":false,"pubtime":"2026-08-28T17:52:08Z"}
