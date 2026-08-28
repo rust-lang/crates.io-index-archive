@@ -38,3 +38,4 @@
 {"name":"ztracing-macro-gpui-unofficial","vers":"1.16.2","deps":[],"cksum":"3bacbf17ebe41a6cba930e5042caf78c59dba4f943ad72816645317652542c4d","features":{},"yanked":false,"pubtime":"2026-08-24T20:04:43Z"}
 {"name":"ztracing-macro-gpui-unofficial","vers":"1.16.3","deps":[],"cksum":"bbba9f566f79165c2fae747b047c062dd761d63737e682216fa888fb22e96fe3","features":{},"yanked":false,"pubtime":"2026-08-26T02:56:04Z"}
 {"name":"ztracing-macro-gpui-unofficial","vers":"1.17.2","deps":[],"cksum":"2728bf96076359bdd2cc676b958142b6bedceeaac6a1b25c1246dd6d2f651c33","features":{},"yanked":false,"pubtime":"2026-08-26T22:13:52Z"}
+{"name":"ztracing-macro-gpui-unofficial","vers":"1.18.0-pre","deps":[],"cksum":"9319bada03ae76cc6a805df9ad5390c77f89839f46ce2796aec36bdf0b60bbe6","features":{},"yanked":false,"pubtime":"2026-08-28T23:53:50Z"}
