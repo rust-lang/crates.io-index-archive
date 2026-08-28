@@ -5,3 +5,4 @@
 {"name":"ferroscope-receipt","vers":"0.1.4","deps":[],"cksum":"b16b714285077b5b163ac6d3b6e8912a30a4cdc587d59a267cea3f8631a7aed3","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-08-26T14:35:12Z"}
 {"name":"ferroscope-receipt","vers":"0.1.5","deps":[],"cksum":"618ec567d5e1b3da435a0ed01ca34f5f2c9d309c4dd4bcb99bde072cde191ef5","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-08-27T15:22:05Z"}
 {"name":"ferroscope-receipt","vers":"0.1.6","deps":[],"cksum":"3ad5d68b26852edf2a9648f50d714c5476d9abd7249b74a9f4d20a3a3b008a9b","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-08-28T13:44:00Z"}
+{"name":"ferroscope-receipt","vers":"0.1.7","deps":[],"cksum":"b750a49a03125f7f92bbb4e4c4b8661ef9dce570faa41702278370118b1e513c","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-08-28T14:25:43Z"}
