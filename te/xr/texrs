@@ -1,0 +1,1 @@
+{"name":"texrs","vers":"0.1.0","deps":[{"name":"fusevm","req":"^0.26.0","features":["jit","jit-disk-cache"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"395d1751975a08d661d5da1e41c1c1e494a70d688963269f2e65dd4ab63083f6","features":{},"yanked":false,"pubtime":"2026-08-29T22:17:10Z"}
