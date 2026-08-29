@@ -19,3 +19,4 @@
 {"name":"sharpebench-stats","vers":"0.12.0","deps":[],"cksum":"f9cc8c94cf9241ae8ebbc3aab62254ff4afe256c726004dd9309e601d3fa0af6","features":{},"yanked":false,"pubtime":"2026-08-26T09:12:33Z"}
 {"name":"sharpebench-stats","vers":"0.13.0","deps":[],"cksum":"aa95bbd20fd7591960e70adabd9bfc30734e504c258546d2ce4285300a27ee3b","features":{},"yanked":false,"pubtime":"2026-08-26T13:50:54Z"}
 {"name":"sharpebench-stats","vers":"0.14.0","deps":[],"cksum":"71174537dbba1221ca02f40bbaf4cbbed7ddc91f54667e360faf09548476ef76","features":{},"yanked":false,"pubtime":"2026-08-27T16:19:45Z"}
+{"name":"sharpebench-stats","vers":"0.14.1","deps":[],"cksum":"82a2ee2246644b8a0c375afd58a6f27a40fc4c8d3406d6f3d18aba6e061fd4e4","features":{},"yanked":false,"pubtime":"2026-08-29T21:18:59Z"}
