@@ -20,3 +20,4 @@
 {"name":"appcui_proc_macro","vers":"0.2.9","deps":[],"cksum":"5cb3fd96202086d924f933c4eec47f4c355d905e9865bf93cdb28a34163919f0","features":{},"yanked":false,"pubtime":"2026-07-26T14:46:32Z"}
 {"name":"appcui_proc_macro","vers":"0.3.0","deps":[],"cksum":"1f7377366bd2825290051418bbc6f4e31bf0d13272b60c17907c035bea6984f0","features":{},"yanked":false,"pubtime":"2026-08-01T21:16:59Z"}
 {"name":"appcui_proc_macro","vers":"0.3.1","deps":[],"cksum":"1eb2f37fff3f4a04ec4d72399c201a2b35258d7ecec52b0a7cac5f59c1c53f8e","features":{},"yanked":false,"pubtime":"2026-08-05T20:19:46Z"}
+{"name":"appcui_proc_macro","vers":"0.3.2","deps":[],"cksum":"f059252adc2620527bd81f17790318d5f0b766a93e086ef898b21210e8793cf8","features":{},"yanked":false,"pubtime":"2026-08-29T06:49:21Z"}
