@@ -1,0 +1,1 @@
+{"name":"vsh-types","vers":"0.3.0","deps":[{"name":"blake3","req":"=1.8.7","features":["std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9d9511a05c48019c8686afd8febc07735a1bf10089389cd559268fa80fd5a6df","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-29T17:54:47Z"}
