@@ -40,3 +40,4 @@
 {"name":"tari_features","vers":"5.6.0","deps":[],"cksum":"b39875f334c36182679b236eb41a50baa8c27e21b408b34255a96f9f74e5c2e1","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-08-10T08:21:15Z"}
 {"name":"tari_features","vers":"5.7.0-pre.0","deps":[],"cksum":"515b56ef09691938c1bc3ab6569d95c6d98d33fb17aeca4dfd06d7fddb592692","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-08-21T18:12:55Z"}
 {"name":"tari_features","vers":"5.7.0-pre.1","deps":[],"cksum":"e48804ea4ac869ebbb8b8a7f37734ae9339e177e45fc63f7b93ecf0b11471d80","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-08-25T13:37:44Z"}
+{"name":"tari_features","vers":"5.7.0-pre.3","deps":[],"cksum":"f18c5e05f5b0e5ec64be94469eb83c4def990c2d7510d489c836997abf68e485","features":{},"yanked":false,"rust_version":"1.93.0","pubtime":"2026-08-29T18:58:56Z"}
