@@ -6,3 +6,4 @@
 {"name":"rusty_xml-sax","vers":"0.6.0","deps":[],"cksum":"0e99b6d3bc3593449e9188b32c86bd760d884ae1def334503430ad4f22c4fda6","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-28T04:32:02Z"}
 {"name":"rusty_xml-sax","vers":"0.7.0","deps":[],"cksum":"2894858f5bed513c1aedb026d9dedddf8d16083b1827d2a7142b6d31945f2ec5","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-28T05:26:51Z"}
 {"name":"rusty_xml-sax","vers":"0.8.0","deps":[],"cksum":"221b2b922799117acc80fabd72ec302021d15566078713dc21ccf146766f8be8","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-28T05:53:20Z"}
+{"name":"rusty_xml-sax","vers":"0.8.1","deps":[],"cksum":"8542e0d8dc4535799b5e592510d8dcde64739e7a83dc9bf53b231128e587aff4","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-29T00:24:38Z"}
