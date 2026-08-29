@@ -21,3 +21,4 @@
 {"name":"hjkl-fuzzy","vers":"0.41.1","deps":[],"cksum":"135f137cfee8e17bb80c8c55a228cedc09990b5e059915e805449798cba52a1f","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-06T10:17:29Z"}
 {"name":"hjkl-fuzzy","vers":"0.41.2","deps":[],"cksum":"bde3969f9421b728c576b04792d3d0edfb687be636966dff6b247024f6a61b58","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-06T14:00:23Z"}
 {"name":"hjkl-fuzzy","vers":"0.41.3","deps":[],"cksum":"72c22f0e3578d201e6f39bb543d222e9748518e5af430c5778324f0178d95530","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-12T05:23:19Z"}
+{"name":"hjkl-fuzzy","vers":"0.41.4","deps":[],"cksum":"ab587b96f5133aa76fb5d712d83d47be1300640d69ff63a6c094cfb54a7c10cb","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-29T15:39:22Z"}
