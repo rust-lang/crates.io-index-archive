@@ -19,3 +19,4 @@
 {"name":"cofre-fs","vers":"0.1.20","deps":[],"cksum":"7c7e841cd285d7f5eaa486e9b171d17bf625f9bb49069c530cdeef33a0e44454","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-29T14:45:11Z"}
 {"name":"cofre-fs","vers":"0.1.21","deps":[],"cksum":"44293b60ababbd79a5bd03df476504d4e433a46bb52cede7c223fe5263faebb9","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-29T15:47:21Z"}
 {"name":"cofre-fs","vers":"0.1.22","deps":[],"cksum":"13193f7dd36cddf6f0ab21369f407617875105f03a2a7ee6d0bf8d5836428fd2","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-29T17:14:03Z"}
+{"name":"cofre-fs","vers":"0.1.23","deps":[],"cksum":"37384164e967d9458f289790905e1f79513aaf9a810a449b7f91ee4844f4d2d6","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-29T17:27:01Z"}
