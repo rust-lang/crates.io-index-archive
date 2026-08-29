@@ -21,3 +21,4 @@
 {"name":"znative","vers":"0.12.40","deps":[],"cksum":"9ce70910796807d60cf57c9fe986be02dde75b22e774d989446e8999de557e4c","features":{},"yanked":false,"pubtime":"2026-08-26T04:03:23Z"}
 {"name":"znative","vers":"0.12.41","deps":[],"cksum":"59b59ead5398c3e368428ee748ef9f0726ccd04d55c85ca960a1e632b57b1c11","features":{},"yanked":false,"pubtime":"2026-08-29T14:37:08Z"}
 {"name":"znative","vers":"0.12.43","deps":[],"cksum":"7d3738a590cc9e441803a2ea619b4ab3a85ff1a11a953809d53e0d8f1f33457d","features":{},"yanked":false,"pubtime":"2026-08-29T21:34:26Z"}
+{"name":"znative","vers":"0.12.44","deps":[],"cksum":"1eddcd2d1c6baa7291223da5ab35c66d1ce6b335c3c93ed39f36384fe67b8136","features":{},"yanked":false,"pubtime":"2026-08-29T23:31:19Z"}
