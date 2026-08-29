@@ -7,3 +7,4 @@
 {"name":"oxml-media","vers":"0.5.0","deps":[],"cksum":"516803e3e6a8200d7c695e10dc6d9bdfa68840a3f9cb0924d70331168e11f964","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-23T17:17:46Z"}
 {"name":"oxml-media","vers":"0.6.0","deps":[],"cksum":"5b424db2d003a7224c84fa4722bbbc10541e3985b938d85d47eec9429849323c","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-25T15:37:28Z"}
 {"name":"oxml-media","vers":"0.7.0","deps":[],"cksum":"7d3b947b687f8a2c681686b9a007265241fd18195c006bfb67873e89bfe632fb","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-27T07:26:36Z"}
+{"name":"oxml-media","vers":"0.8.0","deps":[],"cksum":"3c5477a90c9943a43635a29d999bb732ebb124a9baec6e81871c4646a94e7a6f","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-08-29T14:45:53Z"}
