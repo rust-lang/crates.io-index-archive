@@ -5,3 +5,4 @@
 {"name":"bezel-zed-ztracing-macro","vers":"0.3.4+zed.d9ad6a","deps":[],"cksum":"bd3d1d24fb398cdb35dd09ee495b04154cb0c9cdedc09a8b4a52ba23d20e2f70","features":{},"yanked":false,"pubtime":"2026-08-27T11:17:31Z"}
 {"name":"bezel-zed-ztracing-macro","vers":"0.3.5+zed.d9ad6a","deps":[],"cksum":"2cc10fe879fc0a4c612267e6f4f3d30fee73f2bb85ba2ee0a0083d2232a7a4b5","features":{},"yanked":false,"pubtime":"2026-08-28T15:55:25Z"}
 {"name":"bezel-zed-ztracing-macro","vers":"0.3.6+zed.d9ad6a","deps":[],"cksum":"17a923e7ae9f43df6e0482832c8549930e253b0e41c8b0d7ebcdbdb339f0e946","features":{},"yanked":false,"pubtime":"2026-08-29T13:05:04Z"}
+{"name":"bezel-zed-ztracing-macro","vers":"0.3.7+zed.82aeef","deps":[],"cksum":"5c9afb86b8ad62d849348fe47bfed088431e05821f6c5491f34a3b3e847e23b0","features":{},"yanked":false,"pubtime":"2026-08-29T23:26:38Z"}
