@@ -5,3 +5,4 @@
 {"name":"ps-base64","vers":"0.1.0-5","deps":[],"cksum":"012fc9691413e5a002e04100baf450242b613e22cd0c3903187a1f92a34c5b07","features":{},"yanked":false,"pubtime":"2025-05-23T21:48:58Z"}
 {"name":"ps-base64","vers":"0.1.0-6","deps":[],"cksum":"6af84f574eedaaffddf117adf2db310a5b9270bbf3b2d5ae57c438fd99afcd5c","features":{},"yanked":false,"pubtime":"2025-10-25T22:06:48Z"}
 {"name":"ps-base64","vers":"0.1.0-7","deps":[],"cksum":"3321942050c9bd16fc8f92f78d4afb175c9a02822c3a32f6c11865497a096227","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-08-02T11:08:45Z"}
+{"name":"ps-base64","vers":"0.1.0-8","deps":[],"cksum":"bd2fcb374ad928ec89a86fc7646455140b65b675fdc1d8cd34ffac47aea7233b","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-08-30T23:13:08Z"}
