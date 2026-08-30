@@ -1,0 +1,1 @@
+{"name":"automation-structures","vers":"0.1.0","deps":[{"name":"vstd","req":"=0.0.0-2026-05-24-0157","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"510603c8232307318ead743e60aed2599c8b9502978b8a574022ce988b99804d","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-30T23:54:36Z"}
