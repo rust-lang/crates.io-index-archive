@@ -9,3 +9,4 @@
 {"name":"ashwa","vers":"0.2.1","deps":[],"cksum":"293eda4368710955b6c81e0c6b09196bac26c90fc8d028fb922b79d09f7d66b0","features":{},"yanked":true,"rust_version":"1.85.0","pubtime":"2026-08-28T20:45:17Z"}
 {"name":"ashwa","vers":"0.2.2","deps":[],"cksum":"da81182ff7f1e6c3ea1ab407db55ed629c386365c46fe6c315bacffb938bf158","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-29T07:05:14Z"}
 {"name":"ashwa","vers":"0.2.3","deps":[],"cksum":"75ee6abcb38403d5562f4bfb80b9f3f92f27595c89bc9f180849a8ca829342c2","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-29T09:14:28Z"}
+{"name":"ashwa","vers":"0.2.4","deps":[],"cksum":"d2c9266351230d710ab58b77a585cc33e3adc5243f8e8603b55fc659a98fa063","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-08-30T10:37:22Z"}
