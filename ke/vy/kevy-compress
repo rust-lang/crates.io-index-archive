@@ -5,3 +5,4 @@
 {"name":"kevy-compress","vers":"5.4.0","deps":[],"cksum":"292ffabdb64b153649a74d61bea4f86a87b580349d0f890e6d29920f4cb58535","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-23T00:27:49Z"}
 {"name":"kevy-compress","vers":"5.4.1","deps":[],"cksum":"dddaeb5c5cc69fbaabd1ea10c7ad23219f508052729abd854d8b77a8eb01b71c","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-23T03:33:15Z"}
 {"name":"kevy-compress","vers":"6.0.0","deps":[],"cksum":"f5f7125df12cd78e17acfb66cb68b4c19cd4df8e1154b28e6bdc8f26177d452d","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-29T16:58:09Z"}
+{"name":"kevy-compress","vers":"6.1.0","deps":[],"cksum":"23c1f5dad2835276aea3a1f8028fecbaa752659cbaaf5456fc9c8a7ed28377f3","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-30T06:56:57Z"}
