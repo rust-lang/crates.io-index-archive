@@ -59,3 +59,4 @@
 {"name":"kevy-scope","vers":"5.4.0","deps":[],"cksum":"546d8f2903f0be1852cd32a5ad663ae78d23175fb924274803aedca21d780203","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-23T00:48:01Z"}
 {"name":"kevy-scope","vers":"5.4.1","deps":[],"cksum":"edf5582757684e752d8afeeb59867e81f7a622286ef199582e232bbb8e8d232a","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-23T03:43:28Z"}
 {"name":"kevy-scope","vers":"6.0.0","deps":[],"cksum":"750f20e321149550f451099daf089ef55082e97aeb8f45c22946c80b32b3bc01","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-29T17:08:13Z"}
+{"name":"kevy-scope","vers":"6.1.0","deps":[],"cksum":"c1019caea8b48c136313a0204d9632fb1ca4c5cafab9500af2ef3883e9e3b2b9","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-30T07:07:01Z"}
