@@ -1,0 +1,1 @@
+{"name":"mx-remote-ffi","vers":"1.0.0","deps":[{"name":"mx-remote","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"008eeda92d026b130f8d0ab3d5dd97068bc933e34fe69915fbce61cd3f97df9b","features":{},"yanked":false,"rust_version":"1.79","pubtime":"2026-08-30T17:17:04Z"}
