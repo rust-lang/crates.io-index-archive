@@ -8,3 +8,4 @@
 {"name":"engramdb-core","vers":"0.2.4","deps":[],"cksum":"459cf223ba310dbac1839da6d68f23cd358a705ae3fb165f8ccc3e5c63c6489a","features":{},"yanked":false,"pubtime":"2026-08-30T07:52:58Z"}
 {"name":"engramdb-core","vers":"0.2.5","deps":[],"cksum":"538c6139975062e965bba498dc314eb0746a0e8f2065b2f9a77c51f6092ec3cc","features":{},"yanked":false,"pubtime":"2026-08-30T11:06:52Z"}
 {"name":"engramdb-core","vers":"0.2.6","deps":[],"cksum":"649513f1fea294720184af3ff55f24424c822a671e568526fa9baa9cb665462c","features":{},"yanked":false,"pubtime":"2026-08-30T11:44:10Z"}
+{"name":"engramdb-core","vers":"0.2.8","deps":[],"cksum":"e7e2f32eb44cdfcb208d1a966d45356955636cc1438130905d39d2e7a184451a","features":{},"yanked":false,"pubtime":"2026-08-30T14:44:32Z"}
