@@ -16,3 +16,4 @@
 {"name":"kevy-vector","vers":"5.4.0","deps":[],"cksum":"08792b657e54c7849c46a7a6c594dc172ba9e95c30eba7e2aa79eb74f64918f6","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-23T00:59:19Z"}
 {"name":"kevy-vector","vers":"5.4.1","deps":[],"cksum":"bf4d63e5873b6b895eb11a2e5fdd01988c13049841a3ab7e0a044160bf6c12be","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-23T03:49:48Z"}
 {"name":"kevy-vector","vers":"6.0.0","deps":[],"cksum":"2345f8c958bce03dd639da0593f97d2071b8416258667bfd187e27df5adbf931","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-29T17:14:31Z"}
+{"name":"kevy-vector","vers":"6.1.0","deps":[],"cksum":"dd84d6fdc06eafd1acd2d100072705f7783841aa09d20baf7b6ef028cd96061b","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-30T07:13:18Z"}
