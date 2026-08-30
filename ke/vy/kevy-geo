@@ -79,3 +79,4 @@
 {"name":"kevy-geo","vers":"5.4.0","deps":[],"cksum":"d8cbbfa61e0ecaee8b4b2fafbb9daa5597e41f8cc34f8207885f76d2a9e0caad","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-23T00:29:04Z"}
 {"name":"kevy-geo","vers":"5.4.1","deps":[],"cksum":"73d83bda73110793b00c076265273223242ef862d66121d3e063d494971f74b9","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-23T03:34:31Z"}
 {"name":"kevy-geo","vers":"6.0.0","deps":[],"cksum":"d8ca45073b98de4ec7d86e197d80c9a3d4efeaee995575b8b543a025c0a51019","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-29T16:59:24Z"}
+{"name":"kevy-geo","vers":"6.1.0","deps":[],"cksum":"c6990681299cc0b55d28982e15ab0c5a43850feaee7abff9c8f651178a06b1c5","features":{},"yanked":false,"rust_version":"1.97.0","pubtime":"2026-08-30T06:58:12Z"}
