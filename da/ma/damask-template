@@ -5,3 +5,4 @@
 {"name":"damask-template","vers":"0.3.0","deps":[],"cksum":"e49095aeb3d98345b852b263167ac93b8b204d77e1091877f6195507722a5fcc","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-23T15:45:38Z"}
 {"name":"damask-template","vers":"0.3.1","deps":[],"cksum":"d038764a67dac97407271cb406f270854726200f9a2ecd679bafd03473b74777","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-23T16:16:32Z"}
 {"name":"damask-template","vers":"0.3.2","deps":[],"cksum":"a99b560c5300ff590ed496baea1eaa374615f70745b2ea266cad3bd6bf5b79eb","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-07-23T16:46:07Z"}
+{"name":"damask-template","vers":"0.8.0","deps":[{"name":"proc-macro2","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d3c0ef560d8cd67c4bd4b3bfc5865d0ef31fd4cc9b5de97c1b455c56bff368f1","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-31T23:36:30Z"}
