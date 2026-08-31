@@ -1,0 +1,1 @@
+{"name":"rsemu","vers":"0.0.0","deps":[],"cksum":"7328476df4ee2655188341cc572ad69cb60fcc1eaf5956a75991523eddb02e45","features":{"cli":["std"],"cpu-mos6502":[],"default":["std","cli"],"dev-nes-apu":[],"dev-nes-cart":[],"dev-nes-ppu":[],"std":[],"wasm":["std"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-31T02:37:04Z"}
