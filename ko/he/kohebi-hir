@@ -1,0 +1,1 @@
+{"name":"kohebi-hir","vers":"0.0.20","deps":[{"name":"kohebi-parse","req":"^0.0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7d8a5e2d92664be37b7a2039b5769ff9b8f2f8d3e0855195e460e840a07fd886","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-08-31T13:56:18Z"}
