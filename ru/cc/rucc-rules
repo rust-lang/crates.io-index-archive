@@ -4,3 +4,4 @@
 {"name":"rucc-rules","vers":"0.2.2","deps":[],"cksum":"e5b3d7446244169533b84d2e83768ac776d706b3f0b4be5749911e7211b4c90b","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T19:35:57Z"}
 {"name":"rucc-rules","vers":"0.2.3","deps":[],"cksum":"788fe64b2c0d35a325956c65b85b12986b6cb844943894080c61416957cc4aaa","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T20:37:39Z"}
 {"name":"rucc-rules","vers":"0.2.4","deps":[],"cksum":"ee2ed96647632ace90cecf8583e310134de86ce941f47db1280ac7a725eb9a6d","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T22:53:46Z"}
+{"name":"rucc-rules","vers":"0.2.5","deps":[],"cksum":"71533f34c8afec84373641d75ddfa0fe80fc9cdf3354dc48b3c222a67d0e1429","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T23:51:59Z"}
