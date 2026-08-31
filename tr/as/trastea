@@ -1,0 +1,1 @@
+{"name":"trastea","vers":"0.2.0","deps":[{"name":"iced","req":"^0.14","features":["canvas","smol"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"527b6b4c8da6f1904d67d03c921e542a2bd983dd975e8dc3c83c2a2481d765b2","features":{},"yanked":false,"pubtime":"2026-08-31T17:26:26Z"}
