@@ -52,3 +52,4 @@
 {"name":"unit","vers":"0.36.0","deps":[],"cksum":"22698020d5c5a4776323150133342d6b29c642753a0e4f1ed6b33b0f220f7284","features":{"default":[],"http":[]},"yanked":false,"pubtime":"2026-08-30T18:22:04Z"}
 {"name":"unit","vers":"0.37.0","deps":[],"cksum":"3d021ba2e2e1ca1c6ec9516f9da59a2dfeafc8b99800e6435d1d4e02464976f1","features":{"default":[],"http":[]},"yanked":false,"pubtime":"2026-08-31T13:26:09Z"}
 {"name":"unit","vers":"0.38.0","deps":[],"cksum":"997b2609bbf49e867907cf58bdba9f355a02ed1ac98020568171fc1b7c829c46","features":{"default":[],"http":[]},"yanked":false,"pubtime":"2026-08-31T17:40:29Z"}
+{"name":"unit","vers":"0.39.0","deps":[],"cksum":"e1bc0bdb7c16f9b8607976cf42c0e45c850de3b41922fdf3bec6a56a11b370a1","features":{"default":[],"http":[]},"yanked":false,"pubtime":"2026-08-31T20:07:08Z"}
