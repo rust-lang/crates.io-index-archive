@@ -2,3 +2,4 @@
 {"name":"rucc-base","vers":"0.2.0","deps":[],"cksum":"d7697df9e2f9eebf5f1a09a96d2d85998668e54850a148fb164c28642c84f1b4","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T17:12:41Z"}
 {"name":"rucc-base","vers":"0.2.1","deps":[],"cksum":"6984baff94082c956532a48f24626b5f492ec15860edd2e37fc537846ea5758a","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T18:46:48Z"}
 {"name":"rucc-base","vers":"0.2.2","deps":[],"cksum":"333414b279fb1f2231539c7e8f33474b61f7ce12fb01889d474938c10b0eb14e","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T19:35:49Z"}
+{"name":"rucc-base","vers":"0.2.3","deps":[],"cksum":"d7b929529ac21cbc27471941432df92a1163727dfe4839cb79061ea671e234dc","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T20:37:33Z"}
