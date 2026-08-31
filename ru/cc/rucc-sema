@@ -2,3 +2,4 @@
 {"name":"rucc-sema","vers":"0.2.0","deps":[],"cksum":"266dcfb005cb10fe7f438c0c6d506139a6ce661028f30982d17b53fe9c50b212","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T17:12:49Z"}
 {"name":"rucc-sema","vers":"0.2.1","deps":[],"cksum":"e949453a4958b697d1d2973c628b219db1ac7dd3465b67bc97a6cbfe8826386d","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T18:46:55Z"}
 {"name":"rucc-sema","vers":"0.2.2","deps":[],"cksum":"255a231cb1abf7ab3d86845d54a5d9cb83c7f0807cf192ba057b39df6435ac4f","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T19:35:58Z"}
+{"name":"rucc-sema","vers":"0.2.3","deps":[],"cksum":"431100ca427a85d08cd327f369cc653f975dff5044ce97f9638a81fc5c00f414","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T20:37:39Z"}
