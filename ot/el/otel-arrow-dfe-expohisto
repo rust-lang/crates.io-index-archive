@@ -1,0 +1,1 @@
+{"name":"otel-arrow-dfe-expohisto","vers":"0.53.0","deps":[{"name":"criterion","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ebdb3b3a27d046b19c72072a7efffd9112dc2cf6a608939d0e1af57f971a7fdb","features":{"bench":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-08-31T20:11:05Z"}
