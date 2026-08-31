@@ -1,0 +1,1 @@
+{"name":"quo-notation","vers":"0.0.0","deps":[{"name":"sha2","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5d6562282e3252a1da1c4ee9e20a06078ef7c72e9374ec444387451bba259c27","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-08-31T09:40:01Z"}
