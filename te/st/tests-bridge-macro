@@ -3,3 +3,4 @@
 {"name":"tests-bridge-macro","vers":"0.1.7","deps":[],"cksum":"a045088200c5121026a7126deeda110b564de534e2ebb4d297930b6ca7f2eae2","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-25T02:36:46Z"}
 {"name":"tests-bridge-macro","vers":"0.1.8","deps":[],"cksum":"106d88234672ac57c5f7b9477d8feaebba69609bed1cd2084f3682057a4f66db","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-25T08:56:49Z"}
 {"name":"tests-bridge-macro","vers":"0.1.9","deps":[],"cksum":"b2f430e3e816181cc29dc157a13426a10577af144f623e069ebdda1088998e2d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-25T11:32:00Z"}
+{"name":"tests-bridge-macro","vers":"0.1.10","deps":[],"cksum":"6b9217365745170d0a8fc713b95b12ac9d3304524f0decf819a15eb0393b11d1","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-31T08:05:51Z"}
