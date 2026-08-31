@@ -1,0 +1,1 @@
+{"name":"prettyhello","vers":"0.1.0","deps":[{"name":"owo-colors","req":">=3, <5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9d2808d6f46270791767a6aef417f7d7053aecb41b68725c44ff986a35f8f9d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-31T17:33:33Z"}
