@@ -14,3 +14,4 @@
 {"name":"visit-flow","vers":"0.0.31","deps":[],"cksum":"804dcd6bb01c7304392010526e72151e91e7a6f26b2a918fa6bc8ca3566a1d85","features":{},"yanked":false,"pubtime":"2026-08-28T17:52:12Z"}
 {"name":"visit-flow","vers":"0.0.32-canary.7a5f209b6f","deps":[],"cksum":"bfb104826c3b54ac9b9c7ab7b34580ac4a4410d74127293bb739e7686994d2f1","features":{},"yanked":false,"pubtime":"2026-08-29T10:05:06Z"}
 {"name":"visit-flow","vers":"0.0.32-canary.66f63578a1","deps":[],"cksum":"32ba355f3dafc21f087920e987c1cfe7b3c289bff58b0f305e5820c383f65aff","features":{},"yanked":false,"pubtime":"2026-08-30T22:07:34Z"}
+{"name":"visit-flow","vers":"0.0.32-canary.13e01cac8c","deps":[],"cksum":"1b93e4d5b46f6ded032be5efc7c9f66968678ac9d722bc9223cfbe9eb569e782","features":{},"yanked":false,"pubtime":"2026-08-31T10:20:40Z"}
