@@ -1,0 +1,1 @@
+{"name":"quo-wire","vers":"0.0.0","deps":[{"name":"quo-notation","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"45ef566ba37a319f7671404b0dd1ea509db6ff891046bba7c716d390f339022c","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-08-31T09:40:14Z"}
