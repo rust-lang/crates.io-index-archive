@@ -66,3 +66,4 @@
 {"name":"memra-validate","vers":"0.119.0","deps":[],"cksum":"6e686adb517471cdb80a9152e44671f9f00621f4779f02afc1b9b232565bda42","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-28T20:12:55Z"}
 {"name":"memra-validate","vers":"0.120.0","deps":[],"cksum":"29f724aa175db2f57a9eb68334e9a919b6600a3164576617151594f35f8e59e0","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-29T19:56:52Z"}
 {"name":"memra-validate","vers":"0.121.0","deps":[],"cksum":"11facf2af0f36fd83ad4cf7ec24a8329ee2b89ec87dd6748f635470f1021db13","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-30T10:54:44Z"}
+{"name":"memra-validate","vers":"0.122.0","deps":[],"cksum":"47318c4478ed0fa1bc264ec1238289cfef4274f3061114d94c0dadde36af65db","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-31T14:19:29Z"}
