@@ -1,0 +1,1 @@
+{"name":"kohebi-abi","vers":"0.0.20","deps":[{"name":"kohebi-core","req":"^0.0.20","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25001797c23228ab740f7cf2052a4573206f4802b9d4597a9ec0148aaf4e1296","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-08-31T13:06:23Z"}
