@@ -2,3 +2,4 @@
 {"name":"rucc-mir","vers":"0.2.0","deps":[],"cksum":"a88a91bf75a2f5d4e592772b999ef980e98fee77ff698ca77093f8c3ff2cd936","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T17:12:45Z"}
 {"name":"rucc-mir","vers":"0.2.1","deps":[],"cksum":"cbc6b14b5cbea5c1a033b27977127ab86b695ce3e86cbd57fda6c8d81fa216ba","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T18:46:52Z"}
 {"name":"rucc-mir","vers":"0.2.2","deps":[],"cksum":"868d28ebbf3903abc5fcad0b8c1567aad9a23dcb231e5a319d37b82f9d46261f","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T19:35:55Z"}
+{"name":"rucc-mir","vers":"0.2.3","deps":[],"cksum":"9e2c1f1668a74dd3ad3e09f2345ca89ab40c867f13ae8bb29fcffadd93687678","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T20:37:36Z"}
