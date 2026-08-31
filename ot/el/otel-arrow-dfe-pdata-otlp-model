@@ -1,0 +1,1 @@
+{"name":"otel-arrow-dfe-pdata-otlp-model","vers":"0.53.0","deps":[{"name":"tonic-prost-build","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"416dc1c4d090da0b9058f1540b7a65fed2c4973519bef2c0505afc9f517f38b9","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-08-31T20:23:58Z"}
