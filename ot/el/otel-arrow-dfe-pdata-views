@@ -1,1 +1,2 @@
 {"name":"otel-arrow-dfe-pdata-views","vers":"0.52.0","deps":[],"cksum":"c4cc9e4ca02d7ff2bdd38f64c8a2e547ede95b7f97bca2d1db8826bcc1f8f3dd","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-08-26T21:19:58Z"}
+{"name":"otel-arrow-dfe-pdata-views","vers":"0.53.0","deps":[],"cksum":"a4df5f6a848549bb35694424b636efbae8d87e7b51c0cdc850fd7ad2d6a69dc2","features":{},"yanked":false,"rust_version":"1.87.0","pubtime":"2026-08-31T20:34:19Z"}
