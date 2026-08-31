@@ -1,0 +1,1 @@
+{"name":"qss","vers":"0.1.0","deps":[],"cksum":"aff0b0bd3a83c8d15e866eff4bd6be2df2d80a51d46f3e1a5297e10eadebcc29","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-31T05:10:00Z"}
