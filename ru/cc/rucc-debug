@@ -1,2 +1,3 @@
 {"name":"rucc-debug","vers":"0.1.0","deps":[],"cksum":"f35710769ba425067219469238d8fec4928e7e478a67c447d4fbad59477f67e1","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T15:38:21Z"}
 {"name":"rucc-debug","vers":"0.2.0","deps":[],"cksum":"4c857bcb6f96909c5013e8af097b82f2f4ee21a2cef480c876d411c443c4f92b","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T17:12:42Z"}
+{"name":"rucc-debug","vers":"0.2.1","deps":[],"cksum":"dad8fa9ec75c453218a587a38f8909663afb47ce0e37f7b84e6a3be3b619d5c6","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T18:46:49Z"}
