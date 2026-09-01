@@ -1,2 +1,3 @@
 {"name":"quo-zero","vers":"0.0.0","deps":[],"cksum":"0bce34c805f2810afa47019a463027c0cfe2b273cb1db3cfb991b893cb439f38","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-08-31T10:06:25Z"}
 {"name":"quo-zero","vers":"0.1.0","deps":[],"cksum":"7792cd9a2de5ef8a63f13d437164db7d046f98972789692472e6ddc2b84db46d","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-08-31T19:55:43Z"}
+{"name":"quo-zero","vers":"0.2.0","deps":[],"cksum":"53da8e465b5b30d6142bd606249a16720b4b4e307eb9293af9501d4f0d4658c0","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-09-01T09:53:03Z"}
