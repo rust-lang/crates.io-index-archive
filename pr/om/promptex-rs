@@ -1,0 +1,1 @@
+{"name":"promptex-rs","vers":"0.0.1-alpha.1","deps":[{"name":"promptex-core","req":"^0.0.1-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5bf01e4b4b1f950609e34a8a3eb3569cdd32cfdfd0ffa21b2c5f790404c30d5d","features":{},"yanked":false,"pubtime":"2026-09-01T07:24:23Z"}
