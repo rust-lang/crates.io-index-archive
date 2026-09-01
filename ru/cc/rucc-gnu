@@ -9,3 +9,4 @@
 {"name":"rucc-gnu","vers":"0.2.7","deps":[],"cksum":"ed3820e7c8e3e13818f3aa270a44f9533301fd29ed58e30548e063169abac40d","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T02:21:26Z"}
 {"name":"rucc-gnu","vers":"0.2.8","deps":[],"cksum":"886698227b3750ac9f40db085b302595dcf40a0340d757baefba35eb97733731","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T03:53:30Z"}
 {"name":"rucc-gnu","vers":"0.2.9","deps":[],"cksum":"1d207588f4a3d377c7b32046c5793c8bc35b9be1174ff9f04adb557cc72e4271","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T05:06:54Z"}
+{"name":"rucc-gnu","vers":"0.2.10","deps":[],"cksum":"68cdc86693724faddf19092eaafb2e0f82ab3e9d2582323f1856e3b397e58b03","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T06:08:35Z"}
