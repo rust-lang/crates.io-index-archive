@@ -1,0 +1,1 @@
+{"name":"vthreads","vers":"0.0.1","deps":[{"name":"vthread","req":"=0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0a84bdb32a0dc3dddd2b2ad38dee4bb1114eaddff3436d8b04498cbbfd09ac1","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-09-01T23:37:35Z"}
