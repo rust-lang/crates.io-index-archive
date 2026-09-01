@@ -13,3 +13,4 @@
 {"name":"yazi-macro","vers":"26.1.22","deps":[],"cksum":"ee69764671547e2bf8c8fc9dee552127453105f51150185712ac30f6c9097cb0","features":{},"yanked":false,"pubtime":"2026-01-22T16:08:08Z"}
 {"name":"yazi-macro","vers":"26.5.6","deps":[],"cksum":"715dda5272fe9fb2cc36c54db37e2cecd109139dab33b4958c70d44f25655fa2","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-05-05T18:40:25Z"}
 {"name":"yazi-macro","vers":"26.8.15","deps":[],"cksum":"ad213b47534a091207df17d8dc008acf40567caba13f48992444e778008536b2","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-08-15T11:33:18Z"}
+{"name":"yazi-macro","vers":"26.9.1","deps":[],"cksum":"d55e8abbc83f2af7e1ea3d9d9884351c439a3c3215018ab7b561cf75d7f71596","features":{},"yanked":false,"rust_version":"1.95.0","pubtime":"2026-09-01T08:54:30Z"}
