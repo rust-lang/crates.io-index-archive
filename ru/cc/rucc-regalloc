@@ -5,3 +5,4 @@
 {"name":"rucc-regalloc","vers":"0.2.3","deps":[],"cksum":"1b35987843fe32c600748fee2c6f2968a6d340dce130aca76f3391e82e8e76d1","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T20:37:38Z"}
 {"name":"rucc-regalloc","vers":"0.2.4","deps":[],"cksum":"c11a96ae2fa541806d5972e2190aa82f414e3bdaba74e78d2c4830f4c931e31a","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T22:53:46Z"}
 {"name":"rucc-regalloc","vers":"0.2.5","deps":[],"cksum":"ad18c17c168a06040931fe7498507481c4faa77d8ec01d641c85d7c95196a0c1","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-08-31T23:51:59Z"}
+{"name":"rucc-regalloc","vers":"0.2.6","deps":[],"cksum":"85238d2ac421d2e82b60a7cd0051e92801460712bd0530f2b3c5479473ec4c49","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T00:54:38Z"}
