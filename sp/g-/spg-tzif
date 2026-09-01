@@ -39,3 +39,4 @@
 {"name":"spg-tzif","vers":"7.39.2","deps":[],"cksum":"cf781c689d8f17770f25f46b74f9996bfbd23de3a427b7591d43b89bce3fbe73","features":{},"yanked":false,"pubtime":"2026-08-30T09:54:26Z"}
 {"name":"spg-tzif","vers":"7.39.3","deps":[],"cksum":"62b002a8dda6a1c73f9138edc78b3703a0fe13cbde4d37c7ab87d34fb54e463b","features":{},"yanked":false,"pubtime":"2026-08-30T23:42:33Z"}
 {"name":"spg-tzif","vers":"7.39.5","deps":[],"cksum":"4327280221c7bcf0a5098a32c360ed7ab53fd54256ae31d2a39a50072c54efc7","features":{},"yanked":false,"pubtime":"2026-08-31T18:15:24Z"}
+{"name":"spg-tzif","vers":"7.39.6","deps":[],"cksum":"4034b09bd746f12533d07d11edd0ae241be55a5b5f1b040c67f9e3eaa04e7d95","features":{},"yanked":false,"pubtime":"2026-09-01T00:16:47Z"}
