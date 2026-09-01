@@ -31,3 +31,4 @@
 {"name":"rialo-sanitize","vers":"0.18.0-alpha.0","deps":[],"cksum":"1a42deb9d59574d27b608b332f6b48f10b263150071b6abce3e81f016ea74e5c","features":{},"yanked":false,"pubtime":"2026-08-18T08:58:17Z"}
 {"name":"rialo-sanitize","vers":"0.18.0","deps":[],"cksum":"b85e4d58fe8aeb642bb1f8513d6a38033f71009a487023ebeee2faedbd73c510","features":{},"yanked":false,"pubtime":"2026-08-18T10:04:11Z"}
 {"name":"rialo-sanitize","vers":"0.18.1","deps":[],"cksum":"2c27f2b92df0d055a553a0b5a302efa7d4983dc10f9f338fba88dfcffa2978f9","features":{},"yanked":false,"pubtime":"2026-08-18T22:47:33Z"}
+{"name":"rialo-sanitize","vers":"0.20.0-alpha.0","deps":[],"cksum":"a2caa124c29869cbf2247ff2ac812adfe194378bfd802ecd82900c348b279593","features":{},"yanked":false,"pubtime":"2026-09-01T13:40:35Z"}
