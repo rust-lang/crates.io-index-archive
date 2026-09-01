@@ -1,0 +1,1 @@
+{"name":"svc-registry-adapter","vers":"0.2.0","deps":[{"name":"svc-registry","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ee7b36b4036698145a85cd347cef5edcb79e3005e02bc547b6ac924fe2ddd880","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-01T08:45:18Z"}
