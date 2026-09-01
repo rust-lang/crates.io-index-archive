@@ -25,3 +25,4 @@
 {"name":"vs-humanize","vers":"0.1.27","deps":[],"cksum":"4993acf47f9ca2f4ac13f8ee1cb704328c34fd2779582471795f2c6e323fafcb","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-17T08:50:04Z"}
 {"name":"vs-humanize","vers":"0.2.0","deps":[],"cksum":"9172925660a57823d7a2b37ce9d6da6ea26e0c461e7d78c8a754f866dcc157f2","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-07-26T13:23:23Z"}
 {"name":"vs-humanize","vers":"0.2.1","deps":[],"cksum":"8aaa76ae5883905be7126aeb36ca52a73699853f0162b92f77b3fcb456fada6d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-31T10:14:27Z"}
+{"name":"vs-humanize","vers":"0.2.2","deps":[],"cksum":"c725aa13305b7f50467fa1357ba7f1c300b498fadf1de093b88d5c5741252e78","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-01T10:11:54Z"}
