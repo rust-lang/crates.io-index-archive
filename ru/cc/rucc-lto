@@ -12,3 +12,4 @@
 {"name":"rucc-lto","vers":"0.2.10","deps":[],"cksum":"de9026251dd47d5111ce41f5e23ad2d4c71b69053c5b77a4532bc5f9d47229cb","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T06:08:38Z"}
 {"name":"rucc-lto","vers":"0.2.11","deps":[],"cksum":"4ecd5093ab99bf81b94c829cd7127b042e65d5ede696724ed21d1cd9917a33a8","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T07:36:44Z"}
 {"name":"rucc-lto","vers":"0.2.12","deps":[],"cksum":"8acda46912247ef2b527db1e22a920d6b5d7e88234f006807394b69adfa76c4b","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T09:55:08Z"}
+{"name":"rucc-lto","vers":"0.2.13","deps":[],"cksum":"ea87e3fa208086c74f91576f5d180e317a63212e4501b00b20aa7920ed8c2139","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T12:04:24Z"}
