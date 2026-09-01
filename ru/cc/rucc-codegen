@@ -9,3 +9,4 @@
 {"name":"rucc-codegen","vers":"0.2.7","deps":[],"cksum":"c2740ccd93e4bd0c6e528f18ba4e99a0f7c9c67969fbf091ac71bbe0c0a8df38","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T02:21:21Z"}
 {"name":"rucc-codegen","vers":"0.2.8","deps":[],"cksum":"774bddde8e2fab14f3777a714b2cc74df89343880c1c40f3603e53e540394798","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T03:53:27Z"}
 {"name":"rucc-codegen","vers":"0.2.9","deps":[],"cksum":"24136767e02176bbeb66f40b0154d15c21d7cb8dc03e59158f180cc2521d29ee","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T05:06:50Z"}
+{"name":"rucc-codegen","vers":"0.2.10","deps":[],"cksum":"7802f4a982423a3a970aee8647378c06912d3a3db21edaa004257b9f4794ab6a","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T06:08:33Z"}
