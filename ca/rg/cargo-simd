@@ -1,0 +1,1 @@
+{"name":"cargo-simd","vers":"0.1.0","deps":[{"name":"rust-simd","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"263f6a19994157085e01281a095fd9b697b34b9602dea9938c6db1e853ee4b4d","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-01T04:29:43Z"}
