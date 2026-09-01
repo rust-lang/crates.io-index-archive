@@ -1,0 +1,1 @@
+{"name":"vthread-stack","vers":"0.0.1","deps":[{"name":"corosensei","req":"=0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a50eb8bf570d807585cfeb9ff5cf8e7008915ce97ac5c86307da5108199b1066","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-09-01T23:23:19Z"}
