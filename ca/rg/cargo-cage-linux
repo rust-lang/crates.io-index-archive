@@ -1,0 +1,1 @@
+{"name":"cargo-cage-linux","vers":"0.1.0-alpha.1","deps":[{"name":"cage-core","req":"^0.1.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"cargo-cage-core"}],"cksum":"8308be68a1e9824d3b24d97c9ba2209a7873107b28b74776ec44f706ea953d15","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-01T11:26:32Z"}
