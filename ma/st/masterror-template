@@ -4,3 +4,4 @@
 {"name":"masterror-template","vers":"0.4.1","deps":[],"cksum":"2fe23b13bb08afe441d15f83f75d1765d0a19c6ac1557728566d986a3819b5ae","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2025-12-30T03:29:42Z"}
 {"name":"masterror-template","vers":"0.4.2","deps":[],"cksum":"fa90f9eaa68a5c3a60b2322bd19d16ac5cf54e0dba3fdca6cc649fa1317b27d1","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-03-05T01:09:02Z"}
 {"name":"masterror-template","vers":"0.5.0","deps":[],"cksum":"4268f28cdc36feb4184ccb0f1f2d70075efb8cce2669c7fb8220450c74e7217c","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-08-24T00:17:35Z"}
+{"name":"masterror-template","vers":"0.5.1","deps":[],"cksum":"74beba81b60a826b10771261524f642aee7f6cd031b88613f6b4e13051e65234","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-09-01T07:58:58Z"}
