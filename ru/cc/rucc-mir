@@ -10,3 +10,4 @@
 {"name":"rucc-mir","vers":"0.2.8","deps":[],"cksum":"31a12c25d34fbbe664e7b83f5a3d509e46b2336fdfb089a96b73a494fea3afb4","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T03:53:33Z"}
 {"name":"rucc-mir","vers":"0.2.9","deps":[],"cksum":"378169801989b894759e93972909cfc1dd180fc7c6552f191832dc92329a4157","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T05:06:59Z"}
 {"name":"rucc-mir","vers":"0.2.10","deps":[],"cksum":"b4041ca5bc9481e1ec2b5354330b664bf1b5fffafe1a28542e1337fef1d03c93","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T06:08:39Z"}
+{"name":"rucc-mir","vers":"0.2.11","deps":[],"cksum":"494dd61d2ec64deeeaf76b0ba51d78d894861751472787f599182e9bfe5a6909","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T07:37:49Z"}
