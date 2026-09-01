@@ -1,0 +1,1 @@
+{"name":"doltlite","vers":"0.50.2","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"172c0637fdce79361d625ab1db48f852522b07e847ce0c775422349b916202e8","features":{},"yanked":false,"rust_version":"1.68","pubtime":"2026-09-01T13:54:00Z"}
