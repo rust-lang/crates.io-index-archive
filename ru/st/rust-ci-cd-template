@@ -37,3 +37,4 @@
 {"name":"rust-ci-cd-template","vers":"0.2.28","deps":[],"cksum":"0ec8bc5cb6c3d6fb6e0de7d92f8ec5e0ec73227db623c240d22e33d4b7c49c66","features":{},"yanked":false,"rust_version":"1.81.0","pubtime":"2026-06-01T03:53:53Z"}
 {"name":"rust-ci-cd-template","vers":"0.2.29","deps":[],"cksum":"6c7138b755d46ba8b49adff95cd28f2f58556cd8b3356fad194d4638b5ec99c6","features":{},"yanked":false,"rust_version":"1.81.0","pubtime":"2026-07-01T03:39:21Z"}
 {"name":"rust-ci-cd-template","vers":"0.2.30","deps":[],"cksum":"4110d91e606e681a6f2eb26314424ff049da19282ff3eb8b0c40df1b1db68400","features":{},"yanked":false,"rust_version":"1.81.0","pubtime":"2026-08-01T02:36:35Z"}
+{"name":"rust-ci-cd-template","vers":"0.2.31","deps":[],"cksum":"fb259e09a2853fe2ee104d76d6a9fbe48ff811f40f0fed6e0849abc629344f67","features":{},"yanked":false,"rust_version":"1.81.0","pubtime":"2026-09-01T03:34:11Z"}
