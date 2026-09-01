@@ -6,3 +6,4 @@
 {"name":"levilamina-sys","vers":"26.20.0","deps":[],"cksum":"a007e4c0e15941ddabf899468bccacc4750da4fa22b22147fef7d0ee79baebd3","features":{},"yanked":false,"pubtime":"2026-07-13T18:17:36Z"}
 {"name":"levilamina-sys","vers":"26.20.2","deps":[],"cksum":"86144194907aab13eb32fed3a7f2f179b6358e83d466bf5da93b4700bb1906e8","features":{},"yanked":false,"pubtime":"2026-07-20T11:09:56Z"}
 {"name":"levilamina-sys","vers":"26.20.4","deps":[],"cksum":"5d4fef86d70ab76893aa3e49e01c22445c5cf709c0f30866e9cd302c5f987040","features":{"client":[],"default":["server"],"more_dimensions":[],"server":[]},"yanked":false,"pubtime":"2026-08-11T10:28:53Z"}
+{"name":"levilamina-sys","vers":"26.20.5","deps":[],"cksum":"1a629e2d207395f97d305ac6402f0f0a654a5926ffd287fd924a732fd081d83f","features":{"client":[],"default":["server"],"more_dimensions":[],"server":[]},"yanked":false,"pubtime":"2026-09-01T03:34:51Z"}
