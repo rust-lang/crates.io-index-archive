@@ -11,3 +11,4 @@
 {"name":"hara-abi","vers":"0.1.16","deps":[],"cksum":"f7e2624a7ec9685c2f11538d7931bda1a620abffda82ac7ea086b7121b1a94a5","features":{},"yanked":false,"rust_version":"1.78","pubtime":"2026-08-31T23:28:09Z"}
 {"name":"hara-abi","vers":"0.1.17","deps":[],"cksum":"e991abfebfbcc0bb0420a6bfa0325207729ff89a7bf3c135ba82c72dfa3df119","features":{},"yanked":false,"rust_version":"1.78","pubtime":"2026-09-01T00:53:33Z"}
 {"name":"hara-abi","vers":"0.1.18","deps":[],"cksum":"ccb90b7b69b9ccedefb8693a371bcf92cbc559664077305b8e474bccd2c636da","features":{},"yanked":false,"rust_version":"1.78","pubtime":"2026-09-01T03:30:25Z"}
+{"name":"hara-abi","vers":"0.1.19","deps":[],"cksum":"bbe9449452b5b63add53185a42e8e777b6c7b04cfa0b0e1a5cfdbbd76d4cd2c2","features":{},"yanked":false,"rust_version":"1.78","pubtime":"2026-09-01T05:15:25Z"}
