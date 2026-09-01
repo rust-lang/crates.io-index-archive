@@ -45,3 +45,4 @@
 {"name":"lucide-slint","vers":"1.34.0","deps":[],"cksum":"e209afd5404352de062de58c590f22e2597af3bb77708189ca86a33c1ffcc4da","features":{},"yanked":false,"pubtime":"2026-08-25T01:24:59Z"}
 {"name":"lucide-slint","vers":"1.35.0","deps":[],"cksum":"cc6ad91e297aaf32da4f760224dc5fa875d35ee9afce0d87599bc5ae14b5ebf7","features":{},"yanked":false,"pubtime":"2026-08-28T10:20:14Z"}
 {"name":"lucide-slint","vers":"1.37.0","deps":[],"cksum":"b03f5b2022cb6f17e0a3a70915a2e313a8b25b901414b10036216dbfefdd7854","features":{},"yanked":false,"pubtime":"2026-08-30T04:29:32Z"}
+{"name":"lucide-slint","vers":"1.38.0","deps":[],"cksum":"2eaf632d0249e318fd0a12b4d02c91025fd89641bba58ac697ab324305016bfe","features":{},"yanked":false,"pubtime":"2026-09-01T04:16:11Z"}
