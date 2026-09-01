@@ -11,3 +11,4 @@
 {"name":"engramdb-core","vers":"0.2.8","deps":[],"cksum":"e7e2f32eb44cdfcb208d1a966d45356955636cc1438130905d39d2e7a184451a","features":{},"yanked":false,"pubtime":"2026-08-30T14:44:32Z"}
 {"name":"engramdb-core","vers":"0.2.9","deps":[],"cksum":"55a636df006d5a02a8fdf894bf21a9b22199a08f683b1579de438e0df9e860dd","features":{},"yanked":false,"pubtime":"2026-08-31T15:47:48Z"}
 {"name":"engramdb-core","vers":"0.2.10","deps":[],"cksum":"82229fd8673fd58d704e18a359663b57928507a02cc5ee14059a51094ddc199f","features":{},"yanked":false,"pubtime":"2026-08-31T23:23:46Z"}
+{"name":"engramdb-core","vers":"0.2.11","deps":[],"cksum":"d8babefebd4cee3221ef10d684a5d976d26d2d84bd0f0b9072907f6607709971","features":{},"yanked":false,"pubtime":"2026-09-01T00:43:29Z"}
