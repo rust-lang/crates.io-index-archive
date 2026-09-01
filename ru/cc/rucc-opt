@@ -13,3 +13,4 @@
 {"name":"rucc-opt","vers":"0.2.11","deps":[],"cksum":"60b6f8738dca4946b65bc2b688aacd3a8e5626bb54bcb7e7d03be02f3b719d21","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T07:40:01Z"}
 {"name":"rucc-opt","vers":"0.2.12","deps":[],"cksum":"88cda204e816edc4df82341b24986fe8ce77613db4792242baf5b172c4446b3a","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T09:55:09Z"}
 {"name":"rucc-opt","vers":"0.2.13","deps":[],"cksum":"498f385669990ef046802c1325ec85b6e6d4b4aad9ee9e20642336753a52dd7a","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T12:04:26Z"}
+{"name":"rucc-opt","vers":"0.2.14","deps":[],"cksum":"5864f7b15557573a169d7f26c38e7f83a625c681584198557a3a69c8d23e0f23","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T13:57:37Z"}
