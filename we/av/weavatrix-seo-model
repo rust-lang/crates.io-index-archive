@@ -1,0 +1,1 @@
+{"name":"weavatrix-seo-model","vers":"0.6.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8875dafd550fe818470d9809819ecd657765aff7fc1228db3018aa7e30cb560","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-02T09:07:28Z"}
