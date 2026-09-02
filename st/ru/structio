@@ -2,3 +2,4 @@
 {"name":"structio","vers":"0.1.0","deps":[],"cksum":"f84709570573687119141e0f5fa21509c59b1d643617b038b36b53953467c504","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-09-01T22:23:28Z"}
 {"name":"structio","vers":"0.2.0","deps":[],"cksum":"1a29da948c9e8e4aab41bcd14f6c1fd3f0740db29aae5b11edfae7babf84ac67","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-09-02T12:40:13Z"}
 {"name":"structio","vers":"0.2.1","deps":[],"cksum":"a311fbfa745eabe1edf9b16ed17fd7151f0ceec75a59aee588ec915c6b874a2e","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-09-02T14:13:24Z"}
+{"name":"structio","vers":"0.2.2","deps":[],"cksum":"328f42650cd2d455b3b12c50ebe234f4828998584b09de5ae451a2c2f3fd0c42","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-09-02T18:48:15Z"}
