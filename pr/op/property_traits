@@ -1,2 +1,3 @@
 {"name":"property_traits","vers":"0.1.0","deps":[],"cksum":"2904201f685d3c6ac2e92a5a1bd8ead16d92531d39e471c3db19c3faa97bf4bb","features":{"default":[],"trait_aliases":[]},"yanked":false,"pubtime":"2026-09-02T20:17:27Z"}
 {"name":"property_traits","vers":"0.1.1","deps":[],"cksum":"ed688dd293c01d92f914a8088d8b6ca221f32919261cab5e74bb7f09300758c6","features":{"default":[],"trait_aliases":[]},"yanked":false,"pubtime":"2026-09-02T20:19:55Z"}
+{"name":"property_traits","vers":"0.1.2","deps":[],"cksum":"d41a0cf39f85d38ec597d3350386f1c97565b4c0991a4a11478735ce5b8f60ca","features":{"default":[],"trait_aliases":[]},"yanked":false,"pubtime":"2026-09-02T20:26:44Z"}
