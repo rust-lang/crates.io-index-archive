@@ -1,0 +1,1 @@
+{"name":"weavatrix-seo-content","vers":"0.6.1","deps":[{"name":"weavatrix-seo-model","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5337b9c558fab80b08ed9fd4d1427c223f9c6abb6b4ad524e71777591797460c","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-02T09:44:19Z"}
