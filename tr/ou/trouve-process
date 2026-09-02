@@ -8,3 +8,4 @@
 {"name":"trouve-process","vers":"4.4.0","deps":[],"cksum":"6ee5ea737122075cb595a02201b12b96389eb8d5d7bc452b740e8ddc2c970730","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-08-27T07:34:56Z"}
 {"name":"trouve-process","vers":"4.5.0","deps":[],"cksum":"a7a9c07fac55ced805d2331add0e9abd04985d5c48be5d62048c17f97f16d3e7","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-08-30T05:06:04Z"}
 {"name":"trouve-process","vers":"4.6.0","deps":[],"cksum":"17e2d87300908ee9b3bdc89201b9663b94d55721c0fc07f520e516aa43fbda19","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-08-31T07:34:03Z"}
+{"name":"trouve-process","vers":"4.7.0","deps":[],"cksum":"2b073be1a9410e9b9b281138f7a8bdccd2beb1481bd0c563bfa1e232828264c0","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-09-02T03:44:56Z"}
