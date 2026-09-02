@@ -1,1 +1,0 @@
-{"name":"rsx-prism-core","vers":"2.0.0","deps":[{"name":"rayon","req":"^1.10","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4c9de22a96fb47691d646265c09dc39ed7354771a1eceaaf7b61fd5a2fa2a17b","features":{"default":[]},"features2":{"parallel":["dep:rayon"]},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-13T17:33:59Z","v":2}
