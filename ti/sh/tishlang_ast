@@ -70,3 +70,4 @@
 {"name":"tishlang_ast","vers":"3.10.3","deps":[],"cksum":"ef6c585d56c725f0c6580d50773c393037eadbbb3e02b57f5c391678ae4feece","features":{},"yanked":false,"pubtime":"2026-08-26T23:49:08Z"}
 {"name":"tishlang_ast","vers":"3.10.4","deps":[],"cksum":"c706c588421ee81a909d7c79f54e0187a9ce2ed7de9b1e153ba01c3311662203","features":{},"yanked":false,"pubtime":"2026-09-01T18:13:15Z"}
 {"name":"tishlang_ast","vers":"3.10.9","deps":[],"cksum":"401f7614b2c4d2c225b668e851565096d0d08e7a59ea4abe9c4529d25d637421","features":{},"yanked":false,"pubtime":"2026-09-02T02:10:50Z"}
+{"name":"tishlang_ast","vers":"3.10.11","deps":[],"cksum":"8bef9bfcd263214f83ff38a72b7bee645fd8a4b2a3e67d9cf6f7d3ec8529279d","features":{},"yanked":false,"pubtime":"2026-09-02T03:58:54Z"}
