@@ -8,3 +8,4 @@
 {"name":"markdown-prose-hooks","vers":"0.2.0","deps":[],"cksum":"5727f784abd2b130fba6bb886d89f9a00a9d9b54b65c174254b1ca2ce4857884","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-08-26T07:02:06Z"}
 {"name":"markdown-prose-hooks","vers":"0.2.1","deps":[],"cksum":"f358a5fea246196ad3fe0191f21d2dcd5d48c761387eacf12dbecb7ddaee1681","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-08-26T07:18:15Z"}
 {"name":"markdown-prose-hooks","vers":"0.3.0","deps":[],"cksum":"950102de5e71ab9d4b88926255568260d869abaf272e097919b2d45824046108","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-08-26T11:27:37Z"}
+{"name":"markdown-prose-hooks","vers":"0.4.0","deps":[],"cksum":"84b92cdc451f56c3be21c61cb4deb7546c12be89f1a4842aadf4fdff86cf4669","features":{},"yanked":false,"rust_version":"1.86","pubtime":"2026-09-02T06:31:04Z"}
