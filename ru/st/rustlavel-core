@@ -4,3 +4,4 @@
 {"name":"rustlavel-core","vers":"0.2.1","deps":[],"cksum":"67f3e731829601bb743d9f2369e9895848441ff7b94e33555763afcebed3db81","features":{},"yanked":false,"pubtime":"2026-09-02T07:17:15Z"}
 {"name":"rustlavel-core","vers":"0.2.2","deps":[],"cksum":"849fa29b1c80bd6e26df36cfb6f93babc38b4ca71e1f69af1350ef673a384b75","features":{},"yanked":false,"pubtime":"2026-09-02T12:31:57Z"}
 {"name":"rustlavel-core","vers":"0.3.0","deps":[],"cksum":"6f64112f6e61d7d97d92990288cce59ecadde3e7835a99900b0399141e622a09","features":{},"yanked":false,"pubtime":"2026-09-02T23:33:29Z"}
+{"name":"rustlavel-core","vers":"0.3.1","deps":[],"cksum":"ae2f1fdd9fdf5a40cb88331cb058febe9fcc72428596dbb9fc7b811c4191aee5","features":{},"yanked":false,"pubtime":"2026-09-02T23:38:50Z"}
