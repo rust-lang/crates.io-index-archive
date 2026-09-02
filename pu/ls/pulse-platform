@@ -78,3 +78,4 @@
 {"name":"pulse-platform","vers":"4.0.0-canary.103","deps":[],"cksum":"e138d44a8b169782539a109710ed1d3a7f00a0d6d2240622774a50ef6246d72a","features":{},"yanked":false,"pubtime":"2026-09-01T05:22:14Z"}
 {"name":"pulse-platform","vers":"4.0.0-canary.104","deps":[],"cksum":"6ab4bb3e16f282492e29f8782f19d26e02f3ace22b39e30f9a32d2d1727421b8","features":{},"yanked":false,"pubtime":"2026-09-01T07:30:45Z"}
 {"name":"pulse-platform","vers":"4.0.0-canary.105","deps":[],"cksum":"9a730c8a5a80622fabcb0ccf4bd9e1ac6462c52876f86ad59dcec1a96f88cb05","features":{},"yanked":false,"pubtime":"2026-09-01T22:34:44Z"}
+{"name":"pulse-platform","vers":"4.0.0-canary.106","deps":[],"cksum":"e691ab559be241ff5ec9d24e8ec67935208f450e3813e2e4c37fdaf7d42c9840","features":{},"yanked":false,"pubtime":"2026-09-02T05:30:56Z"}
