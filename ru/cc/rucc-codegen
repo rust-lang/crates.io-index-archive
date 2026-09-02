@@ -16,3 +16,4 @@
 {"name":"rucc-codegen","vers":"0.2.14","deps":[],"cksum":"f54100d56e35fd533ab2d67c2d5bd1dc0ddab8984e4c7e362699f0ee7d157639","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T13:57:31Z"}
 {"name":"rucc-codegen","vers":"0.2.15","deps":[],"cksum":"35e2bd4865ed84dcd51001009a129fc06229564179d108e3878a4b69bceb2df9","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-01T15:12:21Z"}
 {"name":"rucc-codegen","vers":"0.2.16","deps":[],"cksum":"ef93f18b4802e8231dba6f6ff85dde12b7c6fe4aff2cc22737fa53a390a9b896","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-02T00:05:06Z"}
+{"name":"rucc-codegen","vers":"0.2.17","deps":[],"cksum":"b5f9fcba7850e82e1ac6dfe436906f71b21f99c29c18b14dae1ddbe729882adb","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-02T04:34:31Z"}
