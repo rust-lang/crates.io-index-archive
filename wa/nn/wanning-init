@@ -1,0 +1,1 @@
+{"name":"wanning-init","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fe744172d02c45e9d753d6c95dab340b7d23103c394d81786ee4e316d61c3ed7","features":{},"yanked":false,"pubtime":"2026-09-02T16:05:39Z"}
