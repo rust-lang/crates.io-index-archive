@@ -4,3 +4,4 @@
 {"name":"gradatum-studio","vers":"1.0.0","deps":[],"cksum":"0e77ec39d349a319bf54fcf192955e7a4566b5b61c0569adcd45f2e2b5094ee4","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-08-04T22:02:54Z"}
 {"name":"gradatum-studio","vers":"2.0.0","deps":[],"cksum":"720eac6eda910aa47a05379e46183d247cf16259d57f718789c633a17abf2098","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-08-13T18:23:10Z"}
 {"name":"gradatum-studio","vers":"2.1.0","deps":[],"cksum":"e0afbe290840735ea504be3a116900cd75a1a8344eb18374fecd92daa41e883d","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-08-30T16:38:54Z"}
+{"name":"gradatum-studio","vers":"2.1.1","deps":[],"cksum":"9a9feb87370268ca6459d6d4b095720ccee89d4780296e5b316c7c4b812dd04f","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-09-02T08:24:12Z"}
