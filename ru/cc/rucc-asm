@@ -19,3 +19,4 @@
 {"name":"rucc-asm","vers":"0.2.17","deps":[],"cksum":"7fb8c8732b3476d78f901ea8df9a34ed4693bc1181740f03b1ca5549eb7920b6","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-02T04:34:29Z"}
 {"name":"rucc-asm","vers":"0.2.18","deps":[],"cksum":"5e972f552be0354551d642d6319f9283049e1a87a68561846dd04ee671d5b5ed","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-02T06:10:11Z"}
 {"name":"rucc-asm","vers":"0.2.19","deps":[],"cksum":"938906f94678c92dc2fd9161f9f15730dd98f474d48be568401eee940950e325","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-02T08:31:04Z"}
+{"name":"rucc-asm","vers":"0.2.20","deps":[],"cksum":"7b6aadc2c242bbe4f7b3d3181afd0f2d699495ff2717c352486c4731d6e64ed8","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-02T14:39:58Z"}
