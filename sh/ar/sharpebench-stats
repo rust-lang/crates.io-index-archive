@@ -22,3 +22,4 @@
 {"name":"sharpebench-stats","vers":"0.14.1","deps":[],"cksum":"82a2ee2246644b8a0c375afd58a6f27a40fc4c8d3406d6f3d18aba6e061fd4e4","features":{},"yanked":false,"pubtime":"2026-08-29T21:18:59Z"}
 {"name":"sharpebench-stats","vers":"0.15.0","deps":[],"cksum":"ddfd72a45ed8fcf360131631c790ea32f3092e9dabe485bf78aba96e6c9c195a","features":{},"yanked":false,"pubtime":"2026-08-30T18:11:12Z"}
 {"name":"sharpebench-stats","vers":"0.16.0","deps":[],"cksum":"63eb0ceff4256e53f8ce9a816226309d01a42233bd139a65920199a96bced947","features":{},"yanked":false,"pubtime":"2026-09-01T18:28:36Z"}
+{"name":"sharpebench-stats","vers":"0.17.0","deps":[],"cksum":"40cc8ad3b655cc3667b89a8b8a3a76d7e335967329dbcd23458ecb3e44ac6afa","features":{},"yanked":false,"pubtime":"2026-09-02T21:12:49Z"}
