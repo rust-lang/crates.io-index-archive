@@ -20,3 +20,4 @@
 {"name":"rucc-debug","vers":"0.2.18","deps":[],"cksum":"6d956fa14db2e23846ca6b9a6c3d131917d2a617a7b4681aae0b8213f91d9adc","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-02T06:10:14Z"}
 {"name":"rucc-debug","vers":"0.2.19","deps":[],"cksum":"2ded640d44503275b5df915201a89c3ead0caa8ad9a16b08dd73dbc680bcc4dd","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-02T08:31:06Z"}
 {"name":"rucc-debug","vers":"0.2.20","deps":[],"cksum":"e6f527ba5695c5482eaffb8fe42493d81281d945b6953990bf4b9f253d582124","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-02T14:40:00Z"}
+{"name":"rucc-debug","vers":"0.2.21","deps":[],"cksum":"6be6c1e1ddc77ac100212b6c77b3ac80b7bf0882c45470c5bab6fd316a6221c5","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-02T16:58:23Z"}
