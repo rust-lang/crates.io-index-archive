@@ -5,3 +5,4 @@
 {"name":"kiss-ops-vocab","vers":"0.3.0","deps":[],"cksum":"9c9697b4b18213f2c58280a600e373d1f821e678d5ff6282ba2646d1416603ae","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-13T01:17:24Z"}
 {"name":"kiss-ops-vocab","vers":"0.3.1","deps":[],"cksum":"332a7bd5b8e6f56ec09e6a920b45a491edaf618e14bebdd49a5349fc3480f177","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-08-20T00:00:20Z"}
 {"name":"kiss-ops-vocab","vers":"0.3.2","deps":[],"cksum":"6543126bce86d20287b71d2a55384b93034ad4965a4e91452cd5c186942d225d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-08-26T17:56:20Z"}
+{"name":"kiss-ops-vocab","vers":"0.3.3","deps":[],"cksum":"d257aaac3abb0ff62a540776c02bdee79058bca0ddde36c6b17448b50ef5c837","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-02T08:03:40Z"}
