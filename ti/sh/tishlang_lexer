@@ -69,3 +69,4 @@
 {"name":"tishlang_lexer","vers":"3.10.2","deps":[],"cksum":"f4b040ec2e52fe59d008c2662fa2695b1495ea566680c99318d2a4834c678454","features":{},"yanked":false,"pubtime":"2026-08-26T23:08:36Z"}
 {"name":"tishlang_lexer","vers":"3.10.3","deps":[],"cksum":"228387e1ae493c03f62c12d7f4ef18ac5fd25546b8410dee369d8ab5b7661b23","features":{},"yanked":false,"pubtime":"2026-08-26T23:49:15Z"}
 {"name":"tishlang_lexer","vers":"3.10.4","deps":[],"cksum":"cbeb5e4816adaddcb3895ee560a4a16429fb73cba55ae101255005944195d354","features":{},"yanked":false,"pubtime":"2026-09-01T18:13:21Z"}
+{"name":"tishlang_lexer","vers":"3.10.9","deps":[],"cksum":"17468f71657baaa820c208cbec1b65dd9d991217677057e9f17ab9d764f7585e","features":{},"yanked":false,"pubtime":"2026-09-02T02:10:56Z"}
