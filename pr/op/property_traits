@@ -8,3 +8,4 @@
 {"name":"property_traits","vers":"0.2.4","deps":[],"cksum":"e40061486fe4007c0ed6f3e1bd39824601eda4a2dcc8d5297a1c770cd5b362dd","features":{"default":[],"trait_aliases":[]},"yanked":false,"pubtime":"2026-09-03T01:36:03Z"}
 {"name":"property_traits","vers":"0.2.5","deps":[],"cksum":"eb17afdd4fd6c73704682c4c783fd35e28b443b030c6dbe7a608b7391309f355","features":{"default":[],"trait_aliases":[]},"yanked":false,"pubtime":"2026-09-03T01:42:11Z"}
 {"name":"property_traits","vers":"0.2.6","deps":[],"cksum":"8d0f05e0895c0234c9022cea3666d78de6f4d8edefa043d27d3d8054c60aaf4f","features":{"default":[],"trait_aliases":[]},"yanked":false,"pubtime":"2026-09-03T01:43:33Z"}
+{"name":"property_traits","vers":"0.2.7","deps":[],"cksum":"f95cea5a9b8e0bc65249923a99e60b76926beadfbc35f880109e50f8e099f395","features":{"default":[],"trait_aliases":[]},"yanked":false,"pubtime":"2026-09-03T01:46:55Z"}
