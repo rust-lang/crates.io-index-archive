@@ -18,3 +18,4 @@
 {"name":"switchgear","vers":"0.1.25","deps":[],"cksum":"90d18c2ecc1a3eae02b5cfe566712ea708306c0a18f6d51b26e43f5f4fcc2381","features":{},"yanked":false,"pubtime":"2025-12-06T01:33:15Z"}
 {"name":"switchgear","vers":"0.1.26","deps":[],"cksum":"b8d3459ff031b935ce27f0df2901d4c12d67e288221557725154f389f1b4c8d6","features":{},"yanked":false,"pubtime":"2025-12-09T03:45:23Z"}
 {"name":"switchgear","vers":"0.1.27","deps":[],"cksum":"d0207625733ce88ccaa1d579fb6c96adc76bac85b419560f40d820dc54a3bf2c","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-08-25T06:27:13Z"}
+{"name":"switchgear","vers":"0.1.29","deps":[],"cksum":"48fce76c5a9b5063fb7ddada79a261cfb34694e814a5153ed6916c4c1b2f21aa","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-09-03T02:45:00Z"}
