@@ -26,3 +26,4 @@
 {"name":"scry-sai-taint","vers":"3.2.5","deps":[],"cksum":"0448c3c55fdbcf53a29d308d5b20ff8577e7c80a9f4397d5442546194cdd7403","features":{},"yanked":false,"pubtime":"2026-08-21T12:56:21Z"}
 {"name":"scry-sai-taint","vers":"3.2.6","deps":[],"cksum":"e84dd40c8bc97a12c31c4e3f3ee7a2f3e77290df61da3bc395c6e32b9252efc6","features":{},"yanked":false,"pubtime":"2026-08-26T12:24:03Z"}
 {"name":"scry-sai-taint","vers":"3.2.7","deps":[],"cksum":"3a7381ecb944874feb72512de396d4fbf605be198a73e7f3d2be7f7dd56f7f98","features":{},"yanked":false,"pubtime":"2026-08-27T09:25:17Z"}
+{"name":"scry-sai-taint","vers":"3.3.0","deps":[],"cksum":"ecac8077ce58345b883489e9d4cae505e31bc0e8746daf9e8618285156252990","features":{},"yanked":false,"pubtime":"2026-09-03T07:10:26Z"}
