@@ -11,3 +11,4 @@
 {"name":"property_traits","vers":"0.2.7","deps":[],"cksum":"f95cea5a9b8e0bc65249923a99e60b76926beadfbc35f880109e50f8e099f395","features":{"default":[],"trait_aliases":[]},"yanked":false,"pubtime":"2026-09-03T01:46:55Z"}
 {"name":"property_traits","vers":"0.2.8","deps":[],"cksum":"49ba66053f1586260d41f792cbc1bbfc06812f16a3cd5175f7cc4436ed1581eb","features":{"default":[],"trait_aliases":[]},"yanked":false,"pubtime":"2026-09-03T02:23:50Z"}
 {"name":"property_traits","vers":"0.3.0","deps":[],"cksum":"e8eb4cef554265f381165f3c66108edee8cc6a025af79845a970aa07a56f1d80","features":{},"yanked":false,"pubtime":"2026-09-03T03:27:31Z"}
+{"name":"property_traits","vers":"0.3.1","deps":[],"cksum":"15c3d0517f72aa065d026fb9f2bc868377b2d33470b2e1a8de9f1e2159cdd601","features":{},"yanked":false,"pubtime":"2026-09-03T03:38:42Z"}
