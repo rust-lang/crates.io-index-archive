@@ -4,3 +4,4 @@
 {"name":"quo-carriage","vers":"0.3.0","deps":[],"cksum":"0528dd5b087e7cad957817b1cd292a90199f012cd9d454657ee9d83fad9143f0","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-09-02T06:13:42Z"}
 {"name":"quo-carriage","vers":"0.3.1","deps":[],"cksum":"316be966c6b0b55d94c4373c7c0e66b140eaf53b4bc2403bc636cf4aab9ded32","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-09-02T07:54:27Z"}
 {"name":"quo-carriage","vers":"0.4.0","deps":[],"cksum":"e2f5b3d71fa2057e4de32519729cea6d6f68ec21edce55c3f5f299993ac582a8","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-09-02T14:20:59Z"}
+{"name":"quo-carriage","vers":"0.5.0","deps":[],"cksum":"648b483dbadb0dbce8bc9e37e4ab70333f573755e70272920a25c559e6678fc9","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-09-03T04:52:05Z"}
