@@ -5,3 +5,4 @@
 {"name":"memo-map","vers":"0.3.1","deps":[],"cksum":"aec276c09560ce4447087aaefc19eb0c18d97e31bd05ebac38881c4723400c40","features":{},"yanked":false,"rust_version":"1.43","pubtime":"2022-03-20T22:17:15Z"}
 {"name":"memo-map","vers":"0.3.2","deps":[],"cksum":"374c335b2df19e62d4cb323103473cbc6510980253119180de862d89184f6a83","features":{},"yanked":false,"rust_version":"1.43","pubtime":"2023-08-27T20:24:31Z"}
 {"name":"memo-map","vers":"0.3.3","deps":[],"cksum":"38d1115007560874e373613744c6fba374c17688327a71c1476d1a5954cc857b","features":{},"yanked":false,"rust_version":"1.43","pubtime":"2024-07-28T14:49:39Z"}
+{"name":"memo-map","vers":"0.3.4","deps":[],"cksum":"5449c8c750f1a07ea702bbd212bd999fceece9b3d1508b17023b3e174583124b","features":{},"yanked":false,"rust_version":"1.43","pubtime":"2026-09-03T09:53:21Z"}
