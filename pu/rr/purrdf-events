@@ -23,3 +23,4 @@
 {"name":"purrdf-events","vers":"0.10.0","deps":[],"cksum":"92a23a876963cc97cece52df99f3e353fdeb8632ff00a216caeb3d250121f537","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-07-31T09:48:29Z"}
 {"name":"purrdf-events","vers":"0.11.0","deps":[],"cksum":"7deacfedbac41bdff14ed3edc5e717926ad36ff3821f3bebe9c24686c7784576","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-02T07:21:06Z"}
 {"name":"purrdf-events","vers":"0.12.0","deps":[],"cksum":"735164e906a95292cd1afe73bd2489f93a032c3ea07f162b4049988390af81ab","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-02T21:31:51Z"}
+{"name":"purrdf-events","vers":"0.13.0","deps":[],"cksum":"80498020dce18ca2b6f6aee91a4370e5835dd6fcec88981c68c77169036e4499","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-09-03T04:52:16Z"}
