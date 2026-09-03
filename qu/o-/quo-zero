@@ -4,3 +4,4 @@
 {"name":"quo-zero","vers":"0.3.0","deps":[],"cksum":"434c0066ae266198fb25e3e9eb0928328af93f764ff232a10e7cff49385ad030","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-09-02T06:13:46Z"}
 {"name":"quo-zero","vers":"0.3.1","deps":[],"cksum":"bcdfc8196c65de6d58146f9b196b7f3c3c3f1eb08bd69f06cd414cbaad9cf5d5","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-09-02T07:54:32Z"}
 {"name":"quo-zero","vers":"0.4.0","deps":[],"cksum":"3b08a69eac19dc539b6fcc7f37d82143f7dd239fa8fa4dbd22abda0ae579f30c","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-09-02T14:21:03Z"}
+{"name":"quo-zero","vers":"0.5.0","deps":[],"cksum":"d92e1fcc10b9828a500cee613b23216341f88d6e73b03353b2747ee07b027202","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-09-03T04:52:10Z"}
