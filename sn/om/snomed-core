@@ -16,3 +16,4 @@
 {"name":"snomed-core","vers":"0.12.0","deps":[],"cksum":"8f7fcf55faab435d471cf13cfa558b95299342f57be9c4397fb4047b1a66824b","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-29T09:15:08Z"}
 {"name":"snomed-core","vers":"0.13.0","deps":[],"cksum":"e8869ab50b7bd2a457c9633a996c7f6362cf89f714322f1694448a8bfafb1d45","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-09-02T09:41:40Z"}
 {"name":"snomed-core","vers":"0.14.0","deps":[],"cksum":"e31f42c97f4ca27ba3b8aec4096129f767e461129053d0822b407b45f12a68af","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-09-02T14:29:52Z"}
+{"name":"snomed-core","vers":"0.15.0","deps":[],"cksum":"09923cf22f1a4d1d648fd473d2886cda96c701859bd17df7d6df0879bdd22d88","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-09-03T09:29:21Z"}
