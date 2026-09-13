@@ -13,3 +13,4 @@
 {"name":"oxibrain-views","vers":"0.12.1","deps":[],"cksum":"8a5a283d809ccf3a1d3870eada2f7ba30071b809a776ce62a3630ef21c49f872","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-30T02:17:19Z"}
 {"name":"oxibrain-views","vers":"0.13.0","deps":[],"cksum":"064987daa5a21c03431ed6cd122b9921246ac93664755fa28986c770258f5fda","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-09-12T14:32:55Z"}
 {"name":"oxibrain-views","vers":"0.14.0","deps":[],"cksum":"d88cb42ec234b977cc596a7e89002735d69a44ee0b279d47d2b02f9a1b69a342","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-09-13T16:22:57Z"}
+{"name":"oxibrain-views","vers":"0.14.1","deps":[],"cksum":"e23503111e2ec6ab3f1413e876f9ee958bf58006774dcf735527d29f37f5ab2a","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-09-13T16:53:15Z"}
