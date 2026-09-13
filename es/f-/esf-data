@@ -1,0 +1,1 @@
+{"name":"esf-data","vers":"9.0.0","deps":[{"name":"flatbuffers","req":"^25.2.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6038807a0331b62ddb469133d8765e583d6dee046225d7aa0b4121862da86ad","features":{},"yanked":false,"pubtime":"2026-09-13T19:42:23Z"}
