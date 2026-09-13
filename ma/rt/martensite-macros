@@ -13,3 +13,4 @@
 {"name":"martensite-macros","vers":"0.13.0","deps":[],"cksum":"bbf2b4906faecbef9e02219a3fe05f61a54c39192b460991e8370cb816e2be26","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-09-12T04:54:35Z"}
 {"name":"martensite-macros","vers":"0.14.0","deps":[],"cksum":"55e91b0b967ef9aa214b0400a38f64684b30cecff3da5a078be9af0caad99abf","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-09-12T19:33:09Z"}
 {"name":"martensite-macros","vers":"0.15.0","deps":[],"cksum":"81e5c613b79bb0d6eac69e627ddbf8e588c5680b07cb562a024ed0c1ef4988af","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-09-13T01:40:54Z"}
+{"name":"martensite-macros","vers":"0.16.0","deps":[],"cksum":"47155275c99fe6cfaa5d67216ccecb981785dae1bf89745f9517921943d2460d","features":{},"yanked":false,"rust_version":"1.89.0","pubtime":"2026-09-13T23:32:53Z"}
