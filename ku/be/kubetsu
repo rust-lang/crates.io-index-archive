@@ -8,3 +8,4 @@
 {"name":"kubetsu","vers":"0.7.0","deps":[],"cksum":"a0e71694399769a1811e77d78407482eef85cc58cb2fe758771374b7095a0513","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-03T01:48:27Z"}
 {"name":"kubetsu","vers":"0.7.1","deps":[],"cksum":"dc66a911ad8f22505dc1c21439d5c0b8df284860af2939f8b5134fd06b8a2476","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-23T06:26:33Z"}
 {"name":"kubetsu","vers":"0.8.0","deps":[],"cksum":"b8a3348307ee652cd81b9b869f93970852dbc519365acca22ccb36e9ddd0a787","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-08T08:29:31Z"}
+{"name":"kubetsu","vers":"0.9.0","deps":[],"cksum":"1f103045383453db4bdeda5ecba6650d65aac7c7c06ba06d3cf05d5bf28cb2c2","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-13T11:52:40Z"}
