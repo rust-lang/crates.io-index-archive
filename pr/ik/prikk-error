@@ -53,3 +53,4 @@
 {"name":"prikk-error","vers":"0.39.0","deps":[],"cksum":"d4340c447646404bb0d2fa8a513478f198e8841135491e9aa37bbee73f4805e8","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-12T05:24:00Z"}
 {"name":"prikk-error","vers":"0.40.0","deps":[],"cksum":"0d9f61c9d5636b7d63621ec7b03f2b9d11f4dfe83ec8d5c685407b7fc5a23aed","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-12T12:07:18Z"}
 {"name":"prikk-error","vers":"0.41.0","deps":[],"cksum":"fdf8ab899997b050f33924ab9a5a19d0d5405bb6b7b5fec9f20fb1cce3f6a48c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-12T14:22:25Z"}
+{"name":"prikk-error","vers":"0.42.0","deps":[],"cksum":"b654b6ed02f0b62ebde343404981d12fff67476111e55e81c3216d8f31741936","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-13T02:40:08Z"}
