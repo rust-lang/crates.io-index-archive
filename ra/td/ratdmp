@@ -1,0 +1,1 @@
+{"name":"ratdmp","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a766e42f7e323314056453e2b015f85c8f425ede8fe7613208991105675294c","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-09-13T10:58:22Z"}
