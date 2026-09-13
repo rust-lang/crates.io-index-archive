@@ -1,2 +1,3 @@
 {"name":"tlang","vers":"1.0.0","deps":[],"cksum":"9713522ce19f779b55d1d694f22afa95d548fd64b28777b1a25eff2c50b329d3","features":{},"yanked":false,"rust_version":"1.78","pubtime":"2026-09-13T12:57:24Z"}
 {"name":"tlang","vers":"2.0.0","deps":[],"cksum":"603a87c9d2b565df977adcc1d1e70431ef4326e1b82ccc5e663dacbb5fd596d0","features":{},"yanked":false,"rust_version":"1.78","pubtime":"2026-09-13T13:25:51Z"}
+{"name":"tlang","vers":"3.0.0","deps":[],"cksum":"2b61d6558825fb02c1a27c0ea69325c00ab6926e70fc563f532e38da75ce5a97","features":{},"yanked":false,"rust_version":"1.78","pubtime":"2026-09-13T13:32:39Z"}
