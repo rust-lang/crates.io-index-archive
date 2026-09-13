@@ -3,3 +3,4 @@
 {"name":"tlang","vers":"3.0.0","deps":[],"cksum":"2b61d6558825fb02c1a27c0ea69325c00ab6926e70fc563f532e38da75ce5a97","features":{},"yanked":false,"rust_version":"1.78","pubtime":"2026-09-13T13:32:39Z"}
 {"name":"tlang","vers":"5.0.0","deps":[],"cksum":"6e7a48e7bd5b6bdb3814ab2ccf2b13f3b2f7816804eee653a8f757f811271c44","features":{},"yanked":false,"rust_version":"1.78","pubtime":"2026-09-13T13:47:13Z"}
 {"name":"tlang","vers":"6.0.0","deps":[],"cksum":"4b5bb97c7577be6594bf8ca83bb64d4e953b34cfbaf4731f0e7059116c87a6fd","features":{},"yanked":false,"rust_version":"1.78","pubtime":"2026-09-13T14:09:49Z"}
+{"name":"tlang","vers":"7.0.0","deps":[],"cksum":"89e484c397853255ef9f49ebdaceee972ab5f5948f5a40db4b27bbf9167fa733","features":{},"yanked":false,"rust_version":"1.78","pubtime":"2026-09-13T14:16:09Z"}
