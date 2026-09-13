@@ -5,3 +5,4 @@
 {"name":"nucleide-serpent-io","vers":"0.7.0","deps":[],"cksum":"9c4e8b33baf441b780f141660c7643ea174c719cb1c864ffc1a3d2a7c782faa4","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2026-09-12T12:47:09Z"}
 {"name":"nucleide-serpent-io","vers":"0.8.0","deps":[],"cksum":"99eab907f6e7eb8e17f9fa46d1fc8edc90a86f2cffc52d5dafca53701baa012b","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2026-09-12T19:34:55Z"}
 {"name":"nucleide-serpent-io","vers":"0.9.0","deps":[],"cksum":"d48ba0152b57b448b407328816cc5b26c7c80748391ad2d94a8e003e0e2eda6a","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2026-09-13T09:05:30Z"}
+{"name":"nucleide-serpent-io","vers":"0.10.0","deps":[],"cksum":"1363d5ba34a2a9ac1167a43d38d1ca88f2e115e2b77e1ab1d116f3f2f09f101d","features":{},"yanked":false,"rust_version":"1.83","pubtime":"2026-09-13T18:56:45Z"}
