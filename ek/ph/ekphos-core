@@ -1,0 +1,1 @@
+{"name":"ekphos-core","vers":"0.50.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e40aa80ef6e0bd27f12d3527476ebcaaf0ea852f63899d02e57aa4bc1e397a95","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-09-14T22:27:11Z"}
