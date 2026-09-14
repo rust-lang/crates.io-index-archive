@@ -9,3 +9,4 @@
 {"name":"fig-sys-windows-x64-msvc","vers":"3.2.0","deps":[],"cksum":"fc487e2d21ed0507e27a5b70435b18008cd01b2ec1a8a8bb35b5304b729d303c","features":{},"yanked":false,"links":"fig_prebuilt_windows_x64_msvc","pubtime":"2026-08-21T01:09:26Z"}
 {"name":"fig-sys-windows-x64-msvc","vers":"3.3.0","deps":[],"cksum":"cd964c54d7263cd704dbb347defef20c14dc6ca3bff9190aed9993c54ea9624b","features":{},"yanked":false,"links":"fig_prebuilt_windows_x64_msvc","pubtime":"2026-08-24T17:55:04Z"}
 {"name":"fig-sys-windows-x64-msvc","vers":"3.4.0","deps":[],"cksum":"c7b743384761d7f1533b9b420d90b13e775b5c607e8da25167f6e2bcba65d642","features":{},"yanked":false,"links":"fig_prebuilt_windows_x64_msvc","pubtime":"2026-09-07T17:24:26Z"}
+{"name":"fig-sys-windows-x64-msvc","vers":"4.0.0","deps":[],"cksum":"a7f4c42715367913c17341acfcdd87057bb212acdd28167891576df4fdb560d3","features":{},"yanked":false,"links":"fig_prebuilt_windows_x64_msvc","pubtime":"2026-09-14T22:07:52Z"}
