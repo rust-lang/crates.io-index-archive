@@ -1,0 +1,1 @@
+{"name":"uvr-vr","vers":"0.1.0","deps":[{"name":"uvr-core","req":"^0.1.0","features":["burn-cpu"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb1877b3656d2a8f65469c53b34753e9dd326f5c1a15a62041d3789546bd666b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-14T03:44:41Z"}
