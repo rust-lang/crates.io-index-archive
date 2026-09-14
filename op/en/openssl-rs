@@ -2,3 +2,4 @@
 {"name":"openssl-rs","vers":"0.0.2","deps":[],"cksum":"13628a1bb529060c7ade3e1ce89d1f48fdcb32109234421804b059aba9b1d4ae","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-09-14T03:52:29Z"}
 {"name":"openssl-rs","vers":"0.0.3","deps":[],"cksum":"fed62dcb7bc58191e64ea6ae9e1ccda9690b8766e57ee8b1d7b98bff601a62c3","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-09-14T04:13:56Z"}
 {"name":"openssl-rs","vers":"0.0.4","deps":[],"cksum":"544c7c75eb1456e2161bf918266b3de9d306de923ce373cb9d9a2798e8c2ac8b","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-09-14T05:23:06Z"}
+{"name":"openssl-rs","vers":"0.0.5","deps":[],"cksum":"9b7d62dddee117965e166e869d522a00531050bc4dbc1c24a2845e20080e2ec8","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-09-14T05:27:14Z"}
