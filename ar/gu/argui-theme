@@ -1,0 +1,1 @@
+{"name":"argui-theme","vers":"0.2.0","deps":[{"name":"argui-core","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"287c4608cc391933914b8527112a52159440cbb84d32541b48f9f42d84fcb63e","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-14T10:28:56Z"}
