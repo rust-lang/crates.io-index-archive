@@ -4,3 +4,4 @@
 {"name":"libid-identity","vers":"0.9.0","deps":[],"cksum":"fe0baf23cfda461fc82227695334e27f45a2feff53870a4612a1d01cafd7aed4","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-09-09T17:21:47Z"}
 {"name":"libid-identity","vers":"0.10.0","deps":[],"cksum":"8e2218d0a04555a2cb962465660dd7981d4a462ac1aac27e347414084c7762fc","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-09-11T00:27:20Z"}
 {"name":"libid-identity","vers":"0.11.0","deps":[],"cksum":"0f7fdc97153f8700939d1fbd187d78c0b94259ee0711dea745fe8d706bad9a21","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-09-14T18:34:59Z"}
+{"name":"libid-identity","vers":"0.12.0","deps":[],"cksum":"e7d0861bfbd43919ca06a767648b805f926af61caf89110aaf4b1237e18fbe4f","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-09-14T19:10:04Z"}
