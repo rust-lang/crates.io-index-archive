@@ -4,3 +4,4 @@
 {"name":"pier-sys-rs","vers":"26.32.1","deps":[],"cksum":"daa08e2c66e1cdaeddf3b982f39234850eb40716385ad92f019a14bbe040393f","features":{"client":[],"default":[]},"yanked":false,"pubtime":"2026-09-07T10:21:28Z"}
 {"name":"pier-sys-rs","vers":"26.32.2","deps":[],"cksum":"e12edb23a875de89f3fc43a4c360f8b4b59007418a5f5abc2a6e4c3644488a92","features":{"client":[],"default":[]},"yanked":false,"pubtime":"2026-09-08T12:38:28Z"}
 {"name":"pier-sys-rs","vers":"26.40.1","deps":[],"cksum":"809d4c35320b55b8267a62eefcf29361bb0e807faa6a610fba63ff87874c3650","features":{"client":[],"default":[]},"yanked":false,"pubtime":"2026-09-12T11:22:55Z"}
+{"name":"pier-sys-rs","vers":"26.40.2","deps":[],"cksum":"3403602b6f380b933ac6f8128ee448219605644909b2cd7490646ca718e01e43","features":{"client":[],"default":[]},"yanked":false,"pubtime":"2026-09-14T02:48:50Z"}
