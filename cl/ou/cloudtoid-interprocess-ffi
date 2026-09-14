@@ -1,0 +1,1 @@
+{"name":"cloudtoid-interprocess-ffi","vers":"3.0.0","deps":[{"name":"core-queue","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal","package":"cloudtoid-interprocess"}],"cksum":"b1ffb7508e628211d2b4941c345843305066d39000e4f9090186d15f601a38d7","features":{},"yanked":false,"pubtime":"2026-09-14T19:36:07Z"}
