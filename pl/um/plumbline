@@ -1,0 +1,1 @@
+{"name":"plumbline","vers":"0.0.1","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1808b11e0d601be3258b300851c5bd2d9a76fa2cfd49b9cae54826ca5c07ca71","features":{},"yanked":false,"pubtime":"2026-09-14T06:21:58Z"}
