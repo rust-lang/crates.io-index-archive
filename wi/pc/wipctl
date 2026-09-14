@@ -15,3 +15,4 @@
 {"name":"wipctl","vers":"0.4.1","deps":[],"cksum":"825fa3839ff7806240405cbdb84530445ba3de1c31cb40fbe79ecc0acb2c71c3","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-09-09T19:48:52Z"}
 {"name":"wipctl","vers":"0.5.0","deps":[],"cksum":"e7c28de3f1edaaba299cc623f7788bfe1744fb3e8a82192dbbd3dccfda71f429","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-09-10T13:22:37Z"}
 {"name":"wipctl","vers":"0.6.0","deps":[],"cksum":"9ad76a0983e81f89bb8e52af90cfc673916af623f7f35e37269a4a7f3e525959","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-09-14T15:08:46Z"}
+{"name":"wipctl","vers":"0.6.1","deps":[],"cksum":"3ccd6da70d6709ef7465aecf68a5f49d463ece44d503bd27cce9df008b33f49a","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-09-14T15:49:45Z"}
