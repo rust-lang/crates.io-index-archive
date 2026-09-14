@@ -1,0 +1,1 @@
+{"name":"argui-animation","vers":"0.1.0","deps":[{"name":"argui-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f1b69f71e8aae3ea3b8841207c7e3a126adf173a86db6f0a53f8338e765d2cd2","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-14T08:18:55Z"}
