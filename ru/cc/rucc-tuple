@@ -42,3 +42,4 @@
 {"name":"rucc-tuple","vers":"0.10.43","deps":[],"cksum":"24fd699438446a1ec513f97c0b332b5095b42050b1e0cf08d54655cec08c9c29","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-14T23:13:27Z"}
 {"name":"rucc-tuple","vers":"0.10.44","deps":[],"cksum":"604c453b1f70eeab0c1fd352692fa55371603e027a9d9c475f1993a30f967350","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-15T00:03:13Z"}
 {"name":"rucc-tuple","vers":"0.10.45","deps":[],"cksum":"df1a79c7576d6652ba4f76109543985007807625c9658edf911dabf2c2545a2c","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-15T04:16:00Z"}
+{"name":"rucc-tuple","vers":"0.10.46","deps":[],"cksum":"a34afcf97e4d1704f38c42401a2771ab14aded6e293cea3a11eb4218497efca5","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-15T06:26:03Z"}
