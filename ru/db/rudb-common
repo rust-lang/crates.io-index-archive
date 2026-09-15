@@ -47,3 +47,4 @@
 {"name":"rudb-common","vers":"0.3.15","deps":[],"cksum":"cb31e6cc7887d099a5af97f5a7c6b5e798c6c5b075df1297f452d9dddb40228f","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-15T06:02:26Z"}
 {"name":"rudb-common","vers":"0.3.16","deps":[],"cksum":"0e17586d05f3c221085abab17e02dc56cdc667ccd42d0e2d64ad9f3ad4e65267","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-15T06:50:33Z"}
 {"name":"rudb-common","vers":"0.3.17","deps":[],"cksum":"980f2ac788b061115631ddcbffc58188e408ef2b9642d61a74026c532720df18","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-15T07:44:56Z"}
+{"name":"rudb-common","vers":"0.3.18","deps":[],"cksum":"41dc93c6c02631a780166526fb4080e5b6804c56c9c49bb9de369ebc3e31f3c0","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-09-15T09:31:23Z"}
