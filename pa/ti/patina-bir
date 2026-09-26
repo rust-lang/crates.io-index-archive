@@ -1,0 +1,1 @@
+{"name":"patina-bir","vers":"0.23.943","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4a7fd606891fcff5f9a05a2b6dd88f2bcef69080cd347d215749d0cd34800577","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-09-26T21:29:40Z"}
