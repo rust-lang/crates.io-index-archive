@@ -1,0 +1,1 @@
+{"name":"sparse-ldlt","vers":"0.3.2","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3d10f316e74b0cae9d9d4346ea7bfdcc26b3c6cef6c1f1aa147a82202fd65263","features":{"corpus-tests":[]},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-27T20:30:54Z"}
