@@ -103,3 +103,4 @@
 {"name":"celastro","vers":"0.86.0","deps":[],"cksum":"35fc7f748a3e26f11d19a4790c75586ed7c605928f25a916cc52558bd28311c9","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-26T13:26:16Z"}
 {"name":"celastro","vers":"0.87.0","deps":[],"cksum":"f83a8ddc15d21f379d0197491b2db90224b051c4712b006ccee54c317bda7100","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-26T15:33:23Z"}
 {"name":"celastro","vers":"0.88.0","deps":[],"cksum":"8d0c5a7c06874cdb8fbb39e399d22685e2429cbfbd6616f9ceed60fba8e5b93d","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-26T21:14:40Z"}
+{"name":"celastro","vers":"0.89.0","deps":[],"cksum":"5834b7a2a38d809161d08571beb193ab2571290752027ee42f080ef18aab97b9","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-27T05:40:18Z"}
