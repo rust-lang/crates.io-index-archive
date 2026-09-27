@@ -1,0 +1,1 @@
+{"name":"cufsm-rs","vers":"0.2.1","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"60698ad61cc2aa4fd529594d898900b1625f314447ae1a1014c33f3d93034637","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-27T20:31:05Z"}
