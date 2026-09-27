@@ -25,3 +25,4 @@
 {"name":"csusage-cli","vers":"0.0.24","deps":[],"cksum":"bb526074f44ae8513dc8a7f66cfb463f7a4bf11fcf28d18c4c26d39d7b57c9de","features":{},"yanked":false,"pubtime":"2026-09-25T06:15:25Z"}
 {"name":"csusage-cli","vers":"0.0.25","deps":[],"cksum":"ad67d7558d955266fffb00f075cdbd702101e290a91e50a67519d04c222ab975","features":{},"yanked":false,"pubtime":"2026-09-26T16:44:48Z"}
 {"name":"csusage-cli","vers":"0.0.26","deps":[],"cksum":"31177ec9765a9979d8c3bdce6a41abfe6cb8267041b375c6948bb7dc867c61ae","features":{},"yanked":false,"pubtime":"2026-09-27T03:30:30Z"}
+{"name":"csusage-cli","vers":"0.0.27","deps":[],"cksum":"aec6600df1b9683fa945ace5e267fc913d88aac2c095776dc0b5fdc77fc5a6cb","features":{},"yanked":false,"pubtime":"2026-09-27T04:30:48Z"}
