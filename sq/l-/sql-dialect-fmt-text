@@ -18,3 +18,4 @@
 {"name":"sql-dialect-fmt-text","vers":"1.25.0","deps":[],"cksum":"c72588d979043c4821dd2df1b18ae9ef8df3922b606cc7e4cfaf801a966b963b","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-09-27T11:30:51Z"}
 {"name":"sql-dialect-fmt-text","vers":"1.26.0","deps":[],"cksum":"27593df8b84870c3da4fd01dbc9736da1ff5dc456606d500ef5b5f9f463000c6","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-09-27T11:58:08Z"}
 {"name":"sql-dialect-fmt-text","vers":"1.27.0","deps":[],"cksum":"d30fff64c982879da7f4b7664b278e5c31fddabc307e63f7c1f3654f98c9b1a9","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-09-27T12:43:31Z"}
+{"name":"sql-dialect-fmt-text","vers":"1.28.0","deps":[],"cksum":"9efe4cda586d3ac06574513118bb32ae752d2aa7a2e9a892895bf2197407f812","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-09-27T13:07:07Z"}
