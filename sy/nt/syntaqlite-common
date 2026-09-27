@@ -71,3 +71,4 @@
 {"name":"syntaqlite-common","vers":"0.10.1","deps":[],"cksum":"a9cb85537e726067fe23936e919295a3a5dc66139012d28273b7f29b5e0b98e1","features":{},"yanked":false,"pubtime":"2026-09-16T15:13:28Z"}
 {"name":"syntaqlite-common","vers":"0.10.2","deps":[],"cksum":"7ed9ee2479fb879b0bb5d1c2bed3b349e4d1d102bd69aecafd00d2d3b821b6e5","features":{},"yanked":false,"pubtime":"2026-09-22T18:25:31Z"}
 {"name":"syntaqlite-common","vers":"0.11.0","deps":[],"cksum":"6457c5a820b0362756ff671ea6398d540ba36f056cb265549ec604f2ef9570bb","features":{},"yanked":false,"pubtime":"2026-09-27T15:06:14Z"}
+{"name":"syntaqlite-common","vers":"0.11.1","deps":[],"cksum":"7d285af123aff400d53bce42c1bff54887e7ef3296042d371b4ed84d4e56d5d6","features":{},"yanked":false,"pubtime":"2026-09-27T15:32:15Z"}
