@@ -8,3 +8,4 @@
 {"name":"pylon-replication","vers":"0.18.1","deps":[],"cksum":"902ef4585b455c40edea86e7d91bbd9a5008f65fe665bc20ca35d9eda06701dc","features":{},"yanked":false,"pubtime":"2026-09-27T19:12:51Z"}
 {"name":"pylon-replication","vers":"0.19.0","deps":[],"cksum":"73ec897cc4b27aa6ae0204fdebc7c3d19485b30967f278d23d9b2b3e1344fe6d","features":{},"yanked":false,"pubtime":"2026-09-27T21:59:32Z"}
 {"name":"pylon-replication","vers":"0.19.1","deps":[],"cksum":"98cfe66ce65a89ee268e52eae2f89dcacb227036503e879b15b17b61be01b9bb","features":{},"yanked":false,"pubtime":"2026-09-27T23:47:05Z"}
+{"name":"pylon-replication","vers":"0.20.0","deps":[],"cksum":"795c88fbae9a35d3e8ed495e3c2d16f980e4598cd6f9e030afed7c93f915ab9e","features":{},"yanked":false,"pubtime":"2026-09-28T01:16:34Z"}
