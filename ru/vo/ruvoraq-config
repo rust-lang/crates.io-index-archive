@@ -1,0 +1,1 @@
+{"name":"ruvoraq-config","vers":"0.1.0","deps":[{"name":"dotenvy","req":"^0.15.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c88cd01cbebef6933d16007afed66e0ff0d5cce89f9281e8a7d4870907baea3b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-04T13:53:03Z"}
