@@ -14,3 +14,4 @@
 {"name":"aval-core","vers":"1.7.1","deps":[],"cksum":"05b77668e6a40eb3c06d56dec66ef00293eaae5e55a849f3f6851b741b6dba22","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-09-23T13:34:22Z"}
 {"name":"aval-core","vers":"1.7.2","deps":[],"cksum":"334eb871aade1c3cb4ca5d0be78d01329563840ef99cd87d18e9f0a6d4fa3e0c","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-09-24T11:12:15Z"}
 {"name":"aval-core","vers":"1.8.0","deps":[],"cksum":"a149221647962edeaeddbe1b3888a0a29b7241d52d2a2994b2c43164a562394e","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-09-24T17:38:47Z"}
+{"name":"aval-core","vers":"1.9.0","deps":[],"cksum":"4a099e1f1514e6aa8ba09086d65069069ac7b143f67db2a4cb98c01546377209","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-10-04T20:18:36Z"}
