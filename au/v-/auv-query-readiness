@@ -2,3 +2,4 @@
 {"name":"auv-query-readiness","vers":"0.0.23","deps":[],"cksum":"ae49a86bd38e15e9db2101cc0a5ca7a181f715d46da664aaca40e31e32063d9b","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-10-02T15:26:14Z"}
 {"name":"auv-query-readiness","vers":"0.0.24","deps":[],"cksum":"92dbb9e6be1318b8d64849db39e61b5c46fc3f8e2a5ddbae4f89c745b38de877","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-10-02T20:20:53Z"}
 {"name":"auv-query-readiness","vers":"0.0.25","deps":[],"cksum":"e79ba1e9f7a79206e44cf504cd824c0551e8807400679bc8bc7cb723f8c0b7bb","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-10-03T10:21:36Z"}
+{"name":"auv-query-readiness","vers":"0.0.28","deps":[],"cksum":"821add785d2845d37bf06d176d636c629ed22dcdc1d24df99ea3f45891907348","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-10-04T21:15:38Z"}
