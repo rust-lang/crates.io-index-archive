@@ -1,0 +1,1 @@
+{"name":"pmpx-plugin-yarn","vers":"0.1.0","deps":[{"name":"pmpx-plugin","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26e25266f865059e291c315d03f114c729ffaf7ca3285e2c30f679332f7ecb3d","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-04T12:04:11Z"}
