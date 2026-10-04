@@ -1,0 +1,1 @@
+{"name":"pmpx-plugin-pnpm","vers":"0.1.0","deps":[{"name":"pmpx-plugin","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"862c391b378e4a01db0b14ae0c39b6913916333d5b39f0194fbba2a3ee3eaac8","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-04T11:57:52Z"}
