@@ -5,3 +5,4 @@
 {"name":"zgz-transport","vers":"1.0.3","deps":[],"cksum":"961f0327e2c6a068f715587e9af9bd046be625643a0134bd4bd0947318b19f2b","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-27T13:37:43Z"}
 {"name":"zgz-transport","vers":"2.0.0","deps":[],"cksum":"d903c74a6ee120df528aa8febede9196f08d82269b9010d757d380ff7ab5fb48","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-08-27T17:35:53Z"}
 {"name":"zgz-transport","vers":"3.0.0","deps":[],"cksum":"e4637af4cb0ea853f02fb3e102429c8d063c4bdab50bdaf8350c6b1f3c482e22","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-11T09:42:26Z"}
+{"name":"zgz-transport","vers":"4.0.0","deps":[],"cksum":"58dd958e7a5340e987eed2eb552b9f5ae74db9cf112a0d519ef3242191c781c5","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-04T13:12:32Z"}
