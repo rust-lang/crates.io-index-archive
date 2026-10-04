@@ -1,0 +1,1 @@
+{"name":"gnitz-wire","vers":"0.1.0","deps":[{"name":"xxhash-rust","req":"^0.8","features":["xxh3"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd2bdb517df77791be22e9f5238635c43413f7e0493e29a59819c696c1dcac6a","features":{},"yanked":false,"pubtime":"2026-10-04T11:52:10Z"}
