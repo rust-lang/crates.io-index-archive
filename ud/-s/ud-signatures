@@ -5,3 +5,4 @@
 {"name":"ud-signatures","vers":"0.1.4","deps":[],"cksum":"5d3a0d9a2cab8e64d1d06531be04ab37220447d02559052e0b3dde1a8397e64f","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-18T21:24:53Z"}
 {"name":"ud-signatures","vers":"0.1.5","deps":[],"cksum":"cb07ddd0267287b85ad0a6add45a8b06638e915d8643bd8b3f31ea2ac4091f33","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-25T02:41:30Z"}
 {"name":"ud-signatures","vers":"0.2.0","deps":[],"cksum":"fdbe88fb7d2b112c6596ae32962c61d0fa65d79c2091683cf75c6d24d4d2c519","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-05-25T05:19:55Z"}
+{"name":"ud-signatures","vers":"0.3.0","deps":[],"cksum":"94ce82d9bca309d79db383baeea5f815de0eee6c7704d1db323d9b562843d107","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-10-04T15:46:17Z"}
