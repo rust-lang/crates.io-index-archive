@@ -1,4 +1,4 @@
 {"name":"canmi","vers":"0.0.0","deps":[],"cksum":"e5b6ccbf27c40adf54b1ee88c259a7893a1f3155e96fe3225f3acf8bef77f3bd","features":{},"yanked":false,"pubtime":"2026-10-04T10:58:53Z"}
-{"name":"canmi","vers":"2026.10.3","deps":[],"cksum":"78b4237bc24f14403e5e2b4f849edbd5522a27442bb9aa5bd215241fb12c378e","features":{},"yanked":false,"pubtime":"2026-10-04T11:12:09Z"}
+{"name":"canmi","vers":"2026.10.3","deps":[],"cksum":"78b4237bc24f14403e5e2b4f849edbd5522a27442bb9aa5bd215241fb12c378e","features":{},"yanked":true,"pubtime":"2026-10-04T11:12:09Z"}
 {"name":"canmi","vers":"2026.10.4","deps":[],"cksum":"57df57cb30e662332c7319e4ddbb6340a6f4da3bb8642d771a3c73e6213c6c16","features":{},"yanked":true,"pubtime":"2026-10-04T11:12:16Z"}
 {"name":"canmi","vers":"2026.1004.0","deps":[],"cksum":"24eaa591b83df7bdf779428502016de22ff81286aeba326edbff16854c78d2dd","features":{},"yanked":false,"pubtime":"2026-10-04T11:42:30Z"}
