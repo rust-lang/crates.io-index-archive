@@ -1,0 +1,1 @@
+{"name":"gfa-to-pairwise-paf","vers":"1.0.0","deps":[{"name":"flate2","req":"^1","features":["zlib-rs"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"82b3d6d58c620f33179355ad561d62b07d7fc8af0aad5644f25ff36d5727cae2","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-04T14:08:58Z"}
