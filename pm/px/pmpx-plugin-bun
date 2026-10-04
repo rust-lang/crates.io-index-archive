@@ -1,0 +1,1 @@
+{"name":"pmpx-plugin-bun","vers":"0.1.0","deps":[{"name":"pmpx-plugin","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f812b35546cc0830060f2233a47d7004a4520396721719ad9e796d056ccc8c55","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-04T12:05:39Z"}
