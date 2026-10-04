@@ -9,3 +9,4 @@
 {"name":"si-scale","vers":"0.2.2","deps":[],"cksum":"44beb68bf488343b13ddbd74d1d5d5e6559a58b6dfaee74eb8d5ed4f7ed7666f","features":{},"yanked":false,"pubtime":"2023-11-08T08:41:33Z"}
 {"name":"si-scale","vers":"0.2.3","deps":[],"cksum":"b72e7cd0744e007e382ba320435f1ed1ecd709409b4ebd5cfbc843d77b25a8aa","features":{},"yanked":false,"pubtime":"2024-08-16T00:12:29Z"}
 {"name":"si-scale","vers":"0.3.0","deps":[],"cksum":"fa6635fb52805fa49a5798346e553cda9fd7990da8fbb2b3b2b9cf26589b4571","features":{"default":[],"lossy-conversions":[]},"yanked":false,"pubtime":"2025-12-16T12:37:34Z"}
+{"name":"si-scale","vers":"0.3.1","deps":[],"cksum":"308de7cbaf6decd2cf55e9a153bf01567ff766cc8506d4940c779d24734c04b4","features":{"default":[],"lossy-conversions":[]},"yanked":false,"pubtime":"2026-10-04T06:37:31Z"}
