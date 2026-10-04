@@ -46,3 +46,4 @@
 {"name":"cranpose-capabilities","vers":"0.9.4","deps":[],"cksum":"31bde6eb533bf81be1e162bf149e5b1fa4e53afcb699f9e01f6180ca03cc26bc","features":{},"yanked":false,"pubtime":"2026-10-03T23:27:25Z"}
 {"name":"cranpose-capabilities","vers":"0.9.5","deps":[],"cksum":"92e287c959f942511ae4354531d2cdd4f1f091dc982ea531e2d02c0f4aef0f32","features":{},"yanked":false,"pubtime":"2026-10-04T03:01:52Z"}
 {"name":"cranpose-capabilities","vers":"0.9.6","deps":[],"cksum":"790da9fea22f3b6bc5a611c1201519f704d2d437d50b4491cb6d391c7ad183a1","features":{},"yanked":false,"pubtime":"2026-10-04T09:02:08Z"}
+{"name":"cranpose-capabilities","vers":"0.9.7","deps":[],"cksum":"15b8aadcbd76a31beaaaebd582cd84041c0c756972f2da4f5db160eb2b61dc1e","features":{},"yanked":false,"pubtime":"2026-10-04T10:15:07Z"}
