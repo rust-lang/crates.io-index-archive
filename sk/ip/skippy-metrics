@@ -5,3 +5,4 @@
 {"name":"skippy-metrics","vers":"0.76.2","deps":[],"cksum":"cb7ca9f1951c0282d17fa93a5bad0dc18f0f9b1f114356ff96abd2fd538976d7","features":{},"yanked":false,"pubtime":"2026-09-14T11:35:12Z"}
 {"name":"skippy-metrics","vers":"0.77.0","deps":[],"cksum":"e567e9f4e119b013d48cc362b15504090dc143d83c55cfd29e9a75d1c4e8f08c","features":{},"yanked":false,"pubtime":"2026-09-28T10:20:04Z"}
 {"name":"skippy-metrics","vers":"0.78.0","deps":[],"cksum":"7eb48688321cac1f64f1cd9e2d7de1ab10af1fa02106643327e53bc74f300921","features":{},"yanked":false,"pubtime":"2026-10-04T20:48:25Z"}
+{"name":"skippy-metrics","vers":"0.78.1","deps":[],"cksum":"97c9c8e7b7690c3da5aced78344ddc5df87d78b09978208cb2794b54e62c1d02","features":{},"yanked":false,"pubtime":"2026-10-05T12:46:42Z"}
