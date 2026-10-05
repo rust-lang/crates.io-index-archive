@@ -8,3 +8,4 @@
 {"name":"incise-core","vers":"0.3.2","deps":[],"cksum":"efeed6ea783a66c3d5cba9baf2f7403fb0bc104236b1c8eacaf5364f6b72dca5","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-25T21:26:00Z"}
 {"name":"incise-core","vers":"0.3.3","deps":[],"cksum":"bc1627872312702594f27221c4db97cc01fcccaf9a3ce71aafe82ae3bc1297f6","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-09-29T05:41:24Z"}
 {"name":"incise-core","vers":"0.4.0","deps":[],"cksum":"5eb8906e33e346c5efc17f5ba15d587800dd164052d742ee983ab5d426553748","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-03T18:18:19Z"}
+{"name":"incise-core","vers":"0.5.0","deps":[],"cksum":"a56a8d7900d36b9f092956580f4cd885011a0a145d252782932e7afe5cc201f0","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-05T01:51:52Z"}
