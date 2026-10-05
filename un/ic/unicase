@@ -26,3 +26,4 @@
 {"name":"unicase","vers":"2.8.0","deps":[],"cksum":"7e51b68083f157f853b6379db119d1c1be0e6e4dec98101079dec41f6f5cf6df","features":{"nightly":[]},"yanked":false,"pubtime":"2024-10-18T18:36:39Z"}
 {"name":"unicase","vers":"2.8.1","deps":[],"cksum":"75b844d17643ee918803943289730bec8aac480150456169e647ed0b576ba539","features":{"nightly":[]},"yanked":false,"pubtime":"2024-12-24T15:31:12Z"}
 {"name":"unicase","vers":"2.9.0","deps":[],"cksum":"dbc4bc3a9f746d862c45cb89d705aa10f187bb96c76001afab07a0d35ce60142","features":{"nightly":[]},"yanked":false,"pubtime":"2026-01-06T15:50:10Z"}
+{"name":"unicase","vers":"2.10.0","deps":[],"cksum":"357cc3acc6a036009fd6c973ed009037c732d60d0b4f6c673e9041497482a28f","features":{"nightly":[]},"yanked":false,"pubtime":"2026-10-05T13:11:23Z"}
