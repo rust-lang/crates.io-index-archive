@@ -4,3 +4,4 @@
 {"name":"efterscript-fonts","vers":"0.0.4","deps":[],"cksum":"6aa1f438da4e3161cf4b4abde43c228338aeccde72abdc739151c1486efc5d5f","features":{"default":["resident-outlines"],"resident-outlines":[]},"yanked":false,"pubtime":"2026-09-20T10:49:43Z"}
 {"name":"efterscript-fonts","vers":"0.0.5","deps":[],"cksum":"cf6c442e0d776da7ad2a57883ecf1310d4b8a72099827f03ec5604f625d43d65","features":{"default":["resident-outlines"],"resident-outlines":[]},"yanked":false,"pubtime":"2026-09-27T14:51:11Z"}
 {"name":"efterscript-fonts","vers":"0.0.6","deps":[],"cksum":"b241b3d9a36758c78a9db348a2fd4ce7699886d41108e682333dad6081936809","features":{"default":["resident-outlines"],"resident-outlines":[]},"yanked":false,"pubtime":"2026-09-29T22:13:28Z"}
+{"name":"efterscript-fonts","vers":"0.0.7","deps":[],"cksum":"b0e59f4564044b7809b5f805886956893d35cf592c2d105d34f4e5cbe827311c","features":{"default":["resident-outlines"],"resident-outlines":[]},"yanked":false,"pubtime":"2026-10-05T23:00:58Z"}
