@@ -1,2 +1,3 @@
 {"name":"ic-metrics","vers":"0.1.2","deps":[],"cksum":"5a67123fa45f1e16ebaf39723060c17cf7e7df3af2106444a1ef6f865d3af1ac","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-10-05T17:50:18Z"}
 {"name":"ic-metrics","vers":"0.1.3","deps":[],"cksum":"b30cd8168ff4254892e8dd51df0abae9f8cd3d75291700f8d986795e7b74b195","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-10-05T17:50:47Z"}
+{"name":"ic-metrics","vers":"0.1.4","deps":[],"cksum":"7f2180745a0953a797b45f540d9a29d3236bc24a27b25e1cb835179be8305a9e","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-10-05T18:03:22Z"}
