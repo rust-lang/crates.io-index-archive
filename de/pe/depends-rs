@@ -1,0 +1,1 @@
+{"name":"depends-rs","vers":"0.1.0","deps":[{"name":"depends-rs-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f5094d20dad7546c26e3ce4edf8471bb0a8ecb111939488c6ed413e088cfbfd","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-05T14:50:29Z"}
