@@ -1,0 +1,1 @@
+{"name":"ferrovue-i18n","vers":"0.4.0","deps":[{"name":"ferrovue-core","req":"=0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8eeb9a3413a64f4ae40e047e89d9759f0328d0e518785d3cfdc5cc3424287469","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-05T11:56:28Z"}
