@@ -4,3 +4,4 @@
 {"name":"mesh-native-serving-plugin-api","vers":"0.76.2","deps":[],"cksum":"30edb299d3f209ae37cfda471b0b7efe19897a1d43845428d6b136edbca74423","features":{},"yanked":false,"pubtime":"2026-09-14T11:30:03Z"}
 {"name":"mesh-native-serving-plugin-api","vers":"0.77.0","deps":[],"cksum":"e535ff840aaabdf5cc3d9cc2450f4d53c3befde5484f52886ba173f475e9465a","features":{},"yanked":false,"pubtime":"2026-09-28T10:14:49Z"}
 {"name":"mesh-native-serving-plugin-api","vers":"0.78.0","deps":[],"cksum":"29978e073ee7dbcecc207ce3934f5fec753b94011759b904cde266b149fd1a69","features":{},"yanked":false,"pubtime":"2026-10-04T20:43:04Z"}
+{"name":"mesh-native-serving-plugin-api","vers":"0.78.1","deps":[],"cksum":"cf12fdcdc62d73404c1091c76ad79f514b676a478c071ecc92748ed29a8ca6f3","features":{},"yanked":false,"pubtime":"2026-10-05T12:41:19Z"}
