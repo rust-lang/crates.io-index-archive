@@ -13,3 +13,4 @@
 {"name":"canmi","vers":"2026.1005.0","deps":[],"cksum":"3d30ee1ca5b2ca062fee690b51cfcb0bbaa0e3ca9b50f9833a2dbc7dcd078a12","features":{},"yanked":false,"pubtime":"2026-10-05T00:56:13Z"}
 {"name":"canmi","vers":"2026.1005.1","deps":[],"cksum":"9cb3ce192650f7a28a6846d48176110b6ad5bb33767dff5f676bfd39b585d4db","features":{},"yanked":false,"pubtime":"2026-10-05T03:21:53Z"}
 {"name":"canmi","vers":"2026.1005.2","deps":[],"cksum":"3291f20d3134c3670dbc3990347511ae856522130848135881ac38d40db3e80f","features":{},"yanked":false,"pubtime":"2026-10-05T04:06:22Z"}
+{"name":"canmi","vers":"2026.1005.3","deps":[],"cksum":"df7a5afc88c5922adc072e5268246bdf6c503a317cabbe6abfa9a631e47543e0","features":{},"yanked":false,"pubtime":"2026-10-05T07:02:37Z"}
