@@ -35,3 +35,4 @@
 {"name":"twig-sys-wasm32","vers":"4.0.0","deps":[],"cksum":"efc25da1392da9f89c3c5d94b9c3b6a56455f3a0154fefaf430c9fdf2c2a7db2","features":{},"yanked":false,"links":"twig_prebuilt_wasm32","pubtime":"2026-10-03T00:14:25Z"}
 {"name":"twig-sys-wasm32","vers":"3.11.2","deps":[],"cksum":"8b14c88a02dd20d54cdf15ba39db487a72ee7773088839fbfa20d13c4e3fb6d7","features":{},"yanked":false,"links":"twig_prebuilt_wasm32","pubtime":"2026-10-03T15:28:45Z"}
 {"name":"twig-sys-wasm32","vers":"4.0.1","deps":[],"cksum":"97c7d9680ac1f598863391f06f998c224e1d2f027e2937fe4f72e4407a205112","features":{},"yanked":false,"links":"twig_prebuilt_wasm32","pubtime":"2026-10-03T15:28:54Z"}
+{"name":"twig-sys-wasm32","vers":"4.1.0","deps":[],"cksum":"d052dd11d1a9ccb25294ef5546c3063ef72fb7caa99704397665745c01db00b9","features":{},"yanked":false,"links":"twig_prebuilt_wasm32","pubtime":"2026-10-05T23:16:05Z"}
