@@ -28,3 +28,4 @@
 {"name":"sva-ast","vers":"0.7.17","deps":[],"cksum":"98483ee7d06f8471cc6109ca73dbe974493f3f001bbe022f1865137c8e24e069","features":{},"yanked":false,"pubtime":"2026-10-03T21:01:42Z"}
 {"name":"sva-ast","vers":"0.7.18","deps":[],"cksum":"2518099bf5588665b6f5461fb57e6c8b3ee2da89fab838e58822d16689164b64","features":{},"yanked":false,"pubtime":"2026-10-04T01:19:50Z"}
 {"name":"sva-ast","vers":"0.8.0","deps":[],"cksum":"08d088f5e6b6eddbdbbbba21da7906789cb3f22278eedc4f9f2c44135397f1b9","features":{},"yanked":false,"pubtime":"2026-10-05T08:54:42Z"}
+{"name":"sva-ast","vers":"0.8.1","deps":[],"cksum":"b7e6b24e8dbca13da5d0d982e86344f05986409154b2f0f5f1180543938775ef","features":{},"yanked":false,"pubtime":"2026-10-05T09:25:10Z"}
