@@ -1,0 +1,1 @@
+{"name":"dioxus-shadcn-core","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"61a53450a98c392e95bbfeec5f9df04523be6e90011b156502faf11f3e5be0a4","features":{},"yanked":false,"pubtime":"2026-10-05T11:13:27Z"}
