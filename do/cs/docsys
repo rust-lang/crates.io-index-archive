@@ -19,3 +19,4 @@
 {"name":"docsys","vers":"0.15.1","deps":[],"cksum":"888e1b9d52eeb02d98aad06aaf7f5b4357adcbf572a85e1959a0f8b834732d41","features":{},"yanked":false,"pubtime":"2026-09-03T22:01:19Z"}
 {"name":"docsys","vers":"0.16.0","deps":[],"cksum":"23a48290d61152a15f9db34c54716e2a207a7b47f08122225be7d8fb00bcf9d6","features":{},"yanked":false,"pubtime":"2026-10-03T21:59:29Z"}
 {"name":"docsys","vers":"0.16.1","deps":[],"cksum":"8ba63ee02727b12115bb8f02e3f5c49325c3a9ce258d30b29e4a0358f4a39344","features":{},"yanked":false,"pubtime":"2026-10-04T02:20:30Z"}
+{"name":"docsys","vers":"0.17.0","deps":[],"cksum":"9cd044cc2338b85211556a0143f08e353fab191f09e381cca67c135cb90fc3f6","features":{},"yanked":false,"pubtime":"2026-10-05T02:27:26Z"}
