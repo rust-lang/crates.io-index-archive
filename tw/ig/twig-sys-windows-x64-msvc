@@ -35,3 +35,4 @@
 {"name":"twig-sys-windows-x64-msvc","vers":"4.0.0","deps":[],"cksum":"d0c97ec92f9a9ec40f86abf8878040ce52e542984701d16c930919454c8a73f2","features":{},"yanked":false,"links":"twig_prebuilt_windows_x64_msvc","pubtime":"2026-10-03T00:14:22Z"}
 {"name":"twig-sys-windows-x64-msvc","vers":"3.11.2","deps":[],"cksum":"88ae0233885c2d43332533dac1671b65c6c001674d0908f13e5887936108a3da","features":{},"yanked":false,"links":"twig_prebuilt_windows_x64_msvc","pubtime":"2026-10-03T15:28:42Z"}
 {"name":"twig-sys-windows-x64-msvc","vers":"4.0.1","deps":[],"cksum":"ab10dc47862d50b3d8115f01321ee6e86fdcd4d7d0ab2a48c2d2e66e04141133","features":{},"yanked":false,"links":"twig_prebuilt_windows_x64_msvc","pubtime":"2026-10-03T15:28:51Z"}
+{"name":"twig-sys-windows-x64-msvc","vers":"4.1.0","deps":[],"cksum":"bfca715feba0b62dfb5473104c0b0a9fc5276323efd36c31f1d73ef07ba9be57","features":{},"yanked":false,"links":"twig_prebuilt_windows_x64_msvc","pubtime":"2026-10-05T23:16:02Z"}
