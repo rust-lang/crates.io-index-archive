@@ -10,3 +10,4 @@
 {"name":"concat-with","vers":"0.2.8","deps":[],"cksum":"0bb23e9dbbfd63ad57bed576e2f4392ab8131eacdfada49c414e8d22b0b2d07f","features":{},"yanked":false,"pubtime":"2022-11-02T04:56:02Z"}
 {"name":"concat-with","vers":"0.2.9","deps":[],"cksum":"45527fc9cdf65d432ee7f5f5648a3a598809d543200bd78efa770392fcc22e4f","features":{},"yanked":false,"rust_version":"1.56","pubtime":"2023-11-30T03:29:39Z"}
 {"name":"concat-with","vers":"0.2.10","deps":[],"cksum":"7ce5bdfa3c9147f1a354c8380ff9ec5bfc1a9ad4e242b974044bcb8ef0bdbba1","features":{},"yanked":false,"rust_version":"1.56","pubtime":"2026-06-24T00:44:24Z"}
+{"name":"concat-with","vers":"0.2.11","deps":[],"cksum":"fae2da981e7691eaa6aeda5f1a50cd1fc0331349229330d6b916368e39b159a2","features":{},"yanked":false,"rust_version":"1.56","pubtime":"2026-10-05T14:07:53Z"}
