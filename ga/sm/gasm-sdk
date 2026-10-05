@@ -6,3 +6,4 @@
 {"name":"gasm-sdk","vers":"0.7.0","deps":[],"cksum":"421bf111bfcf48a834eccee09c28d85db434ee90c9e25a95e7ed00296039a67b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-03T18:46:04Z"}
 {"name":"gasm-sdk","vers":"0.8.0","deps":[],"cksum":"838b0f2823cb3a2f1a5f621546b9e3ebf3608b108d71b9895177fc1cb8866a24","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-04T15:52:58Z"}
 {"name":"gasm-sdk","vers":"0.9.0","deps":[],"cksum":"bcd7526daee487d8c0b65fddcb1a305d8eab8e09aeb191d1615cf09ac7217402","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-04T21:06:36Z"}
+{"name":"gasm-sdk","vers":"0.9.1","deps":[],"cksum":"a2a421a142c22b7a722bbe34959b0b2ff016f9fd6b372493aa1bcab4336a14b9","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-05T07:54:19Z"}
