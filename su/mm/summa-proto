@@ -35,3 +35,4 @@
 {"name":"summa-proto","vers":"2.0.0","deps":[],"cksum":"d874ac725aa7596ee14ff63e84eaae29a494fb94ea346e6cbda2788dcd392bed","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-09-25T04:45:31Z"}
 {"name":"summa-proto","vers":"2.0.1","deps":[],"cksum":"fbe7319c061856abe74fac24e8c759147f0cc59c7b8b83ddc9af7fbe7a7ea80a","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-10-05T05:17:17Z"}
 {"name":"summa-proto","vers":"2.0.2","deps":[],"cksum":"c3a8010ab7501588f3e914ff01bfb2978d835a65be0846a6cad94e96b827e5d8","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-10-05T08:38:25Z"}
+{"name":"summa-proto","vers":"2.0.3","deps":[],"cksum":"6c9a951658d499a6ed7dc21589f9d54bf935c8835b92ecf46dfe2c7516ad6fee","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-10-05T09:55:37Z"}
