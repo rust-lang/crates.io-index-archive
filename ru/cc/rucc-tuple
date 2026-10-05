@@ -90,3 +90,4 @@
 {"name":"rucc-tuple","vers":"0.18.8","deps":[],"cksum":"21fed81ebce4e7322f7ac7c9553958c6f021c1e405bfc588e088b0a331c5f836","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-01T12:46:10Z"}
 {"name":"rucc-tuple","vers":"0.18.10","deps":[],"cksum":"744d0b1134261a480f60509d1e61a69825c98d51ed4189aaac9f71b85bb1c341","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-03T06:08:55Z"}
 {"name":"rucc-tuple","vers":"0.19.0","deps":[],"cksum":"54944dbd6ab49bba70590af14b944762d8995ebaea0acb28e85d180c38a4179a","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-03T17:18:21Z"}
+{"name":"rucc-tuple","vers":"0.20.0","deps":[],"cksum":"de02bdc25d2239c1b07445004bd3076fbb67f4e31e14232e5d7a2ffcfd1de879","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-05T06:53:55Z"}
