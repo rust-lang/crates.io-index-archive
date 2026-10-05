@@ -1,0 +1,1 @@
+{"name":"omnifetch-rs","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.189","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f6a660fa08032c8a37c773faee15d9aa468d0ca95b764f90068dddf7f12bc58e","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-05T14:43:11Z"}
