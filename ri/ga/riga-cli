@@ -1,0 +1,1 @@
+{"name":"riga-cli","vers":"0.1.0","deps":[{"name":"riga-kernel","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc31d9a681f684acce96362c2d0558b49742239e1ef150be7260332bb521203f","features":{},"yanked":false,"pubtime":"2026-10-06T08:55:50Z"}
