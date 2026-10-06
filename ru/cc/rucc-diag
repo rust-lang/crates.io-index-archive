@@ -155,3 +155,4 @@
 {"name":"rucc-diag","vers":"0.24.5","deps":[],"cksum":"23929458906271a98d0060a077ceae1d1a6f4abf421d8ab9b9ccae0ae942c462","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-06T02:02:29Z"}
 {"name":"rucc-diag","vers":"0.24.6","deps":[],"cksum":"f2b164ddadf9042c1131b16e1098b965e49dbc117b18fdfef98f86d75991067a","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-06T02:54:18Z"}
 {"name":"rucc-diag","vers":"0.24.7","deps":[],"cksum":"a64bfdc21240d5b70b6be00d5bac30f29e0b1e665ed041f09ebe370b5f1b9795","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-06T04:54:07Z"}
+{"name":"rucc-diag","vers":"0.24.8","deps":[],"cksum":"c415ac6680c744bdaac0d6e1f231ddba05c372a6ca49eb2e859b467fe6a9b436","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-06T06:38:40Z"}
