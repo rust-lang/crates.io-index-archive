@@ -251,3 +251,4 @@
 {"name":"pack_component_template","vers":"1.2.0-dev.37161981044","deps":[],"cksum":"34bc14c7537a267fe525a0cb61ca217471243405fb8807abfa2ecf5942773a4f","features":{},"yanked":false,"pubtime":"2026-10-03T23:51:56Z"}
 {"name":"pack_component_template","vers":"1.2.0-dev.37193995613","deps":[],"cksum":"3843ee206460591e7add33e677c0f36f0cb4b7ecbae3aaa581589b10bf8d0829","features":{},"yanked":false,"pubtime":"2026-10-04T11:38:28Z"}
 {"name":"pack_component_template","vers":"1.2.0-dev.37290012412","deps":[],"cksum":"6f8a7e4cc5a606e7e6440b1e5de9e7eb69ded13278589f8505d434f68419999d","features":{},"yanked":false,"pubtime":"2026-10-05T09:40:15Z"}
+{"name":"pack_component_template","vers":"1.2.0-dev.37450275826","deps":[],"cksum":"ac7ef609e52e29c2933b91826efd40dfaa041478e27b0e2377f05f6de62dcb4c","features":{},"yanked":false,"pubtime":"2026-10-06T10:51:18Z"}
