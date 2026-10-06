@@ -1,0 +1,1 @@
+{"name":"colonizer-redact","vers":"0.2.8","deps":[{"name":"serde_json","req":"^1.0.151","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56b6a6d53ab022731b8df31063efa7f21987e480f8715b3ac292d04f0a527d59","features":{},"yanked":false,"pubtime":"2026-10-06T05:07:28Z"}
