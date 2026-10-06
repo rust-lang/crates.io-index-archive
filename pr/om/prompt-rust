@@ -4,3 +4,4 @@
 {"name":"prompt-rust","vers":"0.1.4","deps":[],"cksum":"526f93747e4780f53840092b087f90199edd525a0d39007dc2a476ef2e97865b","features":{},"yanked":false,"pubtime":"2024-12-19T11:34:36Z"}
 {"name":"prompt-rust","vers":"0.1.5","deps":[],"cksum":"f3e239281b4153f3c33194b9ff5d276c15b99549f0e7a07573844409d3d996b5","features":{},"yanked":false,"pubtime":"2024-12-22T05:54:21Z"}
 {"name":"prompt-rust","vers":"0.1.6","deps":[],"cksum":"bbc6b4e3c6f92c0bca24fb8f36b92312fcd183fc3f5e622f5d2b9c4207f01549","features":{},"yanked":false,"pubtime":"2024-12-23T00:06:44Z"}
+{"name":"prompt-rust","vers":"0.2.0","deps":[],"cksum":"1ff78a1cf9c43b858c6a6b9b63a26a3a6572012ecaec18f58fe159fada684e7f","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-10-06T10:26:33Z"}
