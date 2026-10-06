@@ -34,8 +34,8 @@
 {"name":"celastro","vers":"0.28.0","deps":[],"cksum":"adad64b5e6d235258b780a4e59955b0a9190b9222ebb8d68eda4301e69968acd","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-15T09:31:06Z"}
 {"name":"celastro","vers":"0.29.0","deps":[],"cksum":"0dbaf786cfcc5bc666f717d3875460db3809365b8164f31001e6d0348e57c816","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-15T10:10:28Z"}
 {"name":"celastro","vers":"0.29.1","deps":[],"cksum":"5840d3b61a854d784549ce9ff64ef13be53f9838b8d093c439ea737978bec356","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-15T11:19:11Z"}
-{"name":"celastro","vers":"0.30.0","deps":[],"cksum":"ab5f1cff3f9b0f4b0db0f3934922e88327689ae0b9c18db002ef3349ed8e7396","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-15T12:10:43Z"}
-{"name":"celastro","vers":"0.31.0","deps":[],"cksum":"ade29587374ab9fe1e0dcf598afdba7f5cf356414140b84d4210110bbc60899e","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-15T13:47:48Z"}
+{"name":"celastro","vers":"0.30.0","deps":[],"cksum":"ab5f1cff3f9b0f4b0db0f3934922e88327689ae0b9c18db002ef3349ed8e7396","features":{},"yanked":true,"rust_version":"1.75","pubtime":"2026-09-15T12:10:43Z"}
+{"name":"celastro","vers":"0.31.0","deps":[],"cksum":"ade29587374ab9fe1e0dcf598afdba7f5cf356414140b84d4210110bbc60899e","features":{},"yanked":true,"rust_version":"1.75","pubtime":"2026-09-15T13:47:48Z"}
 {"name":"celastro","vers":"0.31.1","deps":[],"cksum":"5dfb997be8156bea25142b799c2af8cf2df8f6a68e1e777e703b1c03cd8218dc","features":{},"yanked":true,"rust_version":"1.75","pubtime":"2026-09-15T14:06:47Z"}
 {"name":"celastro","vers":"0.32.0","deps":[],"cksum":"0883a5250213844da7026b6f769aa0954764ba4fe906f40d6b93b7cc436607e5","features":{},"yanked":true,"rust_version":"1.75","pubtime":"2026-09-15T14:22:05Z"}
 {"name":"celastro","vers":"0.33.0","deps":[],"cksum":"4125b1c66f57ea6d41748cbdccca0258e4da48e607f772ba6a1a2bf486e5a004","features":{},"yanked":true,"rust_version":"1.75","pubtime":"2026-09-15T15:18:29Z"}
