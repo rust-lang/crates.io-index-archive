@@ -1,0 +1,1 @@
+{"name":"cargo-debuggable","vers":"0.1.0","deps":[{"name":"object","req":"^0.39","features":["read_core","elf","macho","std"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"19126e11493ba7ea571de54eb235ef53a0ea8a05e53804bb306cffc12efad276","features":{},"yanked":false,"rust_version":"1.75.0","pubtime":"2026-10-06T23:53:39Z"}
