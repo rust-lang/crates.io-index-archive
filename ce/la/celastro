@@ -13,11 +13,11 @@
 {"name":"celastro","vers":"0.11.0","deps":[],"cksum":"16406f08830d458132997a7ab8be1364be990b866a173dc9e0ace23dce9d1e4c","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-13T15:12:15Z"}
 {"name":"celastro","vers":"0.12.0","deps":[],"cksum":"7e3d90f8549da3c33988dc921e29d8964d2236372d9c1c413da11f39b4fefdb0","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-13T16:09:49Z"}
 {"name":"celastro","vers":"0.13.0","deps":[],"cksum":"6d466f915026e8e86dcbf52e19cd55746eb2bdb2dc503269de3d790ebaec89c5","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-13T17:16:44Z"}
-{"name":"celastro","vers":"0.14.0","deps":[],"cksum":"43ae8c84355e86baf589d7a1b49d0a6b7fbd4e77984172f0706fb248fefda23e","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-13T17:49:40Z"}
-{"name":"celastro","vers":"0.15.0","deps":[],"cksum":"27197007842adf34a21b55b7f8ff9681100836b8896efcc500c32848ab726d1c","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-13T18:47:40Z"}
-{"name":"celastro","vers":"0.16.0","deps":[],"cksum":"331e648d659282de7cd0d75d59179a28e046c582d52e086ce7e3851218796972","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-13T19:42:53Z"}
-{"name":"celastro","vers":"0.17.0","deps":[],"cksum":"63bdd194893ca739eacd87e0d7e5ff28821ae2f973a9c485c09224a2f5ab39fd","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-14T03:27:08Z"}
-{"name":"celastro","vers":"0.18.0","deps":[],"cksum":"fba6d0efe64572c78a745d3add7812602e58463cc027a8cda90f59f79e807b1a","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-09-14T12:45:57Z"}
+{"name":"celastro","vers":"0.14.0","deps":[],"cksum":"43ae8c84355e86baf589d7a1b49d0a6b7fbd4e77984172f0706fb248fefda23e","features":{},"yanked":true,"rust_version":"1.75","pubtime":"2026-09-13T17:49:40Z"}
+{"name":"celastro","vers":"0.15.0","deps":[],"cksum":"27197007842adf34a21b55b7f8ff9681100836b8896efcc500c32848ab726d1c","features":{},"yanked":true,"rust_version":"1.75","pubtime":"2026-09-13T18:47:40Z"}
+{"name":"celastro","vers":"0.16.0","deps":[],"cksum":"331e648d659282de7cd0d75d59179a28e046c582d52e086ce7e3851218796972","features":{},"yanked":true,"rust_version":"1.75","pubtime":"2026-09-13T19:42:53Z"}
+{"name":"celastro","vers":"0.17.0","deps":[],"cksum":"63bdd194893ca739eacd87e0d7e5ff28821ae2f973a9c485c09224a2f5ab39fd","features":{},"yanked":true,"rust_version":"1.75","pubtime":"2026-09-14T03:27:08Z"}
+{"name":"celastro","vers":"0.18.0","deps":[],"cksum":"fba6d0efe64572c78a745d3add7812602e58463cc027a8cda90f59f79e807b1a","features":{},"yanked":true,"rust_version":"1.75","pubtime":"2026-09-14T12:45:57Z"}
 {"name":"celastro","vers":"0.18.1","deps":[],"cksum":"d7fbf5b8e50dfb073ef5e317d4362041a895f8569f7b0320be7f68c060e82ea1","features":{},"yanked":true,"rust_version":"1.75","pubtime":"2026-09-14T13:08:22Z"}
 {"name":"celastro","vers":"0.18.2","deps":[],"cksum":"5cca99ca6e7043b7b468cd989b911c4a86ad31d0882b1a5508f4b5722af6182a","features":{},"yanked":true,"rust_version":"1.75","pubtime":"2026-09-14T14:57:27Z"}
 {"name":"celastro","vers":"0.19.0","deps":[],"cksum":"972f67d31c7cbb0484a0c60d51b8d211172737d040f93a11315ca848f84f267c","features":{},"yanked":true,"rust_version":"1.75","pubtime":"2026-09-14T15:20:56Z"}
