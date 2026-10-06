@@ -1,0 +1,1 @@
+{"name":"cask-sdk","vers":"0.0.1","deps":[{"name":"cask-sdk-core","req":"=0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6ededeba56570dd9288ce5e072ee4189062d2c8a2dbd81be3308f85a16e80541","features":{},"yanked":false,"pubtime":"2026-10-06T03:06:30Z"}
