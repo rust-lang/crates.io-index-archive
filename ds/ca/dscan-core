@@ -3,3 +3,4 @@
 {"name":"dscan-core","vers":"0.4.0","deps":[],"cksum":"16bfff03b06420c98be0742a2a96987442e914a57c47cdbed65d5d3f97ac2df5","features":{},"yanked":false,"pubtime":"2026-10-06T06:36:52Z"}
 {"name":"dscan-core","vers":"0.4.1","deps":[],"cksum":"f63b9e22bc31bd9ed651c25a0082c877672360ec08e61d5e02c4514b8d543877","features":{},"yanked":false,"pubtime":"2026-10-06T15:45:30Z"}
 {"name":"dscan-core","vers":"0.4.2","deps":[],"cksum":"6b4fbf424983e2a6637f4e5098fb022a01fd4a630db5189de9aa317897a73904","features":{},"yanked":false,"pubtime":"2026-10-06T15:48:22Z"}
+{"name":"dscan-core","vers":"0.4.3","deps":[],"cksum":"8f975d119f38a105f3fdb06e0a3857d350741895b51d71af528ff3906338c0ab","features":{},"yanked":false,"pubtime":"2026-10-06T16:12:51Z"}
