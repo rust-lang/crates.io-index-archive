@@ -5,3 +5,4 @@
 {"name":"tmprl-ui","vers":"0.1.4","deps":[],"cksum":"f66aa15b813689619e61e97eb3ec29c51dd39cec5d96f185644e1fed9073d270","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-03T17:50:15Z"}
 {"name":"tmprl-ui","vers":"0.1.5","deps":[],"cksum":"b928608a977446bb50685f1d368fb4640fe0bd9dceb308019d724eb27e28b57e","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-03T18:55:33Z"}
 {"name":"tmprl-ui","vers":"0.2.0","deps":[],"cksum":"26faa077dd95242cb40484637b0e7770c5926806b9c7a130b22c45fe8c5cb8d9","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-04T19:45:50Z"}
+{"name":"tmprl-ui","vers":"0.2.1","deps":[],"cksum":"8ad33ceeb5f7f7b4f2692c68a50f3253aced787c26c10fd4cf36f8743e19701c","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-06T17:40:31Z"}
