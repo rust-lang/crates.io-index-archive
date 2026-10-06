@@ -4,3 +4,4 @@
 {"name":"vhpi-shim","vers":"0.5.0","deps":[],"cksum":"59b8070ce004159bdecb7162937db4e562203a501b88a4d91355be1040548bb7","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-24T11:29:48Z"}
 {"name":"vhpi-shim","vers":"0.5.1","deps":[],"cksum":"35eece5c19b2d3042041e8172fc796062595675e69511ab899a258001faed624","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-07-24T15:53:28Z"}
 {"name":"vhpi-shim","vers":"0.5.2","deps":[],"cksum":"b046bce273c3bf22e8c6bd9bfd623f732e732f248d1698f1e329e69ad4e56b26","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-09-30T20:52:26Z"}
+{"name":"vhpi-shim","vers":"0.6.0","deps":[],"cksum":"c5f6033ec8ed5078fc4cd57d10a34122200f8186e78baec3d0214c339b89f46d","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-06T13:47:08Z"}
