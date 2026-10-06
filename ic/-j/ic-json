@@ -17,3 +17,4 @@
 {"name":"ic-json","vers":"0.2.12","deps":[],"cksum":"48238bef3fa711e00eda7a7d6db1ac273ad90762b99f27862abecb3129284e12","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-06T03:59:48Z"}
 {"name":"ic-json","vers":"0.2.13","deps":[],"cksum":"021eddd3258744344ed0afd8c29e6d2110d68acc5052c3bb5b69eddd03efea32","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-06T15:29:22Z"}
 {"name":"ic-json","vers":"0.2.14","deps":[],"cksum":"44b509f3a8bcb12b9623fb8a77eebda1e743c4dd4366bc4abd26d97f78c82c35","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-06T17:38:07Z"}
+{"name":"ic-json","vers":"0.2.15","deps":[],"cksum":"b1a1c80672498beaf0e79a9ab574cd9013b2de9b98df32fd5483078e7cfab8d1","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-06T19:39:26Z"}
