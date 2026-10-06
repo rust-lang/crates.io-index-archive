@@ -17,3 +17,4 @@
 {"name":"ic-core","vers":"0.2.12","deps":[],"cksum":"48ea6cba7297ba718decee96329e6e47b269c3938192cd343a68c8763f1e4b87","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-06T03:59:47Z"}
 {"name":"ic-core","vers":"0.2.13","deps":[],"cksum":"99b796891cbe491d2dff8a9ec6c1b33dfab6ccf09104bc7a7d79fb4a202ec1cd","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-06T15:29:21Z"}
 {"name":"ic-core","vers":"0.2.14","deps":[],"cksum":"24032303fd01e8f37b1918af0261cdce7193dd44e804ca07b8c6147f1509afd3","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-06T17:38:05Z"}
+{"name":"ic-core","vers":"0.2.15","deps":[],"cksum":"21d1d6aa4b34508e801474e3469579c92456682fa5facadc503be274c7f51cc8","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-06T19:39:23Z"}
