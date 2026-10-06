@@ -1,1 +1,0 @@
-{"name":"sails-ast","vers":"0.1.0","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9ec17e4e8312b89e5f01d081e58cb891113ae62b7fe806400dc9b897061ec78","features":{},"yanked":false,"pubtime":"2026-10-06T03:07:19Z"}
