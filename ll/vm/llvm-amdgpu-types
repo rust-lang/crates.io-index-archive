@@ -1,1 +1,2 @@
 {"name":"llvm-amdgpu-types","vers":"0.1.0","deps":[],"cksum":"cb4dcafa81c25a9d0c8c371a360433320afdf0a1243ed5beec4b3586d9f64473","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-06T20:01:09Z"}
+{"name":"llvm-amdgpu-types","vers":"0.1.1","deps":[],"cksum":"e86d19c1e4b33a6277eb5470f9584e499cf29a110e55cb1a866ab1f4afaf217e","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-06T20:07:35Z"}
