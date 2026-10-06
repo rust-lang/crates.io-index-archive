@@ -16,3 +16,4 @@
 {"name":"lora-builtins-meta","vers":"0.22.2","deps":[],"cksum":"e565bd838efd793c60abf6344ef226f1543a912fc71086a77876584fa4372ea5","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-04T19:13:25Z"}
 {"name":"lora-builtins-meta","vers":"0.22.3","deps":[],"cksum":"c54a7ef74db096e8cb3a14f199b51cc362bcb58f22a9a9796e3a95468b779b46","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-05T04:59:46Z"}
 {"name":"lora-builtins-meta","vers":"0.23.0","deps":[],"cksum":"47768b27ba7b15edb5ff7d0c3fa478f9463c4080c05f483344e86695f583bfc2","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-05T17:32:11Z"}
+{"name":"lora-builtins-meta","vers":"0.24.0","deps":[],"cksum":"273b1f7b969cf7fb04fb2130f105474cc24b33b9777f40a31503a06891dc2dc0","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-06T17:05:47Z"}
