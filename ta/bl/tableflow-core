@@ -1,0 +1,1 @@
+{"name":"tableflow-core","vers":"0.1.1","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0edcd902a8932f403fbb8d7deef0bb11da2db16177c7f6979cb853f5e33b290","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-06T07:08:16Z"}
