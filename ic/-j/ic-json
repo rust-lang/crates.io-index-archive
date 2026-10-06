@@ -15,3 +15,4 @@
 {"name":"ic-json","vers":"0.2.10","deps":[],"cksum":"bc786ebdeb40962e81068bdce277dd9382a91c5a97ce4614c358a94fd86791a2","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-10-05T22:59:12Z"}
 {"name":"ic-json","vers":"0.2.11","deps":[],"cksum":"d8f681f20c902072a3da1893c05ae1fbf2b181f7f49c6febf4a6a216158601b9","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-06T02:51:53Z"}
 {"name":"ic-json","vers":"0.2.12","deps":[],"cksum":"48238bef3fa711e00eda7a7d6db1ac273ad90762b99f27862abecb3129284e12","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-06T03:59:48Z"}
+{"name":"ic-json","vers":"0.2.13","deps":[],"cksum":"021eddd3258744344ed0afd8c29e6d2110d68acc5052c3bb5b69eddd03efea32","features":{},"yanked":false,"rust_version":"1.87","pubtime":"2026-10-06T15:29:22Z"}
