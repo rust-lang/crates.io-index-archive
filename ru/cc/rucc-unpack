@@ -28,3 +28,4 @@
 {"name":"rucc-unpack","vers":"0.24.5","deps":[],"cksum":"d00d52837318ac8d0465a2257561be77ed1911497e94fc703950141f8a66a6c0","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-06T02:02:34Z"}
 {"name":"rucc-unpack","vers":"0.24.6","deps":[],"cksum":"403270cd8047349257a1fcae5fd0c00c090489499b3946b796d4ff2dfba8f257","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-06T02:54:21Z"}
 {"name":"rucc-unpack","vers":"0.24.7","deps":[],"cksum":"051103c70ee68a055009aaa34143e0b5adb144c80db8c7f464d8c0acc59e27ba","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-06T04:54:11Z"}
+{"name":"rucc-unpack","vers":"0.24.8","deps":[],"cksum":"33431d6cbbfe365e9d393b63298c7f16a30ec4a042e861bda58506856bf1848f","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-06T06:38:47Z"}
