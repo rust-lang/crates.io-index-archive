@@ -154,3 +154,4 @@
 {"name":"rucc-builtins","vers":"0.21.0","deps":[],"cksum":"fc5dc3766268cc31e895de8a59b884ff846d295cdbf699a32631756c624c007e","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-05T17:05:18Z"}
 {"name":"rucc-builtins","vers":"0.24.5","deps":[],"cksum":"c251279564b8eb06de96ef62c69e9c0aac3c30f1f816bbc8023fe83e3b98609e","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-06T02:02:28Z"}
 {"name":"rucc-builtins","vers":"0.24.6","deps":[],"cksum":"70218d582e37e0b93fd0033a52af14fe0abaf9c6d98153f85426da7fb2d4c455","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-06T02:54:17Z"}
+{"name":"rucc-builtins","vers":"0.24.7","deps":[],"cksum":"5f58a172d748f18e6405232a695c5ad14645cf6bfc818e524cbddb6e0ebd9a09","features":{},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-06T04:54:07Z"}
