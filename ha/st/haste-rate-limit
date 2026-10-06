@@ -37,3 +37,4 @@
 {"name":"haste-rate-limit","vers":"0.126.10","deps":[],"cksum":"26921e7414e1e01743fce13caca812fe0b8a5b66704082b5e94e1fc4c5bce616","features":{},"yanked":false,"pubtime":"2026-10-04T20:42:54Z"}
 {"name":"haste-rate-limit","vers":"0.126.11","deps":[],"cksum":"dacf9fc31f0971d257f22dcc36e877453bf713d801aa2df062129040c42f9f7f","features":{},"yanked":false,"pubtime":"2026-10-05T00:47:45Z"}
 {"name":"haste-rate-limit","vers":"0.126.12","deps":[],"cksum":"aae1f8579cd207056743b6d8f8bc257cdd7554a927771ca0e31faf93decd6b79","features":{},"yanked":false,"pubtime":"2026-10-06T03:11:18Z"}
+{"name":"haste-rate-limit","vers":"0.126.13","deps":[],"cksum":"160a858a9124bb81f645eec5a93dcdf9ea31af71dd912c9686d055ecc3af1338","features":{},"yanked":false,"pubtime":"2026-10-06T19:39:28Z"}
