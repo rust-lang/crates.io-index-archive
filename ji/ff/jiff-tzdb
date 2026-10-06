@@ -8,3 +8,4 @@
 {"name":"jiff-tzdb","vers":"0.1.6","deps":[],"cksum":"c900ef84826f1338a557697dc8fc601df9ca9af4ac137c7fb61d4c6f2dfd3076","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-03-03T23:28:22Z"}
 {"name":"jiff-tzdb","vers":"0.1.7","deps":[],"cksum":"6142247df1a93c2b3587402a19710be3e6e942f1581a1702e76408f2c21d6590","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-02T13:07:40Z"}
 {"name":"jiff-tzdb","vers":"0.1.8","deps":[],"cksum":"142bd39932ad231f10513df9ab62661fead8719872150b7ad02a2df79f4e141e","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-09T01:22:38Z"}
+{"name":"jiff-tzdb","vers":"0.1.9","deps":[],"cksum":"fa8377070c6bae868759445e5a77f66d84f0b72f3a054bfb00e6d038b8282da7","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-10-06T15:00:54Z"}
