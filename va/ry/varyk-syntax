@@ -8,3 +8,4 @@
 {"name":"varyk-syntax","vers":"0.6.0","deps":[],"cksum":"ec325617ac66405c0954ecade7b060b204fee1d8ac630e5d2e45ab38587e2be7","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-04T09:38:23Z"}
 {"name":"varyk-syntax","vers":"0.7.0","deps":[],"cksum":"e4b8ba0736fa589e1af3d2434dc671983327d606b016a00b359544d76f0c39da","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-06T20:29:29Z"}
 {"name":"varyk-syntax","vers":"0.7.1","deps":[],"cksum":"3bd529f0d1525405f69ce4a05c0deeb9acecf67fe6613c2a7d9d326c004fd2a7","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-06T23:44:45Z"}
+{"name":"varyk-syntax","vers":"0.7.2","deps":[],"cksum":"47c90de5a1aada634403ef1dee7d37796e24457ff17557143aec1962f69dd81e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-07T12:31:29Z"}
