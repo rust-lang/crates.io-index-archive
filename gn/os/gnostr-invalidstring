@@ -56,3 +56,4 @@
 {"name":"gnostr-invalidstring","vers":"953263.1868.499801","deps":[],"cksum":"eee427796c19589f2e22856da5f0bf436f639e97a0b11c66138cbbe119110b46","features":{},"yanked":false,"pubtime":"2026-06-11T16:27:41Z"}
 {"name":"gnostr-invalidstring","vers":"970374.1846.86606","deps":[],"cksum":"db5520c1277567b1810aef519814ed08c0f286f958a270a67f81949eb95d9100","features":{},"yanked":false,"pubtime":"2026-10-07T18:18:14Z"}
 {"name":"gnostr-invalidstring","vers":"970376.1846.83527","deps":[],"cksum":"6a692e5e43d85f8cbb450032479646d1a23c94eeedd508dfdd19e8cd5d1d75cd","features":{},"yanked":false,"pubtime":"2026-10-07T18:29:06Z"}
+{"name":"gnostr-invalidstring","vers":"970377.1846.82448","deps":[],"cksum":"506adbf4536cc20b3fec1e42184ee6aaa03c29c0fc1110149fe94633484f2126","features":{},"yanked":false,"pubtime":"2026-10-07T18:41:12Z"}
