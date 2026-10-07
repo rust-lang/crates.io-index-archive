@@ -53,3 +53,4 @@
 {"name":"znative","vers":"0.13.6","deps":[],"cksum":"a2f2622c050780c942f98435eed1748d5f6c10260864af1d6aab89b880d33b54","features":{},"yanked":false,"pubtime":"2026-10-03T09:46:30Z"}
 {"name":"znative","vers":"0.13.8","deps":[],"cksum":"99dd1af1dc6ecf2c4b323a2aa25b89d5d5dc40bce1bde76e6b1d48473c66a2e8","features":{},"yanked":false,"pubtime":"2026-10-03T21:14:58Z"}
 {"name":"znative","vers":"0.13.9","deps":[],"cksum":"f2f141ca300a1be56fded73f1c3e8bcbd3df25ec6dac0b02f8976e102b6c7366","features":{},"yanked":false,"pubtime":"2026-10-07T19:34:44Z"}
+{"name":"znative","vers":"0.13.10","deps":[],"cksum":"b2ebeeb1b7ff5e4a6511c1745b98ff0559c86d7732186d95041056e34a227829","features":{},"yanked":false,"pubtime":"2026-10-07T19:42:31Z"}
