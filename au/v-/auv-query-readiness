@@ -4,3 +4,4 @@
 {"name":"auv-query-readiness","vers":"0.0.25","deps":[],"cksum":"e79ba1e9f7a79206e44cf504cd824c0551e8807400679bc8bc7cb723f8c0b7bb","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-10-03T10:21:36Z"}
 {"name":"auv-query-readiness","vers":"0.0.28","deps":[],"cksum":"821add785d2845d37bf06d176d636c629ed22dcdc1d24df99ea3f45891907348","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-10-04T21:15:38Z"}
 {"name":"auv-query-readiness","vers":"0.0.29","deps":[],"cksum":"e718daad3ce12b217134a82bd90e3a303e284c8b019487fa0b9c1761288474a6","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-10-05T23:47:32Z"}
+{"name":"auv-query-readiness","vers":"0.0.30","deps":[],"cksum":"fd5f2106d61ee32568d61f713c7750c4a4be367513937331bb3bf8aef33be344","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-10-07T01:30:08Z"}
