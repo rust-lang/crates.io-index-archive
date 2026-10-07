@@ -13,3 +13,4 @@
 {"name":"ic-metrics","vers":"0.2.4","deps":[],"cksum":"7bec2da218f678f1e91693bb890a30e185daf0ac1b97475bf42e280dade2d9b6","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-10-07T07:23:55Z"}
 {"name":"ic-metrics","vers":"0.2.5","deps":[],"cksum":"f03846f188137170575ee48c04ece8a5d2d54096206d55bd7f56cd97afeac2fe","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-10-07T07:45:02Z"}
 {"name":"ic-metrics","vers":"0.2.6","deps":[],"cksum":"9ac61152c3645ba0cad34331301db14ca096ced6ace6fc7d2cbbd4f4fe511f63","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-10-07T09:07:22Z"}
+{"name":"ic-metrics","vers":"0.2.7","deps":[],"cksum":"9b54584cd8658046ca874ec9d67ba7fb7a5028e11467da1cce1a0bf62e6495cd","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-10-07T09:41:06Z"}
