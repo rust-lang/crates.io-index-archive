@@ -255,3 +255,4 @@
 {"name":"pack_component_template","vers":"1.2.0-dev.37463752240","deps":[],"cksum":"b8e5a35d6f83148db5fd98478991ad9bd5ef4f8160d920b778e9c57239ba23af","features":{},"yanked":false,"pubtime":"2026-10-06T12:46:18Z"}
 {"name":"pack_component_template","vers":"1.2.0-dev.37551677623","deps":[],"cksum":"df7f23922b386128773662f53312a90e89853db63beccd26bd2f8494a2455c58","features":{},"yanked":false,"pubtime":"2026-10-07T00:54:20Z"}
 {"name":"pack_component_template","vers":"1.2.0-dev.37601143910","deps":[],"cksum":"e6619083c609c826fea4971da4c2eafc635ae3cd3c0c4c4571abd02c0cc02fd4","features":{},"yanked":false,"pubtime":"2026-10-07T09:46:51Z"}
+{"name":"pack_component_template","vers":"1.2.0-dev.37688996525","deps":[],"cksum":"f117b7c1574fde5d709596c50ff82afd549aa7d6eb26d654f7ce23f7cbb8ac84","features":{},"yanked":false,"pubtime":"2026-10-07T21:40:08Z"}
