@@ -1,0 +1,1 @@
+{"name":"normfs-time","vers":"0.4.0","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d8fd2c284be08c52eca72aaaf6816d8416e4009cbba29a2b4c8640a69f4bcb95","features":{},"yanked":false,"pubtime":"2026-10-07T19:41:59Z"}
