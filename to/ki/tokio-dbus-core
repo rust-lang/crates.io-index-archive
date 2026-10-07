@@ -6,3 +6,4 @@
 {"name":"tokio-dbus-core","vers":"0.1.1","deps":[],"cksum":"2bde70eafdce1c13512c86bce9cf036e20fc3346783aca80fb4a6510dbc2d5fe","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.90","pubtime":"2026-08-10T14:53:41Z"}
 {"name":"tokio-dbus-core","vers":"0.2.0","deps":[],"cksum":"029cf4d50e0f4caa463e50d7e8c6db8497cb46d5555b83c12b8b1d0ce91fa2fb","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.90","pubtime":"2026-08-10T15:48:12Z"}
 {"name":"tokio-dbus-core","vers":"0.2.1","deps":[],"cksum":"5cfce0a57065852a0e5ef84d639b90e3d2f487dccd3c16a0c578d529c5ac4b5c","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.90","pubtime":"2026-09-29T06:37:41Z"}
+{"name":"tokio-dbus-core","vers":"0.2.2","deps":[],"cksum":"c31c7055791d82655eb42288c38b9c3e3f3304826b2382a6d835518064ff84f1","features":{"alloc":[],"default":["alloc"]},"yanked":false,"rust_version":"1.90","pubtime":"2026-10-07T14:02:27Z"}
