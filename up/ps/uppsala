@@ -14,3 +14,4 @@
 {"name":"uppsala","vers":"0.9.0","deps":[],"cksum":"b83b4950a552cd9812b6afd150ea10729617d28208bba122912eb196c2261d4d","features":{"debug-logging":[],"default":[],"fuzzing":[]},"yanked":false,"pubtime":"2026-07-05T14:00:16Z"}
 {"name":"uppsala","vers":"0.10.0","deps":[],"cksum":"8b15c8ed9e9864e5c185dfa1407dde92113a20bdd27db9930559a18193206bf9","features":{"debug-logging":[],"default":[],"fuzzing":[]},"yanked":false,"pubtime":"2026-09-02T08:54:02Z"}
 {"name":"uppsala","vers":"0.10.1","deps":[],"cksum":"a27f7d40a93824eefcf6b62fd2fa86bca9ea6a5825de56b4aa9a5ed7804b766c","features":{"debug-logging":[],"default":[],"fuzzing":[]},"yanked":false,"pubtime":"2026-09-02T09:20:49Z"}
+{"name":"uppsala","vers":"0.11.0","deps":[],"cksum":"f48e34837f1165c635e8c20824d47e12ded9c18e8ba1849639e3782e00539212","features":{"debug-logging":[],"default":[],"fuzzing":[]},"yanked":false,"pubtime":"2026-10-07T07:15:33Z"}
