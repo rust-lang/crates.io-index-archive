@@ -9,3 +9,4 @@
 {"name":"qiongli-windows-security","vers":"2.2.0","deps":[],"cksum":"0f2b8878ba42f6f34131bcaa56d4f376e4ce93ba61d0214b5be12e96554de8dd","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-03T16:40:58Z"}
 {"name":"qiongli-windows-security","vers":"2.2.1","deps":[],"cksum":"bf03240d9e9d7c87bafe20e2caf1f06af6bcf39f47c0df2a9ffc23abcfb75d8a","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-03T18:07:03Z"}
 {"name":"qiongli-windows-security","vers":"2.3.0","deps":[],"cksum":"871651b5c77c71cfb5a945065cef79a7d568cc6b06c2571e5f72af8e909c8103","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-04T21:54:53Z"}
+{"name":"qiongli-windows-security","vers":"2.4.0","deps":[],"cksum":"b8886d6473a7a02f9c8896b4bfdf6a80bc59197697fbc1b9591be36b4936e23b","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-07T16:14:26Z"}
