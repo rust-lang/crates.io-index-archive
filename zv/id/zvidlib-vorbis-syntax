@@ -1,0 +1,1 @@
+{"name":"zvidlib-vorbis-syntax","vers":"0.4.1","deps":[{"name":"zvidlib-core","req":"=0.4.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bfa42de6cace6b24478ea13b8c5d9782caba4c48a3574b4d713e3a19c39a344a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-07T22:06:31Z"}
