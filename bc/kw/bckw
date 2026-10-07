@@ -6,3 +6,4 @@
 {"name":"bckw","vers":"0.2.3","deps":[],"cksum":"79fe7826505e9331bdb1dd9335a30a45c7e0372e67b0635210e50ab82d071327","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-06T15:20:36Z"}
 {"name":"bckw","vers":"0.2.4","deps":[],"cksum":"7bc7d286a20cb759059eeb627b121691c8ca68aabe64a3ef73e76ccd5ceb0247","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-06T17:55:05Z"}
 {"name":"bckw","vers":"0.3.0","deps":[],"cksum":"ece8ce7ac7d068129f929665e68b677995be2a0b17de70439ec5c152dfa0a88e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-07T16:49:01Z"}
+{"name":"bckw","vers":"0.3.1","deps":[],"cksum":"92f79ac9e09253f77f5e1128cb8c4d8674eeaa3391eaeef84b4463174bf79f9f","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-07T18:56:08Z"}
