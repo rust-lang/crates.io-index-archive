@@ -7,3 +7,4 @@
 {"name":"car-home","vers":"0.53.0","deps":[],"cksum":"a91c0b046bfa4ca78165fac63ac35703595d183ec9a1625be5cdec10860a036a","features":{},"yanked":false,"pubtime":"2026-09-10T10:54:07Z"}
 {"name":"car-home","vers":"0.54.0","deps":[],"cksum":"fb29da7f1cae9a2fb2cdc2a62abf3e11ef4386b6929b7054c5186074fa0d71f9","features":{},"yanked":false,"pubtime":"2026-09-15T15:59:24Z"}
 {"name":"car-home","vers":"0.55.0","deps":[],"cksum":"4500c8c56ed6db3212e1735fcd551c7696918d72627eb429064d834edd7d3880","features":{},"yanked":false,"pubtime":"2026-09-21T18:40:55Z"}
+{"name":"car-home","vers":"0.56.1","deps":[],"cksum":"10e3d3ae2541ef5810efa31bd4ee028fda595f44c488013c0359bfdec6236662","features":{},"yanked":false,"pubtime":"2026-10-07T17:15:08Z"}
