@@ -5,3 +5,4 @@
 {"name":"rudb-qc-ir","vers":"0.7.2","deps":[],"cksum":"9d7cf96545b7c9aa4271a41c809735ad63b1aaf1ecc3a1335e8683763abf92d2","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-09-28T07:44:01Z"}
 {"name":"rudb-qc-ir","vers":"0.8.0","deps":[],"cksum":"e8e7a5f061eb49229b7d3ea38f4fef9106265a0bb83fa32e28e9a2e5595b6f24","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-09-28T08:29:35Z"}
 {"name":"rudb-qc-ir","vers":"0.8.1","deps":[],"cksum":"85fd038dbda47019b108d3bcf15cf748c2e3c98c907ef76cb95553c89d38dcb4","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-09-28T10:12:18Z"}
+{"name":"rudb-qc-ir","vers":"0.8.43","deps":[],"cksum":"0cac65989cfe18ce303b35362183b1c0dd59e7ad8ce0215bf87f081611a12ecd","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-10-07T23:33:47Z"}
