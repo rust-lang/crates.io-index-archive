@@ -49,3 +49,4 @@
 {"name":"heddle-perf-contract","vers":"0.28.9","deps":[],"cksum":"5600e117d27a6dc3c971de67421a9cee86771b11cd1041efaaa3cbb2bb46e200","features":{},"yanked":false,"pubtime":"2026-10-05T14:26:19Z"}
 {"name":"heddle-perf-contract","vers":"0.28.10","deps":[],"cksum":"a8314607dad0120629d00076f4a609ded6d59ced1e84d7da9c82d89a1039c41c","features":{},"yanked":false,"pubtime":"2026-10-05T17:54:08Z"}
 {"name":"heddle-perf-contract","vers":"0.28.11","deps":[],"cksum":"8798199c2939b127e5c5aa9273c24653d2a840982dc0a84f0d432a2340a20047","features":{},"yanked":false,"pubtime":"2026-10-06T14:06:48Z"}
+{"name":"heddle-perf-contract","vers":"0.28.12","deps":[],"cksum":"d49969cef8f76122c3cdf118e7a861c48aa89f8ea1e1fe5c08063bf4c70d476b","features":{},"yanked":false,"pubtime":"2026-10-07T19:20:37Z"}
