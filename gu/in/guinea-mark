@@ -38,3 +38,4 @@
 {"name":"guinea-mark","vers":"0.26.1","deps":[],"cksum":"00d15c119e5f587a879c28e8611d082d666f2acbcf272784444077e34a5b440c","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-08T07:43:51Z"}
 {"name":"guinea-mark","vers":"0.26.2","deps":[],"cksum":"7408da67888da54051971e9cd1d501b39e2119266ae6a8c31b239819ab0fa17d","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-08T08:32:46Z"}
 {"name":"guinea-mark","vers":"0.27.0","deps":[],"cksum":"5a1f40175f524dc9dd9f2e96d59a4ecee5b637fe771dce17dbece33849cf14c2","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-08T08:45:07Z"}
+{"name":"guinea-mark","vers":"0.28.0","deps":[],"cksum":"504aad629fac90b96b0061894342ccff3413eb9fd293ebfd9c4f3363c08559e7","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-08T08:58:14Z"}
