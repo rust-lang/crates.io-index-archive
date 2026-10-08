@@ -6,3 +6,4 @@
 {"name":"exarmo-core","vers":"0.2.1","deps":[],"cksum":"3848e1a04c30a61cd2e290340c7c720202783e405d86d5edd276804f6fca0005","features":{},"yanked":false,"rust_version":"1.91.1","pubtime":"2026-10-01T15:00:09Z"}
 {"name":"exarmo-core","vers":"0.2.2","deps":[],"cksum":"efa08d226710eda22efa36131b1db9a085af089a5e0bd957bfeb0767f29dfa20","features":{},"yanked":false,"rust_version":"1.91.1","pubtime":"2026-10-01T23:14:39Z"}
 {"name":"exarmo-core","vers":"0.3.0","deps":[],"cksum":"b89d4a877b325cb5f222b373c25297f562d13b2a4617ffa17ea6b6acdbcd6172","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.91.1","pubtime":"2026-10-02T18:10:09Z"}
+{"name":"exarmo-core","vers":"0.4.0","deps":[],"cksum":"865b59e0f4860cea72133a24ec7fb936abc8a23a88abf00cd7bec6bebae214b4","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.91.1","pubtime":"2026-10-08T05:06:08Z"}
