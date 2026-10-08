@@ -1,0 +1,1 @@
+{"name":"speechwarp","vers":"0.3.4","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"39354ddca7769262501f70373fc7de123346fff1050fa7b388d0c52087c38f58","features":{},"yanked":false,"links":"speechwarp","rust_version":"1.63","pubtime":"2026-10-08T10:27:55Z"}
