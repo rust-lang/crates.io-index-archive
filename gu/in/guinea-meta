@@ -35,3 +35,4 @@
 {"name":"guinea-meta","vers":"0.24.1","deps":[],"cksum":"d87c46dccb2cc6183097d7e571b4898495ce780753b902614a30031431f75133","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-05T05:54:43Z"}
 {"name":"guinea-meta","vers":"0.25.0","deps":[],"cksum":"8505ceb8c6c83147d8fc77882beddc955031b2b4e1dfd018d817a000bc10c957","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-05T11:24:30Z"}
 {"name":"guinea-meta","vers":"0.26.0","deps":[],"cksum":"a608cc35ef9fa54f4e66b44037a67b70d41de8a3872b6e41ea0e0b29b0247269","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-05T18:43:44Z"}
+{"name":"guinea-meta","vers":"0.26.1","deps":[],"cksum":"281fe62c963916829a561e7e8ca66abc8612dd194875d3b5dd6ac60cee42ac84","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-08T07:43:53Z"}
