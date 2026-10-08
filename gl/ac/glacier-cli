@@ -50,3 +50,4 @@
 {"name":"glacier-cli","vers":"0.6.0","deps":[],"cksum":"a8d773a7a7724c7ab0b7a37750697c36476c71198b8b0b43c1bbd312cbca6914","features":{},"yanked":false,"pubtime":"2026-10-04T07:09:18Z"}
 {"name":"glacier-cli","vers":"0.6.1","deps":[],"cksum":"cf58f4111ff354d3a054a472fe37ab276e73dcc5fdf787371519f48ae1e4b352","features":{},"yanked":false,"pubtime":"2026-10-04T07:43:08Z"}
 {"name":"glacier-cli","vers":"0.6.2","deps":[],"cksum":"7969046ee63ec468a8cf4435e2d4227bde2d9caed9aab26689a500b8bb026531","features":{},"yanked":false,"pubtime":"2026-10-05T15:20:20Z"}
+{"name":"glacier-cli","vers":"0.6.3","deps":[],"cksum":"710b4aa3b1bf64f508d552ee3fabc79b1da6d5ed61deaa5f8e9ad479b1ebb93f","features":{},"yanked":false,"pubtime":"2026-10-08T23:28:21Z"}
