@@ -10,3 +10,4 @@
 {"name":"perex","vers":"0.1.9","deps":[],"cksum":"1473d470930ed48574515a25df34900f3af89c6fa422d903e019121312a9f13e","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-18T02:15:16Z"}
 {"name":"perex","vers":"0.1.10","deps":[],"cksum":"08b8d5b07f5154bba623cad4a9cbbc8add8b072363b6d457ca591b435a106550","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-20T13:13:25Z"}
 {"name":"perex","vers":"0.1.11","deps":[],"cksum":"4cacad0d8fd77338345abb71e4f8372ce93bf0e9205d845940f8e789b3fc98a8","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-27T21:13:35Z"}
+{"name":"perex","vers":"0.1.12","deps":[],"cksum":"86d57d56f880b3ce759f0423b632c7522e5faa05227b8785154797e749fdc9eb","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-08T15:23:51Z"}
