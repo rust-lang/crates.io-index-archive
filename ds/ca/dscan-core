@@ -8,3 +8,4 @@
 {"name":"dscan-core","vers":"0.6.0","deps":[],"cksum":"fe2a98cb978cfa23a7865e2f114a11e74a3cf2361bf377d8e4b3799831132eab","features":{},"yanked":false,"pubtime":"2026-10-06T18:40:27Z"}
 {"name":"dscan-core","vers":"0.6.1","deps":[],"cksum":"3e9d3fb018cb5742fc08735d3539662eda1d1528308ceeff6540a40a098fb829","features":{},"yanked":false,"pubtime":"2026-10-06T23:11:42Z"}
 {"name":"dscan-core","vers":"0.7.0","deps":[],"cksum":"01184b2b92f2234c3e639340ce422d8f5ab056dea57ae65f821067ae7e233b9c","features":{},"yanked":false,"pubtime":"2026-10-07T05:27:26Z"}
+{"name":"dscan-core","vers":"0.8.0","deps":[],"cksum":"c85058302aedc1e23537f718dd3aaed6099c7c6391e915afa09b134ce1275918","features":{},"yanked":false,"pubtime":"2026-10-08T15:17:43Z"}
