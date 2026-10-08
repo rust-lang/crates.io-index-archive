@@ -7,3 +7,4 @@
 {"name":"rudb-qc-ir","vers":"0.8.1","deps":[],"cksum":"85fd038dbda47019b108d3bcf15cf748c2e3c98c907ef76cb95553c89d38dcb4","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-09-28T10:12:18Z"}
 {"name":"rudb-qc-ir","vers":"0.8.43","deps":[],"cksum":"0cac65989cfe18ce303b35362183b1c0dd59e7ad8ce0215bf87f081611a12ecd","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-10-07T23:33:47Z"}
 {"name":"rudb-qc-ir","vers":"0.9.1","deps":[],"cksum":"f75fd50033a956a692725c3433d5389084a5b2fd31548bff8b5d0abdb834bc7b","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-10-08T05:51:19Z"}
+{"name":"rudb-qc-ir","vers":"0.9.3","deps":[],"cksum":"6eed33aa60d095cefd110c67b615631500f3e6a94147766498be3da49e7394f3","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-10-08T08:15:06Z"}
