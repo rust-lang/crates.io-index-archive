@@ -38,3 +38,4 @@
 {"name":"msb_krun_arch_gen","vers":"0.1.38","deps":[],"cksum":"f6881a0f7a87fce88d3641d71e4bf2e8488ebea8c321e1ed6b5a0ccd2f522ed8","features":{},"yanked":false,"pubtime":"2026-09-12T00:46:24Z"}
 {"name":"msb_krun_arch_gen","vers":"0.1.39","deps":[],"cksum":"c702db3ef885cba2c206e367889fdea4db6c7990b5e1cface8dfcab297a3262c","features":{},"yanked":false,"pubtime":"2026-09-14T05:16:38Z"}
 {"name":"msb_krun_arch_gen","vers":"0.1.40","deps":[],"cksum":"125c6e081be340e2690e570487bdf3786d23c0562c00f7225b5d54e3130ec136","features":{},"yanked":false,"pubtime":"2026-10-02T18:24:13Z"}
+{"name":"msb_krun_arch_gen","vers":"0.1.41","deps":[],"cksum":"c8a05a3d17076af32243e26e309515e5bfd647d834b9e5e7cf0572b905bee1ee","features":{},"yanked":false,"pubtime":"2026-10-08T18:46:56Z"}
