@@ -5,3 +5,4 @@
 {"name":"cdt-tree","vers":"0.4.0","deps":[],"cksum":"a821260166e4aba67b00cb3f60cecaeb2d4aef41702d88708d1f231c34b75194","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-07T22:34:00Z"}
 {"name":"cdt-tree","vers":"0.5.0","deps":[],"cksum":"9d56eeede755b63e062226d2167fd9d59668e9a2d2ed79e6fa528ab18783a5ca","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-07T23:44:09Z"}
 {"name":"cdt-tree","vers":"0.5.1","deps":[],"cksum":"04e5fa1f5e2eab11ade4cd1243ca78f2752617be9387c953b7b421aefc3c5515","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-08T01:29:12Z"}
+{"name":"cdt-tree","vers":"0.5.2","deps":[],"cksum":"59a600308287b4a383085d8bf589497424858b3c3b7e1de946eb3b700999891a","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-08T18:03:56Z"}
