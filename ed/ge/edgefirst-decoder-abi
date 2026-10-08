@@ -7,3 +7,4 @@
 {"name":"edgefirst-decoder-abi","vers":"0.32.1","deps":[],"cksum":"f55defb9014ae9c5c0e9e5d6cf4ed08e6c0f5c441d321c2b271d6b5e95f08aa8","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-09-18T22:48:05Z"}
 {"name":"edgefirst-decoder-abi","vers":"0.33.0","deps":[],"cksum":"b011682939a27974faaf5ad37c9c00cd1ee1a70c71ca67fabc2663d7f22f504b","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-10-01T03:08:15Z"}
 {"name":"edgefirst-decoder-abi","vers":"0.34.0","deps":[],"cksum":"92372b1911dbd8bc7b0a02d9f7c622d86179a64c13ffb5d4d5674db618c89016","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-10-07T02:09:34Z"}
+{"name":"edgefirst-decoder-abi","vers":"0.34.1","deps":[],"cksum":"fcf0c4846bf65c5f6405a8e0b43e231ef011484a90a5ff15501974452ee5b3a3","features":{},"yanked":false,"rust_version":"1.94.0","pubtime":"2026-10-08T00:11:29Z"}
