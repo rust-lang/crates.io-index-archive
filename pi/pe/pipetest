@@ -19,3 +19,4 @@
 {"name":"pipetest","vers":"2026.10.5","deps":[],"cksum":"858175624cd2378eb22fedc322bf4bac2808fe876e4e1b31dffbd9f7c2b97989","features":{},"yanked":false,"pubtime":"2026-10-05T01:03:41Z"}
 {"name":"pipetest","vers":"2026.10.6","deps":[],"cksum":"2c3fe6d3d8e4d047502a5fbfb21a66ed7134ab15e66424dbf7bbcf2d139cfd7d","features":{},"yanked":false,"pubtime":"2026-10-06T01:03:44Z"}
 {"name":"pipetest","vers":"2026.10.7","deps":[],"cksum":"590116a06acab7fdddf0e780b8c26ed47016b3ffce8c2752dab337009aa6b463","features":{},"yanked":false,"pubtime":"2026-10-07T01:03:39Z"}
+{"name":"pipetest","vers":"2026.10.8","deps":[],"cksum":"821f7738c69f8af1b233b278d2511df34263a186cdbc3e65ff0729157cae6f0c","features":{},"yanked":false,"pubtime":"2026-10-08T01:03:30Z"}
