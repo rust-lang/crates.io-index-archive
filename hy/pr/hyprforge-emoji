@@ -7,3 +7,4 @@
 {"name":"hyprforge-emoji","vers":"0.1.6","deps":[],"cksum":"2095a636d29d9c0f153845dff15a420b5ecb75219942fc4a78b9d29e43ccd0c9","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-04T13:21:42Z"}
 {"name":"hyprforge-emoji","vers":"0.1.7","deps":[],"cksum":"9c285481813e4b243320ee2fb8f7c7eb6b0a297a2332005e77e4bbfb79695d4d","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-04T18:06:05Z"}
 {"name":"hyprforge-emoji","vers":"0.1.8","deps":[],"cksum":"e0ea0168a385dfb833158884f060f91b610411d22831ace6607ab215b60cfc31","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-04T20:23:26Z"}
+{"name":"hyprforge-emoji","vers":"0.1.9","deps":[],"cksum":"2492b7026ff04e724d8d7537553a8b24aa0d2c7a74a25d595e26d626f6656ff7","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-09T00:51:32Z"}
