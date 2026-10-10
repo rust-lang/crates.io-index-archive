@@ -1,0 +1,1 @@
+{"name":"ps-jxl-bitstream","vers":"0.13.0","deps":[{"name":"tracing","req":"^0.1.40","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"3f57d47caef253becbd2a0b34413eea9bc16a2ca0927f6dfc4057a1cea838799","features":{"default":["std"],"std":["tracing/std"]},"yanked":false,"pubtime":"2026-10-10T22:12:43Z"}
