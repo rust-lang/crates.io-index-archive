@@ -38,3 +38,4 @@
 {"name":"hjkl-splash","vers":"0.41.7","deps":[],"cksum":"5043abf24aa4958215ce8bf481cd9bf47252c9e5582973f6ddab07328ceb29d6","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-15T12:45:25Z"}
 {"name":"hjkl-splash","vers":"0.42.0","deps":[],"cksum":"c90311efcd4554b13bfa55c576491f497080f93e578bbf1ffb7332f632d2248d","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-16T22:47:24Z"}
 {"name":"hjkl-splash","vers":"0.42.1","deps":[],"cksum":"0c550a718ed747fc3e07e7094dce0939b1d37ff74f21fde0e76fab7f5ad5f51e","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-09-21T13:15:57Z"}
+{"name":"hjkl-splash","vers":"0.42.2","deps":[],"cksum":"21f7e1b80045cb2beb6359a69ed2ab69fa89bb441be3084164e62528c494a4fe","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-10T19:05:54Z"}
