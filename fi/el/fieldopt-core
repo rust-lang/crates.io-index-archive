@@ -12,3 +12,4 @@
 {"name":"fieldopt-core","vers":"0.8.1","deps":[],"cksum":"7d7765716c35e7e45f99a5a7d164cf4808823bad5bc7773b6939b3e9c315f99d","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-10-10T02:05:45Z"}
 {"name":"fieldopt-core","vers":"0.9.0","deps":[],"cksum":"f1928a55bc100d9e481ec03b870298a08aa7be26e9e9c676f59777b485bd08a6","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-10-10T11:48:47Z"}
 {"name":"fieldopt-core","vers":"0.9.1","deps":[],"cksum":"9c8f8a5dbde3b4ce35a83b1fcf4747cd91a12db0ab2ccdd0f7e13f2587b1db3f","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-10-10T12:31:02Z"}
+{"name":"fieldopt-core","vers":"0.10.0","deps":[],"cksum":"e82339824bf9c10f36258b30445376db122499bb9b86bb188c22a9f7aad73a3a","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-10-10T18:57:17Z"}
