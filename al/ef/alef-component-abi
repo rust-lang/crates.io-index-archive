@@ -4,3 +4,4 @@
 {"name":"alef-component-abi","vers":"0.109.1","deps":[],"cksum":"725caa399c2b0a3e89708fb98c3dab32c38251039bea7993052993dfdc5ee4da","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-10T18:49:09Z"}
 {"name":"alef-component-abi","vers":"0.109.2","deps":[],"cksum":"141f2e78951f3bc22298b9a284816c89a74dbe7b62baed151bcb121ae2a96cca","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-10T20:27:53Z"}
 {"name":"alef-component-abi","vers":"0.109.3","deps":[],"cksum":"e99161e76623339e05bb52fe32985d01603e42400a33f6b63708aae7d0f29ecf","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-10T22:10:26Z"}
+{"name":"alef-component-abi","vers":"0.109.4","deps":[],"cksum":"44c7da939386cb8d43cf1e9f4f3c54d593d7fa94c89260c41650655069bf5a28","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-10T22:20:17Z"}
