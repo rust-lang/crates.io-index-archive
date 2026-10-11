@@ -33,3 +33,4 @@
 {"name":"ifc-lite-clash","vers":"19.1.2","deps":[],"cksum":"8d51f80c546b2b490085c9f7aee4389e5ce349bceeaaa9501782ee690b48101b","features":{},"yanked":false,"pubtime":"2026-09-25T14:44:56Z"}
 {"name":"ifc-lite-clash","vers":"20.2.0","deps":[],"cksum":"bd2596288043411f699e0cce1696e4d3938586e87ae808d53db9a8a1f3211639","features":{},"yanked":false,"pubtime":"2026-09-29T04:05:33Z"}
 {"name":"ifc-lite-clash","vers":"20.3.0","deps":[],"cksum":"d8dc5d5b5fa644126675f9846fe344f935baa9ad95da2893e87f72ef3adc3c0b","features":{},"yanked":false,"pubtime":"2026-10-01T19:33:13Z"}
+{"name":"ifc-lite-clash","vers":"20.4.0","deps":[],"cksum":"efef38609e236d3b519367a936ad8596cfad3c59b7646c4dba6645beb8ffd7d4","features":{},"yanked":false,"pubtime":"2026-10-11T13:56:40Z"}
