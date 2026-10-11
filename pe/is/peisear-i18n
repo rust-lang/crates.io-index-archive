@@ -26,3 +26,4 @@
 {"name":"peisear-i18n","vers":"0.46.0","deps":[],"cksum":"1fb087960c9645f6c4dfff8b2b0f598f43e1a3f12f31a4057235667f254f53bc","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-10-09T10:25:41Z"}
 {"name":"peisear-i18n","vers":"0.47.0","deps":[],"cksum":"195b08a650805144d9b374249dbabbfc37937283af76b037a0d6631ed3f9c586","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-10-09T23:55:27Z"}
 {"name":"peisear-i18n","vers":"0.48.0","deps":[],"cksum":"f588b992922770be8b05b4df6a6c7d0b0b7b84427e297a0faf3833017809d3d5","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-10-10T22:29:29Z"}
+{"name":"peisear-i18n","vers":"0.49.0","deps":[],"cksum":"779c9e3c0e568a64740d1cc86d7c1eecbbe70b00be6763bfbf6f39056d43f95b","features":{},"yanked":false,"rust_version":"1.88.0","pubtime":"2026-10-11T05:26:20Z"}
