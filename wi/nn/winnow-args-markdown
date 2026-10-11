@@ -1,0 +1,1 @@
+{"name":"winnow-args-markdown","vers":"0.2.0","deps":[{"name":"winnow-args-spec","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f063bc9c7359a2aee85dae53950dc5bd73029f7aa3d9344746770797fc159b8c","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-11T17:39:21Z"}
