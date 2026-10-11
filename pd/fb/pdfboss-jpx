@@ -36,3 +36,4 @@
 {"name":"pdfboss-jpx","vers":"2.12.0","deps":[],"cksum":"32bceb2105fe149489a350ce4a812b6756dcfed2d59a51d6dac40f83adf4dd42","features":{},"yanked":false,"pubtime":"2026-10-01T12:20:07Z"}
 {"name":"pdfboss-jpx","vers":"2.13.0","deps":[],"cksum":"4b75ba793e2c1a22736c9cedbe2e2d14d01c3c28d6fe4eb8691167cb1a5146c9","features":{},"yanked":false,"pubtime":"2026-10-02T18:38:02Z"}
 {"name":"pdfboss-jpx","vers":"2.13.1","deps":[],"cksum":"c3bf01cd0252b5179c8f2af4a3dbd971e202bb27196eefd466d697f3d3229777","features":{},"yanked":false,"pubtime":"2026-10-03T12:33:43Z"}
+{"name":"pdfboss-jpx","vers":"2.13.2","deps":[],"cksum":"14df95f6e314ae9d6175ffa4c5da764706e5bc3cc8e2f61508afea4a008809d0","features":{},"yanked":false,"pubtime":"2026-10-11T15:44:22Z"}
