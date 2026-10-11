@@ -1,0 +1,1 @@
+{"name":"virtual-bus-build","vers":"0.3.1","deps":[{"name":"cc","req":"^1","features":["parallel"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c5b150b3280b14b4bd4bbc7651824fedb83c5a49025c849da3e86d03c4d3ad2b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-11T06:58:08Z"}
