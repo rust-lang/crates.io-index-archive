@@ -1,0 +1,1 @@
+{"name":"vpsready","vers":"0.1.0-alpha.1","deps":[{"name":"vps-ready","req":"=0.1.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb257788c7999bd58452203a9503341f03b6ce07f6806bb02934eba5b42ae9df","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-10-11T12:34:45Z"}
