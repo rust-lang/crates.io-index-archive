@@ -11,3 +11,4 @@
 {"name":"hyprforge-process","vers":"0.1.10","deps":[],"cksum":"5083a05471d69b003b4fb7eacf1fdc062464d25aad799c2c5d29de6176846109","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-10T00:32:36Z"}
 {"name":"hyprforge-process","vers":"0.1.11","deps":[],"cksum":"9de96f02a2683eaff5613090a94520488ed0a00155605217baf513da2f6bb2f3","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-10T12:59:07Z"}
 {"name":"hyprforge-process","vers":"0.1.12","deps":[],"cksum":"484aedde8d35c22df3cc30883e1bebf8d328c002bc2145c81f58d0481152eeb6","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-10T14:33:07Z"}
+{"name":"hyprforge-process","vers":"0.1.13","deps":[],"cksum":"cbaaf6bff6191a8b8d637e48df2be8e3ca6075b212c45879f0b57f2b7e028248","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-10-11T01:59:42Z"}
