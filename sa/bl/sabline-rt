@@ -6,3 +6,4 @@
 {"name":"sabline-rt","vers":"9.0.0-alpha.7","deps":[],"cksum":"c4c2537f13a58fdf617dccf38468ad614dc98180a08e8d3a726e23a96fe54dfb","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-09T11:09:59Z"}
 {"name":"sabline-rt","vers":"9.0.0-alpha.8","deps":[],"cksum":"dccf89cd05fafc073d3ac17656946ab2d5924ed98a15ae63328b5a41331c2c8e","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-10T01:38:51Z"}
 {"name":"sabline-rt","vers":"9.0.0-alpha.9","deps":[],"cksum":"08b859f2acedea4dec60885a98c3c810d3de223bf12ccca67bc6cc0f941d258c","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-10T08:08:50Z"}
+{"name":"sabline-rt","vers":"9.0.0-alpha.10","deps":[],"cksum":"b09773690972298fc8a08f518b1ed4ffa172b38b8638bdddbc36dc5937fbd922","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-11T05:52:30Z"}
