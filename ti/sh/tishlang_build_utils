@@ -85,3 +85,4 @@
 {"name":"tishlang_build_utils","vers":"4.1.0","deps":[],"cksum":"61563c2919073af3a72ec51848643296f43582481d7742492c86e07cb2550153","features":{},"yanked":false,"pubtime":"2026-10-09T07:27:08Z"}
 {"name":"tishlang_build_utils","vers":"4.1.1","deps":[],"cksum":"27cb75db1a2cb338935be164eac9ada81a189f03ef1d811d792388a9a9a7b8ea","features":{},"yanked":false,"pubtime":"2026-10-09T16:21:40Z"}
 {"name":"tishlang_build_utils","vers":"4.1.4","deps":[],"cksum":"a1eb4cea943a25bac7c1e4a2ff5a0a86efe8594b0590ca59b3e26913859e3788","features":{},"yanked":false,"pubtime":"2026-10-11T03:48:34Z"}
+{"name":"tishlang_build_utils","vers":"4.1.5","deps":[],"cksum":"d5175f7acf008e5cb91dd4ac3368087d5c9201964112c65f1532c9ac03ec9506","features":{},"yanked":false,"pubtime":"2026-10-11T16:20:06Z"}
