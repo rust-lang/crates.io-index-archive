@@ -6,3 +6,4 @@
 {"name":"rusteal-ue-flags","vers":"0.5.0","deps":[],"cksum":"df4661c0f58be7a19eec721c404d25abe13fa2a7d89b108e9a56c975476efc72","features":{},"yanked":false,"pubtime":"2026-10-04T06:10:30Z"}
 {"name":"rusteal-ue-flags","vers":"0.6.0","deps":[],"cksum":"ecc6f623b44999b4f041db8c1bccefb47603393e43b3bdf6947324030f0fa79c","features":{},"yanked":false,"pubtime":"2026-10-10T02:24:21Z"}
 {"name":"rusteal-ue-flags","vers":"0.6.1","deps":[],"cksum":"29f6e0800bf71eb1296c04b4c03ea87f22fef5c563ff3a5ab7a821b592abd7e4","features":{},"yanked":false,"pubtime":"2026-10-10T02:34:30Z"}
+{"name":"rusteal-ue-flags","vers":"0.6.2","deps":[],"cksum":"31ac0d09ec223440753868a6a51ec4259a83f303e90117a89ca061c0b8eb98ba","features":{},"yanked":false,"pubtime":"2026-10-11T02:15:08Z"}
