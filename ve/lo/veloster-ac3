@@ -1,0 +1,1 @@
+{"name":"veloster-ac3","vers":"0.1.10","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d4943461a647df32775ffb56d03c8c0b862ca9fe8b0552e63ba3cb61fe0c756c","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-11T23:23:00Z"}
