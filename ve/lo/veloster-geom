@@ -1,0 +1,1 @@
+{"name":"veloster-geom","vers":"0.1.10","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62c2c4e5e5e276f7e9d09fc4ee194d01b46e17b1a6e4e45f13210dc34589663e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-11T23:29:59Z"}
