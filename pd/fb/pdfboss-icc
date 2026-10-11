@@ -30,3 +30,4 @@
 {"name":"pdfboss-icc","vers":"2.13.1","deps":[],"cksum":"36e1ffad8e374ec9a4e95323608cdf59f48bae2af45a0faf204d4d67f5b5a78f","features":{},"yanked":false,"pubtime":"2026-10-03T12:33:41Z"}
 {"name":"pdfboss-icc","vers":"2.13.2","deps":[],"cksum":"31e9fa88e03e04f8e2ef16e089856efe836a6c0ff4a2cd5545a2d150f581a733","features":{},"yanked":false,"pubtime":"2026-10-11T15:44:21Z"}
 {"name":"pdfboss-icc","vers":"2.14.0","deps":[],"cksum":"8acd68d67ed712c17c260597be4b865a020ee03a35804914cd8f92f6fb09e730","features":{},"yanked":false,"pubtime":"2026-10-11T20:13:30Z"}
+{"name":"pdfboss-icc","vers":"2.14.1","deps":[],"cksum":"1e725dfa07fc788ccdf5192cdbfe6ad5245f15c196bb9fc4abdf723efd2ceccb","features":{},"yanked":false,"pubtime":"2026-10-11T21:49:06Z"}
