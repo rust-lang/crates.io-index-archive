@@ -1,0 +1,1 @@
+{"name":"veloster-color","vers":"0.1.10","deps":[{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"868077fcad24b17380b94585402093c996e0d67a11dd88acf9b395d76708f4e0","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-11T23:24:51Z"}
