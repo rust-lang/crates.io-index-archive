@@ -76,3 +76,4 @@
 {"name":"znative","vers":"0.13.30","deps":[],"cksum":"48fa2e9bc62889cd17872f23d6980691e477e6bf13ec59d11d91869e5319bef1","features":{},"yanked":false,"pubtime":"2026-10-10T17:27:51Z"}
 {"name":"znative","vers":"0.13.31","deps":[],"cksum":"4e988c9e514ed5820960ebbc7480df0546160cfd61e1d1888b575ce318f5d628","features":{},"yanked":false,"pubtime":"2026-10-11T15:26:00Z"}
 {"name":"znative","vers":"0.13.32","deps":[],"cksum":"160185b4e87a42f61bbe47e8de48f43592bf298a468f7f8049b24ae94710f4ba","features":{},"yanked":false,"pubtime":"2026-10-11T19:11:27Z"}
+{"name":"znative","vers":"0.13.33","deps":[],"cksum":"f62eb717d809035d553255e1b6d6653aba492a84e7a207d7b31cfd48de980cd2","features":{},"yanked":false,"pubtime":"2026-10-12T00:39:02Z"}
