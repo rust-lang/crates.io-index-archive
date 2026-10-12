@@ -1,0 +1,1 @@
+{"name":"shrinkfit-cli","vers":"0.1.0","deps":[{"name":"shrinkfit","req":"^0.1.0","features":["yaml"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e0dc9fed107821b142c170e9fab8c2672bef456e2726b76f3428a810fb01c35c","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-10-12T01:45:01Z"}
