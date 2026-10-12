@@ -1,0 +1,1 @@
+{"name":"veloster-mpegts","vers":"0.1.10","deps":[{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d399a4acf79438b927cf9a943829d5cc79b4a370372af994c66ae5096576230b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-12T00:00:07Z"}
