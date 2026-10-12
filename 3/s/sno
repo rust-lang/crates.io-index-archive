@@ -11,3 +11,4 @@
 {"name":"sno","vers":"1.1.3","deps":[],"cksum":"a87ec00cd2edb8142a9e5006ef7fd3d5a77881f35ed6f97628fc9e2914d46585","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-09T19:03:56Z"}
 {"name":"sno","vers":"1.1.4","deps":[],"cksum":"d4f9011101bbdbf027b66ba4f42a93c8b3a37f1fad2fb7257adefcacdba21fb4","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-10T06:46:29Z"}
 {"name":"sno","vers":"1.1.5","deps":[],"cksum":"bba5e035596503944a5278d842a1fdddb6ec9cff6d8a16c40496efc07072ab02","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-11T04:32:16Z"}
+{"name":"sno","vers":"1.1.6","deps":[],"cksum":"71b035424de555dbece22f2f0ecd07eff0f16cc526172687b9dacbf038d98468","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-12T05:07:08Z"}
