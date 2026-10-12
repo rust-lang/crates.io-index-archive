@@ -35,3 +35,4 @@
 {"name":"inillucent-alloc","vers":"2.5.2","deps":[],"cksum":"4f6ffed2920221ad1a7808c28d5caf086aa2eb742c1e28e9ec4ec53264a26828","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-11T04:24:55Z"}
 {"name":"inillucent-alloc","vers":"2.5.3","deps":[],"cksum":"01b1c18f5d31193aa63e1bc8ec5288f8729627c6b8768cbb26eea845c4185ec9","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-11T05:56:49Z"}
 {"name":"inillucent-alloc","vers":"2.5.4","deps":[],"cksum":"14432086c7be0d831e95e3bdf41631e688e8be18d9a5b1a1be66812869a6f7b2","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-11T14:02:30Z"}
+{"name":"inillucent-alloc","vers":"2.5.5","deps":[],"cksum":"7d6c170cd95036e092dfc58c4fba4edeee3ae1637366302f767d020cfcf215f3","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-12T06:56:25Z"}
