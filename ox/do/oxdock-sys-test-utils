@@ -24,3 +24,4 @@
 {"name":"oxdock-sys-test-utils","vers":"0.24.3-alpha","deps":[],"cksum":"17235730a695f54d6ded67fea9b135ff809fea29c26d2c024c11aa72d39076f2","features":{},"yanked":false,"pubtime":"2026-10-11T02:21:58Z"}
 {"name":"oxdock-sys-test-utils","vers":"0.24.4-alpha","deps":[],"cksum":"286cdeb49589fca7531fa4a0ecdf664b0ce75fb7587bc8f3cee8a32204ce9203","features":{},"yanked":false,"pubtime":"2026-10-11T15:14:51Z"}
 {"name":"oxdock-sys-test-utils","vers":"0.24.5-alpha","deps":[],"cksum":"d4f6aef9f2900a945fd4b33198cfc3620b69a28723781a85f00626ddbd8c4061","features":{},"yanked":false,"pubtime":"2026-10-11T21:52:22Z"}
+{"name":"oxdock-sys-test-utils","vers":"0.25.0-alpha","deps":[],"cksum":"414672ea10bcb903352f6803fa7a20c2a25d2fd7e12f858f8e539885c83228bd","features":{},"yanked":false,"pubtime":"2026-10-12T03:55:35Z"}
