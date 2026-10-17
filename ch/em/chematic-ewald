@@ -127,3 +127,4 @@
 {"name":"chematic-ewald","vers":"1.1.4","deps":[],"cksum":"b442a77c5c441988b011814165f00e6e1b52d71ddee16b5eded4bde57d4d5996","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-14T12:00:56Z"}
 {"name":"chematic-ewald","vers":"1.1.5","deps":[],"cksum":"b4fc70c143059f39f9dcbd59f0e8d8a2bd6e782e1e592fe2ec5ca319d00178c1","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-15T21:58:04Z"}
 {"name":"chematic-ewald","vers":"1.1.6","deps":[],"cksum":"292ed63776f1f78ec31a735e4108bc344e8614e43e7629f544eac7dff878c32d","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-16T13:33:27Z"}
+{"name":"chematic-ewald","vers":"1.1.7","deps":[],"cksum":"61998de89f1a35372103d439dbdb4fbde80a30ebded90649de3f4d1b93706e9e","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-17T22:51:57Z"}
