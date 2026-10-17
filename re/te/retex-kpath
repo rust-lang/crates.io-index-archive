@@ -1,0 +1,1 @@
+{"name":"retex-kpath","vers":"0.9.0","deps":[{"name":"thiserror","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db735965383c04077a88f84cd89599b1823d9ad8b4f38e88a59cd6d6794b4f28","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-10-17T17:44:23Z"}
