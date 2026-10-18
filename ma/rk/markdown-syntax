@@ -6,3 +6,4 @@
 {"name":"markdown-syntax","vers":"0.4.0","deps":[],"cksum":"6a7f847ff336f259f8c9ff147b17883d6ec91d421fc2a292b0562fce41e039f2","features":{"default":[],"html":[]},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-08T03:28:09Z"}
 {"name":"markdown-syntax","vers":"0.5.0","deps":[],"cksum":"031ad2a8b82c31cac3d02ed94f03de3c0bb0ef72b88ef943548278f06603c6d4","features":{"default":[],"html":[]},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-17T04:45:27Z"}
 {"name":"markdown-syntax","vers":"0.6.0","deps":[],"cksum":"0fc13691a907c3114fd5001a71c5f22196ea0b8bde1339b39c749095753f24e9","features":{"default":[],"html":[]},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-18T03:27:36Z"}
+{"name":"markdown-syntax","vers":"0.7.0","deps":[],"cksum":"a6c1847ec754e93bf6960c98f6721c8c00b81b11b6418ebea2c03d7c3af8bce7","features":{"default":[],"html":[]},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-18T03:58:48Z"}
