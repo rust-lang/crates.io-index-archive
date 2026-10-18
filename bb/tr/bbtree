@@ -1,0 +1,1 @@
+{"name":"bbtree","vers":"0.1.1","deps":[{"name":"shuttle","req":"^0.9.7","features":[],"optional":false,"default_features":true,"target":"cfg(shuttle)","kind":"dev"}],"cksum":"5e5cd7a67ab5ef3208d73af7a90db437b92de6060c38dcbf0c16783e1f6017b7","features":{"inspect":[]},"yanked":false,"pubtime":"2026-10-18T01:21:57Z"}
