@@ -98,3 +98,4 @@
 {"name":"znative","vers":"0.13.52","deps":[],"cksum":"6d85bca8bcd8a3b8367b6079a498d64f4bb25089f651a7c3cbd6478dbe2f744f","features":{},"yanked":false,"pubtime":"2026-10-18T00:05:22Z"}
 {"name":"znative","vers":"0.13.53","deps":[],"cksum":"2bb399772a0daf96292924e27282ed0c243921a19069f5dca855e5765df454a6","features":{},"yanked":false,"pubtime":"2026-10-18T01:52:22Z"}
 {"name":"znative","vers":"0.13.54","deps":[],"cksum":"8fbd22abd974587374d85d7cdf8abf4949da5090292431b541239025e2193f99","features":{},"yanked":false,"pubtime":"2026-10-18T04:32:47Z"}
+{"name":"znative","vers":"0.13.55","deps":[],"cksum":"e85d8f35f30ef1246daebd1a73641bbd743298bac849bdfc4e50f3bdcd4818d0","features":{},"yanked":false,"pubtime":"2026-10-18T06:13:07Z"}
