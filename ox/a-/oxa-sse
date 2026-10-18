@@ -8,3 +8,4 @@
 {"name":"oxa-sse","vers":"2.3.0","deps":[],"cksum":"3c4cf792a1593202f1821b249272ce3c662919f6a4ea1a612c4f5e7f10586a63","features":{},"yanked":false,"pubtime":"2026-10-16T15:02:08Z"}
 {"name":"oxa-sse","vers":"2.3.1","deps":[],"cksum":"a4d4990c2379ec0bc242e67b82efe88e8110ebbbe4ce405cd67cf172eff9995c","features":{},"yanked":false,"pubtime":"2026-10-17T02:18:28Z"}
 {"name":"oxa-sse","vers":"2.4.0","deps":[],"cksum":"e9a7c9ec99c8563ca58623460d123d7c3268585edb591f8746be08c9f039cddb","features":{},"yanked":false,"pubtime":"2026-10-18T10:38:52Z"}
+{"name":"oxa-sse","vers":"2.4.1","deps":[],"cksum":"c0accae49ec9e19ab7f54c526bba02098f0601ffda6bbcdb085970e8ff8300be","features":{},"yanked":false,"pubtime":"2026-10-18T13:44:36Z"}
