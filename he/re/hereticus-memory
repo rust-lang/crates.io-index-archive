@@ -1,0 +1,1 @@
+{"name":"hereticus-memory","vers":"0.1.0","deps":[{"name":"bolero","req":"^0.13","features":["arbitrary"],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"581ebbad5047a5cd35548dca8ca3331bda2189f0f6c9089e9a23f38b140dce22","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-10-18T23:17:06Z"}
