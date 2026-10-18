@@ -3,3 +3,4 @@
 {"name":"iowatchd","vers":"0.4.1","deps":[],"cksum":"8b157e5ac3a9cb5cc84921eb46c6b159d27b203dbc28cc9993ae9bc31dff6d8f","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-10-17T17:16:06Z"}
 {"name":"iowatchd","vers":"0.4.2","deps":[],"cksum":"1493fdca75166d680c83af8a17434ba877226c1b7f2e538670d9e1ad8dde6bfe","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-10-17T17:55:20Z"}
 {"name":"iowatchd","vers":"0.5.0","deps":[],"cksum":"c748b59d8fa84d714df888d58dfbb1afc0d2e4d8821af07b35c913f914c121ba","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-10-18T00:04:52Z"}
+{"name":"iowatchd","vers":"0.5.1","deps":[],"cksum":"a2d221b6c452db5ae375a8186f3299e7fb140e640c5369e0f71e82214139aba9","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-10-18T00:35:28Z"}
