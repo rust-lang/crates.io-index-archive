@@ -13,3 +13,4 @@
 {"name":"ranged_integers","vers":"0.10.0","deps":[],"cksum":"de3310fe73ce1095bd6d55a723ea102f60a20b6a93486bfac5cde02d99f81f85","features":{},"yanked":false,"pubtime":"2025-06-21T16:12:13Z"}
 {"name":"ranged_integers","vers":"0.10.1","deps":[],"cksum":"72569435037dec75e29c31df1a19f8ec411e95dd0d07b88791241521800edb70","features":{},"yanked":false,"pubtime":"2025-06-24T16:28:30Z"}
 {"name":"ranged_integers","vers":"0.11.0","deps":[],"cksum":"987cc9ce5f8e9004de090e7188230d53303239a5ecc457270d5665e045e50a98","features":{},"yanked":false,"pubtime":"2026-01-31T20:31:29Z"}
+{"name":"ranged_integers","vers":"0.12.0","deps":[],"cksum":"665674e404f912d7f454aca45fc34c64b4bd93f4041fe5787acc7e329005d519","features":{},"yanked":false,"pubtime":"2026-10-18T07:19:58Z"}
