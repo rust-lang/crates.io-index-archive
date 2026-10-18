@@ -1,0 +1,1 @@
+{"name":"yog-ids","vers":"0.1.0","deps":[{"name":"const_format","req":"^0.2.36","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"af6d4b8a31898bc9bfaeff1dafdde8b93abc62ddaaa39fcdb23bec7959bfed92","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-18T10:52:08Z"}
