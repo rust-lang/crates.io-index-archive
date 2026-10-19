@@ -1,0 +1,1 @@
+{"name":"dragonfly-hashring","vers":"0.1.0","deps":[{"name":"siphasher","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"59e43074b7fb79ea790cc08569e48a70b786b2dd700d5ce94743ac763bcd4001","features":{},"yanked":false,"pubtime":"2026-10-19T07:45:21Z"}
