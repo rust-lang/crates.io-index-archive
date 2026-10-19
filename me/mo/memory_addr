@@ -8,3 +8,4 @@
 {"name":"memory_addr","vers":"0.4.0","deps":[],"cksum":"3d4054cba279515fa87761b101d857333ce06391dbe8f18a11347204a7111416","features":{},"yanked":false,"rust_version":"1.70.0","pubtime":"2025-06-12T06:59:49Z"}
 {"name":"memory_addr","vers":"0.4.1","deps":[],"cksum":"b1f0625c50adb5f6aaf47f05cae3c4dbc13a74c659241b06c4576f3d7e1da940","features":{},"yanked":false,"rust_version":"1.70.0","pubtime":"2025-11-23T14:19:20Z"}
 {"name":"memory_addr","vers":"0.6.1","deps":[],"cksum":"f941093c7509897c695772b0c905ed9696b004533db993acc1b17cc28e2e7f6d","features":{},"yanked":true,"rust_version":"1.70.0","pubtime":"2026-04-02T03:07:21Z"}
+{"name":"memory_addr","vers":"0.5.0-alpha.const-addr-and-ranges.0","deps":[{"name":"trybuild","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"061eebd3df65ac8adfd4cdcb58b2db171e52c0dfb0028a50677c9182eba2a57e","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-10-19T08:10:23Z"}
