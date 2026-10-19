@@ -1,0 +1,1 @@
+{"name":"sillstone-cdc","vers":"0.2.0-beta.1","deps":[{"name":"sillstone-digest","req":"^0.2.0-beta.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"56a5dfa13aa45526d9bf53f01f97c448189565767492857b14b8061d532e130a","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-19T03:26:15Z"}
