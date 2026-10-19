@@ -56,3 +56,4 @@
 {"name":"sva-formula","vers":"0.14.9","deps":[],"cksum":"04473e64c16b4d06deab105904a1e5f08630603e0b6ced33630f1611ac465509","features":{},"yanked":false,"pubtime":"2026-10-18T18:40:01Z"}
 {"name":"sva-formula","vers":"0.14.10","deps":[],"cksum":"a633ae2edac64289880019ed256a9839f02b090644c9d622d798a6ef2f19e74e","features":{},"yanked":false,"pubtime":"2026-10-18T20:05:35Z"}
 {"name":"sva-formula","vers":"0.14.11","deps":[],"cksum":"04583374996c95c0249bc9194d9b87a9c0a0dd3a3fec341acb298b7a645d04eb","features":{},"yanked":false,"pubtime":"2026-10-18T20:56:37Z"}
+{"name":"sva-formula","vers":"0.14.12","deps":[],"cksum":"e7aeb7a9b97a614a671cf76edbebba680d6050183af454bded8005e9c59bcc26","features":{},"yanked":false,"pubtime":"2026-10-19T01:51:03Z"}
