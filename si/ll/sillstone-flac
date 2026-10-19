@@ -1,0 +1,1 @@
+{"name":"sillstone-flac","vers":"0.2.0-beta.1","deps":[{"name":"sillstone-digest","req":"^0.2.0-beta.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"93623f58f3bded6887fa42c3865770a5259ffe10b6a8b95eb8a45758e86cbb81","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-19T01:38:46Z"}
