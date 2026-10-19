@@ -1,0 +1,1 @@
+{"name":"sillstone-h264","vers":"0.2.0-beta.1","deps":[{"name":"sillstone-digest","req":"^0.2.0-beta.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2c972fe52ec02b5a9ea49c5486f82b10dd12aafd25712340d69783e5eee6dcc3","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-19T03:26:02Z"}
