@@ -16,3 +16,4 @@
 {"name":"create-promptex-rs","vers":"1.4.0","deps":[],"cksum":"a1c42f23c2f62551ab779eb12672d08b99067c9c1741d6c81019098122fd6ac3","features":{},"yanked":false,"pubtime":"2026-10-24T07:35:30Z"}
 {"name":"create-promptex-rs","vers":"1.5.0-alpha.1","deps":[],"cksum":"8080e33d8d583a4012635d72d8538ef47766503b362638fa8a6f32f4c3e323c2","features":{},"yanked":false,"pubtime":"2026-10-24T18:44:13Z"}
 {"name":"create-promptex-rs","vers":"1.5.0-beta.1","deps":[],"cksum":"9ae03ca99db006dcb19643d509b80bf99458182c58e4319baa3b42b0e2f1ebbe","features":{},"yanked":false,"pubtime":"2026-10-24T19:04:05Z"}
+{"name":"create-promptex-rs","vers":"1.5.0-rc.1","deps":[],"cksum":"e15c54be365466e9dccf363685b566289439c860e179b8326392b1f2bc7fb642","features":{},"yanked":false,"pubtime":"2026-10-24T20:41:46Z"}
