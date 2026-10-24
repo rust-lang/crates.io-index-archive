@@ -60,3 +60,4 @@
 {"name":"haste-rate-limit","vers":"0.126.33","deps":[],"cksum":"1565e2ff4db6d96739f1b757d27760ca1e850ebe058c134621249acba32da8a8","features":{},"yanked":false,"pubtime":"2026-10-24T04:43:35Z"}
 {"name":"haste-rate-limit","vers":"0.126.34","deps":[],"cksum":"9a23e3de3355d72e4fd305d743a0dcac44e99af39ec703075f8b3fe637398fed","features":{},"yanked":false,"pubtime":"2026-10-24T17:28:27Z"}
 {"name":"haste-rate-limit","vers":"0.126.35","deps":[],"cksum":"a7847ef2de44ea265b61392fe634910230d72c2a1c68454c00fbd1a1ca60dd56","features":{},"yanked":false,"pubtime":"2026-10-24T18:43:55Z"}
+{"name":"haste-rate-limit","vers":"0.126.36","deps":[],"cksum":"82a3c1fe347f66e56aca5054ac468d9b720f103a9ad784c937c1d5ee3c492f17","features":{},"yanked":false,"pubtime":"2026-10-24T22:41:42Z"}
