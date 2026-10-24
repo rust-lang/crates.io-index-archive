@@ -1,0 +1,1 @@
+{"name":"nextcloud-dav","vers":"0.1.1","deps":[{"name":"nextcloud-sdk-core","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4e27c066096a52cb5d53dc7184ecb066e201d555b8ebd3c98cb1e64b380e0aa1","features":{},"yanked":false,"pubtime":"2026-10-24T19:40:45Z"}
