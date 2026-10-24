@@ -1,0 +1,1 @@
+{"name":"git-zero-client","vers":"0.1.0","deps":[{"name":"git-zero-core","req":"^0.1.0","features":["read"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8dd169e07db1fe12e8d75d4d02489daec0b477b5d71e345dc8b85e742ce4e0e8","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-24T21:54:49Z"}
