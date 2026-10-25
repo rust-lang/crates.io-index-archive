@@ -1,0 +1,1 @@
+{"name":"sillstone-qoi","vers":"0.3.0-beta.1","deps":[{"name":"sillstone-digest","req":"^0.3.0-beta.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6a3c9ffdfdfc78b1656146ee1d0a7acc9688af468cbb6bfa4caf5ed8e312cc17","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-25T13:29:23Z"}
