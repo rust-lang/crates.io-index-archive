@@ -9,3 +9,4 @@
 {"name":"cure-engine","vers":"0.1.8","deps":[],"cksum":"3a07075dad3d5e418c05f96c01cac4a1041db3f5fdcc530973f3174850adad2e","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-10-11T04:59:47Z"}
 {"name":"cure-engine","vers":"0.1.9","deps":[],"cksum":"5203498f3e0ef68a2d2528743de5c99e529b74037203a1ac0b81f3c5ae358fc8","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-10-22T10:53:21Z"}
 {"name":"cure-engine","vers":"0.1.10","deps":[],"cksum":"056d17da9b4adb02c175a07f408a99987d62a0909aa20e5cb21d32445ea12a56","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-10-25T04:34:33Z"}
+{"name":"cure-engine","vers":"0.1.11","deps":[],"cksum":"1c6c6af8e9973c448552d5cc0edc3e7b4f9c1116119cfb5b8031458ea199ff33","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-10-25T06:55:30Z"}
