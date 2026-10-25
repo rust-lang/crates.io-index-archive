@@ -5,3 +5,4 @@
 {"name":"vix-workspace-dashboard-panel","vers":"1.5.0","deps":[],"cksum":"3ff1cd618c77a196e8591f5c383d698625151d785d5faa71a28fa7e3221c0152","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-05T23:22:22Z"}
 {"name":"vix-workspace-dashboard-panel","vers":"1.7.0","deps":[],"cksum":"04c46ddaf54bdc0b1b73cd91c1af5a93c2541e87ba8136c4b5afb8d3082bba5f","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-20T22:45:51Z"}
 {"name":"vix-workspace-dashboard-panel","vers":"1.7.1","deps":[],"cksum":"25c98807ff1490d309a8b34b35119102bfca85a0d02f1e16aa59f348d174df4b","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-21T10:18:12Z"}
+{"name":"vix-workspace-dashboard-panel","vers":"1.8.0","deps":[],"cksum":"80947aa3a7b6d49b76077e10cfb4dafedbcab39923d93ae7a2db0c63835d5df1","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-25T06:58:37Z"}
