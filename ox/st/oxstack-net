@@ -1,0 +1,1 @@
+{"name":"oxstack-net","vers":"0.1.0","deps":[{"name":"defmt","req":"^1.0.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f86adeade6abec76704013b0e71baaec54ab84863bb4702b1722300402268b19","features":{},"features2":{"defmt":["dep:defmt"]},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-25T06:24:11Z","v":2}
