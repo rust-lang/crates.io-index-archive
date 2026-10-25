@@ -5,3 +5,4 @@
 {"name":"vix-time-zone-model","vers":"1.5.0","deps":[],"cksum":"30e35c2bf74028c03fb42b95973ac75dc4403f29ac2a9351079f1361728c14e2","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-05T23:23:05Z"}
 {"name":"vix-time-zone-model","vers":"1.7.0","deps":[],"cksum":"46db59329b98a5b5d6ea849f73a19fd061c2ad5413919f2315062a1e3337926d","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-20T20:25:47Z"}
 {"name":"vix-time-zone-model","vers":"1.7.1","deps":[],"cksum":"24dd69fb530feeb13f0e90959d0ea6f25d8baeebc73457fb27d28405226f25ab","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-21T08:55:56Z"}
+{"name":"vix-time-zone-model","vers":"1.8.0","deps":[],"cksum":"6cbcb84e8917c0c53f5420d36297897eaae11fae31c2bb8278e22cbaf4323226","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-25T05:35:03Z"}
