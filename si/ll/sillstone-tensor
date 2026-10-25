@@ -1,0 +1,1 @@
+{"name":"sillstone-tensor","vers":"0.3.0-beta.1","deps":[{"name":"sillstone-digest","req":"^0.3.0-beta.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2e53168ebe3f1736a1d7dbf2b0158220a0833d7699eaf8baa6780d62a8ea195c","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85.0","pubtime":"2026-10-25T13:29:30Z"}
