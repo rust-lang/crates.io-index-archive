@@ -1,0 +1,1 @@
+{"name":"ntfs-ng","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.8.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ac284eb38429095bc4ae817023530313136bfc1a997f90c2da4bcaf6304872e3","features":{"default":["std"],"std":[],"testing":["std"]},"yanked":false,"rust_version":"1.99","pubtime":"2026-10-25T15:31:38Z"}
