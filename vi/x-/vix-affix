@@ -5,3 +5,4 @@
 {"name":"vix-affix","vers":"1.5.0","deps":[],"cksum":"077d38a65f8f26459ebb9379cfb4dc27536e7513453cb461af03e3293755b55e","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-05T21:45:53Z"}
 {"name":"vix-affix","vers":"1.7.0","deps":[],"cksum":"91b8470542692b102fde7d0c447e72b4c04dfd5add3cf7f83d3f1d76de80393d","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-20T19:57:10Z"}
 {"name":"vix-affix","vers":"1.7.1","deps":[],"cksum":"7fbbbbdf00835d9c1133091aad54507c99df187ae3e0807e2008a196039623e4","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-21T08:47:04Z"}
+{"name":"vix-affix","vers":"1.8.0","deps":[],"cksum":"dd6ebc914c3b69b17ea7f3f30cf37e5c25c72b1217a788bd80779a3a0f50cce4","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-25T05:29:35Z"}
