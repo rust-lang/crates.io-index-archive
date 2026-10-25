@@ -11,3 +11,4 @@
 {"name":"id_effect_macro","vers":"0.10.0","deps":[],"cksum":"c71965f8244c79f69d39dc45c9ea96041600f1714bac36156e5f2d8204095cbb","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-10-18T02:54:21Z"}
 {"name":"id_effect_macro","vers":"0.10.1","deps":[],"cksum":"cbc685bf56cb03bf88effc9ec1a00be58ad4e154cd5590f4163d8a7fcb26601c","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-10-18T07:32:58Z"}
 {"name":"id_effect_macro","vers":"0.12.0","deps":[],"cksum":"552cbafa5bcbfc75d02cf5d604e992a91ae61a599e44a3dccce0f36c3a84ca3c","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-10-21T13:07:08Z"}
+{"name":"id_effect_macro","vers":"0.13.0","deps":[],"cksum":"5beb87e349171f6422861291d91706561437f481c4abd032e5d1ea4c0860f00e","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-10-25T22:15:41Z"}
