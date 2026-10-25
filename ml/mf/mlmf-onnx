@@ -1,0 +1,1 @@
+{"name":"mlmf-onnx","vers":"0.7.11","deps":[{"name":"mlmf-core","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d9076666f67857b8bd7adc8b42364461690dbcfcba04e784eb834ceaead64fcd","features":{},"yanked":false,"pubtime":"2026-10-25T10:47:39Z"}
