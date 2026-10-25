@@ -5,3 +5,4 @@
 {"name":"vix-pomodoro-tool","vers":"1.5.0","deps":[],"cksum":"be22786c8531b3aa9630acb36b5db2a8801ce37dc513a6f5a27388abfbe94470","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-08-05T23:24:54Z"}
 {"name":"vix-pomodoro-tool","vers":"1.7.0","deps":[],"cksum":"79fa645ddee7f96451a715d2225f07a6ad06612b0e275e3168f4d69bbac892de","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-20T21:54:39Z"}
 {"name":"vix-pomodoro-tool","vers":"1.7.1","deps":[],"cksum":"ee1cb400e6d9d345ab30c742eba444eaada194fb7997af74d11c4b5afb42b9dd","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-21T09:59:30Z"}
+{"name":"vix-pomodoro-tool","vers":"1.8.0","deps":[],"cksum":"c14b2e1fb62e770a8e094e2d0237b711e1ce333fd5237bf9e69f5251854836d5","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-10-25T06:30:25Z"}
