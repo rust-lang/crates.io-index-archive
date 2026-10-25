@@ -18,3 +18,4 @@
 {"name":"rapidstr2int","vers":"1.0.19","deps":[],"cksum":"14be731eb9672620bcf42cef3d7b050e74ee42393b0676eb932f6b87163d4580","features":{},"yanked":false,"pubtime":"2026-10-10T08:32:17Z"}
 {"name":"rapidstr2int","vers":"1.0.20","deps":[],"cksum":"14926083a199cee24a45576983df77a8b86ebb87bcd658ee40c77f86832ca38d","features":{},"yanked":false,"pubtime":"2026-10-15T13:37:58Z"}
 {"name":"rapidstr2int","vers":"1.0.21","deps":[],"cksum":"eb2db57f3b195ee041011d35ae9a1480b1cacecceb62e1b2563737964235798d","features":{},"yanked":false,"pubtime":"2026-10-15T13:49:25Z"}
+{"name":"rapidstr2int","vers":"1.0.23","deps":[],"cksum":"1b4be357a857e4cf30887022e1c80163f21cf3956b0ac4863641a145c7e5dce4","features":{},"yanked":false,"pubtime":"2026-10-25T15:39:33Z"}
