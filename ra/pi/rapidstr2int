@@ -21,3 +21,4 @@
 {"name":"rapidstr2int","vers":"1.0.23","deps":[],"cksum":"1b4be357a857e4cf30887022e1c80163f21cf3956b0ac4863641a145c7e5dce4","features":{},"yanked":false,"pubtime":"2026-10-25T15:39:33Z"}
 {"name":"rapidstr2int","vers":"1.0.24","deps":[],"cksum":"772cca476048dff6027372e8eb3e12b6f32471077dc60b7bb053233a5f294b78","features":{},"yanked":false,"pubtime":"2026-10-25T17:54:23Z"}
 {"name":"rapidstr2int","vers":"1.0.26","deps":[],"cksum":"fd84419d2982a593d2c0bab0f81a7d9dbf81fb147577dca18bc64be51b42231b","features":{},"yanked":false,"pubtime":"2026-10-26T03:10:35Z"}
+{"name":"rapidstr2int","vers":"1.0.27","deps":[],"cksum":"cfe087c4cd99a2595b6c4d481340e7297197f38aabc394054fca754883ed0854","features":{},"yanked":false,"pubtime":"2026-10-26T03:24:22Z"}
