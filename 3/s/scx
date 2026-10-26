@@ -3,3 +3,4 @@
 {"name":"scx","vers":"0.6.0","deps":[],"cksum":"40aa375cfec7928bb9d0e442980f5b5cadd1e3769ecf3362aa3338d8fe6ed052","features":{"default":[],"semantic":[]},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-25T18:55:47Z"}
 {"name":"scx","vers":"0.6.1","deps":[],"cksum":"05b3f6fad8821a98e1afbc2f4b710da2587af89d00907abc17ebfb88dc0e1a4f","features":{"default":[],"semantic":[]},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-25T19:57:27Z"}
 {"name":"scx","vers":"0.6.2","deps":[],"cksum":"0ca06cf7bdb9f589c953359cf0d1101ff9c66606cd692f93c56e7ddce9b55945","features":{"default":[],"semantic":[]},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-25T23:20:16Z"}
+{"name":"scx","vers":"0.6.4","deps":[],"cksum":"13f380d5b5dec5a9f6bc9a3306f4edc036a7e25c59913243a873ae15269b4e8b","features":{"default":[],"semantic":[]},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-26T00:35:47Z"}
