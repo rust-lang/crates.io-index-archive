@@ -1,0 +1,1 @@
+{"name":"nadir-codec","vers":"0.1.0","deps":[{"name":"nadir-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"def197fa56cdb2feba9900c4be947b080c60ac8509ff86c8f6467b930d48e4cf","features":{"png":[]},"yanked":false,"pubtime":"2026-11-01T21:19:58Z"}
