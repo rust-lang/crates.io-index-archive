@@ -15,3 +15,4 @@
 {"name":"cop-cfg","vers":"0.2.3","deps":[],"cksum":"da9e2a133d4eba3b488b226bbd5ef95090c0452afbf1ed6e5f6b80a025631301","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-29T08:18:43Z"}
 {"name":"cop-cfg","vers":"0.2.4","deps":[],"cksum":"f7144488b2a3287d418d44faf29768f57bfb4790763aa27e4d8e0839e3fe69bb","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-29T08:47:41Z"}
 {"name":"cop-cfg","vers":"0.2.5","deps":[],"cksum":"1514105e36719b41e4085cf459a523b99aaec69ea141bf1273fb58b594f65c8d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-29T09:58:49Z"}
+{"name":"cop-cfg","vers":"0.2.6","deps":[],"cksum":"58f04d43fae9b9ccfc478961862014450d026a861e191af70995147f2577c830","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-01T09:52:40Z"}
