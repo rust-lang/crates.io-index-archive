@@ -17,3 +17,4 @@
 {"name":"ic-logging","vers":"0.23.4","deps":[],"cksum":"746bbb782344df20429a5dcca4b4292889b8d04a9b2a0a2c8ffe8a125c1856c3","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-11-01T07:52:45Z"}
 {"name":"ic-logging","vers":"0.23.5","deps":[],"cksum":"b7cf3f28a20e059b02dff7095d80a448fd0a26043ea7a3a350970b9bce1f23d1","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-11-01T08:58:44Z"}
 {"name":"ic-logging","vers":"0.23.6","deps":[],"cksum":"6ea8e3fb4a31f52199d0214a78582f5be9aa5aa52a033d36ed0615dca7b3ba53","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-11-01T12:55:23Z"}
+{"name":"ic-logging","vers":"0.23.7","deps":[],"cksum":"868a4bd157d8baebc03708c7dcbff485a49db1ff86160d6ee142c4bb37fe7bb9","features":{},"yanked":false,"rust_version":"1.91.0","pubtime":"2026-11-01T16:03:48Z"}
