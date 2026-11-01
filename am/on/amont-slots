@@ -3,3 +3,4 @@
 {"name":"amont-slots","vers":"1.64.0","deps":[],"cksum":"4391baf12e9da706e3ff97304569bde1284e8392b6d633984a576b3e171deed7","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-10-29T21:49:21Z"}
 {"name":"amont-slots","vers":"1.65.0","deps":[],"cksum":"46adbaa4cadbee7513a172fd78900d065d5959a280a4a539d1b0cad267f814cc","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-10-31T21:45:56Z"}
 {"name":"amont-slots","vers":"1.65.1","deps":[],"cksum":"026c8a81be62139c07cb72b2036445bb67a44f36c9e504b0868fd696239f0d8f","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-11-01T01:34:34Z"}
+{"name":"amont-slots","vers":"1.66.0","deps":[],"cksum":"864181bc838cb6ca96968f0cf2ce0d3a95ee57a95ef41158c3a484f28056e533","features":{},"yanked":false,"rust_version":"1.74","pubtime":"2026-11-01T03:41:21Z"}
