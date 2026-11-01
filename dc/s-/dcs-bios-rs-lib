@@ -1,0 +1,1 @@
+{"name":"dcs-bios-rs-lib","vers":"0.2.0","deps":[{"name":"heapless","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9adea8daa05632073c0d6b3d816448aaf72df95c8610dc5087b90f0f544c3de","features":{},"yanked":false,"pubtime":"2026-11-01T11:07:13Z"}
