@@ -1,0 +1,1 @@
+{"name":"oj_tsrs_diagnostics","vers":"0.3.3","deps":[{"name":"rustc-hash","req":"^2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6cb0eea8da338c9077a984bc33f664ff536e60c131ba321166f5f36b182d0d15","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-01T09:37:37Z"}
