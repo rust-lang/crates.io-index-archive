@@ -1,0 +1,1 @@
+{"name":"ravenrs-style","vers":"0.1.0","deps":[{"name":"ravenrs-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ee418ba360ecae3d14aaae9b1d6ba358d47eb444296bbaed8dc97c098eb30f2","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-01T00:47:24Z"}
