@@ -15,3 +15,4 @@
 {"name":"crcbl-spawn","vers":"0.13.0","deps":[],"cksum":"bd5498509301d555d1e0feed12e1f264126516dae9da35a9edc75d3ecbef5c79","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-10-29T09:40:18Z"}
 {"name":"crcbl-spawn","vers":"0.14.0","deps":[],"cksum":"a9ce8c3d2d61dd47eb47f6e028403ab8b4c63a845b5d460cb8a7e61e64c0b74d","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-10-31T08:30:00Z"}
 {"name":"crcbl-spawn","vers":"0.15.0","deps":[],"cksum":"e9b87a440c34b238f6c2fb744017c7fdbb819005259d50d91d4c74cbb9bf9177","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-01T06:50:02Z"}
+{"name":"crcbl-spawn","vers":"0.16.0","deps":[],"cksum":"69d677aea710f52789ff4bbce7024d1c2cdd4b602304c7c90f33745e73eba458","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-01T13:46:04Z"}
