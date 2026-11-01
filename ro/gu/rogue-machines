@@ -1,0 +1,1 @@
+{"name":"rogue-machines","vers":"0.1.0","deps":[],"cksum":"0cef8af18cfcacc6d23e29e14f958225379dc8d027d7d5998b497b805de4ddf8","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-01T09:27:43Z"}
