@@ -14,3 +14,4 @@
 {"name":"pdfcer-color","vers":"0.112.0","deps":[],"cksum":"5a8fbbf18501a9b50e6931d4653d7ec5ddf5d6f593685a0e191b6746b85f0195","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-10-31T15:42:59Z"}
 {"name":"pdfcer-color","vers":"0.113.0","deps":[],"cksum":"2d8d4cde0521c7b35bb1ddfc89d82262864ea3da3210d93826311f826d1f22a5","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-10-31T21:11:57Z"}
 {"name":"pdfcer-color","vers":"0.114.0","deps":[],"cksum":"a527a49d9a2707a70676bac6a06b94d9098d2b9b9e9e85de9ca954054ae92c7f","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-11-01T07:11:29Z"}
+{"name":"pdfcer-color","vers":"0.115.0","deps":[],"cksum":"6e0d263641b409db1c538cb28b3b076f193d194c6e036fcc3c831b724ae0f80b","features":{},"yanked":false,"rust_version":"1.92","pubtime":"2026-11-01T11:17:47Z"}
