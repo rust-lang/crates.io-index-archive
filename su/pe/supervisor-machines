@@ -1,0 +1,1 @@
+{"name":"supervisor-machines","vers":"0.1.0","deps":[],"cksum":"37072c910db84094d82d39c882a79230e0b6b653a7895c23ae43febd5370008d","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-01T04:41:38Z"}
