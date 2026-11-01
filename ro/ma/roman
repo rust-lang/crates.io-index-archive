@@ -11,3 +11,4 @@
 {"name":"roman","vers":"0.1.6","deps":[],"cksum":"d2c543f0c827ae24df93159810fd4bce2d0abe3785bb4c4d68fae3c467d58d9b","features":{},"yanked":false,"pubtime":"2017-09-11T11:01:36Z"}
 {"name":"roman","vers":"0.2.0","deps":[],"cksum":"2c78d795ff349dea7ef07d4004a2e1181ec0d4a7e00193098dcd6c96a61c1503","features":{},"yanked":false,"pubtime":"2026-06-03T10:52:24Z"}
 {"name":"roman","vers":"0.2.1","deps":[],"cksum":"c9f88af150ddaeec4dc9b1a80061ecb0f5459e1c720ebe15ebb2b93f4e6b6272","features":{},"yanked":false,"pubtime":"2026-06-19T17:54:37Z"}
+{"name":"roman","vers":"0.2.2","deps":[],"cksum":"b4c7fe559c309120383a8eda75b4ec30dc476431dc2b6603f24217ea96a626ba","features":{},"yanked":false,"pubtime":"2026-11-01T20:28:22Z"}
