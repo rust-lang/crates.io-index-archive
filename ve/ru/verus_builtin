@@ -23,3 +23,4 @@
 {"name":"verus_builtin","vers":"0.0.0-2026-09-06-0133","deps":[],"cksum":"856c9979b5ed3b75a2371d8667602da1839ab0cbb3720a2c1c8a182bcdb27cf7","features":{},"yanked":false,"pubtime":"2026-09-06T01:33:44Z"}
 {"name":"verus_builtin","vers":"0.0.0-2026-09-16-0054","deps":[],"cksum":"5e4a9e69d45ddbe303075756d3fc2fcc965eb9dc70c80651d0e4458a6af1ed83","features":{},"yanked":false,"pubtime":"2026-09-16T00:54:47Z"}
 {"name":"verus_builtin","vers":"0.0.0-2026-10-11-0230","deps":[],"cksum":"d2e5d0972903f31da5271f50645c402122804a4e5292e1694706977ce18cbe67","features":{},"yanked":false,"pubtime":"2026-10-11T02:30:17Z"}
+{"name":"verus_builtin","vers":"0.0.0-2026-11-01-0251","deps":[],"cksum":"b5cecde3e49b95f670dee0000707b0fe24d3894ffec56d9e6c49f404878b30e9","features":{},"yanked":false,"pubtime":"2026-11-01T02:51:29Z"}
