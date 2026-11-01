@@ -1,0 +1,1 @@
+{"name":"merge-machines","vers":"0.1.0","deps":[],"cksum":"8a30eddb8d524ce71662d11b3cafadbfc0334cd523d3d8acd5a01abfd88d8aa3","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-01T04:36:59Z"}
