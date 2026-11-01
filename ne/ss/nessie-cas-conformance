@@ -1,0 +1,1 @@
+{"name":"nessie-cas-conformance","vers":"0.4.0","deps":[{"name":"nessie-backend-core","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"80e308ed9d32428fb0036357da97573e1f9e071ca6aab16360e503468d1bb564","features":{},"yanked":false,"rust_version":"1.96","pubtime":"2026-11-01T22:14:37Z"}
