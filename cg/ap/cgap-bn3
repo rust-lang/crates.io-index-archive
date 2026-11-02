@@ -1,0 +1,1 @@
+{"name":"cgap-bn3","vers":"26.11.1","deps":[{"name":"cgap-blake3","req":"^26.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"538b1e554902b7f34c2b54fe34241d27c1c0c59835ed178517dec001495f9369","features":{},"yanked":false,"pubtime":"2026-11-02T04:13:45Z"}
