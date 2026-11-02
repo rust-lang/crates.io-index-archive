@@ -8,3 +8,4 @@
 {"name":"flight-binpack","vers":"0.5.1-next.3308.79ae053","deps":[],"cksum":"4bf93bbb115ced6e43ab2596277ad20a91576703d67c2fe14c49c8ba7cb29145","features":{},"yanked":false,"pubtime":"2026-10-28T08:27:40Z"}
 {"name":"flight-binpack","vers":"0.6.0-next.10000.d9e1aab","deps":[],"cksum":"dbaeb76d923b88ffc86a5c45d6c0b7fd387a4d1bb0f90e09f3e23efaef1fe0f6","features":{},"yanked":false,"pubtime":"2026-11-01T16:23:37Z"}
 {"name":"flight-binpack","vers":"0.6.0-next.10005.12a0913","deps":[],"cksum":"dc4583ac0dfe4199c6aa831ab0437b3ac54ac96b50723a852039eedb884e9957","features":{},"yanked":false,"pubtime":"2026-11-01T20:39:31Z"}
+{"name":"flight-binpack","vers":"0.5.1-next.4305.c5b7dc0","deps":[],"cksum":"8e0b23d9e6d851e172ad7e06f5f5f82d761aece2d5b41c0ca63b53770abec022","features":{},"yanked":false,"pubtime":"2026-11-02T02:50:28Z"}
