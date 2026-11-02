@@ -1,1 +1,0 @@
-{"name":"glory-stylo-static-prefs","vers":"0.22.0","deps":[{"name":"toml","req":"^1.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"aade0f8c04d02a884224b892cf5680925503a735f70bb5d7ee662ebdd459fc43","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-01T23:48:06Z"}
