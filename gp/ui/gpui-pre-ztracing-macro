@@ -9,3 +9,4 @@
 {"name":"gpui-pre-ztracing-macro","vers":"0.3.8","deps":[],"cksum":"d337c9acf058238e45ce0570d8a5958439242889492f91ae2d8e324211a61ccd","features":{},"yanked":false,"pubtime":"2026-10-05T00:43:30Z"}
 {"name":"gpui-pre-ztracing-macro","vers":"0.3.9","deps":[],"cksum":"4b0d73e1bc02eef886a5947f41b8512708792e9e5d3053d181843311a487f96f","features":{},"yanked":false,"pubtime":"2026-10-12T00:44:47Z"}
 {"name":"gpui-pre-ztracing-macro","vers":"0.3.10","deps":[],"cksum":"e0f9dae92b9bc15baa6e530c90bdd4c689d3710bd4d18c3566deb1d6ae182daf","features":{},"yanked":false,"pubtime":"2026-10-26T00:38:14Z"}
+{"name":"gpui-pre-ztracing-macro","vers":"0.3.11","deps":[],"cksum":"99b18b06f5026b3d312488eacfdddbe78f82b4bf32bb2d2bc3186e31e552b797","features":{},"yanked":false,"pubtime":"2026-11-02T00:29:08Z"}
