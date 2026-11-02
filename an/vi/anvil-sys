@@ -9,3 +9,4 @@
 {"name":"anvil-sys","vers":"1.5.2","deps":[],"cksum":"636cf5d2027f0a0f8cb0d4820ef2831b86d6ab6cff90d2692a163d1f128b1354","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-26T20:48:36Z"}
 {"name":"anvil-sys","vers":"1.6.0","deps":[],"cksum":"069769424b57f24fb8325537796014a582493b22fb6beec44a4cf56bd34c0b0b","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-01T21:25:22Z"}
 {"name":"anvil-sys","vers":"1.6.1","deps":[],"cksum":"37ce134d4e1e11bd602818cb02a124393e39d57301fc6c5f8d620604d22cd757","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-02T00:23:11Z"}
+{"name":"anvil-sys","vers":"1.7.0","deps":[],"cksum":"4a01455d84adc54c12a97caba87e4f3b99e0087fd3976ee3e61f983b45b1a584","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-02T07:39:51Z"}
