@@ -4,3 +4,4 @@
 {"name":"schrod","vers":"1.1.2","deps":[],"cksum":"66c325dcd2a64a45791553a47419b16da5ac691364a58ccd8bb915accd3707b3","features":{},"yanked":false,"pubtime":"2026-07-31T02:55:27Z"}
 {"name":"schrod","vers":"1.1.3","deps":[],"cksum":"19902b9f1afc33d90c4487e51f49b3e03dd99463cbda259cf957418b3ba5ef9f","features":{},"yanked":false,"pubtime":"2026-07-31T03:06:17Z"}
 {"name":"schrod","vers":"1.1.4","deps":[],"cksum":"bb07ab96e817b7028ff0f3d48efb1349d686c6d3dbaa56ebca66a7a4afc0029c","features":{},"yanked":false,"pubtime":"2026-08-01T16:46:30Z"}
+{"name":"schrod","vers":"1.2.4","deps":[{"name":"serde","req":"^1.0.229","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ac9c5b572e5f6e1b41f4b9027afd168f394e8f60178a4a17530940cec4a8c894","features":{},"yanked":false,"pubtime":"2026-11-02T01:31:30Z"}
