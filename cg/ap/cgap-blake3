@@ -1,1 +1,2 @@
 {"name":"cgap-blake3","vers":"26.10.29","deps":[],"cksum":"c6752354d4918459926a6a222a4b9d127ea63a749d8ca9d07568a6b788e51f40","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-11-01T06:30:47Z"}
+{"name":"cgap-blake3","vers":"26.11.1","deps":[],"cksum":"8a6e81627183c2ad67d0604cae2e22e2c1b59486be37bb0041080dd2e6b1e0e2","features":{"default":[],"std":[]},"yanked":false,"pubtime":"2026-11-02T02:15:49Z"}
