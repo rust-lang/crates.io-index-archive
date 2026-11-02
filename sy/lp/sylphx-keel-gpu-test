@@ -26,3 +26,4 @@
 {"name":"sylphx-keel-gpu-test","vers":"0.1.6013","deps":[],"cksum":"88fbeb9274635c14841cb9f9a306d166c8fef1bd96d1ec788b9e812237e453b9","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-11-01T20:32:37Z"}
 {"name":"sylphx-keel-gpu-test","vers":"0.1.6015","deps":[],"cksum":"b24e2cacd554c346c9a7d33eac5ffe2187bc36807d7103da757c76ca7b845e25","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-11-01T22:26:49Z"}
 {"name":"sylphx-keel-gpu-test","vers":"0.1.6016","deps":[],"cksum":"438bfb2fa150368a7b20f10e364f8b03658b69689e04842cd016ebf10ac0374f","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-11-01T23:09:48Z"}
+{"name":"sylphx-keel-gpu-test","vers":"0.1.6018","deps":[],"cksum":"ce196451d40696d951971284275b7c0ce1b0be2f0f6243e6a0c7449422c70ec1","features":{},"yanked":false,"rust_version":"1.98.1","pubtime":"2026-11-02T01:57:11Z"}
