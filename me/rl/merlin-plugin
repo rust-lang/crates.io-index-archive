@@ -1,0 +1,1 @@
+{"name":"merlin-plugin","vers":"0.9.0","deps":[{"name":"wit-bindgen","req":"^0.63","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0c722aba3e34c51abdccd3575e0fe09d9d461304dbbf1dad4534fc650fd1b332","features":{},"yanked":false,"pubtime":"2026-11-08T10:49:39Z"}
