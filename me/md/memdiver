@@ -1,0 +1,1 @@
+{"name":"memdiver","vers":"0.1.0","deps":[{"name":"memdiver-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5c3ac3a314be3dc4cfcd3d7c20582c2970fe5132dd185f6829b83b2c3722ca27","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-08T08:41:09Z"}
