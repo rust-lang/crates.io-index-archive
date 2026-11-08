@@ -75,3 +75,4 @@
 {"name":"o3","vers":"0.42.0","deps":[],"cksum":"66481228615a54802271ed9843a93dffdb96cb55c575d7e109c30cc6b84baaec","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-08T17:45:32Z"}
 {"name":"o3","vers":"0.43.0","deps":[],"cksum":"3519a11d11106d68b4717f98630f843355c60e34d37ea9dd77af51ef149c87e9","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-08T18:05:55Z"}
 {"name":"o3","vers":"0.43.1","deps":[],"cksum":"38cb30a5eb65116680c9b2d5f2d6b020453c9fb6b6ec697d2634af2c3d54103b","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-08T18:42:05Z"}
+{"name":"o3","vers":"0.43.2","deps":[],"cksum":"62f2b4a32212a60a1ef8fd85fb4f608e18f2eda9ef8594f8aa7381c432593b92","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-08T19:10:15Z"}
