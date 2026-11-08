@@ -1,0 +1,1 @@
+{"name":"dimvexa-data","vers":"0.0.0","deps":[{"name":"dimvexa-core","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f5cbed09e8a71b22bccbc8dd4f6ba31188cc23b6df63a0dd22ee162aa8bea12","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-08T21:56:33Z"}
