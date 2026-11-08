@@ -58,3 +58,4 @@
 {"name":"visit-flow","vers":"0.0.38","deps":[],"cksum":"ce18e0478b9333c5c8aa71c027c689da319fba016567aa6492c41df784b5182a","features":{},"yanked":false,"pubtime":"2026-11-07T22:26:53Z"}
 {"name":"visit-flow","vers":"0.0.39-canary.b4b981a118","deps":[],"cksum":"dc3b9290da16bcc9c39151cad3fbeaef82a4b215345dae608564e8f1ddfd518e","features":{},"yanked":false,"pubtime":"2026-11-08T12:34:14Z"}
 {"name":"visit-flow","vers":"0.0.39-canary.d747ffa161","deps":[],"cksum":"f45c3a455e6a541ae864bda1f1cb4311666deea21eca731b17546f3f65c76798","features":{},"yanked":false,"pubtime":"2026-11-08T14:16:04Z"}
+{"name":"visit-flow","vers":"0.0.39-canary.63bf85821b","deps":[],"cksum":"3fa8f5e47f0de8271ed7e135ddf918b6228fc0cded7e8bff340f95ade75de2fe","features":{},"yanked":false,"pubtime":"2026-11-08T21:49:23Z"}
