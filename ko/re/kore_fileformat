@@ -25,3 +25,4 @@
 {"name":"kore_fileformat","vers":"1.8.17","deps":[],"cksum":"7367f7d31e25446cc2ff22d64e022fd784775338352ec8cc21483aac196b21b1","features":{},"yanked":false,"pubtime":"2026-11-07T15:29:13Z"}
 {"name":"kore_fileformat","vers":"1.8.18","deps":[],"cksum":"38f4b44a94cbc83f86b16fb4e6e93ad4541332524a5128cd4af716e861871ca6","features":{},"yanked":false,"pubtime":"2026-11-07T23:53:52Z"}
 {"name":"kore_fileformat","vers":"1.8.19","deps":[],"cksum":"edc693844cf45db846a8502644f7c8ac11809c349669d8e1496adc3ddeb7dfac","features":{},"yanked":false,"pubtime":"2026-11-08T03:05:30Z"}
+{"name":"kore_fileformat","vers":"1.8.20","deps":[],"cksum":"fccf64b53bd97e1216f0d817fa7af600ed4d9354ed0f4b4429b4d5cf5226374f","features":{},"yanked":false,"pubtime":"2026-11-08T11:23:34Z"}
