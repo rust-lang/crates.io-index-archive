@@ -24,3 +24,4 @@
 {"name":"impish-core","vers":"0.6.31","deps":[],"cksum":"1302da211af4b1eb1514ace1e28e7b05d737c10f4ada2af2cead21a4e0797caa","features":{},"yanked":false,"pubtime":"2026-11-07T06:02:17Z"}
 {"name":"impish-core","vers":"0.7.0","deps":[],"cksum":"dca404895a83d90b2ca9612e67b62eca2280a8f60b599a4c02ab13366fbe0038","features":{},"yanked":false,"pubtime":"2026-11-07T07:07:07Z"}
 {"name":"impish-core","vers":"0.7.1","deps":[],"cksum":"17d60c39483a210eaf048ea995f08d3f12fa694ad3b1b3157d6ac5424346e105","features":{},"yanked":false,"pubtime":"2026-11-07T07:16:13Z"}
+{"name":"impish-core","vers":"0.7.2","deps":[],"cksum":"6d6d3d4d7b12d2143f214bfacb67263c28dfdcef2061ceca7e82cac45f962c7c","features":{},"yanked":false,"pubtime":"2026-11-08T04:23:25Z"}
