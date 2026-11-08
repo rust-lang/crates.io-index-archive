@@ -71,3 +71,4 @@
 {"name":"o3","vers":"0.39.1","deps":[],"cksum":"bdb5ae1791910ee121bc279fdbb6bb764ddf28423b0885f3c3ac8ee7a022481a","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-08T10:24:18Z"}
 {"name":"o3","vers":"0.39.2","deps":[],"cksum":"d24a85fd114fbac2c98f28efa4d7ea3a4d38457461c43856210e7f2888911a55","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-08T11:16:47Z"}
 {"name":"o3","vers":"0.40.0","deps":[],"cksum":"1b33f11d41a109ad72651ea1067210f817ce03ffce09c9d31fae0ea8d458cd73","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-08T12:26:10Z"}
+{"name":"o3","vers":"0.41.0","deps":[],"cksum":"0b1827d8b2a0188f09f09ba54bf4f3124c24a87773e338ba866b99c18444be73","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-08T16:27:37Z"}
