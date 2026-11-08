@@ -50,3 +50,4 @@
 {"name":"pipetest","vers":"2026.11.5","deps":[],"cksum":"e472016d361a56b5924f45b6b98b5690085a2436bca2ba5d593daff31b349895","features":{},"yanked":false,"pubtime":"2026-11-05T01:03:35Z"}
 {"name":"pipetest","vers":"2026.11.6","deps":[],"cksum":"da8abda4a4100ae28f71f9e6f937c2fc99b2e4745e4a0239db71f86460e3f079","features":{},"yanked":false,"pubtime":"2026-11-06T01:03:44Z"}
 {"name":"pipetest","vers":"2026.11.7","deps":[],"cksum":"1b8f78a2d7063831b328aedad1800c64cbf4c96622161331601d0c43ef7951cc","features":{},"yanked":false,"pubtime":"2026-11-07T01:03:39Z"}
+{"name":"pipetest","vers":"2026.11.8","deps":[],"cksum":"28e6257ffad6700a777637e632db2fbb51647a2c6180cae60ce30c9391a23084","features":{},"yanked":false,"pubtime":"2026-11-08T01:03:49Z"}
