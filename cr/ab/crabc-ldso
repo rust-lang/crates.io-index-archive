@@ -6,3 +6,4 @@
 {"name":"crabc-ldso","vers":"0.4.1","deps":[],"cksum":"ab46a9d614c8b04ff40e7781c587e60bc8a7431ece32796260b0a78f79dd58f7","features":{},"yanked":false,"pubtime":"2026-11-05T04:58:46Z"}
 {"name":"crabc-ldso","vers":"0.4.2","deps":[],"cksum":"03c9a87c36e033d3bbcf12cdabd50044e19281f557ed9118440ec7cee0877467","features":{},"yanked":false,"pubtime":"2026-11-06T03:57:31Z"}
 {"name":"crabc-ldso","vers":"0.5.0","deps":[],"cksum":"1cb465e7b80f72a2e35e0f50008a6149abc70860c01e440344f67ae883749783","features":{},"yanked":false,"pubtime":"2026-11-08T06:44:07Z"}
+{"name":"crabc-ldso","vers":"0.6.0","deps":[],"cksum":"5564895c66ac641e145400c4fe395411667e96d86089f3513de437364731a9a4","features":{},"yanked":false,"pubtime":"2026-11-08T07:50:15Z"}
