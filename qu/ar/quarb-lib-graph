@@ -9,3 +9,4 @@
 {"name":"quarb-lib-graph","vers":"0.53.0","deps":[],"cksum":"facda170e0b9761289b8a981b87f1e727694b2bdfc09307ae6ee3ce15986bc0d","features":{},"yanked":false,"pubtime":"2026-11-06T16:11:04Z"}
 {"name":"quarb-lib-graph","vers":"0.54.0","deps":[],"cksum":"4ec4283051f4d76980f12dde9e97ac15effffd4b674f1e27b987dc257e0e5b60","features":{},"yanked":false,"pubtime":"2026-11-07T10:01:01Z"}
 {"name":"quarb-lib-graph","vers":"0.55.0","deps":[],"cksum":"8bdc03dc01c6e49683bd5883684aec0647ace5cf925457136eaacccc46295e28","features":{},"yanked":false,"pubtime":"2026-11-08T08:19:08Z"}
+{"name":"quarb-lib-graph","vers":"0.56.0","deps":[],"cksum":"1939bee43bd172827de29bbd38022b11d643a841ceeab78a734be9b833b2decf","features":{},"yanked":false,"pubtime":"2026-11-08T15:32:07Z"}
