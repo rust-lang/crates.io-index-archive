@@ -1,0 +1,1 @@
+{"name":"woofrng","vers":"0.0.1","deps":[{"name":"rustix","req":"^1.1.6","features":["rand","linux_5_1"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"60e6ef91a86683bd46673fb8ecf46b794de42fa3c0171e235bedbb2a0badfdd5","features":{},"yanked":false,"pubtime":"2026-11-08T19:14:04Z"}
