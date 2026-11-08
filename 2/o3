@@ -80,3 +80,4 @@
 {"name":"o3","vers":"0.45.0","deps":[],"cksum":"e23f1ce9381fc92d8f5c790ac28d27c5437330303d652f1e409e5b22d8ef7a53","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-08T20:28:22Z"}
 {"name":"o3","vers":"0.46.0","deps":[],"cksum":"6fa8468c333f01923d3c7a69a9680d50e5b38be59ecacd11b1869bf7ab767c3c","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-08T21:02:12Z"}
 {"name":"o3","vers":"0.47.0","deps":[],"cksum":"b2c44bb2508e9b35f05d63fe63b92ab99a0ae0b962826a6d8009b15f13ae27b5","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-08T22:17:15Z"}
+{"name":"o3","vers":"0.47.1","deps":[],"cksum":"8339bbe15b3e45bc0bae3123a6b4a4dbf4a80b7fbcfdea651b3ab799892555f5","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-08T23:14:06Z"}
