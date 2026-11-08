@@ -1,0 +1,1 @@
+{"name":"ztd","vers":"0.0.5","deps":[{"name":"windows-sys","req":"^0.59","features":["Win32_Foundation","Win32_Storage_FileSystem"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"378b7415b2f52f5da5d66e980792ea2dcb869ef1b95dc31d664592f94e17aaa3","features":{"default":["pattern"],"pattern":[]},"yanked":false,"pubtime":"2026-11-08T21:58:20Z"}
