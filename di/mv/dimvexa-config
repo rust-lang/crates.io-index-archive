@@ -1,0 +1,1 @@
+{"name":"dimvexa-config","vers":"0.0.0","deps":[{"name":"dimvexa-core","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dfff9325eb277bc9c1edfa062020aacb55c963b06dc74890959350369a10f792","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-08T21:56:45Z"}
