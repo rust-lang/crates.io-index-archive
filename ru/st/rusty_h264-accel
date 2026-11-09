@@ -19,3 +19,4 @@
 {"name":"rusty_h264-accel","vers":"0.16.1","deps":[],"cksum":"ecb2772a6bc2a2ca811ba4bff42cc0e10f25b411bc4ca1793c90f3265566f609","features":{"census":[],"knobs":[]},"yanked":false,"rust_version":"1.80","pubtime":"2026-10-18T15:34:30Z"}
 {"name":"rusty_h264-accel","vers":"0.17.0","deps":[],"cksum":"f6ff0f8f34cb1fac85f0b23cdcc4c61f15dbc3d13c64bf6ad07cbb207949a480","features":{"census":[],"knobs":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-10-28T22:41:45Z"}
 {"name":"rusty_h264-accel","vers":"0.17.1","deps":[],"cksum":"9f1a3a45ff59a32ac8bdc2a7802b46c372c95a68abeecbba7f962c4d4153d4a8","features":{"census":[],"knobs":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-09T01:13:50Z"}
+{"name":"rusty_h264-accel","vers":"0.17.2","deps":[],"cksum":"e9d3fb461fb65d2f57e39101d25334da69157006025908cb9d1fe5e4b06d359e","features":{"census":[],"knobs":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-09T02:01:48Z"}
