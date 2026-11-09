@@ -32,3 +32,4 @@
 {"name":"cop-cfg","vers":"0.3.6","deps":[],"cksum":"59606d0cbd8616faecc642fbba48321c7dfcd1198b85bf8dad88e3bc93a97aa1","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-07T19:16:44Z"}
 {"name":"cop-cfg","vers":"0.3.7","deps":[],"cksum":"f8abbe5b6afa8b314c328921be9a349bfabdae46918478aa5d2e7c25d1425619","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-07T21:40:05Z"}
 {"name":"cop-cfg","vers":"0.3.8","deps":[],"cksum":"b649e10115ed64f723dfb4e4bab7ed23c69bfc3ab76eb9bafcb8d28bd83c037b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-07T23:10:07Z"}
+{"name":"cop-cfg","vers":"0.3.9","deps":[],"cksum":"e295101c878810c00b151096cbb43ade1c84e91b1fc6d7c3c544115ff8003fc7","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-09T01:36:13Z"}
