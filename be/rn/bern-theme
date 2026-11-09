@@ -10,3 +10,4 @@
 {"name":"bern-theme","vers":"0.1.9","deps":[],"cksum":"058e0e39b5372e8dd5b871f42e034f95dd3165d7c53e745cb62964d29bcb4fc7","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-06T17:02:36Z"}
 {"name":"bern-theme","vers":"0.1.10","deps":[],"cksum":"d1b24038fc6bd753f1b460e4e004afc313e6355f08e415e8de871161ac4c6f0c","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-07T11:24:05Z"}
 {"name":"bern-theme","vers":"0.1.11","deps":[],"cksum":"9fa091f4fe5d226411570ea0a40445153ee66b4dc35adc6b403ccaa5c25b0040","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-09T02:16:45Z"}
+{"name":"bern-theme","vers":"0.1.12","deps":[],"cksum":"c9f10834c494cdcfbaeae5a8c30cbdd922d4f461d2b64c038c4021b10df99885","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-09T02:49:28Z"}
