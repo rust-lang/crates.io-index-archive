@@ -9,3 +9,4 @@
 {"name":"dratify","vers":"0.1.8","deps":[],"cksum":"91a58f9c4a51c0eca4489ae1d13964c8819c15d4d206e93d23164acc2bff3b32","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-10-23T14:39:29Z"}
 {"name":"dratify","vers":"0.1.9","deps":[],"cksum":"0eb957fad28c6e701a387c29bd9dfa0c15367d1603ffdbfcf11804a98a757fba","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-10-24T12:55:30Z"}
 {"name":"dratify","vers":"0.1.10","deps":[],"cksum":"452429a6f9845f403f27fd892a40b2edaec997cdda0b82481c940d3cb3d401d8","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-10-24T16:34:23Z"}
+{"name":"dratify","vers":"0.1.11","deps":[],"cksum":"4633d0ba4ed6558f5a5d48f90079521f7c6930abf2ec043f5d51e3be292a0870","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-11-09T05:24:26Z"}
