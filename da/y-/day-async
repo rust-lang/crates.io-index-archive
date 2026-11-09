@@ -4,3 +4,4 @@
 {"name":"day-async","vers":"0.6.3","deps":[],"cksum":"6432a1dd86e6632c66916fc5886367f16c9b243f8ed6bf0b47409a98b513f97b","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-30T03:32:40Z"}
 {"name":"day-async","vers":"0.6.4","deps":[],"cksum":"19cbff576968ef41c37833ffa9575850b0938587f1576101a67ea074bf3a1356","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-05T06:33:30Z"}
 {"name":"day-async","vers":"0.7.0","deps":[],"cksum":"b73eb1ad36263cb00cbf8815cc830d8a9b5bd5da16960d99e305edcc91e3bce7","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-07T20:18:11Z"}
+{"name":"day-async","vers":"0.7.1","deps":[],"cksum":"c4f75eb4ca20358ab9211a521e34d9fad82971f77863802f05218da0a3ff47eb","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-09T04:06:50Z"}
