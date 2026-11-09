@@ -17,3 +17,4 @@
 {"name":"whisker-style","vers":"0.15.3","deps":[],"cksum":"30921517591b5f82c636a663582e83e65ab4a39155e2f1a9ea5b72e8cb59e8ba","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-10T08:37:20Z"}
 {"name":"whisker-style","vers":"0.15.4","deps":[],"cksum":"63276660f46a9fdfb6c62e5ad36a1141bb0a2aed833abe23e2743ae196c11ee9","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-10T14:20:12Z"}
 {"name":"whisker-style","vers":"0.15.5","deps":[],"cksum":"2ac093f52329764fac44bd0f44a75773faa60b5d80e5710fc19f6864872fdcc5","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-20T01:26:44Z"}
+{"name":"whisker-style","vers":"0.16.0","deps":[],"cksum":"aaea22ae107f0fb5e8bfb1ab98a49f275a164d74d5d39e0dae5d71b385a4d822","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-09T03:57:53Z"}
