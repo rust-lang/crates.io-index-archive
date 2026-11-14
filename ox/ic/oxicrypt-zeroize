@@ -5,3 +5,4 @@
 {"name":"oxicrypt-zeroize","vers":"0.24.0","deps":[],"cksum":"8bebbb8c7d2008b31c4a0186751bc972201447c6fadfccc8f7b346437db843c8","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-19T20:02:37Z"}
 {"name":"oxicrypt-zeroize","vers":"0.25.0","deps":[],"cksum":"f8f7e3e6a22cf85eaa4ed439d1126e5440c61c0330f4eda08412956bca81da55","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-17T23:18:22Z"}
 {"name":"oxicrypt-zeroize","vers":"0.26.0","deps":[],"cksum":"5a1285b5938e16ce89baa774fc64e9ec9f274d238a6f3dcf39d202d197ed3b92","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-24T16:21:13Z"}
+{"name":"oxicrypt-zeroize","vers":"0.26.1","deps":[],"cksum":"340468f264170fb80e8d87dc59d7fb0ea31c648d807ee9710dec58c9b50fdd88","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-14T19:36:47Z"}
