@@ -1,3 +1,4 @@
 {"name":"karbon-ui-macros","vers":"0.1.0","deps":[],"cksum":"a3583fca2d5df1ddb791379cdb5db6160fcf79eb10f342592226fae7c773c864","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-14T09:14:51Z"}
 {"name":"karbon-ui-macros","vers":"0.2.0","deps":[],"cksum":"64f8f4948f76562c79d119da5dfacda4968080b2cb4794051f4e2937c8323196","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-14T15:51:42Z"}
 {"name":"karbon-ui-macros","vers":"0.2.1","deps":[],"cksum":"fc8e0522d6ad4b2d53b9f93b74417bb65b8fbbc6a19af557da4cbee45d747f56","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-14T17:40:29Z"}
+{"name":"karbon-ui-macros","vers":"0.3.0","deps":[],"cksum":"1f86c3d2c7a23057a71376617fcd901a1f1e075a5e8ac23a0e847241f40d4f39","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-14T19:03:52Z"}
