@@ -28,3 +28,4 @@
 {"name":"hawdb-cascades","vers":"0.29.0","deps":[],"cksum":"d7be29df10e18fd583b269abbdafde860c0f03cf40215e593dd0c4d3145b6b02","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-11-09T12:34:53Z"}
 {"name":"hawdb-cascades","vers":"0.30.0","deps":[],"cksum":"fdfb9393f9f5317616ca803a7ef31c6249927bb27ad34151cce824fd04fb9189","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-11-10T22:56:05Z"}
 {"name":"hawdb-cascades","vers":"0.31.0","deps":[],"cksum":"4cd5fe52dfe3851e84f8ff8f990fb08d8396d8227c7a0fda655f084a74331271","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-11-12T23:27:28Z"}
+{"name":"hawdb-cascades","vers":"0.33.0","deps":[],"cksum":"7758e7e1b5c2cc986c71473cc01a2f9cd4b6326d4db3d3fd0ef61dd592715a9d","features":{},"yanked":false,"rust_version":"1.97.1","pubtime":"2026-11-14T23:39:25Z"}
