@@ -41,3 +41,4 @@
 {"name":"dyn_trie","vers":"7.0.7","deps":[],"cksum":"a9658efe14c785eb4e7db428927b722cae86d8fa22402c768d7a25095adc487a","features":{"rh-aide-tests":[],"rh-uc-tests":[]},"yanked":false,"pubtime":"2026-08-16T20:53:20Z"}
 {"name":"dyn_trie","vers":"7.1.0","deps":[],"cksum":"e112697fa75be09e6a86492b096baefe4cd7b41a41596e1a2888e3404d15caf3","features":{"rh-aide-tests":[],"rh-uc-tests":[]},"yanked":false,"pubtime":"2026-11-11T20:59:41Z"}
 {"name":"dyn_trie","vers":"7.2.0","deps":[],"cksum":"7d289167e3761f08c1ea44b0a728e754a0612376e94babf56afdce1a96962c39","features":{"rh-aide-tests":[],"rh-uc-tests":[]},"yanked":false,"pubtime":"2026-11-14T22:51:09Z"}
+{"name":"dyn_trie","vers":"7.2.1","deps":[],"cksum":"7c4187236c02c877d18f6536b933128b59dfba634187bc4a9141f0f4cc638ab0","features":{"rh-aide-tests":[],"rh-uc-tests":[]},"yanked":false,"pubtime":"2026-11-14T23:01:52Z"}
