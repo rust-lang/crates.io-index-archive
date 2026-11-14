@@ -24,3 +24,4 @@
 {"name":"harn-prompt-syntax","vers":"0.10.196","deps":[],"cksum":"9d40d087c0baf9e7df4c0b5512fc2675579df702b60ec583d843ad62907dd9fa","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-11T03:19:00Z"}
 {"name":"harn-prompt-syntax","vers":"0.10.197","deps":[],"cksum":"f64d94147de1edf169e8b10471578e5632b66dc1074824818b8a73fadc77c94c","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-14T07:26:44Z"}
 {"name":"harn-prompt-syntax","vers":"0.10.198","deps":[],"cksum":"31e2f346a113b490a25a575a430435503b5045151068ff11961f9868ebb30783","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-14T12:32:57Z"}
+{"name":"harn-prompt-syntax","vers":"0.10.199","deps":[],"cksum":"43d877443f03e1c4cc6abf915ef4beaa32fccf43f40410c639581e36e539d2fd","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-14T16:39:39Z"}
