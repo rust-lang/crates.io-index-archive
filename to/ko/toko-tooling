@@ -47,3 +47,4 @@
 {"name":"toko-tooling","vers":"0.42.7","deps":[],"cksum":"45e4485be56d9c550a634ed579dabb5f7884d9028042eaaca82847cc247300cb","features":{},"yanked":false,"rust_version":"1.100.0","pubtime":"2026-11-13T18:16:51Z"}
 {"name":"toko-tooling","vers":"0.42.8","deps":[],"cksum":"10dde4572301be0c5540b54a04ddeb71d3cee0fab68e6700e5c6866b6cb877e2","features":{},"yanked":false,"rust_version":"1.100.0","pubtime":"2026-11-13T18:30:36Z"}
 {"name":"toko-tooling","vers":"0.43.0","deps":[],"cksum":"060d3507b66eb290ce12bc2572098f7e7cb1e12e9d6697a9b1a5d1552fcb2588","features":{},"yanked":false,"rust_version":"1.100.0","pubtime":"2026-11-14T07:36:48Z"}
+{"name":"toko-tooling","vers":"0.43.1","deps":[],"cksum":"467162f616caafe69c965fe4e96173a0df37256f4767bfefd28114781aad76b3","features":{},"yanked":false,"rust_version":"1.100.0","pubtime":"2026-11-14T13:50:41Z"}
