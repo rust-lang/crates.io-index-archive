@@ -1,0 +1,1 @@
+{"name":"hdl-ir","vers":"0.1.0","deps":[{"name":"hdl-syntax","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b101d57958255de3c14ceb229ebc8f00cb0882c54fb4b82da5121260b37a0cc2","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-14T17:12:09Z"}
