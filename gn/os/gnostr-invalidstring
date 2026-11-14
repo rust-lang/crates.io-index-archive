@@ -73,3 +73,4 @@
 {"name":"gnostr-invalidstring","vers":"975741.1839.242249","deps":[],"cksum":"b7f83f76c09da8c90eeeb921066a9b6ba00620aec7bcc461cf45dfbf6baf562b","features":{},"yanked":false,"pubtime":"2026-11-14T04:22:18Z"}
 {"name":"gnostr-invalidstring","vers":"975741.1839.242794","deps":[],"cksum":"346099d44172f058fa4d21eb31b780f248524cd43241dcb612aeb2c9f738a994","features":{},"yanked":false,"pubtime":"2026-11-14T04:30:46Z"}
 {"name":"gnostr-invalidstring","vers":"975742.1839.241928","deps":[],"cksum":"35d9760dd00ed6c025b9ae9a67844c912d487df29a579ee578efcd7a43bdb42a","features":{},"yanked":false,"pubtime":"2026-11-14T04:47:09Z"}
+{"name":"gnostr-invalidstring","vers":"975831.1839.130809","deps":[],"cksum":"6ddf5da542eb4c595dea97e06731d15ecba0df12fe28a06711915bb7e8c4b5b5","features":{},"yanked":false,"pubtime":"2026-11-14T19:23:05Z"}
