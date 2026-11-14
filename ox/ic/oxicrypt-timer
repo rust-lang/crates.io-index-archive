@@ -5,3 +5,4 @@
 {"name":"oxicrypt-timer","vers":"0.24.0","deps":[],"cksum":"0a43004c5f041690f1c930b238a170e4c7634b0efcbebcbe69666073811dfaa9","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-08-19T20:02:30Z"}
 {"name":"oxicrypt-timer","vers":"0.25.0","deps":[],"cksum":"678f5dc179f55f57b2b616d5cbab2d43199d54d9ad3ecdc33f454c673a022dd7","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-17T23:18:18Z"}
 {"name":"oxicrypt-timer","vers":"0.26.0","deps":[],"cksum":"473ce427a7d08f6e0b02814f2e8d2cbd2f2466b51450f8bced14d7becfb64480","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-10-24T16:21:07Z"}
+{"name":"oxicrypt-timer","vers":"0.26.1","deps":[],"cksum":"9b5d6ead41629b2152774a65001dbb0d25d5b7a679cc897e96f75031a32ac79f","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-14T19:36:42Z"}
