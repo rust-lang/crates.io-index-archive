@@ -5,3 +5,4 @@
 {"name":"karbon-ui-macros","vers":"0.3.1","deps":[],"cksum":"1644a28f98ec20b316bc48377fe0b159e38d6d5e918a8eec6e3a984842f154bb","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-14T20:23:08Z"}
 {"name":"karbon-ui-macros","vers":"0.3.2","deps":[],"cksum":"970051827515585024862bb15901dfe9e79d87f3bb48ce6925f125c90708b518","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-14T20:58:37Z"}
 {"name":"karbon-ui-macros","vers":"0.3.3","deps":[],"cksum":"f3abf2193f3e373bc159fb57d281fd0cdd1a85b1663eaccaeb10d63157c5129e","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-14T21:32:19Z"}
+{"name":"karbon-ui-macros","vers":"0.3.4","deps":[],"cksum":"d67afa2a7beed71e40aeb0f7c0d18a49bac1267e33bc021890122c67db5dfa0d","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-15T00:12:27Z"}
