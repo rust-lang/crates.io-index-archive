@@ -1,0 +1,1 @@
+{"name":"brrrty-markdown","vers":"0.0.1","deps":[{"name":"pulldown-cmark","req":"^0.13.6","features":["html"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"aea803501c2ef702ac4e0d96cd30edbc6c4f9a83bb1a25f9add5e51acea0f06b","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-15T20:41:31Z"}
