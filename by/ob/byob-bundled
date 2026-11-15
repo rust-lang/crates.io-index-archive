@@ -3,3 +3,4 @@
 {"name":"byob-bundled","vers":"0.3.2","deps":[],"cksum":"f6fd0eb9928ff2835cf917ca9c36ae2767027238b90d4aebc8933a534add5865","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-13T03:22:24Z"}
 {"name":"byob-bundled","vers":"0.3.3","deps":[],"cksum":"69b2998ad575fc24fe8292f29f0fdc9d4bdb53b990534a0d696d48a719def36b","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-15T03:40:38Z"}
 {"name":"byob-bundled","vers":"0.3.4","deps":[],"cksum":"3221b12b1ba0c74f302dd8ffb8892a4c0fb4544daa4b8173507f5e0c1b2ff96e","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-15T15:18:51Z"}
+{"name":"byob-bundled","vers":"0.3.5","deps":[],"cksum":"09b77580f569d2980f7cb5af0ee7ff246818c96f7ab61b51ed290312fe3e1a14","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-15T18:45:32Z"}
