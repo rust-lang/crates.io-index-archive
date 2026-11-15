@@ -12,3 +12,4 @@
 {"name":"saturnus-core","vers":"0.10.2","deps":[],"cksum":"f647250adc405b0ec03795ca02323d183f686812faa24a83fd58929cc8c9c513","features":{"internals":[],"profile":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-01T19:04:21Z"}
 {"name":"saturnus-core","vers":"0.10.3","deps":[],"cksum":"516072d2fdf8a9abec21be877f0429da527fb71f395b51751421dbf7d6bdd6cd","features":{"internals":[],"profile":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-05T12:25:04Z"}
 {"name":"saturnus-core","vers":"0.11.0","deps":[],"cksum":"caead5cf29e82e0f8752f5690b9559ee239ff253fac5888b3efc22669ee63ffc","features":{"internals":[],"profile":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-09T02:45:19Z"}
+{"name":"saturnus-core","vers":"0.12.0","deps":[],"cksum":"b18b0116186b06ffcd3c062689cfa68c0dd72a6c509da034f66cc98601ddb84f","features":{"internals":[],"profile":[]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-15T18:25:08Z"}
