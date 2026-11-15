@@ -215,3 +215,4 @@
 {"name":"mago-casing","vers":"1.58.2","deps":[],"cksum":"94a1793466a2e48f020d9767837e12d4e1f83044d1e02a032c51085a9d3aa673","features":{},"yanked":false,"rust_version":"1.99.0","pubtime":"2026-10-19T20:26:05Z"}
 {"name":"mago-casing","vers":"1.59.0","deps":[],"cksum":"232966e919cbbf5826795668afc469779365dcd08ebeff53315358596205f220","features":{},"yanked":false,"rust_version":"1.99.0","pubtime":"2026-10-25T00:59:45Z"}
 {"name":"mago-casing","vers":"1.60.0","deps":[],"cksum":"d1141e270aa9bb208b739de10a76df66630d8c0fa9e631741fe58def0e02535c","features":{},"yanked":false,"rust_version":"1.100.0","pubtime":"2026-11-15T01:59:05Z"}
+{"name":"mago-casing","vers":"1.60.1","deps":[],"cksum":"d5e52b7c79400a760318d5893c011056a369f9dcc6de13a09565d17d97d12394","features":{},"yanked":false,"rust_version":"1.100.0","pubtime":"2026-11-15T03:05:22Z"}
