@@ -8,3 +8,4 @@
 {"name":"microcom-codegen","vers":"0.3.0","deps":[],"cksum":"9418785ad47c935049538e4b4c51120aeaee9f6860546d37f5652788ad9aa93e","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-19T21:30:24Z"}
 {"name":"microcom-codegen","vers":"0.4.0-preview.1","deps":[],"cksum":"03372465841d837911e319c049dcf655e7457573969a34f9c17c8124bc8d3447","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-10-20T19:52:47Z"}
 {"name":"microcom-codegen","vers":"0.4.0","deps":[],"cksum":"36f5a6b129a47b8d5909bb1e4574ad7bb8cdb6dfc3ce48a9978475c662ad8159","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-01T02:22:20Z"}
+{"name":"microcom-codegen","vers":"0.5.0","deps":[],"cksum":"5dc17a068cebdd715d62a83b8fea3492d620b5a6fda80fb11920434e6cee68be","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-15T02:46:15Z"}
