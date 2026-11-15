@@ -10,3 +10,4 @@
 {"name":"jiff-tzdb","vers":"0.1.8","deps":[],"cksum":"142bd39932ad231f10513df9ab62661fead8719872150b7ad02a2df79f4e141e","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-07-09T01:22:38Z"}
 {"name":"jiff-tzdb","vers":"0.1.9","deps":[],"cksum":"fa8377070c6bae868759445e5a77f66d84f0b72f3a054bfb00e6d038b8282da7","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-10-06T15:00:54Z"}
 {"name":"jiff-tzdb","vers":"0.1.10","deps":[],"cksum":"0980fca2cc272465bd60e82397607ba9f33add9e48defd77923301bbd03808f2","features":{},"yanked":false,"rust_version":"1.70","pubtime":"2026-11-14T17:39:05Z"}
+{"name":"jiff-tzdb","vers":"1.0.0","deps":[],"cksum":"12e71a1b68a875a44a33bb7a1dd84392cb77145a3367a552a3cfe6a4f5cf3afc","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-15T21:46:36Z"}
