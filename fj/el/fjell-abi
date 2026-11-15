@@ -16,3 +16,4 @@
 {"name":"fjell-abi","vers":"0.41.0","deps":[],"cksum":"ffd88595729f5ece09cb8072b9e83d8d342829dadf9775919e1a5d510d919693","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-11-09T03:13:08Z"}
 {"name":"fjell-abi","vers":"0.42.0","deps":[],"cksum":"c0b016fe5e7537193024969b02be548a70a6ea31de0d7bd4dc6ed67175ab4888","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-11-11T12:51:49Z"}
 {"name":"fjell-abi","vers":"0.43.0","deps":[],"cksum":"9685039ee396bb826b139c11160a1c5f3ad565d091280ae9c81d7ba816848cbf","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-11-14T22:00:33Z"}
+{"name":"fjell-abi","vers":"0.44.0","deps":[],"cksum":"cb848d577ad06fd3aeef15ae1f6bf4cfff6aa612f64b25a5e46b604016c41510","features":{},"yanked":false,"rust_version":"1.91","pubtime":"2026-11-15T12:28:01Z"}
