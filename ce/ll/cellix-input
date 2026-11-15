@@ -20,3 +20,4 @@
 {"name":"cellix-input","vers":"0.7.0","deps":[],"cksum":"55fa8b13df16740168bd41607f44d1cdbd7b6e766683fc8aa85d7033059286bc","features":{},"yanked":false,"pubtime":"2026-11-14T11:39:16Z"}
 {"name":"cellix-input","vers":"0.7.1","deps":[],"cksum":"27e0fbf2bdf475d6105a76ba54c863043566aec0955e7cb8789937971ab77a01","features":{},"yanked":false,"pubtime":"2026-11-14T22:28:14Z"}
 {"name":"cellix-input","vers":"0.8.0","deps":[],"cksum":"449524682f4af7e44c3e41b1b6d1b783363d1935c62825434071ee4661ba8e82","features":{},"yanked":false,"pubtime":"2026-11-15T10:41:07Z"}
+{"name":"cellix-input","vers":"0.9.0","deps":[],"cksum":"f1952120c4e9aad1a373baa0e13030bbd66ecc027e68d8557d7b66f996324f04","features":{},"yanked":false,"pubtime":"2026-11-15T14:08:27Z"}
