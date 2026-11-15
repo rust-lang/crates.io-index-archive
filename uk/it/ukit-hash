@@ -3,3 +3,4 @@
 {"name":"ukit-hash","vers":"0.1.10","deps":[],"cksum":"70a4df777e3c5c39e50de6301d5983779bca74512497c53b9862af103605494c","features":{"alloc":[],"std":[]},"yanked":false,"pubtime":"2026-11-07T14:24:10Z"}
 {"name":"ukit-hash","vers":"0.1.11","deps":[],"cksum":"a63287e79f89b7162cc7f67d58c457fc1c19ade25430e93fd76b76e92ebb454d","features":{"alloc":[],"std":[]},"yanked":false,"pubtime":"2026-11-11T09:48:36Z"}
 {"name":"ukit-hash","vers":"0.1.12","deps":[],"cksum":"8a489eca421ddb6b878f204b01fdac99636c8fa87b764aa34cf702161dc682a9","features":{"alloc":[],"std":[]},"yanked":false,"pubtime":"2026-11-12T12:55:03Z"}
+{"name":"ukit-hash","vers":"0.1.13","deps":[],"cksum":"fa651808873b397d78116dd9410a3ad8cd349512fe719dd1d2ced5b268f0dd77","features":{},"yanked":false,"pubtime":"2026-11-15T10:05:46Z"}
