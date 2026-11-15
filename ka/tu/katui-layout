@@ -1,0 +1,1 @@
+{"name":"katui-layout","vers":"0.0.0","deps":[{"name":"katui-scene","req":"^0.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ba16dbfe6bea88dc1a3b15ccbc3d8bbbc1ae439ede7ac40a23780571b0984c3","features":{},"yanked":false,"rust_version":"1.90","pubtime":"2026-11-15T19:44:00Z"}
