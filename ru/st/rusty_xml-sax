@@ -17,3 +17,4 @@
 {"name":"rusty_xml-sax","vers":"0.9.3","deps":[],"cksum":"6730e2421e1cfc00485723463cf30af64707f95d9cb6f7c6e70fb8af7b8cdff1","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-15T06:22:33Z"}
 {"name":"rusty_xml-sax","vers":"0.9.4","deps":[],"cksum":"5241a2ec3a404929ada378e28d3db8d04fbe545337f1b219b890926cd9b613bb","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-15T06:39:54Z"}
 {"name":"rusty_xml-sax","vers":"0.9.5","deps":[],"cksum":"63fd0ae52da18571136040b406ecffb72311f117474449147fada541e6f25b40","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-15T16:31:34Z"}
+{"name":"rusty_xml-sax","vers":"0.10.0","deps":[],"cksum":"ee264fb5963c21c58e0e81eb62dae3e824aa036b51653d171e55bcbce383e3d2","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-15T16:55:52Z"}
