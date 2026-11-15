@@ -5,3 +5,4 @@
 {"name":"byob-web-assets","vers":"0.3.2","deps":[],"cksum":"7636855b847b4378d42061fd7d463c1cbfa7f30d6e35a8375e4c057cbf04292d","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-13T03:22:27Z"}
 {"name":"byob-web-assets","vers":"0.3.3","deps":[],"cksum":"3c185a4db9732fe9f954ed2b8f6957342f4697b5d74e615b36048aa9e88b1f70","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-15T03:40:41Z"}
 {"name":"byob-web-assets","vers":"0.3.4","deps":[],"cksum":"9374e542c36481d3b0ecedcb1f3baad9983df7e0b5fdb66c4b0d9425d2972a04","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-15T15:18:52Z"}
+{"name":"byob-web-assets","vers":"0.3.5","deps":[],"cksum":"16d750e61787d5549502ab37f0d992bde99183f83ba9a30fb4363adba830e78c","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-15T18:45:35Z"}
