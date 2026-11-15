@@ -5,3 +5,4 @@
 {"name":"byob-artifact-wire","vers":"0.3.2","deps":[],"cksum":"e203d79698ef8dafc484201162b8b6b8898d10f1a6d29411548f5603366c261e","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-13T03:22:24Z"}
 {"name":"byob-artifact-wire","vers":"0.3.3","deps":[],"cksum":"96984bfa08ffdf6aba21394dc1b444091b1b6c45f38e35f9a749f6996432395c","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-15T03:40:38Z"}
 {"name":"byob-artifact-wire","vers":"0.3.4","deps":[],"cksum":"7cd29f1ecdfed686ec5653807ccb23bcde98d47408273fcfac1e80a62120219d","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-15T15:18:50Z"}
+{"name":"byob-artifact-wire","vers":"0.3.5","deps":[],"cksum":"62af75b46e794509c1be6b8539c399ce6f48a55ba2acdedf459342470e49214c","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-15T18:45:32Z"}
