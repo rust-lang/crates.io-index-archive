@@ -3,3 +3,4 @@
 {"name":"rustorb-cdr","vers":"0.2.0","deps":[],"cksum":"f4a04f61a080b2c9b42b9c79d4bcc0ea2fd4a8168c0602fdee919edd5e6e60e8","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-02T15:56:08Z"}
 {"name":"rustorb-cdr","vers":"0.3.0","deps":[],"cksum":"da4baf38074b8b141efc26b5a3e06df6d1580a6d7ab6411c62185e27c38c54ec","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-03T07:47:13Z"}
 {"name":"rustorb-cdr","vers":"0.4.0","deps":[],"cksum":"ef6b8a7762042c6534ff428bcc09123ce75ae4dc475157c2bee970005735c44b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-09T23:51:23Z"}
+{"name":"rustorb-cdr","vers":"0.5.0","deps":[],"cksum":"cc1594c285ef1ca31a31520f7339302428b240916863022aacbf089030327a95","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-15T02:23:08Z"}
