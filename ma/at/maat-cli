@@ -1,0 +1,1 @@
+{"name":"maat-cli","vers":"0.2.0","deps":[{"name":"maat-ground","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22c064e38b21a7a306aab47b48d7bb57a68b85f1281ffb910e863a78a2691ebd","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-15T03:14:20Z"}
