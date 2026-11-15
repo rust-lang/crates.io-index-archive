@@ -31,3 +31,4 @@
 {"name":"fiducial","vers":"0.14.0","deps":[],"cksum":"cf97724a2874fe111a1484fc8e679d74e03f8554cce4aed8e46ecc27362f23ef","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-12T23:22:54Z"}
 {"name":"fiducial","vers":"0.15.0","deps":[],"cksum":"d6916a9667f03ae43310a34772c566973c283b03e24b2d84054653e18d3b2421","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-15T13:21:22Z"}
 {"name":"fiducial","vers":"0.16.0","deps":[],"cksum":"b4470e25e2f77397c2852635a19f46aafed296a48d3af90fabb2719268ec9b74","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-15T15:07:43Z"}
+{"name":"fiducial","vers":"0.17.0","deps":[],"cksum":"b61af4c1b5576f61b945441dcc3591d54a18d094cc612a01b6ded8c54ae7a7ac","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-15T15:25:21Z"}
