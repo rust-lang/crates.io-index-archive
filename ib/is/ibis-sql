@@ -1,0 +1,1 @@
+{"name":"ibis-sql","vers":"0.1.0","deps":[{"name":"ibis-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9aae9e38fdad607a92d680a754347997ea38a8be582f9546453e204ad746082e","features":{},"yanked":false,"pubtime":"2026-11-15T05:25:46Z"}
