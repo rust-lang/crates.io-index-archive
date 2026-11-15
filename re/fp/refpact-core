@@ -3,3 +3,4 @@
 {"name":"refpact-core","vers":"0.1.2","deps":[],"cksum":"f9a53ed90c1f9752f5b3c33dfc6a53fdacb72b082ad07bba29978c432b94885d","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-11-14T11:31:58Z"}
 {"name":"refpact-core","vers":"0.2.0","deps":[],"cksum":"766e118b60cc39838af3d3a0df540837f145ce922b9bb9a7d9ba5d82326fc3fb","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-11-14T13:40:44Z"}
 {"name":"refpact-core","vers":"0.3.0","deps":[],"cksum":"48724f165ca2576417fe883a2a85de55a5578c74cc48f949ef8e7d8359675025","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-11-15T06:05:42Z"}
+{"name":"refpact-core","vers":"0.4.0","deps":[],"cksum":"3205bedee0e8e05194d954e91917d3382fdc4bd211f2fc7766da1f80ff7d66ea","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-11-15T07:39:53Z"}
