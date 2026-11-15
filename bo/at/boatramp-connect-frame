@@ -15,3 +15,4 @@
 {"name":"boatramp-connect-frame","vers":"0.59.6","deps":[],"cksum":"b99082d59f4a7d7a8088c97de31fe2b682c39f05eea4e0926c17766671d78755","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-12T23:29:30Z"}
 {"name":"boatramp-connect-frame","vers":"0.59.7","deps":[],"cksum":"5a98e127ae5f4cc5671492bbca3003bbc95f6831aaa6b19ed30f92676bc4c3f1","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-14T06:59:06Z"}
 {"name":"boatramp-connect-frame","vers":"0.60.0","deps":[],"cksum":"9d868ca557429dd83a7955ddff0271def99ed47ebfd84415709d6b410854db16","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-15T09:31:30Z"}
+{"name":"boatramp-connect-frame","vers":"0.61.0","deps":[],"cksum":"d30741c20fccf4311ec08e8d94a97b9639c6ea8780eda4f564ee5822ba659c35","features":{},"yanked":false,"rust_version":"1.97","pubtime":"2026-11-15T16:25:46Z"}
