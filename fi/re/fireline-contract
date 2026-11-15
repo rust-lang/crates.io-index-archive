@@ -1,2 +1,3 @@
 {"name":"fireline-contract","vers":"0.2.6","deps":[],"cksum":"527dc7b49ba86c9698c75ab35d28cca41c1907ff8a06419038a5c5922866660d","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-14T18:54:04Z"}
 {"name":"fireline-contract","vers":"0.2.9","deps":[],"cksum":"e24da057fbe6b5c21bbde6855bd7942b926d3734a8806312ef1ef61e5a1da198","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-14T20:24:45Z"}
+{"name":"fireline-contract","vers":"0.3.1","deps":[],"cksum":"38c662bca6daf44e3ee0c9c6c0bf487eb48d3d0f25994d5ab9f13564c0c95e0f","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-15T04:02:43Z"}
