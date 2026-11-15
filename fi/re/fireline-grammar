@@ -1,1 +1,2 @@
 {"name":"fireline-grammar","vers":"0.1.0","deps":[],"cksum":"85fdf8d89779343f120374a8626298d2dfd26c7641d224a6837b8c648a50b6f0","features":{},"yanked":false,"pubtime":"2026-11-08T10:49:24Z"}
+{"name":"fireline-grammar","vers":"0.3.1","deps":[],"cksum":"5d8aca259687eb2c2ec170476f2c63946135d42313ac603eab6f1bfd439c3348","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-15T04:02:44Z"}
