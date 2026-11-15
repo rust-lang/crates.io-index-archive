@@ -1,2 +1,2 @@
-{"name":"jfr_parser","vers":"0.1.0","deps":[],"cksum":"8233de9ece3d3ec887ee4a3a2d55f85ce0700fdb64280f9b86a8a1a76017e8ff","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-15T11:19:32Z"}
+{"name":"jfr_parser","vers":"0.1.0","deps":[],"cksum":"8233de9ece3d3ec887ee4a3a2d55f85ce0700fdb64280f9b86a8a1a76017e8ff","features":{},"yanked":true,"rust_version":"1.85","pubtime":"2026-11-15T11:19:32Z"}
 {"name":"jfr_parser","vers":"0.1.1","deps":[],"cksum":"cb5dcd1c29e3460438ac668d3218f5e322e8b35aa0d60650018db98936040d4b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-15T11:22:26Z"}
