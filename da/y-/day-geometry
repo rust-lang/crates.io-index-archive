@@ -9,3 +9,4 @@
 {"name":"day-geometry","vers":"0.7.3","deps":[],"cksum":"7d40825b889ea9042b8bd90050924ca1cefcb7261b397b607d16bd6c0db1b790","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-11T02:54:52Z"}
 {"name":"day-geometry","vers":"0.7.4","deps":[],"cksum":"e8a573273242de21bf3b3c2e31bc2623a5f0dfe60f9d5550af9a1d11aa31b091","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-12T21:04:28Z"}
 {"name":"day-geometry","vers":"0.7.5","deps":[],"cksum":"3095ad0c5e456c5430ad6ebdb0f1d8a45237b81db721e14bde6fd987dcdfe248","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-15T09:14:00Z"}
+{"name":"day-geometry","vers":"0.7.6","deps":[],"cksum":"814a46af02a11c7fda09199774394c017eba043db0e34227ef82f7cbd09dc144","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-16T04:25:06Z"}
