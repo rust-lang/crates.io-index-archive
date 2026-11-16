@@ -22,3 +22,4 @@
 {"name":"pagesift-stat","vers":"1.5.1","deps":[],"cksum":"e06d321f6f2ca3b6ca4e02315fb09c5e8b18e0408bd32bca5b206c68961a158c","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-15T10:02:29Z"}
 {"name":"pagesift-stat","vers":"1.5.2","deps":[],"cksum":"88b681c62f74c35ea88efbeaf230cbdee36c739df718c98a0fc22c1e907e423a","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-15T12:53:13Z"}
 {"name":"pagesift-stat","vers":"1.5.3","deps":[],"cksum":"ad146467a88b7b244066d084a3a215d8109b26c2ae6898e379243eaf796a5f87","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-15T17:11:31Z"}
+{"name":"pagesift-stat","vers":"1.5.4","deps":[],"cksum":"3cd2890065c652a4e30d6b01ff340bd9f59464182ee53ef025a10d58813c6838","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-16T03:24:16Z"}
