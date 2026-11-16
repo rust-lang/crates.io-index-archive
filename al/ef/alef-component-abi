@@ -79,3 +79,4 @@
 {"name":"alef-component-abi","vers":"0.129.7","deps":[],"cksum":"f915db92624a67489dc872bb8f548c39dfb002d5b65252b85bd37e3a3f26755e","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-15T00:07:03Z"}
 {"name":"alef-component-abi","vers":"0.129.8","deps":[],"cksum":"df80126a33c0028aea71327e62a5fb90ce0bd26d39a7f220f38be246c36175d6","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-15T01:59:15Z"}
 {"name":"alef-component-abi","vers":"0.129.9","deps":[],"cksum":"c599e502c7bdb8abe7d20760cec93ef3b7c2ae9a266deba508bfee41145b19dd","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-15T10:54:17Z"}
+{"name":"alef-component-abi","vers":"0.130.0","deps":[],"cksum":"67b0d0049bd634d265c4b837fabb8580121647a7b0199cf060d141f4f9e5b36e","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-16T08:30:12Z"}
