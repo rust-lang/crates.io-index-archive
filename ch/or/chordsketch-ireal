@@ -4,3 +4,4 @@
 {"name":"chordsketch-ireal","vers":"0.7.0","deps":[],"cksum":"8e206b7fd1b389687fab6185fb861e5105534f7bff2ee9e5f6b25fa7a756e93e","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-09-17T06:48:27Z"}
 {"name":"chordsketch-ireal","vers":"0.8.0","deps":[],"cksum":"aa0b6f25d9895992eb48b072f9a9d040b20946bebdd7668cf0259f9098e4f34e","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-05T07:26:52Z"}
 {"name":"chordsketch-ireal","vers":"0.9.0","deps":[],"cksum":"b8e32c5a1dab04cc40776e5a00232c1aa888995ac1904caf0f3b80d6802a77f2","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-10-27T19:05:48Z"}
+{"name":"chordsketch-ireal","vers":"0.9.1","deps":[],"cksum":"f5d76b7d65069d14aaf68981ef3717da4513e45db039195104e5870d6e29cad1","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-16T02:07:24Z"}
