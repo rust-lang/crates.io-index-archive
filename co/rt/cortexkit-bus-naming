@@ -16,3 +16,4 @@
 {"name":"cortexkit-bus-naming","vers":"0.3.4","deps":[],"cksum":"059309f7503eba557d5c1bcf1dfcf59f8fa978516ed0827cf79ecb62ff7fc07a","features":{},"yanked":false,"pubtime":"2026-11-10T09:23:35Z"}
 {"name":"cortexkit-bus-naming","vers":"0.4.0","deps":[],"cksum":"be84df2874202cd171f19acd2a38f6e13db498b31813a0f0e7a6e91235ddcc54","features":{},"yanked":false,"pubtime":"2026-11-15T23:33:26Z"}
 {"name":"cortexkit-bus-naming","vers":"0.4.1","deps":[],"cksum":"d3a24f2395a05513dd72156f57957fd80de801f32af20552cbc1fe4b40d86dc6","features":{},"yanked":false,"pubtime":"2026-11-16T02:33:40Z"}
+{"name":"cortexkit-bus-naming","vers":"0.4.2","deps":[],"cksum":"cb9abdb24284ac1c2086090ffa21770f86540d7c00aceffb42d2ae3bc566d02b","features":{},"yanked":false,"pubtime":"2026-11-16T04:38:03Z"}
