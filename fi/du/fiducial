@@ -41,3 +41,4 @@
 {"name":"fiducial","vers":"0.24.0","deps":[],"cksum":"8845cd9547fcd2c41f021653fadb7483b68dee364bbd7c94ad8b7af861738a31","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-15T17:41:42Z"}
 {"name":"fiducial","vers":"0.25.0","deps":[],"cksum":"eda3d47dc1ecca310bc06bb2bb9e650e2c0734c679979c6b7c7fd4d2e2be21d0","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-16T05:55:48Z"}
 {"name":"fiducial","vers":"0.26.0","deps":[],"cksum":"632a965293da183d1754079a343c9f6861ac598c58581c6d17658f574611aff0","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-16T06:47:04Z"}
+{"name":"fiducial","vers":"0.27.0","deps":[],"cksum":"b1a488da8df9782e72795f0a3e65c35b937e9591fa8af72b3b07d36e3bac83ad","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-16T07:00:30Z"}
