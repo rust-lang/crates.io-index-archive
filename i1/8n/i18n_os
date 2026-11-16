@@ -9,3 +9,4 @@
 {"name":"i18n_os","vers":"0.2.115","deps":[],"cksum":"a585afae03e53632e43893238236689ac2fee054ff7c0cb8e60d57a571788cb2","features":{},"yanked":false,"pubtime":"2026-11-12T13:16:36Z"}
 {"name":"i18n_os","vers":"0.2.123","deps":[],"cksum":"4aafbc919e70972251be2849c6ddb1d5e5879ddb49defb052b002e9728731a4c","features":{},"yanked":false,"pubtime":"2026-11-12T17:28:28Z"}
 {"name":"i18n_os","vers":"0.2.124","deps":[],"cksum":"62c3cfacd79809e1b6a373c6f182e016b1eeb8bfbfed65be7202a15239dd34f9","features":{},"yanked":false,"pubtime":"2026-11-12T19:22:01Z"}
+{"name":"i18n_os","vers":"0.2.125","deps":[{"name":"tempfile","req":"^3.27.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ea136f43158b9f9cfdfe743decbdc6a160ad864c1be73e0a6f66dd496dd89ef8","features":{},"yanked":false,"pubtime":"2026-11-16T00:12:04Z"}
