@@ -2,3 +2,4 @@
 {"name":"tauten-check-kernel","vers":"0.0.3","deps":[],"cksum":"eb2487b3ad98e4effe2ad87338572a089e616d6c26a0ebd19d51c684d27daf84","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-19T09:56:46Z"}
 {"name":"tauten-check-kernel","vers":"0.0.4","deps":[],"cksum":"6e16223a92de7ed335e3201c90dff7d84e335cc918ea197d1d52762efe76d0a0","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-20T16:14:17Z"}
 {"name":"tauten-check-kernel","vers":"0.0.5","deps":[],"cksum":"64ffa3c22861b0a073b6fdc885f645377f62c7bf078863df2a0a95d9131aa300","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-21T12:06:38Z"}
+{"name":"tauten-check-kernel","vers":"0.0.6","deps":[],"cksum":"419150691675c4dbc1f04cd1625f3c2a0e19f28d40b44ad1c13bb7c30f1c2fc7","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-21T15:59:40Z"}
