@@ -8,3 +8,4 @@
 {"name":"m3u8-parser","vers":"0.8.0","deps":[],"cksum":"9f7b64d3563dfc10ec01427b519cc694032ba5bbd54293243838916622b104d4","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-17T08:05:34Z"}
 {"name":"m3u8-parser","vers":"0.8.1","deps":[],"cksum":"8b599fb0622aac801963e52171d2103f5c05e80833c2dacd1fc968aab9397753","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-10-17T08:42:28Z"}
 {"name":"m3u8-parser","vers":"0.9.0","deps":[],"cksum":"62e956b8d8300d31e0071a716619ba76775897f856d2f49889a56b67eaef8934","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-21T22:46:46Z"}
+{"name":"m3u8-parser","vers":"0.10.0","deps":[],"cksum":"5e3c3042f3374f3e1b977d6fb4908ee0e029458fa187867c05f7698f18285b7a","features":{},"yanked":false,"rust_version":"1.82","pubtime":"2026-11-21T23:09:54Z"}
