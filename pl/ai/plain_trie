@@ -48,3 +48,4 @@
 {"name":"plain_trie","vers":"12.1.4","deps":[],"cksum":"69eca665eb1d049e81e3f66cf811f0391668cf91271d6da5f7a6199cfcb8fd89","features":{"rh-aide-tests":[],"rh-uc-tests":[],"test-ext":[]},"yanked":false,"pubtime":"2026-05-12T20:16:40Z"}
 {"name":"plain_trie","vers":"12.1.5","deps":[],"cksum":"8b4878d5259e46c40f5ab6e67a21e9d5346dd0504e13bc83ef39154ad75b876f","features":{"rh-aide-tests":[],"rh-uc-tests":[],"test-ext":[]},"yanked":false,"pubtime":"2026-07-19T20:29:47Z"}
 {"name":"plain_trie","vers":"12.1.6","deps":[],"cksum":"f884352fdfd9737e014dc729e5d2fe4851a4e6bd956a5554448699da69021eab","features":{"rh-aide-tests":[],"rh-uc-tests":[],"test-ext":[]},"yanked":false,"pubtime":"2026-08-16T19:33:38Z"}
+{"name":"plain_trie","vers":"12.1.7","deps":[],"cksum":"7f11bd25c43d1b674fe5abf33958dc6680a627b91a89501f1192295e22bf8033","features":{"rh-aide-tests":[],"rh-uc-tests":[],"test-ext":[]},"yanked":false,"pubtime":"2026-11-21T22:00:16Z"}
