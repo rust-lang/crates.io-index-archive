@@ -1,0 +1,1 @@
+{"name":"unityrs-pysum","vers":"1.0.0","deps":[{"name":"serde_json","req":"=1.0.154","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"98affd4c24ea1a9877a7023dce9149a8ba9d0e2bf716980e2cf41ef04dff8e12","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-21T19:32:02Z"}
