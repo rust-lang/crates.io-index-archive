@@ -35,3 +35,4 @@
 {"name":"lr_trie","vers":"4.1.3","deps":[],"cksum":"4e0fb6388f66ad9e0c553928b837df1d580d2ed6fc61a702a261a97a2f13ee99","features":{},"yanked":false,"pubtime":"2026-04-02T19:28:06Z"}
 {"name":"lr_trie","vers":"4.1.4","deps":[],"cksum":"2a76252c95aeb0438893084cd01096a006ef703d9a0090bfc8bb5149381e3b59","features":{},"yanked":false,"pubtime":"2026-04-19T19:15:07Z"}
 {"name":"lr_trie","vers":"4.1.5","deps":[],"cksum":"ee022d51da9388472d7eb6c560154019c8eac933054759e7a49600c6887e8035","features":{"rh-aide-tests":[],"rh-uc-tests":[]},"yanked":false,"pubtime":"2026-05-12T20:26:05Z"}
+{"name":"lr_trie","vers":"4.1.6","deps":[],"cksum":"7012ea3ea78d44696f05285e30a7f82fbedcf1a97c750bb393a96b5ce6c49b5e","features":{"rh-aide-tests":[],"rh-uc-tests":[]},"yanked":false,"pubtime":"2026-11-21T22:04:40Z"}
