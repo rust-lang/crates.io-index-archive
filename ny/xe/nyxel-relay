@@ -7,3 +7,4 @@
 {"name":"nyxel-relay","vers":"0.3.1","deps":[],"cksum":"aeee335a6d2903f6cf8d745ca3d93f9136fb6be057da625d77cf5eadf2bdccb4","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-21T13:14:01Z"}
 {"name":"nyxel-relay","vers":"0.3.2","deps":[],"cksum":"20b1ef578f4325ac725a589f467f896f06ebac0904d775f13ede8b65cba0e2c6","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-21T15:46:22Z"}
 {"name":"nyxel-relay","vers":"0.4.0","deps":[],"cksum":"5698ccb9809886a6ddc0b594eb10262fc0365ef91fda85ddc8a534fc6f72b712","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-21T17:05:26Z"}
+{"name":"nyxel-relay","vers":"0.4.1","deps":[],"cksum":"92e696007a51b15525647560c587c398b2fa212820a8c58a0aa6870cf2d95f7d","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-21T17:36:04Z"}
