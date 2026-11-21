@@ -72,3 +72,4 @@
 {"name":"pylon-replication","vers":"0.22.77","deps":[],"cksum":"cc51d9c6f37f3ea2028c4d93288645d21a70069ab8974e642591b63f785330a3","features":{},"yanked":false,"pubtime":"2026-11-19T21:55:21Z"}
 {"name":"pylon-replication","vers":"0.22.78","deps":[],"cksum":"1a3fdbc87c411d49eb38b080dfbf13131d32a1313ca4bdf52fddf95418b3a2fb","features":{},"yanked":false,"pubtime":"2026-11-20T19:53:59Z"}
 {"name":"pylon-replication","vers":"0.22.79","deps":[],"cksum":"f1922f221293b5e027f2ac9cd761e3e85c6f94fdb61b51a46b2f3ba364ae69b3","features":{},"yanked":false,"pubtime":"2026-11-21T18:34:33Z"}
+{"name":"pylon-replication","vers":"0.22.80","deps":[],"cksum":"d0c72a4a5c3d07dd5f5d8b7c20bca665440a3702c22fc51e9a6e9ef26a7872c8","features":{},"yanked":false,"pubtime":"2026-11-21T20:23:35Z"}
