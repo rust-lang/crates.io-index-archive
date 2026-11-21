@@ -12,3 +12,4 @@
 {"name":"btoprs","vers":"0.3.3","deps":[],"cksum":"8536ed30d14825cd544c5f0b8c343e299e64ee076423abcdf574bf0189ae32e8","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-14T16:21:19Z"}
 {"name":"btoprs","vers":"0.3.4","deps":[],"cksum":"4e8b175b2a7983a73a408a51759800f8536136579f68faf308ed0184b292f8ae","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-21T17:28:52Z"}
 {"name":"btoprs","vers":"0.4.0","deps":[],"cksum":"ec98c6809225bfe4c922f0a62684d501e97311c3f5135488d195a5145601c69c","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-21T19:34:23Z"}
+{"name":"btoprs","vers":"0.4.1","deps":[],"cksum":"4ad70a324457e23e5537f97a078e49ff11519bd2454cf022d085aa1824e38070","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-21T20:19:52Z"}
