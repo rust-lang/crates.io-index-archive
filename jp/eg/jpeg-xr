@@ -1,0 +1,1 @@
+{"name":"jpeg-xr","vers":"0.0.0","deps":[{"name":"png","req":"^0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"5ee71daf84eec57e19684caa8c2350149fcdd1e4c9edf4ed30703f8482b18bbf","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-21T19:08:40Z"}
