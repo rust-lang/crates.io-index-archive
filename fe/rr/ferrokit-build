@@ -1,2 +1,3 @@
 {"name":"ferrokit-build","vers":"0.9.0","deps":[],"cksum":"55df9458c90620b532bd8d211704b3ccef12a6a4f4cdfcfb4c157613c6d53c20","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-15T01:43:08Z"}
 {"name":"ferrokit-build","vers":"0.10.0","deps":[],"cksum":"77e8fa668938066f1c84aac4c904f4691111d84d5e3013419b45ee22793021c6","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-19T21:32:51Z"}
+{"name":"ferrokit-build","vers":"0.10.1","deps":[],"cksum":"c3c60b9cd88d44680bf0f2be5bb9d46c095b9349724f0d36e58f32b478980a14","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-22T02:03:53Z"}
