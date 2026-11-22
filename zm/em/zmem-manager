@@ -1,3 +1,4 @@
 {"name":"zmem-manager","vers":"0.1.0","deps":[],"cksum":"7e7d4cc69467821ea0403e11fef045cc694f8137d9f1b964ccf44c67229014ea","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-21T21:21:45Z"}
 {"name":"zmem-manager","vers":"0.1.1","deps":[],"cksum":"1c000fbd614f7f7b44e1f6387b7d9e458492fdee6ffb27966935666dc1e45cff","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-21T21:42:22Z"}
 {"name":"zmem-manager","vers":"0.1.2","deps":[],"cksum":"5b5db81595149acad4b0f8fb31c789ac781258e0fb99f627512ff4c42f449396","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-21T22:20:42Z"}
+{"name":"zmem-manager","vers":"0.2.0","deps":[],"cksum":"b5de59492f21ff699bde88453550df53341a2ec927a9989e0acb088762d63322","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-22T08:01:07Z"}
