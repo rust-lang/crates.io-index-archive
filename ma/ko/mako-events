@@ -37,3 +37,4 @@
 {"name":"mako-events","vers":"0.43.0","deps":[],"cksum":"ac3be8ef391b1dddc318ca2c2b4b789b368f87e2e8913cdf03ee277c08ba073d","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-21T01:32:58Z"}
 {"name":"mako-events","vers":"0.44.0","deps":[],"cksum":"6e1fe6181787a42d8ba641cad1a45ff65e9909c23f013e00d7e0908dbfbed518","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-21T12:18:22Z"}
 {"name":"mako-events","vers":"0.45.0","deps":[],"cksum":"d427a49a5c069a24e9ae7a5d68de70dab1793604175256d8440b8bfaebf293f4","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-21T23:14:29Z"}
+{"name":"mako-events","vers":"0.46.0","deps":[],"cksum":"fefb2eb8b47964933d972a192ec37bfca4d816e978a8af6ebf62153c0bfda81f","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-11-22T08:11:18Z"}
