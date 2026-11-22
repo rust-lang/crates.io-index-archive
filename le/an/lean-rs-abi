@@ -33,3 +33,4 @@
 {"name":"lean-rs-abi","vers":"0.10.7","deps":[],"cksum":"b5f77b191c026fde6734f8d6203572072d76279dc09dec5d29bca2fb85073603","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-11-22T04:14:13Z"}
 {"name":"lean-rs-abi","vers":"0.10.8","deps":[],"cksum":"f228a4a6c4016dae2dbc3fbd7fa8bc54a49e5cc08ae7044f62a21ce8965b0f47","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-11-22T07:20:16Z"}
 {"name":"lean-rs-abi","vers":"0.10.9","deps":[],"cksum":"03949c3d3c24dd39074637628370224476e5ca77779cf14aea539346c62c88a4","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-11-22T09:42:37Z"}
+{"name":"lean-rs-abi","vers":"0.10.10","deps":[],"cksum":"9bfdad283b3ef3a40ab589a5a90e6bc8c87468d68582195c62bc58db8b92e051","features":{},"yanked":false,"rust_version":"1.94","pubtime":"2026-11-22T11:40:24Z"}
