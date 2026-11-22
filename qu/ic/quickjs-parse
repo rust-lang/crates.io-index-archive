@@ -1,1 +1,2 @@
 {"name":"quickjs-parse","vers":"0.2.0","deps":[],"cksum":"a565bf98be13293be02424544701a5dd2f4225c9b49f35e640b1d92557a33015","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-21T15:47:57Z"}
+{"name":"quickjs-parse","vers":"0.3.0","deps":[],"cksum":"e858480c13db853ca00ab6c152b812247caefee108cfdba3a7c0cb38c61835d6","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-22T08:42:21Z"}
