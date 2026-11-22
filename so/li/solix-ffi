@@ -11,3 +11,4 @@
 {"name":"solix-ffi","vers":"1.6.3","deps":[],"cksum":"9624e9da159023eead8e803ae41b987e04bd4190a0eb1200ea4059ddc6c4a99a","features":{},"yanked":false,"pubtime":"2026-11-19T17:51:18Z"}
 {"name":"solix-ffi","vers":"1.7.0","deps":[],"cksum":"17dbffa002e817757cedfa50aa2204436a55b842bf4e1d679b4df290df099efe","features":{},"yanked":false,"pubtime":"2026-11-20T14:11:41Z"}
 {"name":"solix-ffi","vers":"1.8.0","deps":[],"cksum":"daf618072c7b9e5b44ab20476d32ab4fede4aec1390580f73c9ae9c203c71dda","features":{},"yanked":false,"pubtime":"2026-11-22T15:15:54Z"}
+{"name":"solix-ffi","vers":"1.9.0","deps":[],"cksum":"3987266ecade68cef58fba7d2d8065f9efb8cff3f6adb5635f7f88b8a9d5cfa8","features":{},"yanked":false,"pubtime":"2026-11-22T16:46:23Z"}
