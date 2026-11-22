@@ -1,0 +1,1 @@
+{"name":"orderbook-l2","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c43e3b0e50462d41ce5c898d17774414ea125ed8f0d5c850843a6f8ae8b407f2","features":{"experimental-hashmap":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-22T11:51:22Z"}
