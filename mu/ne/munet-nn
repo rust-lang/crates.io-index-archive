@@ -11,3 +11,4 @@
 {"name":"munet-nn","vers":"0.10.0","deps":[],"cksum":"07d0ee6ea8de1211cfcf9ef94caab95bea6ba6ceae48fefb114e74e7a17b5b6e","features":{},"yanked":false,"links":"munet_c","rust_version":"1.70","pubtime":"2026-11-14T14:25:22Z"}
 {"name":"munet-nn","vers":"0.11.0","deps":[],"cksum":"1cf03303179aaac77af6943f35cdc4c155f565c20cf7396bc1198bc3eb7b91fd","features":{},"yanked":false,"links":"munet_c","rust_version":"1.70","pubtime":"2026-11-16T09:24:09Z"}
 {"name":"munet-nn","vers":"0.11.1","deps":[],"cksum":"320b5038c11f2ee24ef62c04206d9c563026d78e347aca1e07502180340aa20d","features":{},"yanked":false,"links":"munet_c","rust_version":"1.70","pubtime":"2026-11-16T22:28:26Z"}
+{"name":"munet-nn","vers":"0.12.0","deps":[],"cksum":"16880a101391e260a426df0f5577a4702b77e6ea9813f36773447bdca649b081","features":{},"yanked":false,"links":"munet_c","rust_version":"1.70","pubtime":"2026-11-22T00:37:31Z"}
