@@ -5,3 +5,4 @@
 {"name":"qso-graph-dxcluster","vers":"0.3.0","deps":[],"cksum":"6fc37c173cade8bbe6c3fe57112622e6fe2e93c51241af4eeb2753ed140c9818","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-21T04:16:30Z"}
 {"name":"qso-graph-dxcluster","vers":"0.4.0","deps":[],"cksum":"5b85fda6a2fd12d3c888a467bc0120fa3a82c8a8d15e70e401a22d2812af04d5","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-22T13:24:36Z"}
 {"name":"qso-graph-dxcluster","vers":"0.5.0","deps":[],"cksum":"4552ff6ab3cc6b51b253d4409ad34106ac9c96d7f3d89c361df2e79f94087963","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-22T18:32:49Z"}
+{"name":"qso-graph-dxcluster","vers":"0.6.0","deps":[],"cksum":"e7a5444a928bb16c2985a70593c89acc84e87cee5182bf0da5bdeaa39ecb008a","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-22T23:50:48Z"}
