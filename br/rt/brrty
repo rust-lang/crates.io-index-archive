@@ -28,3 +28,4 @@
 {"name":"brrty","vers":"0.0.28","deps":[],"cksum":"4d2814aaa3da36032bc08e127d5b522df1ba72980e1f7f6e31db5987edc81b55","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-19T22:56:15Z"}
 {"name":"brrty","vers":"0.0.29","deps":[],"cksum":"94686693384fdc55e6c14df0c4f5e3072914cef758c2207dfbc5212ad041630a","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-22T00:23:17Z"}
 {"name":"brrty","vers":"0.0.30","deps":[],"cksum":"20bfc8450896bb7ce405dc2c53c859727a839db5e1305d31fa6d8b2f9f6e85a5","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-22T03:25:21Z"}
+{"name":"brrty","vers":"0.1.0","deps":[],"cksum":"04ea6062ddbac254509eefd9fcf81c58b4337e373a18abbeb63aebbc93eed5cf","features":{},"yanked":false,"rust_version":"1.89","pubtime":"2026-11-22T17:15:57Z"}
