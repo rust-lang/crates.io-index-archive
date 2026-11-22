@@ -1,0 +1,1 @@
+{"name":"litz-mcu-wit","vers":"0.1.0","deps":[{"name":"wit-parser","req":"^0.261.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"580a847c0f41dc9f4d36e77e5579e6041f610dc0c8f14ae2862990e5ea991f48","features":{},"yanked":false,"pubtime":"2026-11-22T05:42:28Z"}
