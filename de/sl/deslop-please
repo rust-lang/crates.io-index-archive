@@ -1,0 +1,1 @@
+{"name":"deslop-please","vers":"0.1.0","deps":[{"name":"serde_json","req":"^1.0.154","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26e2768b257b319b019dcf666d037d24e60d005e04eb63e1d93ed2e879338c73","features":{},"yanked":false,"pubtime":"2026-11-22T22:16:00Z"}
