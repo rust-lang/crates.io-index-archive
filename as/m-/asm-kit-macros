@@ -1,0 +1,1 @@
+{"name":"asm-kit-macros","vers":"0.2.0","deps":[{"name":"asm-kit","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"897ea968bf627d223c30d2d0de496400aa0053a73640ca6672b26be431124d2c","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-11-22T00:50:07Z"}
