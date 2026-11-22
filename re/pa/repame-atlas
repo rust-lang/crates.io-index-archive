@@ -38,3 +38,4 @@
 {"name":"repame-atlas","vers":"0.3.34","deps":[],"cksum":"0f1d01684fe843177a73a76e30e574ce7115d99b12af8ff10cd80e8ada1eb355","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-10-19T05:40:45Z"}
 {"name":"repame-atlas","vers":"0.3.35","deps":[],"cksum":"539d91a9b815e7e8803e53aec1ef6964c660bb1a54690f5329cc81c86a4854b4","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-10-21T15:43:41Z"}
 {"name":"repame-atlas","vers":"0.3.36","deps":[],"cksum":"653c4fc2431629f64bcb0153bb4c9665e77c6a7ff2714f533dc0e91244390307","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-22T08:02:00Z"}
+{"name":"repame-atlas","vers":"0.3.37","deps":[],"cksum":"91095b6e4bcbc8e8c66da80c4a5659c879a551e08a04ea7ed733d95d74377874","features":{},"yanked":false,"rust_version":"1.98","pubtime":"2026-11-22T08:49:02Z"}
