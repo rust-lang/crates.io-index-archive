@@ -55,3 +55,4 @@
 {"name":"day-fonts","vers":"0.7.7","deps":[],"cksum":"e4aca1dbe7c03d1283e5ba4f5cfe382a07fdf2b0d0f8ec323cf0dea4254506c6","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-17T03:23:39Z"}
 {"name":"day-fonts","vers":"0.7.8","deps":[],"cksum":"262d5fa577e9d7413f87a98e5ad229db5ff6cc0a7fb3bd87cf18b3924a1cc4db","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-19T07:54:10Z"}
 {"name":"day-fonts","vers":"0.7.9","deps":[],"cksum":"ab64f07b281a74bc24b9cb029e88c91423c54e51d4e076a795fdbe56bdfb75e3","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-22T05:20:06Z"}
+{"name":"day-fonts","vers":"0.7.10","deps":[],"cksum":"6e7f73be80514255baa9ab81577c5894caab7ddb0963593a097a4f7dd6561847","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-22T22:59:25Z"}
