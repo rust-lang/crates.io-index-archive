@@ -1,2 +1,3 @@
 {"name":"formatkit-corpus","vers":"0.1.0","deps":[],"cksum":"363ac707210646dae62c0b301203ba6d38ff7ca050ecb1345241f32f973f7c09","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-10-09T19:36:17Z"}
 {"name":"formatkit-corpus","vers":"0.1.1","deps":[],"cksum":"0814fb553c1ff14096c5625d23366609a99bb663ac1dd0cd0bddf0af71314a7c","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-11-21T23:36:42Z"}
+{"name":"formatkit-corpus","vers":"0.1.2","deps":[],"cksum":"1e6f24218000832249bf8d2e5ef155ce75aa94cd795df6fa42f68a5c6c48a8a7","features":{},"yanked":false,"rust_version":"1.94.1","pubtime":"2026-11-22T00:58:01Z"}
