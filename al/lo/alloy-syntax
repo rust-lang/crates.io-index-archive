@@ -24,3 +24,4 @@
 {"name":"alloy-syntax","vers":"0.2.0-rc.3","deps":[],"cksum":"0ec3c45e5d177c93a8dcd2c9783eb0ffb0495424caa505eef851e89c82c099e8","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-21T02:03:06Z"}
 {"name":"alloy-syntax","vers":"0.2.0-rc.4","deps":[],"cksum":"d94c3e5233235f75154f4c08a63fc38ea0a975d3cff5a7b02166d993593665b4","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-21T16:39:08Z"}
 {"name":"alloy-syntax","vers":"0.2.0-rc.5","deps":[],"cksum":"6fd764c60fb8e266bbaab516561c9dc95d86a6ce4af054922c6f2a866549562d","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-21T20:47:59Z"}
+{"name":"alloy-syntax","vers":"0.2.0-rc.6","deps":[],"cksum":"e09d8615299ce5bf46b4a956dd32075dda6208a19f3f5b72c8e3a0ed756e4dcc","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-22T04:18:55Z"}
