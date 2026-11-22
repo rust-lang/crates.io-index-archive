@@ -4,3 +4,4 @@
 {"name":"rustx-dom","vers":"0.4.0","deps":[],"cksum":"8f438fca12f1532cbfb81271f309705be99a67558aee1724aa65ca4569cd64c8","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-15T05:41:21Z"}
 {"name":"rustx-dom","vers":"0.4.1","deps":[],"cksum":"9eea9d11f5897acd08e9906da0aa48b0d63da1302f5f038fec78b41c64368747","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-15T23:38:14Z"}
 {"name":"rustx-dom","vers":"0.5.0","deps":[],"cksum":"ada4d99c9a3a3e5046947d429009f50986f1fdcef98dc8b31879e3be2e28571a","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-21T21:30:11Z"}
+{"name":"rustx-dom","vers":"0.5.1","deps":[],"cksum":"d212f6bc698add6b04f771797ef2f50fcb4538d087964db3de9d719325d0d18a","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-22T14:58:15Z"}
