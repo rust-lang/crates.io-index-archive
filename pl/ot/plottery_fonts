@@ -14,3 +14,4 @@
 {"name":"plottery_fonts","vers":"0.20.0","deps":[],"cksum":"b484f9325ad91a6ece95272d9941f0598914ecf9da4b17a90ca4191f178b15a2","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-19T22:31:12Z"}
 {"name":"plottery_fonts","vers":"0.20.1","deps":[],"cksum":"d6384361ef5b72f504ce9ac9292e9f4fe2fdbbfa99199ba78210d871a64f4f6f","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-20T19:47:13Z"}
 {"name":"plottery_fonts","vers":"0.21.0","deps":[],"cksum":"03969d2946c686ab0940e1ced010fb3b3e3ea51e86635af58cb4d72a012130c9","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-22T10:11:09Z"}
+{"name":"plottery_fonts","vers":"0.22.0","deps":[],"cksum":"8209995381b90e4816aa3053d5be63f924fb3a2e86d5b2de1917568b620fe1f4","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-22T15:39:01Z"}
