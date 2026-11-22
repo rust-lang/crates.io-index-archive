@@ -6,3 +6,4 @@
 {"name":"demesne-gocompat","vers":"4.0.0","deps":[],"cksum":"b21e84bbb5a035915729edb400b622b06b624eb5bdcdc9d4d1f3167574c0d7b0","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-13T13:32:40Z"}
 {"name":"demesne-gocompat","vers":"5.0.0","deps":[],"cksum":"20f2656e8e7b049b6e65c2958a979449186ac9a0694abaae575566210d6db4a9","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-19T16:16:54Z"}
 {"name":"demesne-gocompat","vers":"5.0.1","deps":[],"cksum":"5429d9613c4e31a73a949708701533d44622a2db977ef7601f81b566735139d5","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-21T20:07:26Z"}
+{"name":"demesne-gocompat","vers":"6.0.0","deps":[],"cksum":"3987ccbbd7e0ff71380cdc6909821888a9cee9f82c8c16ed4e831d4701057ccf","features":{},"yanked":false,"rust_version":"1.99","pubtime":"2026-11-22T15:50:59Z"}
