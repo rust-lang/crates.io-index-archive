@@ -22,3 +22,4 @@
 {"name":"rff-resample","vers":"0.6.3","deps":[],"cksum":"dcaa9687b0531958ce0f278e0cbdbb3bcb36e5d4e2353bbe4f4d77f3663da13e","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-19T15:01:22Z"}
 {"name":"rff-resample","vers":"0.7.0","deps":[],"cksum":"fba7606451676fe7dbfb0cd4817bce666c130d81ea18576ed2b76f7296e72961","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-21T02:18:25Z"}
 {"name":"rff-resample","vers":"0.8.0","deps":[],"cksum":"66d082e4005460eb82ab94fe07d819fb8ca60c2144b7424b394056d1d325f76b","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-21T18:53:35Z"}
+{"name":"rff-resample","vers":"0.8.1","deps":[],"cksum":"d036a9e0139cee11e1679982ed005ca644f3c91c6116ca8e7e19cc5ae609bd71","features":{},"yanked":false,"rust_version":"1.85","pubtime":"2026-11-22T01:41:13Z"}
