@@ -1,0 +1,1 @@
+{"name":"ybus_ipm","vers":"0.1.0","deps":[{"name":"ybus_sparse","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ecf517cdc62f55190c693f1f5e604b7a6affb7f6cca50bc8131c5a46e2524b4d","features":{"rayon":["ybus_sparse/rayon"]},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-22T16:51:19Z"}
