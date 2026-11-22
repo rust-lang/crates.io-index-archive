@@ -12,3 +12,4 @@
 {"name":"nyxel-relay","vers":"0.4.3","deps":[],"cksum":"8dbdd6f0808775083c0271c7c89413baee31076588f2f88106e640fd2fa68a43","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-21T23:35:49Z"}
 {"name":"nyxel-relay","vers":"0.4.4","deps":[],"cksum":"960e99d001a5a6564a81e5206b01bf62f0e982b8590c4f5be48ea763ea7c1412","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-22T01:11:32Z"}
 {"name":"nyxel-relay","vers":"0.4.5","deps":[],"cksum":"175949ef0f73a90bb6f49271311f2ec9cc7459d3fec0eecfdc1baef994da88b7","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-22T01:32:12Z"}
+{"name":"nyxel-relay","vers":"0.4.6","deps":[],"cksum":"d46ee068c133a6adbe552469829ea848ae62bb74266bd139b500db198292969c","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-22T10:46:16Z"}
