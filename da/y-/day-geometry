@@ -12,3 +12,4 @@
 {"name":"day-geometry","vers":"0.7.6","deps":[],"cksum":"814a46af02a11c7fda09199774394c017eba043db0e34227ef82f7cbd09dc144","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-16T04:25:06Z"}
 {"name":"day-geometry","vers":"0.7.7","deps":[],"cksum":"7fe3bc7af65942cb4523bfceb61d3417efe7baf9af1e221273c3301c7ba3957f","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-17T03:23:41Z"}
 {"name":"day-geometry","vers":"0.7.8","deps":[],"cksum":"0050aff7576ea9ee1bf5ec70d87f989db6545ddf98e13950a4b138619b6f8bd3","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-19T07:54:12Z"}
+{"name":"day-geometry","vers":"0.7.9","deps":[],"cksum":"84145b780b7d550ec45c62863026c7652a28c16055eb2daebb0c3288f8e7e5a0","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-22T05:20:08Z"}
