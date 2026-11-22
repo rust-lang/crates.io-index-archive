@@ -19,3 +19,4 @@
 {"name":"kiss-bench","vers":"0.0.39","deps":[],"cksum":"45c51d53dbf3d95e84f18684ecdd97f4c3217e781e4a5a1fc36a97036ba6c7b5","features":{},"yanked":false,"pubtime":"2026-11-10T00:07:30Z"}
 {"name":"kiss-bench","vers":"0.0.40","deps":[],"cksum":"3074d32816b923ea492649bf533166e4818f646de214f86b919df6f4fdd3a9b1","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-15T05:54:44Z"}
 {"name":"kiss-bench","vers":"0.0.41","deps":[],"cksum":"38f594f1117fa585940f36857ec7d6030b567bbeb5772aa8fffc4ac89127d8da","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-18T18:23:06Z"}
+{"name":"kiss-bench","vers":"0.0.42","deps":[],"cksum":"b39e0adbe69455a4d7f8f55523c40e0b8ca2e35e53c1ee2d782fd2db7b178950","features":{},"yanked":false,"rust_version":"1.100","pubtime":"2026-11-22T22:37:10Z"}
