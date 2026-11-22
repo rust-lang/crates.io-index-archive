@@ -64,3 +64,4 @@
 {"name":"pipetest","vers":"2026.11.19","deps":[],"cksum":"1be1457acddff4af212856ded1eacb9013d8ac9e95e6220276111686c39e5cbc","features":{},"yanked":false,"pubtime":"2026-11-19T01:03:39Z"}
 {"name":"pipetest","vers":"2026.11.20","deps":[],"cksum":"9e9efbe449b4629e88b81a2988fc5df76862a73a79d02db2523a8e8cc70f2a3f","features":{},"yanked":false,"pubtime":"2026-11-20T01:03:38Z"}
 {"name":"pipetest","vers":"2026.11.21","deps":[],"cksum":"1deee46042c31efe1cfa3d725e3886de28880ebca70d0029eb188ecbd85085f8","features":{},"yanked":false,"pubtime":"2026-11-21T01:03:37Z"}
+{"name":"pipetest","vers":"2026.11.22","deps":[],"cksum":"c45526192c1b0f157f7ee4527305e4f8ff9b14ab4fd0cabad0f31031e4eb5b02","features":{},"yanked":false,"pubtime":"2026-11-22T01:03:36Z"}
