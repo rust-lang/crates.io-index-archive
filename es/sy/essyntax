@@ -1,0 +1,1 @@
+{"name":"essyntax","vers":"0.1.0-dev.3","deps":[{"name":"crc32fast","req":"^1.5.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a66cecc1e5199d77fb0fb8eae353e6e6d85e83f81389420f22adb0648bd4d685","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-23T05:39:45Z"}
