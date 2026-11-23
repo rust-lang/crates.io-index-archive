@@ -1,0 +1,1 @@
+{"name":"waft-service-protocol","vers":"0.10.0","deps":[{"name":"serde_json","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"468f4936fd98a25b768d26793997132b6f9059910af32a0f7dc37cbe81590b6a","features":{},"yanked":false,"pubtime":"2026-11-23T06:21:36Z"}
