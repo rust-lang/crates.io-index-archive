@@ -14,3 +14,4 @@
 {"name":"retex-diag","vers":"2.0.0","deps":[],"cksum":"fafda5e73a1abbcdc4dd4ecf122d9489290e0db3599d576f210c95487aa444c8","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-22T09:05:23Z"}
 {"name":"retex-diag","vers":"2.1.0","deps":[],"cksum":"d0b78aa34c02650ef621e5be100605f83e790a672e21d6cc36527f926ffeebb4","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-22T15:30:22Z"}
 {"name":"retex-diag","vers":"2.2.0","deps":[],"cksum":"e50d2aacc31b98a1951407a468e2f80aaf7c61959ada64f67c28c5a6236b1b36","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-22T20:01:07Z"}
+{"name":"retex-diag","vers":"2.3.0","deps":[],"cksum":"016e219ea26a90ee7a084e0f1367cf77696099a26e21552407ac77e1cc79c91b","features":{},"yanked":false,"rust_version":"1.88","pubtime":"2026-11-23T08:03:49Z"}
